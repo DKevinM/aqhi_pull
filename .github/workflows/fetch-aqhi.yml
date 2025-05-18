@@ -33,4 +33,5 @@ jobs:
           add: 'data/**/*.csv'
           message: 'AQHI update (Python hourly)'
           default_author: github_actions
-          pull_strategy: NO-PULL
+          pull: false
+          push: --force
