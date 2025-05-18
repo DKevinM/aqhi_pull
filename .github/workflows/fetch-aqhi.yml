@@ -19,20 +19,20 @@ jobs:
       - name: Set up R
         uses: r-lib/actions/setup-r@v2
         with:
-          r-version: '4.3.2'
+          r-version: '4.5.0'
 
       - name: Install dependencies
         uses: r-lib/actions/setup-r-dependencies@v2
         with:
           cache-version: 2
           extra-packages: |
-            any::httr
-            any::jsonlite
-            any::dplyr
-            any::lubridate
-            any::purrr
-            any::readr
-            any::fs
+            httr
+            jsonlite
+            dplyr
+            lubridate
+            purrr
+            readr
+            fs
 
 
       - name: Run AQHI fetch script
