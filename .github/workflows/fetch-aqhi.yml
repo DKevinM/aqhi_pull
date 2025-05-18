@@ -25,7 +25,6 @@ jobs:
         uses: r-lib/actions/setup-r-dependencies@v2
         with:
           cache-version: 2
-          pak: true
           extra-packages: |
             any::httr
             any::jsonlite
@@ -34,6 +33,7 @@ jobs:
             any::purrr
             any::readr
             any::fs
+
 
       - name: Run AQHI fetch script
         run: Rscript scripts/fetch_aqhi.R
