@@ -98,8 +98,10 @@ for stn in stations:
         
         if file_path.exists():
             print(f"📄 Found: {file_path}")
-            try:
-                df = pd.read_csv(file_path)
+        try:
+            df = pd.read_csv(file_path)
+            if not df.empty:
+                print(f"✅ Read {len(df)} rows from {file_path}")
                 df["StationName"] = stn["StationName"]
                 df["Zone"] = zone
                 all_data.append(df)
@@ -107,8 +109,6 @@ for stn in stations:
                 print(f"⚠️ {file_path} is empty.")
         except Exception as e:
             print(f"❌ ERROR reading {file_path}: {e}")
-    else:
-        print(f"❌ File does not exist: {file_path}")
 
    
     if all_data:
