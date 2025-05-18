@@ -36,3 +36,5 @@ jobs:
           pull: false
           push: --force
 
+  env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
