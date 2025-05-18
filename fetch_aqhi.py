@@ -79,7 +79,7 @@ for stn in stations:
             print(f"No data and no previous file for {stn['StationName']}.")
 
 
-    # === Write summary.csv safely ===
+    # === Write summary.csv safely ===   
     if summary:
         summary_df = pd.DataFrame(summary)
         summary_df.to_csv("data/summary.csv", index=False)
@@ -88,29 +88,32 @@ for stn in stations:
         print("⚠️ No summary data written. No successful fetches.")
     
     # === Combine all CSVs into aqhi_all.csv ===
+    print("\n🔍 Starting combination of station files...")
     all_data = []
     
     for stn in stations:
         zone = stn["Zone"]
         clean_name = stn["StationName"].replace("’", "").replace("'", "").replace(" ", "_")
         file_path = Path("data") / zone / f"{clean_name}.csv"
-    
+        
         if file_path.exists():
+            print(f"📄 Found: {file_path}")
             try:
                 df = pd.read_csv(file_path)
                 df["StationName"] = stn["StationName"]
                 df["Zone"] = zone
                 all_data.append(df)
-                print(f"✅ Added {file_path}")
-            except Exception as e:
-                print(f"⚠️ Could not read {file_path}: {e}")
-        else:
-            print(f"⚠️ File not found: {file_path}")
-    
+            else:
+                print(f"⚠️ {file_path} is empty.")
+        except Exception as e:
+            print(f"❌ ERROR reading {file_path}: {e}")
+    else:
+        print(f"❌ File does not exist: {file_path}")
+
+   
     if all_data:
         combined_df = pd.concat(all_data, ignore_index=True)
         combined_df.to_csv("data/aqhi_all.csv", index=False)
-        print(f"✅ Wrote: data/aqhi_all.csv with {len(combined_df)} rows from {len(all_data)} stations.")
+        print(f"\n✅ Wrote: data/aqhi_all.csv with {len(combined_df)} total rows.")
     else:
-        print("⚠️ No data available to write data/aqhi_all.csv.")
-
+        print("\n⚠️ No valid data found. aqhi_all.csv not written.")
