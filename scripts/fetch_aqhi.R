@@ -32,3 +32,12 @@ walk(seq_len(nrow(stations)), function(i) {
 # Optional combined master CSV (uncomment if you want it) -------------
  all_df <- purrr::map_dfr(stations$StationName, fetchAndProcessWeek)
  readr::write_csv(all_df, "data/all_stations.csv")
+
+# ---- Create summary.csv --------------------------------------------
+summary_df <- bind_rows(fetch_log) |>
+  left_join(stations, by = "StationName") |>
+  select(StationName, Zone, Lat, Lon, LastReading) |>
+  arrange(Zone, StationName)
+
+write_csv(summary_df, "data/summary.csv")
+cat("Wrote summary.csv with", nrow(summary_df), "stations\n")
