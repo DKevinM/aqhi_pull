@@ -1,8 +1,8 @@
-name: Fetch AQHI Data Hourly at :15
+name: Fetch AQHI (Python)
 
 on:
   schedule:
-    - cron: '15 * * * *'  # Every hour at 15 minutes past (UTC)
+    - cron: '15 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -13,36 +13,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Set up R
-        uses: r-lib/actions/setup-r@v2
+      - name: Set up Python
+        uses: actions/setup-python@v4
         with:
-          r-version: '4.5.0'
+          python-version: '3.11'
 
       - name: Install dependencies
-        uses: r-lib/actions/setup-r-dependencies@v2
-        with:
-          cache-version: 2
-          dependencies: false
-          extra-packages: |
-            httr
-            jsonlite
-            dplyr
-            lubridate
-            purrr
-            readr
-            fs
+        run: pip install pandas requests
 
+      - name: Run fetch_aqhi.py
+        run: python fetch_aqhi.py
 
-      - name: Run AQHI fetch script
-        run: Rscript scripts/fetch_aqhi.R
-
-      - name: Commit and push results
+      - name: Commit data
         uses: EndBug/add-and-commit@v9
         with:
           add: 'data/**/*.csv'
-          message: 'AQHI data update at :15 past the hour'
+          message: 'AQHI update (Python hourly)'
           default_author: github_actions
-
