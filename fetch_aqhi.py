@@ -49,7 +49,7 @@ def fetch_data(station, days=7):
         data = response.json().get("value", [])
         return pd.DataFrame(data)
     except Exception as e:
-        print(f"⚠️ Failed to fetch {station}: {e}")
+        print(f"Failed to fetch {station}: {e}")
         return pd.DataFrame()
 
 Path("data").mkdir(exist_ok=True)
