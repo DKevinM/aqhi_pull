@@ -1,7 +1,6 @@
 import pandas as pd
 
-# Define known station CSV URLs
-station_files = [
+aca_urls = [
     "https://github.com/DKevinM/aqhi_pull/blob/main/data/ACA/Edmonton McCauley.csv",
     "https://github.com/DKevinM/aqhi_pull/blob/main/data/ACA/St. Albert.csv",
     "https://github.com/DKevinM/aqhi_pull/blob/main/data/ACA/Woodcroft.csv",
@@ -12,36 +11,42 @@ station_files = [
     "https://github.com/DKevinM/aqhi_pull/blob/main/data/ACA/O’Morrow Station 1.csv",
     "https://github.com/DKevinM/aqhi_pull/blob/main/data/ACA/Poacher’s Landing Station 2.csv",
     "https://github.com/DKevinM/aqhi_pull/blob/main/data/ACA/Leduc Sensor.csv",
-    
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/new/main/data/ACA/Edmonton_McCauley.csv",
-    "https://raw.githubusercontent.com/youruser/yourrepo/main/data/ACA/Woodcroft.csv",
-    "https://raw.githubusercontent.com/youruser/yourrepo/main/data/WCAS/St_Albert.csv",
-
-StationName = c("", "", "", "", "",
-                  "", "", "", "", "",
-                  "Breton", "Carrot Creek", "Drayton Valley", "Edson", "Genesee", "Hinton-Drinnan", "Meadows", 
-                  "Powers", "Steeper", "Wagner2", "Hinton-Hillcrest", "Jasper", "Enoch"),
-    
-    "https://raw.githubusercontent.com/youruser/yourrepo/main/data/WCAS/Carrot_Creek.csv",
-    # Add all 23 here manually or dynamically generate
+    "https://github.com/DKevinM/aqhi_pull/blob/main/data/ACA/Enoch.csv"
 ]
 
-combined = []
+wcas_urls = [
+    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Breton.csv",
+    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Carrot Creek.csv",
+    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Drayton Valley.csv",
+    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Edson.csv",
+    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Genesee.csv",
+    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Hinton-Drinnan.csv",
+    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Meadows.csv",
+    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Powers.csv",
+    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Steeper.csv",
+    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Wagner2.csv",
+    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Hinton-Hillcrest.csv",
+    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Jasper.csv"
+]
 
-for url in station_files:
-    try:
-        df = pd.read_csv(url)
-        df["SourceURL"] = url
-        df["Zone"] = "ACA" if "/ACA/" in url else "WCAS"
-        df["StationName"] = url.split("/")[-1].replace(".csv", "")
-        combined.append(df)
-    except Exception as e:
-        print(f"Error reading {url}: {e}")
+def combine_csvs(urls, zone_label):
+    combined = []
+    for url in urls:
+        try:
+            df = pd.read_csv(url)
+            df["Zone"] = zone_label
+            df["StationName"] = url.split("/")[-1].replace(".csv", "")
+            combined.append(df)
+        except Exception as e:
+            print(f"Error reading {url}: {e}")
+    return pd.concat(combined, ignore_index=True) if combined else pd.DataFrame()
 
-# Combine all into one DataFrame
-combined_df = pd.concat(combined, ignore_index=True)
-combined_df.dropna(subset=["Value"], inplace=True)
 
-# Save locally or push to GitHub
-combined_df.to_csv("combined_station_data.csv", index=False)
-print("Combined data saved as combined_station_data.csv")
+# Combine separately
+aca_combined = combine_csvs(aca_urls, "ACA")
+wcas_combined = combine_csvs(wcas_urls, "WCAS")
+
+# Save
+aca_combined.to_csv("data/ACA_combined.csv", index=False)
+wcas_combined.to_csv("data/WCAS_combined.csv", index=False)
+
