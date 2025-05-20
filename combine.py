@@ -1,16 +1,16 @@
 import pandas as pd
 
 aca_urls = [
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Edmonton%20McCauley.csv",
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/St.%20Albert.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Edmonton_McCauley.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/St._Albert.csv",
     "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Woodcroft.csv",
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Edmonton%20East.csv",
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Edmonton%20Lendrum.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Edmonton_East.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Edmonton_Lendrum.csv",
     "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Ardrossan.csv",
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Sherwood%20Park.csv",
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/O%E2%80%99Morrow%20Station%201.csv",
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Poacher%E2%80%99s%20Landing%20Station%202.csv",
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Leduc%20Sensor.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Sherwood_Park.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/OMorrow_Station_1.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Poachers_Landing_Station_2.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Leduc_Sensor.csv",
     "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Enoch.csv"
 ]
 
