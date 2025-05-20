@@ -15,19 +15,20 @@ aca_urls = [
 ]
 
 wcas_urls = [
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Breton.csv",
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Carrot%20Creek.csv",
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Drayton%20Valley.csv",
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Edson.csv",
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Genesee.csv",
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Hinton-Drinnan.csv",
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Meadows.csv",
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Powers.csv",
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Steeper.csv",
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Wagner2.csv",
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Hinton-Hillcrest.csv",
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Jasper.csv"
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/WCAS/Breton.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/WCAS/Carrot%20Creek.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/WCAS/Drayton%20Valley.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/WCAS/Edson.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/WCAS/Genesee.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/WCAS/Hinton-Drinnan.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/WCAS/Meadows.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/WCAS/Powers.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/WCAS/Steeper.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/WCAS/Wagner2.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/WCAS/Hinton-Hillcrest.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/WCAS/Jasper.csv"
 ]
+
 
 def combine_csvs(urls, zone_label):
     combined = []
