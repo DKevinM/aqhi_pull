@@ -23,7 +23,7 @@ jobs:
         run: pip install pandas requests
 
       - name: Run combination script
-        run: python combine_from_github_api.py
+        run: python combine.py
 
       - name: Commit and push combined files
         run: |
