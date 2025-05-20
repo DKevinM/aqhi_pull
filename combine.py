@@ -16,8 +16,8 @@ aca_urls = [
 
 wcas_urls = [
     "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/WCAS/Breton.csv",
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/WCAS/Carrot%20Creek.csv",
-    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/WCAS/Drayton%20Valley.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/WCAS/Carrot_Creek.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/WCAS/Drayton_Valley.csv",
     "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/WCAS/Edson.csv",
     "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/WCAS/Genesee.csv",
     "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/WCAS/Hinton-Drinnan.csv",
