@@ -1,32 +1,32 @@
 import pandas as pd
 
 aca_urls = [
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/ACA/Edmonton McCauley.csv",
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/ACA/St. Albert.csv",
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/ACA/Woodcroft.csv",
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/ACA/Edmonton East.csv",
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/ACA/Edmonton Lendrum.csv",
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/ACA/Ardrossan.csv",
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/ACA/Sherwood Park.csv",
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/ACA/O’Morrow Station 1.csv",
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/ACA/Poacher’s Landing Station 2.csv",
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/ACA/Leduc Sensor.csv",
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/ACA/Enoch.csv"
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Edmonton%20McCauley.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/St.%20Albert.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Woodcroft.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Edmonton%20East.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Edmonton%20Lendrum.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Ardrossan.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Sherwood%20Park.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/O%E2%80%99Morrow%20Station%201.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Poacher%E2%80%99s%20Landing%20Station%202.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Leduc%20Sensor.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/main/data/ACA/Enoch.csv"
 ]
 
 wcas_urls = [
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Breton.csv",
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Carrot Creek.csv",
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Drayton Valley.csv",
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Edson.csv",
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Genesee.csv",
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Hinton-Drinnan.csv",
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Meadows.csv",
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Powers.csv",
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Steeper.csv",
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Wagner2.csv",
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Hinton-Hillcrest.csv",
-    "https://github.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Jasper.csv"
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Breton.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Carrot%20Creek.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Drayton%20Valley.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Edson.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Genesee.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Hinton-Drinnan.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Meadows.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Powers.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Steeper.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Wagner2.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Hinton-Hillcrest.csv",
+    "https://raw.githubusercontent.com/DKevinM/aqhi_pull/blob/main/data/WCAS/Jasper.csv"
 ]
 
 def combine_csvs(urls, zone_label):
