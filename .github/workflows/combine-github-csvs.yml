@@ -1,0 +1,33 @@
+name: Auto-combine ACA/WCAS station CSVs
+
+on:
+  schedule:
+    - cron: '30 * * * *'  # every hour
+  workflow_dispatch:
+
+jobs:
+  combine:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.10
+
+      - name: Install dependencies
+        run: pip install pandas requests
+
+      - name: Run combination script
+        run: python combine_from_github_api.py
+
+      - name: Commit and push combined files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ACA_combined.csv data/WCAS_combined.csv
+          git commit -m "Auto-update ACA and WCAS combined data"
+          git push
