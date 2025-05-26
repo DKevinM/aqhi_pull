@@ -1,4 +1,14 @@
 StationName,ParameterName,ReadingDate,Value
+Enoch,Outdoor Temperature,2025-05-26T16:00:00-06:00,28.1
+Enoch,Fine Particulate Matter,2025-05-26T16:00:00-06:00,4.7
+Enoch,Wind Speed,2025-05-26T16:00:00-06:00,11.8
+Enoch,Ozone,2025-05-26T16:00:00-06:00,0.054
+Enoch,Nitrogen Dioxide,2025-05-26T16:00:00-06:00,0.002
+Enoch,Total Oxides of Nitrogen,2025-05-26T16:00:00-06:00,0.003
+Enoch,Nitric Oxide,2025-05-26T16:00:00-06:00,0.0
+Enoch,Wind Direction,2025-05-26T16:00:00-06:00,194.0
+Enoch,Relative Humidity,2025-05-26T16:00:00-06:00,26.1
+Enoch,,2025-05-26T16:00:00-06:00,3.0
 Enoch,,2025-05-26T15:00:00-06:00,3.0
 Enoch,Wind Direction,2025-05-26T15:00:00-06:00,170.0
 Enoch,Outdoor Temperature,2025-05-26T15:00:00-06:00,28.1
@@ -9,8 +19,6 @@ Enoch,Nitrogen Dioxide,2025-05-26T15:00:00-06:00,0.002
 Enoch,Fine Particulate Matter,2025-05-26T15:00:00-06:00,5.2
 Enoch,Nitric Oxide,2025-05-26T15:00:00-06:00,0.0
 Enoch,Wind Speed,2025-05-26T15:00:00-06:00,10.9
-Enoch,Nitrogen Dioxide,2025-05-26T14:00:00-06:00,0.002
-Enoch,Wind Direction,2025-05-26T14:00:00-06:00,170.0
 Enoch,Nitric Oxide,2025-05-26T14:00:00-06:00,0.0
 Enoch,Wind Speed,2025-05-26T14:00:00-06:00,11.8
 Enoch,Fine Particulate Matter,2025-05-26T14:00:00-06:00,5.9
@@ -19,6 +27,8 @@ Enoch,Relative Humidity,2025-05-26T14:00:00-06:00,31.3
 Enoch,Outdoor Temperature,2025-05-26T14:00:00-06:00,27.2
 Enoch,Ozone,2025-05-26T14:00:00-06:00,0.047
 Enoch,,2025-05-26T14:00:00-06:00,3.0
+Enoch,Wind Direction,2025-05-26T14:00:00-06:00,170.0
+Enoch,Nitrogen Dioxide,2025-05-26T14:00:00-06:00,0.002
 Enoch,Nitric Oxide,2025-05-26T13:00:00-06:00,0.0
 Enoch,Fine Particulate Matter,2025-05-26T13:00:00-06:00,5.3
 Enoch,Wind Direction,2025-05-26T13:00:00-06:00,141.0
@@ -29,36 +39,36 @@ Enoch,Outdoor Temperature,2025-05-26T13:00:00-06:00,24.9
 Enoch,Relative Humidity,2025-05-26T13:00:00-06:00,37.6
 Enoch,Nitrogen Dioxide,2025-05-26T13:00:00-06:00,0.002
 Enoch,,2025-05-26T13:00:00-06:00,2.0
-Enoch,,2025-05-26T12:00:00-06:00,2.0
-Enoch,Fine Particulate Matter,2025-05-26T12:00:00-06:00,4.9
-Enoch,Ozone,2025-05-26T12:00:00-06:00,0.035
-Enoch,Wind Direction,2025-05-26T12:00:00-06:00,143.0
-Enoch,Outdoor Temperature,2025-05-26T12:00:00-06:00,22.6
-Enoch,Wind Speed,2025-05-26T12:00:00-06:00,9.0
-Enoch,Nitrogen Dioxide,2025-05-26T12:00:00-06:00,0.003
-Enoch,Nitric Oxide,2025-05-26T12:00:00-06:00,0.001
-Enoch,Total Oxides of Nitrogen,2025-05-26T12:00:00-06:00,0.004
 Enoch,Relative Humidity,2025-05-26T12:00:00-06:00,43.6
-Enoch,Ozone,2025-05-26T11:00:00-06:00,0.03
-Enoch,Wind Direction,2025-05-26T11:00:00-06:00,137.0
-Enoch,Nitrogen Dioxide,2025-05-26T11:00:00-06:00,0.003
-Enoch,Relative Humidity,2025-05-26T11:00:00-06:00,47.7
+Enoch,Total Oxides of Nitrogen,2025-05-26T12:00:00-06:00,0.004
+Enoch,Nitric Oxide,2025-05-26T12:00:00-06:00,0.001
+Enoch,Nitrogen Dioxide,2025-05-26T12:00:00-06:00,0.003
+Enoch,Wind Speed,2025-05-26T12:00:00-06:00,9.0
+Enoch,Outdoor Temperature,2025-05-26T12:00:00-06:00,22.6
+Enoch,Wind Direction,2025-05-26T12:00:00-06:00,143.0
+Enoch,Ozone,2025-05-26T12:00:00-06:00,0.035
+Enoch,Fine Particulate Matter,2025-05-26T12:00:00-06:00,4.9
+Enoch,,2025-05-26T12:00:00-06:00,2.0
+Enoch,Outdoor Temperature,2025-05-26T11:00:00-06:00,20.7
 Enoch,Wind Speed,2025-05-26T11:00:00-06:00,8.9
+Enoch,Relative Humidity,2025-05-26T11:00:00-06:00,47.7
+Enoch,Nitrogen Dioxide,2025-05-26T11:00:00-06:00,0.003
+Enoch,Wind Direction,2025-05-26T11:00:00-06:00,137.0
+Enoch,Ozone,2025-05-26T11:00:00-06:00,0.03
 Enoch,Nitric Oxide,2025-05-26T11:00:00-06:00,0.001
 Enoch,Total Oxides of Nitrogen,2025-05-26T11:00:00-06:00,0.004
 Enoch,Fine Particulate Matter,2025-05-26T11:00:00-06:00,4.5
 Enoch,,2025-05-26T11:00:00-06:00,2.0
-Enoch,Outdoor Temperature,2025-05-26T11:00:00-06:00,20.7
-Enoch,Nitrogen Dioxide,2025-05-26T10:00:00-06:00,0.003
-Enoch,Ozone,2025-05-26T10:00:00-06:00,0.028
-Enoch,Wind Speed,2025-05-26T10:00:00-06:00,7.6
-Enoch,Relative Humidity,2025-05-26T10:00:00-06:00,50.6
-Enoch,Total Oxides of Nitrogen,2025-05-26T10:00:00-06:00,0.004
 Enoch,,2025-05-26T10:00:00-06:00,2.0
 Enoch,Nitric Oxide,2025-05-26T10:00:00-06:00,0.001
 Enoch,Wind Direction,2025-05-26T10:00:00-06:00,146.0
 Enoch,Fine Particulate Matter,2025-05-26T10:00:00-06:00,4.0
 Enoch,Outdoor Temperature,2025-05-26T10:00:00-06:00,19.0
+Enoch,Total Oxides of Nitrogen,2025-05-26T10:00:00-06:00,0.004
+Enoch,Relative Humidity,2025-05-26T10:00:00-06:00,50.6
+Enoch,Wind Speed,2025-05-26T10:00:00-06:00,7.6
+Enoch,Ozone,2025-05-26T10:00:00-06:00,0.028
+Enoch,Nitrogen Dioxide,2025-05-26T10:00:00-06:00,0.003
 Enoch,Ozone,2025-05-26T09:00:00-06:00,0.027
 Enoch,Relative Humidity,2025-05-26T09:00:00-06:00,53.6
 Enoch,Wind Speed,2025-05-26T09:00:00-06:00,6.8
@@ -69,19 +79,16 @@ Enoch,Outdoor Temperature,2025-05-26T09:00:00-06:00,17.5
 Enoch,Fine Particulate Matter,2025-05-26T09:00:00-06:00,3.8
 Enoch,Total Oxides of Nitrogen,2025-05-26T09:00:00-06:00,0.005
 Enoch,,2025-05-26T09:00:00-06:00,2.0
-Enoch,Nitric Oxide,2025-05-26T08:00:00-06:00,0.001
-Enoch,Relative Humidity,2025-05-26T08:00:00-06:00,58.8
-Enoch,Outdoor Temperature,2025-05-26T08:00:00-06:00,15.4
-Enoch,Fine Particulate Matter,2025-05-26T08:00:00-06:00,3.6
-Enoch,,2025-05-26T08:00:00-06:00,2.0
 Enoch,Ozone,2025-05-26T08:00:00-06:00,0.026
 Enoch,Wind Direction,2025-05-26T08:00:00-06:00,133.0
 Enoch,Wind Speed,2025-05-26T08:00:00-06:00,5.8
 Enoch,Nitrogen Dioxide,2025-05-26T08:00:00-06:00,0.004
 Enoch,Total Oxides of Nitrogen,2025-05-26T08:00:00-06:00,0.005
-Enoch,,2025-05-26T07:00:00-06:00,2.0
-Enoch,Nitric Oxide,2025-05-26T07:00:00-06:00,0.0
-Enoch,Total Oxides of Nitrogen,2025-05-26T07:00:00-06:00,0.004
+Enoch,,2025-05-26T08:00:00-06:00,2.0
+Enoch,Fine Particulate Matter,2025-05-26T08:00:00-06:00,3.6
+Enoch,Outdoor Temperature,2025-05-26T08:00:00-06:00,15.4
+Enoch,Relative Humidity,2025-05-26T08:00:00-06:00,58.8
+Enoch,Nitric Oxide,2025-05-26T08:00:00-06:00,0.001
 Enoch,Ozone,2025-05-26T07:00:00-06:00,0.027
 Enoch,Relative Humidity,2025-05-26T07:00:00-06:00,63.1
 Enoch,Nitrogen Dioxide,2025-05-26T07:00:00-06:00,0.004
@@ -89,8 +96,11 @@ Enoch,Outdoor Temperature,2025-05-26T07:00:00-06:00,13.5
 Enoch,Wind Direction,2025-05-26T07:00:00-06:00,139.0
 Enoch,Wind Speed,2025-05-26T07:00:00-06:00,4.8
 Enoch,Fine Particulate Matter,2025-05-26T07:00:00-06:00,3.4
-Enoch,Outdoor Temperature,2025-05-26T06:00:00-06:00,13.1
+Enoch,,2025-05-26T07:00:00-06:00,2.0
+Enoch,Nitric Oxide,2025-05-26T07:00:00-06:00,0.0
+Enoch,Total Oxides of Nitrogen,2025-05-26T07:00:00-06:00,0.004
 Enoch,Nitric Oxide,2025-05-26T06:00:00-06:00,0.0
+Enoch,Outdoor Temperature,2025-05-26T06:00:00-06:00,13.1
 Enoch,Ozone,2025-05-26T06:00:00-06:00,0.029
 Enoch,Total Oxides of Nitrogen,2025-05-26T06:00:00-06:00,0.004
 Enoch,Nitrogen Dioxide,2025-05-26T06:00:00-06:00,0.004
@@ -109,26 +119,26 @@ Enoch,Nitric Oxide,2025-05-26T05:00:00-06:00,
 Enoch,Relative Humidity,2025-05-26T05:00:00-06:00,58.0
 Enoch,Ozone,2025-05-26T05:00:00-06:00,
 Enoch,,2025-05-26T05:00:00-06:00,2.0
-Enoch,Total Oxides of Nitrogen,2025-05-26T04:00:00-06:00,0.002
-Enoch,Nitric Oxide,2025-05-26T04:00:00-06:00,0.0
-Enoch,Wind Speed,2025-05-26T04:00:00-06:00,5.5
-Enoch,Nitrogen Dioxide,2025-05-26T04:00:00-06:00,0.003
-Enoch,Fine Particulate Matter,2025-05-26T04:00:00-06:00,3.8
 Enoch,Wind Direction,2025-05-26T04:00:00-06:00,149.0
 Enoch,Relative Humidity,2025-05-26T04:00:00-06:00,52.4
 Enoch,Ozone,2025-05-26T04:00:00-06:00,0.036
 Enoch,,2025-05-26T04:00:00-06:00,2.0
+Enoch,Fine Particulate Matter,2025-05-26T04:00:00-06:00,3.8
+Enoch,Nitrogen Dioxide,2025-05-26T04:00:00-06:00,0.003
+Enoch,Wind Speed,2025-05-26T04:00:00-06:00,5.5
+Enoch,Nitric Oxide,2025-05-26T04:00:00-06:00,0.0
+Enoch,Total Oxides of Nitrogen,2025-05-26T04:00:00-06:00,0.002
 Enoch,Outdoor Temperature,2025-05-26T04:00:00-06:00,15.5
+Enoch,Outdoor Temperature,2025-05-26T03:00:00-06:00,16.5
+Enoch,Fine Particulate Matter,2025-05-26T03:00:00-06:00,2.5
+Enoch,Ozone,2025-05-26T03:00:00-06:00,0.036
+Enoch,Nitric Oxide,2025-05-26T03:00:00-06:00,0.0
+Enoch,Wind Direction,2025-05-26T03:00:00-06:00,137.0
+Enoch,,2025-05-26T03:00:00-06:00,2.0
+Enoch,Total Oxides of Nitrogen,2025-05-26T03:00:00-06:00,0.002
+Enoch,Wind Speed,2025-05-26T03:00:00-06:00,5.9
 Enoch,Relative Humidity,2025-05-26T03:00:00-06:00,49.1
 Enoch,Nitrogen Dioxide,2025-05-26T03:00:00-06:00,0.002
-Enoch,Wind Direction,2025-05-26T03:00:00-06:00,137.0
-Enoch,Nitric Oxide,2025-05-26T03:00:00-06:00,0.0
-Enoch,Ozone,2025-05-26T03:00:00-06:00,0.036
-Enoch,Fine Particulate Matter,2025-05-26T03:00:00-06:00,2.5
-Enoch,Outdoor Temperature,2025-05-26T03:00:00-06:00,16.5
-Enoch,Wind Speed,2025-05-26T03:00:00-06:00,5.9
-Enoch,Total Oxides of Nitrogen,2025-05-26T03:00:00-06:00,0.002
-Enoch,,2025-05-26T03:00:00-06:00,2.0
 Enoch,Nitrogen Dioxide,2025-05-26T02:00:00-06:00,0.002
 Enoch,Wind Direction,2025-05-26T02:00:00-06:00,135.0
 Enoch,Ozone,2025-05-26T02:00:00-06:00,0.041
@@ -139,16 +149,19 @@ Enoch,Total Oxides of Nitrogen,2025-05-26T02:00:00-06:00,0.002
 Enoch,Relative Humidity,2025-05-26T02:00:00-06:00,44.5
 Enoch,Outdoor Temperature,2025-05-26T02:00:00-06:00,17.8
 Enoch,,2025-05-26T02:00:00-06:00,3.0
-Enoch,,2025-05-26T01:00:00-06:00,3.0
-Enoch,Wind Speed,2025-05-26T01:00:00-06:00,7.5
-Enoch,Wind Direction,2025-05-26T01:00:00-06:00,138.0
-Enoch,Outdoor Temperature,2025-05-26T01:00:00-06:00,19.0
-Enoch,Relative Humidity,2025-05-26T01:00:00-06:00,41.0
-Enoch,Nitrogen Dioxide,2025-05-26T01:00:00-06:00,0.002
-Enoch,Total Oxides of Nitrogen,2025-05-26T01:00:00-06:00,0.002
-Enoch,Nitric Oxide,2025-05-26T01:00:00-06:00,0.0
-Enoch,Fine Particulate Matter,2025-05-26T01:00:00-06:00,3.2
 Enoch,Ozone,2025-05-26T01:00:00-06:00,0.043
+Enoch,Fine Particulate Matter,2025-05-26T01:00:00-06:00,3.2
+Enoch,Nitric Oxide,2025-05-26T01:00:00-06:00,0.0
+Enoch,Total Oxides of Nitrogen,2025-05-26T01:00:00-06:00,0.002
+Enoch,Nitrogen Dioxide,2025-05-26T01:00:00-06:00,0.002
+Enoch,Relative Humidity,2025-05-26T01:00:00-06:00,41.0
+Enoch,Outdoor Temperature,2025-05-26T01:00:00-06:00,19.0
+Enoch,Wind Direction,2025-05-26T01:00:00-06:00,138.0
+Enoch,Wind Speed,2025-05-26T01:00:00-06:00,7.5
+Enoch,,2025-05-26T01:00:00-06:00,3.0
+Enoch,Wind Speed,2025-05-26T00:00:00-06:00,7.9
+Enoch,Nitric Oxide,2025-05-26T00:00:00-06:00,0.0
+Enoch,Fine Particulate Matter,2025-05-26T00:00:00-06:00,3.3
 Enoch,,2025-05-26T00:00:00-06:00,3.0
 Enoch,Outdoor Temperature,2025-05-26T00:00:00-06:00,20.0
 Enoch,Wind Direction,2025-05-26T00:00:00-06:00,133.0
@@ -156,9 +169,9 @@ Enoch,Relative Humidity,2025-05-26T00:00:00-06:00,38.9
 Enoch,Nitrogen Dioxide,2025-05-26T00:00:00-06:00,0.002
 Enoch,Ozone,2025-05-26T00:00:00-06:00,0.044
 Enoch,Total Oxides of Nitrogen,2025-05-26T00:00:00-06:00,0.002
-Enoch,Fine Particulate Matter,2025-05-26T00:00:00-06:00,3.3
-Enoch,Nitric Oxide,2025-05-26T00:00:00-06:00,0.0
-Enoch,Wind Speed,2025-05-26T00:00:00-06:00,7.9
+Enoch,Ozone,2025-05-25T23:00:00-06:00,0.049
+Enoch,Relative Humidity,2025-05-25T23:00:00-06:00,35.3
+Enoch,Total Oxides of Nitrogen,2025-05-25T23:00:00-06:00,0.001
 Enoch,,2025-05-25T23:00:00-06:00,3.0
 Enoch,Wind Speed,2025-05-25T23:00:00-06:00,8.1
 Enoch,Wind Direction,2025-05-25T23:00:00-06:00,136.0
@@ -166,9 +179,6 @@ Enoch,Outdoor Temperature,2025-05-25T23:00:00-06:00,21.4
 Enoch,Nitrogen Dioxide,2025-05-25T23:00:00-06:00,0.002
 Enoch,Fine Particulate Matter,2025-05-25T23:00:00-06:00,3.2
 Enoch,Nitric Oxide,2025-05-25T23:00:00-06:00,0.0
-Enoch,Total Oxides of Nitrogen,2025-05-25T23:00:00-06:00,0.001
-Enoch,Relative Humidity,2025-05-25T23:00:00-06:00,35.3
-Enoch,Ozone,2025-05-25T23:00:00-06:00,0.049
 Enoch,Nitric Oxide,2025-05-25T22:00:00-06:00,0.0
 Enoch,Total Oxides of Nitrogen,2025-05-25T22:00:00-06:00,0.001
 Enoch,Relative Humidity,2025-05-25T22:00:00-06:00,33.0
@@ -180,15 +190,15 @@ Enoch,Nitrogen Dioxide,2025-05-25T22:00:00-06:00,0.001
 Enoch,Fine Particulate Matter,2025-05-25T22:00:00-06:00,2.8
 Enoch,,2025-05-25T22:00:00-06:00,3.0
 Enoch,Fine Particulate Matter,2025-05-25T21:00:00-06:00,3.4
-Enoch,,2025-05-25T21:00:00-06:00,3.0
-Enoch,Nitrogen Dioxide,2025-05-25T21:00:00-06:00,0.001
-Enoch,Outdoor Temperature,2025-05-25T21:00:00-06:00,24.8
-Enoch,Wind Direction,2025-05-25T21:00:00-06:00,127.0
-Enoch,Wind Speed,2025-05-25T21:00:00-06:00,8.4
-Enoch,Ozone,2025-05-25T21:00:00-06:00,0.052
-Enoch,Relative Humidity,2025-05-25T21:00:00-06:00,29.2
-Enoch,Total Oxides of Nitrogen,2025-05-25T21:00:00-06:00,0.001
 Enoch,Nitric Oxide,2025-05-25T21:00:00-06:00,0.0
+Enoch,Total Oxides of Nitrogen,2025-05-25T21:00:00-06:00,0.001
+Enoch,Relative Humidity,2025-05-25T21:00:00-06:00,29.2
+Enoch,Ozone,2025-05-25T21:00:00-06:00,0.052
+Enoch,Wind Speed,2025-05-25T21:00:00-06:00,8.4
+Enoch,Wind Direction,2025-05-25T21:00:00-06:00,127.0
+Enoch,Outdoor Temperature,2025-05-25T21:00:00-06:00,24.8
+Enoch,Nitrogen Dioxide,2025-05-25T21:00:00-06:00,0.001
+Enoch,,2025-05-25T21:00:00-06:00,3.0
 Enoch,Outdoor Temperature,2025-05-25T20:00:00-06:00,25.9
 Enoch,Wind Direction,2025-05-25T20:00:00-06:00,132.0
 Enoch,Wind Speed,2025-05-25T20:00:00-06:00,9.3
@@ -200,6 +210,8 @@ Enoch,Fine Particulate Matter,2025-05-25T20:00:00-06:00,3.5
 Enoch,Nitrogen Dioxide,2025-05-25T20:00:00-06:00,0.001
 Enoch,,2025-05-25T20:00:00-06:00,3.0
 Enoch,,2025-05-25T19:00:00-06:00,3.0
+Enoch,Fine Particulate Matter,2025-05-25T19:00:00-06:00,2.9
+Enoch,Nitric Oxide,2025-05-25T19:00:00-06:00,0.0
 Enoch,Nitrogen Dioxide,2025-05-25T19:00:00-06:00,0.001
 Enoch,Outdoor Temperature,2025-05-25T19:00:00-06:00,26.1
 Enoch,Wind Direction,2025-05-25T19:00:00-06:00,140.0
@@ -207,41 +219,38 @@ Enoch,Wind Speed,2025-05-25T19:00:00-06:00,10.3
 Enoch,Ozone,2025-05-25T19:00:00-06:00,0.053
 Enoch,Relative Humidity,2025-05-25T19:00:00-06:00,27.8
 Enoch,Total Oxides of Nitrogen,2025-05-25T19:00:00-06:00,0.001
-Enoch,Nitric Oxide,2025-05-25T19:00:00-06:00,0.0
-Enoch,Fine Particulate Matter,2025-05-25T19:00:00-06:00,2.9
-Enoch,,2025-05-25T18:00:00-06:00,3.0
-Enoch,Fine Particulate Matter,2025-05-25T18:00:00-06:00,4.5
-Enoch,Nitric Oxide,2025-05-25T18:00:00-06:00,0.0
 Enoch,Total Oxides of Nitrogen,2025-05-25T18:00:00-06:00,0.001
+Enoch,Nitric Oxide,2025-05-25T18:00:00-06:00,0.0
 Enoch,Relative Humidity,2025-05-25T18:00:00-06:00,27.9
 Enoch,Ozone,2025-05-25T18:00:00-06:00,0.052
 Enoch,Wind Speed,2025-05-25T18:00:00-06:00,11.0
 Enoch,Wind Direction,2025-05-25T18:00:00-06:00,148.0
 Enoch,Outdoor Temperature,2025-05-25T18:00:00-06:00,26.2
 Enoch,Nitrogen Dioxide,2025-05-25T18:00:00-06:00,0.001
+Enoch,,2025-05-25T18:00:00-06:00,3.0
+Enoch,Fine Particulate Matter,2025-05-25T18:00:00-06:00,4.5
+Enoch,Nitric Oxide,2025-05-25T17:00:00-06:00,0.0
 Enoch,,2025-05-25T17:00:00-06:00,3.0
 Enoch,Relative Humidity,2025-05-25T17:00:00-06:00,27.6
-Enoch,Nitrogen Dioxide,2025-05-25T17:00:00-06:00,0.0
-Enoch,Total Oxides of Nitrogen,2025-05-25T17:00:00-06:00,0.0
-Enoch,Fine Particulate Matter,2025-05-25T17:00:00-06:00,3.1
-Enoch,Outdoor Temperature,2025-05-25T17:00:00-06:00,25.9
-Enoch,Wind Direction,2025-05-25T17:00:00-06:00,152.0
-Enoch,Wind Speed,2025-05-25T17:00:00-06:00,11.3
 Enoch,Ozone,2025-05-25T17:00:00-06:00,0.051
-Enoch,Nitric Oxide,2025-05-25T17:00:00-06:00,0.0
-Enoch,Ozone,2025-05-25T16:00:00-06:00,0.05
-Enoch,Relative Humidity,2025-05-25T16:00:00-06:00,29.9
-Enoch,Nitric Oxide,2025-05-25T16:00:00-06:00,0.0
-Enoch,Nitrogen Dioxide,2025-05-25T16:00:00-06:00,0.0
-Enoch,Total Oxides of Nitrogen,2025-05-25T16:00:00-06:00,0.0
-Enoch,Fine Particulate Matter,2025-05-25T16:00:00-06:00,4.2
+Enoch,Wind Speed,2025-05-25T17:00:00-06:00,11.3
+Enoch,Wind Direction,2025-05-25T17:00:00-06:00,152.0
+Enoch,Outdoor Temperature,2025-05-25T17:00:00-06:00,25.9
+Enoch,Fine Particulate Matter,2025-05-25T17:00:00-06:00,3.1
+Enoch,Total Oxides of Nitrogen,2025-05-25T17:00:00-06:00,0.0
+Enoch,Nitrogen Dioxide,2025-05-25T17:00:00-06:00,0.0
 Enoch,Outdoor Temperature,2025-05-25T16:00:00-06:00,25.2
-Enoch,Wind Direction,2025-05-25T16:00:00-06:00,158.0
+Enoch,Fine Particulate Matter,2025-05-25T16:00:00-06:00,4.2
+Enoch,Total Oxides of Nitrogen,2025-05-25T16:00:00-06:00,0.0
+Enoch,Nitrogen Dioxide,2025-05-25T16:00:00-06:00,0.0
+Enoch,Nitric Oxide,2025-05-25T16:00:00-06:00,0.0
+Enoch,Relative Humidity,2025-05-25T16:00:00-06:00,29.9
+Enoch,Ozone,2025-05-25T16:00:00-06:00,0.05
 Enoch,,2025-05-25T16:00:00-06:00,3.0
 Enoch,Wind Speed,2025-05-25T16:00:00-06:00,11.7
-Enoch,,2025-05-25T15:00:00-06:00,3.0
-Enoch,Nitric Oxide,2025-05-25T15:00:00-06:00,
+Enoch,Wind Direction,2025-05-25T16:00:00-06:00,158.0
 Enoch,Ozone,2025-05-25T15:00:00-06:00,
+Enoch,Nitric Oxide,2025-05-25T15:00:00-06:00,
 Enoch,Total Oxides of Nitrogen,2025-05-25T15:00:00-06:00,
 Enoch,Wind Direction,2025-05-25T15:00:00-06:00,
 Enoch,Fine Particulate Matter,2025-05-25T15:00:00-06:00,
@@ -249,27 +258,30 @@ Enoch,Relative Humidity,2025-05-25T15:00:00-06:00,
 Enoch,Outdoor Temperature,2025-05-25T15:00:00-06:00,
 Enoch,Wind Speed,2025-05-25T15:00:00-06:00,
 Enoch,Nitrogen Dioxide,2025-05-25T15:00:00-06:00,
-Enoch,,2025-05-25T14:00:00-06:00,3.0
+Enoch,,2025-05-25T15:00:00-06:00,3.0
 Enoch,Fine Particulate Matter,2025-05-25T14:00:00-06:00,3.9
 Enoch,Nitrogen Dioxide,2025-05-25T14:00:00-06:00,0.001
 Enoch,Outdoor Temperature,2025-05-25T14:00:00-06:00,23.3
-Enoch,Nitric Oxide,2025-05-25T14:00:00-06:00,0.0
 Enoch,Wind Direction,2025-05-25T14:00:00-06:00,147.0
 Enoch,Wind Speed,2025-05-25T14:00:00-06:00,12.4
 Enoch,Ozone,2025-05-25T14:00:00-06:00,0.049
 Enoch,Relative Humidity,2025-05-25T14:00:00-06:00,37.1
 Enoch,Total Oxides of Nitrogen,2025-05-25T14:00:00-06:00,0.001
-Enoch,Outdoor Temperature,2025-05-25T13:00:00-06:00,22.1
-Enoch,Wind Direction,2025-05-25T13:00:00-06:00,143.0
-Enoch,Wind Speed,2025-05-25T13:00:00-06:00,11.1
-Enoch,Ozone,2025-05-25T13:00:00-06:00,0.046
-Enoch,Relative Humidity,2025-05-25T13:00:00-06:00,40.9
-Enoch,Total Oxides of Nitrogen,2025-05-25T13:00:00-06:00,0.001
-Enoch,Nitric Oxide,2025-05-25T13:00:00-06:00,0.0
-Enoch,Fine Particulate Matter,2025-05-25T13:00:00-06:00,3.6
+Enoch,Nitric Oxide,2025-05-25T14:00:00-06:00,0.0
+Enoch,,2025-05-25T14:00:00-06:00,3.0
 Enoch,Nitrogen Dioxide,2025-05-25T13:00:00-06:00,0.001
+Enoch,Fine Particulate Matter,2025-05-25T13:00:00-06:00,3.6
+Enoch,Nitric Oxide,2025-05-25T13:00:00-06:00,0.0
+Enoch,Total Oxides of Nitrogen,2025-05-25T13:00:00-06:00,0.001
+Enoch,Relative Humidity,2025-05-25T13:00:00-06:00,40.9
+Enoch,Ozone,2025-05-25T13:00:00-06:00,0.046
+Enoch,Wind Speed,2025-05-25T13:00:00-06:00,11.1
+Enoch,Wind Direction,2025-05-25T13:00:00-06:00,143.0
+Enoch,Outdoor Temperature,2025-05-25T13:00:00-06:00,22.1
 Enoch,,2025-05-25T13:00:00-06:00,2.0
 Enoch,,2025-05-25T12:00:00-06:00,2.0
+Enoch,Nitrogen Dioxide,2025-05-25T12:00:00-06:00,0.001
+Enoch,Outdoor Temperature,2025-05-25T12:00:00-06:00,20.7
 Enoch,Wind Direction,2025-05-25T12:00:00-06:00,151.0
 Enoch,Wind Speed,2025-05-25T12:00:00-06:00,10.5
 Enoch,Ozone,2025-05-25T12:00:00-06:00,0.041
@@ -277,88 +289,87 @@ Enoch,Relative Humidity,2025-05-25T12:00:00-06:00,44.3
 Enoch,Total Oxides of Nitrogen,2025-05-25T12:00:00-06:00,0.001
 Enoch,Nitric Oxide,2025-05-25T12:00:00-06:00,0.0
 Enoch,Fine Particulate Matter,2025-05-25T12:00:00-06:00,3.6
-Enoch,Outdoor Temperature,2025-05-25T12:00:00-06:00,20.7
-Enoch,Nitrogen Dioxide,2025-05-25T12:00:00-06:00,0.001
-Enoch,,2025-05-25T11:00:00-06:00,2.0
-Enoch,Relative Humidity,2025-05-25T11:00:00-06:00,48.1
-Enoch,Total Oxides of Nitrogen,2025-05-25T11:00:00-06:00,0.002
-Enoch,Nitric Oxide,2025-05-25T11:00:00-06:00,0.0
-Enoch,Fine Particulate Matter,2025-05-25T11:00:00-06:00,3.9
-Enoch,Nitrogen Dioxide,2025-05-25T11:00:00-06:00,0.001
-Enoch,Outdoor Temperature,2025-05-25T11:00:00-06:00,19.0
 Enoch,Ozone,2025-05-25T11:00:00-06:00,0.037
 Enoch,Wind Speed,2025-05-25T11:00:00-06:00,10.4
 Enoch,Wind Direction,2025-05-25T11:00:00-06:00,145.0
-Enoch,Fine Particulate Matter,2025-05-25T10:00:00-06:00,3.9
-Enoch,Wind Speed,2025-05-25T10:00:00-06:00,9.1
-Enoch,Wind Direction,2025-05-25T10:00:00-06:00,144.0
-Enoch,Outdoor Temperature,2025-05-25T10:00:00-06:00,17.0
-Enoch,Nitrogen Dioxide,2025-05-25T10:00:00-06:00,0.002
-Enoch,Nitric Oxide,2025-05-25T10:00:00-06:00,0.001
-Enoch,Total Oxides of Nitrogen,2025-05-25T10:00:00-06:00,0.002
-Enoch,Relative Humidity,2025-05-25T10:00:00-06:00,53.3
+Enoch,Outdoor Temperature,2025-05-25T11:00:00-06:00,19.0
+Enoch,Nitrogen Dioxide,2025-05-25T11:00:00-06:00,0.001
+Enoch,Fine Particulate Matter,2025-05-25T11:00:00-06:00,3.9
+Enoch,Nitric Oxide,2025-05-25T11:00:00-06:00,0.0
+Enoch,Total Oxides of Nitrogen,2025-05-25T11:00:00-06:00,0.002
+Enoch,Relative Humidity,2025-05-25T11:00:00-06:00,48.1
+Enoch,,2025-05-25T11:00:00-06:00,2.0
 Enoch,Ozone,2025-05-25T10:00:00-06:00,0.033
+Enoch,Relative Humidity,2025-05-25T10:00:00-06:00,53.3
+Enoch,Total Oxides of Nitrogen,2025-05-25T10:00:00-06:00,0.002
+Enoch,Nitric Oxide,2025-05-25T10:00:00-06:00,0.001
+Enoch,Nitrogen Dioxide,2025-05-25T10:00:00-06:00,0.002
+Enoch,Outdoor Temperature,2025-05-25T10:00:00-06:00,17.0
+Enoch,Wind Direction,2025-05-25T10:00:00-06:00,144.0
+Enoch,Wind Speed,2025-05-25T10:00:00-06:00,9.1
+Enoch,Fine Particulate Matter,2025-05-25T10:00:00-06:00,3.9
 Enoch,,2025-05-25T10:00:00-06:00,2.0
-Enoch,Fine Particulate Matter,2025-05-25T09:00:00-06:00,3.6
-Enoch,Relative Humidity,2025-05-25T09:00:00-06:00,58.2
-Enoch,Ozone,2025-05-25T09:00:00-06:00,0.029
-Enoch,Wind Speed,2025-05-25T09:00:00-06:00,6.9
-Enoch,Wind Direction,2025-05-25T09:00:00-06:00,144.0
 Enoch,Outdoor Temperature,2025-05-25T09:00:00-06:00,15.3
-Enoch,,2025-05-25T09:00:00-06:00,2.0
-Enoch,Total Oxides of Nitrogen,2025-05-25T09:00:00-06:00,0.003
-Enoch,Nitric Oxide,2025-05-25T09:00:00-06:00,0.001
+Enoch,Wind Direction,2025-05-25T09:00:00-06:00,144.0
+Enoch,Wind Speed,2025-05-25T09:00:00-06:00,6.9
+Enoch,Ozone,2025-05-25T09:00:00-06:00,0.029
+Enoch,Relative Humidity,2025-05-25T09:00:00-06:00,58.2
+Enoch,Fine Particulate Matter,2025-05-25T09:00:00-06:00,3.6
 Enoch,Nitrogen Dioxide,2025-05-25T09:00:00-06:00,0.002
+Enoch,Nitric Oxide,2025-05-25T09:00:00-06:00,0.001
+Enoch,Total Oxides of Nitrogen,2025-05-25T09:00:00-06:00,0.003
+Enoch,,2025-05-25T09:00:00-06:00,2.0
+Enoch,Wind Speed,2025-05-25T08:00:00-06:00,6.2
+Enoch,Ozone,2025-05-25T08:00:00-06:00,0.026
+Enoch,Relative Humidity,2025-05-25T08:00:00-06:00,64.8
+Enoch,,2025-05-25T08:00:00-06:00,2.0
 Enoch,Fine Particulate Matter,2025-05-25T08:00:00-06:00,2.9
 Enoch,Wind Direction,2025-05-25T08:00:00-06:00,138.0
 Enoch,Outdoor Temperature,2025-05-25T08:00:00-06:00,13.0
 Enoch,Nitrogen Dioxide,2025-05-25T08:00:00-06:00,0.003
-Enoch,Nitric Oxide,2025-05-25T08:00:00-06:00,0.001
 Enoch,Total Oxides of Nitrogen,2025-05-25T08:00:00-06:00,0.003
-Enoch,Relative Humidity,2025-05-25T08:00:00-06:00,64.8
-Enoch,Ozone,2025-05-25T08:00:00-06:00,0.026
-Enoch,Wind Speed,2025-05-25T08:00:00-06:00,6.2
-Enoch,,2025-05-25T08:00:00-06:00,2.0
-Enoch,Nitric Oxide,2025-05-25T07:00:00-06:00,0.0
-Enoch,Wind Direction,2025-05-25T07:00:00-06:00,143.0
-Enoch,Outdoor Temperature,2025-05-25T07:00:00-06:00,11.7
-Enoch,Nitrogen Dioxide,2025-05-25T07:00:00-06:00,0.002
-Enoch,Fine Particulate Matter,2025-05-25T07:00:00-06:00,2.6
-Enoch,Total Oxides of Nitrogen,2025-05-25T07:00:00-06:00,0.002
-Enoch,Relative Humidity,2025-05-25T07:00:00-06:00,68.4
-Enoch,Ozone,2025-05-25T07:00:00-06:00,0.028
+Enoch,Nitric Oxide,2025-05-25T08:00:00-06:00,0.001
 Enoch,Wind Speed,2025-05-25T07:00:00-06:00,6.2
+Enoch,Ozone,2025-05-25T07:00:00-06:00,0.028
+Enoch,Relative Humidity,2025-05-25T07:00:00-06:00,68.4
+Enoch,Total Oxides of Nitrogen,2025-05-25T07:00:00-06:00,0.002
+Enoch,Fine Particulate Matter,2025-05-25T07:00:00-06:00,2.6
+Enoch,Nitrogen Dioxide,2025-05-25T07:00:00-06:00,0.002
+Enoch,Outdoor Temperature,2025-05-25T07:00:00-06:00,11.7
+Enoch,Wind Direction,2025-05-25T07:00:00-06:00,143.0
+Enoch,Nitric Oxide,2025-05-25T07:00:00-06:00,0.0
 Enoch,,2025-05-25T07:00:00-06:00,2.0
 Enoch,,2025-05-25T06:00:00-06:00,2.0
-Enoch,Ozone,2025-05-25T06:00:00-06:00,0.029
-Enoch,Relative Humidity,2025-05-25T06:00:00-06:00,70.9
-Enoch,Total Oxides of Nitrogen,2025-05-25T06:00:00-06:00,0.002
-Enoch,Nitric Oxide,2025-05-25T06:00:00-06:00,0.0
-Enoch,Fine Particulate Matter,2025-05-25T06:00:00-06:00,2.4
-Enoch,Nitrogen Dioxide,2025-05-25T06:00:00-06:00,0.002
-Enoch,Outdoor Temperature,2025-05-25T06:00:00-06:00,11.1
-Enoch,Wind Direction,2025-05-25T06:00:00-06:00,141.0
 Enoch,Wind Speed,2025-05-25T06:00:00-06:00,5.4
+Enoch,Wind Direction,2025-05-25T06:00:00-06:00,141.0
+Enoch,Outdoor Temperature,2025-05-25T06:00:00-06:00,11.1
+Enoch,Nitrogen Dioxide,2025-05-25T06:00:00-06:00,0.002
+Enoch,Fine Particulate Matter,2025-05-25T06:00:00-06:00,2.4
+Enoch,Nitric Oxide,2025-05-25T06:00:00-06:00,0.0
+Enoch,Total Oxides of Nitrogen,2025-05-25T06:00:00-06:00,0.002
+Enoch,Relative Humidity,2025-05-25T06:00:00-06:00,70.9
+Enoch,Ozone,2025-05-25T06:00:00-06:00,0.029
+Enoch,,2025-05-25T05:00:00-06:00,2.0
 Enoch,Wind Direction,2025-05-25T05:00:00-06:00,137.0
 Enoch,Wind Speed,2025-05-25T05:00:00-06:00,5.0
 Enoch,Relative Humidity,2025-05-25T05:00:00-06:00,70.4
 Enoch,Ozone,2025-05-25T05:00:00-06:00,
-Enoch,,2025-05-25T05:00:00-06:00,2.0
-Enoch,Outdoor Temperature,2025-05-25T05:00:00-06:00,11.4
 Enoch,Nitric Oxide,2025-05-25T05:00:00-06:00,
 Enoch,Total Oxides of Nitrogen,2025-05-25T05:00:00-06:00,
 Enoch,Fine Particulate Matter,2025-05-25T05:00:00-06:00,2.6
 Enoch,Nitrogen Dioxide,2025-05-25T05:00:00-06:00,
-Enoch,,2025-05-25T04:00:00-06:00,2.0
-Enoch,Wind Speed,2025-05-25T04:00:00-06:00,5.4
-Enoch,Ozone,2025-05-25T04:00:00-06:00,0.031
-Enoch,Relative Humidity,2025-05-25T04:00:00-06:00,67.8
-Enoch,Total Oxides of Nitrogen,2025-05-25T04:00:00-06:00,0.002
-Enoch,Nitric Oxide,2025-05-25T04:00:00-06:00,0.0
-Enoch,Fine Particulate Matter,2025-05-25T04:00:00-06:00,5.4
-Enoch,Nitrogen Dioxide,2025-05-25T04:00:00-06:00,0.002
-Enoch,Outdoor Temperature,2025-05-25T04:00:00-06:00,12.0
+Enoch,Outdoor Temperature,2025-05-25T05:00:00-06:00,11.4
 Enoch,Wind Direction,2025-05-25T04:00:00-06:00,130.0
+Enoch,Outdoor Temperature,2025-05-25T04:00:00-06:00,12.0
+Enoch,Nitrogen Dioxide,2025-05-25T04:00:00-06:00,0.002
+Enoch,Fine Particulate Matter,2025-05-25T04:00:00-06:00,5.4
+Enoch,Nitric Oxide,2025-05-25T04:00:00-06:00,0.0
+Enoch,Total Oxides of Nitrogen,2025-05-25T04:00:00-06:00,0.002
+Enoch,Relative Humidity,2025-05-25T04:00:00-06:00,67.8
+Enoch,Ozone,2025-05-25T04:00:00-06:00,0.031
+Enoch,Wind Speed,2025-05-25T04:00:00-06:00,5.4
+Enoch,,2025-05-25T04:00:00-06:00,2.0
+Enoch,,2025-05-25T03:00:00-06:00,2.0
 Enoch,Relative Humidity,2025-05-25T03:00:00-06:00,63.0
 Enoch,Ozone,2025-05-25T03:00:00-06:00,0.033
 Enoch,Wind Speed,2025-05-25T03:00:00-06:00,5.5
@@ -368,27 +379,26 @@ Enoch,Nitrogen Dioxide,2025-05-25T03:00:00-06:00,0.002
 Enoch,Fine Particulate Matter,2025-05-25T03:00:00-06:00,2.2
 Enoch,Nitric Oxide,2025-05-25T03:00:00-06:00,0.0
 Enoch,Total Oxides of Nitrogen,2025-05-25T03:00:00-06:00,0.002
-Enoch,,2025-05-25T03:00:00-06:00,2.0
-Enoch,,2025-05-25T02:00:00-06:00,2.0
-Enoch,Nitric Oxide,2025-05-25T02:00:00-06:00,0.0
-Enoch,Relative Humidity,2025-05-25T02:00:00-06:00,57.1
-Enoch,Ozone,2025-05-25T02:00:00-06:00,0.037
-Enoch,Wind Speed,2025-05-25T02:00:00-06:00,6.6
-Enoch,Wind Direction,2025-05-25T02:00:00-06:00,136.0
-Enoch,Outdoor Temperature,2025-05-25T02:00:00-06:00,14.1
-Enoch,Nitrogen Dioxide,2025-05-25T02:00:00-06:00,0.002
-Enoch,Fine Particulate Matter,2025-05-25T02:00:00-06:00,2.2
 Enoch,Total Oxides of Nitrogen,2025-05-25T02:00:00-06:00,0.002
-Enoch,,2025-05-25T01:00:00-06:00,2.0
-Enoch,Total Oxides of Nitrogen,2025-05-25T01:00:00-06:00,0.001
-Enoch,Nitrogen Dioxide,2025-05-25T01:00:00-06:00,0.001
-Enoch,Outdoor Temperature,2025-05-25T01:00:00-06:00,14.9
+Enoch,Fine Particulate Matter,2025-05-25T02:00:00-06:00,2.2
+Enoch,Nitrogen Dioxide,2025-05-25T02:00:00-06:00,0.002
+Enoch,Outdoor Temperature,2025-05-25T02:00:00-06:00,14.1
+Enoch,Wind Direction,2025-05-25T02:00:00-06:00,136.0
+Enoch,Wind Speed,2025-05-25T02:00:00-06:00,6.6
+Enoch,Ozone,2025-05-25T02:00:00-06:00,0.037
+Enoch,Relative Humidity,2025-05-25T02:00:00-06:00,57.1
+Enoch,Nitric Oxide,2025-05-25T02:00:00-06:00,0.0
+Enoch,,2025-05-25T02:00:00-06:00,2.0
 Enoch,Fine Particulate Matter,2025-05-25T01:00:00-06:00,2.2
 Enoch,Nitric Oxide,2025-05-25T01:00:00-06:00,0.0
 Enoch,Relative Humidity,2025-05-25T01:00:00-06:00,52.6
-Enoch,Wind Direction,2025-05-25T01:00:00-06:00,130.0
-Enoch,Wind Speed,2025-05-25T01:00:00-06:00,7.3
 Enoch,Ozone,2025-05-25T01:00:00-06:00,0.04
+Enoch,Wind Speed,2025-05-25T01:00:00-06:00,7.3
+Enoch,Wind Direction,2025-05-25T01:00:00-06:00,130.0
+Enoch,Outdoor Temperature,2025-05-25T01:00:00-06:00,14.9
+Enoch,Nitrogen Dioxide,2025-05-25T01:00:00-06:00,0.001
+Enoch,Total Oxides of Nitrogen,2025-05-25T01:00:00-06:00,0.001
+Enoch,,2025-05-25T01:00:00-06:00,2.0
 Enoch,Fine Particulate Matter,2025-05-25T00:00:00-06:00,2.3
 Enoch,Wind Speed,2025-05-25T00:00:00-06:00,7.3
 Enoch,Outdoor Temperature,2025-05-25T00:00:00-06:00,15.6
@@ -399,6 +409,9 @@ Enoch,Nitrogen Dioxide,2025-05-25T00:00:00-06:00,0.001
 Enoch,Total Oxides of Nitrogen,2025-05-25T00:00:00-06:00,0.001
 Enoch,Wind Direction,2025-05-25T00:00:00-06:00,131.0
 Enoch,Ozone,2025-05-25T00:00:00-06:00,0.043
+Enoch,,2025-05-24T23:00:00-06:00,3.0
+Enoch,Outdoor Temperature,2025-05-24T23:00:00-06:00,16.6
+Enoch,Wind Speed,2025-05-24T23:00:00-06:00,7.5
 Enoch,Relative Humidity,2025-05-24T23:00:00-06:00,46.6
 Enoch,Nitric Oxide,2025-05-24T23:00:00-06:00,0.0
 Enoch,Nitrogen Dioxide,2025-05-24T23:00:00-06:00,0.001
@@ -406,29 +419,26 @@ Enoch,Total Oxides of Nitrogen,2025-05-24T23:00:00-06:00,0.001
 Enoch,Wind Direction,2025-05-24T23:00:00-06:00,133.0
 Enoch,Ozone,2025-05-24T23:00:00-06:00,0.045
 Enoch,Fine Particulate Matter,2025-05-24T23:00:00-06:00,2.4
-Enoch,Wind Speed,2025-05-24T23:00:00-06:00,7.5
-Enoch,Outdoor Temperature,2025-05-24T23:00:00-06:00,16.6
-Enoch,,2025-05-24T23:00:00-06:00,3.0
-Enoch,Nitric Oxide,2025-05-24T22:00:00-06:00,0.0
-Enoch,Nitrogen Dioxide,2025-05-24T22:00:00-06:00,0.001
-Enoch,Total Oxides of Nitrogen,2025-05-24T22:00:00-06:00,0.001
-Enoch,Wind Direction,2025-05-24T22:00:00-06:00,129.0
-Enoch,Ozone,2025-05-24T22:00:00-06:00,0.048
-Enoch,Fine Particulate Matter,2025-05-24T22:00:00-06:00,2.5
-Enoch,Wind Speed,2025-05-24T22:00:00-06:00,7.7
 Enoch,,2025-05-24T22:00:00-06:00,3.0
 Enoch,Relative Humidity,2025-05-24T22:00:00-06:00,42.7
 Enoch,Outdoor Temperature,2025-05-24T22:00:00-06:00,17.8
-Enoch,Nitrogen Dioxide,2025-05-24T21:00:00-06:00,0.001
-Enoch,Total Oxides of Nitrogen,2025-05-24T21:00:00-06:00,0.001
-Enoch,Wind Direction,2025-05-24T21:00:00-06:00,138.0
-Enoch,Ozone,2025-05-24T21:00:00-06:00,0.051
-Enoch,Fine Particulate Matter,2025-05-24T21:00:00-06:00,2.6
-Enoch,Wind Speed,2025-05-24T21:00:00-06:00,6.5
+Enoch,Wind Speed,2025-05-24T22:00:00-06:00,7.7
+Enoch,Fine Particulate Matter,2025-05-24T22:00:00-06:00,2.5
+Enoch,Ozone,2025-05-24T22:00:00-06:00,0.048
+Enoch,Wind Direction,2025-05-24T22:00:00-06:00,129.0
+Enoch,Total Oxides of Nitrogen,2025-05-24T22:00:00-06:00,0.001
+Enoch,Nitrogen Dioxide,2025-05-24T22:00:00-06:00,0.001
+Enoch,Nitric Oxide,2025-05-24T22:00:00-06:00,0.0
 Enoch,Outdoor Temperature,2025-05-24T21:00:00-06:00,19.3
 Enoch,Relative Humidity,2025-05-24T21:00:00-06:00,38.4
 Enoch,Nitric Oxide,2025-05-24T21:00:00-06:00,0.0
 Enoch,,2025-05-24T21:00:00-06:00,3.0
+Enoch,Wind Speed,2025-05-24T21:00:00-06:00,6.5
+Enoch,Fine Particulate Matter,2025-05-24T21:00:00-06:00,2.6
+Enoch,Ozone,2025-05-24T21:00:00-06:00,0.051
+Enoch,Wind Direction,2025-05-24T21:00:00-06:00,138.0
+Enoch,Total Oxides of Nitrogen,2025-05-24T21:00:00-06:00,0.001
+Enoch,Nitrogen Dioxide,2025-05-24T21:00:00-06:00,0.001
 Enoch,Nitrogen Dioxide,2025-05-24T20:00:00-06:00,
 Enoch,Outdoor Temperature,2025-05-24T20:00:00-06:00,
 Enoch,Nitric Oxide,2025-05-24T20:00:00-06:00,
@@ -442,53 +452,53 @@ Enoch,Wind Direction,2025-05-24T20:00:00-06:00,
 Enoch,Nitric Oxide,2025-05-24T19:00:00-06:00,0.0
 Enoch,Nitrogen Dioxide,2025-05-24T19:00:00-06:00,0.001
 Enoch,Total Oxides of Nitrogen,2025-05-24T19:00:00-06:00,0.001
-Enoch,,2025-05-24T19:00:00-06:00,3.0
-Enoch,Relative Humidity,2025-05-24T19:00:00-06:00,34.9
-Enoch,Outdoor Temperature,2025-05-24T19:00:00-06:00,21.5
-Enoch,Wind Speed,2025-05-24T19:00:00-06:00,10.2
-Enoch,Fine Particulate Matter,2025-05-24T19:00:00-06:00,4.6
-Enoch,Ozone,2025-05-24T19:00:00-06:00,0.054
 Enoch,Wind Direction,2025-05-24T19:00:00-06:00,148.0
-Enoch,Fine Particulate Matter,2025-05-24T18:00:00-06:00,6.6
+Enoch,Ozone,2025-05-24T19:00:00-06:00,0.054
+Enoch,Fine Particulate Matter,2025-05-24T19:00:00-06:00,4.6
+Enoch,Wind Speed,2025-05-24T19:00:00-06:00,10.2
+Enoch,Outdoor Temperature,2025-05-24T19:00:00-06:00,21.5
+Enoch,Relative Humidity,2025-05-24T19:00:00-06:00,34.9
+Enoch,,2025-05-24T19:00:00-06:00,3.0
 Enoch,Wind Speed,2025-05-24T18:00:00-06:00,11.0
 Enoch,Outdoor Temperature,2025-05-24T18:00:00-06:00,21.8
-Enoch,Relative Humidity,2025-05-24T18:00:00-06:00,34.2
-Enoch,Nitric Oxide,2025-05-24T18:00:00-06:00,0.0
-Enoch,Nitrogen Dioxide,2025-05-24T18:00:00-06:00,0.001
-Enoch,Total Oxides of Nitrogen,2025-05-24T18:00:00-06:00,0.001
-Enoch,Wind Direction,2025-05-24T18:00:00-06:00,142.0
-Enoch,,2025-05-24T18:00:00-06:00,3.0
+Enoch,Fine Particulate Matter,2025-05-24T18:00:00-06:00,6.6
 Enoch,Ozone,2025-05-24T18:00:00-06:00,0.054
-Enoch,Outdoor Temperature,2025-05-24T17:00:00-06:00,21.6
-Enoch,Wind Speed,2025-05-24T17:00:00-06:00,11.2
-Enoch,Fine Particulate Matter,2025-05-24T17:00:00-06:00,4.2
-Enoch,Ozone,2025-05-24T17:00:00-06:00,0.054
+Enoch,,2025-05-24T18:00:00-06:00,3.0
+Enoch,Wind Direction,2025-05-24T18:00:00-06:00,142.0
+Enoch,Total Oxides of Nitrogen,2025-05-24T18:00:00-06:00,0.001
+Enoch,Nitrogen Dioxide,2025-05-24T18:00:00-06:00,0.001
+Enoch,Nitric Oxide,2025-05-24T18:00:00-06:00,0.0
+Enoch,Relative Humidity,2025-05-24T18:00:00-06:00,34.2
 Enoch,Wind Direction,2025-05-24T17:00:00-06:00,157.0
+Enoch,Ozone,2025-05-24T17:00:00-06:00,0.054
+Enoch,Fine Particulate Matter,2025-05-24T17:00:00-06:00,4.2
+Enoch,Wind Speed,2025-05-24T17:00:00-06:00,11.2
+Enoch,Outdoor Temperature,2025-05-24T17:00:00-06:00,21.6
+Enoch,,2025-05-24T17:00:00-06:00,3.0
+Enoch,Relative Humidity,2025-05-24T17:00:00-06:00,35.0
+Enoch,Nitric Oxide,2025-05-24T17:00:00-06:00,0.0
 Enoch,Total Oxides of Nitrogen,2025-05-24T17:00:00-06:00,0.001
 Enoch,Nitrogen Dioxide,2025-05-24T17:00:00-06:00,0.001
-Enoch,Nitric Oxide,2025-05-24T17:00:00-06:00,0.0
-Enoch,Relative Humidity,2025-05-24T17:00:00-06:00,35.0
-Enoch,,2025-05-24T17:00:00-06:00,3.0
-Enoch,Outdoor Temperature,2025-05-24T16:00:00-06:00,21.9
-Enoch,Wind Speed,2025-05-24T16:00:00-06:00,11.8
-Enoch,Fine Particulate Matter,2025-05-24T16:00:00-06:00,5.5
-Enoch,Ozone,2025-05-24T16:00:00-06:00,0.053
-Enoch,Wind Direction,2025-05-24T16:00:00-06:00,167.0
-Enoch,Total Oxides of Nitrogen,2025-05-24T16:00:00-06:00,0.001
-Enoch,Nitrogen Dioxide,2025-05-24T16:00:00-06:00,0.001
-Enoch,Relative Humidity,2025-05-24T16:00:00-06:00,33.6
-Enoch,Nitric Oxide,2025-05-24T16:00:00-06:00,0.0
 Enoch,,2025-05-24T16:00:00-06:00,3.0
-Enoch,,2025-05-24T15:00:00-06:00,3.0
-Enoch,Relative Humidity,2025-05-24T15:00:00-06:00,35.8
-Enoch,Nitric Oxide,2025-05-24T15:00:00-06:00,0.0
-Enoch,Nitrogen Dioxide,2025-05-24T15:00:00-06:00,0.001
+Enoch,Nitric Oxide,2025-05-24T16:00:00-06:00,0.0
+Enoch,Nitrogen Dioxide,2025-05-24T16:00:00-06:00,0.001
+Enoch,Total Oxides of Nitrogen,2025-05-24T16:00:00-06:00,0.001
+Enoch,Wind Direction,2025-05-24T16:00:00-06:00,167.0
+Enoch,Ozone,2025-05-24T16:00:00-06:00,0.053
+Enoch,Fine Particulate Matter,2025-05-24T16:00:00-06:00,5.5
+Enoch,Wind Speed,2025-05-24T16:00:00-06:00,11.8
+Enoch,Outdoor Temperature,2025-05-24T16:00:00-06:00,21.9
+Enoch,Relative Humidity,2025-05-24T16:00:00-06:00,33.6
 Enoch,Total Oxides of Nitrogen,2025-05-24T15:00:00-06:00,0.001
 Enoch,Wind Direction,2025-05-24T15:00:00-06:00,166.0
 Enoch,Ozone,2025-05-24T15:00:00-06:00,0.052
 Enoch,Fine Particulate Matter,2025-05-24T15:00:00-06:00,5.2
 Enoch,Wind Speed,2025-05-24T15:00:00-06:00,11.5
 Enoch,Outdoor Temperature,2025-05-24T15:00:00-06:00,21.5
+Enoch,,2025-05-24T15:00:00-06:00,3.0
+Enoch,Nitrogen Dioxide,2025-05-24T15:00:00-06:00,0.001
+Enoch,Nitric Oxide,2025-05-24T15:00:00-06:00,0.0
+Enoch,Relative Humidity,2025-05-24T15:00:00-06:00,35.8
 Enoch,Nitric Oxide,2025-05-24T14:00:00-06:00,0.0
 Enoch,Nitrogen Dioxide,2025-05-24T14:00:00-06:00,0.001
 Enoch,Total Oxides of Nitrogen,2025-05-24T14:00:00-06:00,0.001
@@ -499,9 +509,9 @@ Enoch,Wind Speed,2025-05-24T14:00:00-06:00,12.8
 Enoch,Outdoor Temperature,2025-05-24T14:00:00-06:00,20.5
 Enoch,Relative Humidity,2025-05-24T14:00:00-06:00,41.5
 Enoch,,2025-05-24T14:00:00-06:00,3.0
-Enoch,Wind Direction,2025-05-24T13:00:00-06:00,169.0
-Enoch,Total Oxides of Nitrogen,2025-05-24T13:00:00-06:00,0.001
 Enoch,Nitrogen Dioxide,2025-05-24T13:00:00-06:00,0.001
+Enoch,Total Oxides of Nitrogen,2025-05-24T13:00:00-06:00,0.001
+Enoch,Wind Direction,2025-05-24T13:00:00-06:00,169.0
 Enoch,Ozone,2025-05-24T13:00:00-06:00,0.045
 Enoch,Fine Particulate Matter,2025-05-24T13:00:00-06:00,5.3
 Enoch,Wind Speed,2025-05-24T13:00:00-06:00,11.9
@@ -509,29 +519,26 @@ Enoch,Outdoor Temperature,2025-05-24T13:00:00-06:00,19.1
 Enoch,,2025-05-24T13:00:00-06:00,2.0
 Enoch,Relative Humidity,2025-05-24T13:00:00-06:00,47.8
 Enoch,Nitric Oxide,2025-05-24T13:00:00-06:00,0.0
-Enoch,,2025-05-24T12:00:00-06:00,2.0
-Enoch,Relative Humidity,2025-05-24T12:00:00-06:00,52.7
-Enoch,Outdoor Temperature,2025-05-24T12:00:00-06:00,17.7
-Enoch,Wind Speed,2025-05-24T12:00:00-06:00,10.5
-Enoch,Fine Particulate Matter,2025-05-24T12:00:00-06:00,7.2
-Enoch,Nitrogen Dioxide,2025-05-24T12:00:00-06:00,0.002
 Enoch,Total Oxides of Nitrogen,2025-05-24T12:00:00-06:00,0.003
 Enoch,Nitric Oxide,2025-05-24T12:00:00-06:00,0.001
 Enoch,Wind Direction,2025-05-24T12:00:00-06:00,161.0
 Enoch,Ozone,2025-05-24T12:00:00-06:00,0.038
-Enoch,Nitric Oxide,2025-05-24T11:00:00-06:00,0.001
-Enoch,Total Oxides of Nitrogen,2025-05-24T11:00:00-06:00,0.003
-Enoch,Relative Humidity,2025-05-24T11:00:00-06:00,57.6
+Enoch,Nitrogen Dioxide,2025-05-24T12:00:00-06:00,0.002
+Enoch,Fine Particulate Matter,2025-05-24T12:00:00-06:00,7.2
+Enoch,Wind Speed,2025-05-24T12:00:00-06:00,10.5
+Enoch,Outdoor Temperature,2025-05-24T12:00:00-06:00,17.7
+Enoch,Relative Humidity,2025-05-24T12:00:00-06:00,52.7
+Enoch,,2025-05-24T12:00:00-06:00,2.0
 Enoch,,2025-05-24T11:00:00-06:00,2.0
+Enoch,Relative Humidity,2025-05-24T11:00:00-06:00,57.6
+Enoch,Total Oxides of Nitrogen,2025-05-24T11:00:00-06:00,0.003
+Enoch,Nitric Oxide,2025-05-24T11:00:00-06:00,0.001
 Enoch,Wind Direction,2025-05-24T11:00:00-06:00,167.0
 Enoch,Ozone,2025-05-24T11:00:00-06:00,0.033
 Enoch,Nitrogen Dioxide,2025-05-24T11:00:00-06:00,0.002
 Enoch,Fine Particulate Matter,2025-05-24T11:00:00-06:00,8.2
 Enoch,Wind Speed,2025-05-24T11:00:00-06:00,10.3
 Enoch,Outdoor Temperature,2025-05-24T11:00:00-06:00,16.3
-Enoch,Nitrogen Dioxide,2025-05-24T10:00:00-06:00,0.002
-Enoch,,2025-05-24T10:00:00-06:00,2.0
-Enoch,Ozone,2025-05-24T10:00:00-06:00,0.03
 Enoch,Wind Direction,2025-05-24T10:00:00-06:00,165.0
 Enoch,Nitric Oxide,2025-05-24T10:00:00-06:00,0.001
 Enoch,Total Oxides of Nitrogen,2025-05-24T10:00:00-06:00,0.003
@@ -539,46 +546,49 @@ Enoch,Relative Humidity,2025-05-24T10:00:00-06:00,62.9
 Enoch,Outdoor Temperature,2025-05-24T10:00:00-06:00,14.6
 Enoch,Wind Speed,2025-05-24T10:00:00-06:00,8.8
 Enoch,Fine Particulate Matter,2025-05-24T10:00:00-06:00,8.8
+Enoch,Nitrogen Dioxide,2025-05-24T10:00:00-06:00,0.002
+Enoch,Ozone,2025-05-24T10:00:00-06:00,0.03
+Enoch,,2025-05-24T10:00:00-06:00,2.0
 Enoch,,2025-05-24T09:00:00-06:00,2.0
 Enoch,Outdoor Temperature,2025-05-24T09:00:00-06:00,12.6
 Enoch,Total Oxides of Nitrogen,2025-05-24T09:00:00-06:00,0.004
 Enoch,Wind Speed,2025-05-24T09:00:00-06:00,7.3
 Enoch,Fine Particulate Matter,2025-05-24T09:00:00-06:00,9.2
+Enoch,Ozone,2025-05-24T09:00:00-06:00,0.027
+Enoch,Wind Direction,2025-05-24T09:00:00-06:00,158.0
+Enoch,Nitric Oxide,2025-05-24T09:00:00-06:00,0.001
 Enoch,Nitrogen Dioxide,2025-05-24T09:00:00-06:00,0.003
 Enoch,Relative Humidity,2025-05-24T09:00:00-06:00,68.9
-Enoch,Nitric Oxide,2025-05-24T09:00:00-06:00,0.001
-Enoch,Wind Direction,2025-05-24T09:00:00-06:00,158.0
-Enoch,Ozone,2025-05-24T09:00:00-06:00,0.027
-Enoch,,2025-05-24T08:00:00-06:00,2.0
-Enoch,Relative Humidity,2025-05-24T08:00:00-06:00,77.2
-Enoch,Outdoor Temperature,2025-05-24T08:00:00-06:00,10.2
 Enoch,Wind Speed,2025-05-24T08:00:00-06:00,7.0
 Enoch,Fine Particulate Matter,2025-05-24T08:00:00-06:00,7.9
 Enoch,Ozone,2025-05-24T08:00:00-06:00,0.024
-Enoch,Total Oxides of Nitrogen,2025-05-24T08:00:00-06:00,0.003
-Enoch,Nitrogen Dioxide,2025-05-24T08:00:00-06:00,0.003
-Enoch,Nitric Oxide,2025-05-24T08:00:00-06:00,0.001
 Enoch,Wind Direction,2025-05-24T08:00:00-06:00,158.0
+Enoch,Nitric Oxide,2025-05-24T08:00:00-06:00,0.001
+Enoch,Nitrogen Dioxide,2025-05-24T08:00:00-06:00,0.003
+Enoch,Total Oxides of Nitrogen,2025-05-24T08:00:00-06:00,0.003
+Enoch,,2025-05-24T08:00:00-06:00,2.0
+Enoch,Relative Humidity,2025-05-24T08:00:00-06:00,77.2
+Enoch,Outdoor Temperature,2025-05-24T08:00:00-06:00,10.2
+Enoch,Outdoor Temperature,2025-05-24T07:00:00-06:00,8.4
+Enoch,Wind Speed,2025-05-24T07:00:00-06:00,5.2
+Enoch,Fine Particulate Matter,2025-05-24T07:00:00-06:00,6.2
+Enoch,,2025-05-24T07:00:00-06:00,2.0
+Enoch,Relative Humidity,2025-05-24T07:00:00-06:00,85.0
+Enoch,Ozone,2025-05-24T07:00:00-06:00,0.023
+Enoch,Wind Direction,2025-05-24T07:00:00-06:00,148.0
+Enoch,Nitrogen Dioxide,2025-05-24T07:00:00-06:00,0.003
 Enoch,Total Oxides of Nitrogen,2025-05-24T07:00:00-06:00,0.003
 Enoch,Nitric Oxide,2025-05-24T07:00:00-06:00,0.0
-Enoch,Relative Humidity,2025-05-24T07:00:00-06:00,85.0
-Enoch,,2025-05-24T07:00:00-06:00,2.0
-Enoch,Nitrogen Dioxide,2025-05-24T07:00:00-06:00,0.003
-Enoch,Wind Direction,2025-05-24T07:00:00-06:00,148.0
-Enoch,Ozone,2025-05-24T07:00:00-06:00,0.023
-Enoch,Fine Particulate Matter,2025-05-24T07:00:00-06:00,6.2
-Enoch,Wind Speed,2025-05-24T07:00:00-06:00,5.2
-Enoch,Outdoor Temperature,2025-05-24T07:00:00-06:00,8.4
-Enoch,,2025-05-24T06:00:00-06:00,2.0
-Enoch,Outdoor Temperature,2025-05-24T06:00:00-06:00,7.6
-Enoch,Wind Speed,2025-05-24T06:00:00-06:00,3.4
-Enoch,Fine Particulate Matter,2025-05-24T06:00:00-06:00,4.5
-Enoch,Ozone,2025-05-24T06:00:00-06:00,0.024
-Enoch,Wind Direction,2025-05-24T06:00:00-06:00,142.0
-Enoch,Nitrogen Dioxide,2025-05-24T06:00:00-06:00,0.003
-Enoch,Total Oxides of Nitrogen,2025-05-24T06:00:00-06:00,0.003
-Enoch,Nitric Oxide,2025-05-24T06:00:00-06:00,0.0
 Enoch,Relative Humidity,2025-05-24T06:00:00-06:00,88.3
+Enoch,Nitric Oxide,2025-05-24T06:00:00-06:00,0.0
+Enoch,Total Oxides of Nitrogen,2025-05-24T06:00:00-06:00,0.003
+Enoch,Nitrogen Dioxide,2025-05-24T06:00:00-06:00,0.003
+Enoch,Wind Direction,2025-05-24T06:00:00-06:00,142.0
+Enoch,Ozone,2025-05-24T06:00:00-06:00,0.024
+Enoch,Fine Particulate Matter,2025-05-24T06:00:00-06:00,4.5
+Enoch,Wind Speed,2025-05-24T06:00:00-06:00,3.4
+Enoch,Outdoor Temperature,2025-05-24T06:00:00-06:00,7.6
+Enoch,,2025-05-24T06:00:00-06:00,2.0
 Enoch,,2025-05-24T05:00:00-06:00,2.0
 Enoch,Outdoor Temperature,2025-05-24T05:00:00-06:00,8.5
 Enoch,Wind Speed,2025-05-24T05:00:00-06:00,4.0
@@ -590,105 +600,105 @@ Enoch,Nitrogen Dioxide,2025-05-24T05:00:00-06:00,
 Enoch,Ozone,2025-05-24T05:00:00-06:00,
 Enoch,Relative Humidity,2025-05-24T05:00:00-06:00,84.0
 Enoch,,2025-05-24T04:00:00-06:00,2.0
+Enoch,Nitrogen Dioxide,2025-05-24T04:00:00-06:00,0.002
+Enoch,Total Oxides of Nitrogen,2025-05-24T04:00:00-06:00,0.002
+Enoch,Fine Particulate Matter,2025-05-24T04:00:00-06:00,2.7
+Enoch,Wind Speed,2025-05-24T04:00:00-06:00,4.5
+Enoch,Outdoor Temperature,2025-05-24T04:00:00-06:00,9.3
+Enoch,Relative Humidity,2025-05-24T04:00:00-06:00,81.3
+Enoch,Nitric Oxide,2025-05-24T04:00:00-06:00,0.0
 Enoch,Ozone,2025-05-24T04:00:00-06:00,0.03
 Enoch,Wind Direction,2025-05-24T04:00:00-06:00,112.0
-Enoch,Nitric Oxide,2025-05-24T04:00:00-06:00,0.0
-Enoch,Relative Humidity,2025-05-24T04:00:00-06:00,81.3
-Enoch,Outdoor Temperature,2025-05-24T04:00:00-06:00,9.3
-Enoch,Wind Speed,2025-05-24T04:00:00-06:00,4.5
-Enoch,Fine Particulate Matter,2025-05-24T04:00:00-06:00,2.7
-Enoch,Total Oxides of Nitrogen,2025-05-24T04:00:00-06:00,0.002
-Enoch,Nitrogen Dioxide,2025-05-24T04:00:00-06:00,0.002
+Enoch,Wind Direction,2025-05-24T03:00:00-06:00,120.0
+Enoch,Ozone,2025-05-24T03:00:00-06:00,0.033
+Enoch,,2025-05-24T03:00:00-06:00,2.0
+Enoch,Nitric Oxide,2025-05-24T03:00:00-06:00,0.0
+Enoch,Relative Humidity,2025-05-24T03:00:00-06:00,76.9
 Enoch,Outdoor Temperature,2025-05-24T03:00:00-06:00,10.3
 Enoch,Wind Speed,2025-05-24T03:00:00-06:00,4.1
 Enoch,Fine Particulate Matter,2025-05-24T03:00:00-06:00,2.5
 Enoch,Total Oxides of Nitrogen,2025-05-24T03:00:00-06:00,0.002
 Enoch,Nitrogen Dioxide,2025-05-24T03:00:00-06:00,0.002
-Enoch,Ozone,2025-05-24T03:00:00-06:00,0.033
-Enoch,Wind Direction,2025-05-24T03:00:00-06:00,120.0
-Enoch,Relative Humidity,2025-05-24T03:00:00-06:00,76.9
-Enoch,Nitric Oxide,2025-05-24T03:00:00-06:00,0.0
-Enoch,,2025-05-24T03:00:00-06:00,2.0
-Enoch,Relative Humidity,2025-05-24T02:00:00-06:00,80.2
-Enoch,Nitric Oxide,2025-05-24T02:00:00-06:00,0.0
-Enoch,Wind Direction,2025-05-24T02:00:00-06:00,97.0
-Enoch,Ozone,2025-05-24T02:00:00-06:00,0.03
-Enoch,Nitrogen Dioxide,2025-05-24T02:00:00-06:00,0.002
-Enoch,Total Oxides of Nitrogen,2025-05-24T02:00:00-06:00,0.002
-Enoch,Fine Particulate Matter,2025-05-24T02:00:00-06:00,2.9
-Enoch,Wind Speed,2025-05-24T02:00:00-06:00,5.1
 Enoch,Outdoor Temperature,2025-05-24T02:00:00-06:00,10.4
+Enoch,Wind Speed,2025-05-24T02:00:00-06:00,5.1
+Enoch,Fine Particulate Matter,2025-05-24T02:00:00-06:00,2.9
+Enoch,Total Oxides of Nitrogen,2025-05-24T02:00:00-06:00,0.002
+Enoch,Nitrogen Dioxide,2025-05-24T02:00:00-06:00,0.002
+Enoch,Ozone,2025-05-24T02:00:00-06:00,0.03
+Enoch,Wind Direction,2025-05-24T02:00:00-06:00,97.0
+Enoch,Nitric Oxide,2025-05-24T02:00:00-06:00,0.0
+Enoch,Relative Humidity,2025-05-24T02:00:00-06:00,80.2
 Enoch,,2025-05-24T02:00:00-06:00,2.0
-Enoch,Wind Direction,2025-05-24T01:00:00-06:00,103.0
-Enoch,Ozone,2025-05-24T01:00:00-06:00,0.03
-Enoch,Nitrogen Dioxide,2025-05-24T01:00:00-06:00,0.002
 Enoch,,2025-05-24T01:00:00-06:00,2.0
 Enoch,Relative Humidity,2025-05-24T01:00:00-06:00,81.8
 Enoch,Outdoor Temperature,2025-05-24T01:00:00-06:00,10.5
-Enoch,Total Oxides of Nitrogen,2025-05-24T01:00:00-06:00,0.002
-Enoch,Fine Particulate Matter,2025-05-24T01:00:00-06:00,2.7
 Enoch,Wind Speed,2025-05-24T01:00:00-06:00,3.4
+Enoch,Fine Particulate Matter,2025-05-24T01:00:00-06:00,2.7
+Enoch,Total Oxides of Nitrogen,2025-05-24T01:00:00-06:00,0.002
+Enoch,Nitrogen Dioxide,2025-05-24T01:00:00-06:00,0.002
+Enoch,Ozone,2025-05-24T01:00:00-06:00,0.03
+Enoch,Wind Direction,2025-05-24T01:00:00-06:00,103.0
 Enoch,Nitric Oxide,2025-05-24T01:00:00-06:00,0.0
-Enoch,Ozone,2025-05-24T00:00:00-06:00,0.036
-Enoch,Relative Humidity,2025-05-24T00:00:00-06:00,76.9
-Enoch,Total Oxides of Nitrogen,2025-05-24T00:00:00-06:00,0.002
-Enoch,Fine Particulate Matter,2025-05-24T00:00:00-06:00,2.6
+Enoch,Wind Direction,2025-05-24T00:00:00-06:00,126.0
 Enoch,Nitrogen Dioxide,2025-05-24T00:00:00-06:00,0.002
+Enoch,Fine Particulate Matter,2025-05-24T00:00:00-06:00,2.6
 Enoch,Nitric Oxide,2025-05-24T00:00:00-06:00,0.0
 Enoch,,2025-05-24T00:00:00-06:00,2.0
 Enoch,Wind Speed,2025-05-24T00:00:00-06:00,2.6
 Enoch,Outdoor Temperature,2025-05-24T00:00:00-06:00,11.4
-Enoch,Wind Direction,2025-05-24T00:00:00-06:00,126.0
-Enoch,Nitric Oxide,2025-05-23T23:00:00-06:00,0.0
-Enoch,Fine Particulate Matter,2025-05-23T23:00:00-06:00,1.7
-Enoch,Nitrogen Dioxide,2025-05-23T23:00:00-06:00,0.001
-Enoch,Total Oxides of Nitrogen,2025-05-23T23:00:00-06:00,0.001
-Enoch,Relative Humidity,2025-05-23T23:00:00-06:00,70.8
-Enoch,Ozone,2025-05-23T23:00:00-06:00,0.04
-Enoch,Wind Direction,2025-05-23T23:00:00-06:00,135.0
-Enoch,Outdoor Temperature,2025-05-23T23:00:00-06:00,12.6
-Enoch,Wind Speed,2025-05-23T23:00:00-06:00,4.4
+Enoch,Total Oxides of Nitrogen,2025-05-24T00:00:00-06:00,0.002
+Enoch,Relative Humidity,2025-05-24T00:00:00-06:00,76.9
+Enoch,Ozone,2025-05-24T00:00:00-06:00,0.036
 Enoch,,2025-05-23T23:00:00-06:00,2.0
+Enoch,Wind Speed,2025-05-23T23:00:00-06:00,4.4
+Enoch,Outdoor Temperature,2025-05-23T23:00:00-06:00,12.6
+Enoch,Wind Direction,2025-05-23T23:00:00-06:00,135.0
+Enoch,Ozone,2025-05-23T23:00:00-06:00,0.04
+Enoch,Relative Humidity,2025-05-23T23:00:00-06:00,70.8
+Enoch,Total Oxides of Nitrogen,2025-05-23T23:00:00-06:00,0.001
+Enoch,Nitrogen Dioxide,2025-05-23T23:00:00-06:00,0.001
+Enoch,Fine Particulate Matter,2025-05-23T23:00:00-06:00,1.7
+Enoch,Nitric Oxide,2025-05-23T23:00:00-06:00,0.0
+Enoch,Fine Particulate Matter,2025-05-23T22:00:00-06:00,1.8
+Enoch,Nitric Oxide,2025-05-23T22:00:00-06:00,0.0
+Enoch,,2025-05-23T22:00:00-06:00,3.0
+Enoch,Wind Speed,2025-05-23T22:00:00-06:00,9.5
+Enoch,Outdoor Temperature,2025-05-23T22:00:00-06:00,14.1
+Enoch,Wind Direction,2025-05-23T22:00:00-06:00,149.0
+Enoch,Ozone,2025-05-23T22:00:00-06:00,0.046
 Enoch,Relative Humidity,2025-05-23T22:00:00-06:00,60.7
 Enoch,Total Oxides of Nitrogen,2025-05-23T22:00:00-06:00,0.001
 Enoch,Nitrogen Dioxide,2025-05-23T22:00:00-06:00,0.001
-Enoch,Fine Particulate Matter,2025-05-23T22:00:00-06:00,1.8
-Enoch,Ozone,2025-05-23T22:00:00-06:00,0.046
-Enoch,Wind Direction,2025-05-23T22:00:00-06:00,149.0
-Enoch,Outdoor Temperature,2025-05-23T22:00:00-06:00,14.1
-Enoch,Nitric Oxide,2025-05-23T22:00:00-06:00,0.0
-Enoch,Wind Speed,2025-05-23T22:00:00-06:00,9.5
-Enoch,,2025-05-23T22:00:00-06:00,3.0
 Enoch,Nitrogen Dioxide,2025-05-23T21:00:00-06:00,0.001
 Enoch,Total Oxides of Nitrogen,2025-05-23T21:00:00-06:00,0.001
 Enoch,Relative Humidity,2025-05-23T21:00:00-06:00,48.6
 Enoch,Ozone,2025-05-23T21:00:00-06:00,0.047
 Enoch,Wind Direction,2025-05-23T21:00:00-06:00,150.0
 Enoch,Outdoor Temperature,2025-05-23T21:00:00-06:00,16.7
-Enoch,Fine Particulate Matter,2025-05-23T21:00:00-06:00,2.1
-Enoch,Nitric Oxide,2025-05-23T21:00:00-06:00,0.0
-Enoch,,2025-05-23T21:00:00-06:00,3.0
 Enoch,Wind Speed,2025-05-23T21:00:00-06:00,9.7
-Enoch,Nitrogen Dioxide,2025-05-23T20:00:00-06:00,0.001
+Enoch,,2025-05-23T21:00:00-06:00,3.0
+Enoch,Nitric Oxide,2025-05-23T21:00:00-06:00,0.0
+Enoch,Fine Particulate Matter,2025-05-23T21:00:00-06:00,2.1
 Enoch,,2025-05-23T20:00:00-06:00,3.0
-Enoch,Fine Particulate Matter,2025-05-23T20:00:00-06:00,1.7
-Enoch,Nitric Oxide,2025-05-23T20:00:00-06:00,0.0
 Enoch,Wind Speed,2025-05-23T20:00:00-06:00,9.1
 Enoch,Outdoor Temperature,2025-05-23T20:00:00-06:00,17.6
 Enoch,Wind Direction,2025-05-23T20:00:00-06:00,145.0
 Enoch,Ozone,2025-05-23T20:00:00-06:00,0.05
 Enoch,Relative Humidity,2025-05-23T20:00:00-06:00,43.1
 Enoch,Total Oxides of Nitrogen,2025-05-23T20:00:00-06:00,0.001
+Enoch,Nitrogen Dioxide,2025-05-23T20:00:00-06:00,0.001
+Enoch,Fine Particulate Matter,2025-05-23T20:00:00-06:00,1.7
+Enoch,Nitric Oxide,2025-05-23T20:00:00-06:00,0.0
+Enoch,,2025-05-23T19:00:00-06:00,3.0
+Enoch,Relative Humidity,2025-05-23T19:00:00-06:00,45.8
+Enoch,Total Oxides of Nitrogen,2025-05-23T19:00:00-06:00,0.001
+Enoch,Nitrogen Dioxide,2025-05-23T19:00:00-06:00,0.001
+Enoch,Wind Speed,2025-05-23T19:00:00-06:00,10.0
+Enoch,Nitric Oxide,2025-05-23T19:00:00-06:00,0.0
+Enoch,Fine Particulate Matter,2025-05-23T19:00:00-06:00,1.7
+Enoch,Ozone,2025-05-23T19:00:00-06:00,0.05
 Enoch,Wind Direction,2025-05-23T19:00:00-06:00,143.0
 Enoch,Outdoor Temperature,2025-05-23T19:00:00-06:00,17.5
-Enoch,Ozone,2025-05-23T19:00:00-06:00,0.05
-Enoch,Wind Speed,2025-05-23T19:00:00-06:00,10.0
-Enoch,Nitrogen Dioxide,2025-05-23T19:00:00-06:00,0.001
-Enoch,Total Oxides of Nitrogen,2025-05-23T19:00:00-06:00,0.001
-Enoch,Fine Particulate Matter,2025-05-23T19:00:00-06:00,1.7
-Enoch,Nitric Oxide,2025-05-23T19:00:00-06:00,0.0
-Enoch,Relative Humidity,2025-05-23T19:00:00-06:00,45.8
-Enoch,,2025-05-23T19:00:00-06:00,3.0
 Enoch,,2025-05-23T18:00:00-06:00,3.0
 Enoch,Nitrogen Dioxide,2025-05-23T18:00:00-06:00,0.001
 Enoch,Total Oxides of Nitrogen,2025-05-23T18:00:00-06:00,0.001
@@ -699,48 +709,46 @@ Enoch,Outdoor Temperature,2025-05-23T18:00:00-06:00,18.3
 Enoch,Wind Speed,2025-05-23T18:00:00-06:00,10.3
 Enoch,Nitric Oxide,2025-05-23T18:00:00-06:00,0.0
 Enoch,Fine Particulate Matter,2025-05-23T18:00:00-06:00,2.2
-Enoch,Total Oxides of Nitrogen,2025-05-23T17:00:00-06:00,0.001
-Enoch,Nitrogen Dioxide,2025-05-23T17:00:00-06:00,0.001
 Enoch,Fine Particulate Matter,2025-05-23T17:00:00-06:00,4.1
+Enoch,Nitrogen Dioxide,2025-05-23T17:00:00-06:00,0.001
+Enoch,Total Oxides of Nitrogen,2025-05-23T17:00:00-06:00,0.001
 Enoch,Relative Humidity,2025-05-23T17:00:00-06:00,43.9
 Enoch,Ozone,2025-05-23T17:00:00-06:00,0.052
 Enoch,Wind Direction,2025-05-23T17:00:00-06:00,97.0
 Enoch,Outdoor Temperature,2025-05-23T17:00:00-06:00,18.0
-Enoch,Nitric Oxide,2025-05-23T17:00:00-06:00,0.0
 Enoch,Wind Speed,2025-05-23T17:00:00-06:00,12.3
 Enoch,,2025-05-23T17:00:00-06:00,3.0
+Enoch,Nitric Oxide,2025-05-23T17:00:00-06:00,0.0
+Enoch,Nitric Oxide,2025-05-23T16:00:00-06:00,0.0
+Enoch,Fine Particulate Matter,2025-05-23T16:00:00-06:00,3.2
+Enoch,Relative Humidity,2025-05-23T16:00:00-06:00,40.0
 Enoch,Ozone,2025-05-23T16:00:00-06:00,0.053
 Enoch,Wind Direction,2025-05-23T16:00:00-06:00,133.0
 Enoch,Outdoor Temperature,2025-05-23T16:00:00-06:00,18.8
 Enoch,Wind Speed,2025-05-23T16:00:00-06:00,12.4
 Enoch,Nitrogen Dioxide,2025-05-23T16:00:00-06:00,0.001
 Enoch,Total Oxides of Nitrogen,2025-05-23T16:00:00-06:00,0.001
-Enoch,Relative Humidity,2025-05-23T16:00:00-06:00,40.0
 Enoch,,2025-05-23T16:00:00-06:00,3.0
-Enoch,Fine Particulate Matter,2025-05-23T16:00:00-06:00,3.2
-Enoch,Nitric Oxide,2025-05-23T16:00:00-06:00,0.0
-Enoch,,2025-05-23T15:00:00-06:00,3.0
-Enoch,Nitric Oxide,2025-05-23T15:00:00-06:00,0.0
-Enoch,Nitrogen Dioxide,2025-05-23T15:00:00-06:00,0.0
-Enoch,Total Oxides of Nitrogen,2025-05-23T15:00:00-06:00,0.0
-Enoch,Fine Particulate Matter,2025-05-23T15:00:00-06:00,3.4
 Enoch,Relative Humidity,2025-05-23T15:00:00-06:00,41.5
-Enoch,Ozone,2025-05-23T15:00:00-06:00,0.052
-Enoch,Wind Direction,2025-05-23T15:00:00-06:00,154.0
-Enoch,Outdoor Temperature,2025-05-23T15:00:00-06:00,18.3
+Enoch,,2025-05-23T15:00:00-06:00,3.0
+Enoch,Fine Particulate Matter,2025-05-23T15:00:00-06:00,3.4
+Enoch,Total Oxides of Nitrogen,2025-05-23T15:00:00-06:00,0.0
+Enoch,Nitrogen Dioxide,2025-05-23T15:00:00-06:00,0.0
+Enoch,Nitric Oxide,2025-05-23T15:00:00-06:00,0.0
 Enoch,Wind Speed,2025-05-23T15:00:00-06:00,9.5
-Enoch,Nitrogen Dioxide,2025-05-23T14:00:00-06:00,0.001
-Enoch,Total Oxides of Nitrogen,2025-05-23T14:00:00-06:00,0.001
-Enoch,Relative Humidity,2025-05-23T14:00:00-06:00,44.6
-Enoch,Ozone,2025-05-23T14:00:00-06:00,0.049
-Enoch,Wind Direction,2025-05-23T14:00:00-06:00,145.0
-Enoch,Outdoor Temperature,2025-05-23T14:00:00-06:00,17.9
-Enoch,Wind Speed,2025-05-23T14:00:00-06:00,8.6
+Enoch,Outdoor Temperature,2025-05-23T15:00:00-06:00,18.3
+Enoch,Wind Direction,2025-05-23T15:00:00-06:00,154.0
+Enoch,Ozone,2025-05-23T15:00:00-06:00,0.052
 Enoch,,2025-05-23T14:00:00-06:00,3.0
-Enoch,Nitric Oxide,2025-05-23T14:00:00-06:00,0.0
+Enoch,Wind Speed,2025-05-23T14:00:00-06:00,8.6
+Enoch,Outdoor Temperature,2025-05-23T14:00:00-06:00,17.9
+Enoch,Wind Direction,2025-05-23T14:00:00-06:00,145.0
+Enoch,Ozone,2025-05-23T14:00:00-06:00,0.049
+Enoch,Relative Humidity,2025-05-23T14:00:00-06:00,44.6
+Enoch,Total Oxides of Nitrogen,2025-05-23T14:00:00-06:00,0.001
+Enoch,Nitrogen Dioxide,2025-05-23T14:00:00-06:00,0.001
 Enoch,Fine Particulate Matter,2025-05-23T14:00:00-06:00,4.2
-Enoch,Wind Speed,2025-05-23T13:00:00-06:00,7.9
-Enoch,Outdoor Temperature,2025-05-23T13:00:00-06:00,16.8
+Enoch,Nitric Oxide,2025-05-23T14:00:00-06:00,0.0
 Enoch,Wind Direction,2025-05-23T13:00:00-06:00,141.0
 Enoch,Ozone,2025-05-23T13:00:00-06:00,0.045
 Enoch,Relative Humidity,2025-05-23T13:00:00-06:00,46.7
@@ -749,28 +757,28 @@ Enoch,Nitrogen Dioxide,2025-05-23T13:00:00-06:00,0.001
 Enoch,,2025-05-23T13:00:00-06:00,2.0
 Enoch,Fine Particulate Matter,2025-05-23T13:00:00-06:00,3.2
 Enoch,Nitric Oxide,2025-05-23T13:00:00-06:00,0.0
-Enoch,Fine Particulate Matter,2025-05-23T12:00:00-06:00,
-Enoch,,2025-05-23T12:00:00-06:00,2.0
-Enoch,Wind Speed,2025-05-23T12:00:00-06:00,
-Enoch,Nitrogen Dioxide,2025-05-23T12:00:00-06:00,
-Enoch,Outdoor Temperature,2025-05-23T12:00:00-06:00,
-Enoch,Nitric Oxide,2025-05-23T12:00:00-06:00,
-Enoch,Total Oxides of Nitrogen,2025-05-23T12:00:00-06:00,
-Enoch,Wind Direction,2025-05-23T12:00:00-06:00,
+Enoch,Wind Speed,2025-05-23T13:00:00-06:00,7.9
+Enoch,Outdoor Temperature,2025-05-23T13:00:00-06:00,16.8
 Enoch,Ozone,2025-05-23T12:00:00-06:00,
 Enoch,Relative Humidity,2025-05-23T12:00:00-06:00,
-Enoch,,2025-05-23T11:00:00-06:00,2.0
-Enoch,Nitric Oxide,2025-05-23T11:00:00-06:00,0.001
-Enoch,Total Oxides of Nitrogen,2025-05-23T11:00:00-06:00,0.003
-Enoch,Relative Humidity,2025-05-23T11:00:00-06:00,53.7
-Enoch,Ozone,2025-05-23T11:00:00-06:00,0.037
-Enoch,Wind Direction,2025-05-23T11:00:00-06:00,146.0
-Enoch,Outdoor Temperature,2025-05-23T11:00:00-06:00,15.5
-Enoch,Wind Speed,2025-05-23T11:00:00-06:00,7.2
-Enoch,Fine Particulate Matter,2025-05-23T11:00:00-06:00,5.7
+Enoch,,2025-05-23T12:00:00-06:00,2.0
+Enoch,Wind Direction,2025-05-23T12:00:00-06:00,
+Enoch,Total Oxides of Nitrogen,2025-05-23T12:00:00-06:00,
+Enoch,Nitric Oxide,2025-05-23T12:00:00-06:00,
+Enoch,Outdoor Temperature,2025-05-23T12:00:00-06:00,
+Enoch,Nitrogen Dioxide,2025-05-23T12:00:00-06:00,
+Enoch,Wind Speed,2025-05-23T12:00:00-06:00,
+Enoch,Fine Particulate Matter,2025-05-23T12:00:00-06:00,
 Enoch,Nitrogen Dioxide,2025-05-23T11:00:00-06:00,0.002
-Enoch,Nitrogen Dioxide,2025-05-23T10:00:00-06:00,0.004
-Enoch,Fine Particulate Matter,2025-05-23T10:00:00-06:00,8.2
+Enoch,Fine Particulate Matter,2025-05-23T11:00:00-06:00,5.7
+Enoch,Wind Speed,2025-05-23T11:00:00-06:00,7.2
+Enoch,Outdoor Temperature,2025-05-23T11:00:00-06:00,15.5
+Enoch,Ozone,2025-05-23T11:00:00-06:00,0.037
+Enoch,Relative Humidity,2025-05-23T11:00:00-06:00,53.7
+Enoch,Total Oxides of Nitrogen,2025-05-23T11:00:00-06:00,0.003
+Enoch,Nitric Oxide,2025-05-23T11:00:00-06:00,0.001
+Enoch,,2025-05-23T11:00:00-06:00,2.0
+Enoch,Wind Direction,2025-05-23T11:00:00-06:00,146.0
 Enoch,Nitric Oxide,2025-05-23T10:00:00-06:00,0.002
 Enoch,Total Oxides of Nitrogen,2025-05-23T10:00:00-06:00,0.006
 Enoch,Relative Humidity,2025-05-23T10:00:00-06:00,63.7
@@ -779,9 +787,8 @@ Enoch,Wind Direction,2025-05-23T10:00:00-06:00,131.0
 Enoch,Outdoor Temperature,2025-05-23T10:00:00-06:00,13.6
 Enoch,Wind Speed,2025-05-23T10:00:00-06:00,4.6
 Enoch,,2025-05-23T10:00:00-06:00,2.0
-Enoch,Nitrogen Dioxide,2025-05-23T09:00:00-06:00,0.005
-Enoch,,2025-05-23T09:00:00-06:00,2.0
-Enoch,Fine Particulate Matter,2025-05-23T09:00:00-06:00,7.1
+Enoch,Fine Particulate Matter,2025-05-23T10:00:00-06:00,8.2
+Enoch,Nitrogen Dioxide,2025-05-23T10:00:00-06:00,0.004
 Enoch,Nitric Oxide,2025-05-23T09:00:00-06:00,0.003
 Enoch,Total Oxides of Nitrogen,2025-05-23T09:00:00-06:00,0.008
 Enoch,Relative Humidity,2025-05-23T09:00:00-06:00,74.4
@@ -789,6 +796,10 @@ Enoch,Ozone,2025-05-23T09:00:00-06:00,0.025
 Enoch,Wind Direction,2025-05-23T09:00:00-06:00,160.0
 Enoch,Outdoor Temperature,2025-05-23T09:00:00-06:00,11.3
 Enoch,Wind Speed,2025-05-23T09:00:00-06:00,2.3
+Enoch,,2025-05-23T09:00:00-06:00,2.0
+Enoch,Nitrogen Dioxide,2025-05-23T09:00:00-06:00,0.005
+Enoch,Fine Particulate Matter,2025-05-23T09:00:00-06:00,7.1
+Enoch,,2025-05-23T08:00:00-06:00,1.0
 Enoch,Wind Speed,2025-05-23T08:00:00-06:00,0.6
 Enoch,Outdoor Temperature,2025-05-23T08:00:00-06:00,6.3
 Enoch,Wind Direction,2025-05-23T08:00:00-06:00,250.0
@@ -798,107 +809,106 @@ Enoch,Total Oxides of Nitrogen,2025-05-23T08:00:00-06:00,0.038
 Enoch,Nitric Oxide,2025-05-23T08:00:00-06:00,0.024
 Enoch,Fine Particulate Matter,2025-05-23T08:00:00-06:00,8.6
 Enoch,Nitrogen Dioxide,2025-05-23T08:00:00-06:00,0.014
-Enoch,,2025-05-23T08:00:00-06:00,1.0
-Enoch,Fine Particulate Matter,2025-05-23T07:00:00-06:00,6.2
 Enoch,Nitrogen Dioxide,2025-05-23T07:00:00-06:00,0.005
-Enoch,Wind Speed,2025-05-23T07:00:00-06:00,0.2
-Enoch,Outdoor Temperature,2025-05-23T07:00:00-06:00,4.3
-Enoch,Wind Direction,2025-05-23T07:00:00-06:00,246.0
-Enoch,Ozone,2025-05-23T07:00:00-06:00,0.01
-Enoch,Relative Humidity,2025-05-23T07:00:00-06:00,97.7
-Enoch,Total Oxides of Nitrogen,2025-05-23T07:00:00-06:00,0.007
-Enoch,Nitric Oxide,2025-05-23T07:00:00-06:00,0.002
+Enoch,Fine Particulate Matter,2025-05-23T07:00:00-06:00,6.2
 Enoch,,2025-05-23T07:00:00-06:00,1.0
-Enoch,Nitrogen Dioxide,2025-05-23T06:00:00-06:00,0.005
-Enoch,Fine Particulate Matter,2025-05-23T06:00:00-06:00,4.9
+Enoch,Nitric Oxide,2025-05-23T07:00:00-06:00,0.002
+Enoch,Total Oxides of Nitrogen,2025-05-23T07:00:00-06:00,0.007
+Enoch,Relative Humidity,2025-05-23T07:00:00-06:00,97.7
+Enoch,Ozone,2025-05-23T07:00:00-06:00,0.01
+Enoch,Wind Speed,2025-05-23T07:00:00-06:00,0.2
+Enoch,Wind Direction,2025-05-23T07:00:00-06:00,246.0
+Enoch,Outdoor Temperature,2025-05-23T07:00:00-06:00,4.3
 Enoch,,2025-05-23T06:00:00-06:00,1.0
 Enoch,Wind Speed,2025-05-23T06:00:00-06:00,1.2
 Enoch,Outdoor Temperature,2025-05-23T06:00:00-06:00,4.0
 Enoch,Wind Direction,2025-05-23T06:00:00-06:00,12.0
 Enoch,Ozone,2025-05-23T06:00:00-06:00,0.009
-Enoch,Relative Humidity,2025-05-23T06:00:00-06:00,97.5
-Enoch,Total Oxides of Nitrogen,2025-05-23T06:00:00-06:00,0.006
 Enoch,Nitric Oxide,2025-05-23T06:00:00-06:00,0.001
-Enoch,Fine Particulate Matter,2025-05-23T05:00:00-06:00,5.0
+Enoch,Fine Particulate Matter,2025-05-23T06:00:00-06:00,4.9
+Enoch,Nitrogen Dioxide,2025-05-23T06:00:00-06:00,0.005
+Enoch,Total Oxides of Nitrogen,2025-05-23T06:00:00-06:00,0.006
+Enoch,Relative Humidity,2025-05-23T06:00:00-06:00,97.5
 Enoch,,2025-05-23T05:00:00-06:00,1.0
-Enoch,Wind Speed,2025-05-23T05:00:00-06:00,1.3
-Enoch,Outdoor Temperature,2025-05-23T05:00:00-06:00,4.8
-Enoch,Wind Direction,2025-05-23T05:00:00-06:00,37.0
 Enoch,Ozone,2025-05-23T05:00:00-06:00,
+Enoch,Wind Direction,2025-05-23T05:00:00-06:00,37.0
+Enoch,Outdoor Temperature,2025-05-23T05:00:00-06:00,4.8
+Enoch,Wind Speed,2025-05-23T05:00:00-06:00,1.3
 Enoch,Relative Humidity,2025-05-23T05:00:00-06:00,97.1
 Enoch,Total Oxides of Nitrogen,2025-05-23T05:00:00-06:00,
 Enoch,Nitric Oxide,2025-05-23T05:00:00-06:00,
 Enoch,Nitrogen Dioxide,2025-05-23T05:00:00-06:00,
-Enoch,,2025-05-23T04:00:00-06:00,1.0
-Enoch,Nitrogen Dioxide,2025-05-23T04:00:00-06:00,0.001
-Enoch,Total Oxides of Nitrogen,2025-05-23T04:00:00-06:00,0.001
-Enoch,Relative Humidity,2025-05-23T04:00:00-06:00,96.5
-Enoch,Ozone,2025-05-23T04:00:00-06:00,0.009
-Enoch,Wind Direction,2025-05-23T04:00:00-06:00,73.0
-Enoch,Outdoor Temperature,2025-05-23T04:00:00-06:00,5.5
-Enoch,Wind Speed,2025-05-23T04:00:00-06:00,1.0
-Enoch,Nitric Oxide,2025-05-23T04:00:00-06:00,0.0
+Enoch,Fine Particulate Matter,2025-05-23T05:00:00-06:00,5.0
 Enoch,Fine Particulate Matter,2025-05-23T04:00:00-06:00,4.4
-Enoch,Wind Speed,2025-05-23T03:00:00-06:00,2.2
-Enoch,Outdoor Temperature,2025-05-23T03:00:00-06:00,6.7
-Enoch,Wind Direction,2025-05-23T03:00:00-06:00,92.0
-Enoch,Ozone,2025-05-23T03:00:00-06:00,0.012
-Enoch,Relative Humidity,2025-05-23T03:00:00-06:00,95.3
-Enoch,Total Oxides of Nitrogen,2025-05-23T03:00:00-06:00,0.002
-Enoch,Nitrogen Dioxide,2025-05-23T03:00:00-06:00,0.002
-Enoch,Fine Particulate Matter,2025-05-23T03:00:00-06:00,3.6
+Enoch,Nitric Oxide,2025-05-23T04:00:00-06:00,0.0
+Enoch,Wind Speed,2025-05-23T04:00:00-06:00,1.0
+Enoch,Outdoor Temperature,2025-05-23T04:00:00-06:00,5.5
+Enoch,Wind Direction,2025-05-23T04:00:00-06:00,73.0
+Enoch,Ozone,2025-05-23T04:00:00-06:00,0.009
+Enoch,,2025-05-23T04:00:00-06:00,1.0
+Enoch,Relative Humidity,2025-05-23T04:00:00-06:00,96.5
+Enoch,Total Oxides of Nitrogen,2025-05-23T04:00:00-06:00,0.001
+Enoch,Nitrogen Dioxide,2025-05-23T04:00:00-06:00,0.001
 Enoch,Nitric Oxide,2025-05-23T03:00:00-06:00,0.0
+Enoch,Fine Particulate Matter,2025-05-23T03:00:00-06:00,3.6
+Enoch,Nitrogen Dioxide,2025-05-23T03:00:00-06:00,0.002
+Enoch,Total Oxides of Nitrogen,2025-05-23T03:00:00-06:00,0.002
+Enoch,Relative Humidity,2025-05-23T03:00:00-06:00,95.3
+Enoch,Ozone,2025-05-23T03:00:00-06:00,0.012
+Enoch,Wind Direction,2025-05-23T03:00:00-06:00,92.0
+Enoch,Outdoor Temperature,2025-05-23T03:00:00-06:00,6.7
+Enoch,Wind Speed,2025-05-23T03:00:00-06:00,2.2
 Enoch,,2025-05-23T03:00:00-06:00,1.0
+Enoch,Nitric Oxide,2025-05-23T02:00:00-06:00,0.0
+Enoch,Fine Particulate Matter,2025-05-23T02:00:00-06:00,3.2
+Enoch,Nitrogen Dioxide,2025-05-23T02:00:00-06:00,0.004
+Enoch,,2025-05-23T02:00:00-06:00,2.0
 Enoch,Total Oxides of Nitrogen,2025-05-23T02:00:00-06:00,0.004
 Enoch,Relative Humidity,2025-05-23T02:00:00-06:00,93.1
 Enoch,Ozone,2025-05-23T02:00:00-06:00,0.018
 Enoch,Wind Direction,2025-05-23T02:00:00-06:00,156.0
 Enoch,Outdoor Temperature,2025-05-23T02:00:00-06:00,7.2
 Enoch,Wind Speed,2025-05-23T02:00:00-06:00,0.7
-Enoch,Nitric Oxide,2025-05-23T02:00:00-06:00,0.0
-Enoch,Fine Particulate Matter,2025-05-23T02:00:00-06:00,3.2
-Enoch,Nitrogen Dioxide,2025-05-23T02:00:00-06:00,0.004
-Enoch,,2025-05-23T02:00:00-06:00,2.0
-Enoch,Total Oxides of Nitrogen,2025-05-23T01:00:00-06:00,0.004
-Enoch,Relative Humidity,2025-05-23T01:00:00-06:00,85.8
-Enoch,Ozone,2025-05-23T01:00:00-06:00,0.028
-Enoch,Wind Direction,2025-05-23T01:00:00-06:00,271.0
-Enoch,Outdoor Temperature,2025-05-23T01:00:00-06:00,8.6
-Enoch,Wind Speed,2025-05-23T01:00:00-06:00,2.6
-Enoch,,2025-05-23T01:00:00-06:00,2.0
-Enoch,Nitric Oxide,2025-05-23T01:00:00-06:00,0.0
-Enoch,Nitrogen Dioxide,2025-05-23T01:00:00-06:00,0.004
 Enoch,Fine Particulate Matter,2025-05-23T01:00:00-06:00,2.4
-Enoch,Nitrogen Dioxide,2025-05-23T00:00:00-06:00,0.003
-Enoch,Total Oxides of Nitrogen,2025-05-23T00:00:00-06:00,0.003
-Enoch,Relative Humidity,2025-05-23T00:00:00-06:00,85.1
-Enoch,Wind Speed,2025-05-23T00:00:00-06:00,4.2
-Enoch,Fine Particulate Matter,2025-05-23T00:00:00-06:00,2.0
-Enoch,Wind Direction,2025-05-23T00:00:00-06:00,136.0
-Enoch,Outdoor Temperature,2025-05-23T00:00:00-06:00,8.5
-Enoch,,2025-05-23T00:00:00-06:00,2.0
-Enoch,Nitric Oxide,2025-05-23T00:00:00-06:00,0.0
+Enoch,Nitrogen Dioxide,2025-05-23T01:00:00-06:00,0.004
+Enoch,Nitric Oxide,2025-05-23T01:00:00-06:00,0.0
+Enoch,,2025-05-23T01:00:00-06:00,2.0
+Enoch,Wind Speed,2025-05-23T01:00:00-06:00,2.6
+Enoch,Outdoor Temperature,2025-05-23T01:00:00-06:00,8.6
+Enoch,Wind Direction,2025-05-23T01:00:00-06:00,271.0
+Enoch,Ozone,2025-05-23T01:00:00-06:00,0.028
+Enoch,Relative Humidity,2025-05-23T01:00:00-06:00,85.8
+Enoch,Total Oxides of Nitrogen,2025-05-23T01:00:00-06:00,0.004
 Enoch,Ozone,2025-05-23T00:00:00-06:00,0.032
-Enoch,Outdoor Temperature,2025-05-22T23:00:00-06:00,8.6
-Enoch,,2025-05-22T23:00:00-06:00,2.0
-Enoch,Wind Direction,2025-05-22T23:00:00-06:00,102.0
-Enoch,Nitric Oxide,2025-05-22T23:00:00-06:00,0.0
-Enoch,Total Oxides of Nitrogen,2025-05-22T23:00:00-06:00,0.002
-Enoch,Nitrogen Dioxide,2025-05-22T23:00:00-06:00,0.002
-Enoch,Ozone,2025-05-22T23:00:00-06:00,0.033
-Enoch,Relative Humidity,2025-05-22T23:00:00-06:00,84.9
-Enoch,Wind Speed,2025-05-22T23:00:00-06:00,5.4
+Enoch,Nitric Oxide,2025-05-23T00:00:00-06:00,0.0
+Enoch,,2025-05-23T00:00:00-06:00,2.0
+Enoch,Outdoor Temperature,2025-05-23T00:00:00-06:00,8.5
+Enoch,Wind Direction,2025-05-23T00:00:00-06:00,136.0
+Enoch,Fine Particulate Matter,2025-05-23T00:00:00-06:00,2.0
+Enoch,Wind Speed,2025-05-23T00:00:00-06:00,4.2
+Enoch,Relative Humidity,2025-05-23T00:00:00-06:00,85.1
+Enoch,Total Oxides of Nitrogen,2025-05-23T00:00:00-06:00,0.003
+Enoch,Nitrogen Dioxide,2025-05-23T00:00:00-06:00,0.003
 Enoch,Fine Particulate Matter,2025-05-22T23:00:00-06:00,1.6
-Enoch,Outdoor Temperature,2025-05-22T22:00:00-06:00,10.3
-Enoch,,2025-05-22T22:00:00-06:00,2.0
-Enoch,Relative Humidity,2025-05-22T22:00:00-06:00,72.9
-Enoch,Wind Direction,2025-05-22T22:00:00-06:00,199.0
-Enoch,Ozone,2025-05-22T22:00:00-06:00,0.043
-Enoch,Nitric Oxide,2025-05-22T22:00:00-06:00,0.0
-Enoch,Total Oxides of Nitrogen,2025-05-22T22:00:00-06:00,0.001
-Enoch,Nitrogen Dioxide,2025-05-22T22:00:00-06:00,0.001
-Enoch,Wind Speed,2025-05-22T22:00:00-06:00,11.4
+Enoch,Wind Speed,2025-05-22T23:00:00-06:00,5.4
+Enoch,Relative Humidity,2025-05-22T23:00:00-06:00,84.9
+Enoch,Ozone,2025-05-22T23:00:00-06:00,0.033
+Enoch,Nitrogen Dioxide,2025-05-22T23:00:00-06:00,0.002
+Enoch,Total Oxides of Nitrogen,2025-05-22T23:00:00-06:00,0.002
+Enoch,Nitric Oxide,2025-05-22T23:00:00-06:00,0.0
+Enoch,Wind Direction,2025-05-22T23:00:00-06:00,102.0
+Enoch,,2025-05-22T23:00:00-06:00,2.0
+Enoch,Outdoor Temperature,2025-05-22T23:00:00-06:00,8.6
 Enoch,Fine Particulate Matter,2025-05-22T22:00:00-06:00,1.0
+Enoch,Wind Speed,2025-05-22T22:00:00-06:00,11.4
+Enoch,Nitrogen Dioxide,2025-05-22T22:00:00-06:00,0.001
+Enoch,Total Oxides of Nitrogen,2025-05-22T22:00:00-06:00,0.001
+Enoch,Nitric Oxide,2025-05-22T22:00:00-06:00,0.0
+Enoch,Ozone,2025-05-22T22:00:00-06:00,0.043
+Enoch,Wind Direction,2025-05-22T22:00:00-06:00,199.0
+Enoch,Relative Humidity,2025-05-22T22:00:00-06:00,72.9
+Enoch,,2025-05-22T22:00:00-06:00,2.0
+Enoch,Outdoor Temperature,2025-05-22T22:00:00-06:00,10.3
 Enoch,Fine Particulate Matter,2025-05-22T21:00:00-06:00,1.0
 Enoch,Wind Speed,2025-05-22T21:00:00-06:00,3.8
 Enoch,Total Oxides of Nitrogen,2025-05-22T21:00:00-06:00,0.003
@@ -909,9 +919,6 @@ Enoch,Wind Direction,2025-05-22T21:00:00-06:00,101.0
 Enoch,Relative Humidity,2025-05-22T21:00:00-06:00,66.9
 Enoch,,2025-05-22T21:00:00-06:00,2.0
 Enoch,Outdoor Temperature,2025-05-22T21:00:00-06:00,12.6
-Enoch,Wind Speed,2025-05-22T20:00:00-06:00,6.5
-Enoch,Outdoor Temperature,2025-05-22T20:00:00-06:00,13.3
-Enoch,Nitric Oxide,2025-05-22T20:00:00-06:00,0.0
 Enoch,,2025-05-22T20:00:00-06:00,2.0
 Enoch,Ozone,2025-05-22T20:00:00-06:00,0.034
 Enoch,Relative Humidity,2025-05-22T20:00:00-06:00,63.4
@@ -919,48 +926,49 @@ Enoch,Nitrogen Dioxide,2025-05-22T20:00:00-06:00,0.003
 Enoch,Total Oxides of Nitrogen,2025-05-22T20:00:00-06:00,0.003
 Enoch,Fine Particulate Matter,2025-05-22T20:00:00-06:00,1.2
 Enoch,Wind Direction,2025-05-22T20:00:00-06:00,83.0
-Enoch,Outdoor Temperature,2025-05-22T19:00:00-06:00,13.2
-Enoch,,2025-05-22T19:00:00-06:00,2.0
-Enoch,Relative Humidity,2025-05-22T19:00:00-06:00,62.9
-Enoch,Wind Direction,2025-05-22T19:00:00-06:00,93.0
-Enoch,Nitric Oxide,2025-05-22T19:00:00-06:00,0.0
-Enoch,Nitrogen Dioxide,2025-05-22T19:00:00-06:00,0.002
-Enoch,Ozone,2025-05-22T19:00:00-06:00,0.036
-Enoch,Total Oxides of Nitrogen,2025-05-22T19:00:00-06:00,0.003
+Enoch,Wind Speed,2025-05-22T20:00:00-06:00,6.5
+Enoch,Outdoor Temperature,2025-05-22T20:00:00-06:00,13.3
+Enoch,Nitric Oxide,2025-05-22T20:00:00-06:00,0.0
 Enoch,Fine Particulate Matter,2025-05-22T19:00:00-06:00,1.1
 Enoch,Wind Speed,2025-05-22T19:00:00-06:00,6.8
-Enoch,Outdoor Temperature,2025-05-22T18:00:00-06:00,13.2
-Enoch,,2025-05-22T18:00:00-06:00,2.0
-Enoch,Total Oxides of Nitrogen,2025-05-22T18:00:00-06:00,0.003
-Enoch,Relative Humidity,2025-05-22T18:00:00-06:00,62.8
-Enoch,Wind Direction,2025-05-22T18:00:00-06:00,89.0
+Enoch,Total Oxides of Nitrogen,2025-05-22T19:00:00-06:00,0.003
+Enoch,Ozone,2025-05-22T19:00:00-06:00,0.036
+Enoch,Nitrogen Dioxide,2025-05-22T19:00:00-06:00,0.002
+Enoch,Nitric Oxide,2025-05-22T19:00:00-06:00,0.0
+Enoch,Wind Direction,2025-05-22T19:00:00-06:00,93.0
+Enoch,Relative Humidity,2025-05-22T19:00:00-06:00,62.9
+Enoch,,2025-05-22T19:00:00-06:00,2.0
+Enoch,Outdoor Temperature,2025-05-22T19:00:00-06:00,13.2
 Enoch,Nitric Oxide,2025-05-22T18:00:00-06:00,0.0
 Enoch,Nitrogen Dioxide,2025-05-22T18:00:00-06:00,0.002
 Enoch,Ozone,2025-05-22T18:00:00-06:00,0.039
 Enoch,Wind Speed,2025-05-22T18:00:00-06:00,5.4
 Enoch,Fine Particulate Matter,2025-05-22T18:00:00-06:00,1.7
-Enoch,Outdoor Temperature,2025-05-22T17:00:00-06:00,10.2
-Enoch,Wind Direction,2025-05-22T17:00:00-06:00,166.0
-Enoch,Fine Particulate Matter,2025-05-22T17:00:00-06:00,2.1
-Enoch,Wind Speed,2025-05-22T17:00:00-06:00,6.2
-Enoch,Relative Humidity,2025-05-22T17:00:00-06:00,78.0
-Enoch,Total Oxides of Nitrogen,2025-05-22T17:00:00-06:00,0.003
-Enoch,Nitrogen Dioxide,2025-05-22T17:00:00-06:00,0.003
-Enoch,Ozone,2025-05-22T17:00:00-06:00,0.037
-Enoch,Nitric Oxide,2025-05-22T17:00:00-06:00,0.0
+Enoch,Outdoor Temperature,2025-05-22T18:00:00-06:00,13.2
+Enoch,,2025-05-22T18:00:00-06:00,2.0
+Enoch,Total Oxides of Nitrogen,2025-05-22T18:00:00-06:00,0.003
+Enoch,Relative Humidity,2025-05-22T18:00:00-06:00,62.8
+Enoch,Wind Direction,2025-05-22T18:00:00-06:00,89.0
 Enoch,,2025-05-22T17:00:00-06:00,2.0
-Enoch,Relative Humidity,2025-05-22T16:00:00-06:00,66.0
-Enoch,,2025-05-22T16:00:00-06:00,3.0
+Enoch,Nitric Oxide,2025-05-22T17:00:00-06:00,0.0
+Enoch,Ozone,2025-05-22T17:00:00-06:00,0.037
+Enoch,Nitrogen Dioxide,2025-05-22T17:00:00-06:00,0.003
+Enoch,Total Oxides of Nitrogen,2025-05-22T17:00:00-06:00,0.003
+Enoch,Relative Humidity,2025-05-22T17:00:00-06:00,78.0
+Enoch,Wind Speed,2025-05-22T17:00:00-06:00,6.2
+Enoch,Fine Particulate Matter,2025-05-22T17:00:00-06:00,2.1
+Enoch,Wind Direction,2025-05-22T17:00:00-06:00,166.0
+Enoch,Outdoor Temperature,2025-05-22T17:00:00-06:00,10.2
 Enoch,Outdoor Temperature,2025-05-22T16:00:00-06:00,12.4
-Enoch,Fine Particulate Matter,2025-05-22T16:00:00-06:00,2.2
-Enoch,Wind Speed,2025-05-22T16:00:00-06:00,6.6
-Enoch,Nitrogen Dioxide,2025-05-22T16:00:00-06:00,0.003
-Enoch,Ozone,2025-05-22T16:00:00-06:00,0.037
-Enoch,Nitric Oxide,2025-05-22T16:00:00-06:00,0.0
-Enoch,Total Oxides of Nitrogen,2025-05-22T16:00:00-06:00,0.004
+Enoch,,2025-05-22T16:00:00-06:00,3.0
+Enoch,Relative Humidity,2025-05-22T16:00:00-06:00,66.0
 Enoch,Wind Direction,2025-05-22T16:00:00-06:00,165.0
-Enoch,,2025-05-22T15:00:00-06:00,3.0
-Enoch,Outdoor Temperature,2025-05-22T15:00:00-06:00,14.6
+Enoch,Total Oxides of Nitrogen,2025-05-22T16:00:00-06:00,0.004
+Enoch,Nitric Oxide,2025-05-22T16:00:00-06:00,0.0
+Enoch,Ozone,2025-05-22T16:00:00-06:00,0.037
+Enoch,Nitrogen Dioxide,2025-05-22T16:00:00-06:00,0.003
+Enoch,Wind Speed,2025-05-22T16:00:00-06:00,6.6
+Enoch,Fine Particulate Matter,2025-05-22T16:00:00-06:00,2.2
 Enoch,Wind Direction,2025-05-22T15:00:00-06:00,105.0
 Enoch,Fine Particulate Matter,2025-05-22T15:00:00-06:00,2.6
 Enoch,Wind Speed,2025-05-22T15:00:00-06:00,5.6
@@ -969,36 +977,38 @@ Enoch,Nitric Oxide,2025-05-22T15:00:00-06:00,0.001
 Enoch,Nitrogen Dioxide,2025-05-22T15:00:00-06:00,0.004
 Enoch,Total Oxides of Nitrogen,2025-05-22T15:00:00-06:00,0.004
 Enoch,Ozone,2025-05-22T15:00:00-06:00,0.043
-Enoch,Fine Particulate Matter,2025-05-22T14:00:00-06:00,3.4
-Enoch,Wind Speed,2025-05-22T14:00:00-06:00,5.8
-Enoch,Nitric Oxide,2025-05-22T14:00:00-06:00,0.001
-Enoch,Ozone,2025-05-22T14:00:00-06:00,0.039
-Enoch,Nitrogen Dioxide,2025-05-22T14:00:00-06:00,0.004
-Enoch,Total Oxides of Nitrogen,2025-05-22T14:00:00-06:00,0.006
-Enoch,Wind Direction,2025-05-22T14:00:00-06:00,78.0
-Enoch,Relative Humidity,2025-05-22T14:00:00-06:00,49.6
-Enoch,,2025-05-22T14:00:00-06:00,
+Enoch,,2025-05-22T15:00:00-06:00,3.0
+Enoch,Outdoor Temperature,2025-05-22T15:00:00-06:00,14.6
 Enoch,Outdoor Temperature,2025-05-22T14:00:00-06:00,14.8
-Enoch,Outdoor Temperature,2025-05-22T13:00:00-06:00,
-Enoch,Nitrogen Dioxide,2025-05-22T13:00:00-06:00,
-Enoch,Ozone,2025-05-22T13:00:00-06:00,
-Enoch,Relative Humidity,2025-05-22T13:00:00-06:00,
-Enoch,Total Oxides of Nitrogen,2025-05-22T13:00:00-06:00,
-Enoch,Wind Speed,2025-05-22T13:00:00-06:00,
-Enoch,Nitric Oxide,2025-05-22T13:00:00-06:00,
-Enoch,Wind Direction,2025-05-22T13:00:00-06:00,
-Enoch,Fine Particulate Matter,2025-05-22T13:00:00-06:00,
+Enoch,,2025-05-22T14:00:00-06:00,
+Enoch,Relative Humidity,2025-05-22T14:00:00-06:00,49.6
+Enoch,Wind Direction,2025-05-22T14:00:00-06:00,78.0
+Enoch,Total Oxides of Nitrogen,2025-05-22T14:00:00-06:00,0.006
+Enoch,Nitrogen Dioxide,2025-05-22T14:00:00-06:00,0.004
+Enoch,Ozone,2025-05-22T14:00:00-06:00,0.039
+Enoch,Nitric Oxide,2025-05-22T14:00:00-06:00,0.001
+Enoch,Wind Speed,2025-05-22T14:00:00-06:00,5.8
+Enoch,Fine Particulate Matter,2025-05-22T14:00:00-06:00,3.4
 Enoch,,2025-05-22T13:00:00-06:00,
-Enoch,Wind Direction,2025-05-22T12:00:00-06:00,
-Enoch,Outdoor Temperature,2025-05-22T12:00:00-06:00,
-Enoch,,2025-05-22T12:00:00-06:00,
-Enoch,Nitric Oxide,2025-05-22T12:00:00-06:00,
-Enoch,Wind Speed,2025-05-22T12:00:00-06:00,
+Enoch,Fine Particulate Matter,2025-05-22T13:00:00-06:00,
+Enoch,Wind Direction,2025-05-22T13:00:00-06:00,
+Enoch,Nitric Oxide,2025-05-22T13:00:00-06:00,
+Enoch,Wind Speed,2025-05-22T13:00:00-06:00,
+Enoch,Total Oxides of Nitrogen,2025-05-22T13:00:00-06:00,
+Enoch,Relative Humidity,2025-05-22T13:00:00-06:00,
+Enoch,Ozone,2025-05-22T13:00:00-06:00,
+Enoch,Nitrogen Dioxide,2025-05-22T13:00:00-06:00,
+Enoch,Outdoor Temperature,2025-05-22T13:00:00-06:00,
 Enoch,Total Oxides of Nitrogen,2025-05-22T12:00:00-06:00,
+Enoch,Wind Speed,2025-05-22T12:00:00-06:00,
+Enoch,Nitric Oxide,2025-05-22T12:00:00-06:00,
+Enoch,,2025-05-22T12:00:00-06:00,
+Enoch,Outdoor Temperature,2025-05-22T12:00:00-06:00,
 Enoch,Relative Humidity,2025-05-22T12:00:00-06:00,
 Enoch,Ozone,2025-05-22T12:00:00-06:00,
 Enoch,Nitrogen Dioxide,2025-05-22T12:00:00-06:00,
 Enoch,Fine Particulate Matter,2025-05-22T12:00:00-06:00,
+Enoch,Wind Direction,2025-05-22T12:00:00-06:00,
 Enoch,,2025-05-22T11:00:00-06:00,
 Enoch,Outdoor Temperature,2025-05-22T11:00:00-06:00,
 Enoch,Fine Particulate Matter,2025-05-22T11:00:00-06:00,
@@ -1009,28 +1019,26 @@ Enoch,Total Oxides of Nitrogen,2025-05-22T11:00:00-06:00,
 Enoch,Wind Speed,2025-05-22T11:00:00-06:00,
 Enoch,Nitric Oxide,2025-05-22T11:00:00-06:00,
 Enoch,Wind Direction,2025-05-22T11:00:00-06:00,
-Enoch,Outdoor Temperature,2025-05-22T10:00:00-06:00,
-Enoch,,2025-05-22T10:00:00-06:00,
-Enoch,Wind Direction,2025-05-22T10:00:00-06:00,
-Enoch,Nitric Oxide,2025-05-22T10:00:00-06:00,
-Enoch,Wind Speed,2025-05-22T10:00:00-06:00,
-Enoch,Total Oxides of Nitrogen,2025-05-22T10:00:00-06:00,
-Enoch,Relative Humidity,2025-05-22T10:00:00-06:00,
-Enoch,Ozone,2025-05-22T10:00:00-06:00,
-Enoch,Nitrogen Dioxide,2025-05-22T10:00:00-06:00,
 Enoch,Fine Particulate Matter,2025-05-22T10:00:00-06:00,
-Enoch,Wind Direction,2025-05-22T09:00:00-06:00,
-Enoch,Nitric Oxide,2025-05-22T09:00:00-06:00,
-Enoch,Wind Speed,2025-05-22T09:00:00-06:00,
-Enoch,Total Oxides of Nitrogen,2025-05-22T09:00:00-06:00,
+Enoch,Nitrogen Dioxide,2025-05-22T10:00:00-06:00,
+Enoch,Ozone,2025-05-22T10:00:00-06:00,
+Enoch,Relative Humidity,2025-05-22T10:00:00-06:00,
+Enoch,Total Oxides of Nitrogen,2025-05-22T10:00:00-06:00,
+Enoch,Wind Speed,2025-05-22T10:00:00-06:00,
+Enoch,Nitric Oxide,2025-05-22T10:00:00-06:00,
+Enoch,Wind Direction,2025-05-22T10:00:00-06:00,
+Enoch,,2025-05-22T10:00:00-06:00,
+Enoch,Outdoor Temperature,2025-05-22T10:00:00-06:00,
 Enoch,Outdoor Temperature,2025-05-22T09:00:00-06:00,
 Enoch,,2025-05-22T09:00:00-06:00,2.0
 Enoch,Relative Humidity,2025-05-22T09:00:00-06:00,
 Enoch,Ozone,2025-05-22T09:00:00-06:00,
 Enoch,Nitrogen Dioxide,2025-05-22T09:00:00-06:00,
 Enoch,Fine Particulate Matter,2025-05-22T09:00:00-06:00,
-Enoch,Outdoor Temperature,2025-05-22T08:00:00-06:00,7.4
-Enoch,,2025-05-22T08:00:00-06:00,2.0
+Enoch,Wind Direction,2025-05-22T09:00:00-06:00,
+Enoch,Nitric Oxide,2025-05-22T09:00:00-06:00,
+Enoch,Wind Speed,2025-05-22T09:00:00-06:00,
+Enoch,Total Oxides of Nitrogen,2025-05-22T09:00:00-06:00,
 Enoch,Relative Humidity,2025-05-22T08:00:00-06:00,94.5
 Enoch,Wind Direction,2025-05-22T08:00:00-06:00,287.0
 Enoch,Total Oxides of Nitrogen,2025-05-22T08:00:00-06:00,0.004
@@ -1039,6 +1047,8 @@ Enoch,Nitric Oxide,2025-05-22T08:00:00-06:00,0.001
 Enoch,Nitrogen Dioxide,2025-05-22T08:00:00-06:00,0.003
 Enoch,Wind Speed,2025-05-22T08:00:00-06:00,2.5
 Enoch,Fine Particulate Matter,2025-05-22T08:00:00-06:00,7.1
+Enoch,,2025-05-22T08:00:00-06:00,2.0
+Enoch,Outdoor Temperature,2025-05-22T08:00:00-06:00,7.4
 Enoch,,2025-05-22T07:00:00-06:00,2.0
 Enoch,Outdoor Temperature,2025-05-22T07:00:00-06:00,6.9
 Enoch,Fine Particulate Matter,2025-05-22T07:00:00-06:00,7.5
@@ -1049,46 +1059,48 @@ Enoch,Relative Humidity,2025-05-22T07:00:00-06:00,96.7
 Enoch,Nitrogen Dioxide,2025-05-22T07:00:00-06:00,0.003
 Enoch,Nitric Oxide,2025-05-22T07:00:00-06:00,0.001
 Enoch,Ozone,2025-05-22T07:00:00-06:00,0.022
-Enoch,Outdoor Temperature,2025-05-22T06:00:00-06:00,6.9
-Enoch,,2025-05-22T06:00:00-06:00,1.0
-Enoch,Nitrogen Dioxide,2025-05-22T06:00:00-06:00,0.002
-Enoch,Ozone,2025-05-22T06:00:00-06:00,0.022
-Enoch,Nitric Oxide,2025-05-22T06:00:00-06:00,0.001
-Enoch,Total Oxides of Nitrogen,2025-05-22T06:00:00-06:00,0.003
-Enoch,Relative Humidity,2025-05-22T06:00:00-06:00,97.2
-Enoch,Wind Speed,2025-05-22T06:00:00-06:00,4.2
-Enoch,Fine Particulate Matter,2025-05-22T06:00:00-06:00,7.6
 Enoch,Wind Direction,2025-05-22T06:00:00-06:00,225.0
-Enoch,Total Oxides of Nitrogen,2025-05-22T05:00:00-06:00,
-Enoch,Nitric Oxide,2025-05-22T05:00:00-06:00,
-Enoch,Wind Direction,2025-05-22T05:00:00-06:00,188.0
-Enoch,Relative Humidity,2025-05-22T05:00:00-06:00,97.7
+Enoch,Fine Particulate Matter,2025-05-22T06:00:00-06:00,7.6
+Enoch,Wind Speed,2025-05-22T06:00:00-06:00,4.2
+Enoch,Relative Humidity,2025-05-22T06:00:00-06:00,97.2
+Enoch,Total Oxides of Nitrogen,2025-05-22T06:00:00-06:00,0.003
+Enoch,Nitric Oxide,2025-05-22T06:00:00-06:00,0.001
+Enoch,Ozone,2025-05-22T06:00:00-06:00,0.022
+Enoch,Nitrogen Dioxide,2025-05-22T06:00:00-06:00,0.002
+Enoch,,2025-05-22T06:00:00-06:00,1.0
+Enoch,Outdoor Temperature,2025-05-22T06:00:00-06:00,6.9
+Enoch,Outdoor Temperature,2025-05-22T05:00:00-06:00,7.1
 Enoch,,2025-05-22T05:00:00-06:00,1.0
+Enoch,Relative Humidity,2025-05-22T05:00:00-06:00,97.7
+Enoch,Wind Direction,2025-05-22T05:00:00-06:00,188.0
+Enoch,Nitric Oxide,2025-05-22T05:00:00-06:00,
+Enoch,Total Oxides of Nitrogen,2025-05-22T05:00:00-06:00,
 Enoch,Ozone,2025-05-22T05:00:00-06:00,
 Enoch,Nitrogen Dioxide,2025-05-22T05:00:00-06:00,
 Enoch,Wind Speed,2025-05-22T05:00:00-06:00,4.1
 Enoch,Fine Particulate Matter,2025-05-22T05:00:00-06:00,6.0
-Enoch,Outdoor Temperature,2025-05-22T05:00:00-06:00,7.1
-Enoch,,2025-05-22T04:00:00-06:00,1.0
-Enoch,Outdoor Temperature,2025-05-22T04:00:00-06:00,6.7
-Enoch,Fine Particulate Matter,2025-05-22T04:00:00-06:00,5.2
-Enoch,Ozone,2025-05-22T04:00:00-06:00,0.015
-Enoch,Relative Humidity,2025-05-22T04:00:00-06:00,97.7
-Enoch,Wind Direction,2025-05-22T04:00:00-06:00,109.0
-Enoch,Nitric Oxide,2025-05-22T04:00:00-06:00,0.0
-Enoch,Total Oxides of Nitrogen,2025-05-22T04:00:00-06:00,0.002
 Enoch,Nitrogen Dioxide,2025-05-22T04:00:00-06:00,0.002
 Enoch,Wind Speed,2025-05-22T04:00:00-06:00,2.2
+Enoch,Fine Particulate Matter,2025-05-22T04:00:00-06:00,5.2
+Enoch,Outdoor Temperature,2025-05-22T04:00:00-06:00,6.7
+Enoch,,2025-05-22T04:00:00-06:00,1.0
+Enoch,Total Oxides of Nitrogen,2025-05-22T04:00:00-06:00,0.002
+Enoch,Nitric Oxide,2025-05-22T04:00:00-06:00,0.0
+Enoch,Wind Direction,2025-05-22T04:00:00-06:00,109.0
+Enoch,Relative Humidity,2025-05-22T04:00:00-06:00,97.7
+Enoch,Ozone,2025-05-22T04:00:00-06:00,0.015
+Enoch,Fine Particulate Matter,2025-05-22T03:00:00-06:00,4.3
+Enoch,Wind Speed,2025-05-22T03:00:00-06:00,3.3
+Enoch,Ozone,2025-05-22T03:00:00-06:00,0.018
+Enoch,Nitrogen Dioxide,2025-05-22T03:00:00-06:00,0.002
 Enoch,Total Oxides of Nitrogen,2025-05-22T03:00:00-06:00,0.002
 Enoch,Nitric Oxide,2025-05-22T03:00:00-06:00,0.0
 Enoch,Wind Direction,2025-05-22T03:00:00-06:00,95.0
 Enoch,Relative Humidity,2025-05-22T03:00:00-06:00,97.4
 Enoch,,2025-05-22T03:00:00-06:00,1.0
 Enoch,Outdoor Temperature,2025-05-22T03:00:00-06:00,6.8
-Enoch,Nitrogen Dioxide,2025-05-22T03:00:00-06:00,0.002
-Enoch,Ozone,2025-05-22T03:00:00-06:00,0.018
-Enoch,Wind Speed,2025-05-22T03:00:00-06:00,3.3
-Enoch,Fine Particulate Matter,2025-05-22T03:00:00-06:00,4.3
+Enoch,,2025-05-22T02:00:00-06:00,1.0
+Enoch,Outdoor Temperature,2025-05-22T02:00:00-06:00,7.0
 Enoch,Wind Direction,2025-05-22T02:00:00-06:00,84.0
 Enoch,Fine Particulate Matter,2025-05-22T02:00:00-06:00,4.5
 Enoch,Wind Speed,2025-05-22T02:00:00-06:00,3.7
@@ -1097,28 +1109,26 @@ Enoch,Nitrogen Dioxide,2025-05-22T02:00:00-06:00,0.002
 Enoch,Total Oxides of Nitrogen,2025-05-22T02:00:00-06:00,0.002
 Enoch,Nitric Oxide,2025-05-22T02:00:00-06:00,0.0
 Enoch,Ozone,2025-05-22T02:00:00-06:00,0.019
-Enoch,,2025-05-22T02:00:00-06:00,1.0
-Enoch,Outdoor Temperature,2025-05-22T02:00:00-06:00,7.0
 Enoch,Nitrogen Dioxide,2025-05-22T01:00:00-06:00,0.002
 Enoch,Total Oxides of Nitrogen,2025-05-22T01:00:00-06:00,0.002
 Enoch,Wind Speed,2025-05-22T01:00:00-06:00,3.5
 Enoch,Fine Particulate Matter,2025-05-22T01:00:00-06:00,3.0
+Enoch,,2025-05-22T01:00:00-06:00,1.0
+Enoch,Outdoor Temperature,2025-05-22T01:00:00-06:00,7.3
 Enoch,Nitric Oxide,2025-05-22T01:00:00-06:00,0.0
 Enoch,Ozone,2025-05-22T01:00:00-06:00,0.02
 Enoch,Wind Direction,2025-05-22T01:00:00-06:00,90.0
 Enoch,Relative Humidity,2025-05-22T01:00:00-06:00,96.8
-Enoch,,2025-05-22T01:00:00-06:00,1.0
-Enoch,Outdoor Temperature,2025-05-22T01:00:00-06:00,7.3
-Enoch,Ozone,2025-05-22T00:00:00-06:00,0.02
-Enoch,Total Oxides of Nitrogen,2025-05-22T00:00:00-06:00,0.002
-Enoch,Nitrogen Dioxide,2025-05-22T00:00:00-06:00,0.002
-Enoch,Wind Speed,2025-05-22T00:00:00-06:00,4.4
-Enoch,Wind Direction,2025-05-22T00:00:00-06:00,94.0
-Enoch,Fine Particulate Matter,2025-05-22T00:00:00-06:00,2.3
-Enoch,Relative Humidity,2025-05-22T00:00:00-06:00,96.5
-Enoch,Nitric Oxide,2025-05-22T00:00:00-06:00,0.0
-Enoch,,2025-05-22T00:00:00-06:00,1.0
 Enoch,Outdoor Temperature,2025-05-22T00:00:00-06:00,7.5
+Enoch,,2025-05-22T00:00:00-06:00,1.0
+Enoch,Nitric Oxide,2025-05-22T00:00:00-06:00,0.0
+Enoch,Relative Humidity,2025-05-22T00:00:00-06:00,96.5
+Enoch,Fine Particulate Matter,2025-05-22T00:00:00-06:00,2.3
+Enoch,Wind Direction,2025-05-22T00:00:00-06:00,94.0
+Enoch,Wind Speed,2025-05-22T00:00:00-06:00,4.4
+Enoch,Nitrogen Dioxide,2025-05-22T00:00:00-06:00,0.002
+Enoch,Total Oxides of Nitrogen,2025-05-22T00:00:00-06:00,0.002
+Enoch,Ozone,2025-05-22T00:00:00-06:00,0.02
 Enoch,Fine Particulate Matter,2025-05-21T23:00:00-06:00,1.4
 Enoch,Wind Speed,2025-05-21T23:00:00-06:00,3.4
 Enoch,Nitrogen Dioxide,2025-05-21T23:00:00-06:00,0.002
@@ -1132,76 +1142,73 @@ Enoch,Outdoor Temperature,2025-05-21T23:00:00-06:00,7.7
 Enoch,Fine Particulate Matter,2025-05-21T22:00:00-06:00,0.7
 Enoch,Outdoor Temperature,2025-05-21T22:00:00-06:00,7.8
 Enoch,,2025-05-21T22:00:00-06:00,1.0
-Enoch,Wind Direction,2025-05-21T22:00:00-06:00,100.0
-Enoch,Relative Humidity,2025-05-21T22:00:00-06:00,95.3
-Enoch,Total Oxides of Nitrogen,2025-05-21T22:00:00-06:00,0.001
-Enoch,Nitrogen Dioxide,2025-05-21T22:00:00-06:00,0.001
-Enoch,Nitric Oxide,2025-05-21T22:00:00-06:00,0.0
-Enoch,Wind Speed,2025-05-21T22:00:00-06:00,1.8
 Enoch,Ozone,2025-05-21T22:00:00-06:00,0.023
+Enoch,Wind Speed,2025-05-21T22:00:00-06:00,1.8
+Enoch,Nitric Oxide,2025-05-21T22:00:00-06:00,0.0
+Enoch,Nitrogen Dioxide,2025-05-21T22:00:00-06:00,0.001
+Enoch,Total Oxides of Nitrogen,2025-05-21T22:00:00-06:00,0.001
+Enoch,Relative Humidity,2025-05-21T22:00:00-06:00,95.3
+Enoch,Wind Direction,2025-05-21T22:00:00-06:00,100.0
+Enoch,Ozone,2025-05-21T21:00:00-06:00,0.023
+Enoch,Wind Speed,2025-05-21T21:00:00-06:00,1.5
+Enoch,Fine Particulate Matter,2025-05-21T21:00:00-06:00,1.4
+Enoch,Outdoor Temperature,2025-05-21T21:00:00-06:00,8.1
+Enoch,,2025-05-21T21:00:00-06:00,1.0
+Enoch,Nitric Oxide,2025-05-21T21:00:00-06:00,0.0
+Enoch,Wind Direction,2025-05-21T21:00:00-06:00,159.0
+Enoch,Relative Humidity,2025-05-21T21:00:00-06:00,94.3
 Enoch,Nitrogen Dioxide,2025-05-21T21:00:00-06:00,0.001
 Enoch,Total Oxides of Nitrogen,2025-05-21T21:00:00-06:00,0.001
-Enoch,Relative Humidity,2025-05-21T21:00:00-06:00,94.3
-Enoch,Wind Direction,2025-05-21T21:00:00-06:00,159.0
-Enoch,Nitric Oxide,2025-05-21T21:00:00-06:00,0.0
-Enoch,,2025-05-21T21:00:00-06:00,1.0
-Enoch,Outdoor Temperature,2025-05-21T21:00:00-06:00,8.1
-Enoch,Fine Particulate Matter,2025-05-21T21:00:00-06:00,1.4
-Enoch,Wind Speed,2025-05-21T21:00:00-06:00,1.5
-Enoch,Ozone,2025-05-21T21:00:00-06:00,0.023
-Enoch,,2025-05-21T20:00:00-06:00,
+Enoch,Wind Direction,2025-05-21T20:00:00-06:00,230.0
+Enoch,Relative Humidity,2025-05-21T20:00:00-06:00,91.2
 Enoch,Fine Particulate Matter,2025-05-21T20:00:00-06:00,1.1
+Enoch,,2025-05-21T20:00:00-06:00,
 Enoch,Ozone,2025-05-21T20:00:00-06:00,0.026
 Enoch,Wind Speed,2025-05-21T20:00:00-06:00,3.1
 Enoch,Nitric Oxide,2025-05-21T20:00:00-06:00,0.0
 Enoch,Nitrogen Dioxide,2025-05-21T20:00:00-06:00,0.002
 Enoch,Total Oxides of Nitrogen,2025-05-21T20:00:00-06:00,0.002
 Enoch,Outdoor Temperature,2025-05-21T20:00:00-06:00,8.7
-Enoch,Relative Humidity,2025-05-21T20:00:00-06:00,91.2
-Enoch,Wind Direction,2025-05-21T20:00:00-06:00,230.0
-Enoch,Ozone,2025-05-21T19:00:00-06:00,
-Enoch,Nitrogen Dioxide,2025-05-21T19:00:00-06:00,
-Enoch,Wind Direction,2025-05-21T19:00:00-06:00,
-Enoch,Relative Humidity,2025-05-21T19:00:00-06:00,
-Enoch,Total Oxides of Nitrogen,2025-05-21T19:00:00-06:00,
-Enoch,Fine Particulate Matter,2025-05-21T19:00:00-06:00,
 Enoch,,2025-05-21T19:00:00-06:00,
 Enoch,Outdoor Temperature,2025-05-21T19:00:00-06:00,
 Enoch,Nitric Oxide,2025-05-21T19:00:00-06:00,
 Enoch,Wind Speed,2025-05-21T19:00:00-06:00,
-Enoch,Nitric Oxide,2025-05-21T18:00:00-06:00,
+Enoch,Total Oxides of Nitrogen,2025-05-21T19:00:00-06:00,
+Enoch,Relative Humidity,2025-05-21T19:00:00-06:00,
+Enoch,Wind Direction,2025-05-21T19:00:00-06:00,
+Enoch,Nitrogen Dioxide,2025-05-21T19:00:00-06:00,
+Enoch,Ozone,2025-05-21T19:00:00-06:00,
+Enoch,Fine Particulate Matter,2025-05-21T19:00:00-06:00,
+Enoch,Outdoor Temperature,2025-05-21T18:00:00-06:00,
 Enoch,Ozone,2025-05-21T18:00:00-06:00,
 Enoch,Nitrogen Dioxide,2025-05-21T18:00:00-06:00,
 Enoch,Wind Direction,2025-05-21T18:00:00-06:00,
 Enoch,Relative Humidity,2025-05-21T18:00:00-06:00,
 Enoch,Total Oxides of Nitrogen,2025-05-21T18:00:00-06:00,
 Enoch,Wind Speed,2025-05-21T18:00:00-06:00,
-Enoch,Outdoor Temperature,2025-05-21T18:00:00-06:00,
-Enoch,Fine Particulate Matter,2025-05-21T18:00:00-06:00,
+Enoch,Nitric Oxide,2025-05-21T18:00:00-06:00,
 Enoch,,2025-05-21T18:00:00-06:00,
-Enoch,Outdoor Temperature,2025-05-21T17:00:00-06:00,
-Enoch,,2025-05-21T17:00:00-06:00,2.0
-Enoch,Nitric Oxide,2025-05-21T17:00:00-06:00,
-Enoch,Wind Speed,2025-05-21T17:00:00-06:00,
-Enoch,Total Oxides of Nitrogen,2025-05-21T17:00:00-06:00,
+Enoch,Fine Particulate Matter,2025-05-21T18:00:00-06:00,
 Enoch,Relative Humidity,2025-05-21T17:00:00-06:00,
+Enoch,Total Oxides of Nitrogen,2025-05-21T17:00:00-06:00,
+Enoch,Wind Speed,2025-05-21T17:00:00-06:00,
+Enoch,Nitric Oxide,2025-05-21T17:00:00-06:00,
+Enoch,,2025-05-21T17:00:00-06:00,2.0
 Enoch,Wind Direction,2025-05-21T17:00:00-06:00,
 Enoch,Nitrogen Dioxide,2025-05-21T17:00:00-06:00,
-Enoch,Ozone,2025-05-21T17:00:00-06:00,
 Enoch,Fine Particulate Matter,2025-05-21T17:00:00-06:00,
-Enoch,Fine Particulate Matter,2025-05-21T16:00:00-06:00,0.7
-Enoch,,2025-05-21T16:00:00-06:00,2.0
+Enoch,Ozone,2025-05-21T17:00:00-06:00,
+Enoch,Outdoor Temperature,2025-05-21T17:00:00-06:00,
 Enoch,Outdoor Temperature,2025-05-21T16:00:00-06:00,9.3
-Enoch,Wind Direction,2025-05-21T16:00:00-06:00,85.0
-Enoch,Wind Speed,2025-05-21T16:00:00-06:00,6.7
-Enoch,Total Oxides of Nitrogen,2025-05-21T16:00:00-06:00,0.003
-Enoch,Nitric Oxide,2025-05-21T16:00:00-06:00,0.001
-Enoch,Ozone,2025-05-21T16:00:00-06:00,0.028
-Enoch,Nitrogen Dioxide,2025-05-21T16:00:00-06:00,0.002
+Enoch,,2025-05-21T16:00:00-06:00,2.0
 Enoch,Relative Humidity,2025-05-21T16:00:00-06:00,83.1
-Enoch,,2025-05-21T15:00:00-06:00,1.0
-Enoch,Outdoor Temperature,2025-05-21T15:00:00-06:00,8.9
-Enoch,Fine Particulate Matter,2025-05-21T15:00:00-06:00,0.6
+Enoch,Nitrogen Dioxide,2025-05-21T16:00:00-06:00,0.002
+Enoch,Ozone,2025-05-21T16:00:00-06:00,0.028
+Enoch,Nitric Oxide,2025-05-21T16:00:00-06:00,0.001
+Enoch,Total Oxides of Nitrogen,2025-05-21T16:00:00-06:00,0.003
+Enoch,Wind Speed,2025-05-21T16:00:00-06:00,6.7
+Enoch,Wind Direction,2025-05-21T16:00:00-06:00,85.0
+Enoch,Fine Particulate Matter,2025-05-21T16:00:00-06:00,0.7
 Enoch,Wind Direction,2025-05-21T15:00:00-06:00,87.0
 Enoch,Ozone,2025-05-21T15:00:00-06:00,0.026
 Enoch,Wind Speed,2025-05-21T15:00:00-06:00,6.0
@@ -1209,36 +1216,42 @@ Enoch,Nitric Oxide,2025-05-21T15:00:00-06:00,0.0
 Enoch,Total Oxides of Nitrogen,2025-05-21T15:00:00-06:00,0.003
 Enoch,Nitrogen Dioxide,2025-05-21T15:00:00-06:00,0.002
 Enoch,Relative Humidity,2025-05-21T15:00:00-06:00,85.2
-Enoch,Wind Speed,2025-05-21T14:00:00-06:00,5.7
-Enoch,Nitric Oxide,2025-05-21T14:00:00-06:00,0.001
-Enoch,Nitrogen Dioxide,2025-05-21T14:00:00-06:00,0.002
-Enoch,Total Oxides of Nitrogen,2025-05-21T14:00:00-06:00,0.002
-Enoch,Ozone,2025-05-21T14:00:00-06:00,0.025
-Enoch,Relative Humidity,2025-05-21T14:00:00-06:00,84.0
-Enoch,Wind Direction,2025-05-21T14:00:00-06:00,103.0
-Enoch,,2025-05-21T14:00:00-06:00,1.0
+Enoch,Fine Particulate Matter,2025-05-21T15:00:00-06:00,0.6
+Enoch,,2025-05-21T15:00:00-06:00,1.0
+Enoch,Outdoor Temperature,2025-05-21T15:00:00-06:00,8.9
 Enoch,Outdoor Temperature,2025-05-21T14:00:00-06:00,9.1
+Enoch,,2025-05-21T14:00:00-06:00,1.0
+Enoch,Wind Direction,2025-05-21T14:00:00-06:00,103.0
+Enoch,Relative Humidity,2025-05-21T14:00:00-06:00,84.0
+Enoch,Ozone,2025-05-21T14:00:00-06:00,0.025
+Enoch,Total Oxides of Nitrogen,2025-05-21T14:00:00-06:00,0.002
+Enoch,Nitrogen Dioxide,2025-05-21T14:00:00-06:00,0.002
+Enoch,Nitric Oxide,2025-05-21T14:00:00-06:00,0.001
+Enoch,Wind Speed,2025-05-21T14:00:00-06:00,5.7
 Enoch,Fine Particulate Matter,2025-05-21T14:00:00-06:00,0.6
-Enoch,Outdoor Temperature,2025-05-21T13:00:00-06:00,8.4
-Enoch,Ozone,2025-05-21T13:00:00-06:00,0.021
-Enoch,Relative Humidity,2025-05-21T13:00:00-06:00,88.7
-Enoch,,2025-05-21T13:00:00-06:00,1.0
-Enoch,Total Oxides of Nitrogen,2025-05-21T13:00:00-06:00,0.003
-Enoch,Wind Direction,2025-05-21T13:00:00-06:00,89.0
-Enoch,Nitric Oxide,2025-05-21T13:00:00-06:00,0.001
-Enoch,Wind Speed,2025-05-21T13:00:00-06:00,6.0
 Enoch,Nitrogen Dioxide,2025-05-21T13:00:00-06:00,0.002
+Enoch,Wind Speed,2025-05-21T13:00:00-06:00,6.0
+Enoch,Nitric Oxide,2025-05-21T13:00:00-06:00,0.001
+Enoch,Total Oxides of Nitrogen,2025-05-21T13:00:00-06:00,0.003
+Enoch,,2025-05-21T13:00:00-06:00,1.0
+Enoch,Relative Humidity,2025-05-21T13:00:00-06:00,88.7
+Enoch,Ozone,2025-05-21T13:00:00-06:00,0.021
+Enoch,Outdoor Temperature,2025-05-21T13:00:00-06:00,8.4
+Enoch,Wind Direction,2025-05-21T13:00:00-06:00,89.0
 Enoch,Fine Particulate Matter,2025-05-21T13:00:00-06:00,0.9
-Enoch,Fine Particulate Matter,2025-05-21T12:00:00-06:00,1.4
-Enoch,Wind Speed,2025-05-21T12:00:00-06:00,5.2
-Enoch,Wind Direction,2025-05-21T12:00:00-06:00,88.0
-Enoch,Outdoor Temperature,2025-05-21T12:00:00-06:00,8.0
-Enoch,,2025-05-21T12:00:00-06:00,1.0
-Enoch,Relative Humidity,2025-05-21T12:00:00-06:00,90.8
-Enoch,Ozone,2025-05-21T12:00:00-06:00,0.017
 Enoch,Nitrogen Dioxide,2025-05-21T12:00:00-06:00,0.003
 Enoch,Nitric Oxide,2025-05-21T12:00:00-06:00,0.001
 Enoch,Total Oxides of Nitrogen,2025-05-21T12:00:00-06:00,0.004
+Enoch,Ozone,2025-05-21T12:00:00-06:00,0.017
+Enoch,Relative Humidity,2025-05-21T12:00:00-06:00,90.8
+Enoch,,2025-05-21T12:00:00-06:00,1.0
+Enoch,Outdoor Temperature,2025-05-21T12:00:00-06:00,8.0
+Enoch,Wind Direction,2025-05-21T12:00:00-06:00,88.0
+Enoch,Wind Speed,2025-05-21T12:00:00-06:00,5.2
+Enoch,Fine Particulate Matter,2025-05-21T12:00:00-06:00,1.4
+Enoch,,2025-05-21T11:00:00-06:00,1.0
+Enoch,Outdoor Temperature,2025-05-21T11:00:00-06:00,8.0
+Enoch,Fine Particulate Matter,2025-05-21T11:00:00-06:00,1.6
 Enoch,Nitric Oxide,2025-05-21T11:00:00-06:00,0.001
 Enoch,Nitrogen Dioxide,2025-05-21T11:00:00-06:00,0.003
 Enoch,Wind Direction,2025-05-21T11:00:00-06:00,88.0
@@ -1246,9 +1259,7 @@ Enoch,Relative Humidity,2025-05-21T11:00:00-06:00,90.5
 Enoch,Ozone,2025-05-21T11:00:00-06:00,0.019
 Enoch,Total Oxides of Nitrogen,2025-05-21T11:00:00-06:00,0.004
 Enoch,Wind Speed,2025-05-21T11:00:00-06:00,5.4
-Enoch,Outdoor Temperature,2025-05-21T11:00:00-06:00,8.0
-Enoch,,2025-05-21T11:00:00-06:00,1.0
-Enoch,Fine Particulate Matter,2025-05-21T11:00:00-06:00,1.6
+Enoch,Ozone,2025-05-21T10:00:00-06:00,0.018
 Enoch,Wind Speed,2025-05-21T10:00:00-06:00,5.0
 Enoch,Nitrogen Dioxide,2025-05-21T10:00:00-06:00,0.004
 Enoch,Total Oxides of Nitrogen,2025-05-21T10:00:00-06:00,0.005
@@ -1258,18 +1269,19 @@ Enoch,Nitric Oxide,2025-05-21T10:00:00-06:00,0.001
 Enoch,,2025-05-21T10:00:00-06:00,1.0
 Enoch,Outdoor Temperature,2025-05-21T10:00:00-06:00,7.6
 Enoch,Fine Particulate Matter,2025-05-21T10:00:00-06:00,1.5
-Enoch,Ozone,2025-05-21T10:00:00-06:00,0.018
-Enoch,Ozone,2025-05-21T09:00:00-06:00,0.018
 Enoch,Wind Speed,2025-05-21T09:00:00-06:00,5.8
 Enoch,Nitric Oxide,2025-05-21T09:00:00-06:00,0.001
 Enoch,Nitrogen Dioxide,2025-05-21T09:00:00-06:00,0.004
 Enoch,,2025-05-21T09:00:00-06:00,1.0
 Enoch,Outdoor Temperature,2025-05-21T09:00:00-06:00,7.2
 Enoch,Fine Particulate Matter,2025-05-21T09:00:00-06:00,1.8
+Enoch,Ozone,2025-05-21T09:00:00-06:00,0.018
 Enoch,Wind Direction,2025-05-21T09:00:00-06:00,87.0
 Enoch,Relative Humidity,2025-05-21T09:00:00-06:00,94.8
 Enoch,Total Oxides of Nitrogen,2025-05-21T09:00:00-06:00,0.004
 Enoch,Fine Particulate Matter,2025-05-21T08:00:00-06:00,2.7
+Enoch,Wind Speed,2025-05-21T08:00:00-06:00,5.9
+Enoch,Nitrogen Dioxide,2025-05-21T08:00:00-06:00,0.003
 Enoch,Outdoor Temperature,2025-05-21T08:00:00-06:00,7.1
 Enoch,,2025-05-21T08:00:00-06:00,1.0
 Enoch,Nitric Oxide,2025-05-21T08:00:00-06:00,0.0
@@ -1277,18 +1289,16 @@ Enoch,Wind Direction,2025-05-21T08:00:00-06:00,83.0
 Enoch,Relative Humidity,2025-05-21T08:00:00-06:00,96.1
 Enoch,Ozone,2025-05-21T08:00:00-06:00,0.019
 Enoch,Total Oxides of Nitrogen,2025-05-21T08:00:00-06:00,0.004
-Enoch,Nitrogen Dioxide,2025-05-21T08:00:00-06:00,0.003
-Enoch,Wind Speed,2025-05-21T08:00:00-06:00,5.9
-Enoch,Fine Particulate Matter,2025-05-21T07:00:00-06:00,2.9
-Enoch,Nitrogen Dioxide,2025-05-21T07:00:00-06:00,0.004
-Enoch,Nitric Oxide,2025-05-21T07:00:00-06:00,0.0
-Enoch,Wind Direction,2025-05-21T07:00:00-06:00,65.0
-Enoch,Relative Humidity,2025-05-21T07:00:00-06:00,95.9
-Enoch,Ozone,2025-05-21T07:00:00-06:00,0.02
-Enoch,Total Oxides of Nitrogen,2025-05-21T07:00:00-06:00,0.004
-Enoch,Wind Speed,2025-05-21T07:00:00-06:00,4.8
-Enoch,Outdoor Temperature,2025-05-21T07:00:00-06:00,7.3
 Enoch,,2025-05-21T07:00:00-06:00,2.0
+Enoch,Outdoor Temperature,2025-05-21T07:00:00-06:00,7.3
+Enoch,Wind Speed,2025-05-21T07:00:00-06:00,4.8
+Enoch,Total Oxides of Nitrogen,2025-05-21T07:00:00-06:00,0.004
+Enoch,Ozone,2025-05-21T07:00:00-06:00,0.02
+Enoch,Relative Humidity,2025-05-21T07:00:00-06:00,95.9
+Enoch,Wind Direction,2025-05-21T07:00:00-06:00,65.0
+Enoch,Nitric Oxide,2025-05-21T07:00:00-06:00,0.0
+Enoch,Nitrogen Dioxide,2025-05-21T07:00:00-06:00,0.004
+Enoch,Fine Particulate Matter,2025-05-21T07:00:00-06:00,2.9
 Enoch,Wind Direction,2025-05-21T06:00:00-06:00,65.0
 Enoch,Wind Speed,2025-05-21T06:00:00-06:00,4.1
 Enoch,Nitric Oxide,2025-05-21T06:00:00-06:00,0.0
@@ -1299,7 +1309,6 @@ Enoch,Relative Humidity,2025-05-21T06:00:00-06:00,95.8
 Enoch,,2025-05-21T06:00:00-06:00,2.0
 Enoch,Outdoor Temperature,2025-05-21T06:00:00-06:00,7.3
 Enoch,Fine Particulate Matter,2025-05-21T06:00:00-06:00,2.6
-Enoch,Fine Particulate Matter,2025-05-21T05:00:00-06:00,2.4
 Enoch,Ozone,2025-05-21T05:00:00-06:00,
 Enoch,Wind Speed,2025-05-21T05:00:00-06:00,4.3
 Enoch,Nitrogen Dioxide,2025-05-21T05:00:00-06:00,
@@ -1309,16 +1318,18 @@ Enoch,Relative Humidity,2025-05-21T05:00:00-06:00,95.7
 Enoch,Wind Direction,2025-05-21T05:00:00-06:00,75.0
 Enoch,,2025-05-21T05:00:00-06:00,2.0
 Enoch,Outdoor Temperature,2025-05-21T05:00:00-06:00,7.5
-Enoch,Fine Particulate Matter,2025-05-21T04:00:00-06:00,3.0
-Enoch,Nitric Oxide,2025-05-21T04:00:00-06:00,0.0
-Enoch,Wind Direction,2025-05-21T04:00:00-06:00,50.0
-Enoch,Relative Humidity,2025-05-21T04:00:00-06:00,96.0
-Enoch,Ozone,2025-05-21T04:00:00-06:00,0.02
-Enoch,Total Oxides of Nitrogen,2025-05-21T04:00:00-06:00,0.004
-Enoch,Nitrogen Dioxide,2025-05-21T04:00:00-06:00,0.004
+Enoch,Fine Particulate Matter,2025-05-21T05:00:00-06:00,2.4
 Enoch,Wind Speed,2025-05-21T04:00:00-06:00,4.2
+Enoch,Nitrogen Dioxide,2025-05-21T04:00:00-06:00,0.004
+Enoch,Total Oxides of Nitrogen,2025-05-21T04:00:00-06:00,0.004
+Enoch,Ozone,2025-05-21T04:00:00-06:00,0.02
+Enoch,Relative Humidity,2025-05-21T04:00:00-06:00,96.0
 Enoch,Outdoor Temperature,2025-05-21T04:00:00-06:00,7.8
 Enoch,,2025-05-21T04:00:00-06:00,2.0
+Enoch,Wind Direction,2025-05-21T04:00:00-06:00,50.0
+Enoch,Nitric Oxide,2025-05-21T04:00:00-06:00,0.0
+Enoch,Fine Particulate Matter,2025-05-21T04:00:00-06:00,3.0
+Enoch,Fine Particulate Matter,2025-05-21T03:00:00-06:00,2.4
 Enoch,Wind Speed,2025-05-21T03:00:00-06:00,4.7
 Enoch,Nitrogen Dioxide,2025-05-21T03:00:00-06:00,0.004
 Enoch,Ozone,2025-05-21T03:00:00-06:00,0.022
@@ -1328,7 +1339,9 @@ Enoch,Wind Direction,2025-05-21T03:00:00-06:00,61.0
 Enoch,Nitric Oxide,2025-05-21T03:00:00-06:00,0.0
 Enoch,,2025-05-21T03:00:00-06:00,2.0
 Enoch,Outdoor Temperature,2025-05-21T03:00:00-06:00,7.8
-Enoch,Fine Particulate Matter,2025-05-21T03:00:00-06:00,2.4
+Enoch,Fine Particulate Matter,2025-05-21T02:00:00-06:00,2.3
+Enoch,,2025-05-21T02:00:00-06:00,2.0
+Enoch,Outdoor Temperature,2025-05-21T02:00:00-06:00,7.9
 Enoch,Wind Direction,2025-05-21T02:00:00-06:00,65.0
 Enoch,Wind Speed,2025-05-21T02:00:00-06:00,4.2
 Enoch,Nitric Oxide,2025-05-21T02:00:00-06:00,0.0
@@ -1336,9 +1349,6 @@ Enoch,Total Oxides of Nitrogen,2025-05-21T02:00:00-06:00,0.003
 Enoch,Nitrogen Dioxide,2025-05-21T02:00:00-06:00,0.003
 Enoch,Ozone,2025-05-21T02:00:00-06:00,0.022
 Enoch,Relative Humidity,2025-05-21T02:00:00-06:00,96.5
-Enoch,Fine Particulate Matter,2025-05-21T02:00:00-06:00,2.3
-Enoch,,2025-05-21T02:00:00-06:00,2.0
-Enoch,Outdoor Temperature,2025-05-21T02:00:00-06:00,7.9
 Enoch,Fine Particulate Matter,2025-05-21T01:00:00-06:00,2.9
 Enoch,Outdoor Temperature,2025-05-21T01:00:00-06:00,8.0
 Enoch,,2025-05-21T01:00:00-06:00,2.0
@@ -1349,76 +1359,77 @@ Enoch,Total Oxides of Nitrogen,2025-05-21T01:00:00-06:00,0.003
 Enoch,Nitric Oxide,2025-05-21T01:00:00-06:00,0.0
 Enoch,Wind Speed,2025-05-21T01:00:00-06:00,5.0
 Enoch,Ozone,2025-05-21T01:00:00-06:00,0.023
-Enoch,,2025-05-21T00:00:00-06:00,1.0
-Enoch,Outdoor Temperature,2025-05-21T00:00:00-06:00,8.2
-Enoch,Fine Particulate Matter,2025-05-21T00:00:00-06:00,4.6
-Enoch,Wind Speed,2025-05-21T00:00:00-06:00,4.4
-Enoch,Total Oxides of Nitrogen,2025-05-21T00:00:00-06:00,0.004
-Enoch,Nitrogen Dioxide,2025-05-21T00:00:00-06:00,0.003
 Enoch,Nitric Oxide,2025-05-21T00:00:00-06:00,0.0
 Enoch,Wind Direction,2025-05-21T00:00:00-06:00,275.0
 Enoch,Ozone,2025-05-21T00:00:00-06:00,0.021
 Enoch,Relative Humidity,2025-05-21T00:00:00-06:00,95.8
+Enoch,Nitrogen Dioxide,2025-05-21T00:00:00-06:00,0.003
+Enoch,Total Oxides of Nitrogen,2025-05-21T00:00:00-06:00,0.004
+Enoch,,2025-05-21T00:00:00-06:00,1.0
+Enoch,Outdoor Temperature,2025-05-21T00:00:00-06:00,8.2
+Enoch,Fine Particulate Matter,2025-05-21T00:00:00-06:00,4.6
+Enoch,Wind Speed,2025-05-21T00:00:00-06:00,4.4
 Enoch,Ozone,2025-05-20T23:00:00-06:00,0.016
 Enoch,Outdoor Temperature,2025-05-20T23:00:00-06:00,8.5
-Enoch,Nitric Oxide,2025-05-20T23:00:00-06:00,0.001
-Enoch,Fine Particulate Matter,2025-05-20T23:00:00-06:00,4.2
-Enoch,Nitrogen Dioxide,2025-05-20T23:00:00-06:00,0.004
-Enoch,Total Oxides of Nitrogen,2025-05-20T23:00:00-06:00,0.005
-Enoch,Relative Humidity,2025-05-20T23:00:00-06:00,95.4
 Enoch,,2025-05-20T23:00:00-06:00,1.0
 Enoch,Wind Speed,2025-05-20T23:00:00-06:00,1.7
 Enoch,Wind Direction,2025-05-20T23:00:00-06:00,260.0
+Enoch,Relative Humidity,2025-05-20T23:00:00-06:00,95.4
+Enoch,Total Oxides of Nitrogen,2025-05-20T23:00:00-06:00,0.005
+Enoch,Nitrogen Dioxide,2025-05-20T23:00:00-06:00,0.004
+Enoch,Fine Particulate Matter,2025-05-20T23:00:00-06:00,4.2
+Enoch,Nitric Oxide,2025-05-20T23:00:00-06:00,0.001
+Enoch,,2025-05-20T22:00:00-06:00,1.0
+Enoch,Relative Humidity,2025-05-20T22:00:00-06:00,94.6
+Enoch,Fine Particulate Matter,2025-05-20T22:00:00-06:00,3.0
+Enoch,Wind Direction,2025-05-20T22:00:00-06:00,144.0
+Enoch,Wind Speed,2025-05-20T22:00:00-06:00,0.9
+Enoch,Nitrogen Dioxide,2025-05-20T22:00:00-06:00,0.002
+Enoch,Total Oxides of Nitrogen,2025-05-20T22:00:00-06:00,0.002
 Enoch,Outdoor Temperature,2025-05-20T22:00:00-06:00,8.3
 Enoch,Nitric Oxide,2025-05-20T22:00:00-06:00,0.0
 Enoch,Ozone,2025-05-20T22:00:00-06:00,0.018
-Enoch,Total Oxides of Nitrogen,2025-05-20T22:00:00-06:00,0.002
-Enoch,Nitrogen Dioxide,2025-05-20T22:00:00-06:00,0.002
-Enoch,Wind Speed,2025-05-20T22:00:00-06:00,0.9
-Enoch,Wind Direction,2025-05-20T22:00:00-06:00,144.0
-Enoch,Fine Particulate Matter,2025-05-20T22:00:00-06:00,3.0
-Enoch,Relative Humidity,2025-05-20T22:00:00-06:00,94.6
-Enoch,,2025-05-20T22:00:00-06:00,1.0
-Enoch,Outdoor Temperature,2025-05-20T21:00:00-06:00,8.8
-Enoch,,2025-05-20T21:00:00-06:00,2.0
-Enoch,Wind Direction,2025-05-20T21:00:00-06:00,112.0
-Enoch,Wind Speed,2025-05-20T21:00:00-06:00,3.7
-Enoch,Fine Particulate Matter,2025-05-20T21:00:00-06:00,4.1
 Enoch,Ozone,2025-05-20T21:00:00-06:00,0.017
 Enoch,Relative Humidity,2025-05-20T21:00:00-06:00,93.5
 Enoch,Nitrogen Dioxide,2025-05-20T21:00:00-06:00,0.004
 Enoch,Nitric Oxide,2025-05-20T21:00:00-06:00,0.0
+Enoch,Fine Particulate Matter,2025-05-20T21:00:00-06:00,4.1
+Enoch,Wind Speed,2025-05-20T21:00:00-06:00,3.7
+Enoch,Wind Direction,2025-05-20T21:00:00-06:00,112.0
+Enoch,,2025-05-20T21:00:00-06:00,2.0
+Enoch,Outdoor Temperature,2025-05-20T21:00:00-06:00,8.8
 Enoch,Total Oxides of Nitrogen,2025-05-20T21:00:00-06:00,0.004
-Enoch,Total Oxides of Nitrogen,2025-05-20T20:00:00-06:00,0.006
-Enoch,Fine Particulate Matter,2025-05-20T20:00:00-06:00,5.2
-Enoch,Wind Speed,2025-05-20T20:00:00-06:00,5.2
-Enoch,Ozone,2025-05-20T20:00:00-06:00,0.018
-Enoch,Wind Direction,2025-05-20T20:00:00-06:00,94.0
-Enoch,,2025-05-20T20:00:00-06:00,2.0
 Enoch,Outdoor Temperature,2025-05-20T20:00:00-06:00,10.0
+Enoch,,2025-05-20T20:00:00-06:00,2.0
+Enoch,Wind Direction,2025-05-20T20:00:00-06:00,94.0
+Enoch,Ozone,2025-05-20T20:00:00-06:00,0.018
+Enoch,Wind Speed,2025-05-20T20:00:00-06:00,5.2
+Enoch,Fine Particulate Matter,2025-05-20T20:00:00-06:00,5.2
+Enoch,Total Oxides of Nitrogen,2025-05-20T20:00:00-06:00,0.006
 Enoch,Relative Humidity,2025-05-20T20:00:00-06:00,85.1
 Enoch,Nitrogen Dioxide,2025-05-20T20:00:00-06:00,0.006
 Enoch,Nitric Oxide,2025-05-20T20:00:00-06:00,0.001
-Enoch,,2025-05-20T19:00:00-06:00,2.0
-Enoch,Wind Direction,2025-05-20T19:00:00-06:00,23.0
-Enoch,Nitric Oxide,2025-05-20T19:00:00-06:00,0.001
-Enoch,Wind Speed,2025-05-20T19:00:00-06:00,6.1
-Enoch,Nitrogen Dioxide,2025-05-20T19:00:00-06:00,0.006
-Enoch,Total Oxides of Nitrogen,2025-05-20T19:00:00-06:00,0.007
-Enoch,Relative Humidity,2025-05-20T19:00:00-06:00,75.4
 Enoch,Ozone,2025-05-20T19:00:00-06:00,0.024
 Enoch,Outdoor Temperature,2025-05-20T19:00:00-06:00,11.1
 Enoch,Fine Particulate Matter,2025-05-20T19:00:00-06:00,8.6
+Enoch,Relative Humidity,2025-05-20T19:00:00-06:00,75.4
+Enoch,Total Oxides of Nitrogen,2025-05-20T19:00:00-06:00,0.007
+Enoch,Nitrogen Dioxide,2025-05-20T19:00:00-06:00,0.006
+Enoch,Wind Speed,2025-05-20T19:00:00-06:00,6.1
+Enoch,Nitric Oxide,2025-05-20T19:00:00-06:00,0.001
+Enoch,Wind Direction,2025-05-20T19:00:00-06:00,23.0
+Enoch,,2025-05-20T19:00:00-06:00,2.0
+Enoch,Nitrogen Dioxide,2025-05-20T18:00:00-06:00,0.004
+Enoch,Total Oxides of Nitrogen,2025-05-20T18:00:00-06:00,0.004
 Enoch,Relative Humidity,2025-05-20T18:00:00-06:00,70.7
 Enoch,Fine Particulate Matter,2025-05-20T18:00:00-06:00,11.7
 Enoch,Wind Direction,2025-05-20T18:00:00-06:00,17.0
-Enoch,Outdoor Temperature,2025-05-20T18:00:00-06:00,11.2
-Enoch,Ozone,2025-05-20T18:00:00-06:00,0.028
-Enoch,Total Oxides of Nitrogen,2025-05-20T18:00:00-06:00,0.004
-Enoch,Nitrogen Dioxide,2025-05-20T18:00:00-06:00,0.004
-Enoch,,2025-05-20T18:00:00-06:00,2.0
-Enoch,Nitric Oxide,2025-05-20T18:00:00-06:00,0.001
 Enoch,Wind Speed,2025-05-20T18:00:00-06:00,3.0
+Enoch,Nitric Oxide,2025-05-20T18:00:00-06:00,0.001
+Enoch,,2025-05-20T18:00:00-06:00,2.0
+Enoch,Ozone,2025-05-20T18:00:00-06:00,0.028
+Enoch,Outdoor Temperature,2025-05-20T18:00:00-06:00,11.2
+Enoch,,2025-05-20T17:00:00-06:00,2.0
 Enoch,Ozone,2025-05-20T17:00:00-06:00,0.024
 Enoch,Outdoor Temperature,2025-05-20T17:00:00-06:00,10.9
 Enoch,Nitric Oxide,2025-05-20T17:00:00-06:00,0.002
@@ -1428,37 +1439,36 @@ Enoch,Fine Particulate Matter,2025-05-20T17:00:00-06:00,13.2
 Enoch,Relative Humidity,2025-05-20T17:00:00-06:00,74.5
 Enoch,Total Oxides of Nitrogen,2025-05-20T17:00:00-06:00,0.007
 Enoch,Nitrogen Dioxide,2025-05-20T17:00:00-06:00,0.005
-Enoch,,2025-05-20T17:00:00-06:00,2.0
-Enoch,Outdoor Temperature,2025-05-20T16:00:00-06:00,9.9
 Enoch,Ozone,2025-05-20T16:00:00-06:00,0.021
-Enoch,,2025-05-20T16:00:00-06:00,2.0
-Enoch,Nitrogen Dioxide,2025-05-20T16:00:00-06:00,0.007
-Enoch,Total Oxides of Nitrogen,2025-05-20T16:00:00-06:00,0.009
-Enoch,Relative Humidity,2025-05-20T16:00:00-06:00,81.6
-Enoch,Fine Particulate Matter,2025-05-20T16:00:00-06:00,10.8
-Enoch,Wind Direction,2025-05-20T16:00:00-06:00,40.0
-Enoch,Wind Speed,2025-05-20T16:00:00-06:00,3.0
+Enoch,Outdoor Temperature,2025-05-20T16:00:00-06:00,9.9
 Enoch,Nitric Oxide,2025-05-20T16:00:00-06:00,0.002
+Enoch,Wind Speed,2025-05-20T16:00:00-06:00,3.0
+Enoch,Wind Direction,2025-05-20T16:00:00-06:00,40.0
+Enoch,Fine Particulate Matter,2025-05-20T16:00:00-06:00,10.8
+Enoch,Relative Humidity,2025-05-20T16:00:00-06:00,81.6
+Enoch,Total Oxides of Nitrogen,2025-05-20T16:00:00-06:00,0.009
+Enoch,Nitrogen Dioxide,2025-05-20T16:00:00-06:00,0.007
+Enoch,,2025-05-20T16:00:00-06:00,2.0
+Enoch,Total Oxides of Nitrogen,2025-05-20T15:00:00-06:00,0.007
+Enoch,Nitrogen Dioxide,2025-05-20T15:00:00-06:00,0.006
+Enoch,Ozone,2025-05-20T15:00:00-06:00,0.02
+Enoch,Outdoor Temperature,2025-05-20T15:00:00-06:00,9.8
 Enoch,,2025-05-20T15:00:00-06:00,2.0
 Enoch,Wind Direction,2025-05-20T15:00:00-06:00,32.0
 Enoch,Wind Speed,2025-05-20T15:00:00-06:00,7.1
-Enoch,Fine Particulate Matter,2025-05-20T15:00:00-06:00,11.8
-Enoch,Outdoor Temperature,2025-05-20T15:00:00-06:00,9.8
-Enoch,Total Oxides of Nitrogen,2025-05-20T15:00:00-06:00,0.007
-Enoch,Ozone,2025-05-20T15:00:00-06:00,0.02
-Enoch,Nitrogen Dioxide,2025-05-20T15:00:00-06:00,0.006
 Enoch,Nitric Oxide,2025-05-20T15:00:00-06:00,0.002
 Enoch,Relative Humidity,2025-05-20T15:00:00-06:00,80.7
+Enoch,Fine Particulate Matter,2025-05-20T15:00:00-06:00,11.8
 Enoch,Outdoor Temperature,2025-05-20T14:00:00-06:00,11.0
-Enoch,Nitric Oxide,2025-05-20T14:00:00-06:00,0.003
-Enoch,Relative Humidity,2025-05-20T14:00:00-06:00,72.9
-Enoch,Ozone,2025-05-20T14:00:00-06:00,0.021
-Enoch,Nitrogen Dioxide,2025-05-20T14:00:00-06:00,0.005
-Enoch,Total Oxides of Nitrogen,2025-05-20T14:00:00-06:00,0.008
-Enoch,Fine Particulate Matter,2025-05-20T14:00:00-06:00,11.0
-Enoch,Wind Speed,2025-05-20T14:00:00-06:00,8.3
-Enoch,Wind Direction,2025-05-20T14:00:00-06:00,14.0
 Enoch,,2025-05-20T14:00:00-06:00,2.0
+Enoch,Wind Direction,2025-05-20T14:00:00-06:00,14.0
+Enoch,Wind Speed,2025-05-20T14:00:00-06:00,8.3
+Enoch,Fine Particulate Matter,2025-05-20T14:00:00-06:00,11.0
+Enoch,Total Oxides of Nitrogen,2025-05-20T14:00:00-06:00,0.008
+Enoch,Nitrogen Dioxide,2025-05-20T14:00:00-06:00,0.005
+Enoch,Ozone,2025-05-20T14:00:00-06:00,0.021
+Enoch,Relative Humidity,2025-05-20T14:00:00-06:00,72.9
+Enoch,Nitric Oxide,2025-05-20T14:00:00-06:00,0.003
 Enoch,Wind Speed,2025-05-20T13:00:00-06:00,5.8
 Enoch,Wind Direction,2025-05-20T13:00:00-06:00,350.0
 Enoch,Fine Particulate Matter,2025-05-20T13:00:00-06:00,11.9
@@ -1469,46 +1479,46 @@ Enoch,Outdoor Temperature,2025-05-20T13:00:00-06:00,10.5
 Enoch,Ozone,2025-05-20T13:00:00-06:00,0.014
 Enoch,Nitrogen Dioxide,2025-05-20T13:00:00-06:00,0.009
 Enoch,Nitric Oxide,2025-05-20T13:00:00-06:00,0.008
-Enoch,,2025-05-20T12:00:00-06:00,2.0
-Enoch,Nitric Oxide,2025-05-20T12:00:00-06:00,0.015
-Enoch,Nitrogen Dioxide,2025-05-20T12:00:00-06:00,0.015
-Enoch,Total Oxides of Nitrogen,2025-05-20T12:00:00-06:00,0.03
-Enoch,Relative Humidity,2025-05-20T12:00:00-06:00,77.5
-Enoch,Fine Particulate Matter,2025-05-20T12:00:00-06:00,15.9
-Enoch,Wind Direction,2025-05-20T12:00:00-06:00,5.0
-Enoch,Wind Speed,2025-05-20T12:00:00-06:00,5.2
-Enoch,Outdoor Temperature,2025-05-20T12:00:00-06:00,9.7
 Enoch,Ozone,2025-05-20T12:00:00-06:00,0.005
-Enoch,Total Oxides of Nitrogen,2025-05-20T11:00:00-06:00,0.016
-Enoch,Fine Particulate Matter,2025-05-20T11:00:00-06:00,11.5
-Enoch,Wind Speed,2025-05-20T11:00:00-06:00,4.2
-Enoch,Wind Direction,2025-05-20T11:00:00-06:00,2.0
-Enoch,,2025-05-20T11:00:00-06:00,2.0
-Enoch,Outdoor Temperature,2025-05-20T11:00:00-06:00,9.7
+Enoch,Outdoor Temperature,2025-05-20T12:00:00-06:00,9.7
+Enoch,Wind Speed,2025-05-20T12:00:00-06:00,5.2
+Enoch,Wind Direction,2025-05-20T12:00:00-06:00,5.0
+Enoch,Fine Particulate Matter,2025-05-20T12:00:00-06:00,15.9
+Enoch,Relative Humidity,2025-05-20T12:00:00-06:00,77.5
+Enoch,Total Oxides of Nitrogen,2025-05-20T12:00:00-06:00,0.03
+Enoch,Nitrogen Dioxide,2025-05-20T12:00:00-06:00,0.015
+Enoch,Nitric Oxide,2025-05-20T12:00:00-06:00,0.015
+Enoch,,2025-05-20T12:00:00-06:00,2.0
 Enoch,Relative Humidity,2025-05-20T11:00:00-06:00,77.2
 Enoch,Ozone,2025-05-20T11:00:00-06:00,0.009
 Enoch,Nitrogen Dioxide,2025-05-20T11:00:00-06:00,0.01
 Enoch,Nitric Oxide,2025-05-20T11:00:00-06:00,0.006
-Enoch,Relative Humidity,2025-05-20T10:00:00-06:00,80.4
-Enoch,Ozone,2025-05-20T10:00:00-06:00,0.012
-Enoch,Nitrogen Dioxide,2025-05-20T10:00:00-06:00,0.005
-Enoch,Nitric Oxide,2025-05-20T10:00:00-06:00,0.003
-Enoch,Total Oxides of Nitrogen,2025-05-20T10:00:00-06:00,0.008
-Enoch,Fine Particulate Matter,2025-05-20T10:00:00-06:00,9.7
-Enoch,Wind Speed,2025-05-20T10:00:00-06:00,2.5
-Enoch,Wind Direction,2025-05-20T10:00:00-06:00,15.0
-Enoch,,2025-05-20T10:00:00-06:00,1.0
+Enoch,,2025-05-20T11:00:00-06:00,2.0
+Enoch,Outdoor Temperature,2025-05-20T11:00:00-06:00,9.7
+Enoch,Wind Direction,2025-05-20T11:00:00-06:00,2.0
+Enoch,Wind Speed,2025-05-20T11:00:00-06:00,4.2
+Enoch,Fine Particulate Matter,2025-05-20T11:00:00-06:00,11.5
+Enoch,Total Oxides of Nitrogen,2025-05-20T11:00:00-06:00,0.016
 Enoch,Outdoor Temperature,2025-05-20T10:00:00-06:00,9.1
+Enoch,,2025-05-20T10:00:00-06:00,1.0
+Enoch,Wind Direction,2025-05-20T10:00:00-06:00,15.0
+Enoch,Wind Speed,2025-05-20T10:00:00-06:00,2.5
+Enoch,Total Oxides of Nitrogen,2025-05-20T10:00:00-06:00,0.008
+Enoch,Nitric Oxide,2025-05-20T10:00:00-06:00,0.003
+Enoch,Nitrogen Dioxide,2025-05-20T10:00:00-06:00,0.005
+Enoch,Ozone,2025-05-20T10:00:00-06:00,0.012
+Enoch,Relative Humidity,2025-05-20T10:00:00-06:00,80.4
+Enoch,Fine Particulate Matter,2025-05-20T10:00:00-06:00,9.7
+Enoch,Ozone,2025-05-20T09:00:00-06:00,0.01
+Enoch,Relative Humidity,2025-05-20T09:00:00-06:00,86.9
+Enoch,Total Oxides of Nitrogen,2025-05-20T09:00:00-06:00,0.007
+Enoch,Outdoor Temperature,2025-05-20T09:00:00-06:00,7.7
+Enoch,,2025-05-20T09:00:00-06:00,1.0
+Enoch,Wind Direction,2025-05-20T09:00:00-06:00,96.0
+Enoch,Wind Speed,2025-05-20T09:00:00-06:00,3.3
 Enoch,Fine Particulate Matter,2025-05-20T09:00:00-06:00,7.9
 Enoch,Nitric Oxide,2025-05-20T09:00:00-06:00,0.002
 Enoch,Nitrogen Dioxide,2025-05-20T09:00:00-06:00,0.005
-Enoch,Ozone,2025-05-20T09:00:00-06:00,0.01
-Enoch,Relative Humidity,2025-05-20T09:00:00-06:00,86.9
-Enoch,Wind Speed,2025-05-20T09:00:00-06:00,3.3
-Enoch,Wind Direction,2025-05-20T09:00:00-06:00,96.0
-Enoch,,2025-05-20T09:00:00-06:00,1.0
-Enoch,Outdoor Temperature,2025-05-20T09:00:00-06:00,7.7
-Enoch,Total Oxides of Nitrogen,2025-05-20T09:00:00-06:00,0.007
 Enoch,Relative Humidity,2025-05-20T08:00:00-06:00,90.1
 Enoch,Ozone,2025-05-20T08:00:00-06:00,0.009
 Enoch,Nitrogen Dioxide,2025-05-20T08:00:00-06:00,0.005
@@ -1517,37 +1527,37 @@ Enoch,Total Oxides of Nitrogen,2025-05-20T08:00:00-06:00,0.005
 Enoch,Fine Particulate Matter,2025-05-20T08:00:00-06:00,7.3
 Enoch,Wind Speed,2025-05-20T08:00:00-06:00,2.9
 Enoch,Wind Direction,2025-05-20T08:00:00-06:00,90.0
-Enoch,,2025-05-20T08:00:00-06:00,1.0
 Enoch,Outdoor Temperature,2025-05-20T08:00:00-06:00,7.0
-Enoch,Fine Particulate Matter,2025-05-20T07:00:00-06:00,7.4
-Enoch,Wind Speed,2025-05-20T07:00:00-06:00,3.5
-Enoch,Wind Direction,2025-05-20T07:00:00-06:00,92.0
-Enoch,,2025-05-20T07:00:00-06:00,1.0
-Enoch,Outdoor Temperature,2025-05-20T07:00:00-06:00,6.5
-Enoch,Relative Humidity,2025-05-20T07:00:00-06:00,91.9
-Enoch,Ozone,2025-05-20T07:00:00-06:00,0.01
-Enoch,Nitric Oxide,2025-05-20T07:00:00-06:00,0.0
-Enoch,Total Oxides of Nitrogen,2025-05-20T07:00:00-06:00,0.003
+Enoch,,2025-05-20T08:00:00-06:00,1.0
 Enoch,Nitrogen Dioxide,2025-05-20T07:00:00-06:00,0.003
+Enoch,Total Oxides of Nitrogen,2025-05-20T07:00:00-06:00,0.003
+Enoch,Ozone,2025-05-20T07:00:00-06:00,0.01
+Enoch,Relative Humidity,2025-05-20T07:00:00-06:00,91.9
+Enoch,Outdoor Temperature,2025-05-20T07:00:00-06:00,6.5
+Enoch,,2025-05-20T07:00:00-06:00,1.0
+Enoch,Wind Direction,2025-05-20T07:00:00-06:00,92.0
+Enoch,Wind Speed,2025-05-20T07:00:00-06:00,3.5
+Enoch,Fine Particulate Matter,2025-05-20T07:00:00-06:00,7.4
+Enoch,Nitric Oxide,2025-05-20T07:00:00-06:00,0.0
+Enoch,Total Oxides of Nitrogen,2025-05-20T06:00:00-06:00,0.003
+Enoch,Nitrogen Dioxide,2025-05-20T06:00:00-06:00,0.003
+Enoch,Nitric Oxide,2025-05-20T06:00:00-06:00,0.0
+Enoch,Relative Humidity,2025-05-20T06:00:00-06:00,92.0
 Enoch,Ozone,2025-05-20T06:00:00-06:00,0.01
 Enoch,Fine Particulate Matter,2025-05-20T06:00:00-06:00,7.4
 Enoch,Wind Speed,2025-05-20T06:00:00-06:00,2.4
 Enoch,Wind Direction,2025-05-20T06:00:00-06:00,105.0
 Enoch,,2025-05-20T06:00:00-06:00,1.0
-Enoch,Relative Humidity,2025-05-20T06:00:00-06:00,92.0
-Enoch,Nitric Oxide,2025-05-20T06:00:00-06:00,0.0
-Enoch,Nitrogen Dioxide,2025-05-20T06:00:00-06:00,0.003
-Enoch,Total Oxides of Nitrogen,2025-05-20T06:00:00-06:00,0.003
 Enoch,Outdoor Temperature,2025-05-20T06:00:00-06:00,6.5
 Enoch,Ozone,2025-05-20T05:00:00-06:00,
 Enoch,Total Oxides of Nitrogen,2025-05-20T05:00:00-06:00,
 Enoch,Nitric Oxide,2025-05-20T05:00:00-06:00,
 Enoch,Relative Humidity,2025-05-20T05:00:00-06:00,92.6
-Enoch,Nitrogen Dioxide,2025-05-20T05:00:00-06:00,
 Enoch,Outdoor Temperature,2025-05-20T05:00:00-06:00,6.4
 Enoch,,2025-05-20T05:00:00-06:00,1.0
 Enoch,Wind Direction,2025-05-20T05:00:00-06:00,87.0
 Enoch,Wind Speed,2025-05-20T05:00:00-06:00,3.7
+Enoch,Nitrogen Dioxide,2025-05-20T05:00:00-06:00,
 Enoch,Fine Particulate Matter,2025-05-20T05:00:00-06:00,6.8
 Enoch,Ozone,2025-05-20T04:00:00-06:00,0.012
 Enoch,Relative Humidity,2025-05-20T04:00:00-06:00,92.7
@@ -1569,53 +1579,43 @@ Enoch,Wind Direction,2025-05-20T03:00:00-06:00,86.0
 Enoch,Total Oxides of Nitrogen,2025-05-20T03:00:00-06:00,0.001
 Enoch,,2025-05-20T03:00:00-06:00,1.0
 Enoch,Outdoor Temperature,2025-05-20T03:00:00-06:00,6.1
-Enoch,Ozone,2025-05-20T02:00:00-06:00,0.013
-Enoch,Nitric Oxide,2025-05-20T02:00:00-06:00,0.0
 Enoch,Outdoor Temperature,2025-05-20T02:00:00-06:00,5.4
-Enoch,Wind Speed,2025-05-20T02:00:00-06:00,1.9
-Enoch,Total Oxides of Nitrogen,2025-05-20T02:00:00-06:00,0.001
-Enoch,Nitrogen Dioxide,2025-05-20T02:00:00-06:00,0.001
-Enoch,Wind Direction,2025-05-20T02:00:00-06:00,103.0
-Enoch,Fine Particulate Matter,2025-05-20T02:00:00-06:00,4.1
-Enoch,Relative Humidity,2025-05-20T02:00:00-06:00,93.1
+Enoch,Nitric Oxide,2025-05-20T02:00:00-06:00,0.0
+Enoch,Ozone,2025-05-20T02:00:00-06:00,0.013
 Enoch,,2025-05-20T02:00:00-06:00,1.0
-Enoch,,2025-05-20T01:00:00-06:00,1.0
-Enoch,Relative Humidity,2025-05-20T01:00:00-06:00,87.6
-Enoch,Fine Particulate Matter,2025-05-20T01:00:00-06:00,3.6
-Enoch,Wind Direction,2025-05-20T01:00:00-06:00,110.0
-Enoch,Total Oxides of Nitrogen,2025-05-20T01:00:00-06:00,0.001
-Enoch,Wind Speed,2025-05-20T01:00:00-06:00,3.2
-Enoch,Nitrogen Dioxide,2025-05-20T01:00:00-06:00,0.002
-Enoch,Outdoor Temperature,2025-05-20T01:00:00-06:00,6.6
-Enoch,Ozone,2025-05-20T01:00:00-06:00,0.017
+Enoch,Relative Humidity,2025-05-20T02:00:00-06:00,93.1
+Enoch,Fine Particulate Matter,2025-05-20T02:00:00-06:00,4.1
+Enoch,Wind Direction,2025-05-20T02:00:00-06:00,103.0
+Enoch,Nitrogen Dioxide,2025-05-20T02:00:00-06:00,0.001
+Enoch,Total Oxides of Nitrogen,2025-05-20T02:00:00-06:00,0.001
+Enoch,Wind Speed,2025-05-20T02:00:00-06:00,1.9
 Enoch,Nitric Oxide,2025-05-20T01:00:00-06:00,0.0
+Enoch,Ozone,2025-05-20T01:00:00-06:00,0.017
+Enoch,Outdoor Temperature,2025-05-20T01:00:00-06:00,6.6
+Enoch,Nitrogen Dioxide,2025-05-20T01:00:00-06:00,0.002
+Enoch,Wind Speed,2025-05-20T01:00:00-06:00,3.2
+Enoch,Total Oxides of Nitrogen,2025-05-20T01:00:00-06:00,0.001
+Enoch,Wind Direction,2025-05-20T01:00:00-06:00,110.0
+Enoch,Fine Particulate Matter,2025-05-20T01:00:00-06:00,3.6
+Enoch,Relative Humidity,2025-05-20T01:00:00-06:00,87.6
+Enoch,,2025-05-20T01:00:00-06:00,1.0
 Enoch,Total Oxides of Nitrogen,2025-05-20T00:00:00-06:00,0.001
 Enoch,Outdoor Temperature,2025-05-20T00:00:00-06:00,7.3
 Enoch,Ozone,2025-05-20T00:00:00-06:00,0.019
 Enoch,Wind Speed,2025-05-20T00:00:00-06:00,6.0
 Enoch,Wind Direction,2025-05-20T00:00:00-06:00,102.0
 Enoch,Nitric Oxide,2025-05-20T00:00:00-06:00,0.0
-Enoch,Relative Humidity,2025-05-20T00:00:00-06:00,83.9
-Enoch,,2025-05-20T00:00:00-06:00,1.0
-Enoch,Fine Particulate Matter,2025-05-20T00:00:00-06:00,3.1
 Enoch,Nitrogen Dioxide,2025-05-20T00:00:00-06:00,0.002
-Enoch,,2025-05-19T23:00:00-06:00,1.0
-Enoch,Fine Particulate Matter,2025-05-19T23:00:00-06:00,2.0
-Enoch,Nitric Oxide,2025-05-19T23:00:00-06:00,0.0
-Enoch,Nitrogen Dioxide,2025-05-19T23:00:00-06:00,0.001
-Enoch,Relative Humidity,2025-05-19T23:00:00-06:00,79.5
-Enoch,Wind Direction,2025-05-19T23:00:00-06:00,92.0
-Enoch,Wind Speed,2025-05-19T23:00:00-06:00,6.6
+Enoch,Fine Particulate Matter,2025-05-20T00:00:00-06:00,3.1
+Enoch,,2025-05-20T00:00:00-06:00,1.0
+Enoch,Relative Humidity,2025-05-20T00:00:00-06:00,83.9
 Enoch,Ozone,2025-05-19T23:00:00-06:00,0.021
+Enoch,Wind Speed,2025-05-19T23:00:00-06:00,6.6
+Enoch,Wind Direction,2025-05-19T23:00:00-06:00,92.0
+Enoch,Relative Humidity,2025-05-19T23:00:00-06:00,79.5
+Enoch,Nitrogen Dioxide,2025-05-19T23:00:00-06:00,0.001
+Enoch,Nitric Oxide,2025-05-19T23:00:00-06:00,0.0
+Enoch,Fine Particulate Matter,2025-05-19T23:00:00-06:00,2.0
+Enoch,,2025-05-19T23:00:00-06:00,1.0
 Enoch,Outdoor Temperature,2025-05-19T23:00:00-06:00,7.7
 Enoch,Total Oxides of Nitrogen,2025-05-19T23:00:00-06:00,0.001
-Enoch,,2025-05-19T22:00:00-06:00,1.0
-Enoch,Fine Particulate Matter,2025-05-19T22:00:00-06:00,1.7
-Enoch,Nitrogen Dioxide,2025-05-19T22:00:00-06:00,0.001
-Enoch,Relative Humidity,2025-05-19T22:00:00-06:00,74.7
-Enoch,Wind Direction,2025-05-19T22:00:00-06:00,98.0
-Enoch,Wind Speed,2025-05-19T22:00:00-06:00,6.4
-Enoch,Nitric Oxide,2025-05-19T22:00:00-06:00,0.0
-Enoch,Ozone,2025-05-19T22:00:00-06:00,0.022
-Enoch,Outdoor Temperature,2025-05-19T22:00:00-06:00,8.0
-Enoch,Total Oxides of Nitrogen,2025-05-19T22:00:00-06:00,0.001
