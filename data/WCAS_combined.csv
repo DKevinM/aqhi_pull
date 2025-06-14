@@ -1,13 +1,13 @@
 StationName,ParameterName,ReadingDate,Value,Zone
-Breton,Sulphur Dioxide,2025-06-13T21:00:00-06:00,,WCAS
-Breton,Nitrogen Dioxide,2025-06-13T21:00:00-06:00,,WCAS
-Breton,Wind Speed,2025-06-13T21:00:00-06:00,,WCAS
-Breton,Nitric Oxide,2025-06-13T21:00:00-06:00,,WCAS
-Breton,Relative Humidity,2025-06-13T21:00:00-06:00,,WCAS
-Breton,Total Oxides of Nitrogen,2025-06-13T21:00:00-06:00,,WCAS
-Breton,Wind Direction,2025-06-13T21:00:00-06:00,,WCAS
-Breton,Outdoor Temperature,2025-06-13T21:00:00-06:00,,WCAS
-Breton,Ozone,2025-06-13T21:00:00-06:00,,WCAS
+Breton,Sulphur Dioxide,2025-06-13T21:00:00-06:00,0.0,WCAS
+Breton,Nitrogen Dioxide,2025-06-13T21:00:00-06:00,0.001,WCAS
+Breton,Wind Speed,2025-06-13T21:00:00-06:00,9.6,WCAS
+Breton,Nitric Oxide,2025-06-13T21:00:00-06:00,0.0,WCAS
+Breton,Relative Humidity,2025-06-13T21:00:00-06:00,74.4,WCAS
+Breton,Total Oxides of Nitrogen,2025-06-13T21:00:00-06:00,0.002,WCAS
+Breton,Wind Direction,2025-06-13T21:00:00-06:00,301.0,WCAS
+Breton,Outdoor Temperature,2025-06-13T21:00:00-06:00,13.9,WCAS
+Breton,Ozone,2025-06-13T21:00:00-06:00,0.03,WCAS
 Breton,Outdoor Temperature,2025-06-13T20:00:00-06:00,14.6,WCAS
 Breton,Wind Direction,2025-06-13T20:00:00-06:00,291.0,WCAS
 Breton,Sulphur Dioxide,2025-06-13T20:00:00-06:00,0.0,WCAS
@@ -1457,15 +1457,15 @@ Breton,Nitric Oxide,2025-06-07T04:00:00-06:00,0.0,WCAS
 Breton,Total Oxides of Nitrogen,2025-06-07T04:00:00-06:00,0.0,WCAS
 Breton,Nitrogen Dioxide,2025-06-07T04:00:00-06:00,0.001,WCAS
 Breton,Sulphur Dioxide,2025-06-07T04:00:00-06:00,0.0,WCAS
-Carrot_Creek,Nitrogen Dioxide,2025-06-13T21:00:00-06:00,,WCAS
-Carrot_Creek,Sulphur Dioxide,2025-06-13T21:00:00-06:00,,WCAS
-Carrot_Creek,Nitric Oxide,2025-06-13T21:00:00-06:00,,WCAS
-Carrot_Creek,Wind Speed,2025-06-13T21:00:00-06:00,,WCAS
-Carrot_Creek,Wind Direction,2025-06-13T21:00:00-06:00,,WCAS
-Carrot_Creek,Total Oxides of Nitrogen,2025-06-13T21:00:00-06:00,,WCAS
-Carrot_Creek,Relative Humidity,2025-06-13T21:00:00-06:00,,WCAS
-Carrot_Creek,Outdoor Temperature,2025-06-13T21:00:00-06:00,,WCAS
-Carrot_Creek,Ozone,2025-06-13T21:00:00-06:00,,WCAS
+Carrot_Creek,Nitrogen Dioxide,2025-06-13T21:00:00-06:00,0.002,WCAS
+Carrot_Creek,Sulphur Dioxide,2025-06-13T21:00:00-06:00,0.0,WCAS
+Carrot_Creek,Nitric Oxide,2025-06-13T21:00:00-06:00,0.0,WCAS
+Carrot_Creek,Wind Speed,2025-06-13T21:00:00-06:00,9.5,WCAS
+Carrot_Creek,Wind Direction,2025-06-13T21:00:00-06:00,335.0,WCAS
+Carrot_Creek,Total Oxides of Nitrogen,2025-06-13T21:00:00-06:00,0.002,WCAS
+Carrot_Creek,Relative Humidity,2025-06-13T21:00:00-06:00,70.5,WCAS
+Carrot_Creek,Outdoor Temperature,2025-06-13T21:00:00-06:00,14.9,WCAS
+Carrot_Creek,Ozone,2025-06-13T21:00:00-06:00,0.028,WCAS
 Carrot_Creek,Wind Speed,2025-06-13T20:00:00-06:00,10.3,WCAS
 Carrot_Creek,Wind Direction,2025-06-13T20:00:00-06:00,338.0,WCAS
 Carrot_Creek,Nitrogen Dioxide,2025-06-13T20:00:00-06:00,0.002,WCAS
@@ -2915,17 +2915,17 @@ Carrot_Creek,Outdoor Temperature,2025-06-07T04:00:00-06:00,5.0,WCAS
 Carrot_Creek,Nitric Oxide,2025-06-07T04:00:00-06:00,0.0,WCAS
 Carrot_Creek,Sulphur Dioxide,2025-06-07T04:00:00-06:00,0.0,WCAS
 Carrot_Creek,Wind Speed,2025-06-07T04:00:00-06:00,8.5,WCAS
-Drayton_Valley,Fine Particulate Matter,2025-06-13T21:00:00-06:00,,WCAS
-Drayton_Valley,Sulphur Dioxide,2025-06-13T21:00:00-06:00,,WCAS
-Drayton_Valley,Total Oxides of Nitrogen,2025-06-13T21:00:00-06:00,,WCAS
-Drayton_Valley,Nitric Oxide,2025-06-13T21:00:00-06:00,,WCAS
-Drayton_Valley,Relative Humidity,2025-06-13T21:00:00-06:00,,WCAS
-Drayton_Valley,Wind Direction,2025-06-13T21:00:00-06:00,,WCAS
-Drayton_Valley,Outdoor Temperature,2025-06-13T21:00:00-06:00,,WCAS
-Drayton_Valley,Nitrogen Dioxide,2025-06-13T21:00:00-06:00,,WCAS
-Drayton_Valley,Ozone,2025-06-13T21:00:00-06:00,,WCAS
+Drayton_Valley,Fine Particulate Matter,2025-06-13T21:00:00-06:00,1.9,WCAS
+Drayton_Valley,Sulphur Dioxide,2025-06-13T21:00:00-06:00,0.0,WCAS
+Drayton_Valley,Total Oxides of Nitrogen,2025-06-13T21:00:00-06:00,0.003,WCAS
+Drayton_Valley,Nitric Oxide,2025-06-13T21:00:00-06:00,0.001,WCAS
+Drayton_Valley,Relative Humidity,2025-06-13T21:00:00-06:00,79.0,WCAS
+Drayton_Valley,Wind Direction,2025-06-13T21:00:00-06:00,300.0,WCAS
+Drayton_Valley,Outdoor Temperature,2025-06-13T21:00:00-06:00,13.5,WCAS
+Drayton_Valley,Nitrogen Dioxide,2025-06-13T21:00:00-06:00,0.002,WCAS
+Drayton_Valley,Ozone,2025-06-13T21:00:00-06:00,0.027,WCAS
 Drayton_Valley,,2025-06-13T21:00:00-06:00,2.0,WCAS
-Drayton_Valley,Wind Speed,2025-06-13T21:00:00-06:00,,WCAS
+Drayton_Valley,Wind Speed,2025-06-13T21:00:00-06:00,7.4,WCAS
 Drayton_Valley,,2025-06-13T20:00:00-06:00,2.0,WCAS
 Drayton_Valley,Wind Direction,2025-06-13T20:00:00-06:00,295.0,WCAS
 Drayton_Valley,Relative Humidity,2025-06-13T20:00:00-06:00,77.6,WCAS
@@ -4697,17 +4697,17 @@ Drayton_Valley,Sulphur Dioxide,2025-06-07T04:00:00-06:00,0.0,WCAS
 Drayton_Valley,Ozone,2025-06-07T04:00:00-06:00,0.043,WCAS
 Drayton_Valley,Total Oxides of Nitrogen,2025-06-07T04:00:00-06:00,0.001,WCAS
 Drayton_Valley,Wind Direction,2025-06-07T04:00:00-06:00,308.0,WCAS
-Edson,Nitrogen Dioxide,2025-06-13T21:00:00-06:00,,WCAS
-Edson,Wind Speed,2025-06-13T21:00:00-06:00,,WCAS
-Edson,Fine Particulate Matter,2025-06-13T21:00:00-06:00,,WCAS
-Edson,Sulphur Dioxide,2025-06-13T21:00:00-06:00,,WCAS
-Edson,Wind Direction,2025-06-13T21:00:00-06:00,,WCAS
-Edson,Total Oxides of Nitrogen,2025-06-13T21:00:00-06:00,,WCAS
-Edson,Nitric Oxide,2025-06-13T21:00:00-06:00,,WCAS
-Edson,Relative Humidity,2025-06-13T21:00:00-06:00,,WCAS
-Edson,Outdoor Temperature,2025-06-13T21:00:00-06:00,,WCAS
+Edson,Nitrogen Dioxide,2025-06-13T21:00:00-06:00,0.001,WCAS
+Edson,Wind Speed,2025-06-13T21:00:00-06:00,6.3,WCAS
+Edson,Fine Particulate Matter,2025-06-13T21:00:00-06:00,2.3,WCAS
+Edson,Sulphur Dioxide,2025-06-13T21:00:00-06:00,0.0,WCAS
+Edson,Wind Direction,2025-06-13T21:00:00-06:00,327.0,WCAS
+Edson,Total Oxides of Nitrogen,2025-06-13T21:00:00-06:00,0.001,WCAS
+Edson,Nitric Oxide,2025-06-13T21:00:00-06:00,0.0,WCAS
+Edson,Relative Humidity,2025-06-13T21:00:00-06:00,63.4,WCAS
+Edson,Outdoor Temperature,2025-06-13T21:00:00-06:00,15.2,WCAS
 Edson,,2025-06-13T21:00:00-06:00,2.0,WCAS
-Edson,Ozone,2025-06-13T21:00:00-06:00,,WCAS
+Edson,Ozone,2025-06-13T21:00:00-06:00,0.025,WCAS
 Edson,,2025-06-13T20:00:00-06:00,2.0,WCAS
 Edson,Relative Humidity,2025-06-13T20:00:00-06:00,62.6,WCAS
 Edson,Ozone,2025-06-13T20:00:00-06:00,0.026,WCAS
@@ -6480,16 +6480,16 @@ Edson,Sulphur Dioxide,2025-06-07T04:00:00-06:00,0.0,WCAS
 Edson,Wind Direction,2025-06-07T04:00:00-06:00,264.0,WCAS
 Edson,Nitric Oxide,2025-06-07T04:00:00-06:00,0.0,WCAS
 Genesee,,2025-06-13T21:00:00-06:00,2.0,WCAS
-Genesee,Sulphur Dioxide,2025-06-13T21:00:00-06:00,,WCAS
-Genesee,Nitrogen Dioxide,2025-06-13T21:00:00-06:00,,WCAS
-Genesee,Nitric Oxide,2025-06-13T21:00:00-06:00,,WCAS
-Genesee,Ozone,2025-06-13T21:00:00-06:00,,WCAS
-Genesee,Total Oxides of Nitrogen,2025-06-13T21:00:00-06:00,,WCAS
-Genesee,Fine Particulate Matter,2025-06-13T21:00:00-06:00,,WCAS
-Genesee,Relative Humidity,2025-06-13T21:00:00-06:00,,WCAS
-Genesee,Outdoor Temperature,2025-06-13T21:00:00-06:00,,WCAS
-Genesee,Wind Direction,2025-06-13T21:00:00-06:00,,WCAS
-Genesee,Wind Speed,2025-06-13T21:00:00-06:00,,WCAS
+Genesee,Sulphur Dioxide,2025-06-13T21:00:00-06:00,0.0,WCAS
+Genesee,Nitrogen Dioxide,2025-06-13T21:00:00-06:00,0.002,WCAS
+Genesee,Nitric Oxide,2025-06-13T21:00:00-06:00,0.0,WCAS
+Genesee,Ozone,2025-06-13T21:00:00-06:00,0.03,WCAS
+Genesee,Total Oxides of Nitrogen,2025-06-13T21:00:00-06:00,0.002,WCAS
+Genesee,Fine Particulate Matter,2025-06-13T21:00:00-06:00,2.6,WCAS
+Genesee,Relative Humidity,2025-06-13T21:00:00-06:00,92.3,WCAS
+Genesee,Outdoor Temperature,2025-06-13T21:00:00-06:00,15.4,WCAS
+Genesee,Wind Direction,2025-06-13T21:00:00-06:00,224.0,WCAS
+Genesee,Wind Speed,2025-06-13T21:00:00-06:00,9.4,WCAS
 Genesee,Nitrogen Dioxide,2025-06-13T20:00:00-06:00,0.002,WCAS
 Genesee,Ozone,2025-06-13T20:00:00-06:00,0.032,WCAS
 Genesee,Wind Speed,2025-06-13T20:00:00-06:00,7.8,WCAS
@@ -8262,18 +8262,18 @@ Genesee,Wind Speed,2025-06-07T04:00:00-06:00,14.6,WCAS
 Genesee,Outdoor Temperature,2025-06-07T04:00:00-06:00,12.4,WCAS
 Genesee,Fine Particulate Matter,2025-06-07T04:00:00-06:00,16.8,WCAS
 Hinton-Drinnan,,2025-06-13T21:00:00-06:00,1.0,WCAS
-Hinton-Drinnan,Wind Direction,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Drinnan,Wind Speed,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Drinnan,Fine Particulate Matter,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Drinnan,Outdoor Temperature,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Drinnan,Nitrogen Dioxide,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Drinnan,Nitric Oxide,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Drinnan,Total Reduced Sulphur,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Drinnan,Ozone,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Drinnan,Relative Humidity,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Drinnan,Total Oxides of Nitrogen,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Drinnan,Sulphur Dioxide,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Drinnan,Hydrogen Sulphide,2025-06-13T21:00:00-06:00,,WCAS
+Hinton-Drinnan,Wind Direction,2025-06-13T21:00:00-06:00,233.0,WCAS
+Hinton-Drinnan,Wind Speed,2025-06-13T21:00:00-06:00,2.4,WCAS
+Hinton-Drinnan,Fine Particulate Matter,2025-06-13T21:00:00-06:00,1.8,WCAS
+Hinton-Drinnan,Outdoor Temperature,2025-06-13T21:00:00-06:00,11.5,WCAS
+Hinton-Drinnan,Nitrogen Dioxide,2025-06-13T21:00:00-06:00,0.003,WCAS
+Hinton-Drinnan,Nitric Oxide,2025-06-13T21:00:00-06:00,0.001,WCAS
+Hinton-Drinnan,Total Reduced Sulphur,2025-06-13T21:00:00-06:00,0.0,WCAS
+Hinton-Drinnan,Ozone,2025-06-13T21:00:00-06:00,0.011,WCAS
+Hinton-Drinnan,Relative Humidity,2025-06-13T21:00:00-06:00,89.1,WCAS
+Hinton-Drinnan,Total Oxides of Nitrogen,2025-06-13T21:00:00-06:00,0.003,WCAS
+Hinton-Drinnan,Sulphur Dioxide,2025-06-13T21:00:00-06:00,0.0,WCAS
+Hinton-Drinnan,Hydrogen Sulphide,2025-06-13T21:00:00-06:00,0.001,WCAS
 Hinton-Drinnan,Nitric Oxide,2025-06-13T20:00:00-06:00,0.001,WCAS
 Hinton-Drinnan,Total Reduced Sulphur,2025-06-13T20:00:00-06:00,0.0,WCAS
 Hinton-Drinnan,Total Oxides of Nitrogen,2025-06-13T20:00:00-06:00,0.005,WCAS
@@ -10367,14 +10367,14 @@ Hinton-Drinnan,Total Oxides of Nitrogen,2025-06-07T04:00:00-06:00,0.005,WCAS
 Hinton-Drinnan,Outdoor Temperature,2025-06-07T04:00:00-06:00,8.2,WCAS
 Hinton-Drinnan,Wind Speed,2025-06-07T04:00:00-06:00,3.5,WCAS
 Hinton-Drinnan,Relative Humidity,2025-06-07T04:00:00-06:00,52.6,WCAS
-Meadows,Wind Direction,2025-06-13T21:00:00-06:00,,WCAS
-Meadows,Nitrogen Dioxide,2025-06-13T21:00:00-06:00,,WCAS
-Meadows,Nitric Oxide,2025-06-13T21:00:00-06:00,,WCAS
-Meadows,Wind Speed,2025-06-13T21:00:00-06:00,,WCAS
-Meadows,Sulphur Dioxide,2025-06-13T21:00:00-06:00,,WCAS
-Meadows,Outdoor Temperature,2025-06-13T21:00:00-06:00,,WCAS
-Meadows,Total Oxides of Nitrogen,2025-06-13T21:00:00-06:00,,WCAS
-Meadows,Relative Humidity,2025-06-13T21:00:00-06:00,,WCAS
+Meadows,Wind Direction,2025-06-13T21:00:00-06:00,292.0,WCAS
+Meadows,Nitrogen Dioxide,2025-06-13T21:00:00-06:00,0.002,WCAS
+Meadows,Nitric Oxide,2025-06-13T21:00:00-06:00,0.0,WCAS
+Meadows,Wind Speed,2025-06-13T21:00:00-06:00,10.3,WCAS
+Meadows,Sulphur Dioxide,2025-06-13T21:00:00-06:00,0.0,WCAS
+Meadows,Outdoor Temperature,2025-06-13T21:00:00-06:00,14.5,WCAS
+Meadows,Total Oxides of Nitrogen,2025-06-13T21:00:00-06:00,0.002,WCAS
+Meadows,Relative Humidity,2025-06-13T21:00:00-06:00,90.1,WCAS
 Meadows,Total Oxides of Nitrogen,2025-06-13T20:00:00-06:00,0.001,WCAS
 Meadows,Nitrogen Dioxide,2025-06-13T20:00:00-06:00,0.001,WCAS
 Meadows,Relative Humidity,2025-06-13T20:00:00-06:00,89.7,WCAS
@@ -13121,18 +13121,18 @@ Powers,Nitric Oxide,2025-06-07T04:00:00-06:00,,WCAS
 Powers,Wind Speed,2025-06-07T04:00:00-06:00,,WCAS
 Powers,Sulphur Dioxide,2025-06-07T04:00:00-06:00,,WCAS
 Powers,Fine Particulate Matter,2025-06-07T04:00:00-06:00,,WCAS
-Steeper,Ozone,2025-06-13T21:00:00-06:00,,WCAS
-Steeper,Carbon Monoxide,2025-06-13T21:00:00-06:00,,WCAS
-Steeper,Relative Humidity,2025-06-13T21:00:00-06:00,,WCAS
-Steeper,Wind Speed,2025-06-13T21:00:00-06:00,,WCAS
-Steeper,Nitrogen Dioxide,2025-06-13T21:00:00-06:00,,WCAS
-Steeper,Sulphur Dioxide,2025-06-13T21:00:00-06:00,,WCAS
-Steeper,Wind Direction,2025-06-13T21:00:00-06:00,,WCAS
-Steeper,Outdoor Temperature,2025-06-13T21:00:00-06:00,,WCAS
+Steeper,Ozone,2025-06-13T21:00:00-06:00,0.018,WCAS
+Steeper,Carbon Monoxide,2025-06-13T21:00:00-06:00,0.4,WCAS
+Steeper,Relative Humidity,2025-06-13T21:00:00-06:00,95.1,WCAS
+Steeper,Wind Speed,2025-06-13T21:00:00-06:00,3.9,WCAS
+Steeper,Nitrogen Dioxide,2025-06-13T21:00:00-06:00,0.001,WCAS
+Steeper,Sulphur Dioxide,2025-06-13T21:00:00-06:00,0.0,WCAS
+Steeper,Wind Direction,2025-06-13T21:00:00-06:00,249.0,WCAS
+Steeper,Outdoor Temperature,2025-06-13T21:00:00-06:00,8.7,WCAS
 Steeper,,2025-06-13T21:00:00-06:00,1.0,WCAS
-Steeper,Total Oxides of Nitrogen,2025-06-13T21:00:00-06:00,,WCAS
-Steeper,Fine Particulate Matter,2025-06-13T21:00:00-06:00,,WCAS
-Steeper,Nitric Oxide,2025-06-13T21:00:00-06:00,,WCAS
+Steeper,Total Oxides of Nitrogen,2025-06-13T21:00:00-06:00,0.001,WCAS
+Steeper,Fine Particulate Matter,2025-06-13T21:00:00-06:00,1.0,WCAS
+Steeper,Nitric Oxide,2025-06-13T21:00:00-06:00,0.0,WCAS
 Steeper,Sulphur Dioxide,2025-06-13T20:00:00-06:00,0.0,WCAS
 Steeper,Relative Humidity,2025-06-13T20:00:00-06:00,90.6,WCAS
 Steeper,Total Oxides of Nitrogen,2025-06-13T20:00:00-06:00,0.001,WCAS
@@ -15065,14 +15065,14 @@ Steeper,Sulphur Dioxide,2025-06-07T04:00:00-06:00,0.0,WCAS
 Steeper,Fine Particulate Matter,2025-06-07T04:00:00-06:00,10.4,WCAS
 Steeper,Wind Direction,2025-06-07T04:00:00-06:00,220.0,WCAS
 Steeper,Nitric Oxide,2025-06-07T04:00:00-06:00,0.0,WCAS
-Wagner2,Relative Humidity,2025-06-13T21:00:00-06:00,,WCAS
-Wagner2,Outdoor Temperature,2025-06-13T21:00:00-06:00,,WCAS
-Wagner2,Total Oxides of Nitrogen,2025-06-13T21:00:00-06:00,,WCAS
-Wagner2,Nitric Oxide,2025-06-13T21:00:00-06:00,,WCAS
-Wagner2,Sulphur Dioxide,2025-06-13T21:00:00-06:00,,WCAS
-Wagner2,Wind Speed,2025-06-13T21:00:00-06:00,,WCAS
-Wagner2,Wind Direction,2025-06-13T21:00:00-06:00,,WCAS
-Wagner2,Nitrogen Dioxide,2025-06-13T21:00:00-06:00,,WCAS
+Wagner2,Relative Humidity,2025-06-13T21:00:00-06:00,97.9,WCAS
+Wagner2,Outdoor Temperature,2025-06-13T21:00:00-06:00,13.7,WCAS
+Wagner2,Total Oxides of Nitrogen,2025-06-13T21:00:00-06:00,0.002,WCAS
+Wagner2,Nitric Oxide,2025-06-13T21:00:00-06:00,0.0,WCAS
+Wagner2,Sulphur Dioxide,2025-06-13T21:00:00-06:00,0.0,WCAS
+Wagner2,Wind Speed,2025-06-13T21:00:00-06:00,2.1,WCAS
+Wagner2,Wind Direction,2025-06-13T21:00:00-06:00,249.0,WCAS
+Wagner2,Nitrogen Dioxide,2025-06-13T21:00:00-06:00,0.002,WCAS
 Wagner2,Nitrogen Dioxide,2025-06-13T20:00:00-06:00,0.002,WCAS
 Wagner2,Total Oxides of Nitrogen,2025-06-13T20:00:00-06:00,0.002,WCAS
 Wagner2,Wind Speed,2025-06-13T20:00:00-06:00,2.2,WCAS
@@ -16361,30 +16361,30 @@ Wagner2,Nitrogen Dioxide,2025-06-07T04:00:00-06:00,0.007,WCAS
 Wagner2,Sulphur Dioxide,2025-06-07T04:00:00-06:00,0.0,WCAS
 Wagner2,Wind Speed,2025-06-07T04:00:00-06:00,4.5,WCAS
 Wagner2,Nitric Oxide,2025-06-07T04:00:00-06:00,0.0,WCAS
-Hinton-Hillcrest,Relative Humidity,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Hillcrest,Total Oxides of Nitrogen,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Hillcrest,Wind Direction,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Hillcrest,Sulphur Dioxide,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Hillcrest,Outdoor Temperature,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Hillcrest,Nitrogen Dioxide,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Hillcrest,Total Reduced Sulphur,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Hillcrest,Fine Particulate Matter,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Hillcrest,Ozone,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Hillcrest,Wind Speed,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Hillcrest,,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Hillcrest,Nitric Oxide,2025-06-13T21:00:00-06:00,,WCAS
-Hinton-Hillcrest,Total Oxides of Nitrogen,2025-06-13T20:00:00-06:00,,WCAS
-Hinton-Hillcrest,Relative Humidity,2025-06-13T20:00:00-06:00,,WCAS
-Hinton-Hillcrest,Wind Speed,2025-06-13T20:00:00-06:00,,WCAS
-Hinton-Hillcrest,Total Reduced Sulphur,2025-06-13T20:00:00-06:00,,WCAS
-Hinton-Hillcrest,Outdoor Temperature,2025-06-13T20:00:00-06:00,,WCAS
-Hinton-Hillcrest,Sulphur Dioxide,2025-06-13T20:00:00-06:00,,WCAS
-Hinton-Hillcrest,Wind Direction,2025-06-13T20:00:00-06:00,,WCAS
-Hinton-Hillcrest,Fine Particulate Matter,2025-06-13T20:00:00-06:00,,WCAS
-Hinton-Hillcrest,Nitrogen Dioxide,2025-06-13T20:00:00-06:00,,WCAS
+Hinton-Hillcrest,Relative Humidity,2025-06-13T21:00:00-06:00,89.6,WCAS
+Hinton-Hillcrest,Total Oxides of Nitrogen,2025-06-13T21:00:00-06:00,0.002,WCAS
+Hinton-Hillcrest,Wind Direction,2025-06-13T21:00:00-06:00,197.0,WCAS
+Hinton-Hillcrest,Sulphur Dioxide,2025-06-13T21:00:00-06:00,0.0,WCAS
+Hinton-Hillcrest,Outdoor Temperature,2025-06-13T21:00:00-06:00,11.1,WCAS
+Hinton-Hillcrest,Nitrogen Dioxide,2025-06-13T21:00:00-06:00,0.001,WCAS
+Hinton-Hillcrest,Total Reduced Sulphur,2025-06-13T21:00:00-06:00,0.0,WCAS
+Hinton-Hillcrest,Fine Particulate Matter,2025-06-13T21:00:00-06:00,0.9,WCAS
+Hinton-Hillcrest,Ozone,2025-06-13T21:00:00-06:00,0.015,WCAS
+Hinton-Hillcrest,Wind Speed,2025-06-13T21:00:00-06:00,6.5,WCAS
+Hinton-Hillcrest,Nitric Oxide,2025-06-13T21:00:00-06:00,0.0,WCAS
+Hinton-Hillcrest,,2025-06-13T21:00:00-06:00,1.0,WCAS
+Hinton-Hillcrest,Total Oxides of Nitrogen,2025-06-13T20:00:00-06:00,0.002,WCAS
+Hinton-Hillcrest,Relative Humidity,2025-06-13T20:00:00-06:00,87.7,WCAS
+Hinton-Hillcrest,Wind Speed,2025-06-13T20:00:00-06:00,6.6,WCAS
+Hinton-Hillcrest,Total Reduced Sulphur,2025-06-13T20:00:00-06:00,0.0,WCAS
+Hinton-Hillcrest,Outdoor Temperature,2025-06-13T20:00:00-06:00,11.4,WCAS
+Hinton-Hillcrest,Sulphur Dioxide,2025-06-13T20:00:00-06:00,0.0,WCAS
+Hinton-Hillcrest,Wind Direction,2025-06-13T20:00:00-06:00,206.0,WCAS
+Hinton-Hillcrest,Fine Particulate Matter,2025-06-13T20:00:00-06:00,0.9,WCAS
+Hinton-Hillcrest,Nitrogen Dioxide,2025-06-13T20:00:00-06:00,0.001,WCAS
 Hinton-Hillcrest,,2025-06-13T20:00:00-06:00,1.0,WCAS
-Hinton-Hillcrest,Ozone,2025-06-13T20:00:00-06:00,,WCAS
-Hinton-Hillcrest,Nitric Oxide,2025-06-13T20:00:00-06:00,,WCAS
+Hinton-Hillcrest,Ozone,2025-06-13T20:00:00-06:00,0.017,WCAS
+Hinton-Hillcrest,Nitric Oxide,2025-06-13T20:00:00-06:00,0.001,WCAS
 Hinton-Hillcrest,,2025-06-13T19:00:00-06:00,1.0,WCAS
 Hinton-Hillcrest,Outdoor Temperature,2025-06-13T19:00:00-06:00,11.4,WCAS
 Hinton-Hillcrest,Wind Speed,2025-06-13T19:00:00-06:00,6.9,WCAS
