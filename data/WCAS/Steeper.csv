@@ -1,17 +1,28 @@
 StationName,ParameterName,ReadingDate,Value
-Steeper,Carbon Monoxide,2025-09-15T12:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-15T12:00:00-06:00,11.9
+Steeper,,2025-09-15T13:00:00-06:00,2.0
+Steeper,Carbon Monoxide,2025-09-15T13:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-15T13:00:00-06:00,0.0
+Steeper,Ozone,2025-09-15T13:00:00-06:00,0.03
+Steeper,Fine Particulate Matter,2025-09-15T13:00:00-06:00,11.4
+Steeper,Wind Direction,2025-09-15T13:00:00-06:00,228.0
+Steeper,Nitrogen Dioxide,2025-09-15T13:00:00-06:00,0.001
+Steeper,Nitric Oxide,2025-09-15T13:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-15T13:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-15T13:00:00-06:00,61.9
+Steeper,Outdoor Temperature,2025-09-15T13:00:00-06:00,15.3
+Steeper,Wind Speed,2025-09-15T13:00:00-06:00,1.8
+Steeper,,2025-09-15T12:00:00-06:00,2.0
+Steeper,Outdoor Temperature,2025-09-15T12:00:00-06:00,13.0
+Steeper,Total Oxides of Nitrogen,2025-09-15T12:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-15T12:00:00-06:00,74.2
+Steeper,Wind Speed,2025-09-15T12:00:00-06:00,2.5
 Steeper,Sulphur Dioxide,2025-09-15T12:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-15T12:00:00-06:00,11.9
+Steeper,Carbon Monoxide,2025-09-15T12:00:00-06:00,0.0
 Steeper,Nitric Oxide,2025-09-15T12:00:00-06:00,0.0
 Steeper,Ozone,2025-09-15T12:00:00-06:00,0.025
 Steeper,Wind Direction,2025-09-15T12:00:00-06:00,221.0
 Steeper,Nitrogen Dioxide,2025-09-15T12:00:00-06:00,0.001
-Steeper,,2025-09-15T12:00:00-06:00,2.0
-Steeper,Wind Speed,2025-09-15T12:00:00-06:00,2.5
-Steeper,Relative Humidity,2025-09-15T12:00:00-06:00,74.2
-Steeper,Total Oxides of Nitrogen,2025-09-15T12:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-15T12:00:00-06:00,13.0
-Steeper,,2025-09-15T11:00:00-06:00,2.0
 Steeper,Nitric Oxide,2025-09-15T11:00:00-06:00,0.0
 Steeper,Total Oxides of Nitrogen,2025-09-15T11:00:00-06:00,0.002
 Steeper,Relative Humidity,2025-09-15T11:00:00-06:00,81.3
@@ -23,47 +34,44 @@ Steeper,Carbon Monoxide,2025-09-15T11:00:00-06:00,0.0
 Steeper,Ozone,2025-09-15T11:00:00-06:00,0.02
 Steeper,Sulphur Dioxide,2025-09-15T11:00:00-06:00,0.0
 Steeper,Outdoor Temperature,2025-09-15T11:00:00-06:00,11.5
+Steeper,,2025-09-15T11:00:00-06:00,2.0
+Steeper,,2025-09-15T10:00:00-06:00,2.0
+Steeper,Nitric Oxide,2025-09-15T10:00:00-06:00,0.0
+Steeper,Ozone,2025-09-15T10:00:00-06:00,0.021
+Steeper,Relative Humidity,2025-09-15T10:00:00-06:00,79.8
+Steeper,Total Oxides of Nitrogen,2025-09-15T10:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-15T10:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-15T10:00:00-06:00,0.001
 Steeper,Wind Direction,2025-09-15T10:00:00-06:00,211.0
 Steeper,Outdoor Temperature,2025-09-15T10:00:00-06:00,10.9
 Steeper,Wind Speed,2025-09-15T10:00:00-06:00,1.3
 Steeper,Fine Particulate Matter,2025-09-15T10:00:00-06:00,11.6
 Steeper,Carbon Monoxide,2025-09-15T10:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-15T10:00:00-06:00,0.001
-Steeper,Sulphur Dioxide,2025-09-15T10:00:00-06:00,0.0
-Steeper,Total Oxides of Nitrogen,2025-09-15T10:00:00-06:00,0.0
-Steeper,Relative Humidity,2025-09-15T10:00:00-06:00,79.8
-Steeper,Ozone,2025-09-15T10:00:00-06:00,0.021
-Steeper,Nitric Oxide,2025-09-15T10:00:00-06:00,0.0
-Steeper,,2025-09-15T10:00:00-06:00,2.0
+Steeper,,2025-09-15T09:00:00-06:00,2.0
 Steeper,Nitrogen Dioxide,2025-09-15T09:00:00-06:00,0.0
 Steeper,Total Oxides of Nitrogen,2025-09-15T09:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-15T09:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-15T09:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-15T09:00:00-06:00,9.8
+Steeper,Nitric Oxide,2025-09-15T09:00:00-06:00,0.0
 Steeper,Fine Particulate Matter,2025-09-15T09:00:00-06:00,10.8
 Steeper,Wind Direction,2025-09-15T09:00:00-06:00,200.0
 Steeper,Wind Speed,2025-09-15T09:00:00-06:00,3.1
 Steeper,Relative Humidity,2025-09-15T09:00:00-06:00,81.8
 Steeper,Ozone,2025-09-15T09:00:00-06:00,0.019
-Steeper,,2025-09-15T09:00:00-06:00,2.0
-Steeper,Nitric Oxide,2025-09-15T09:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-15T09:00:00-06:00,9.8
-Steeper,Carbon Monoxide,2025-09-15T09:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-15T09:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-15T08:00:00-06:00,9.5
-Steeper,Ozone,2025-09-15T08:00:00-06:00,0.019
-Steeper,Relative Humidity,2025-09-15T08:00:00-06:00,83.3
-Steeper,Nitric Oxide,2025-09-15T08:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-15T08:00:00-06:00,195.0
-Steeper,Fine Particulate Matter,2025-09-15T08:00:00-06:00,10.3
-Steeper,Carbon Monoxide,2025-09-15T08:00:00-06:00,0.0
-Steeper,Total Oxides of Nitrogen,2025-09-15T08:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-15T08:00:00-06:00,4.1
-Steeper,Sulphur Dioxide,2025-09-15T08:00:00-06:00,0.0
 Steeper,Nitrogen Dioxide,2025-09-15T08:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-15T08:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-15T08:00:00-06:00,4.1
+Steeper,Total Oxides of Nitrogen,2025-09-15T08:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-15T08:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-15T08:00:00-06:00,10.3
+Steeper,Wind Direction,2025-09-15T08:00:00-06:00,195.0
+Steeper,Nitric Oxide,2025-09-15T08:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-15T08:00:00-06:00,83.3
+Steeper,Ozone,2025-09-15T08:00:00-06:00,0.019
+Steeper,Outdoor Temperature,2025-09-15T08:00:00-06:00,9.5
 Steeper,,2025-09-15T08:00:00-06:00,2.0
-Steeper,Total Oxides of Nitrogen,2025-09-15T07:00:00-06:00,0.0
-Steeper,Relative Humidity,2025-09-15T07:00:00-06:00,81.6
 Steeper,,2025-09-15T07:00:00-06:00,2.0
-Steeper,Wind Speed,2025-09-15T07:00:00-06:00,3.4
-Steeper,Carbon Monoxide,2025-09-15T07:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-15T07:00:00-06:00,201.0
 Steeper,Outdoor Temperature,2025-09-15T07:00:00-06:00,9.8
 Steeper,Nitric Oxide,2025-09-15T07:00:00-06:00,0.0
@@ -71,42 +79,47 @@ Steeper,Fine Particulate Matter,2025-09-15T07:00:00-06:00,9.8
 Steeper,Sulphur Dioxide,2025-09-15T07:00:00-06:00,0.0
 Steeper,Nitrogen Dioxide,2025-09-15T07:00:00-06:00,0.0
 Steeper,Ozone,2025-09-15T07:00:00-06:00,0.021
-Steeper,Fine Particulate Matter,2025-09-15T06:00:00-06:00,9.7
+Steeper,Carbon Monoxide,2025-09-15T07:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-15T07:00:00-06:00,3.4
+Steeper,Relative Humidity,2025-09-15T07:00:00-06:00,81.6
+Steeper,Total Oxides of Nitrogen,2025-09-15T07:00:00-06:00,0.0
 Steeper,Total Oxides of Nitrogen,2025-09-15T06:00:00-06:00,0.0
-Steeper,,2025-09-15T06:00:00-06:00,2.0
+Steeper,Fine Particulate Matter,2025-09-15T06:00:00-06:00,9.7
 Steeper,Ozone,2025-09-15T06:00:00-06:00,0.026
 Steeper,Sulphur Dioxide,2025-09-15T06:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-15T06:00:00-06:00,228.0
 Steeper,Nitric Oxide,2025-09-15T06:00:00-06:00,0.0
 Steeper,Outdoor Temperature,2025-09-15T06:00:00-06:00,10.2
 Steeper,Wind Speed,2025-09-15T06:00:00-06:00,1.9
+Steeper,,2025-09-15T06:00:00-06:00,2.0
 Steeper,Nitrogen Dioxide,2025-09-15T06:00:00-06:00,0.0
 Steeper,Relative Humidity,2025-09-15T06:00:00-06:00,79.0
 Steeper,Carbon Monoxide,2025-09-15T06:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-15T05:00:00-06:00,
-Steeper,Wind Speed,2025-09-15T05:00:00-06:00,4.5
-Steeper,Wind Direction,2025-09-15T05:00:00-06:00,204.0
-Steeper,Ozone,2025-09-15T05:00:00-06:00,
-Steeper,Relative Humidity,2025-09-15T05:00:00-06:00,84.2
-Steeper,Nitric Oxide,2025-09-15T05:00:00-06:00,
 Steeper,,2025-09-15T05:00:00-06:00,2.0
-Steeper,Fine Particulate Matter,2025-09-15T05:00:00-06:00,9.0
-Steeper,Outdoor Temperature,2025-09-15T05:00:00-06:00,9.4
-Steeper,Carbon Monoxide,2025-09-15T05:00:00-06:00,
-Steeper,Nitrogen Dioxide,2025-09-15T05:00:00-06:00,
 Steeper,Total Oxides of Nitrogen,2025-09-15T05:00:00-06:00,
-Steeper,,2025-09-15T04:00:00-06:00,2.0
-Steeper,Relative Humidity,2025-09-15T04:00:00-06:00,86.2
-Steeper,Nitric Oxide,2025-09-15T04:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-15T04:00:00-06:00,0.0
-Steeper,Ozone,2025-09-15T04:00:00-06:00,0.02
-Steeper,Outdoor Temperature,2025-09-15T04:00:00-06:00,9.8
-Steeper,Sulphur Dioxide,2025-09-15T04:00:00-06:00,0.0
-Steeper,Total Oxides of Nitrogen,2025-09-15T04:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-15T04:00:00-06:00,5.0
-Steeper,Fine Particulate Matter,2025-09-15T04:00:00-06:00,8.5
-Steeper,Carbon Monoxide,2025-09-15T04:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-15T05:00:00-06:00,
+Steeper,Carbon Monoxide,2025-09-15T05:00:00-06:00,
+Steeper,Outdoor Temperature,2025-09-15T05:00:00-06:00,9.4
+Steeper,Fine Particulate Matter,2025-09-15T05:00:00-06:00,9.0
+Steeper,Nitric Oxide,2025-09-15T05:00:00-06:00,
+Steeper,Relative Humidity,2025-09-15T05:00:00-06:00,84.2
+Steeper,Ozone,2025-09-15T05:00:00-06:00,
+Steeper,Wind Direction,2025-09-15T05:00:00-06:00,204.0
+Steeper,Wind Speed,2025-09-15T05:00:00-06:00,4.5
+Steeper,Sulphur Dioxide,2025-09-15T05:00:00-06:00,
 Steeper,Wind Direction,2025-09-15T04:00:00-06:00,210.0
+Steeper,Carbon Monoxide,2025-09-15T04:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-15T04:00:00-06:00,8.5
+Steeper,Wind Speed,2025-09-15T04:00:00-06:00,5.0
+Steeper,Total Oxides of Nitrogen,2025-09-15T04:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-15T04:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-15T04:00:00-06:00,9.8
+Steeper,Ozone,2025-09-15T04:00:00-06:00,0.02
+Steeper,Nitrogen Dioxide,2025-09-15T04:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-15T04:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-15T04:00:00-06:00,86.2
+Steeper,,2025-09-15T04:00:00-06:00,2.0
+Steeper,,2025-09-15T03:00:00-06:00,2.0
 Steeper,Sulphur Dioxide,2025-09-15T03:00:00-06:00,0.0
 Steeper,Carbon Monoxide,2025-09-15T03:00:00-06:00,0.0
 Steeper,Outdoor Temperature,2025-09-15T03:00:00-06:00,10.5
@@ -118,246 +131,245 @@ Steeper,Total Oxides of Nitrogen,2025-09-15T03:00:00-06:00,0.0
 Steeper,Relative Humidity,2025-09-15T03:00:00-06:00,83.9
 Steeper,Fine Particulate Matter,2025-09-15T03:00:00-06:00,7.7
 Steeper,Nitrogen Dioxide,2025-09-15T03:00:00-06:00,0.0
-Steeper,,2025-09-15T03:00:00-06:00,2.0
-Steeper,Relative Humidity,2025-09-15T02:00:00-06:00,85.3
-Steeper,Outdoor Temperature,2025-09-15T02:00:00-06:00,10.4
-Steeper,Carbon Monoxide,2025-09-15T02:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-15T02:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-15T02:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-15T02:00:00-06:00,7.3
 Steeper,Wind Speed,2025-09-15T02:00:00-06:00,5.8
+Steeper,Fine Particulate Matter,2025-09-15T02:00:00-06:00,7.3
+Steeper,Nitric Oxide,2025-09-15T02:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-15T02:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-15T02:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-15T02:00:00-06:00,10.4
+Steeper,Relative Humidity,2025-09-15T02:00:00-06:00,85.3
 Steeper,Ozone,2025-09-15T02:00:00-06:00,0.026
-Steeper,,2025-09-15T02:00:00-06:00,2.0
 Steeper,Sulphur Dioxide,2025-09-15T02:00:00-06:00,0.0
 Steeper,Total Oxides of Nitrogen,2025-09-15T02:00:00-06:00,0.0
+Steeper,,2025-09-15T02:00:00-06:00,2.0
 Steeper,Wind Direction,2025-09-15T02:00:00-06:00,201.0
+Steeper,,2025-09-15T01:00:00-06:00,2.0
 Steeper,Wind Speed,2025-09-15T01:00:00-06:00,6.1
 Steeper,Wind Direction,2025-09-15T01:00:00-06:00,203.0
 Steeper,Outdoor Temperature,2025-09-15T01:00:00-06:00,10.5
 Steeper,Relative Humidity,2025-09-15T01:00:00-06:00,85.0
 Steeper,Nitrogen Dioxide,2025-09-15T01:00:00-06:00,0.0
-Steeper,,2025-09-15T01:00:00-06:00,2.0
 Steeper,Sulphur Dioxide,2025-09-15T01:00:00-06:00,0.0
 Steeper,Nitric Oxide,2025-09-15T01:00:00-06:00,0.0
 Steeper,Total Oxides of Nitrogen,2025-09-15T01:00:00-06:00,0.0
-Steeper,Ozone,2025-09-15T01:00:00-06:00,0.032
-Steeper,Carbon Monoxide,2025-09-15T01:00:00-06:00,0.0
 Steeper,Fine Particulate Matter,2025-09-15T01:00:00-06:00,7.3
+Steeper,Carbon Monoxide,2025-09-15T01:00:00-06:00,0.0
+Steeper,Ozone,2025-09-15T01:00:00-06:00,0.032
 Steeper,,2025-09-15T00:00:00-06:00,2.0
-Steeper,Wind Direction,2025-09-15T00:00:00-06:00,207.0
-Steeper,Ozone,2025-09-15T00:00:00-06:00,0.033
 Steeper,Nitric Oxide,2025-09-15T00:00:00-06:00,0.0
 Steeper,Total Oxides of Nitrogen,2025-09-15T00:00:00-06:00,0.0
 Steeper,Sulphur Dioxide,2025-09-15T00:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-15T00:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-15T00:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-15T00:00:00-06:00,89.5
+Steeper,Wind Direction,2025-09-15T00:00:00-06:00,207.0
+Steeper,Ozone,2025-09-15T00:00:00-06:00,0.033
 Steeper,Wind Speed,2025-09-15T00:00:00-06:00,6.9
 Steeper,Outdoor Temperature,2025-09-15T00:00:00-06:00,10.3
 Steeper,Fine Particulate Matter,2025-09-15T00:00:00-06:00,7.1
-Steeper,Relative Humidity,2025-09-15T00:00:00-06:00,89.5
-Steeper,Carbon Monoxide,2025-09-15T00:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-15T00:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-14T23:00:00-06:00,0.0
 Steeper,Carbon Monoxide,2025-09-14T23:00:00-06:00,0.0
 Steeper,Sulphur Dioxide,2025-09-14T23:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-14T23:00:00-06:00,0.0
+Steeper,,2025-09-14T23:00:00-06:00,2.0
+Steeper,Total Oxides of Nitrogen,2025-09-14T23:00:00-06:00,0.0
 Steeper,Nitrogen Dioxide,2025-09-14T23:00:00-06:00,0.001
 Steeper,Ozone,2025-09-14T23:00:00-06:00,0.039
 Steeper,Wind Direction,2025-09-14T23:00:00-06:00,210.0
-Steeper,,2025-09-14T23:00:00-06:00,2.0
-Steeper,Wind Speed,2025-09-14T23:00:00-06:00,9.5
-Steeper,Outdoor Temperature,2025-09-14T23:00:00-06:00,11.1
-Steeper,Relative Humidity,2025-09-14T23:00:00-06:00,84.3
 Steeper,Fine Particulate Matter,2025-09-14T23:00:00-06:00,6.8
-Steeper,Total Oxides of Nitrogen,2025-09-14T23:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-14T22:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-14T22:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-14T22:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-14T22:00:00-06:00,0.0
-Steeper,,2025-09-14T22:00:00-06:00,2.0
+Steeper,Relative Humidity,2025-09-14T23:00:00-06:00,84.3
+Steeper,Outdoor Temperature,2025-09-14T23:00:00-06:00,11.1
+Steeper,Wind Speed,2025-09-14T23:00:00-06:00,9.5
 Steeper,Total Oxides of Nitrogen,2025-09-14T22:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-14T22:00:00-06:00,7.1
+Steeper,,2025-09-14T22:00:00-06:00,2.0
+Steeper,Wind Speed,2025-09-14T22:00:00-06:00,10.6
 Steeper,Ozone,2025-09-14T22:00:00-06:00,0.042
+Steeper,Nitric Oxide,2025-09-14T22:00:00-06:00,0.0
 Steeper,Relative Humidity,2025-09-14T22:00:00-06:00,60.1
+Steeper,Sulphur Dioxide,2025-09-14T22:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-14T22:00:00-06:00,214.0
 Steeper,Outdoor Temperature,2025-09-14T22:00:00-06:00,13.7
-Steeper,Wind Speed,2025-09-14T22:00:00-06:00,10.6
-Steeper,Fine Particulate Matter,2025-09-14T22:00:00-06:00,7.1
+Steeper,Carbon Monoxide,2025-09-14T22:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-14T22:00:00-06:00,0.0
+Steeper,,2025-09-14T21:00:00-06:00,2.0
+Steeper,Nitric Oxide,2025-09-14T21:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-14T21:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-14T21:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-14T21:00:00-06:00,232.0
+Steeper,Relative Humidity,2025-09-14T21:00:00-06:00,58.0
+Steeper,Outdoor Temperature,2025-09-14T21:00:00-06:00,14.4
+Steeper,Ozone,2025-09-14T21:00:00-06:00,0.042
+Steeper,Wind Speed,2025-09-14T21:00:00-06:00,4.7
 Steeper,Fine Particulate Matter,2025-09-14T21:00:00-06:00,6.3
 Steeper,Total Oxides of Nitrogen,2025-09-14T21:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-14T21:00:00-06:00,4.7
-Steeper,Nitric Oxide,2025-09-14T21:00:00-06:00,0.0
-Steeper,Ozone,2025-09-14T21:00:00-06:00,0.042
-Steeper,Outdoor Temperature,2025-09-14T21:00:00-06:00,14.4
-Steeper,Sulphur Dioxide,2025-09-14T21:00:00-06:00,0.0
-Steeper,Relative Humidity,2025-09-14T21:00:00-06:00,58.0
-Steeper,Carbon Monoxide,2025-09-14T21:00:00-06:00,0.0
 Steeper,Nitrogen Dioxide,2025-09-14T21:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-14T21:00:00-06:00,232.0
-Steeper,,2025-09-14T21:00:00-06:00,2.0
-Steeper,Total Oxides of Nitrogen,2025-09-14T20:00:00-06:00,0.0
 Steeper,Ozone,2025-09-14T20:00:00-06:00,0.036
 Steeper,Wind Speed,2025-09-14T20:00:00-06:00,4.8
 Steeper,Outdoor Temperature,2025-09-14T20:00:00-06:00,15.4
 Steeper,Wind Direction,2025-09-14T20:00:00-06:00,234.0
+Steeper,,2025-09-14T20:00:00-06:00,2.0
+Steeper,Total Oxides of Nitrogen,2025-09-14T20:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-14T20:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-14T20:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-14T20:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-14T20:00:00-06:00,0.0
 Steeper,Relative Humidity,2025-09-14T20:00:00-06:00,56.5
 Steeper,Fine Particulate Matter,2025-09-14T20:00:00-06:00,8.5
-Steeper,Nitric Oxide,2025-09-14T20:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-14T20:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-14T20:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-14T20:00:00-06:00,0.0
-Steeper,,2025-09-14T20:00:00-06:00,2.0
-Steeper,Wind Speed,2025-09-14T19:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-14T19:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-14T19:00:00-06:00,271.0
-Steeper,Outdoor Temperature,2025-09-14T19:00:00-06:00,17.5
-Steeper,Ozone,2025-09-14T19:00:00-06:00,0.041
-Steeper,Fine Particulate Matter,2025-09-14T19:00:00-06:00,9.2
-Steeper,Sulphur Dioxide,2025-09-14T19:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-14T19:00:00-06:00,0.0
 Steeper,Relative Humidity,2025-09-14T19:00:00-06:00,39.7
-Steeper,,2025-09-14T19:00:00-06:00,3.0
+Steeper,Fine Particulate Matter,2025-09-14T19:00:00-06:00,9.2
+Steeper,Ozone,2025-09-14T19:00:00-06:00,0.041
 Steeper,Nitric Oxide,2025-09-14T19:00:00-06:00,0.0
 Steeper,Total Oxides of Nitrogen,2025-09-14T19:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-14T19:00:00-06:00,17.5
+Steeper,Wind Direction,2025-09-14T19:00:00-06:00,271.0
+Steeper,,2025-09-14T19:00:00-06:00,3.0
+Steeper,Sulphur Dioxide,2025-09-14T19:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-14T19:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-14T19:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-14T19:00:00-06:00,0.0
+Steeper,,2025-09-14T18:00:00-06:00,3.0
 Steeper,Relative Humidity,2025-09-14T18:00:00-06:00,38.0
 Steeper,Fine Particulate Matter,2025-09-14T18:00:00-06:00,8.7
-Steeper,Sulphur Dioxide,2025-09-14T18:00:00-06:00,0.0
-Steeper,,2025-09-14T18:00:00-06:00,3.0
-Steeper,Nitric Oxide,2025-09-14T18:00:00-06:00,0.0
 Steeper,Outdoor Temperature,2025-09-14T18:00:00-06:00,17.9
 Steeper,Ozone,2025-09-14T18:00:00-06:00,0.041
 Steeper,Wind Direction,2025-09-14T18:00:00-06:00,272.0
-Steeper,Wind Speed,2025-09-14T18:00:00-06:00,0.0
 Steeper,Carbon Monoxide,2025-09-14T18:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-14T18:00:00-06:00,0.001
+Steeper,Sulphur Dioxide,2025-09-14T18:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-14T18:00:00-06:00,0.0
 Steeper,Total Oxides of Nitrogen,2025-09-14T18:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-14T17:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-14T18:00:00-06:00,0.001
+Steeper,Wind Speed,2025-09-14T18:00:00-06:00,0.0
 Steeper,,2025-09-14T17:00:00-06:00,2.0
-Steeper,Sulphur Dioxide,2025-09-14T17:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-14T17:00:00-06:00,0.001
 Steeper,Ozone,2025-09-14T17:00:00-06:00,0.038
 Steeper,Fine Particulate Matter,2025-09-14T17:00:00-06:00,9.3
+Steeper,Nitric Oxide,2025-09-14T17:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-14T17:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-14T17:00:00-06:00,0.0
 Steeper,Relative Humidity,2025-09-14T17:00:00-06:00,42.3
 Steeper,Outdoor Temperature,2025-09-14T17:00:00-06:00,18.6
 Steeper,Wind Direction,2025-09-14T17:00:00-06:00,242.0
+Steeper,Nitrogen Dioxide,2025-09-14T17:00:00-06:00,0.001
 Steeper,Carbon Monoxide,2025-09-14T17:00:00-06:00,0.1
-Steeper,Total Oxides of Nitrogen,2025-09-14T17:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-14T17:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-14T16:00:00-06:00,30.0
-Steeper,Ozone,2025-09-14T16:00:00-06:00,0.039
-Steeper,Outdoor Temperature,2025-09-14T16:00:00-06:00,18.5
-Steeper,Relative Humidity,2025-09-14T16:00:00-06:00,41.6
+Steeper,Sulphur Dioxide,2025-09-14T17:00:00-06:00,0.0
 Steeper,Fine Particulate Matter,2025-09-14T16:00:00-06:00,9.3
-Steeper,,2025-09-14T16:00:00-06:00,2.0
 Steeper,Wind Speed,2025-09-14T16:00:00-06:00,3.8
-Steeper,Nitric Oxide,2025-09-14T16:00:00-06:00,0.0
 Steeper,Total Oxides of Nitrogen,2025-09-14T16:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-14T16:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-14T16:00:00-06:00,41.6
 Steeper,Nitrogen Dioxide,2025-09-14T16:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-14T16:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-14T16:00:00-06:00,18.5
 Steeper,Sulphur Dioxide,2025-09-14T16:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-14T15:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-14T16:00:00-06:00,0.0
+Steeper,Ozone,2025-09-14T16:00:00-06:00,0.039
+Steeper,Wind Direction,2025-09-14T16:00:00-06:00,30.0
+Steeper,,2025-09-14T16:00:00-06:00,2.0
 Steeper,Total Oxides of Nitrogen,2025-09-14T15:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-14T15:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-14T15:00:00-06:00,0.0
-Steeper,Ozone,2025-09-14T15:00:00-06:00,0.039
-Steeper,Outdoor Temperature,2025-09-14T15:00:00-06:00,18.9
 Steeper,Wind Speed,2025-09-14T15:00:00-06:00,3.0
 Steeper,Fine Particulate Matter,2025-09-14T15:00:00-06:00,9.3
+Steeper,Ozone,2025-09-14T15:00:00-06:00,0.039
 Steeper,Wind Direction,2025-09-14T15:00:00-06:00,36.0
+Steeper,Outdoor Temperature,2025-09-14T15:00:00-06:00,18.9
 Steeper,Relative Humidity,2025-09-14T15:00:00-06:00,41.5
-Steeper,Sulphur Dioxide,2025-09-14T15:00:00-06:00,0.0
 Steeper,,2025-09-14T15:00:00-06:00,2.0
-Steeper,Carbon Monoxide,2025-09-14T14:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-14T14:00:00-06:00,8.3
-Steeper,Relative Humidity,2025-09-14T14:00:00-06:00,37.5
-Steeper,Wind Speed,2025-09-14T14:00:00-06:00,3.0
-Steeper,Sulphur Dioxide,2025-09-14T14:00:00-06:00,0.0
-Steeper,Ozone,2025-09-14T14:00:00-06:00,0.04
-Steeper,,2025-09-14T14:00:00-06:00,2.0
+Steeper,Nitric Oxide,2025-09-14T15:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-14T15:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-14T15:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-14T15:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-14T14:00:00-06:00,29.0
+Steeper,,2025-09-14T14:00:00-06:00,2.0
 Steeper,Outdoor Temperature,2025-09-14T14:00:00-06:00,19.9
-Steeper,Nitrogen Dioxide,2025-09-14T14:00:00-06:00,0.0
+Steeper,Ozone,2025-09-14T14:00:00-06:00,0.04
+Steeper,Wind Speed,2025-09-14T14:00:00-06:00,3.0
+Steeper,Relative Humidity,2025-09-14T14:00:00-06:00,37.5
+Steeper,Fine Particulate Matter,2025-09-14T14:00:00-06:00,8.3
 Steeper,Nitric Oxide,2025-09-14T14:00:00-06:00,0.0
 Steeper,Total Oxides of Nitrogen,2025-09-14T14:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-14T14:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-14T14:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-14T14:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-14T13:00:00-06:00,0.0
 Steeper,Relative Humidity,2025-09-14T13:00:00-06:00,39.6
-Steeper,Sulphur Dioxide,2025-09-14T13:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-14T13:00:00-06:00,247.0
+Steeper,Total Oxides of Nitrogen,2025-09-14T13:00:00-06:00,0.0
 Steeper,Wind Speed,2025-09-14T13:00:00-06:00,1.5
 Steeper,Fine Particulate Matter,2025-09-14T13:00:00-06:00,7.6
-Steeper,,2025-09-14T13:00:00-06:00,2.0
-Steeper,Nitrogen Dioxide,2025-09-14T13:00:00-06:00,0.0
-Steeper,Total Oxides of Nitrogen,2025-09-14T13:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-14T13:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-14T13:00:00-06:00,0.0
 Steeper,Ozone,2025-09-14T13:00:00-06:00,0.038
 Steeper,Outdoor Temperature,2025-09-14T13:00:00-06:00,19.8
-Steeper,Nitrogen Dioxide,2025-09-14T12:00:00-06:00,0.0
-Steeper,Total Oxides of Nitrogen,2025-09-14T12:00:00-06:00,0.0
+Steeper,,2025-09-14T13:00:00-06:00,2.0
+Steeper,Carbon Monoxide,2025-09-14T13:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-14T13:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-14T13:00:00-06:00,0.0
 Steeper,,2025-09-14T12:00:00-06:00,2.0
+Steeper,Fine Particulate Matter,2025-09-14T12:00:00-06:00,10.8
+Steeper,Outdoor Temperature,2025-09-14T12:00:00-06:00,17.4
+Steeper,Wind Speed,2025-09-14T12:00:00-06:00,4.4
+Steeper,Ozone,2025-09-14T12:00:00-06:00,0.03
+Steeper,Relative Humidity,2025-09-14T12:00:00-06:00,52.4
+Steeper,Wind Direction,2025-09-14T12:00:00-06:00,232.0
 Steeper,Carbon Monoxide,2025-09-14T12:00:00-06:00,0.0
 Steeper,Sulphur Dioxide,2025-09-14T12:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-14T12:00:00-06:00,232.0
-Steeper,Relative Humidity,2025-09-14T12:00:00-06:00,52.4
-Steeper,Ozone,2025-09-14T12:00:00-06:00,0.03
-Steeper,Wind Speed,2025-09-14T12:00:00-06:00,4.4
-Steeper,Outdoor Temperature,2025-09-14T12:00:00-06:00,17.4
+Steeper,Nitrogen Dioxide,2025-09-14T12:00:00-06:00,0.0
 Steeper,Nitric Oxide,2025-09-14T12:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-14T12:00:00-06:00,10.8
+Steeper,Total Oxides of Nitrogen,2025-09-14T12:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-14T11:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-14T11:00:00-06:00,13.2
 Steeper,Fine Particulate Matter,2025-09-14T11:00:00-06:00,11.2
 Steeper,Ozone,2025-09-14T11:00:00-06:00,0.027
 Steeper,Wind Direction,2025-09-14T11:00:00-06:00,197.0
 Steeper,Wind Speed,2025-09-14T11:00:00-06:00,5.6
-Steeper,Carbon Monoxide,2025-09-14T11:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-14T11:00:00-06:00,13.2
 Steeper,Relative Humidity,2025-09-14T11:00:00-06:00,60.8
-Steeper,Sulphur Dioxide,2025-09-14T11:00:00-06:00,0.0
 Steeper,Nitrogen Dioxide,2025-09-14T11:00:00-06:00,0.0
-Steeper,,2025-09-14T11:00:00-06:00,2.0
-Steeper,Total Oxides of Nitrogen,2025-09-14T11:00:00-06:00,0.0
 Steeper,Nitric Oxide,2025-09-14T11:00:00-06:00,0.0
-Steeper,Total Oxides of Nitrogen,2025-09-14T10:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-14T11:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-14T11:00:00-06:00,0.0
+Steeper,,2025-09-14T11:00:00-06:00,2.0
+Steeper,Sulphur Dioxide,2025-09-14T10:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-14T10:00:00-06:00,0.0
+Steeper,,2025-09-14T10:00:00-06:00,2.0
 Steeper,Outdoor Temperature,2025-09-14T10:00:00-06:00,11.0
-Steeper,Nitric Oxide,2025-09-14T10:00:00-06:00,0.0
 Steeper,Fine Particulate Matter,2025-09-14T10:00:00-06:00,11.2
 Steeper,Relative Humidity,2025-09-14T10:00:00-06:00,63.2
 Steeper,Ozone,2025-09-14T10:00:00-06:00,0.028
 Steeper,Wind Direction,2025-09-14T10:00:00-06:00,194.0
 Steeper,Wind Speed,2025-09-14T10:00:00-06:00,7.9
-Steeper,Sulphur Dioxide,2025-09-14T10:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-14T10:00:00-06:00,0.0
-Steeper,,2025-09-14T10:00:00-06:00,2.0
+Steeper,Total Oxides of Nitrogen,2025-09-14T10:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-14T10:00:00-06:00,0.0
 Steeper,Carbon Monoxide,2025-09-14T10:00:00-06:00,0.0
-Steeper,Total Oxides of Nitrogen,2025-09-14T09:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-14T09:00:00-06:00,10.9
-Steeper,Wind Direction,2025-09-14T09:00:00-06:00,196.0
-Steeper,Wind Speed,2025-09-14T09:00:00-06:00,8.4
 Steeper,Nitrogen Dioxide,2025-09-14T09:00:00-06:00,0.0
-Steeper,Ozone,2025-09-14T09:00:00-06:00,0.029
-Steeper,Outdoor Temperature,2025-09-14T09:00:00-06:00,10.4
-Steeper,Relative Humidity,2025-09-14T09:00:00-06:00,63.2
-Steeper,Carbon Monoxide,2025-09-14T09:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-14T09:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-14T09:00:00-06:00,0.0
 Steeper,,2025-09-14T09:00:00-06:00,2.0
+Steeper,Total Oxides of Nitrogen,2025-09-14T09:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-14T09:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-14T09:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-14T09:00:00-06:00,63.2
+Steeper,Outdoor Temperature,2025-09-14T09:00:00-06:00,10.4
+Steeper,Ozone,2025-09-14T09:00:00-06:00,0.029
+Steeper,Wind Speed,2025-09-14T09:00:00-06:00,8.4
+Steeper,Wind Direction,2025-09-14T09:00:00-06:00,196.0
+Steeper,Fine Particulate Matter,2025-09-14T09:00:00-06:00,10.9
+Steeper,Sulphur Dioxide,2025-09-14T09:00:00-06:00,0.0
 Steeper,Carbon Monoxide,2025-09-14T08:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-14T08:00:00-06:00,0.0
 Steeper,Nitric Oxide,2025-09-14T08:00:00-06:00,0.0
-Steeper,Ozone,2025-09-14T08:00:00-06:00,0.032
-Steeper,,2025-09-14T08:00:00-06:00,2.0
 Steeper,Total Oxides of Nitrogen,2025-09-14T08:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-14T08:00:00-06:00,0.001
+Steeper,Ozone,2025-09-14T08:00:00-06:00,0.032
 Steeper,Wind Speed,2025-09-14T08:00:00-06:00,7.5
 Steeper,Outdoor Temperature,2025-09-14T08:00:00-06:00,10.7
 Steeper,Wind Direction,2025-09-14T08:00:00-06:00,198.0
 Steeper,Relative Humidity,2025-09-14T08:00:00-06:00,59.2
 Steeper,Fine Particulate Matter,2025-09-14T08:00:00-06:00,10.5
-Steeper,Nitrogen Dioxide,2025-09-14T08:00:00-06:00,0.001
+Steeper,,2025-09-14T08:00:00-06:00,2.0
+Steeper,Sulphur Dioxide,2025-09-14T08:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-14T07:00:00-06:00,196.0
-Steeper,Outdoor Temperature,2025-09-14T07:00:00-06:00,11.5
 Steeper,Ozone,2025-09-14T07:00:00-06:00,0.034
 Steeper,Fine Particulate Matter,2025-09-14T07:00:00-06:00,10.3
 Steeper,Wind Speed,2025-09-14T07:00:00-06:00,7.1
 Steeper,Relative Humidity,2025-09-14T07:00:00-06:00,55.8
+Steeper,Outdoor Temperature,2025-09-14T07:00:00-06:00,11.5
 Steeper,Nitric Oxide,2025-09-14T07:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-14T07:00:00-06:00,0.0
 Steeper,Total Oxides of Nitrogen,2025-09-14T07:00:00-06:00,0.0
 Steeper,,2025-09-14T07:00:00-06:00,2.0
 Steeper,Carbon Monoxide,2025-09-14T07:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-14T07:00:00-06:00,0.0
 Steeper,Nitrogen Dioxide,2025-09-14T07:00:00-06:00,0.0
 Steeper,Relative Humidity,2025-09-14T06:00:00-06:00,57.2
 Steeper,Wind Speed,2025-09-14T06:00:00-06:00,7.2
@@ -365,1581 +377,1569 @@ Steeper,Fine Particulate Matter,2025-09-14T06:00:00-06:00,10.1
 Steeper,Outdoor Temperature,2025-09-14T06:00:00-06:00,11.3
 Steeper,Wind Direction,2025-09-14T06:00:00-06:00,193.0
 Steeper,Ozone,2025-09-14T06:00:00-06:00,0.033
-Steeper,,2025-09-14T06:00:00-06:00,2.0
-Steeper,Nitric Oxide,2025-09-14T06:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-14T06:00:00-06:00,0.0
-Steeper,Total Oxides of Nitrogen,2025-09-14T06:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-14T06:00:00-06:00,0.0
 Steeper,Carbon Monoxide,2025-09-14T06:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-14T06:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-14T06:00:00-06:00,0.0
+Steeper,,2025-09-14T06:00:00-06:00,2.0
+Steeper,Nitrogen Dioxide,2025-09-14T06:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-14T06:00:00-06:00,0.0
 Steeper,Outdoor Temperature,2025-09-14T05:00:00-06:00,10.8
 Steeper,Wind Direction,2025-09-14T05:00:00-06:00,193.0
 Steeper,Wind Speed,2025-09-14T05:00:00-06:00,6.6
 Steeper,Fine Particulate Matter,2025-09-14T05:00:00-06:00,10.4
 Steeper,Relative Humidity,2025-09-14T05:00:00-06:00,60.2
-Steeper,,2025-09-14T05:00:00-06:00,2.0
 Steeper,Total Oxides of Nitrogen,2025-09-14T05:00:00-06:00,
 Steeper,Ozone,2025-09-14T05:00:00-06:00,
 Steeper,Carbon Monoxide,2025-09-14T05:00:00-06:00,
 Steeper,Nitric Oxide,2025-09-14T05:00:00-06:00,
 Steeper,Sulphur Dioxide,2025-09-14T05:00:00-06:00,
 Steeper,Nitrogen Dioxide,2025-09-14T05:00:00-06:00,
-Steeper,Carbon Monoxide,2025-09-14T04:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-14T04:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-14T04:00:00-06:00,0.0
-Steeper,Total Oxides of Nitrogen,2025-09-14T04:00:00-06:00,0.0
+Steeper,,2025-09-14T05:00:00-06:00,2.0
 Steeper,,2025-09-14T04:00:00-06:00,2.0
+Steeper,Carbon Monoxide,2025-09-14T04:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-14T04:00:00-06:00,0.0
 Steeper,Nitric Oxide,2025-09-14T04:00:00-06:00,0.0
-Steeper,Relative Humidity,2025-09-14T04:00:00-06:00,66.4
-Steeper,Wind Speed,2025-09-14T04:00:00-06:00,7.2
-Steeper,Fine Particulate Matter,2025-09-14T04:00:00-06:00,10.8
-Steeper,Ozone,2025-09-14T04:00:00-06:00,0.03
-Steeper,Wind Direction,2025-09-14T04:00:00-06:00,200.0
+Steeper,Nitrogen Dioxide,2025-09-14T04:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-14T04:00:00-06:00,0.0
 Steeper,Outdoor Temperature,2025-09-14T04:00:00-06:00,10.3
-Steeper,Carbon Monoxide,2025-09-14T03:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-14T04:00:00-06:00,200.0
+Steeper,Ozone,2025-09-14T04:00:00-06:00,0.03
+Steeper,Fine Particulate Matter,2025-09-14T04:00:00-06:00,10.8
+Steeper,Wind Speed,2025-09-14T04:00:00-06:00,7.2
+Steeper,Relative Humidity,2025-09-14T04:00:00-06:00,66.4
 Steeper,Nitrogen Dioxide,2025-09-14T03:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-14T03:00:00-06:00,0.0
 Steeper,Total Oxides of Nitrogen,2025-09-14T03:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-14T03:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-14T03:00:00-06:00,205.0
-Steeper,Outdoor Temperature,2025-09-14T03:00:00-06:00,11.3
-Steeper,Relative Humidity,2025-09-14T03:00:00-06:00,65.6
-Steeper,Ozone,2025-09-14T03:00:00-06:00,0.032
-Steeper,Fine Particulate Matter,2025-09-14T03:00:00-06:00,11.4
-Steeper,Wind Speed,2025-09-14T03:00:00-06:00,8.0
 Steeper,,2025-09-14T03:00:00-06:00,2.0
+Steeper,Wind Speed,2025-09-14T03:00:00-06:00,8.0
+Steeper,Fine Particulate Matter,2025-09-14T03:00:00-06:00,11.4
+Steeper,Nitric Oxide,2025-09-14T03:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-14T03:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-14T03:00:00-06:00,0.0
+Steeper,Ozone,2025-09-14T03:00:00-06:00,0.032
+Steeper,Relative Humidity,2025-09-14T03:00:00-06:00,65.6
+Steeper,Outdoor Temperature,2025-09-14T03:00:00-06:00,11.3
+Steeper,Wind Direction,2025-09-14T03:00:00-06:00,205.0
 Steeper,,2025-09-14T02:00:00-06:00,2.0
 Steeper,Ozone,2025-09-14T02:00:00-06:00,0.029
-Steeper,Wind Speed,2025-09-14T02:00:00-06:00,9.6
-Steeper,Wind Direction,2025-09-14T02:00:00-06:00,200.0
-Steeper,Outdoor Temperature,2025-09-14T02:00:00-06:00,11.1
-Steeper,Relative Humidity,2025-09-14T02:00:00-06:00,71.0
-Steeper,Fine Particulate Matter,2025-09-14T02:00:00-06:00,12.7
-Steeper,Nitric Oxide,2025-09-14T02:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-14T02:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-14T02:00:00-06:00,0.0
-Steeper,Total Oxides of Nitrogen,2025-09-14T02:00:00-06:00,0.0
 Steeper,Nitrogen Dioxide,2025-09-14T02:00:00-06:00,0.001
-Steeper,Nitric Oxide,2025-09-14T01:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-14T01:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-14T01:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-14T02:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-14T02:00:00-06:00,12.7
+Steeper,Relative Humidity,2025-09-14T02:00:00-06:00,71.0
+Steeper,Outdoor Temperature,2025-09-14T02:00:00-06:00,11.1
+Steeper,Nitric Oxide,2025-09-14T02:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-14T02:00:00-06:00,200.0
+Steeper,Wind Speed,2025-09-14T02:00:00-06:00,9.6
+Steeper,Carbon Monoxide,2025-09-14T02:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-14T02:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-14T01:00:00-06:00,10.3
+Steeper,Nitrogen Dioxide,2025-09-14T01:00:00-06:00,0.001
 Steeper,Total Oxides of Nitrogen,2025-09-14T01:00:00-06:00,0.0
 Steeper,,2025-09-14T01:00:00-06:00,2.0
-Steeper,Nitrogen Dioxide,2025-09-14T01:00:00-06:00,0.001
-Steeper,Wind Speed,2025-09-14T01:00:00-06:00,10.3
+Steeper,Carbon Monoxide,2025-09-14T01:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-14T01:00:00-06:00,200.0
-Steeper,Ozone,2025-09-14T01:00:00-06:00,0.026
-Steeper,Fine Particulate Matter,2025-09-14T01:00:00-06:00,15.3
-Steeper,Relative Humidity,2025-09-14T01:00:00-06:00,77.9
 Steeper,Outdoor Temperature,2025-09-14T01:00:00-06:00,10.9
-Steeper,Outdoor Temperature,2025-09-14T00:00:00-06:00,11.4
-Steeper,Wind Direction,2025-09-14T00:00:00-06:00,199.0
-Steeper,Carbon Monoxide,2025-09-14T00:00:00-06:00,0.1
-Steeper,Nitrogen Dioxide,2025-09-14T00:00:00-06:00,0.001
-Steeper,Total Oxides of Nitrogen,2025-09-14T00:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-14T00:00:00-06:00,8.5
+Steeper,Relative Humidity,2025-09-14T01:00:00-06:00,77.9
+Steeper,Fine Particulate Matter,2025-09-14T01:00:00-06:00,15.3
+Steeper,Ozone,2025-09-14T01:00:00-06:00,0.026
+Steeper,Sulphur Dioxide,2025-09-14T01:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-14T01:00:00-06:00,0.0
 Steeper,Fine Particulate Matter,2025-09-14T00:00:00-06:00,19.8
-Steeper,Sulphur Dioxide,2025-09-14T00:00:00-06:00,0.0
-Steeper,Ozone,2025-09-14T00:00:00-06:00,0.023
-Steeper,,2025-09-14T00:00:00-06:00,3.0
-Steeper,Relative Humidity,2025-09-14T00:00:00-06:00,81.2
+Steeper,Carbon Monoxide,2025-09-14T00:00:00-06:00,0.1
+Steeper,Wind Direction,2025-09-14T00:00:00-06:00,199.0
+Steeper,Outdoor Temperature,2025-09-14T00:00:00-06:00,11.4
+Steeper,Wind Speed,2025-09-14T00:00:00-06:00,8.5
 Steeper,Nitric Oxide,2025-09-14T00:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-13T23:00:00-06:00,0.001
+Steeper,,2025-09-14T00:00:00-06:00,3.0
+Steeper,Sulphur Dioxide,2025-09-14T00:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-14T00:00:00-06:00,0.0
+Steeper,Ozone,2025-09-14T00:00:00-06:00,0.023
+Steeper,Relative Humidity,2025-09-14T00:00:00-06:00,81.2
+Steeper,Nitrogen Dioxide,2025-09-14T00:00:00-06:00,0.001
+Steeper,Nitric Oxide,2025-09-13T23:00:00-06:00,0.0
 Steeper,Fine Particulate Matter,2025-09-13T23:00:00-06:00,20.3
+Steeper,Sulphur Dioxide,2025-09-13T23:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-13T23:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-13T23:00:00-06:00,0.001
 Steeper,Outdoor Temperature,2025-09-13T23:00:00-06:00,12.8
 Steeper,Carbon Monoxide,2025-09-13T23:00:00-06:00,0.1
 Steeper,Relative Humidity,2025-09-13T23:00:00-06:00,78.6
 Steeper,Ozone,2025-09-13T23:00:00-06:00,0.029
 Steeper,Wind Speed,2025-09-13T23:00:00-06:00,6.6
-Steeper,Sulphur Dioxide,2025-09-13T23:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-13T23:00:00-06:00,0.0
-Steeper,,2025-09-13T23:00:00-06:00,3.0
-Steeper,Total Oxides of Nitrogen,2025-09-13T23:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-13T23:00:00-06:00,202.0
-Steeper,,2025-09-13T22:00:00-06:00,3.0
-Steeper,Carbon Monoxide,2025-09-13T22:00:00-06:00,0.1
-Steeper,Relative Humidity,2025-09-13T22:00:00-06:00,69.9
-Steeper,Total Oxides of Nitrogen,2025-09-13T22:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-13T22:00:00-06:00,0.0
-Steeper,Ozone,2025-09-13T22:00:00-06:00,0.036
-Steeper,Sulphur Dioxide,2025-09-13T22:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-13T22:00:00-06:00,18.2
-Steeper,Wind Speed,2025-09-13T22:00:00-06:00,2.4
-Steeper,Nitrogen Dioxide,2025-09-13T22:00:00-06:00,0.001
-Steeper,Wind Direction,2025-09-13T22:00:00-06:00,200.0
+Steeper,,2025-09-13T23:00:00-06:00,3.0
 Steeper,Outdoor Temperature,2025-09-13T22:00:00-06:00,14.5
-Steeper,Relative Humidity,2025-09-13T21:00:00-06:00,67.3
-Steeper,Carbon Monoxide,2025-09-13T21:00:00-06:00,0.1
-Steeper,Nitric Oxide,2025-09-13T21:00:00-06:00,0.0
-Steeper,Ozone,2025-09-13T21:00:00-06:00,0.042
-Steeper,Fine Particulate Matter,2025-09-13T21:00:00-06:00,19.4
-Steeper,Wind Speed,2025-09-13T21:00:00-06:00,1.1
-Steeper,Nitrogen Dioxide,2025-09-13T21:00:00-06:00,0.002
-Steeper,Total Oxides of Nitrogen,2025-09-13T21:00:00-06:00,0.001
+Steeper,Nitric Oxide,2025-09-13T22:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-13T22:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-13T22:00:00-06:00,0.1
+Steeper,Nitrogen Dioxide,2025-09-13T22:00:00-06:00,0.001
+Steeper,Relative Humidity,2025-09-13T22:00:00-06:00,69.9
+Steeper,Wind Speed,2025-09-13T22:00:00-06:00,2.4
+Steeper,Wind Direction,2025-09-13T22:00:00-06:00,200.0
+Steeper,,2025-09-13T22:00:00-06:00,3.0
+Steeper,Ozone,2025-09-13T22:00:00-06:00,0.036
+Steeper,Fine Particulate Matter,2025-09-13T22:00:00-06:00,18.2
+Steeper,Sulphur Dioxide,2025-09-13T22:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-13T21:00:00-06:00,130.0
-Steeper,Sulphur Dioxide,2025-09-13T21:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-13T21:00:00-06:00,67.3
+Steeper,Nitrogen Dioxide,2025-09-13T21:00:00-06:00,0.002
+Steeper,Wind Speed,2025-09-13T21:00:00-06:00,1.1
 Steeper,,2025-09-13T21:00:00-06:00,3.0
+Steeper,Ozone,2025-09-13T21:00:00-06:00,0.042
+Steeper,Total Oxides of Nitrogen,2025-09-13T21:00:00-06:00,0.001
+Steeper,Carbon Monoxide,2025-09-13T21:00:00-06:00,0.1
+Steeper,Fine Particulate Matter,2025-09-13T21:00:00-06:00,19.4
+Steeper,Sulphur Dioxide,2025-09-13T21:00:00-06:00,0.0
 Steeper,Outdoor Temperature,2025-09-13T21:00:00-06:00,16.2
-Steeper,Total Oxides of Nitrogen,2025-09-13T20:00:00-06:00,0.001
-Steeper,Wind Direction,2025-09-13T20:00:00-06:00,242.0
-Steeper,Wind Speed,2025-09-13T20:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-13T21:00:00-06:00,0.0
 Steeper,Nitrogen Dioxide,2025-09-13T20:00:00-06:00,0.002
 Steeper,Relative Humidity,2025-09-13T20:00:00-06:00,75.0
-Steeper,Ozone,2025-09-13T20:00:00-06:00,0.039
-Steeper,Sulphur Dioxide,2025-09-13T20:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-13T20:00:00-06:00,0.1
-Steeper,Outdoor Temperature,2025-09-13T20:00:00-06:00,16.7
 Steeper,,2025-09-13T20:00:00-06:00,3.0
-Steeper,Nitric Oxide,2025-09-13T20:00:00-06:00,0.0
+Steeper,Ozone,2025-09-13T20:00:00-06:00,0.039
+Steeper,Total Oxides of Nitrogen,2025-09-13T20:00:00-06:00,0.001
+Steeper,Carbon Monoxide,2025-09-13T20:00:00-06:00,0.1
 Steeper,Fine Particulate Matter,2025-09-13T20:00:00-06:00,26.3
-Steeper,Wind Direction,2025-09-13T19:00:00-06:00,29.0
-Steeper,Relative Humidity,2025-09-13T19:00:00-06:00,70.5
-Steeper,Ozone,2025-09-13T19:00:00-06:00,0.038
+Steeper,Outdoor Temperature,2025-09-13T20:00:00-06:00,16.7
+Steeper,Sulphur Dioxide,2025-09-13T20:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-13T20:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-13T20:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-13T20:00:00-06:00,242.0
+Steeper,Outdoor Temperature,2025-09-13T19:00:00-06:00,17.9
+Steeper,Fine Particulate Matter,2025-09-13T19:00:00-06:00,28.5
 Steeper,Sulphur Dioxide,2025-09-13T19:00:00-06:00,0.0
 Steeper,Total Oxides of Nitrogen,2025-09-13T19:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-13T19:00:00-06:00,28.5
-Steeper,Nitric Oxide,2025-09-13T19:00:00-06:00,0.0
-Steeper,,2025-09-13T19:00:00-06:00,3.0
-Steeper,Outdoor Temperature,2025-09-13T19:00:00-06:00,17.9
-Steeper,Carbon Monoxide,2025-09-13T19:00:00-06:00,0.1
+Steeper,Ozone,2025-09-13T19:00:00-06:00,0.038
 Steeper,Wind Speed,2025-09-13T19:00:00-06:00,1.1
+Steeper,Carbon Monoxide,2025-09-13T19:00:00-06:00,0.1
 Steeper,Nitrogen Dioxide,2025-09-13T19:00:00-06:00,0.002
-Steeper,Nitric Oxide,2025-09-13T18:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-13T19:00:00-06:00,29.0
+Steeper,Nitric Oxide,2025-09-13T19:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-13T19:00:00-06:00,70.5
+Steeper,,2025-09-13T19:00:00-06:00,3.0
+Steeper,Sulphur Dioxide,2025-09-13T18:00:00-06:00,0.001
 Steeper,Fine Particulate Matter,2025-09-13T18:00:00-06:00,29.0
 Steeper,Total Oxides of Nitrogen,2025-09-13T18:00:00-06:00,0.0
-Steeper,,2025-09-13T18:00:00-06:00,3.0
-Steeper,Sulphur Dioxide,2025-09-13T18:00:00-06:00,0.001
-Steeper,Carbon Monoxide,2025-09-13T18:00:00-06:00,0.1
-Steeper,Wind Speed,2025-09-13T18:00:00-06:00,3.5
-Steeper,Outdoor Temperature,2025-09-13T18:00:00-06:00,19.2
 Steeper,Ozone,2025-09-13T18:00:00-06:00,0.035
+Steeper,Wind Speed,2025-09-13T18:00:00-06:00,3.5
 Steeper,Relative Humidity,2025-09-13T18:00:00-06:00,62.6
 Steeper,Wind Direction,2025-09-13T18:00:00-06:00,37.0
+Steeper,,2025-09-13T18:00:00-06:00,3.0
 Steeper,Nitrogen Dioxide,2025-09-13T18:00:00-06:00,0.001
-Steeper,Fine Particulate Matter,2025-09-13T17:00:00-06:00,31.0
-Steeper,Wind Direction,2025-09-13T17:00:00-06:00,39.0
-Steeper,Wind Speed,2025-09-13T17:00:00-06:00,4.2
-Steeper,Sulphur Dioxide,2025-09-13T17:00:00-06:00,0.001
-Steeper,Ozone,2025-09-13T17:00:00-06:00,0.031
-Steeper,Outdoor Temperature,2025-09-13T17:00:00-06:00,19.7
+Steeper,Outdoor Temperature,2025-09-13T18:00:00-06:00,19.2
+Steeper,Carbon Monoxide,2025-09-13T18:00:00-06:00,0.1
+Steeper,Nitric Oxide,2025-09-13T18:00:00-06:00,0.0
 Steeper,Nitrogen Dioxide,2025-09-13T17:00:00-06:00,0.001
-Steeper,Relative Humidity,2025-09-13T17:00:00-06:00,60.5
-Steeper,Carbon Monoxide,2025-09-13T17:00:00-06:00,0.1
-Steeper,Total Oxides of Nitrogen,2025-09-13T17:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-13T17:00:00-06:00,31.0
+Steeper,Outdoor Temperature,2025-09-13T17:00:00-06:00,19.7
+Steeper,Sulphur Dioxide,2025-09-13T17:00:00-06:00,0.001
 Steeper,,2025-09-13T17:00:00-06:00,3.0
+Steeper,Wind Direction,2025-09-13T17:00:00-06:00,39.0
+Steeper,Total Oxides of Nitrogen,2025-09-13T17:00:00-06:00,0.0
+Steeper,Ozone,2025-09-13T17:00:00-06:00,0.031
+Steeper,Wind Speed,2025-09-13T17:00:00-06:00,4.2
+Steeper,Carbon Monoxide,2025-09-13T17:00:00-06:00,0.1
+Steeper,Relative Humidity,2025-09-13T17:00:00-06:00,60.5
 Steeper,Nitric Oxide,2025-09-13T17:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-13T16:00:00-06:00,0.001
-Steeper,Ozone,2025-09-13T16:00:00-06:00,0.029
-Steeper,Carbon Monoxide,2025-09-13T16:00:00-06:00,0.2
-Steeper,Relative Humidity,2025-09-13T16:00:00-06:00,59.6
-Steeper,Outdoor Temperature,2025-09-13T16:00:00-06:00,19.7
-Steeper,Total Oxides of Nitrogen,2025-09-13T16:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-13T16:00:00-06:00,33.9
 Steeper,Sulphur Dioxide,2025-09-13T16:00:00-06:00,0.001
-Steeper,Nitric Oxide,2025-09-13T16:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-13T16:00:00-06:00,19.7
+Steeper,Carbon Monoxide,2025-09-13T16:00:00-06:00,0.2
+Steeper,Ozone,2025-09-13T16:00:00-06:00,0.029
 Steeper,Wind Speed,2025-09-13T16:00:00-06:00,4.9
 Steeper,,2025-09-13T16:00:00-06:00,3.0
+Steeper,Nitrogen Dioxide,2025-09-13T16:00:00-06:00,0.001
+Steeper,Nitric Oxide,2025-09-13T16:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-13T16:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-13T16:00:00-06:00,59.6
 Steeper,Wind Direction,2025-09-13T16:00:00-06:00,33.0
-Steeper,Fine Particulate Matter,2025-09-13T16:00:00-06:00,33.9
-Steeper,Outdoor Temperature,2025-09-13T15:00:00-06:00,19.1
-Steeper,Carbon Monoxide,2025-09-13T15:00:00-06:00,0.2
-Steeper,Nitrogen Dioxide,2025-09-13T15:00:00-06:00,0.001
 Steeper,Total Oxides of Nitrogen,2025-09-13T15:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-13T15:00:00-06:00,2.7
-Steeper,Wind Direction,2025-09-13T15:00:00-06:00,42.0
 Steeper,Nitric Oxide,2025-09-13T15:00:00-06:00,0.0
 Steeper,Fine Particulate Matter,2025-09-13T15:00:00-06:00,38.4
-Steeper,,2025-09-13T15:00:00-06:00,3.0
+Steeper,Nitrogen Dioxide,2025-09-13T15:00:00-06:00,0.001
+Steeper,Wind Direction,2025-09-13T15:00:00-06:00,42.0
 Steeper,Relative Humidity,2025-09-13T15:00:00-06:00,62.2
-Steeper,Ozone,2025-09-13T15:00:00-06:00,0.027
+Steeper,Wind Speed,2025-09-13T15:00:00-06:00,2.7
+Steeper,Outdoor Temperature,2025-09-13T15:00:00-06:00,19.1
+Steeper,Carbon Monoxide,2025-09-13T15:00:00-06:00,0.2
+Steeper,,2025-09-13T15:00:00-06:00,3.0
 Steeper,Sulphur Dioxide,2025-09-13T15:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-13T14:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-13T14:00:00-06:00,0.0
+Steeper,Ozone,2025-09-13T15:00:00-06:00,0.027
 Steeper,Fine Particulate Matter,2025-09-13T14:00:00-06:00,37.4
 Steeper,Wind Direction,2025-09-13T14:00:00-06:00,38.0
-Steeper,Wind Speed,2025-09-13T14:00:00-06:00,4.0
-Steeper,Relative Humidity,2025-09-13T14:00:00-06:00,62.0
-Steeper,,2025-09-13T14:00:00-06:00,3.0
-Steeper,Nitrogen Dioxide,2025-09-13T14:00:00-06:00,0.002
-Steeper,Ozone,2025-09-13T14:00:00-06:00,0.028
 Steeper,Carbon Monoxide,2025-09-13T14:00:00-06:00,0.2
 Steeper,Outdoor Temperature,2025-09-13T14:00:00-06:00,18.6
+Steeper,Sulphur Dioxide,2025-09-13T14:00:00-06:00,0.0
+Steeper,Ozone,2025-09-13T14:00:00-06:00,0.028
+Steeper,,2025-09-13T14:00:00-06:00,3.0
+Steeper,Wind Speed,2025-09-13T14:00:00-06:00,4.0
+Steeper,Relative Humidity,2025-09-13T14:00:00-06:00,62.0
 Steeper,Total Oxides of Nitrogen,2025-09-13T14:00:00-06:00,0.001
-Steeper,Nitric Oxide,2025-09-13T13:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-13T13:00:00-06:00,0.6
-Steeper,Fine Particulate Matter,2025-09-13T13:00:00-06:00,33.1
-Steeper,Relative Humidity,2025-09-13T13:00:00-06:00,53.7
-Steeper,Sulphur Dioxide,2025-09-13T13:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-13T13:00:00-06:00,0.1
-Steeper,Total Oxides of Nitrogen,2025-09-13T13:00:00-06:00,0.0
-Steeper,,2025-09-13T13:00:00-06:00,3.0
-Steeper,Wind Direction,2025-09-13T13:00:00-06:00,23.0
-Steeper,Nitrogen Dioxide,2025-09-13T13:00:00-06:00,0.001
+Steeper,Nitric Oxide,2025-09-13T14:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-13T14:00:00-06:00,0.002
 Steeper,Ozone,2025-09-13T13:00:00-06:00,0.026
+Steeper,Sulphur Dioxide,2025-09-13T13:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-13T13:00:00-06:00,53.7
+Steeper,Carbon Monoxide,2025-09-13T13:00:00-06:00,0.1
+Steeper,Wind Direction,2025-09-13T13:00:00-06:00,23.0
+Steeper,,2025-09-13T13:00:00-06:00,3.0
+Steeper,Total Oxides of Nitrogen,2025-09-13T13:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-13T13:00:00-06:00,0.6
+Steeper,Nitric Oxide,2025-09-13T13:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-13T13:00:00-06:00,0.001
+Steeper,Fine Particulate Matter,2025-09-13T13:00:00-06:00,33.1
 Steeper,Outdoor Temperature,2025-09-13T13:00:00-06:00,19.7
-Steeper,Outdoor Temperature,2025-09-13T12:00:00-06:00,15.9
-Steeper,Wind Direction,2025-09-13T12:00:00-06:00,183.0
-Steeper,Total Oxides of Nitrogen,2025-09-13T12:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-13T12:00:00-06:00,0.001
-Steeper,Wind Speed,2025-09-13T12:00:00-06:00,0.1
-Steeper,Fine Particulate Matter,2025-09-13T12:00:00-06:00,33.7
-Steeper,Ozone,2025-09-13T12:00:00-06:00,0.021
 Steeper,,2025-09-13T12:00:00-06:00,3.0
+Steeper,Ozone,2025-09-13T12:00:00-06:00,0.021
 Steeper,Relative Humidity,2025-09-13T12:00:00-06:00,66.8
-Steeper,Nitric Oxide,2025-09-13T12:00:00-06:00,0.0
 Steeper,Carbon Monoxide,2025-09-13T12:00:00-06:00,0.1
+Steeper,Total Oxides of Nitrogen,2025-09-13T12:00:00-06:00,0.0
 Steeper,Sulphur Dioxide,2025-09-13T12:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-13T11:00:00-06:00,193.0
-Steeper,Nitrogen Dioxide,2025-09-13T11:00:00-06:00,0.001
-Steeper,Wind Speed,2025-09-13T11:00:00-06:00,4.1
-Steeper,Fine Particulate Matter,2025-09-13T11:00:00-06:00,32.8
-Steeper,Ozone,2025-09-13T11:00:00-06:00,0.023
-Steeper,Outdoor Temperature,2025-09-13T11:00:00-06:00,11.7
-Steeper,Relative Humidity,2025-09-13T11:00:00-06:00,75.1
+Steeper,Nitric Oxide,2025-09-13T12:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-13T12:00:00-06:00,33.7
+Steeper,Outdoor Temperature,2025-09-13T12:00:00-06:00,15.9
+Steeper,Wind Speed,2025-09-13T12:00:00-06:00,0.1
+Steeper,Wind Direction,2025-09-13T12:00:00-06:00,183.0
+Steeper,Nitrogen Dioxide,2025-09-13T12:00:00-06:00,0.001
 Steeper,Nitric Oxide,2025-09-13T11:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-13T11:00:00-06:00,32.8
+Steeper,Relative Humidity,2025-09-13T11:00:00-06:00,75.1
+Steeper,Outdoor Temperature,2025-09-13T11:00:00-06:00,11.7
 Steeper,Carbon Monoxide,2025-09-13T11:00:00-06:00,0.1
-Steeper,Sulphur Dioxide,2025-09-13T11:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-13T11:00:00-06:00,4.1
+Steeper,Ozone,2025-09-13T11:00:00-06:00,0.023
+Steeper,Wind Direction,2025-09-13T11:00:00-06:00,193.0
 Steeper,Total Oxides of Nitrogen,2025-09-13T11:00:00-06:00,0.0
 Steeper,,2025-09-13T11:00:00-06:00,3.0
-Steeper,Ozone,2025-09-13T10:00:00-06:00,0.022
-Steeper,Sulphur Dioxide,2025-09-13T10:00:00-06:00,0.0
-Steeper,,2025-09-13T10:00:00-06:00,3.0
-Steeper,Nitric Oxide,2025-09-13T10:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-13T11:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-13T11:00:00-06:00,0.001
 Steeper,Relative Humidity,2025-09-13T10:00:00-06:00,79.2
-Steeper,Wind Speed,2025-09-13T10:00:00-06:00,7.4
 Steeper,Outdoor Temperature,2025-09-13T10:00:00-06:00,9.7
-Steeper,Total Oxides of Nitrogen,2025-09-13T10:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-13T10:00:00-06:00,0.001
-Steeper,Carbon Monoxide,2025-09-13T10:00:00-06:00,0.1
-Steeper,Fine Particulate Matter,2025-09-13T10:00:00-06:00,34.5
 Steeper,Wind Direction,2025-09-13T10:00:00-06:00,201.0
-Steeper,Ozone,2025-09-13T09:00:00-06:00,0.022
-Steeper,Sulphur Dioxide,2025-09-13T09:00:00-06:00,0.0
+Steeper,Ozone,2025-09-13T10:00:00-06:00,0.022
+Steeper,Wind Speed,2025-09-13T10:00:00-06:00,7.4
+Steeper,,2025-09-13T10:00:00-06:00,3.0
+Steeper,Nitrogen Dioxide,2025-09-13T10:00:00-06:00,0.001
+Steeper,Total Oxides of Nitrogen,2025-09-13T10:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-13T10:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-13T10:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-13T10:00:00-06:00,34.5
+Steeper,Carbon Monoxide,2025-09-13T10:00:00-06:00,0.1
 Steeper,Nitric Oxide,2025-09-13T09:00:00-06:00,0.0
 Steeper,,2025-09-13T09:00:00-06:00,3.0
-Steeper,Relative Humidity,2025-09-13T09:00:00-06:00,81.8
-Steeper,Wind Speed,2025-09-13T09:00:00-06:00,9.2
-Steeper,Outdoor Temperature,2025-09-13T09:00:00-06:00,8.3
 Steeper,Nitrogen Dioxide,2025-09-13T09:00:00-06:00,0.001
-Steeper,Total Oxides of Nitrogen,2025-09-13T09:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-13T09:00:00-06:00,0.1
-Steeper,Fine Particulate Matter,2025-09-13T09:00:00-06:00,37.4
+Steeper,Sulphur Dioxide,2025-09-13T09:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-13T09:00:00-06:00,198.0
-Steeper,Nitric Oxide,2025-09-13T08:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-13T08:00:00-06:00,0.0
-Steeper,,2025-09-13T08:00:00-06:00,3.0
-Steeper,Outdoor Temperature,2025-09-13T08:00:00-06:00,7.7
-Steeper,Nitrogen Dioxide,2025-09-13T08:00:00-06:00,0.001
+Steeper,Wind Speed,2025-09-13T09:00:00-06:00,9.2
+Steeper,Fine Particulate Matter,2025-09-13T09:00:00-06:00,37.4
+Steeper,Outdoor Temperature,2025-09-13T09:00:00-06:00,8.3
+Steeper,Relative Humidity,2025-09-13T09:00:00-06:00,81.8
+Steeper,Carbon Monoxide,2025-09-13T09:00:00-06:00,0.1
+Steeper,Total Oxides of Nitrogen,2025-09-13T09:00:00-06:00,0.0
+Steeper,Ozone,2025-09-13T09:00:00-06:00,0.022
 Steeper,Wind Direction,2025-09-13T08:00:00-06:00,195.0
 Steeper,Fine Particulate Matter,2025-09-13T08:00:00-06:00,34.7
-Steeper,Total Oxides of Nitrogen,2025-09-13T08:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-13T08:00:00-06:00,7.6
+Steeper,Outdoor Temperature,2025-09-13T08:00:00-06:00,7.7
 Steeper,Relative Humidity,2025-09-13T08:00:00-06:00,85.1
-Steeper,Carbon Monoxide,2025-09-13T08:00:00-06:00,0.1
+Steeper,Total Oxides of Nitrogen,2025-09-13T08:00:00-06:00,0.0
 Steeper,Ozone,2025-09-13T08:00:00-06:00,0.024
-Steeper,Wind Direction,2025-09-13T07:00:00-06:00,201.0
-Steeper,Relative Humidity,2025-09-13T07:00:00-06:00,82.6
-Steeper,Nitrogen Dioxide,2025-09-13T07:00:00-06:00,0.001
+Steeper,Nitric Oxide,2025-09-13T08:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-13T08:00:00-06:00,0.1
+Steeper,Nitrogen Dioxide,2025-09-13T08:00:00-06:00,0.001
+Steeper,Wind Speed,2025-09-13T08:00:00-06:00,7.6
+Steeper,Sulphur Dioxide,2025-09-13T08:00:00-06:00,0.0
+Steeper,,2025-09-13T08:00:00-06:00,3.0
 Steeper,Total Oxides of Nitrogen,2025-09-13T07:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-13T07:00:00-06:00,8.2
-Steeper,Wind Speed,2025-09-13T07:00:00-06:00,8.4
-Steeper,Fine Particulate Matter,2025-09-13T07:00:00-06:00,36.9
-Steeper,,2025-09-13T07:00:00-06:00,3.0
-Steeper,Sulphur Dioxide,2025-09-13T07:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-13T07:00:00-06:00,0.1
-Steeper,Nitric Oxide,2025-09-13T07:00:00-06:00,0.0
 Steeper,Ozone,2025-09-13T07:00:00-06:00,0.024
-Steeper,Relative Humidity,2025-09-13T06:00:00-06:00,80.9
-Steeper,Wind Direction,2025-09-13T06:00:00-06:00,200.0
-Steeper,Wind Speed,2025-09-13T06:00:00-06:00,10.6
+Steeper,Nitric Oxide,2025-09-13T07:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-13T07:00:00-06:00,36.9
+Steeper,Wind Direction,2025-09-13T07:00:00-06:00,201.0
+Steeper,Outdoor Temperature,2025-09-13T07:00:00-06:00,8.2
+Steeper,Relative Humidity,2025-09-13T07:00:00-06:00,82.6
+Steeper,,2025-09-13T07:00:00-06:00,3.0
+Steeper,Nitrogen Dioxide,2025-09-13T07:00:00-06:00,0.001
+Steeper,Carbon Monoxide,2025-09-13T07:00:00-06:00,0.1
+Steeper,Sulphur Dioxide,2025-09-13T07:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-13T07:00:00-06:00,8.4
 Steeper,Nitrogen Dioxide,2025-09-13T06:00:00-06:00,0.001
+Steeper,Wind Direction,2025-09-13T06:00:00-06:00,200.0
+Steeper,Relative Humidity,2025-09-13T06:00:00-06:00,80.9
+Steeper,Carbon Monoxide,2025-09-13T06:00:00-06:00,0.1
+Steeper,,2025-09-13T06:00:00-06:00,3.0
 Steeper,Outdoor Temperature,2025-09-13T06:00:00-06:00,8.5
-Steeper,Fine Particulate Matter,2025-09-13T06:00:00-06:00,37.9
+Steeper,Ozone,2025-09-13T06:00:00-06:00,0.024
+Steeper,Wind Speed,2025-09-13T06:00:00-06:00,10.6
+Steeper,Total Oxides of Nitrogen,2025-09-13T06:00:00-06:00,0.0
 Steeper,Sulphur Dioxide,2025-09-13T06:00:00-06:00,0.0
 Steeper,Nitric Oxide,2025-09-13T06:00:00-06:00,0.0
-Steeper,,2025-09-13T06:00:00-06:00,3.0
-Steeper,Carbon Monoxide,2025-09-13T06:00:00-06:00,0.1
-Steeper,Ozone,2025-09-13T06:00:00-06:00,0.024
-Steeper,Total Oxides of Nitrogen,2025-09-13T06:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-13T05:00:00-06:00,9.3
+Steeper,Fine Particulate Matter,2025-09-13T06:00:00-06:00,37.9
 Steeper,Nitrogen Dioxide,2025-09-13T05:00:00-06:00,
-Steeper,Carbon Monoxide,2025-09-13T05:00:00-06:00,
-Steeper,Total Oxides of Nitrogen,2025-09-13T05:00:00-06:00,
 Steeper,,2025-09-13T05:00:00-06:00,3.0
-Steeper,Outdoor Temperature,2025-09-13T05:00:00-06:00,9.1
-Steeper,Nitric Oxide,2025-09-13T05:00:00-06:00,
-Steeper,Sulphur Dioxide,2025-09-13T05:00:00-06:00,
 Steeper,Relative Humidity,2025-09-13T05:00:00-06:00,77.6
+Steeper,Outdoor Temperature,2025-09-13T05:00:00-06:00,9.1
 Steeper,Wind Direction,2025-09-13T05:00:00-06:00,199.0
-Steeper,Fine Particulate Matter,2025-09-13T05:00:00-06:00,39.9
+Steeper,Sulphur Dioxide,2025-09-13T05:00:00-06:00,
+Steeper,Nitric Oxide,2025-09-13T05:00:00-06:00,
+Steeper,Wind Speed,2025-09-13T05:00:00-06:00,9.3
 Steeper,Ozone,2025-09-13T05:00:00-06:00,
-Steeper,Nitric Oxide,2025-09-13T04:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-13T04:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-13T05:00:00-06:00,
+Steeper,Fine Particulate Matter,2025-09-13T05:00:00-06:00,39.9
+Steeper,Total Oxides of Nitrogen,2025-09-13T05:00:00-06:00,
 Steeper,Outdoor Temperature,2025-09-13T04:00:00-06:00,9.7
+Steeper,Wind Direction,2025-09-13T04:00:00-06:00,194.0
+Steeper,Carbon Monoxide,2025-09-13T04:00:00-06:00,0.2
+Steeper,Total Oxides of Nitrogen,2025-09-13T04:00:00-06:00,0.0
+Steeper,,2025-09-13T04:00:00-06:00,4.0
+Steeper,Sulphur Dioxide,2025-09-13T04:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-13T04:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-13T04:00:00-06:00,42.8
 Steeper,Nitrogen Dioxide,2025-09-13T04:00:00-06:00,0.001
 Steeper,Relative Humidity,2025-09-13T04:00:00-06:00,76.0
-Steeper,Wind Speed,2025-09-13T04:00:00-06:00,8.6
-Steeper,Wind Direction,2025-09-13T04:00:00-06:00,194.0
-Steeper,Total Oxides of Nitrogen,2025-09-13T04:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-13T04:00:00-06:00,42.8
-Steeper,Carbon Monoxide,2025-09-13T04:00:00-06:00,0.2
-Steeper,,2025-09-13T04:00:00-06:00,4.0
 Steeper,Ozone,2025-09-13T04:00:00-06:00,0.026
-Steeper,Nitric Oxide,2025-09-13T03:00:00-06:00,0.0
-Steeper,Relative Humidity,2025-09-13T03:00:00-06:00,73.8
-Steeper,Wind Speed,2025-09-13T03:00:00-06:00,8.0
-Steeper,Fine Particulate Matter,2025-09-13T03:00:00-06:00,44.7
+Steeper,Wind Speed,2025-09-13T04:00:00-06:00,8.6
 Steeper,Ozone,2025-09-13T03:00:00-06:00,0.026
-Steeper,Carbon Monoxide,2025-09-13T03:00:00-06:00,0.2
-Steeper,Total Oxides of Nitrogen,2025-09-13T03:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-13T03:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-13T03:00:00-06:00,10.1
 Steeper,Nitrogen Dioxide,2025-09-13T03:00:00-06:00,0.001
 Steeper,,2025-09-13T03:00:00-06:00,4.0
-Steeper,Outdoor Temperature,2025-09-13T03:00:00-06:00,10.1
+Steeper,Relative Humidity,2025-09-13T03:00:00-06:00,73.8
 Steeper,Wind Direction,2025-09-13T03:00:00-06:00,195.0
-Steeper,Ozone,2025-09-13T02:00:00-06:00,0.024
-Steeper,Carbon Monoxide,2025-09-13T02:00:00-06:00,0.2
-Steeper,Sulphur Dioxide,2025-09-13T02:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-13T02:00:00-06:00,0.001
-Steeper,Fine Particulate Matter,2025-09-13T02:00:00-06:00,45.8
-Steeper,,2025-09-13T02:00:00-06:00,4.0
-Steeper,Total Oxides of Nitrogen,2025-09-13T02:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-13T03:00:00-06:00,0.2
+Steeper,Total Oxides of Nitrogen,2025-09-13T03:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-13T03:00:00-06:00,8.0
+Steeper,Sulphur Dioxide,2025-09-13T03:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-13T03:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-13T03:00:00-06:00,44.7
 Steeper,Wind Speed,2025-09-13T02:00:00-06:00,7.8
-Steeper,Nitric Oxide,2025-09-13T02:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-13T02:00:00-06:00,10.2
-Steeper,Relative Humidity,2025-09-13T02:00:00-06:00,74.2
+Steeper,Total Oxides of Nitrogen,2025-09-13T02:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-13T02:00:00-06:00,0.2
 Steeper,Wind Direction,2025-09-13T02:00:00-06:00,192.0
-Steeper,Ozone,2025-09-13T01:00:00-06:00,0.025
-Steeper,Total Oxides of Nitrogen,2025-09-13T01:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-13T01:00:00-06:00,0.2
-Steeper,Sulphur Dioxide,2025-09-13T01:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-13T01:00:00-06:00,0.001
-Steeper,Fine Particulate Matter,2025-09-13T01:00:00-06:00,46.8
-Steeper,,2025-09-13T01:00:00-06:00,4.0
+Steeper,Sulphur Dioxide,2025-09-13T02:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-13T02:00:00-06:00,74.2
+Steeper,Nitric Oxide,2025-09-13T02:00:00-06:00,0.0
+Steeper,,2025-09-13T02:00:00-06:00,4.0
+Steeper,Fine Particulate Matter,2025-09-13T02:00:00-06:00,45.8
+Steeper,Outdoor Temperature,2025-09-13T02:00:00-06:00,10.2
+Steeper,Nitrogen Dioxide,2025-09-13T02:00:00-06:00,0.001
+Steeper,Ozone,2025-09-13T02:00:00-06:00,0.024
 Steeper,Wind Speed,2025-09-13T01:00:00-06:00,6.6
-Steeper,Outdoor Temperature,2025-09-13T01:00:00-06:00,11.1
-Steeper,Nitric Oxide,2025-09-13T01:00:00-06:00,0.0
-Steeper,Relative Humidity,2025-09-13T01:00:00-06:00,71.7
+Steeper,Total Oxides of Nitrogen,2025-09-13T01:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-13T01:00:00-06:00,194.0
-Steeper,Nitrogen Dioxide,2025-09-13T00:00:00-06:00,0.001
-Steeper,Relative Humidity,2025-09-13T00:00:00-06:00,71.1
-Steeper,Wind Direction,2025-09-13T00:00:00-06:00,194.0
-Steeper,,2025-09-13T00:00:00-06:00,4.0
-Steeper,Fine Particulate Matter,2025-09-13T00:00:00-06:00,46.7
-Steeper,Wind Speed,2025-09-13T00:00:00-06:00,6.3
+Steeper,Carbon Monoxide,2025-09-13T01:00:00-06:00,0.2
+Steeper,Relative Humidity,2025-09-13T01:00:00-06:00,71.7
+Steeper,,2025-09-13T01:00:00-06:00,4.0
+Steeper,Sulphur Dioxide,2025-09-13T01:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-13T01:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-13T01:00:00-06:00,11.1
+Steeper,Fine Particulate Matter,2025-09-13T01:00:00-06:00,46.8
+Steeper,Nitrogen Dioxide,2025-09-13T01:00:00-06:00,0.001
+Steeper,Ozone,2025-09-13T01:00:00-06:00,0.025
 Steeper,Nitric Oxide,2025-09-13T00:00:00-06:00,0.0
 Steeper,Sulphur Dioxide,2025-09-13T00:00:00-06:00,0.0
 Steeper,Total Oxides of Nitrogen,2025-09-13T00:00:00-06:00,0.0
-Steeper,Ozone,2025-09-13T00:00:00-06:00,0.026
-Steeper,Carbon Monoxide,2025-09-13T00:00:00-06:00,0.2
+Steeper,Fine Particulate Matter,2025-09-13T00:00:00-06:00,46.7
+Steeper,Wind Direction,2025-09-13T00:00:00-06:00,194.0
+Steeper,Nitrogen Dioxide,2025-09-13T00:00:00-06:00,0.001
 Steeper,Outdoor Temperature,2025-09-13T00:00:00-06:00,11.8
-Steeper,Total Oxides of Nitrogen,2025-09-12T23:00:00-06:00,0.0
-Steeper,,2025-09-12T23:00:00-06:00,4.0
-Steeper,Fine Particulate Matter,2025-09-12T23:00:00-06:00,46.9
-Steeper,Sulphur Dioxide,2025-09-12T23:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-12T23:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-12T23:00:00-06:00,194.0
-Steeper,Wind Speed,2025-09-12T23:00:00-06:00,6.0
-Steeper,Ozone,2025-09-12T23:00:00-06:00,0.025
-Steeper,Carbon Monoxide,2025-09-12T23:00:00-06:00,0.2
-Steeper,Outdoor Temperature,2025-09-12T23:00:00-06:00,12.7
-Steeper,Nitrogen Dioxide,2025-09-12T23:00:00-06:00,0.001
+Steeper,Wind Speed,2025-09-13T00:00:00-06:00,6.3
+Steeper,Carbon Monoxide,2025-09-13T00:00:00-06:00,0.2
+Steeper,,2025-09-13T00:00:00-06:00,4.0
+Steeper,Relative Humidity,2025-09-13T00:00:00-06:00,71.1
+Steeper,Ozone,2025-09-13T00:00:00-06:00,0.026
 Steeper,Relative Humidity,2025-09-12T23:00:00-06:00,70.2
+Steeper,Nitrogen Dioxide,2025-09-12T23:00:00-06:00,0.001
+Steeper,Outdoor Temperature,2025-09-12T23:00:00-06:00,12.7
+Steeper,Wind Direction,2025-09-12T23:00:00-06:00,194.0
+Steeper,Fine Particulate Matter,2025-09-12T23:00:00-06:00,46.9
+Steeper,Carbon Monoxide,2025-09-12T23:00:00-06:00,0.2
+Steeper,Nitric Oxide,2025-09-12T23:00:00-06:00,0.0
+Steeper,Ozone,2025-09-12T23:00:00-06:00,0.025
+Steeper,Wind Speed,2025-09-12T23:00:00-06:00,6.0
+Steeper,Sulphur Dioxide,2025-09-12T23:00:00-06:00,0.0
+Steeper,,2025-09-12T23:00:00-06:00,4.0
+Steeper,Total Oxides of Nitrogen,2025-09-12T23:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-12T22:00:00-06:00,0.001
+Steeper,Sulphur Dioxide,2025-09-12T22:00:00-06:00,0.0
+Steeper,Ozone,2025-09-12T22:00:00-06:00,0.03
+Steeper,Nitric Oxide,2025-09-12T22:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-12T22:00:00-06:00,191.0
-Steeper,,2025-09-12T22:00:00-06:00,4.0
 Steeper,Relative Humidity,2025-09-12T22:00:00-06:00,63.4
 Steeper,Carbon Monoxide,2025-09-12T22:00:00-06:00,0.2
-Steeper,Total Oxides of Nitrogen,2025-09-12T22:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-12T22:00:00-06:00,4.1
-Steeper,Nitric Oxide,2025-09-12T22:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-12T22:00:00-06:00,14.3
-Steeper,Ozone,2025-09-12T22:00:00-06:00,0.03
 Steeper,Fine Particulate Matter,2025-09-12T22:00:00-06:00,46.0
-Steeper,Sulphur Dioxide,2025-09-12T22:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-12T22:00:00-06:00,0.001
-Steeper,,2025-09-12T21:00:00-06:00,4.0
-Steeper,Relative Humidity,2025-09-12T21:00:00-06:00,51.3
-Steeper,Total Oxides of Nitrogen,2025-09-12T21:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-12T21:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-12T21:00:00-06:00,0.1
-Steeper,Wind Direction,2025-09-12T21:00:00-06:00,207.0
-Steeper,Nitric Oxide,2025-09-12T21:00:00-06:00,0.0
-Steeper,Ozone,2025-09-12T21:00:00-06:00,0.038
-Steeper,Fine Particulate Matter,2025-09-12T21:00:00-06:00,45.2
+Steeper,Wind Speed,2025-09-12T22:00:00-06:00,4.1
+Steeper,,2025-09-12T22:00:00-06:00,4.0
+Steeper,Total Oxides of Nitrogen,2025-09-12T22:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-12T22:00:00-06:00,14.3
 Steeper,Nitrogen Dioxide,2025-09-12T21:00:00-06:00,0.001
-Steeper,Carbon Monoxide,2025-09-12T21:00:00-06:00,0.2
+Steeper,Sulphur Dioxide,2025-09-12T21:00:00-06:00,0.0
 Steeper,Outdoor Temperature,2025-09-12T21:00:00-06:00,16.5
+Steeper,Carbon Monoxide,2025-09-12T21:00:00-06:00,0.2
+Steeper,Nitric Oxide,2025-09-12T21:00:00-06:00,0.0
+Steeper,,2025-09-12T21:00:00-06:00,4.0
+Steeper,Wind Direction,2025-09-12T21:00:00-06:00,207.0
+Steeper,Fine Particulate Matter,2025-09-12T21:00:00-06:00,45.2
+Steeper,Ozone,2025-09-12T21:00:00-06:00,0.038
+Steeper,Total Oxides of Nitrogen,2025-09-12T21:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-12T21:00:00-06:00,51.3
+Steeper,Wind Speed,2025-09-12T21:00:00-06:00,0.1
 Steeper,Wind Direction,2025-09-12T20:00:00-06:00,52.0
 Steeper,Outdoor Temperature,2025-09-12T20:00:00-06:00,17.2
-Steeper,Nitrogen Dioxide,2025-09-12T20:00:00-06:00,0.001
-Steeper,Relative Humidity,2025-09-12T20:00:00-06:00,50.9
-Steeper,Wind Speed,2025-09-12T20:00:00-06:00,0.9
-Steeper,Fine Particulate Matter,2025-09-12T20:00:00-06:00,45.1
-Steeper,,2025-09-12T20:00:00-06:00,4.0
-Steeper,Carbon Monoxide,2025-09-12T20:00:00-06:00,0.2
 Steeper,Sulphur Dioxide,2025-09-12T20:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-12T20:00:00-06:00,45.1
 Steeper,Nitric Oxide,2025-09-12T20:00:00-06:00,0.0
-Steeper,Total Oxides of Nitrogen,2025-09-12T20:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-12T20:00:00-06:00,0.9
 Steeper,Ozone,2025-09-12T20:00:00-06:00,0.037
-Steeper,Wind Direction,2025-09-12T19:00:00-06:00,42.0
-Steeper,Outdoor Temperature,2025-09-12T19:00:00-06:00,18.1
-Steeper,Fine Particulate Matter,2025-09-12T19:00:00-06:00,45.1
-Steeper,Relative Humidity,2025-09-12T19:00:00-06:00,49.1
-Steeper,Nitrogen Dioxide,2025-09-12T19:00:00-06:00,0.001
-Steeper,,2025-09-12T19:00:00-06:00,4.0
-Steeper,Sulphur Dioxide,2025-09-12T19:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-12T19:00:00-06:00,0.1
-Steeper,Carbon Monoxide,2025-09-12T19:00:00-06:00,0.2
-Steeper,Total Oxides of Nitrogen,2025-09-12T19:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-12T19:00:00-06:00,0.0
+Steeper,,2025-09-12T20:00:00-06:00,4.0
+Steeper,Relative Humidity,2025-09-12T20:00:00-06:00,50.9
+Steeper,Total Oxides of Nitrogen,2025-09-12T20:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-12T20:00:00-06:00,0.001
+Steeper,Carbon Monoxide,2025-09-12T20:00:00-06:00,0.2
 Steeper,Ozone,2025-09-12T19:00:00-06:00,0.038
+Steeper,,2025-09-12T19:00:00-06:00,4.0
+Steeper,Nitric Oxide,2025-09-12T19:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-12T19:00:00-06:00,49.1
+Steeper,Wind Speed,2025-09-12T19:00:00-06:00,0.1
+Steeper,Total Oxides of Nitrogen,2025-09-12T19:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-12T19:00:00-06:00,45.1
+Steeper,Nitrogen Dioxide,2025-09-12T19:00:00-06:00,0.001
+Steeper,Wind Direction,2025-09-12T19:00:00-06:00,42.0
+Steeper,Carbon Monoxide,2025-09-12T19:00:00-06:00,0.2
+Steeper,Outdoor Temperature,2025-09-12T19:00:00-06:00,18.1
+Steeper,Sulphur Dioxide,2025-09-12T19:00:00-06:00,0.0
 Steeper,Wind Speed,2025-09-12T18:00:00-06:00,2.1
-Steeper,Wind Direction,2025-09-12T18:00:00-06:00,32.0
-Steeper,Ozone,2025-09-12T18:00:00-06:00,0.04
-Steeper,Nitric Oxide,2025-09-12T18:00:00-06:00,0.0
-Steeper,Total Oxides of Nitrogen,2025-09-12T18:00:00-06:00,0.0
 Steeper,Relative Humidity,2025-09-12T18:00:00-06:00,44.0
-Steeper,Sulphur Dioxide,2025-09-12T18:00:00-06:00,0.0
 Steeper,,2025-09-12T18:00:00-06:00,4.0
+Steeper,Carbon Monoxide,2025-09-12T18:00:00-06:00,0.2
+Steeper,Total Oxides of Nitrogen,2025-09-12T18:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-12T18:00:00-06:00,32.0
+Steeper,Sulphur Dioxide,2025-09-12T18:00:00-06:00,0.0
 Steeper,Outdoor Temperature,2025-09-12T18:00:00-06:00,19.8
 Steeper,Fine Particulate Matter,2025-09-12T18:00:00-06:00,47.5
 Steeper,Nitrogen Dioxide,2025-09-12T18:00:00-06:00,0.001
-Steeper,Carbon Monoxide,2025-09-12T18:00:00-06:00,0.2
-Steeper,Ozone,2025-09-12T17:00:00-06:00,0.041
+Steeper,Nitric Oxide,2025-09-12T18:00:00-06:00,0.0
+Steeper,Ozone,2025-09-12T18:00:00-06:00,0.04
 Steeper,Total Oxides of Nitrogen,2025-09-12T17:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-12T17:00:00-06:00,3.4
-Steeper,Wind Direction,2025-09-12T17:00:00-06:00,29.0
-Steeper,Fine Particulate Matter,2025-09-12T17:00:00-06:00,47.1
-Steeper,Carbon Monoxide,2025-09-12T17:00:00-06:00,0.2
-Steeper,,2025-09-12T17:00:00-06:00,5.0
-Steeper,Nitrogen Dioxide,2025-09-12T17:00:00-06:00,0.001
+Steeper,Sulphur Dioxide,2025-09-12T17:00:00-06:00,0.0
 Steeper,Outdoor Temperature,2025-09-12T17:00:00-06:00,20.6
 Steeper,Relative Humidity,2025-09-12T17:00:00-06:00,42.0
-Steeper,Sulphur Dioxide,2025-09-12T17:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-12T17:00:00-06:00,29.0
+Steeper,Fine Particulate Matter,2025-09-12T17:00:00-06:00,47.1
+Steeper,Nitrogen Dioxide,2025-09-12T17:00:00-06:00,0.001
+Steeper,Carbon Monoxide,2025-09-12T17:00:00-06:00,0.2
+Steeper,,2025-09-12T17:00:00-06:00,5.0
+Steeper,Ozone,2025-09-12T17:00:00-06:00,0.041
+Steeper,Wind Speed,2025-09-12T17:00:00-06:00,3.4
 Steeper,Nitric Oxide,2025-09-12T17:00:00-06:00,0.0
-Steeper,,2025-09-12T16:00:00-06:00,5.0
-Steeper,Carbon Monoxide,2025-09-12T16:00:00-06:00,0.2
+Steeper,Sulphur Dioxide,2025-09-12T16:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-12T16:00:00-06:00,37.0
 Steeper,Fine Particulate Matter,2025-09-12T16:00:00-06:00,49.7
+Steeper,Total Oxides of Nitrogen,2025-09-12T16:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-12T16:00:00-06:00,3.4
+Steeper,Nitric Oxide,2025-09-12T16:00:00-06:00,0.0
+Steeper,,2025-09-12T16:00:00-06:00,5.0
 Steeper,Nitrogen Dioxide,2025-09-12T16:00:00-06:00,0.001
 Steeper,Relative Humidity,2025-09-12T16:00:00-06:00,39.9
-Steeper,Wind Direction,2025-09-12T16:00:00-06:00,37.0
-Steeper,Outdoor Temperature,2025-09-12T16:00:00-06:00,20.8
-Steeper,Total Oxides of Nitrogen,2025-09-12T16:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-12T16:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-12T16:00:00-06:00,0.0
 Steeper,Ozone,2025-09-12T16:00:00-06:00,0.04
-Steeper,Wind Speed,2025-09-12T16:00:00-06:00,3.4
-Steeper,Wind Speed,2025-09-12T15:00:00-06:00,3.1
-Steeper,,2025-09-12T15:00:00-06:00,5.0
+Steeper,Outdoor Temperature,2025-09-12T16:00:00-06:00,20.8
+Steeper,Carbon Monoxide,2025-09-12T16:00:00-06:00,0.2
+Steeper,Sulphur Dioxide,2025-09-12T15:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-12T15:00:00-06:00,32.0
-Steeper,Carbon Monoxide,2025-09-12T15:00:00-06:00,0.2
+Steeper,Wind Speed,2025-09-12T15:00:00-06:00,3.1
+Steeper,Total Oxides of Nitrogen,2025-09-12T15:00:00-06:00,0.0
+Steeper,,2025-09-12T15:00:00-06:00,5.0
+Steeper,Nitric Oxide,2025-09-12T15:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-12T15:00:00-06:00,0.001
+Steeper,Ozone,2025-09-12T15:00:00-06:00,0.041
+Steeper,Outdoor Temperature,2025-09-12T15:00:00-06:00,20.8
 Steeper,Fine Particulate Matter,2025-09-12T15:00:00-06:00,50.8
 Steeper,Relative Humidity,2025-09-12T15:00:00-06:00,38.0
-Steeper,Nitrogen Dioxide,2025-09-12T15:00:00-06:00,0.001
-Steeper,Nitric Oxide,2025-09-12T15:00:00-06:00,0.0
-Steeper,Total Oxides of Nitrogen,2025-09-12T15:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-12T15:00:00-06:00,20.8
-Steeper,Sulphur Dioxide,2025-09-12T15:00:00-06:00,0.0
-Steeper,Ozone,2025-09-12T15:00:00-06:00,0.041
-Steeper,,2025-09-12T14:00:00-06:00,4.0
-Steeper,Relative Humidity,2025-09-12T14:00:00-06:00,40.4
+Steeper,Carbon Monoxide,2025-09-12T15:00:00-06:00,0.2
 Steeper,Total Oxides of Nitrogen,2025-09-12T14:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-12T14:00:00-06:00,27.0
-Steeper,Ozone,2025-09-12T14:00:00-06:00,0.038
-Steeper,Wind Speed,2025-09-12T14:00:00-06:00,2.6
-Steeper,Nitric Oxide,2025-09-12T14:00:00-06:00,0.0
 Steeper,Nitrogen Dioxide,2025-09-12T14:00:00-06:00,0.001
-Steeper,Outdoor Temperature,2025-09-12T14:00:00-06:00,20.5
+Steeper,Relative Humidity,2025-09-12T14:00:00-06:00,40.4
 Steeper,Carbon Monoxide,2025-09-12T14:00:00-06:00,0.2
-Steeper,Sulphur Dioxide,2025-09-12T14:00:00-06:00,0.0
 Steeper,Fine Particulate Matter,2025-09-12T14:00:00-06:00,53.1
+Steeper,Outdoor Temperature,2025-09-12T14:00:00-06:00,20.5
+Steeper,Ozone,2025-09-12T14:00:00-06:00,0.038
+Steeper,Nitric Oxide,2025-09-12T14:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-12T14:00:00-06:00,2.6
+Steeper,,2025-09-12T14:00:00-06:00,4.0
+Steeper,Sulphur Dioxide,2025-09-12T14:00:00-06:00,0.0
+Steeper,,2025-09-12T13:00:00-06:00,4.0
+Steeper,Ozone,2025-09-12T13:00:00-06:00,0.033
+Steeper,Outdoor Temperature,2025-09-12T13:00:00-06:00,20.0
+Steeper,Nitric Oxide,2025-09-12T13:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-12T13:00:00-06:00,0.3
+Steeper,Fine Particulate Matter,2025-09-12T13:00:00-06:00,56.6
+Steeper,Relative Humidity,2025-09-12T13:00:00-06:00,43.4
+Steeper,Nitrogen Dioxide,2025-09-12T13:00:00-06:00,0.001
+Steeper,Sulphur Dioxide,2025-09-12T13:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-12T13:00:00-06:00,196.0
 Steeper,Total Oxides of Nitrogen,2025-09-12T13:00:00-06:00,0.0
 Steeper,Wind Speed,2025-09-12T13:00:00-06:00,0.0
-Steeper,,2025-09-12T13:00:00-06:00,4.0
-Steeper,Nitric Oxide,2025-09-12T13:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-12T13:00:00-06:00,20.0
-Steeper,Wind Direction,2025-09-12T13:00:00-06:00,196.0
-Steeper,Sulphur Dioxide,2025-09-12T13:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-12T13:00:00-06:00,56.6
-Steeper,Carbon Monoxide,2025-09-12T13:00:00-06:00,0.3
-Steeper,Relative Humidity,2025-09-12T13:00:00-06:00,43.4
-Steeper,Ozone,2025-09-12T13:00:00-06:00,0.033
-Steeper,Nitrogen Dioxide,2025-09-12T13:00:00-06:00,0.001
-Steeper,Wind Direction,2025-09-12T12:00:00-06:00,218.0
-Steeper,Fine Particulate Matter,2025-09-12T12:00:00-06:00,57.1
-Steeper,,2025-09-12T12:00:00-06:00,4.0
-Steeper,Outdoor Temperature,2025-09-12T12:00:00-06:00,17.5
-Steeper,Carbon Monoxide,2025-09-12T12:00:00-06:00,0.2
 Steeper,Nitric Oxide,2025-09-12T12:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-12T12:00:00-06:00,0.001
-Steeper,Relative Humidity,2025-09-12T12:00:00-06:00,50.3
-Steeper,Ozone,2025-09-12T12:00:00-06:00,0.029
-Steeper,Sulphur Dioxide,2025-09-12T12:00:00-06:00,0.0
+Steeper,,2025-09-12T12:00:00-06:00,4.0
+Steeper,Wind Direction,2025-09-12T12:00:00-06:00,218.0
 Steeper,Total Oxides of Nitrogen,2025-09-12T12:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-12T12:00:00-06:00,50.3
+Steeper,Nitrogen Dioxide,2025-09-12T12:00:00-06:00,0.001
+Steeper,Ozone,2025-09-12T12:00:00-06:00,0.029
+Steeper,Carbon Monoxide,2025-09-12T12:00:00-06:00,0.2
+Steeper,Outdoor Temperature,2025-09-12T12:00:00-06:00,17.5
+Steeper,Fine Particulate Matter,2025-09-12T12:00:00-06:00,57.1
+Steeper,Sulphur Dioxide,2025-09-12T12:00:00-06:00,0.0
 Steeper,Wind Speed,2025-09-12T12:00:00-06:00,0.5
-Steeper,Nitric Oxide,2025-09-12T11:00:00-06:00,0.0
-Steeper,,2025-09-12T11:00:00-06:00,3.0
-Steeper,Fine Particulate Matter,2025-09-12T11:00:00-06:00,41.9
-Steeper,Carbon Monoxide,2025-09-12T11:00:00-06:00,0.1
-Steeper,Ozone,2025-09-12T11:00:00-06:00,0.026
-Steeper,Nitrogen Dioxide,2025-09-12T11:00:00-06:00,0.001
 Steeper,Total Oxides of Nitrogen,2025-09-12T11:00:00-06:00,0.0
-Steeper,Relative Humidity,2025-09-12T11:00:00-06:00,61.2
-Steeper,Sulphur Dioxide,2025-09-12T11:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-12T11:00:00-06:00,186.0
+Steeper,Nitric Oxide,2025-09-12T11:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-12T11:00:00-06:00,0.001
 Steeper,Outdoor Temperature,2025-09-12T11:00:00-06:00,12.9
+Steeper,Ozone,2025-09-12T11:00:00-06:00,0.026
+Steeper,Sulphur Dioxide,2025-09-12T11:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-12T11:00:00-06:00,0.1
+Steeper,,2025-09-12T11:00:00-06:00,3.0
+Steeper,Wind Direction,2025-09-12T11:00:00-06:00,186.0
+Steeper,Fine Particulate Matter,2025-09-12T11:00:00-06:00,41.9
 Steeper,Wind Speed,2025-09-12T11:00:00-06:00,4.6
-Steeper,Carbon Monoxide,2025-09-12T10:00:00-06:00,0.1
-Steeper,Nitric Oxide,2025-09-12T10:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-12T10:00:00-06:00,0.001
-Steeper,Ozone,2025-09-12T10:00:00-06:00,0.025
-Steeper,Outdoor Temperature,2025-09-12T10:00:00-06:00,9.6
-Steeper,Wind Speed,2025-09-12T10:00:00-06:00,8.9
-Steeper,Sulphur Dioxide,2025-09-12T10:00:00-06:00,0.0
-Steeper,Relative Humidity,2025-09-12T10:00:00-06:00,65.6
+Steeper,Relative Humidity,2025-09-12T11:00:00-06:00,61.2
 Steeper,Wind Direction,2025-09-12T10:00:00-06:00,186.0
-Steeper,Total Oxides of Nitrogen,2025-09-12T10:00:00-06:00,0.0
 Steeper,Fine Particulate Matter,2025-09-12T10:00:00-06:00,40.8
+Steeper,Outdoor Temperature,2025-09-12T10:00:00-06:00,9.6
 Steeper,,2025-09-12T10:00:00-06:00,3.0
-Steeper,Sulphur Dioxide,2025-09-12T09:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-12T09:00:00-06:00,10.2
+Steeper,Ozone,2025-09-12T10:00:00-06:00,0.025
+Steeper,Nitrogen Dioxide,2025-09-12T10:00:00-06:00,0.001
+Steeper,Carbon Monoxide,2025-09-12T10:00:00-06:00,0.1
+Steeper,Sulphur Dioxide,2025-09-12T10:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-12T10:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-12T10:00:00-06:00,8.9
+Steeper,Relative Humidity,2025-09-12T10:00:00-06:00,65.6
+Steeper,Total Oxides of Nitrogen,2025-09-12T10:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-12T09:00:00-06:00,38.4
 Steeper,Outdoor Temperature,2025-09-12T09:00:00-06:00,8.0
 Steeper,Ozone,2025-09-12T09:00:00-06:00,0.025
-Steeper,Wind Direction,2025-09-12T09:00:00-06:00,190.0
-Steeper,Relative Humidity,2025-09-12T09:00:00-06:00,69.2
-Steeper,Nitrogen Dioxide,2025-09-12T09:00:00-06:00,0.001
-Steeper,Fine Particulate Matter,2025-09-12T09:00:00-06:00,38.4
-Steeper,,2025-09-12T09:00:00-06:00,3.0
-Steeper,Nitric Oxide,2025-09-12T09:00:00-06:00,0.0
 Steeper,Carbon Monoxide,2025-09-12T09:00:00-06:00,0.1
+Steeper,Nitrogen Dioxide,2025-09-12T09:00:00-06:00,0.001
+Steeper,Sulphur Dioxide,2025-09-12T09:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-12T09:00:00-06:00,10.2
+Steeper,Nitric Oxide,2025-09-12T09:00:00-06:00,0.0
 Steeper,Total Oxides of Nitrogen,2025-09-12T09:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-12T08:00:00-06:00,37.2
-Steeper,Sulphur Dioxide,2025-09-12T08:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-12T08:00:00-06:00,186.0
-Steeper,,2025-09-12T08:00:00-06:00,3.0
-Steeper,Nitric Oxide,2025-09-12T08:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-12T08:00:00-06:00,9.6
+Steeper,Relative Humidity,2025-09-12T09:00:00-06:00,69.2
+Steeper,Wind Direction,2025-09-12T09:00:00-06:00,190.0
+Steeper,,2025-09-12T09:00:00-06:00,3.0
 Steeper,Total Oxides of Nitrogen,2025-09-12T08:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-12T08:00:00-06:00,0.1
+Steeper,Wind Direction,2025-09-12T08:00:00-06:00,186.0
 Steeper,Outdoor Temperature,2025-09-12T08:00:00-06:00,8.1
-Steeper,Relative Humidity,2025-09-12T08:00:00-06:00,68.6
+Steeper,Fine Particulate Matter,2025-09-12T08:00:00-06:00,37.2
+Steeper,Carbon Monoxide,2025-09-12T08:00:00-06:00,0.1
+Steeper,Wind Speed,2025-09-12T08:00:00-06:00,9.6
 Steeper,Ozone,2025-09-12T08:00:00-06:00,0.026
+Steeper,Nitric Oxide,2025-09-12T08:00:00-06:00,0.0
 Steeper,Nitrogen Dioxide,2025-09-12T08:00:00-06:00,0.001
+Steeper,,2025-09-12T08:00:00-06:00,3.0
+Steeper,Relative Humidity,2025-09-12T08:00:00-06:00,68.6
+Steeper,Sulphur Dioxide,2025-09-12T08:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-12T07:00:00-06:00,191.0
+Steeper,Outdoor Temperature,2025-09-12T07:00:00-06:00,8.2
 Steeper,Carbon Monoxide,2025-09-12T07:00:00-06:00,0.1
-Steeper,Sulphur Dioxide,2025-09-12T07:00:00-06:00,0.0
-Steeper,,2025-09-12T07:00:00-06:00,3.0
 Steeper,Wind Speed,2025-09-12T07:00:00-06:00,9.5
 Steeper,Fine Particulate Matter,2025-09-12T07:00:00-06:00,35.3
-Steeper,Outdoor Temperature,2025-09-12T07:00:00-06:00,8.2
+Steeper,,2025-09-12T07:00:00-06:00,3.0
+Steeper,Ozone,2025-09-12T07:00:00-06:00,0.026
+Steeper,Sulphur Dioxide,2025-09-12T07:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-12T07:00:00-06:00,0.0
 Steeper,Nitric Oxide,2025-09-12T07:00:00-06:00,0.0
 Steeper,Relative Humidity,2025-09-12T07:00:00-06:00,68.2
-Steeper,Total Oxides of Nitrogen,2025-09-12T07:00:00-06:00,0.0
-Steeper,Ozone,2025-09-12T07:00:00-06:00,0.026
-Steeper,Wind Direction,2025-09-12T07:00:00-06:00,191.0
 Steeper,Nitrogen Dioxide,2025-09-12T07:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-12T06:00:00-06:00,9.6
 Steeper,Sulphur Dioxide,2025-09-12T06:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-12T06:00:00-06:00,192.0
 Steeper,Nitric Oxide,2025-09-12T06:00:00-06:00,0.0
 Steeper,Relative Humidity,2025-09-12T06:00:00-06:00,66.5
-Steeper,Wind Direction,2025-09-12T06:00:00-06:00,192.0
 Steeper,Ozone,2025-09-12T06:00:00-06:00,0.026
-Steeper,Nitrogen Dioxide,2025-09-12T06:00:00-06:00,0.0
-Steeper,Total Oxides of Nitrogen,2025-09-12T06:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-12T06:00:00-06:00,8.8
-Steeper,Fine Particulate Matter,2025-09-12T06:00:00-06:00,33.5
 Steeper,,2025-09-12T06:00:00-06:00,3.0
+Steeper,Outdoor Temperature,2025-09-12T06:00:00-06:00,8.8
+Steeper,Total Oxides of Nitrogen,2025-09-12T06:00:00-06:00,0.0
 Steeper,Carbon Monoxide,2025-09-12T06:00:00-06:00,0.1
-Steeper,Wind Direction,2025-09-12T05:00:00-06:00,194.0
-Steeper,Relative Humidity,2025-09-12T05:00:00-06:00,66.0
-Steeper,Outdoor Temperature,2025-09-12T05:00:00-06:00,8.9
-Steeper,Total Oxides of Nitrogen,2025-09-12T05:00:00-06:00,
-Steeper,Sulphur Dioxide,2025-09-12T05:00:00-06:00,
-Steeper,Nitric Oxide,2025-09-12T05:00:00-06:00,
+Steeper,Wind Speed,2025-09-12T06:00:00-06:00,9.6
+Steeper,Nitrogen Dioxide,2025-09-12T06:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-12T06:00:00-06:00,33.5
 Steeper,Wind Speed,2025-09-12T05:00:00-06:00,9.3
-Steeper,Fine Particulate Matter,2025-09-12T05:00:00-06:00,31.2
-Steeper,Carbon Monoxide,2025-09-12T05:00:00-06:00,
+Steeper,Sulphur Dioxide,2025-09-12T05:00:00-06:00,
 Steeper,Ozone,2025-09-12T05:00:00-06:00,
+Steeper,Nitric Oxide,2025-09-12T05:00:00-06:00,
+Steeper,Total Oxides of Nitrogen,2025-09-12T05:00:00-06:00,
+Steeper,Carbon Monoxide,2025-09-12T05:00:00-06:00,
+Steeper,Outdoor Temperature,2025-09-12T05:00:00-06:00,8.9
+Steeper,Wind Direction,2025-09-12T05:00:00-06:00,194.0
+Steeper,Fine Particulate Matter,2025-09-12T05:00:00-06:00,31.2
 Steeper,,2025-09-12T05:00:00-06:00,3.0
+Steeper,Relative Humidity,2025-09-12T05:00:00-06:00,66.0
 Steeper,Nitrogen Dioxide,2025-09-12T05:00:00-06:00,
-Steeper,Wind Direction,2025-09-12T04:00:00-06:00,197.0
-Steeper,,2025-09-12T04:00:00-06:00,3.0
-Steeper,Outdoor Temperature,2025-09-12T04:00:00-06:00,9.4
-Steeper,Carbon Monoxide,2025-09-12T04:00:00-06:00,0.1
-Steeper,Sulphur Dioxide,2025-09-12T04:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-12T04:00:00-06:00,28.7
-Steeper,Nitric Oxide,2025-09-12T04:00:00-06:00,0.0
-Steeper,Relative Humidity,2025-09-12T04:00:00-06:00,67.4
-Steeper,Wind Speed,2025-09-12T04:00:00-06:00,10.5
 Steeper,Ozone,2025-09-12T04:00:00-06:00,0.025
+Steeper,Wind Direction,2025-09-12T04:00:00-06:00,197.0
+Steeper,Carbon Monoxide,2025-09-12T04:00:00-06:00,0.1
+Steeper,Wind Speed,2025-09-12T04:00:00-06:00,10.5
+Steeper,Fine Particulate Matter,2025-09-12T04:00:00-06:00,28.7
+Steeper,Outdoor Temperature,2025-09-12T04:00:00-06:00,9.4
+Steeper,Relative Humidity,2025-09-12T04:00:00-06:00,67.4
 Steeper,Total Oxides of Nitrogen,2025-09-12T04:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-12T04:00:00-06:00,0.0
+Steeper,,2025-09-12T04:00:00-06:00,3.0
 Steeper,Nitrogen Dioxide,2025-09-12T04:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-12T03:00:00-06:00,0.1
+Steeper,Sulphur Dioxide,2025-09-12T04:00:00-06:00,0.0
 Steeper,,2025-09-12T03:00:00-06:00,2.0
-Steeper,Relative Humidity,2025-09-12T03:00:00-06:00,70.1
-Steeper,Wind Direction,2025-09-12T03:00:00-06:00,194.0
 Steeper,Wind Speed,2025-09-12T03:00:00-06:00,9.6
-Steeper,Fine Particulate Matter,2025-09-12T03:00:00-06:00,27.6
-Steeper,Nitric Oxide,2025-09-12T03:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-12T03:00:00-06:00,0.1
+Steeper,Wind Direction,2025-09-12T03:00:00-06:00,194.0
+Steeper,Outdoor Temperature,2025-09-12T03:00:00-06:00,9.7
+Steeper,Relative Humidity,2025-09-12T03:00:00-06:00,70.1
 Steeper,Ozone,2025-09-12T03:00:00-06:00,0.023
 Steeper,Total Oxides of Nitrogen,2025-09-12T03:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-12T03:00:00-06:00,9.7
+Steeper,Fine Particulate Matter,2025-09-12T03:00:00-06:00,27.6
 Steeper,Nitrogen Dioxide,2025-09-12T03:00:00-06:00,0.0
 Steeper,Sulphur Dioxide,2025-09-12T03:00:00-06:00,0.0
-Steeper,Ozone,2025-09-12T02:00:00-06:00,0.022
+Steeper,Nitric Oxide,2025-09-12T03:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-12T02:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-12T02:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-12T02:00:00-06:00,200.0
-Steeper,Sulphur Dioxide,2025-09-12T02:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-12T02:00:00-06:00,0.0
 Steeper,Carbon Monoxide,2025-09-12T02:00:00-06:00,0.1
 Steeper,Relative Humidity,2025-09-12T02:00:00-06:00,71.4
-Steeper,,2025-09-12T02:00:00-06:00,2.0
-Steeper,Fine Particulate Matter,2025-09-12T02:00:00-06:00,26.2
 Steeper,Wind Speed,2025-09-12T02:00:00-06:00,11.2
+Steeper,Nitric Oxide,2025-09-12T02:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-12T02:00:00-06:00,26.2
+Steeper,Sulphur Dioxide,2025-09-12T02:00:00-06:00,0.0
 Steeper,Outdoor Temperature,2025-09-12T02:00:00-06:00,10.3
-Steeper,Total Oxides of Nitrogen,2025-09-12T02:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-12T02:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-12T01:00:00-06:00,204.0
-Steeper,Sulphur Dioxide,2025-09-12T01:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-12T01:00:00-06:00,27.2
-Steeper,Total Oxides of Nitrogen,2025-09-12T01:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-12T01:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-12T01:00:00-06:00,10.7
-Steeper,Carbon Monoxide,2025-09-12T01:00:00-06:00,0.1
-Steeper,,2025-09-12T01:00:00-06:00,3.0
-Steeper,Wind Speed,2025-09-12T01:00:00-06:00,10.4
-Steeper,Ozone,2025-09-12T01:00:00-06:00,0.022
+Steeper,Ozone,2025-09-12T02:00:00-06:00,0.022
+Steeper,,2025-09-12T02:00:00-06:00,2.0
 Steeper,Nitric Oxide,2025-09-12T01:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-12T01:00:00-06:00,0.1
+Steeper,Fine Particulate Matter,2025-09-12T01:00:00-06:00,27.2
+Steeper,Sulphur Dioxide,2025-09-12T01:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-12T01:00:00-06:00,10.7
+Steeper,Wind Speed,2025-09-12T01:00:00-06:00,10.4
 Steeper,Relative Humidity,2025-09-12T01:00:00-06:00,72.8
-Steeper,Relative Humidity,2025-09-12T00:00:00-06:00,73.0
-Steeper,Fine Particulate Matter,2025-09-12T00:00:00-06:00,30.2
-Steeper,,2025-09-12T00:00:00-06:00,3.0
-Steeper,Carbon Monoxide,2025-09-12T00:00:00-06:00,0.1
-Steeper,Sulphur Dioxide,2025-09-12T00:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-12T00:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-12T01:00:00-06:00,204.0
+Steeper,Ozone,2025-09-12T01:00:00-06:00,0.022
+Steeper,Nitrogen Dioxide,2025-09-12T01:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-12T01:00:00-06:00,0.0
+Steeper,,2025-09-12T01:00:00-06:00,3.0
 Steeper,Nitrogen Dioxide,2025-09-12T00:00:00-06:00,0.001
+Steeper,Carbon Monoxide,2025-09-12T00:00:00-06:00,0.1
+Steeper,Fine Particulate Matter,2025-09-12T00:00:00-06:00,30.2
 Steeper,Total Oxides of Nitrogen,2025-09-12T00:00:00-06:00,0.0
-Steeper,Ozone,2025-09-12T00:00:00-06:00,0.02
-Steeper,Outdoor Temperature,2025-09-12T00:00:00-06:00,11.3
-Steeper,Wind Direction,2025-09-12T00:00:00-06:00,201.0
 Steeper,Wind Speed,2025-09-12T00:00:00-06:00,8.5
-Steeper,Relative Humidity,2025-09-11T23:00:00-06:00,68.8
-Steeper,Wind Speed,2025-09-11T23:00:00-06:00,6.0
-Steeper,Ozone,2025-09-11T23:00:00-06:00,0.025
+Steeper,Nitric Oxide,2025-09-12T00:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-12T00:00:00-06:00,201.0
+Steeper,Sulphur Dioxide,2025-09-12T00:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-12T00:00:00-06:00,11.3
+Steeper,,2025-09-12T00:00:00-06:00,3.0
+Steeper,Relative Humidity,2025-09-12T00:00:00-06:00,73.0
+Steeper,Ozone,2025-09-12T00:00:00-06:00,0.02
+Steeper,Carbon Monoxide,2025-09-11T23:00:00-06:00,0.1
 Steeper,Wind Direction,2025-09-11T23:00:00-06:00,193.0
 Steeper,Fine Particulate Matter,2025-09-11T23:00:00-06:00,31.5
-Steeper,Total Oxides of Nitrogen,2025-09-11T23:00:00-06:00,0.0
-Steeper,,2025-09-11T23:00:00-06:00,3.0
-Steeper,Nitric Oxide,2025-09-11T23:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-11T23:00:00-06:00,0.0
 Steeper,Nitrogen Dioxide,2025-09-11T23:00:00-06:00,0.001
+Steeper,Nitric Oxide,2025-09-11T23:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-11T23:00:00-06:00,6.0
+Steeper,,2025-09-11T23:00:00-06:00,3.0
+Steeper,Sulphur Dioxide,2025-09-11T23:00:00-06:00,0.0
 Steeper,Outdoor Temperature,2025-09-11T23:00:00-06:00,12.9
-Steeper,Carbon Monoxide,2025-09-11T23:00:00-06:00,0.1
-Steeper,Relative Humidity,2025-09-11T22:00:00-06:00,61.1
-Steeper,Wind Speed,2025-09-11T22:00:00-06:00,2.3
-Steeper,Fine Particulate Matter,2025-09-11T22:00:00-06:00,32.2
-Steeper,Total Oxides of Nitrogen,2025-09-11T22:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-11T22:00:00-06:00,190.0
-Steeper,Sulphur Dioxide,2025-09-11T22:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-11T22:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-11T22:00:00-06:00,0.001
-Steeper,Ozone,2025-09-11T22:00:00-06:00,0.033
-Steeper,,2025-09-11T22:00:00-06:00,3.0
+Steeper,Ozone,2025-09-11T23:00:00-06:00,0.025
+Steeper,Relative Humidity,2025-09-11T23:00:00-06:00,68.8
+Steeper,Total Oxides of Nitrogen,2025-09-11T23:00:00-06:00,0.0
 Steeper,Carbon Monoxide,2025-09-11T22:00:00-06:00,0.1
+Steeper,Wind Direction,2025-09-11T22:00:00-06:00,190.0
+Steeper,Nitric Oxide,2025-09-11T22:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-11T22:00:00-06:00,2.3
+Steeper,Sulphur Dioxide,2025-09-11T22:00:00-06:00,0.0
+Steeper,,2025-09-11T22:00:00-06:00,3.0
+Steeper,Total Oxides of Nitrogen,2025-09-11T22:00:00-06:00,0.0
+Steeper,Ozone,2025-09-11T22:00:00-06:00,0.033
 Steeper,Outdoor Temperature,2025-09-11T22:00:00-06:00,14.8
-Steeper,Relative Humidity,2025-09-11T21:00:00-06:00,50.2
-Steeper,Nitric Oxide,2025-09-11T21:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-11T22:00:00-06:00,0.001
+Steeper,Fine Particulate Matter,2025-09-11T22:00:00-06:00,32.2
+Steeper,Relative Humidity,2025-09-11T22:00:00-06:00,61.1
 Steeper,Total Oxides of Nitrogen,2025-09-11T21:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-11T21:00:00-06:00,0.1
-Steeper,Sulphur Dioxide,2025-09-11T21:00:00-06:00,0.0
 Steeper,Wind Speed,2025-09-11T21:00:00-06:00,2.0
-Steeper,Outdoor Temperature,2025-09-11T21:00:00-06:00,16.8
-Steeper,,2025-09-11T21:00:00-06:00,4.0
-Steeper,Wind Direction,2025-09-11T21:00:00-06:00,126.0
-Steeper,Nitrogen Dioxide,2025-09-11T21:00:00-06:00,0.001
 Steeper,Ozone,2025-09-11T21:00:00-06:00,0.039
+Steeper,Carbon Monoxide,2025-09-11T21:00:00-06:00,0.1
+Steeper,,2025-09-11T21:00:00-06:00,4.0
+Steeper,Nitrogen Dioxide,2025-09-11T21:00:00-06:00,0.001
+Steeper,Outdoor Temperature,2025-09-11T21:00:00-06:00,16.8
+Steeper,Sulphur Dioxide,2025-09-11T21:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-11T21:00:00-06:00,0.0
 Steeper,Fine Particulate Matter,2025-09-11T21:00:00-06:00,32.5
-Steeper,Outdoor Temperature,2025-09-11T20:00:00-06:00,17.6
-Steeper,Fine Particulate Matter,2025-09-11T20:00:00-06:00,32.7
-Steeper,Relative Humidity,2025-09-11T20:00:00-06:00,52.8
-Steeper,Wind Direction,2025-09-11T20:00:00-06:00,74.0
-Steeper,,2025-09-11T20:00:00-06:00,4.0
-Steeper,Nitrogen Dioxide,2025-09-11T20:00:00-06:00,0.001
-Steeper,Total Oxides of Nitrogen,2025-09-11T20:00:00-06:00,0.0
-Steeper,Ozone,2025-09-11T20:00:00-06:00,0.036
+Steeper,Relative Humidity,2025-09-11T21:00:00-06:00,50.2
+Steeper,Wind Direction,2025-09-11T21:00:00-06:00,126.0
 Steeper,Nitric Oxide,2025-09-11T20:00:00-06:00,0.0
+Steeper,Ozone,2025-09-11T20:00:00-06:00,0.036
 Steeper,Carbon Monoxide,2025-09-11T20:00:00-06:00,0.1
 Steeper,Wind Speed,2025-09-11T20:00:00-06:00,2.6
+Steeper,Fine Particulate Matter,2025-09-11T20:00:00-06:00,32.7
 Steeper,Sulphur Dioxide,2025-09-11T20:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-11T19:00:00-06:00,34.1
+Steeper,Wind Direction,2025-09-11T20:00:00-06:00,74.0
+Steeper,,2025-09-11T20:00:00-06:00,4.0
+Steeper,Total Oxides of Nitrogen,2025-09-11T20:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-11T20:00:00-06:00,0.001
+Steeper,Outdoor Temperature,2025-09-11T20:00:00-06:00,17.6
+Steeper,Relative Humidity,2025-09-11T20:00:00-06:00,52.8
 Steeper,Nitric Oxide,2025-09-11T19:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-11T19:00:00-06:00,62.0
+Steeper,Wind Speed,2025-09-11T19:00:00-06:00,1.5
 Steeper,Carbon Monoxide,2025-09-11T19:00:00-06:00,0.1
-Steeper,Relative Humidity,2025-09-11T19:00:00-06:00,48.9
+Steeper,Sulphur Dioxide,2025-09-11T19:00:00-06:00,0.001
 Steeper,Total Oxides of Nitrogen,2025-09-11T19:00:00-06:00,0.0
 Steeper,,2025-09-11T19:00:00-06:00,4.0
-Steeper,Sulphur Dioxide,2025-09-11T19:00:00-06:00,0.001
 Steeper,Ozone,2025-09-11T19:00:00-06:00,0.036
 Steeper,Nitrogen Dioxide,2025-09-11T19:00:00-06:00,0.001
-Steeper,Wind Speed,2025-09-11T19:00:00-06:00,1.5
-Steeper,Wind Direction,2025-09-11T19:00:00-06:00,62.0
+Steeper,Fine Particulate Matter,2025-09-11T19:00:00-06:00,34.1
 Steeper,Outdoor Temperature,2025-09-11T19:00:00-06:00,18.9
-Steeper,Carbon Monoxide,2025-09-11T18:00:00-06:00,0.2
+Steeper,Relative Humidity,2025-09-11T19:00:00-06:00,48.9
 Steeper,Ozone,2025-09-11T18:00:00-06:00,0.035
-Steeper,Wind Speed,2025-09-11T18:00:00-06:00,2.0
-Steeper,Total Oxides of Nitrogen,2025-09-11T18:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-11T18:00:00-06:00,35.3
-Steeper,Relative Humidity,2025-09-11T18:00:00-06:00,43.8
-Steeper,Nitrogen Dioxide,2025-09-11T18:00:00-06:00,0.001
-Steeper,Nitric Oxide,2025-09-11T18:00:00-06:00,0.0
-Steeper,,2025-09-11T18:00:00-06:00,4.0
 Steeper,Wind Direction,2025-09-11T18:00:00-06:00,37.0
-Steeper,Sulphur Dioxide,2025-09-11T18:00:00-06:00,0.0
+Steeper,,2025-09-11T18:00:00-06:00,4.0
+Steeper,Carbon Monoxide,2025-09-11T18:00:00-06:00,0.2
 Steeper,Outdoor Temperature,2025-09-11T18:00:00-06:00,20.3
-Steeper,Sulphur Dioxide,2025-09-11T17:00:00-06:00,0.0
-Steeper,Ozone,2025-09-11T17:00:00-06:00,0.035
-Steeper,Wind Direction,2025-09-11T17:00:00-06:00,33.0
-Steeper,Relative Humidity,2025-09-11T17:00:00-06:00,40.3
-Steeper,Total Oxides of Nitrogen,2025-09-11T17:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-11T18:00:00-06:00,43.8
+Steeper,Fine Particulate Matter,2025-09-11T18:00:00-06:00,35.3
+Steeper,Nitrogen Dioxide,2025-09-11T18:00:00-06:00,0.001
+Steeper,Wind Speed,2025-09-11T18:00:00-06:00,2.0
+Steeper,Sulphur Dioxide,2025-09-11T18:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-11T18:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-11T18:00:00-06:00,0.0
 Steeper,Wind Speed,2025-09-11T17:00:00-06:00,0.7
+Steeper,Relative Humidity,2025-09-11T17:00:00-06:00,40.3
+Steeper,Nitric Oxide,2025-09-11T17:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-11T17:00:00-06:00,35.9
 Steeper,Outdoor Temperature,2025-09-11T17:00:00-06:00,21.3
 Steeper,Carbon Monoxide,2025-09-11T17:00:00-06:00,0.2
+Steeper,Sulphur Dioxide,2025-09-11T17:00:00-06:00,0.0
 Steeper,Nitrogen Dioxide,2025-09-11T17:00:00-06:00,0.001
-Steeper,Nitric Oxide,2025-09-11T17:00:00-06:00,0.0
+Steeper,Ozone,2025-09-11T17:00:00-06:00,0.035
+Steeper,Wind Direction,2025-09-11T17:00:00-06:00,33.0
 Steeper,,2025-09-11T17:00:00-06:00,4.0
-Steeper,Fine Particulate Matter,2025-09-11T17:00:00-06:00,35.9
-Steeper,Total Oxides of Nitrogen,2025-09-11T16:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-11T17:00:00-06:00,0.0
 Steeper,Relative Humidity,2025-09-11T16:00:00-06:00,38.6
-Steeper,Wind Direction,2025-09-11T16:00:00-06:00,39.0
-Steeper,Wind Speed,2025-09-11T16:00:00-06:00,1.9
 Steeper,Outdoor Temperature,2025-09-11T16:00:00-06:00,21.1
-Steeper,Ozone,2025-09-11T16:00:00-06:00,0.036
 Steeper,Carbon Monoxide,2025-09-11T16:00:00-06:00,0.2
 Steeper,Nitrogen Dioxide,2025-09-11T16:00:00-06:00,0.001
-Steeper,Sulphur Dioxide,2025-09-11T16:00:00-06:00,0.0
 Steeper,Nitric Oxide,2025-09-11T16:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-11T16:00:00-06:00,0.0
 Steeper,,2025-09-11T16:00:00-06:00,4.0
+Steeper,Wind Direction,2025-09-11T16:00:00-06:00,39.0
+Steeper,Sulphur Dioxide,2025-09-11T16:00:00-06:00,0.0
+Steeper,Ozone,2025-09-11T16:00:00-06:00,0.036
 Steeper,Fine Particulate Matter,2025-09-11T16:00:00-06:00,37.3
+Steeper,Wind Speed,2025-09-11T16:00:00-06:00,1.9
 Steeper,Total Oxides of Nitrogen,2025-09-11T15:00:00-06:00,0.0
-Steeper,Relative Humidity,2025-09-11T15:00:00-06:00,35.1
-Steeper,Wind Speed,2025-09-11T15:00:00-06:00,0.4
-Steeper,Wind Direction,2025-09-11T15:00:00-06:00,346.0
-Steeper,Outdoor Temperature,2025-09-11T15:00:00-06:00,20.9
-Steeper,Ozone,2025-09-11T15:00:00-06:00,0.038
-Steeper,Carbon Monoxide,2025-09-11T15:00:00-06:00,0.2
 Steeper,,2025-09-11T15:00:00-06:00,4.0
-Steeper,Fine Particulate Matter,2025-09-11T15:00:00-06:00,40.3
+Steeper,Wind Direction,2025-09-11T15:00:00-06:00,346.0
 Steeper,Nitric Oxide,2025-09-11T15:00:00-06:00,0.0
 Steeper,Nitrogen Dioxide,2025-09-11T15:00:00-06:00,0.001
+Steeper,Outdoor Temperature,2025-09-11T15:00:00-06:00,20.9
 Steeper,Sulphur Dioxide,2025-09-11T15:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-11T14:00:00-06:00,42.4
+Steeper,Ozone,2025-09-11T15:00:00-06:00,0.038
+Steeper,Carbon Monoxide,2025-09-11T15:00:00-06:00,0.2
+Steeper,Fine Particulate Matter,2025-09-11T15:00:00-06:00,40.3
+Steeper,Relative Humidity,2025-09-11T15:00:00-06:00,35.1
+Steeper,Wind Speed,2025-09-11T15:00:00-06:00,0.4
+Steeper,Wind Direction,2025-09-11T14:00:00-06:00,182.0
 Steeper,Total Oxides of Nitrogen,2025-09-11T14:00:00-06:00,0.0
 Steeper,Nitric Oxide,2025-09-11T14:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-11T14:00:00-06:00,0.001
-Steeper,Carbon Monoxide,2025-09-11T14:00:00-06:00,0.2
 Steeper,Wind Speed,2025-09-11T14:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-11T14:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-11T14:00:00-06:00,0.001
+Steeper,Outdoor Temperature,2025-09-11T14:00:00-06:00,20.6
+Steeper,Fine Particulate Matter,2025-09-11T14:00:00-06:00,42.4
+Steeper,,2025-09-11T14:00:00-06:00,4.0
+Steeper,Carbon Monoxide,2025-09-11T14:00:00-06:00,0.2
 Steeper,Relative Humidity,2025-09-11T14:00:00-06:00,34.4
 Steeper,Ozone,2025-09-11T14:00:00-06:00,0.038
-Steeper,Wind Direction,2025-09-11T14:00:00-06:00,182.0
-Steeper,Outdoor Temperature,2025-09-11T14:00:00-06:00,20.6
-Steeper,Sulphur Dioxide,2025-09-11T14:00:00-06:00,0.0
-Steeper,,2025-09-11T14:00:00-06:00,4.0
-Steeper,Total Oxides of Nitrogen,2025-09-11T13:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-11T13:00:00-06:00,0.0
-Steeper,Relative Humidity,2025-09-11T13:00:00-06:00,37.0
-Steeper,,2025-09-11T13:00:00-06:00,3.0
-Steeper,Wind Speed,2025-09-11T13:00:00-06:00,0.1
-Steeper,Wind Direction,2025-09-11T13:00:00-06:00,3.0
-Steeper,Sulphur Dioxide,2025-09-11T13:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-11T13:00:00-06:00,19.2
-Steeper,Ozone,2025-09-11T13:00:00-06:00,0.037
-Steeper,Nitrogen Dioxide,2025-09-11T13:00:00-06:00,0.001
 Steeper,Carbon Monoxide,2025-09-11T13:00:00-06:00,0.2
 Steeper,Fine Particulate Matter,2025-09-11T13:00:00-06:00,44.4
-Steeper,Nitrogen Dioxide,2025-09-11T12:00:00-06:00,0.001
-Steeper,Wind Direction,2025-09-11T12:00:00-06:00,174.0
-Steeper,,2025-09-11T12:00:00-06:00,3.0
-Steeper,Carbon Monoxide,2025-09-11T12:00:00-06:00,0.1
-Steeper,Ozone,2025-09-11T12:00:00-06:00,0.026
-Steeper,Wind Speed,2025-09-11T12:00:00-06:00,0.2
-Steeper,Relative Humidity,2025-09-11T12:00:00-06:00,54.6
-Steeper,Sulphur Dioxide,2025-09-11T12:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-11T12:00:00-06:00,16.4
-Steeper,Nitric Oxide,2025-09-11T12:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-11T13:00:00-06:00,19.2
+Steeper,Total Oxides of Nitrogen,2025-09-11T13:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-11T13:00:00-06:00,37.0
+Steeper,,2025-09-11T13:00:00-06:00,3.0
+Steeper,Wind Direction,2025-09-11T13:00:00-06:00,3.0
+Steeper,Wind Speed,2025-09-11T13:00:00-06:00,0.1
+Steeper,Ozone,2025-09-11T13:00:00-06:00,0.037
+Steeper,Sulphur Dioxide,2025-09-11T13:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-11T13:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-11T13:00:00-06:00,0.001
 Steeper,Total Oxides of Nitrogen,2025-09-11T12:00:00-06:00,0.0
+Steeper,,2025-09-11T12:00:00-06:00,3.0
+Steeper,Wind Direction,2025-09-11T12:00:00-06:00,174.0
+Steeper,Carbon Monoxide,2025-09-11T12:00:00-06:00,0.1
+Steeper,Nitric Oxide,2025-09-11T12:00:00-06:00,0.0
 Steeper,Fine Particulate Matter,2025-09-11T12:00:00-06:00,33.8
-Steeper,Ozone,2025-09-11T11:00:00-06:00,0.018
-Steeper,Carbon Monoxide,2025-09-11T11:00:00-06:00,0.1
-Steeper,Wind Direction,2025-09-11T11:00:00-06:00,195.0
-Steeper,Wind Speed,2025-09-11T11:00:00-06:00,4.7
-Steeper,Relative Humidity,2025-09-11T11:00:00-06:00,71.2
-Steeper,Outdoor Temperature,2025-09-11T11:00:00-06:00,11.5
-Steeper,,2025-09-11T11:00:00-06:00,2.0
-Steeper,Total Oxides of Nitrogen,2025-09-11T11:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-11T11:00:00-06:00,26.6
-Steeper,Nitric Oxide,2025-09-11T11:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-11T11:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-11T12:00:00-06:00,0.2
+Steeper,Nitrogen Dioxide,2025-09-11T12:00:00-06:00,0.001
+Steeper,Sulphur Dioxide,2025-09-11T12:00:00-06:00,0.0
+Steeper,Ozone,2025-09-11T12:00:00-06:00,0.026
+Steeper,Relative Humidity,2025-09-11T12:00:00-06:00,54.6
+Steeper,Outdoor Temperature,2025-09-11T12:00:00-06:00,16.4
 Steeper,Nitrogen Dioxide,2025-09-11T11:00:00-06:00,0.0
-Steeper,,2025-09-11T10:00:00-06:00,2.0
-Steeper,Carbon Monoxide,2025-09-11T10:00:00-06:00,0.1
-Steeper,Fine Particulate Matter,2025-09-11T10:00:00-06:00,28.1
-Steeper,Nitric Oxide,2025-09-11T10:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-11T10:00:00-06:00,196.0
+Steeper,Sulphur Dioxide,2025-09-11T11:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-11T11:00:00-06:00,26.6
+Steeper,Ozone,2025-09-11T11:00:00-06:00,0.018
+Steeper,Relative Humidity,2025-09-11T11:00:00-06:00,71.2
+Steeper,,2025-09-11T11:00:00-06:00,2.0
+Steeper,Carbon Monoxide,2025-09-11T11:00:00-06:00,0.1
+Steeper,Wind Speed,2025-09-11T11:00:00-06:00,4.7
+Steeper,Outdoor Temperature,2025-09-11T11:00:00-06:00,11.5
+Steeper,Wind Direction,2025-09-11T11:00:00-06:00,195.0
+Steeper,Nitric Oxide,2025-09-11T11:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-11T11:00:00-06:00,0.0
 Steeper,Sulphur Dioxide,2025-09-11T10:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-11T10:00:00-06:00,8.4
-Steeper,Relative Humidity,2025-09-11T10:00:00-06:00,77.1
 Steeper,Nitrogen Dioxide,2025-09-11T10:00:00-06:00,0.001
-Steeper,Wind Speed,2025-09-11T10:00:00-06:00,8.2
+Steeper,,2025-09-11T10:00:00-06:00,2.0
+Steeper,Relative Humidity,2025-09-11T10:00:00-06:00,77.1
 Steeper,Ozone,2025-09-11T10:00:00-06:00,0.018
+Steeper,Nitric Oxide,2025-09-11T10:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-11T10:00:00-06:00,0.1
+Steeper,Outdoor Temperature,2025-09-11T10:00:00-06:00,8.4
+Steeper,Fine Particulate Matter,2025-09-11T10:00:00-06:00,28.1
+Steeper,Wind Speed,2025-09-11T10:00:00-06:00,8.2
+Steeper,Wind Direction,2025-09-11T10:00:00-06:00,196.0
 Steeper,Total Oxides of Nitrogen,2025-09-11T10:00:00-06:00,0.0
-Steeper,Relative Humidity,2025-09-11T09:00:00-06:00,79.9
-Steeper,Wind Speed,2025-09-11T09:00:00-06:00,9.4
+Steeper,Sulphur Dioxide,2025-09-11T09:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-11T09:00:00-06:00,0.0
 Steeper,Carbon Monoxide,2025-09-11T09:00:00-06:00,0.1
+Steeper,Wind Speed,2025-09-11T09:00:00-06:00,9.4
+Steeper,Wind Direction,2025-09-11T09:00:00-06:00,194.0
+Steeper,Total Oxides of Nitrogen,2025-09-11T09:00:00-06:00,0.0
+Steeper,,2025-09-11T09:00:00-06:00,2.0
 Steeper,Fine Particulate Matter,2025-09-11T09:00:00-06:00,29.9
 Steeper,Outdoor Temperature,2025-09-11T09:00:00-06:00,7.3
-Steeper,Nitrogen Dioxide,2025-09-11T09:00:00-06:00,0.001
-Steeper,Total Oxides of Nitrogen,2025-09-11T09:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-11T09:00:00-06:00,0.0
-Steeper,,2025-09-11T09:00:00-06:00,2.0
-Steeper,Nitric Oxide,2025-09-11T09:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-11T09:00:00-06:00,194.0
 Steeper,Ozone,2025-09-11T09:00:00-06:00,0.017
-Steeper,Relative Humidity,2025-09-11T08:00:00-06:00,81.8
-Steeper,Carbon Monoxide,2025-09-11T08:00:00-06:00,0.1
+Steeper,Relative Humidity,2025-09-11T09:00:00-06:00,79.9
+Steeper,Nitrogen Dioxide,2025-09-11T09:00:00-06:00,0.001
+Steeper,Wind Direction,2025-09-11T08:00:00-06:00,201.0
 Steeper,Fine Particulate Matter,2025-09-11T08:00:00-06:00,27.8
+Steeper,Total Oxides of Nitrogen,2025-09-11T08:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-11T08:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-11T08:00:00-06:00,0.1
 Steeper,Outdoor Temperature,2025-09-11T08:00:00-06:00,6.9
 Steeper,,2025-09-11T08:00:00-06:00,2.0
 Steeper,Ozone,2025-09-11T08:00:00-06:00,0.017
-Steeper,Sulphur Dioxide,2025-09-11T08:00:00-06:00,0.0
 Steeper,Wind Speed,2025-09-11T08:00:00-06:00,11.5
-Steeper,Wind Direction,2025-09-11T08:00:00-06:00,201.0
 Steeper,Nitrogen Dioxide,2025-09-11T08:00:00-06:00,0.0
-Steeper,Total Oxides of Nitrogen,2025-09-11T08:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-11T08:00:00-06:00,81.8
 Steeper,Nitric Oxide,2025-09-11T08:00:00-06:00,0.0
-Steeper,,2025-09-11T07:00:00-06:00,2.0
-Steeper,Nitric Oxide,2025-09-11T07:00:00-06:00,0.0
-Steeper,Ozone,2025-09-11T07:00:00-06:00,0.018
+Steeper,Relative Humidity,2025-09-11T07:00:00-06:00,81.3
+Steeper,Wind Direction,2025-09-11T07:00:00-06:00,200.0
+Steeper,Total Oxides of Nitrogen,2025-09-11T07:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-11T07:00:00-06:00,0.0
 Steeper,Carbon Monoxide,2025-09-11T07:00:00-06:00,0.1
 Steeper,Fine Particulate Matter,2025-09-11T07:00:00-06:00,25.9
-Steeper,Total Oxides of Nitrogen,2025-09-11T07:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-11T07:00:00-06:00,11.9
-Steeper,Sulphur Dioxide,2025-09-11T07:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-11T07:00:00-06:00,200.0
-Steeper,Nitrogen Dioxide,2025-09-11T07:00:00-06:00,0.0
 Steeper,Outdoor Temperature,2025-09-11T07:00:00-06:00,7.3
-Steeper,Relative Humidity,2025-09-11T07:00:00-06:00,81.3
-Steeper,Ozone,2025-09-11T06:00:00-06:00,0.016
-Steeper,Sulphur Dioxide,2025-09-11T06:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-11T06:00:00-06:00,11.0
-Steeper,Total Oxides of Nitrogen,2025-09-11T06:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-11T06:00:00-06:00,0.1
-Steeper,Nitric Oxide,2025-09-11T06:00:00-06:00,0.0
-Steeper,,2025-09-11T06:00:00-06:00,2.0
-Steeper,Fine Particulate Matter,2025-09-11T06:00:00-06:00,22.3
-Steeper,Nitrogen Dioxide,2025-09-11T06:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-11T06:00:00-06:00,199.0
-Steeper,Outdoor Temperature,2025-09-11T06:00:00-06:00,7.1
+Steeper,Wind Speed,2025-09-11T07:00:00-06:00,11.9
+Steeper,Nitric Oxide,2025-09-11T07:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-11T07:00:00-06:00,0.0
+Steeper,,2025-09-11T07:00:00-06:00,2.0
+Steeper,Ozone,2025-09-11T07:00:00-06:00,0.018
 Steeper,Relative Humidity,2025-09-11T06:00:00-06:00,83.6
-Steeper,Wind Speed,2025-09-11T05:00:00-06:00,10.0
-Steeper,Wind Direction,2025-09-11T05:00:00-06:00,197.0
+Steeper,Nitric Oxide,2025-09-11T06:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-11T06:00:00-06:00,0.0
+Steeper,Ozone,2025-09-11T06:00:00-06:00,0.016
+Steeper,Wind Direction,2025-09-11T06:00:00-06:00,199.0
+Steeper,Nitrogen Dioxide,2025-09-11T06:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-11T06:00:00-06:00,11.0
+Steeper,,2025-09-11T06:00:00-06:00,2.0
+Steeper,Outdoor Temperature,2025-09-11T06:00:00-06:00,7.1
+Steeper,Fine Particulate Matter,2025-09-11T06:00:00-06:00,22.3
+Steeper,Carbon Monoxide,2025-09-11T06:00:00-06:00,0.1
+Steeper,Total Oxides of Nitrogen,2025-09-11T06:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-11T05:00:00-06:00,7.6
 Steeper,Nitrogen Dioxide,2025-09-11T05:00:00-06:00,
-Steeper,Ozone,2025-09-11T05:00:00-06:00,
+Steeper,Wind Speed,2025-09-11T05:00:00-06:00,10.0
+Steeper,Relative Humidity,2025-09-11T05:00:00-06:00,81.6
 Steeper,Total Oxides of Nitrogen,2025-09-11T05:00:00-06:00,
-Steeper,,2025-09-11T05:00:00-06:00,2.0
 Steeper,Fine Particulate Matter,2025-09-11T05:00:00-06:00,19.0
 Steeper,Sulphur Dioxide,2025-09-11T05:00:00-06:00,
+Steeper,,2025-09-11T05:00:00-06:00,2.0
 Steeper,Nitric Oxide,2025-09-11T05:00:00-06:00,
-Steeper,Relative Humidity,2025-09-11T05:00:00-06:00,81.6
-Steeper,Outdoor Temperature,2025-09-11T05:00:00-06:00,7.6
+Steeper,Ozone,2025-09-11T05:00:00-06:00,
 Steeper,Carbon Monoxide,2025-09-11T05:00:00-06:00,
-Steeper,Wind Speed,2025-09-11T04:00:00-06:00,10.7
-Steeper,Sulphur Dioxide,2025-09-11T04:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-11T04:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-11T04:00:00-06:00,16.0
-Steeper,Carbon Monoxide,2025-09-11T04:00:00-06:00,0.1
+Steeper,Wind Direction,2025-09-11T05:00:00-06:00,197.0
 Steeper,Ozone,2025-09-11T04:00:00-06:00,0.018
-Steeper,Nitrogen Dioxide,2025-09-11T04:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-11T04:00:00-06:00,16.0
+Steeper,Relative Humidity,2025-09-11T04:00:00-06:00,82.9
+Steeper,Carbon Monoxide,2025-09-11T04:00:00-06:00,0.1
+Steeper,Nitric Oxide,2025-09-11T04:00:00-06:00,0.0
 Steeper,Total Oxides of Nitrogen,2025-09-11T04:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-11T04:00:00-06:00,10.7
 Steeper,,2025-09-11T04:00:00-06:00,2.0
+Steeper,Nitrogen Dioxide,2025-09-11T04:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-11T04:00:00-06:00,198.0
 Steeper,Outdoor Temperature,2025-09-11T04:00:00-06:00,7.9
-Steeper,Relative Humidity,2025-09-11T04:00:00-06:00,82.9
+Steeper,Sulphur Dioxide,2025-09-11T04:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-11T03:00:00-06:00,14.7
+Steeper,Relative Humidity,2025-09-11T03:00:00-06:00,83.2
+Steeper,Nitrogen Dioxide,2025-09-11T03:00:00-06:00,0.001
 Steeper,Wind Direction,2025-09-11T03:00:00-06:00,204.0
 Steeper,,2025-09-11T03:00:00-06:00,2.0
-Steeper,Wind Speed,2025-09-11T03:00:00-06:00,11.3
-Steeper,Sulphur Dioxide,2025-09-11T03:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-11T03:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-11T03:00:00-06:00,0.1
 Steeper,Ozone,2025-09-11T03:00:00-06:00,0.017
 Steeper,Nitric Oxide,2025-09-11T03:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-11T03:00:00-06:00,0.1
-Steeper,Nitrogen Dioxide,2025-09-11T03:00:00-06:00,0.001
+Steeper,Wind Speed,2025-09-11T03:00:00-06:00,11.3
+Steeper,Sulphur Dioxide,2025-09-11T03:00:00-06:00,0.0
 Steeper,Outdoor Temperature,2025-09-11T03:00:00-06:00,8.1
-Steeper,Total Oxides of Nitrogen,2025-09-11T03:00:00-06:00,0.0
-Steeper,Relative Humidity,2025-09-11T03:00:00-06:00,83.2
-Steeper,Fine Particulate Matter,2025-09-11T03:00:00-06:00,14.7
-Steeper,Wind Direction,2025-09-11T02:00:00-06:00,203.0
-Steeper,Total Oxides of Nitrogen,2025-09-11T02:00:00-06:00,0.001
-Steeper,Carbon Monoxide,2025-09-11T02:00:00-06:00,0.0
-Steeper,Ozone,2025-09-11T02:00:00-06:00,0.014
-Steeper,Nitrogen Dioxide,2025-09-11T02:00:00-06:00,0.002
 Steeper,Relative Humidity,2025-09-11T02:00:00-06:00,86.3
-Steeper,Outdoor Temperature,2025-09-11T02:00:00-06:00,7.9
+Steeper,Total Oxides of Nitrogen,2025-09-11T02:00:00-06:00,0.001
 Steeper,Sulphur Dioxide,2025-09-11T02:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-11T02:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-11T02:00:00-06:00,7.6
-Steeper,Fine Particulate Matter,2025-09-11T02:00:00-06:00,14.0
+Steeper,Wind Direction,2025-09-11T02:00:00-06:00,203.0
 Steeper,,2025-09-11T02:00:00-06:00,2.0
-Steeper,Wind Direction,2025-09-11T01:00:00-06:00,204.0
-Steeper,Ozone,2025-09-11T01:00:00-06:00,0.014
-Steeper,Nitric Oxide,2025-09-11T01:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-11T01:00:00-06:00,0.002
-Steeper,Relative Humidity,2025-09-11T01:00:00-06:00,85.6
-Steeper,Fine Particulate Matter,2025-09-11T01:00:00-06:00,14.4
-Steeper,,2025-09-11T01:00:00-06:00,2.0
-Steeper,Carbon Monoxide,2025-09-11T01:00:00-06:00,0.1
+Steeper,Wind Speed,2025-09-11T02:00:00-06:00,7.6
+Steeper,Outdoor Temperature,2025-09-11T02:00:00-06:00,7.9
+Steeper,Carbon Monoxide,2025-09-11T02:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-11T02:00:00-06:00,14.0
+Steeper,Ozone,2025-09-11T02:00:00-06:00,0.014
+Steeper,Nitric Oxide,2025-09-11T02:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-11T02:00:00-06:00,0.002
 Steeper,Sulphur Dioxide,2025-09-11T01:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-11T01:00:00-06:00,8.4
+Steeper,Ozone,2025-09-11T01:00:00-06:00,0.014
 Steeper,Wind Speed,2025-09-11T01:00:00-06:00,7.8
+Steeper,Relative Humidity,2025-09-11T01:00:00-06:00,85.6
+Steeper,Nitric Oxide,2025-09-11T01:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-11T01:00:00-06:00,14.4
 Steeper,Total Oxides of Nitrogen,2025-09-11T01:00:00-06:00,0.001
-Steeper,Relative Humidity,2025-09-11T00:00:00-06:00,82.9
-Steeper,Wind Direction,2025-09-11T00:00:00-06:00,193.0
-Steeper,Wind Speed,2025-09-11T00:00:00-06:00,5.7
-Steeper,Nitric Oxide,2025-09-11T00:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-11T00:00:00-06:00,15.4
-Steeper,Ozone,2025-09-11T00:00:00-06:00,0.018
+Steeper,,2025-09-11T01:00:00-06:00,2.0
+Steeper,Outdoor Temperature,2025-09-11T01:00:00-06:00,8.4
+Steeper,Wind Direction,2025-09-11T01:00:00-06:00,204.0
+Steeper,Carbon Monoxide,2025-09-11T01:00:00-06:00,0.1
+Steeper,Nitrogen Dioxide,2025-09-11T01:00:00-06:00,0.002
 Steeper,Sulphur Dioxide,2025-09-11T00:00:00-06:00,0.0
 Steeper,Total Oxides of Nitrogen,2025-09-11T00:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-11T00:00:00-06:00,0.1
 Steeper,Outdoor Temperature,2025-09-11T00:00:00-06:00,9.4
-Steeper,Nitrogen Dioxide,2025-09-11T00:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-11T00:00:00-06:00,5.7
+Steeper,Fine Particulate Matter,2025-09-11T00:00:00-06:00,15.4
+Steeper,Nitric Oxide,2025-09-11T00:00:00-06:00,0.0
 Steeper,,2025-09-11T00:00:00-06:00,2.0
-Steeper,Relative Humidity,2025-09-10T23:00:00-06:00,77.2
-Steeper,Nitrogen Dioxide,2025-09-10T23:00:00-06:00,0.001
+Steeper,Carbon Monoxide,2025-09-11T00:00:00-06:00,0.1
+Steeper,Ozone,2025-09-11T00:00:00-06:00,0.018
+Steeper,Relative Humidity,2025-09-11T00:00:00-06:00,82.9
+Steeper,Nitrogen Dioxide,2025-09-11T00:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-11T00:00:00-06:00,193.0
 Steeper,Ozone,2025-09-10T23:00:00-06:00,0.023
-Steeper,Outdoor Temperature,2025-09-10T23:00:00-06:00,11.1
+Steeper,Nitrogen Dioxide,2025-09-10T23:00:00-06:00,0.001
 Steeper,Sulphur Dioxide,2025-09-10T23:00:00-06:00,0.0
-Steeper,,2025-09-10T23:00:00-06:00,2.0
-Steeper,Nitric Oxide,2025-09-10T23:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-10T23:00:00-06:00,11.1
 Steeper,Fine Particulate Matter,2025-09-10T23:00:00-06:00,16.6
-Steeper,Wind Speed,2025-09-10T23:00:00-06:00,4.6
+Steeper,Nitric Oxide,2025-09-10T23:00:00-06:00,0.0
+Steeper,,2025-09-10T23:00:00-06:00,2.0
 Steeper,Wind Direction,2025-09-10T23:00:00-06:00,188.0
 Steeper,Carbon Monoxide,2025-09-10T23:00:00-06:00,0.1
+Steeper,Relative Humidity,2025-09-10T23:00:00-06:00,77.2
+Steeper,Wind Speed,2025-09-10T23:00:00-06:00,4.6
 Steeper,Total Oxides of Nitrogen,2025-09-10T23:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-10T22:00:00-06:00,0.0
-Steeper,,2025-09-10T22:00:00-06:00,3.0
-Steeper,Wind Speed,2025-09-10T22:00:00-06:00,3.0
-Steeper,Wind Direction,2025-09-10T22:00:00-06:00,91.0
-Steeper,Nitric Oxide,2025-09-10T22:00:00-06:00,0.0
 Steeper,Nitrogen Dioxide,2025-09-10T22:00:00-06:00,0.001
-Steeper,Fine Particulate Matter,2025-09-10T22:00:00-06:00,18.9
 Steeper,Outdoor Temperature,2025-09-10T22:00:00-06:00,13.2
 Steeper,Ozone,2025-09-10T22:00:00-06:00,0.031
-Steeper,Relative Humidity,2025-09-10T22:00:00-06:00,68.9
-Steeper,Carbon Monoxide,2025-09-10T22:00:00-06:00,0.1
 Steeper,Total Oxides of Nitrogen,2025-09-10T22:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-10T22:00:00-06:00,3.0
+Steeper,Carbon Monoxide,2025-09-10T22:00:00-06:00,0.1
+Steeper,,2025-09-10T22:00:00-06:00,3.0
+Steeper,Sulphur Dioxide,2025-09-10T22:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-10T22:00:00-06:00,91.0
+Steeper,Nitric Oxide,2025-09-10T22:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-10T22:00:00-06:00,18.9
+Steeper,Relative Humidity,2025-09-10T22:00:00-06:00,68.9
+Steeper,Carbon Monoxide,2025-09-10T21:00:00-06:00,0.1
+Steeper,Outdoor Temperature,2025-09-10T21:00:00-06:00,14.1
+Steeper,Ozone,2025-09-10T21:00:00-06:00,0.032
 Steeper,Sulphur Dioxide,2025-09-10T21:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-10T21:00:00-06:00,0.0
 Steeper,Relative Humidity,2025-09-10T21:00:00-06:00,65.4
 Steeper,Nitric Oxide,2025-09-10T21:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-10T21:00:00-06:00,14.1
-Steeper,Wind Speed,2025-09-10T21:00:00-06:00,2.5
-Steeper,Carbon Monoxide,2025-09-10T21:00:00-06:00,0.1
-Steeper,Ozone,2025-09-10T21:00:00-06:00,0.032
-Steeper,Nitrogen Dioxide,2025-09-10T21:00:00-06:00,0.001
 Steeper,Wind Direction,2025-09-10T21:00:00-06:00,70.0
-Steeper,,2025-09-10T21:00:00-06:00,2.0
-Steeper,Total Oxides of Nitrogen,2025-09-10T21:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-10T21:00:00-06:00,0.001
 Steeper,Fine Particulate Matter,2025-09-10T21:00:00-06:00,17.6
+Steeper,,2025-09-10T21:00:00-06:00,2.0
+Steeper,Wind Speed,2025-09-10T21:00:00-06:00,2.5
+Steeper,Carbon Monoxide,2025-09-10T20:00:00-06:00,0.1
 Steeper,Outdoor Temperature,2025-09-10T20:00:00-06:00,15.3
-Steeper,Nitrogen Dioxide,2025-09-10T20:00:00-06:00,0.001
 Steeper,Sulphur Dioxide,2025-09-10T20:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-10T20:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-10T20:00:00-06:00,68.0
+Steeper,,2025-09-10T20:00:00-06:00,2.0
+Steeper,Wind Speed,2025-09-10T20:00:00-06:00,1.6
+Steeper,Nitrogen Dioxide,2025-09-10T20:00:00-06:00,0.001
+Steeper,Total Oxides of Nitrogen,2025-09-10T20:00:00-06:00,0.0
 Steeper,Relative Humidity,2025-09-10T20:00:00-06:00,61.2
 Steeper,Ozone,2025-09-10T20:00:00-06:00,0.03
-Steeper,Total Oxides of Nitrogen,2025-09-10T20:00:00-06:00,0.0
-Steeper,,2025-09-10T20:00:00-06:00,2.0
-Steeper,Wind Direction,2025-09-10T20:00:00-06:00,68.0
-Steeper,Wind Speed,2025-09-10T20:00:00-06:00,1.6
-Steeper,Nitric Oxide,2025-09-10T20:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-10T20:00:00-06:00,0.1
 Steeper,Fine Particulate Matter,2025-09-10T20:00:00-06:00,16.4
-Steeper,Outdoor Temperature,2025-09-10T19:00:00-06:00,16.4
-Steeper,Nitrogen Dioxide,2025-09-10T19:00:00-06:00,0.001
-Steeper,Relative Humidity,2025-09-10T19:00:00-06:00,62.3
-Steeper,Sulphur Dioxide,2025-09-10T19:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-10T19:00:00-06:00,45.0
-Steeper,Total Oxides of Nitrogen,2025-09-10T19:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-10T19:00:00-06:00,0.4
+Steeper,Nitrogen Dioxide,2025-09-10T19:00:00-06:00,0.001
+Steeper,Outdoor Temperature,2025-09-10T19:00:00-06:00,16.4
+Steeper,Relative Humidity,2025-09-10T19:00:00-06:00,62.3
 Steeper,Carbon Monoxide,2025-09-10T19:00:00-06:00,0.1
-Steeper,,2025-09-10T19:00:00-06:00,2.0
+Steeper,Sulphur Dioxide,2025-09-10T19:00:00-06:00,0.0
 Steeper,Ozone,2025-09-10T19:00:00-06:00,0.028
-Steeper,Nitric Oxide,2025-09-10T19:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-10T19:00:00-06:00,0.4
+Steeper,Total Oxides of Nitrogen,2025-09-10T19:00:00-06:00,0.0
+Steeper,,2025-09-10T19:00:00-06:00,2.0
 Steeper,Fine Particulate Matter,2025-09-10T19:00:00-06:00,17.1
-Steeper,Outdoor Temperature,2025-09-10T18:00:00-06:00,16.9
-Steeper,Nitrogen Dioxide,2025-09-10T18:00:00-06:00,0.001
+Steeper,Nitric Oxide,2025-09-10T19:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-10T18:00:00-06:00,40.0
+Steeper,Nitrogen Dioxide,2025-09-10T18:00:00-06:00,0.001
+Steeper,Sulphur Dioxide,2025-09-10T18:00:00-06:00,0.001
+Steeper,Outdoor Temperature,2025-09-10T18:00:00-06:00,16.9
+Steeper,Wind Speed,2025-09-10T18:00:00-06:00,0.3
 Steeper,Ozone,2025-09-10T18:00:00-06:00,0.028
 Steeper,Carbon Monoxide,2025-09-10T18:00:00-06:00,0.1
-Steeper,Nitric Oxide,2025-09-10T18:00:00-06:00,0.0
 Steeper,Total Oxides of Nitrogen,2025-09-10T18:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-10T18:00:00-06:00,17.2
 Steeper,,2025-09-10T18:00:00-06:00,2.0
-Steeper,Sulphur Dioxide,2025-09-10T18:00:00-06:00,0.001
+Steeper,Fine Particulate Matter,2025-09-10T18:00:00-06:00,17.2
 Steeper,Relative Humidity,2025-09-10T18:00:00-06:00,60.5
-Steeper,Wind Speed,2025-09-10T18:00:00-06:00,0.3
+Steeper,Nitric Oxide,2025-09-10T18:00:00-06:00,0.0
 Steeper,Sulphur Dioxide,2025-09-10T17:00:00-06:00,0.001
-Steeper,Carbon Monoxide,2025-09-10T17:00:00-06:00,0.1
-Steeper,Total Oxides of Nitrogen,2025-09-10T17:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-10T17:00:00-06:00,0.0
-Steeper,,2025-09-10T17:00:00-06:00,3.0
 Steeper,Nitrogen Dioxide,2025-09-10T17:00:00-06:00,0.001
-Steeper,Wind Direction,2025-09-10T17:00:00-06:00,39.0
-Steeper,Wind Speed,2025-09-10T17:00:00-06:00,3.2
-Steeper,Relative Humidity,2025-09-10T17:00:00-06:00,54.5
 Steeper,Outdoor Temperature,2025-09-10T17:00:00-06:00,17.9
 Steeper,Ozone,2025-09-10T17:00:00-06:00,0.031
+Steeper,Total Oxides of Nitrogen,2025-09-10T17:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-10T17:00:00-06:00,0.1
+Steeper,Relative Humidity,2025-09-10T17:00:00-06:00,54.5
+Steeper,Wind Speed,2025-09-10T17:00:00-06:00,3.2
+Steeper,Nitric Oxide,2025-09-10T17:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-10T17:00:00-06:00,39.0
 Steeper,Fine Particulate Matter,2025-09-10T17:00:00-06:00,16.9
-Steeper,Ozone,2025-09-10T16:00:00-06:00,0.033
-Steeper,Outdoor Temperature,2025-09-10T16:00:00-06:00,18.3
+Steeper,,2025-09-10T17:00:00-06:00,3.0
+Steeper,Nitric Oxide,2025-09-10T16:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-10T16:00:00-06:00,0.001
 Steeper,Carbon Monoxide,2025-09-10T16:00:00-06:00,0.1
 Steeper,Wind Speed,2025-09-10T16:00:00-06:00,4.4
-Steeper,,2025-09-10T16:00:00-06:00,3.0
-Steeper,Wind Direction,2025-09-10T16:00:00-06:00,30.0
 Steeper,Nitrogen Dioxide,2025-09-10T16:00:00-06:00,0.001
-Steeper,Nitric Oxide,2025-09-10T16:00:00-06:00,0.0
 Steeper,Relative Humidity,2025-09-10T16:00:00-06:00,50.4
-Steeper,Total Oxides of Nitrogen,2025-09-10T16:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-10T16:00:00-06:00,0.001
+Steeper,Outdoor Temperature,2025-09-10T16:00:00-06:00,18.3
 Steeper,Fine Particulate Matter,2025-09-10T16:00:00-06:00,15.3
-Steeper,Wind Speed,2025-09-10T15:00:00-06:00,1.8
-Steeper,Outdoor Temperature,2025-09-10T15:00:00-06:00,18.7
-Steeper,Carbon Monoxide,2025-09-10T15:00:00-06:00,0.1
-Steeper,Total Oxides of Nitrogen,2025-09-10T15:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-10T15:00:00-06:00,0.001
-Steeper,Nitric Oxide,2025-09-10T15:00:00-06:00,0.0
-Steeper,Ozone,2025-09-10T15:00:00-06:00,0.034
-Steeper,,2025-09-10T15:00:00-06:00,3.0
+Steeper,,2025-09-10T16:00:00-06:00,3.0
+Steeper,Ozone,2025-09-10T16:00:00-06:00,0.033
+Steeper,Wind Direction,2025-09-10T16:00:00-06:00,30.0
+Steeper,Total Oxides of Nitrogen,2025-09-10T16:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-10T15:00:00-06:00,34.0
+Steeper,,2025-09-10T15:00:00-06:00,3.0
 Steeper,Sulphur Dioxide,2025-09-10T15:00:00-06:00,0.001
+Steeper,Ozone,2025-09-10T15:00:00-06:00,0.034
+Steeper,Nitrogen Dioxide,2025-09-10T15:00:00-06:00,0.001
+Steeper,Outdoor Temperature,2025-09-10T15:00:00-06:00,18.7
+Steeper,Total Oxides of Nitrogen,2025-09-10T15:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-10T15:00:00-06:00,0.0
 Steeper,Relative Humidity,2025-09-10T15:00:00-06:00,48.1
+Steeper,Carbon Monoxide,2025-09-10T15:00:00-06:00,0.1
+Steeper,Wind Speed,2025-09-10T15:00:00-06:00,1.8
 Steeper,Fine Particulate Matter,2025-09-10T15:00:00-06:00,15.9
-Steeper,Outdoor Temperature,2025-09-10T14:00:00-06:00,18.2
-Steeper,Nitrogen Dioxide,2025-09-10T14:00:00-06:00,0.001
-Steeper,Sulphur Dioxide,2025-09-10T14:00:00-06:00,0.001
-Steeper,,2025-09-10T14:00:00-06:00,3.0
 Steeper,Total Oxides of Nitrogen,2025-09-10T14:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-10T14:00:00-06:00,18.0
-Steeper,Carbon Monoxide,2025-09-10T14:00:00-06:00,0.1
-Steeper,Wind Direction,2025-09-10T14:00:00-06:00,20.0
-Steeper,Relative Humidity,2025-09-10T14:00:00-06:00,51.7
-Steeper,Ozone,2025-09-10T14:00:00-06:00,0.033
-Steeper,Wind Speed,2025-09-10T14:00:00-06:00,1.1
 Steeper,Nitric Oxide,2025-09-10T14:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-10T13:00:00-06:00,1.5
-Steeper,Fine Particulate Matter,2025-09-10T13:00:00-06:00,21.4
-Steeper,Relative Humidity,2025-09-10T13:00:00-06:00,57.2
-Steeper,Ozone,2025-09-10T13:00:00-06:00,0.033
+Steeper,Relative Humidity,2025-09-10T14:00:00-06:00,51.7
+Steeper,Sulphur Dioxide,2025-09-10T14:00:00-06:00,0.001
+Steeper,Fine Particulate Matter,2025-09-10T14:00:00-06:00,18.0
+Steeper,Ozone,2025-09-10T14:00:00-06:00,0.033
+Steeper,Carbon Monoxide,2025-09-10T14:00:00-06:00,0.1
+Steeper,,2025-09-10T14:00:00-06:00,3.0
+Steeper,Wind Direction,2025-09-10T14:00:00-06:00,20.0
+Steeper,Nitrogen Dioxide,2025-09-10T14:00:00-06:00,0.001
+Steeper,Wind Speed,2025-09-10T14:00:00-06:00,1.1
+Steeper,Outdoor Temperature,2025-09-10T14:00:00-06:00,18.2
 Steeper,,2025-09-10T13:00:00-06:00,2.0
-Steeper,Sulphur Dioxide,2025-09-10T13:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-10T13:00:00-06:00,17.0
-Steeper,Nitrogen Dioxide,2025-09-10T13:00:00-06:00,0.001
-Steeper,Total Oxides of Nitrogen,2025-09-10T13:00:00-06:00,0.0
 Steeper,Carbon Monoxide,2025-09-10T13:00:00-06:00,0.1
 Steeper,Wind Direction,2025-09-10T13:00:00-06:00,30.0
+Steeper,Relative Humidity,2025-09-10T13:00:00-06:00,57.2
 Steeper,Nitric Oxide,2025-09-10T13:00:00-06:00,0.0
-Steeper,Total Oxides of Nitrogen,2025-09-10T12:00:00-06:00,0.0
-Steeper,,2025-09-10T12:00:00-06:00,2.0
-Steeper,Fine Particulate Matter,2025-09-10T12:00:00-06:00,21.3
-Steeper,Outdoor Temperature,2025-09-10T12:00:00-06:00,15.6
-Steeper,Relative Humidity,2025-09-10T12:00:00-06:00,61.3
+Steeper,Total Oxides of Nitrogen,2025-09-10T13:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-10T13:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-10T13:00:00-06:00,21.4
+Steeper,Ozone,2025-09-10T13:00:00-06:00,0.033
+Steeper,Wind Speed,2025-09-10T13:00:00-06:00,1.5
+Steeper,Nitrogen Dioxide,2025-09-10T13:00:00-06:00,0.001
+Steeper,Outdoor Temperature,2025-09-10T13:00:00-06:00,17.0
 Steeper,Nitric Oxide,2025-09-10T12:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-10T12:00:00-06:00,0.1
+Steeper,Outdoor Temperature,2025-09-10T12:00:00-06:00,15.6
 Steeper,Nitrogen Dioxide,2025-09-10T12:00:00-06:00,0.001
+Steeper,,2025-09-10T12:00:00-06:00,2.0
 Steeper,Sulphur Dioxide,2025-09-10T12:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-10T12:00:00-06:00,30.0
-Steeper,Ozone,2025-09-10T12:00:00-06:00,0.033
 Steeper,Wind Speed,2025-09-10T12:00:00-06:00,2.4
+Steeper,Carbon Monoxide,2025-09-10T12:00:00-06:00,0.1
+Steeper,Wind Direction,2025-09-10T12:00:00-06:00,30.0
+Steeper,Fine Particulate Matter,2025-09-10T12:00:00-06:00,21.3
+Steeper,Total Oxides of Nitrogen,2025-09-10T12:00:00-06:00,0.0
+Steeper,Ozone,2025-09-10T12:00:00-06:00,0.033
+Steeper,Relative Humidity,2025-09-10T12:00:00-06:00,61.3
+Steeper,Nitrogen Dioxide,2025-09-10T11:00:00-06:00,0.001
+Steeper,Ozone,2025-09-10T11:00:00-06:00,0.023
+Steeper,Sulphur Dioxide,2025-09-10T11:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-10T11:00:00-06:00,0.1
+Steeper,Fine Particulate Matter,2025-09-10T11:00:00-06:00,12.7
+Steeper,Outdoor Temperature,2025-09-10T11:00:00-06:00,13.6
+Steeper,Relative Humidity,2025-09-10T11:00:00-06:00,65.7
 Steeper,Carbon Monoxide,2025-09-10T11:00:00-06:00,0.0
 Steeper,Nitric Oxide,2025-09-10T11:00:00-06:00,0.0
-Steeper,Ozone,2025-09-10T11:00:00-06:00,0.023
-Steeper,Fine Particulate Matter,2025-09-10T11:00:00-06:00,12.7
-Steeper,Relative Humidity,2025-09-10T11:00:00-06:00,65.7
-Steeper,Outdoor Temperature,2025-09-10T11:00:00-06:00,13.6
 Steeper,,2025-09-10T11:00:00-06:00,2.0
-Steeper,Sulphur Dioxide,2025-09-10T11:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-10T11:00:00-06:00,0.001
-Steeper,Wind Speed,2025-09-10T11:00:00-06:00,0.1
 Steeper,Wind Direction,2025-09-10T11:00:00-06:00,225.0
 Steeper,Total Oxides of Nitrogen,2025-09-10T11:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-10T10:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-10T10:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-10T10:00:00-06:00,3.8
-Steeper,Total Oxides of Nitrogen,2025-09-10T10:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-10T10:00:00-06:00,188.0
-Steeper,Outdoor Temperature,2025-09-10T10:00:00-06:00,9.2
-Steeper,Nitric Oxide,2025-09-10T10:00:00-06:00,0.0
-Steeper,Ozone,2025-09-10T10:00:00-06:00,0.019
-Steeper,Relative Humidity,2025-09-10T10:00:00-06:00,78.1
 Steeper,,2025-09-10T10:00:00-06:00,2.0
-Steeper,Sulphur Dioxide,2025-09-10T10:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-10T10:00:00-06:00,3.8
+Steeper,Carbon Monoxide,2025-09-10T10:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-10T10:00:00-06:00,9.2
 Steeper,Fine Particulate Matter,2025-09-10T10:00:00-06:00,10.5
-Steeper,Outdoor Temperature,2025-09-10T09:00:00-06:00,8.0
-Steeper,Nitric Oxide,2025-09-10T09:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-10T10:00:00-06:00,78.1
+Steeper,Nitric Oxide,2025-09-10T10:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-10T10:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-10T10:00:00-06:00,188.0
+Steeper,Total Oxides of Nitrogen,2025-09-10T10:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-10T10:00:00-06:00,0.0
+Steeper,Ozone,2025-09-10T10:00:00-06:00,0.019
 Steeper,Ozone,2025-09-10T09:00:00-06:00,0.02
 Steeper,Carbon Monoxide,2025-09-10T09:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-10T09:00:00-06:00,7.6
-Steeper,Relative Humidity,2025-09-10T09:00:00-06:00,79.9
-Steeper,Total Oxides of Nitrogen,2025-09-10T09:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-10T09:00:00-06:00,195.0
-Steeper,Nitrogen Dioxide,2025-09-10T09:00:00-06:00,0.0
-Steeper,,2025-09-10T09:00:00-06:00,2.0
+Steeper,Outdoor Temperature,2025-09-10T09:00:00-06:00,8.0
 Steeper,Fine Particulate Matter,2025-09-10T09:00:00-06:00,10.4
+Steeper,,2025-09-10T09:00:00-06:00,2.0
+Steeper,Total Oxides of Nitrogen,2025-09-10T09:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-10T09:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-10T09:00:00-06:00,7.6
+Steeper,Wind Direction,2025-09-10T09:00:00-06:00,195.0
 Steeper,Sulphur Dioxide,2025-09-10T09:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-10T08:00:00-06:00,0.0
-Steeper,Total Oxides of Nitrogen,2025-09-10T08:00:00-06:00,0.0
-Steeper,Relative Humidity,2025-09-10T08:00:00-06:00,80.1
-Steeper,Wind Speed,2025-09-10T08:00:00-06:00,9.2
-Steeper,Nitrogen Dioxide,2025-09-10T08:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-10T08:00:00-06:00,10.5
+Steeper,Nitrogen Dioxide,2025-09-10T09:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-10T09:00:00-06:00,79.9
 Steeper,,2025-09-10T08:00:00-06:00,2.0
-Steeper,Sulphur Dioxide,2025-09-10T08:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-10T08:00:00-06:00,198.0
-Steeper,Carbon Monoxide,2025-09-10T08:00:00-06:00,0.0
 Steeper,Ozone,2025-09-10T08:00:00-06:00,0.02
+Steeper,Carbon Monoxide,2025-09-10T08:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-10T08:00:00-06:00,10.5
+Steeper,Nitric Oxide,2025-09-10T08:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-10T08:00:00-06:00,198.0
+Steeper,Relative Humidity,2025-09-10T08:00:00-06:00,80.1
+Steeper,Nitrogen Dioxide,2025-09-10T08:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-10T08:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-10T08:00:00-06:00,9.2
+Steeper,Total Oxides of Nitrogen,2025-09-10T08:00:00-06:00,0.0
 Steeper,Outdoor Temperature,2025-09-10T08:00:00-06:00,7.8
-Steeper,Wind Speed,2025-09-10T07:00:00-06:00,9.2
 Steeper,Sulphur Dioxide,2025-09-10T07:00:00-06:00,0.0
 Steeper,,2025-09-10T07:00:00-06:00,2.0
-Steeper,Wind Direction,2025-09-10T07:00:00-06:00,195.0
-Steeper,Carbon Monoxide,2025-09-10T07:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-10T07:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-10T07:00:00-06:00,11.5
-Steeper,Relative Humidity,2025-09-10T07:00:00-06:00,81.6
-Steeper,Total Oxides of Nitrogen,2025-09-10T07:00:00-06:00,0.0
 Steeper,Ozone,2025-09-10T07:00:00-06:00,0.019
+Steeper,Nitrogen Dioxide,2025-09-10T07:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-10T07:00:00-06:00,195.0
+Steeper,Relative Humidity,2025-09-10T07:00:00-06:00,81.6
+Steeper,Wind Speed,2025-09-10T07:00:00-06:00,9.2
+Steeper,Carbon Monoxide,2025-09-10T07:00:00-06:00,0.0
 Steeper,Nitric Oxide,2025-09-10T07:00:00-06:00,0.0
 Steeper,Outdoor Temperature,2025-09-10T07:00:00-06:00,7.5
-Steeper,Total Oxides of Nitrogen,2025-09-10T06:00:00-06:00,0.001
-Steeper,,2025-09-10T06:00:00-06:00,2.0
-Steeper,Fine Particulate Matter,2025-09-10T06:00:00-06:00,13.3
-Steeper,Relative Humidity,2025-09-10T06:00:00-06:00,82.5
-Steeper,Ozone,2025-09-10T06:00:00-06:00,0.021
-Steeper,Nitric Oxide,2025-09-10T06:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-10T07:00:00-06:00,11.5
+Steeper,Total Oxides of Nitrogen,2025-09-10T07:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-10T06:00:00-06:00,199.0
-Steeper,Outdoor Temperature,2025-09-10T06:00:00-06:00,7.6
+Steeper,Ozone,2025-09-10T06:00:00-06:00,0.021
 Steeper,Carbon Monoxide,2025-09-10T06:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-10T06:00:00-06:00,0.001
+Steeper,Relative Humidity,2025-09-10T06:00:00-06:00,82.5
+Steeper,Fine Particulate Matter,2025-09-10T06:00:00-06:00,13.3
+Steeper,Outdoor Temperature,2025-09-10T06:00:00-06:00,7.6
 Steeper,Nitrogen Dioxide,2025-09-10T06:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-10T06:00:00-06:00,0.0
 Steeper,Wind Speed,2025-09-10T06:00:00-06:00,10.1
+Steeper,,2025-09-10T06:00:00-06:00,2.0
 Steeper,Sulphur Dioxide,2025-09-10T06:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-10T05:00:00-06:00,
-Steeper,Ozone,2025-09-10T05:00:00-06:00,
-Steeper,Outdoor Temperature,2025-09-10T05:00:00-06:00,7.5
-Steeper,Total Oxides of Nitrogen,2025-09-10T05:00:00-06:00,
-Steeper,Carbon Monoxide,2025-09-10T05:00:00-06:00,
-Steeper,Wind Direction,2025-09-10T05:00:00-06:00,197.0
-Steeper,Fine Particulate Matter,2025-09-10T05:00:00-06:00,14.6
 Steeper,Nitrogen Dioxide,2025-09-10T05:00:00-06:00,
-Steeper,Sulphur Dioxide,2025-09-10T05:00:00-06:00,
-Steeper,,2025-09-10T05:00:00-06:00,2.0
-Steeper,Wind Speed,2025-09-10T05:00:00-06:00,9.2
 Steeper,Relative Humidity,2025-09-10T05:00:00-06:00,83.5
+Steeper,Total Oxides of Nitrogen,2025-09-10T05:00:00-06:00,
+Steeper,Wind Speed,2025-09-10T05:00:00-06:00,9.2
+Steeper,Fine Particulate Matter,2025-09-10T05:00:00-06:00,14.6
+Steeper,Outdoor Temperature,2025-09-10T05:00:00-06:00,7.5
+Steeper,Ozone,2025-09-10T05:00:00-06:00,
+Steeper,Sulphur Dioxide,2025-09-10T05:00:00-06:00,
+Steeper,Carbon Monoxide,2025-09-10T05:00:00-06:00,
+Steeper,,2025-09-10T05:00:00-06:00,2.0
+Steeper,Wind Direction,2025-09-10T05:00:00-06:00,197.0
+Steeper,Nitric Oxide,2025-09-10T05:00:00-06:00,
 Steeper,Wind Speed,2025-09-10T04:00:00-06:00,9.6
+Steeper,Wind Direction,2025-09-10T04:00:00-06:00,200.0
 Steeper,,2025-09-10T04:00:00-06:00,2.0
+Steeper,Carbon Monoxide,2025-09-10T04:00:00-06:00,0.1
+Steeper,Ozone,2025-09-10T04:00:00-06:00,0.02
+Steeper,Nitrogen Dioxide,2025-09-10T04:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-10T04:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-10T04:00:00-06:00,84.3
+Steeper,Total Oxides of Nitrogen,2025-09-10T04:00:00-06:00,0.0
 Steeper,Sulphur Dioxide,2025-09-10T04:00:00-06:00,0.0
 Steeper,Fine Particulate Matter,2025-09-10T04:00:00-06:00,15.1
-Steeper,Carbon Monoxide,2025-09-10T04:00:00-06:00,0.1
-Steeper,Nitrogen Dioxide,2025-09-10T04:00:00-06:00,0.0
-Steeper,Total Oxides of Nitrogen,2025-09-10T04:00:00-06:00,0.0
 Steeper,Outdoor Temperature,2025-09-10T04:00:00-06:00,8.2
-Steeper,Ozone,2025-09-10T04:00:00-06:00,0.02
-Steeper,Wind Direction,2025-09-10T04:00:00-06:00,200.0
-Steeper,Relative Humidity,2025-09-10T04:00:00-06:00,84.3
-Steeper,Nitric Oxide,2025-09-10T04:00:00-06:00,0.0
-Steeper,,2025-09-10T03:00:00-06:00,2.0
-Steeper,Relative Humidity,2025-09-10T03:00:00-06:00,85.0
-Steeper,Total Oxides of Nitrogen,2025-09-10T03:00:00-06:00,0.0
 Steeper,Wind Speed,2025-09-10T03:00:00-06:00,8.4
+Steeper,Total Oxides of Nitrogen,2025-09-10T03:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-10T03:00:00-06:00,0.1
+Steeper,Nitric Oxide,2025-09-10T03:00:00-06:00,0.0
+Steeper,,2025-09-10T03:00:00-06:00,2.0
+Steeper,Wind Direction,2025-09-10T03:00:00-06:00,198.0
+Steeper,Ozone,2025-09-10T03:00:00-06:00,0.018
 Steeper,Nitrogen Dioxide,2025-09-10T03:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-10T03:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-10T03:00:00-06:00,85.0
 Steeper,Outdoor Temperature,2025-09-10T03:00:00-06:00,8.8
 Steeper,Fine Particulate Matter,2025-09-10T03:00:00-06:00,15.5
-Steeper,Ozone,2025-09-10T03:00:00-06:00,0.018
-Steeper,Carbon Monoxide,2025-09-10T03:00:00-06:00,0.1
-Steeper,Wind Direction,2025-09-10T03:00:00-06:00,198.0
-Steeper,Sulphur Dioxide,2025-09-10T03:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-10T03:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-10T02:00:00-06:00,7.7
-Steeper,Nitrogen Dioxide,2025-09-10T02:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-10T02:00:00-06:00,195.0
-Steeper,Sulphur Dioxide,2025-09-10T02:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-10T02:00:00-06:00,0.0
 Steeper,Carbon Monoxide,2025-09-10T02:00:00-06:00,0.1
-Steeper,Relative Humidity,2025-09-10T02:00:00-06:00,83.3
-Steeper,Fine Particulate Matter,2025-09-10T02:00:00-06:00,16.6
-Steeper,Total Oxides of Nitrogen,2025-09-10T02:00:00-06:00,0.0
+Steeper,Ozone,2025-09-10T02:00:00-06:00,0.019
 Steeper,,2025-09-10T02:00:00-06:00,2.0
 Steeper,Outdoor Temperature,2025-09-10T02:00:00-06:00,9.9
-Steeper,Ozone,2025-09-10T02:00:00-06:00,0.019
-Steeper,Nitric Oxide,2025-09-10T02:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-10T02:00:00-06:00,195.0
+Steeper,Sulphur Dioxide,2025-09-10T02:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-10T02:00:00-06:00,16.6
+Steeper,Wind Speed,2025-09-10T02:00:00-06:00,7.7
+Steeper,Total Oxides of Nitrogen,2025-09-10T02:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-10T02:00:00-06:00,83.3
+Steeper,Nitrogen Dioxide,2025-09-10T02:00:00-06:00,0.0
 Steeper,Relative Humidity,2025-09-10T01:00:00-06:00,82.5
-Steeper,,2025-09-10T01:00:00-06:00,2.0
-Steeper,Fine Particulate Matter,2025-09-10T01:00:00-06:00,18.0
 Steeper,Sulphur Dioxide,2025-09-10T01:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-10T01:00:00-06:00,0.1
+Steeper,Fine Particulate Matter,2025-09-10T01:00:00-06:00,18.0
 Steeper,Outdoor Temperature,2025-09-10T01:00:00-06:00,10.7
-Steeper,Total Oxides of Nitrogen,2025-09-10T01:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-10T01:00:00-06:00,4.6
-Steeper,Ozone,2025-09-10T01:00:00-06:00,0.024
-Steeper,Wind Direction,2025-09-10T01:00:00-06:00,197.0
-Steeper,Nitric Oxide,2025-09-10T01:00:00-06:00,0.0
+Steeper,,2025-09-10T01:00:00-06:00,2.0
 Steeper,Nitrogen Dioxide,2025-09-10T01:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-10T00:00:00-06:00,197.0
-Steeper,Fine Particulate Matter,2025-09-10T00:00:00-06:00,18.2
-Steeper,Total Oxides of Nitrogen,2025-09-10T00:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-10T01:00:00-06:00,0.0
+Steeper,Ozone,2025-09-10T01:00:00-06:00,0.024
+Steeper,Carbon Monoxide,2025-09-10T01:00:00-06:00,0.1
+Steeper,Wind Speed,2025-09-10T01:00:00-06:00,4.6
+Steeper,Nitric Oxide,2025-09-10T01:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-10T01:00:00-06:00,197.0
 Steeper,Nitric Oxide,2025-09-10T00:00:00-06:00,0.0
 Steeper,Sulphur Dioxide,2025-09-10T00:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-10T00:00:00-06:00,0.1
 Steeper,Outdoor Temperature,2025-09-10T00:00:00-06:00,11.4
+Steeper,Total Oxides of Nitrogen,2025-09-10T00:00:00-06:00,0.0
 Steeper,Nitrogen Dioxide,2025-09-10T00:00:00-06:00,0.0
 Steeper,,2025-09-10T00:00:00-06:00,3.0
-Steeper,Ozone,2025-09-10T00:00:00-06:00,0.027
-Steeper,Carbon Monoxide,2025-09-10T00:00:00-06:00,0.1
-Steeper,Wind Speed,2025-09-10T00:00:00-06:00,5.2
+Steeper,Wind Direction,2025-09-10T00:00:00-06:00,197.0
 Steeper,Relative Humidity,2025-09-10T00:00:00-06:00,81.6
-Steeper,,2025-09-09T23:00:00-06:00,3.0
-Steeper,Wind Speed,2025-09-09T23:00:00-06:00,3.7
-Steeper,Wind Direction,2025-09-09T23:00:00-06:00,180.0
-Steeper,Outdoor Temperature,2025-09-09T23:00:00-06:00,12.6
-Steeper,Relative Humidity,2025-09-09T23:00:00-06:00,76.6
-Steeper,Fine Particulate Matter,2025-09-09T23:00:00-06:00,20.6
-Steeper,Nitrogen Dioxide,2025-09-09T23:00:00-06:00,0.001
+Steeper,Ozone,2025-09-10T00:00:00-06:00,0.027
+Steeper,Fine Particulate Matter,2025-09-10T00:00:00-06:00,18.2
+Steeper,Wind Speed,2025-09-10T00:00:00-06:00,5.2
 Steeper,Sulphur Dioxide,2025-09-09T23:00:00-06:00,0.0
-Steeper,Ozone,2025-09-09T23:00:00-06:00,0.034
+Steeper,Nitrogen Dioxide,2025-09-09T23:00:00-06:00,0.001
+Steeper,Wind Direction,2025-09-09T23:00:00-06:00,180.0
+Steeper,Wind Speed,2025-09-09T23:00:00-06:00,3.7
+Steeper,Relative Humidity,2025-09-09T23:00:00-06:00,76.6
 Steeper,Carbon Monoxide,2025-09-09T23:00:00-06:00,0.1
-Steeper,Total Oxides of Nitrogen,2025-09-09T23:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-09T23:00:00-06:00,12.6
 Steeper,Nitric Oxide,2025-09-09T23:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-09T22:00:00-06:00,3.0
+Steeper,Ozone,2025-09-09T23:00:00-06:00,0.034
+Steeper,,2025-09-09T23:00:00-06:00,3.0
+Steeper,Fine Particulate Matter,2025-09-09T23:00:00-06:00,20.6
+Steeper,Total Oxides of Nitrogen,2025-09-09T23:00:00-06:00,0.0
 Steeper,Relative Humidity,2025-09-09T22:00:00-06:00,77.7
-Steeper,Outdoor Temperature,2025-09-09T22:00:00-06:00,13.0
-Steeper,Fine Particulate Matter,2025-09-09T22:00:00-06:00,22.0
-Steeper,Sulphur Dioxide,2025-09-09T22:00:00-06:00,0.0
-Steeper,Total Oxides of Nitrogen,2025-09-09T22:00:00-06:00,0.0
-Steeper,Ozone,2025-09-09T22:00:00-06:00,0.035
 Steeper,Nitric Oxide,2025-09-09T22:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-09T22:00:00-06:00,0.1
-Steeper,Wind Direction,2025-09-09T22:00:00-06:00,221.0
-Steeper,,2025-09-09T22:00:00-06:00,3.0
+Steeper,Ozone,2025-09-09T22:00:00-06:00,0.035
 Steeper,Nitrogen Dioxide,2025-09-09T22:00:00-06:00,0.001
-Steeper,Outdoor Temperature,2025-09-09T21:00:00-06:00,15.5
-Steeper,,2025-09-09T21:00:00-06:00,3.0
+Steeper,Total Oxides of Nitrogen,2025-09-09T22:00:00-06:00,0.0
+Steeper,,2025-09-09T22:00:00-06:00,3.0
+Steeper,Fine Particulate Matter,2025-09-09T22:00:00-06:00,22.0
+Steeper,Wind Direction,2025-09-09T22:00:00-06:00,221.0
+Steeper,Outdoor Temperature,2025-09-09T22:00:00-06:00,13.0
+Steeper,Wind Speed,2025-09-09T22:00:00-06:00,3.0
+Steeper,Sulphur Dioxide,2025-09-09T22:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-09T22:00:00-06:00,0.1
 Steeper,Relative Humidity,2025-09-09T21:00:00-06:00,62.4
-Steeper,Total Oxides of Nitrogen,2025-09-09T21:00:00-06:00,0.0
 Steeper,Fine Particulate Matter,2025-09-09T21:00:00-06:00,20.2
-Steeper,Ozone,2025-09-09T21:00:00-06:00,0.036
 Steeper,Wind Direction,2025-09-09T21:00:00-06:00,348.0
-Steeper,Wind Speed,2025-09-09T21:00:00-06:00,3.1
+Steeper,,2025-09-09T21:00:00-06:00,3.0
 Steeper,Nitric Oxide,2025-09-09T21:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-09T21:00:00-06:00,0.0
+Steeper,Ozone,2025-09-09T21:00:00-06:00,0.036
 Steeper,Carbon Monoxide,2025-09-09T21:00:00-06:00,0.1
+Steeper,Total Oxides of Nitrogen,2025-09-09T21:00:00-06:00,0.0
 Steeper,Nitrogen Dioxide,2025-09-09T21:00:00-06:00,0.001
-Steeper,Wind Direction,2025-09-09T20:00:00-06:00,25.0
-Steeper,Wind Speed,2025-09-09T20:00:00-06:00,7.2
+Steeper,Sulphur Dioxide,2025-09-09T21:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-09T21:00:00-06:00,3.1
+Steeper,Outdoor Temperature,2025-09-09T21:00:00-06:00,15.5
 Steeper,Fine Particulate Matter,2025-09-09T20:00:00-06:00,14.3
-Steeper,Ozone,2025-09-09T20:00:00-06:00,0.036
-Steeper,Carbon Monoxide,2025-09-09T20:00:00-06:00,0.1
-Steeper,,2025-09-09T20:00:00-06:00,2.0
-Steeper,Nitric Oxide,2025-09-09T20:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-09T20:00:00-06:00,25.0
 Steeper,Nitrogen Dioxide,2025-09-09T20:00:00-06:00,0.001
-Steeper,Sulphur Dioxide,2025-09-09T20:00:00-06:00,0.0
-Steeper,Total Oxides of Nitrogen,2025-09-09T20:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-09T20:00:00-06:00,16.8
+Steeper,Nitric Oxide,2025-09-09T20:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-09T20:00:00-06:00,7.2
+Steeper,,2025-09-09T20:00:00-06:00,2.0
 Steeper,Relative Humidity,2025-09-09T20:00:00-06:00,53.4
-Steeper,Total Oxides of Nitrogen,2025-09-09T19:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-09T20:00:00-06:00,16.8
+Steeper,Total Oxides of Nitrogen,2025-09-09T20:00:00-06:00,0.0
+Steeper,Ozone,2025-09-09T20:00:00-06:00,0.036
+Steeper,Sulphur Dioxide,2025-09-09T20:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-09T20:00:00-06:00,0.1
+Steeper,Nitric Oxide,2025-09-09T19:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-09T19:00:00-06:00,18.1
 Steeper,,2025-09-09T19:00:00-06:00,2.0
 Steeper,Carbon Monoxide,2025-09-09T19:00:00-06:00,0.1
-Steeper,Outdoor Temperature,2025-09-09T19:00:00-06:00,18.1
 Steeper,Wind Speed,2025-09-09T19:00:00-06:00,7.6
-Steeper,Sulphur Dioxide,2025-09-09T19:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-09T19:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-09T19:00:00-06:00,27.0
+Steeper,Total Oxides of Nitrogen,2025-09-09T19:00:00-06:00,0.0
 Steeper,Ozone,2025-09-09T19:00:00-06:00,0.036
-Steeper,Fine Particulate Matter,2025-09-09T19:00:00-06:00,12.3
 Steeper,Nitrogen Dioxide,2025-09-09T19:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-09T19:00:00-06:00,12.3
 Steeper,Relative Humidity,2025-09-09T19:00:00-06:00,48.7
-Steeper,,2025-09-09T18:00:00-06:00,2.0
-Steeper,Relative Humidity,2025-09-09T18:00:00-06:00,26.9
-Steeper,Nitric Oxide,2025-09-09T18:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-09T18:00:00-06:00,5.4
-Steeper,Fine Particulate Matter,2025-09-09T18:00:00-06:00,5.2
-Steeper,Sulphur Dioxide,2025-09-09T18:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-09T19:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-09T19:00:00-06:00,27.0
 Steeper,Outdoor Temperature,2025-09-09T18:00:00-06:00,22.7
-Steeper,Nitrogen Dioxide,2025-09-09T18:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-09T18:00:00-06:00,0.0
-Steeper,Ozone,2025-09-09T18:00:00-06:00,0.038
 Steeper,Total Oxides of Nitrogen,2025-09-09T18:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-09T18:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-09T18:00:00-06:00,5.4
+Steeper,Nitric Oxide,2025-09-09T18:00:00-06:00,0.0
+Steeper,Ozone,2025-09-09T18:00:00-06:00,0.038
+Steeper,,2025-09-09T18:00:00-06:00,2.0
+Steeper,Nitrogen Dioxide,2025-09-09T18:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-09T18:00:00-06:00,5.2
 Steeper,Wind Direction,2025-09-09T18:00:00-06:00,230.0
-Steeper,Nitrogen Dioxide,2025-09-09T17:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-09T17:00:00-06:00,22.5
-Steeper,Fine Particulate Matter,2025-09-09T17:00:00-06:00,7.9
+Steeper,Carbon Monoxide,2025-09-09T18:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-09T18:00:00-06:00,26.9
+Steeper,Relative Humidity,2025-09-09T17:00:00-06:00,28.1
+Steeper,Total Oxides of Nitrogen,2025-09-09T17:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-09T17:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-09T17:00:00-06:00,0.0
 Steeper,Ozone,2025-09-09T17:00:00-06:00,0.038
+Steeper,Wind Speed,2025-09-09T17:00:00-06:00,0.1
+Steeper,Nitrogen Dioxide,2025-09-09T17:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-09T17:00:00-06:00,7.9
 Steeper,Carbon Monoxide,2025-09-09T17:00:00-06:00,0.0
 Steeper,,2025-09-09T17:00:00-06:00,2.0
 Steeper,Wind Direction,2025-09-09T17:00:00-06:00,208.0
-Steeper,Total Oxides of Nitrogen,2025-09-09T17:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-09T17:00:00-06:00,0.1
-Steeper,Relative Humidity,2025-09-09T17:00:00-06:00,28.1
-Steeper,Sulphur Dioxide,2025-09-09T17:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-09T17:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-09T16:00:00-06:00,0.001
+Steeper,Outdoor Temperature,2025-09-09T17:00:00-06:00,22.5
+Steeper,Total Oxides of Nitrogen,2025-09-09T16:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-09T16:00:00-06:00,30.3
+Steeper,Wind Speed,2025-09-09T16:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-09T16:00:00-06:00,0.0
+Steeper,,2025-09-09T16:00:00-06:00,2.0
+Steeper,Wind Direction,2025-09-09T16:00:00-06:00,189.0
+Steeper,Outdoor Temperature,2025-09-09T16:00:00-06:00,22.5
+Steeper,Fine Particulate Matter,2025-09-09T16:00:00-06:00,8.0
 Steeper,Nitric Oxide,2025-09-09T16:00:00-06:00,0.0
 Steeper,Ozone,2025-09-09T16:00:00-06:00,0.038
-Steeper,Outdoor Temperature,2025-09-09T16:00:00-06:00,22.5
-Steeper,,2025-09-09T16:00:00-06:00,2.0
-Steeper,Total Oxides of Nitrogen,2025-09-09T16:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-09T16:00:00-06:00,0.001
 Steeper,Sulphur Dioxide,2025-09-09T16:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-09T16:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-09T16:00:00-06:00,8.0
-Steeper,Wind Speed,2025-09-09T16:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-09T16:00:00-06:00,189.0
-Steeper,Relative Humidity,2025-09-09T16:00:00-06:00,30.3
-Steeper,Wind Speed,2025-09-09T15:00:00-06:00,0.7
-Steeper,Carbon Monoxide,2025-09-09T15:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-09T15:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-09T15:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-09T15:00:00-06:00,237.0
-Steeper,Outdoor Temperature,2025-09-09T15:00:00-06:00,20.1
-Steeper,,2025-09-09T15:00:00-06:00,2.0
-Steeper,Total Oxides of Nitrogen,2025-09-09T15:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-09T15:00:00-06:00,0.0
 Steeper,Fine Particulate Matter,2025-09-09T15:00:00-06:00,7.6
-Steeper,Ozone,2025-09-09T15:00:00-06:00,0.037
-Steeper,Relative Humidity,2025-09-09T15:00:00-06:00,37.7
+Steeper,,2025-09-09T15:00:00-06:00,2.0
 Steeper,Nitrogen Dioxide,2025-09-09T15:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-09T14:00:00-06:00,0.0
-Steeper,Ozone,2025-09-09T14:00:00-06:00,0.037
-Steeper,Wind Speed,2025-09-09T14:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-09T14:00:00-06:00,19.4
-Steeper,Total Oxides of Nitrogen,2025-09-09T14:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-09T14:00:00-06:00,0.0
-Steeper,,2025-09-09T14:00:00-06:00,2.0
-Steeper,Nitric Oxide,2025-09-09T14:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-09T14:00:00-06:00,0.0
-Steeper,Relative Humidity,2025-09-09T14:00:00-06:00,40.8
+Steeper,Relative Humidity,2025-09-09T15:00:00-06:00,37.7
+Steeper,Ozone,2025-09-09T15:00:00-06:00,0.037
+Steeper,Nitric Oxide,2025-09-09T15:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-09T15:00:00-06:00,20.1
+Steeper,Sulphur Dioxide,2025-09-09T15:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-09T15:00:00-06:00,0.7
+Steeper,Total Oxides of Nitrogen,2025-09-09T15:00:00-06:00,0.0
 Steeper,Fine Particulate Matter,2025-09-09T14:00:00-06:00,8.5
+Steeper,Carbon Monoxide,2025-09-09T14:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-09T14:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-09T14:00:00-06:00,0.0
+Steeper,Ozone,2025-09-09T14:00:00-06:00,0.037
+Steeper,Sulphur Dioxide,2025-09-09T14:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-09T14:00:00-06:00,40.8
+Steeper,Total Oxides of Nitrogen,2025-09-09T14:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-09T14:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-09T14:00:00-06:00,202.0
+Steeper,,2025-09-09T14:00:00-06:00,2.0
+Steeper,Outdoor Temperature,2025-09-09T14:00:00-06:00,19.4
+Steeper,Outdoor Temperature,2025-09-09T13:00:00-06:00,20.3
+Steeper,Sulphur Dioxide,2025-09-09T13:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-09T13:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-09T13:00:00-06:00,0.0
+Steeper,,2025-09-09T13:00:00-06:00,2.0
+Steeper,Ozone,2025-09-09T13:00:00-06:00,0.037
+Steeper,Nitrogen Dioxide,2025-09-09T13:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-09T13:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-09T13:00:00-06:00,107.0
 Steeper,Relative Humidity,2025-09-09T13:00:00-06:00,41.3
 Steeper,Carbon Monoxide,2025-09-09T13:00:00-06:00,0.1
-Steeper,Nitric Oxide,2025-09-09T13:00:00-06:00,0.0
-Steeper,Ozone,2025-09-09T13:00:00-06:00,0.037
-Steeper,Total Oxides of Nitrogen,2025-09-09T13:00:00-06:00,0.0
-Steeper,,2025-09-09T13:00:00-06:00,2.0
-Steeper,Sulphur Dioxide,2025-09-09T13:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-09T13:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-09T13:00:00-06:00,20.3
-Steeper,Wind Speed,2025-09-09T13:00:00-06:00,0.0
 Steeper,Fine Particulate Matter,2025-09-09T13:00:00-06:00,11.6
-Steeper,Wind Direction,2025-09-09T13:00:00-06:00,107.0
-Steeper,Nitrogen Dioxide,2025-09-09T12:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-09T12:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-09T12:00:00-06:00,0.1
-Steeper,Relative Humidity,2025-09-09T12:00:00-06:00,47.0
-Steeper,,2025-09-09T12:00:00-06:00,2.0
-Steeper,Sulphur Dioxide,2025-09-09T12:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-09T12:00:00-06:00,18.9
-Steeper,Fine Particulate Matter,2025-09-09T12:00:00-06:00,12.2
-Steeper,Wind Speed,2025-09-09T12:00:00-06:00,0.0
-Steeper,Ozone,2025-09-09T12:00:00-06:00,0.034
 Steeper,Total Oxides of Nitrogen,2025-09-09T12:00:00-06:00,0.0
+Steeper,,2025-09-09T12:00:00-06:00,2.0
+Steeper,Ozone,2025-09-09T12:00:00-06:00,0.034
+Steeper,Outdoor Temperature,2025-09-09T12:00:00-06:00,18.9
+Steeper,Sulphur Dioxide,2025-09-09T12:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-09T12:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-09T12:00:00-06:00,47.0
+Steeper,Nitrogen Dioxide,2025-09-09T12:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-09T12:00:00-06:00,286.0
-Steeper,Total Oxides of Nitrogen,2025-09-09T11:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-09T12:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-09T12:00:00-06:00,12.2
+Steeper,Carbon Monoxide,2025-09-09T12:00:00-06:00,0.1
+Steeper,Ozone,2025-09-09T11:00:00-06:00,0.031
+Steeper,,2025-09-09T11:00:00-06:00,2.0
 Steeper,Outdoor Temperature,2025-09-09T11:00:00-06:00,16.7
 Steeper,Nitric Oxide,2025-09-09T11:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-09T11:00:00-06:00,0.1
-Steeper,Ozone,2025-09-09T11:00:00-06:00,0.031
 Steeper,Fine Particulate Matter,2025-09-09T11:00:00-06:00,12.0
-Steeper,,2025-09-09T11:00:00-06:00,2.0
-Steeper,Wind Direction,2025-09-09T11:00:00-06:00,216.0
-Steeper,Nitrogen Dioxide,2025-09-09T11:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-09T11:00:00-06:00,3.6
-Steeper,Sulphur Dioxide,2025-09-09T11:00:00-06:00,0.0
 Steeper,Relative Humidity,2025-09-09T11:00:00-06:00,54.8
-Steeper,Wind Direction,2025-09-09T10:00:00-06:00,211.0
-Steeper,Carbon Monoxide,2025-09-09T10:00:00-06:00,0.1
-Steeper,Nitrogen Dioxide,2025-09-09T10:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-09T10:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-09T10:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-09T10:00:00-06:00,13.0
-Steeper,Wind Speed,2025-09-09T10:00:00-06:00,7.1
-Steeper,Ozone,2025-09-09T10:00:00-06:00,0.029
-Steeper,Total Oxides of Nitrogen,2025-09-09T10:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-09T11:00:00-06:00,3.6
+Steeper,Nitrogen Dioxide,2025-09-09T11:00:00-06:00,0.0
+Steeper,Total Oxides of Nitrogen,2025-09-09T11:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-09T11:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-09T11:00:00-06:00,216.0
+Steeper,Carbon Monoxide,2025-09-09T11:00:00-06:00,0.1
 Steeper,Fine Particulate Matter,2025-09-09T10:00:00-06:00,12.7
-Steeper,Relative Humidity,2025-09-09T10:00:00-06:00,65.6
+Steeper,Ozone,2025-09-09T10:00:00-06:00,0.029
 Steeper,,2025-09-09T10:00:00-06:00,2.0
+Steeper,Nitrogen Dioxide,2025-09-09T10:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-09T10:00:00-06:00,7.1
+Steeper,Total Oxides of Nitrogen,2025-09-09T10:00:00-06:00,0.0
+Steeper,Nitric Oxide,2025-09-09T10:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-09T10:00:00-06:00,13.0
+Steeper,Wind Direction,2025-09-09T10:00:00-06:00,211.0
+Steeper,Relative Humidity,2025-09-09T10:00:00-06:00,65.6
+Steeper,Sulphur Dioxide,2025-09-09T10:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-09T10:00:00-06:00,0.1
+Steeper,Nitrogen Dioxide,2025-09-09T09:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-09T09:00:00-06:00,14.4
+Steeper,Relative Humidity,2025-09-09T09:00:00-06:00,70.9
+Steeper,Nitric Oxide,2025-09-09T09:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-09T09:00:00-06:00,11.2
+Steeper,Wind Speed,2025-09-09T09:00:00-06:00,6.4
 Steeper,,2025-09-09T09:00:00-06:00,2.0
 Steeper,Wind Direction,2025-09-09T09:00:00-06:00,205.0
-Steeper,Carbon Monoxide,2025-09-09T09:00:00-06:00,0.1
-Steeper,Nitrogen Dioxide,2025-09-09T09:00:00-06:00,0.0
-Steeper,Ozone,2025-09-09T09:00:00-06:00,0.027
-Steeper,Wind Speed,2025-09-09T09:00:00-06:00,6.4
-Steeper,Relative Humidity,2025-09-09T09:00:00-06:00,70.9
-Steeper,Total Oxides of Nitrogen,2025-09-09T09:00:00-06:00,0.0
 Steeper,Sulphur Dioxide,2025-09-09T09:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-09T09:00:00-06:00,11.2
-Steeper,Fine Particulate Matter,2025-09-09T09:00:00-06:00,14.4
-Steeper,Nitric Oxide,2025-09-09T09:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-09T08:00:00-06:00,0.1
+Steeper,Total Oxides of Nitrogen,2025-09-09T09:00:00-06:00,0.0
+Steeper,Ozone,2025-09-09T09:00:00-06:00,0.027
+Steeper,Carbon Monoxide,2025-09-09T09:00:00-06:00,0.1
 Steeper,Relative Humidity,2025-09-09T08:00:00-06:00,71.2
-Steeper,,2025-09-09T08:00:00-06:00,2.0
-Steeper,Nitric Oxide,2025-09-09T08:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-09T08:00:00-06:00,11.2
-Steeper,Wind Speed,2025-09-09T08:00:00-06:00,7.0
-Steeper,Total Oxides of Nitrogen,2025-09-09T08:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-09T08:00:00-06:00,16.7
 Steeper,Ozone,2025-09-09T08:00:00-06:00,0.028
+Steeper,Nitric Oxide,2025-09-09T08:00:00-06:00,0.0
 Steeper,Sulphur Dioxide,2025-09-09T08:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-09T08:00:00-06:00,0.0
+Steeper,,2025-09-09T08:00:00-06:00,2.0
 Steeper,Wind Direction,2025-09-09T08:00:00-06:00,206.0
-Steeper,Total Oxides of Nitrogen,2025-09-09T07:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-09T07:00:00-06:00,18.4
-Steeper,Wind Speed,2025-09-09T07:00:00-06:00,7.5
-Steeper,,2025-09-09T07:00:00-06:00,2.0
-Steeper,Relative Humidity,2025-09-09T07:00:00-06:00,74.7
-Steeper,Ozone,2025-09-09T07:00:00-06:00,0.024
-Steeper,Outdoor Temperature,2025-09-09T07:00:00-06:00,10.8
-Steeper,Sulphur Dioxide,2025-09-09T07:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-09T07:00:00-06:00,0.1
-Steeper,Nitrogen Dioxide,2025-09-09T07:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-09T08:00:00-06:00,11.2
+Steeper,Carbon Monoxide,2025-09-09T08:00:00-06:00,0.1
+Steeper,Total Oxides of Nitrogen,2025-09-09T08:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-09T08:00:00-06:00,7.0
+Steeper,Fine Particulate Matter,2025-09-09T08:00:00-06:00,16.7
+Steeper,Nitrogen Dioxide,2025-09-09T08:00:00-06:00,0.0
 Steeper,Wind Direction,2025-09-09T07:00:00-06:00,204.0
+Steeper,Carbon Monoxide,2025-09-09T07:00:00-06:00,0.1
+Steeper,Total Oxides of Nitrogen,2025-09-09T07:00:00-06:00,0.0
+Steeper,Wind Speed,2025-09-09T07:00:00-06:00,7.5
+Steeper,Ozone,2025-09-09T07:00:00-06:00,0.024
+Steeper,Relative Humidity,2025-09-09T07:00:00-06:00,74.7
 Steeper,Nitric Oxide,2025-09-09T07:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-09T06:00:00-06:00,20.3
-Steeper,Relative Humidity,2025-09-09T06:00:00-06:00,76.5
-Steeper,,2025-09-09T06:00:00-06:00,2.0
-Steeper,Nitric Oxide,2025-09-09T06:00:00-06:00,0.0
-Steeper,Ozone,2025-09-09T06:00:00-06:00,0.024
-Steeper,Wind Direction,2025-09-09T06:00:00-06:00,201.0
-Steeper,Carbon Monoxide,2025-09-09T06:00:00-06:00,0.1
+Steeper,Sulphur Dioxide,2025-09-09T07:00:00-06:00,0.0
+Steeper,Fine Particulate Matter,2025-09-09T07:00:00-06:00,18.4
+Steeper,,2025-09-09T07:00:00-06:00,2.0
+Steeper,Outdoor Temperature,2025-09-09T07:00:00-06:00,10.8
+Steeper,Nitrogen Dioxide,2025-09-09T07:00:00-06:00,0.0
 Steeper,Outdoor Temperature,2025-09-09T06:00:00-06:00,10.6
-Steeper,Nitrogen Dioxide,2025-09-09T06:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-09T06:00:00-06:00,0.1
+Steeper,Relative Humidity,2025-09-09T06:00:00-06:00,76.5
 Steeper,Wind Speed,2025-09-09T06:00:00-06:00,7.3
+Steeper,Ozone,2025-09-09T06:00:00-06:00,0.024
+Steeper,Fine Particulate Matter,2025-09-09T06:00:00-06:00,20.3
+Steeper,Nitric Oxide,2025-09-09T06:00:00-06:00,0.0
+Steeper,,2025-09-09T06:00:00-06:00,2.0
+Steeper,Wind Direction,2025-09-09T06:00:00-06:00,201.0
 Steeper,Sulphur Dioxide,2025-09-09T06:00:00-06:00,0.0
 Steeper,Total Oxides of Nitrogen,2025-09-09T06:00:00-06:00,0.0
-Steeper,Ozone,2025-09-09T05:00:00-06:00,
-Steeper,Outdoor Temperature,2025-09-09T05:00:00-06:00,10.4
-Steeper,Wind Direction,2025-09-09T05:00:00-06:00,201.0
-Steeper,,2025-09-09T05:00:00-06:00,2.0
-Steeper,Total Oxides of Nitrogen,2025-09-09T05:00:00-06:00,
-Steeper,Sulphur Dioxide,2025-09-09T05:00:00-06:00,
-Steeper,Nitric Oxide,2025-09-09T05:00:00-06:00,
-Steeper,Nitrogen Dioxide,2025-09-09T05:00:00-06:00,
-Steeper,Fine Particulate Matter,2025-09-09T05:00:00-06:00,21.4
-Steeper,Carbon Monoxide,2025-09-09T05:00:00-06:00,
-Steeper,Wind Speed,2025-09-09T05:00:00-06:00,7.4
+Steeper,Nitrogen Dioxide,2025-09-09T06:00:00-06:00,0.0
 Steeper,Relative Humidity,2025-09-09T05:00:00-06:00,77.3
-Steeper,Wind Direction,2025-09-09T04:00:00-06:00,202.0
-Steeper,Nitrogen Dioxide,2025-09-09T04:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-09T04:00:00-06:00,0.1
-Steeper,Relative Humidity,2025-09-09T04:00:00-06:00,77.1
+Steeper,Nitrogen Dioxide,2025-09-09T05:00:00-06:00,
+Steeper,Nitric Oxide,2025-09-09T05:00:00-06:00,
+Steeper,Sulphur Dioxide,2025-09-09T05:00:00-06:00,
+Steeper,Ozone,2025-09-09T05:00:00-06:00,
+Steeper,Total Oxides of Nitrogen,2025-09-09T05:00:00-06:00,
+Steeper,Carbon Monoxide,2025-09-09T05:00:00-06:00,
+Steeper,,2025-09-09T05:00:00-06:00,2.0
+Steeper,Wind Direction,2025-09-09T05:00:00-06:00,201.0
+Steeper,Wind Speed,2025-09-09T05:00:00-06:00,7.4
+Steeper,Fine Particulate Matter,2025-09-09T05:00:00-06:00,21.4
+Steeper,Outdoor Temperature,2025-09-09T05:00:00-06:00,10.4
+Steeper,Sulphur Dioxide,2025-09-09T04:00:00-06:00,0.0
 Steeper,Ozone,2025-09-09T04:00:00-06:00,0.021
 Steeper,Fine Particulate Matter,2025-09-09T04:00:00-06:00,22.7
-Steeper,Sulphur Dioxide,2025-09-09T04:00:00-06:00,0.0
-Steeper,Total Oxides of Nitrogen,2025-09-09T04:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-09T04:00:00-06:00,8.1
-Steeper,Nitric Oxide,2025-09-09T04:00:00-06:00,0.0
 Steeper,,2025-09-09T04:00:00-06:00,2.0
+Steeper,Nitric Oxide,2025-09-09T04:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-09T04:00:00-06:00,202.0
+Steeper,Carbon Monoxide,2025-09-09T04:00:00-06:00,0.1
+Steeper,Total Oxides of Nitrogen,2025-09-09T04:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-09T04:00:00-06:00,77.1
+Steeper,Wind Speed,2025-09-09T04:00:00-06:00,8.1
 Steeper,Outdoor Temperature,2025-09-09T04:00:00-06:00,11.2
-Steeper,Nitrogen Dioxide,2025-09-09T03:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-09T03:00:00-06:00,0.0
-Steeper,Total Oxides of Nitrogen,2025-09-09T03:00:00-06:00,0.0
-Steeper,Wind Speed,2025-09-09T03:00:00-06:00,7.0
-Steeper,Wind Direction,2025-09-09T03:00:00-06:00,197.0
+Steeper,Nitrogen Dioxide,2025-09-09T04:00:00-06:00,0.0
 Steeper,Ozone,2025-09-09T03:00:00-06:00,0.023
-Steeper,Outdoor Temperature,2025-09-09T03:00:00-06:00,12.0
-Steeper,Relative Humidity,2025-09-09T03:00:00-06:00,74.5
 Steeper,Fine Particulate Matter,2025-09-09T03:00:00-06:00,25.4
-Steeper,,2025-09-09T03:00:00-06:00,3.0
-Steeper,Carbon Monoxide,2025-09-09T03:00:00-06:00,0.1
+Steeper,Sulphur Dioxide,2025-09-09T03:00:00-06:00,0.0
 Steeper,Nitric Oxide,2025-09-09T03:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-09T02:00:00-06:00,12.4
-Steeper,Wind Speed,2025-09-09T02:00:00-06:00,7.2
-Steeper,Fine Particulate Matter,2025-09-09T02:00:00-06:00,27.8
-Steeper,Relative Humidity,2025-09-09T02:00:00-06:00,73.2
+Steeper,Nitrogen Dioxide,2025-09-09T03:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-09T03:00:00-06:00,74.5
+Steeper,Carbon Monoxide,2025-09-09T03:00:00-06:00,0.1
+Steeper,Outdoor Temperature,2025-09-09T03:00:00-06:00,12.0
+Steeper,,2025-09-09T03:00:00-06:00,3.0
+Steeper,Wind Speed,2025-09-09T03:00:00-06:00,7.0
+Steeper,Total Oxides of Nitrogen,2025-09-09T03:00:00-06:00,0.0
+Steeper,Wind Direction,2025-09-09T03:00:00-06:00,197.0
 Steeper,Nitric Oxide,2025-09-09T02:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-09T02:00:00-06:00,0.2
-Steeper,,2025-09-09T02:00:00-06:00,3.0
-Steeper,Wind Direction,2025-09-09T02:00:00-06:00,201.0
 Steeper,Sulphur Dioxide,2025-09-09T02:00:00-06:00,0.0
+Steeper,Ozone,2025-09-09T02:00:00-06:00,0.024
+Steeper,,2025-09-09T02:00:00-06:00,3.0
 Steeper,Nitrogen Dioxide,2025-09-09T02:00:00-06:00,0.0
 Steeper,Total Oxides of Nitrogen,2025-09-09T02:00:00-06:00,0.0
-Steeper,Ozone,2025-09-09T02:00:00-06:00,0.024
+Steeper,Wind Direction,2025-09-09T02:00:00-06:00,201.0
+Steeper,Carbon Monoxide,2025-09-09T02:00:00-06:00,0.2
+Steeper,Fine Particulate Matter,2025-09-09T02:00:00-06:00,27.8
+Steeper,Wind Speed,2025-09-09T02:00:00-06:00,7.2
+Steeper,Outdoor Temperature,2025-09-09T02:00:00-06:00,12.4
+Steeper,Relative Humidity,2025-09-09T02:00:00-06:00,73.2
+Steeper,Wind Direction,2025-09-09T01:00:00-06:00,204.0
+Steeper,Fine Particulate Matter,2025-09-09T01:00:00-06:00,31.3
+Steeper,Carbon Monoxide,2025-09-09T01:00:00-06:00,0.2
+Steeper,Relative Humidity,2025-09-09T01:00:00-06:00,77.2
+Steeper,Wind Speed,2025-09-09T01:00:00-06:00,8.2
+Steeper,,2025-09-09T01:00:00-06:00,3.0
 Steeper,Nitrogen Dioxide,2025-09-09T01:00:00-06:00,0.0
-Steeper,Sulphur Dioxide,2025-09-09T01:00:00-06:00,0.0
 Steeper,Outdoor Temperature,2025-09-09T01:00:00-06:00,12.3
+Steeper,Total Oxides of Nitrogen,2025-09-09T01:00:00-06:00,0.0
 Steeper,Nitric Oxide,2025-09-09T01:00:00-06:00,0.0
 Steeper,Ozone,2025-09-09T01:00:00-06:00,0.021
-Steeper,Total Oxides of Nitrogen,2025-09-09T01:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-09T01:00:00-06:00,204.0
-Steeper,,2025-09-09T01:00:00-06:00,3.0
-Steeper,Fine Particulate Matter,2025-09-09T01:00:00-06:00,31.3
-Steeper,Relative Humidity,2025-09-09T01:00:00-06:00,77.2
-Steeper,Carbon Monoxide,2025-09-09T01:00:00-06:00,0.2
-Steeper,Wind Speed,2025-09-09T01:00:00-06:00,8.2
-Steeper,Carbon Monoxide,2025-09-09T00:00:00-06:00,0.2
-Steeper,Relative Humidity,2025-09-09T00:00:00-06:00,77.7
-Steeper,Wind Speed,2025-09-09T00:00:00-06:00,8.4
-Steeper,Fine Particulate Matter,2025-09-09T00:00:00-06:00,34.3
-Steeper,Nitric Oxide,2025-09-09T00:00:00-06:00,0.0
-Steeper,,2025-09-09T00:00:00-06:00,3.0
-Steeper,Sulphur Dioxide,2025-09-09T00:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-09T00:00:00-06:00,0.001
-Steeper,Ozone,2025-09-09T00:00:00-06:00,0.023
+Steeper,Sulphur Dioxide,2025-09-09T01:00:00-06:00,0.0
 Steeper,Outdoor Temperature,2025-09-09T00:00:00-06:00,12.5
-Steeper,Wind Direction,2025-09-09T00:00:00-06:00,205.0
 Steeper,Total Oxides of Nitrogen,2025-09-09T00:00:00-06:00,0.0
-Steeper,Ozone,2025-09-08T23:00:00-06:00,0.026
-Steeper,Relative Humidity,2025-09-08T23:00:00-06:00,76.0
-Steeper,,2025-09-08T23:00:00-06:00,3.0
-Steeper,Wind Direction,2025-09-08T23:00:00-06:00,205.0
-Steeper,Carbon Monoxide,2025-09-08T23:00:00-06:00,0.2
-Steeper,Outdoor Temperature,2025-09-08T23:00:00-06:00,12.9
-Steeper,Nitrogen Dioxide,2025-09-08T23:00:00-06:00,0.001
-Steeper,Wind Speed,2025-09-08T23:00:00-06:00,8.1
-Steeper,Total Oxides of Nitrogen,2025-09-08T23:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-08T23:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-08T23:00:00-06:00,36.1
+Steeper,,2025-09-09T00:00:00-06:00,3.0
+Steeper,Ozone,2025-09-09T00:00:00-06:00,0.023
+Steeper,Wind Speed,2025-09-09T00:00:00-06:00,8.4
+Steeper,Nitric Oxide,2025-09-09T00:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-09T00:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-09T00:00:00-06:00,0.2
+Steeper,Fine Particulate Matter,2025-09-09T00:00:00-06:00,34.3
+Steeper,Wind Direction,2025-09-09T00:00:00-06:00,205.0
+Steeper,Relative Humidity,2025-09-09T00:00:00-06:00,77.7
+Steeper,Nitrogen Dioxide,2025-09-09T00:00:00-06:00,0.001
 Steeper,Sulphur Dioxide,2025-09-08T23:00:00-06:00,0.0
-Steeper,Nitrogen Dioxide,2025-09-08T22:00:00-06:00,0.001
+Steeper,Nitric Oxide,2025-09-08T23:00:00-06:00,0.0
+Steeper,Outdoor Temperature,2025-09-08T23:00:00-06:00,12.9
+Steeper,Carbon Monoxide,2025-09-08T23:00:00-06:00,0.2
+Steeper,Wind Direction,2025-09-08T23:00:00-06:00,205.0
+Steeper,Relative Humidity,2025-09-08T23:00:00-06:00,76.0
+Steeper,Ozone,2025-09-08T23:00:00-06:00,0.026
+Steeper,Fine Particulate Matter,2025-09-08T23:00:00-06:00,36.1
+Steeper,Total Oxides of Nitrogen,2025-09-08T23:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-08T23:00:00-06:00,0.001
+Steeper,,2025-09-08T23:00:00-06:00,3.0
+Steeper,Wind Speed,2025-09-08T23:00:00-06:00,8.1
 Steeper,Fine Particulate Matter,2025-09-08T22:00:00-06:00,36.4
-Steeper,Outdoor Temperature,2025-09-08T22:00:00-06:00,13.1
-Steeper,Ozone,2025-09-08T22:00:00-06:00,0.031
-Steeper,Wind Direction,2025-09-08T22:00:00-06:00,207.0
-Steeper,Sulphur Dioxide,2025-09-08T22:00:00-06:00,0.0
-Steeper,Relative Humidity,2025-09-08T22:00:00-06:00,74.6
-Steeper,Nitric Oxide,2025-09-08T22:00:00-06:00,0.0
-Steeper,Carbon Monoxide,2025-09-08T22:00:00-06:00,0.2
 Steeper,Wind Speed,2025-09-08T22:00:00-06:00,7.7
-Steeper,Total Oxides of Nitrogen,2025-09-08T22:00:00-06:00,0.0
+Steeper,Relative Humidity,2025-09-08T22:00:00-06:00,74.6
+Steeper,Ozone,2025-09-08T22:00:00-06:00,0.031
+Steeper,Carbon Monoxide,2025-09-08T22:00:00-06:00,0.2
+Steeper,Nitric Oxide,2025-09-08T22:00:00-06:00,0.0
+Steeper,Sulphur Dioxide,2025-09-08T22:00:00-06:00,0.0
 Steeper,,2025-09-08T22:00:00-06:00,3.0
-Steeper,Total Oxides of Nitrogen,2025-09-08T21:00:00-06:00,0.0
-Steeper,Nitric Oxide,2025-09-08T21:00:00-06:00,0.0
-Steeper,Relative Humidity,2025-09-08T21:00:00-06:00,70.7
+Steeper,Wind Direction,2025-09-08T22:00:00-06:00,207.0
+Steeper,Outdoor Temperature,2025-09-08T22:00:00-06:00,13.1
+Steeper,Total Oxides of Nitrogen,2025-09-08T22:00:00-06:00,0.0
+Steeper,Nitrogen Dioxide,2025-09-08T22:00:00-06:00,0.001
 Steeper,Sulphur Dioxide,2025-09-08T21:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-08T21:00:00-06:00,34.3
-Steeper,Carbon Monoxide,2025-09-08T21:00:00-06:00,0.2
+Steeper,Relative Humidity,2025-09-08T21:00:00-06:00,70.7
 Steeper,,2025-09-08T21:00:00-06:00,3.0
-Steeper,Wind Speed,2025-09-08T21:00:00-06:00,9.1
-Steeper,Ozone,2025-09-08T21:00:00-06:00,0.035
-Steeper,Wind Direction,2025-09-08T21:00:00-06:00,206.0
-Steeper,Outdoor Temperature,2025-09-08T21:00:00-06:00,13.8
 Steeper,Nitrogen Dioxide,2025-09-08T21:00:00-06:00,0.001
+Steeper,Fine Particulate Matter,2025-09-08T21:00:00-06:00,34.3
+Steeper,Wind Direction,2025-09-08T21:00:00-06:00,206.0
+Steeper,Nitric Oxide,2025-09-08T21:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-08T21:00:00-06:00,0.2
+Steeper,Ozone,2025-09-08T21:00:00-06:00,0.035
+Steeper,Outdoor Temperature,2025-09-08T21:00:00-06:00,13.8
+Steeper,Wind Speed,2025-09-08T21:00:00-06:00,9.1
+Steeper,Total Oxides of Nitrogen,2025-09-08T21:00:00-06:00,0.0
 Steeper,Sulphur Dioxide,2025-09-08T20:00:00-06:00,0.0
-Steeper,Outdoor Temperature,2025-09-08T20:00:00-06:00,14.4
 Steeper,Wind Direction,2025-09-08T20:00:00-06:00,207.0
+Steeper,,2025-09-08T20:00:00-06:00,4.0
+Steeper,Relative Humidity,2025-09-08T20:00:00-06:00,68.9
+Steeper,Nitrogen Dioxide,2025-09-08T20:00:00-06:00,0.001
+Steeper,Fine Particulate Matter,2025-09-08T20:00:00-06:00,33.6
+Steeper,Nitric Oxide,2025-09-08T20:00:00-06:00,0.0
+Steeper,Carbon Monoxide,2025-09-08T20:00:00-06:00,0.2
 Steeper,Total Oxides of Nitrogen,2025-09-08T20:00:00-06:00,0.0
 Steeper,Wind Speed,2025-09-08T20:00:00-06:00,9.5
-Steeper,Nitrogen Dioxide,2025-09-08T20:00:00-06:00,0.001
 Steeper,Ozone,2025-09-08T20:00:00-06:00,0.035
-Steeper,Fine Particulate Matter,2025-09-08T20:00:00-06:00,33.6
-Steeper,,2025-09-08T20:00:00-06:00,4.0
-Steeper,Carbon Monoxide,2025-09-08T20:00:00-06:00,0.2
-Steeper,Relative Humidity,2025-09-08T20:00:00-06:00,68.9
-Steeper,Nitric Oxide,2025-09-08T20:00:00-06:00,0.0
-Steeper,Ozone,2025-09-08T19:00:00-06:00,0.032
-Steeper,Outdoor Temperature,2025-09-08T19:00:00-06:00,15.2
-Steeper,Total Oxides of Nitrogen,2025-09-08T19:00:00-06:00,0.0
-Steeper,Wind Direction,2025-09-08T19:00:00-06:00,207.0
-Steeper,Nitrogen Dioxide,2025-09-08T19:00:00-06:00,0.001
-Steeper,Wind Speed,2025-09-08T19:00:00-06:00,8.0
-Steeper,Sulphur Dioxide,2025-09-08T19:00:00-06:00,0.0
-Steeper,Fine Particulate Matter,2025-09-08T19:00:00-06:00,33.6
-Steeper,Nitric Oxide,2025-09-08T19:00:00-06:00,0.0
-Steeper,,2025-09-08T19:00:00-06:00,4.0
-Steeper,Carbon Monoxide,2025-09-08T19:00:00-06:00,0.2
-Steeper,Relative Humidity,2025-09-08T19:00:00-06:00,72.2
+Steeper,Outdoor Temperature,2025-09-08T20:00:00-06:00,14.4
