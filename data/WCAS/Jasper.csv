@@ -1,6 +1,16 @@
 StationName,ParameterName,ReadingDate,Value
-Jasper,,2025-09-17T00:00:00-06:00,2.0
-Jasper,Total Reduced Sulphur,2025-09-17T00:00:00-06:00,
+Jasper,Sulphur Dioxide,2025-09-17T01:00:00-06:00,0.0003
+Jasper,Relative Humidity,2025-09-17T01:00:00-06:00,66.0
+Jasper,Nitric Oxide,2025-09-17T01:00:00-06:00,0.0074
+Jasper,Wind Speed,2025-09-17T01:00:00-06:00,4.4
+Jasper,Ozone,2025-09-17T01:00:00-06:00,0.0061
+Jasper,Nitrogen Dioxide,2025-09-17T01:00:00-06:00,0.019
+Jasper,Fine Particulate Matter,2025-09-17T01:00:00-06:00,13.4
+Jasper,Total Oxides of Nitrogen,2025-09-17T01:00:00-06:00,0.0264
+Jasper,Outdoor Temperature,2025-09-17T01:00:00-06:00,12.0
+Jasper,Wind Direction,2025-09-17T01:00:00-06:00,251.2
+Jasper,Total Reduced Sulphur,2025-09-17T01:00:00-06:00,
+Jasper,,2025-09-17T01:00:00-06:00,2.0
 Jasper,Ozone,2025-09-17T00:00:00-06:00,0.0165
 Jasper,Outdoor Temperature,2025-09-17T00:00:00-06:00,13.2
 Jasper,Wind Direction,2025-09-17T00:00:00-06:00,246.9
@@ -11,19 +21,21 @@ Jasper,Nitrogen Dioxide,2025-09-17T00:00:00-06:00,0.0085
 Jasper,Relative Humidity,2025-09-17T00:00:00-06:00,62.0
 Jasper,Nitric Oxide,2025-09-17T00:00:00-06:00,0.0016
 Jasper,Fine Particulate Matter,2025-09-17T00:00:00-06:00,13.7
-Jasper,,2025-09-16T23:00:00-06:00,2.0
-Jasper,Nitrogen Dioxide,2025-09-16T23:00:00-06:00,0.0035
-Jasper,Wind Direction,2025-09-16T23:00:00-06:00,244.1
-Jasper,Relative Humidity,2025-09-16T23:00:00-06:00,56.0
-Jasper,Outdoor Temperature,2025-09-16T23:00:00-06:00,14.8
-Jasper,Ozone,2025-09-16T23:00:00-06:00,0.0231
-Jasper,Wind Speed,2025-09-16T23:00:00-06:00,6.8
-Jasper,Total Oxides of Nitrogen,2025-09-16T23:00:00-06:00,0.0035
-Jasper,Total Reduced Sulphur,2025-09-16T23:00:00-06:00,
-Jasper,Nitric Oxide,2025-09-16T23:00:00-06:00,0.0
-Jasper,Fine Particulate Matter,2025-09-16T23:00:00-06:00,14.5
+Jasper,Total Reduced Sulphur,2025-09-17T00:00:00-06:00,
+Jasper,,2025-09-17T00:00:00-06:00,2.0
 Jasper,Sulphur Dioxide,2025-09-16T23:00:00-06:00,0.0003
-Jasper,Nitric Oxide,2025-09-16T22:00:00-06:00,0.0
+Jasper,Fine Particulate Matter,2025-09-16T23:00:00-06:00,14.5
+Jasper,Nitric Oxide,2025-09-16T23:00:00-06:00,0.0
+Jasper,Total Reduced Sulphur,2025-09-16T23:00:00-06:00,
+Jasper,Total Oxides of Nitrogen,2025-09-16T23:00:00-06:00,0.0035
+Jasper,Wind Speed,2025-09-16T23:00:00-06:00,6.8
+Jasper,Ozone,2025-09-16T23:00:00-06:00,0.0231
+Jasper,Outdoor Temperature,2025-09-16T23:00:00-06:00,14.8
+Jasper,Relative Humidity,2025-09-16T23:00:00-06:00,56.0
+Jasper,Wind Direction,2025-09-16T23:00:00-06:00,244.1
+Jasper,Nitrogen Dioxide,2025-09-16T23:00:00-06:00,0.0035
+Jasper,,2025-09-16T23:00:00-06:00,2.0
+Jasper,Total Reduced Sulphur,2025-09-16T22:00:00-06:00,
 Jasper,Nitrogen Dioxide,2025-09-16T22:00:00-06:00,0.0037
 Jasper,Relative Humidity,2025-09-16T22:00:00-06:00,54.0
 Jasper,Total Oxides of Nitrogen,2025-09-16T22:00:00-06:00,0.0037
@@ -33,8 +45,10 @@ Jasper,Outdoor Temperature,2025-09-16T22:00:00-06:00,16.2
 Jasper,Ozone,2025-09-16T22:00:00-06:00,0.0234
 Jasper,Wind Speed,2025-09-16T22:00:00-06:00,6.0
 Jasper,Wind Direction,2025-09-16T22:00:00-06:00,248.5
-Jasper,Total Reduced Sulphur,2025-09-16T22:00:00-06:00,
+Jasper,Nitric Oxide,2025-09-16T22:00:00-06:00,0.0
 Jasper,,2025-09-16T22:00:00-06:00,2.0
+Jasper,Total Reduced Sulphur,2025-09-16T21:00:00-06:00,
+Jasper,,2025-09-16T21:00:00-06:00,3.0
 Jasper,Outdoor Temperature,2025-09-16T21:00:00-06:00,19.0
 Jasper,Fine Particulate Matter,2025-09-16T21:00:00-06:00,15.0
 Jasper,Wind Direction,2025-09-16T21:00:00-06:00,254.5
@@ -45,13 +59,11 @@ Jasper,Wind Speed,2025-09-16T21:00:00-06:00,3.9
 Jasper,Total Oxides of Nitrogen,2025-09-16T21:00:00-06:00,0.0063
 Jasper,Nitric Oxide,2025-09-16T21:00:00-06:00,0.0001
 Jasper,Sulphur Dioxide,2025-09-16T21:00:00-06:00,0.0004
-Jasper,Total Reduced Sulphur,2025-09-16T21:00:00-06:00,
-Jasper,,2025-09-16T21:00:00-06:00,3.0
 Jasper,,2025-09-16T20:00:00-06:00,3.0
-Jasper,Total Reduced Sulphur,2025-09-16T20:00:00-06:00,
 Jasper,Relative Humidity,2025-09-16T20:00:00-06:00,34.0
 Jasper,Fine Particulate Matter,2025-09-16T20:00:00-06:00,13.2
 Jasper,Nitrogen Dioxide,2025-09-16T20:00:00-06:00,0.0045
+Jasper,Total Reduced Sulphur,2025-09-16T20:00:00-06:00,
 Jasper,Wind Speed,2025-09-16T20:00:00-06:00,2.0
 Jasper,Sulphur Dioxide,2025-09-16T20:00:00-06:00,0.0004
 Jasper,Ozone,2025-09-16T20:00:00-06:00,0.0307
@@ -59,31 +71,30 @@ Jasper,Nitric Oxide,2025-09-16T20:00:00-06:00,0.0005
 Jasper,Total Oxides of Nitrogen,2025-09-16T20:00:00-06:00,0.005
 Jasper,Wind Direction,2025-09-16T20:00:00-06:00,248.8
 Jasper,Outdoor Temperature,2025-09-16T20:00:00-06:00,22.4
-Jasper,Total Reduced Sulphur,2025-09-16T19:00:00-06:00,
-Jasper,Wind Direction,2025-09-16T19:00:00-06:00,206.0
-Jasper,Fine Particulate Matter,2025-09-16T19:00:00-06:00,12.8
-Jasper,Nitrogen Dioxide,2025-09-16T19:00:00-06:00,0.003
-Jasper,Sulphur Dioxide,2025-09-16T19:00:00-06:00,0.0006
-Jasper,Nitric Oxide,2025-09-16T19:00:00-06:00,0.0006
-Jasper,Ozone,2025-09-16T19:00:00-06:00,0.0373
-Jasper,Relative Humidity,2025-09-16T19:00:00-06:00,26.0
-Jasper,,2025-09-16T19:00:00-06:00,3.0
 Jasper,Total Oxides of Nitrogen,2025-09-16T19:00:00-06:00,0.0035
 Jasper,Wind Speed,2025-09-16T19:00:00-06:00,2.2
 Jasper,Outdoor Temperature,2025-09-16T19:00:00-06:00,25.9
-Jasper,Total Reduced Sulphur,2025-09-16T18:00:00-06:00,
-Jasper,Nitric Oxide,2025-09-16T18:00:00-06:00,0.0001
-Jasper,Sulphur Dioxide,2025-09-16T18:00:00-06:00,0.0005
-Jasper,Nitrogen Dioxide,2025-09-16T18:00:00-06:00,0.0016
-Jasper,Outdoor Temperature,2025-09-16T18:00:00-06:00,26.4
-Jasper,Wind Direction,2025-09-16T18:00:00-06:00,231.8
-Jasper,Fine Particulate Matter,2025-09-16T18:00:00-06:00,13.5
-Jasper,Ozone,2025-09-16T18:00:00-06:00,0.04
-Jasper,Wind Speed,2025-09-16T18:00:00-06:00,2.2
-Jasper,Relative Humidity,2025-09-16T18:00:00-06:00,26.0
-Jasper,Total Oxides of Nitrogen,2025-09-16T18:00:00-06:00,0.0017
+Jasper,Relative Humidity,2025-09-16T19:00:00-06:00,26.0
+Jasper,Ozone,2025-09-16T19:00:00-06:00,0.0373
+Jasper,,2025-09-16T19:00:00-06:00,3.0
+Jasper,Wind Direction,2025-09-16T19:00:00-06:00,206.0
+Jasper,Fine Particulate Matter,2025-09-16T19:00:00-06:00,12.8
+Jasper,Nitrogen Dioxide,2025-09-16T19:00:00-06:00,0.003
+Jasper,Total Reduced Sulphur,2025-09-16T19:00:00-06:00,
+Jasper,Nitric Oxide,2025-09-16T19:00:00-06:00,0.0006
+Jasper,Sulphur Dioxide,2025-09-16T19:00:00-06:00,0.0006
 Jasper,,2025-09-16T18:00:00-06:00,3.0
-Jasper,,2025-09-16T17:00:00-06:00,3.0
+Jasper,Total Reduced Sulphur,2025-09-16T18:00:00-06:00,
+Jasper,Total Oxides of Nitrogen,2025-09-16T18:00:00-06:00,0.0017
+Jasper,Relative Humidity,2025-09-16T18:00:00-06:00,26.0
+Jasper,Wind Speed,2025-09-16T18:00:00-06:00,2.2
+Jasper,Ozone,2025-09-16T18:00:00-06:00,0.04
+Jasper,Fine Particulate Matter,2025-09-16T18:00:00-06:00,13.5
+Jasper,Wind Direction,2025-09-16T18:00:00-06:00,231.8
+Jasper,Outdoor Temperature,2025-09-16T18:00:00-06:00,26.4
+Jasper,Nitrogen Dioxide,2025-09-16T18:00:00-06:00,0.0016
+Jasper,Sulphur Dioxide,2025-09-16T18:00:00-06:00,0.0005
+Jasper,Nitric Oxide,2025-09-16T18:00:00-06:00,0.0001
 Jasper,Total Oxides of Nitrogen,2025-09-16T17:00:00-06:00,0.0019
 Jasper,Wind Direction,2025-09-16T17:00:00-06:00,250.0
 Jasper,Outdoor Temperature,2025-09-16T17:00:00-06:00,25.6
@@ -94,47 +105,47 @@ Jasper,Nitrogen Dioxide,2025-09-16T17:00:00-06:00,0.0016
 Jasper,Ozone,2025-09-16T17:00:00-06:00,0.0383
 Jasper,Fine Particulate Matter,2025-09-16T17:00:00-06:00,14.4
 Jasper,Relative Humidity,2025-09-16T17:00:00-06:00,29.0
+Jasper,,2025-09-16T17:00:00-06:00,3.0
 Jasper,Total Reduced Sulphur,2025-09-16T17:00:00-06:00,
 Jasper,,2025-09-16T16:00:00-06:00,2.0
-Jasper,Total Reduced Sulphur,2025-09-16T16:00:00-06:00,
-Jasper,Wind Speed,2025-09-16T16:00:00-06:00,2.9
 Jasper,Nitrogen Dioxide,2025-09-16T16:00:00-06:00,
-Jasper,Fine Particulate Matter,2025-09-16T16:00:00-06:00,13.5
 Jasper,Total Oxides of Nitrogen,2025-09-16T16:00:00-06:00,
+Jasper,Sulphur Dioxide,2025-09-16T16:00:00-06:00,
+Jasper,Total Reduced Sulphur,2025-09-16T16:00:00-06:00,
+Jasper,Nitric Oxide,2025-09-16T16:00:00-06:00,
+Jasper,Wind Speed,2025-09-16T16:00:00-06:00,2.9
+Jasper,Fine Particulate Matter,2025-09-16T16:00:00-06:00,13.5
 Jasper,Outdoor Temperature,2025-09-16T16:00:00-06:00,24.8
 Jasper,Relative Humidity,2025-09-16T16:00:00-06:00,32.0
 Jasper,Ozone,2025-09-16T16:00:00-06:00,0.0355
 Jasper,Wind Direction,2025-09-16T16:00:00-06:00,249.5
-Jasper,Nitric Oxide,2025-09-16T16:00:00-06:00,
-Jasper,Sulphur Dioxide,2025-09-16T16:00:00-06:00,
+Jasper,Total Reduced Sulphur,2025-09-16T15:00:00-06:00,
+Jasper,Relative Humidity,2025-09-16T15:00:00-06:00,37.0
+Jasper,Sulphur Dioxide,2025-09-16T15:00:00-06:00,
+Jasper,Outdoor Temperature,2025-09-16T15:00:00-06:00,23.0
+Jasper,Total Oxides of Nitrogen,2025-09-16T15:00:00-06:00,0.0017
 Jasper,Wind Direction,2025-09-16T15:00:00-06:00,230.7
 Jasper,Fine Particulate Matter,2025-09-16T15:00:00-06:00,12.7
+Jasper,,2025-09-16T15:00:00-06:00,2.0
 Jasper,Ozone,2025-09-16T15:00:00-06:00,0.03
-Jasper,Sulphur Dioxide,2025-09-16T15:00:00-06:00,
 Jasper,Nitric Oxide,2025-09-16T15:00:00-06:00,0.0003
 Jasper,Nitrogen Dioxide,2025-09-16T15:00:00-06:00,0.0014
 Jasper,Wind Speed,2025-09-16T15:00:00-06:00,2.9
-Jasper,Total Oxides of Nitrogen,2025-09-16T15:00:00-06:00,0.0017
-Jasper,Outdoor Temperature,2025-09-16T15:00:00-06:00,23.0
-Jasper,Relative Humidity,2025-09-16T15:00:00-06:00,37.0
-Jasper,Total Reduced Sulphur,2025-09-16T15:00:00-06:00,
-Jasper,,2025-09-16T15:00:00-06:00,2.0
 Jasper,Total Oxides of Nitrogen,2025-09-16T14:00:00-06:00,0.0028
 Jasper,Relative Humidity,2025-09-16T14:00:00-06:00,43.0
 Jasper,Outdoor Temperature,2025-09-16T14:00:00-06:00,20.3
 Jasper,Nitrogen Dioxide,2025-09-16T14:00:00-06:00,0.0019
 Jasper,Nitric Oxide,2025-09-16T14:00:00-06:00,0.0009
+Jasper,Fine Particulate Matter,2025-09-16T14:00:00-06:00,11.8
 Jasper,Ozone,2025-09-16T14:00:00-06:00,0.0266
+Jasper,,2025-09-16T14:00:00-06:00,2.0
+Jasper,Total Reduced Sulphur,2025-09-16T14:00:00-06:00,
 Jasper,Wind Direction,2025-09-16T14:00:00-06:00,
 Jasper,Wind Speed,2025-09-16T14:00:00-06:00,
 Jasper,Sulphur Dioxide,2025-09-16T14:00:00-06:00,
-Jasper,Fine Particulate Matter,2025-09-16T14:00:00-06:00,11.8
-Jasper,Total Reduced Sulphur,2025-09-16T14:00:00-06:00,
-Jasper,,2025-09-16T14:00:00-06:00,2.0
-Jasper,,2025-09-16T13:00:00-06:00,2.0
 Jasper,Wind Direction,2025-09-16T13:00:00-06:00,140.6
 Jasper,Relative Humidity,2025-09-16T13:00:00-06:00,51.0
-Jasper,Sulphur Dioxide,2025-09-16T13:00:00-06:00,
+Jasper,Total Reduced Sulphur,2025-09-16T13:00:00-06:00,
 Jasper,Fine Particulate Matter,2025-09-16T13:00:00-06:00,12.9
 Jasper,Total Oxides of Nitrogen,2025-09-16T13:00:00-06:00,0.0038
 Jasper,Nitrogen Dioxide,2025-09-16T13:00:00-06:00,0.0023
@@ -142,1804 +153,1793 @@ Jasper,Nitric Oxide,2025-09-16T13:00:00-06:00,0.0015
 Jasper,Ozone,2025-09-16T13:00:00-06:00,0.0215
 Jasper,Outdoor Temperature,2025-09-16T13:00:00-06:00,17.4
 Jasper,Wind Speed,2025-09-16T13:00:00-06:00,1.4
-Jasper,Total Reduced Sulphur,2025-09-16T13:00:00-06:00,
-Jasper,Total Reduced Sulphur,2025-09-16T12:00:00-06:00,
-Jasper,,2025-09-16T12:00:00-06:00,2.0
-Jasper,Fine Particulate Matter,2025-09-16T12:00:00-06:00,12.9
-Jasper,Nitrogen Dioxide,2025-09-16T12:00:00-06:00,0.0024
-Jasper,Wind Direction,2025-09-16T12:00:00-06:00,158.6
-Jasper,Wind Speed,2025-09-16T12:00:00-06:00,2.2
-Jasper,Nitric Oxide,2025-09-16T12:00:00-06:00,0.0026
+Jasper,,2025-09-16T13:00:00-06:00,2.0
+Jasper,Sulphur Dioxide,2025-09-16T13:00:00-06:00,
 Jasper,Outdoor Temperature,2025-09-16T12:00:00-06:00,14.6
 Jasper,Ozone,2025-09-16T12:00:00-06:00,0.0182
 Jasper,Relative Humidity,2025-09-16T12:00:00-06:00,57.0
 Jasper,Total Oxides of Nitrogen,2025-09-16T12:00:00-06:00,0.005
+Jasper,Nitric Oxide,2025-09-16T12:00:00-06:00,0.0026
+Jasper,Wind Speed,2025-09-16T12:00:00-06:00,2.2
+Jasper,Wind Direction,2025-09-16T12:00:00-06:00,158.6
+Jasper,Nitrogen Dioxide,2025-09-16T12:00:00-06:00,0.0024
+Jasper,Fine Particulate Matter,2025-09-16T12:00:00-06:00,12.9
+Jasper,Total Reduced Sulphur,2025-09-16T12:00:00-06:00,
+Jasper,,2025-09-16T12:00:00-06:00,2.0
 Jasper,Sulphur Dioxide,2025-09-16T12:00:00-06:00,0.0
-Jasper,Total Reduced Sulphur,2025-09-16T11:00:00-06:00,
 Jasper,Nitric Oxide,2025-09-16T11:00:00-06:00,0.0025
 Jasper,Nitrogen Dioxide,2025-09-16T11:00:00-06:00,0.0015
-Jasper,Sulphur Dioxide,2025-09-16T11:00:00-06:00,0.0
 Jasper,Fine Particulate Matter,2025-09-16T11:00:00-06:00,14.1
 Jasper,Outdoor Temperature,2025-09-16T11:00:00-06:00,11.5
+Jasper,,2025-09-16T11:00:00-06:00,1.0
+Jasper,Sulphur Dioxide,2025-09-16T11:00:00-06:00,0.0
 Jasper,Wind Direction,2025-09-16T11:00:00-06:00,159.4
 Jasper,Total Oxides of Nitrogen,2025-09-16T11:00:00-06:00,0.0039
 Jasper,Relative Humidity,2025-09-16T11:00:00-06:00,69.0
 Jasper,Wind Speed,2025-09-16T11:00:00-06:00,2.7
 Jasper,Ozone,2025-09-16T11:00:00-06:00,0.0123
-Jasper,,2025-09-16T11:00:00-06:00,1.0
-Jasper,Nitric Oxide,2025-09-16T10:00:00-06:00,0.008
-Jasper,Ozone,2025-09-16T10:00:00-06:00,0.0089
-Jasper,Nitrogen Dioxide,2025-09-16T10:00:00-06:00,0.0057
+Jasper,Total Reduced Sulphur,2025-09-16T11:00:00-06:00,
 Jasper,Sulphur Dioxide,2025-09-16T10:00:00-06:00,0.0
-Jasper,Wind Speed,2025-09-16T10:00:00-06:00,2.6
-Jasper,Relative Humidity,2025-09-16T10:00:00-06:00,74.0
-Jasper,Outdoor Temperature,2025-09-16T10:00:00-06:00,8.5
-Jasper,Fine Particulate Matter,2025-09-16T10:00:00-06:00,8.7
-Jasper,Total Oxides of Nitrogen,2025-09-16T10:00:00-06:00,0.0137
-Jasper,Wind Direction,2025-09-16T10:00:00-06:00,210.7
-Jasper,Total Reduced Sulphur,2025-09-16T10:00:00-06:00,
 Jasper,,2025-09-16T10:00:00-06:00,1.0
-Jasper,Nitrogen Dioxide,2025-09-16T09:00:00-06:00,0.0083
-Jasper,Fine Particulate Matter,2025-09-16T09:00:00-06:00,7.2
-Jasper,Relative Humidity,2025-09-16T09:00:00-06:00,87.0
-Jasper,Wind Speed,2025-09-16T09:00:00-06:00,2.0
-Jasper,Sulphur Dioxide,2025-09-16T09:00:00-06:00,0.0
-Jasper,Wind Direction,2025-09-16T09:00:00-06:00,233.3
-Jasper,Total Oxides of Nitrogen,2025-09-16T09:00:00-06:00,0.0178
-Jasper,Nitric Oxide,2025-09-16T09:00:00-06:00,0.0096
-Jasper,Ozone,2025-09-16T09:00:00-06:00,0.0038
-Jasper,Total Reduced Sulphur,2025-09-16T09:00:00-06:00,
-Jasper,Outdoor Temperature,2025-09-16T09:00:00-06:00,5.2
+Jasper,Wind Direction,2025-09-16T10:00:00-06:00,210.7
+Jasper,Total Oxides of Nitrogen,2025-09-16T10:00:00-06:00,0.0137
+Jasper,Total Reduced Sulphur,2025-09-16T10:00:00-06:00,
+Jasper,Fine Particulate Matter,2025-09-16T10:00:00-06:00,8.7
+Jasper,Outdoor Temperature,2025-09-16T10:00:00-06:00,8.5
+Jasper,Relative Humidity,2025-09-16T10:00:00-06:00,74.0
+Jasper,Wind Speed,2025-09-16T10:00:00-06:00,2.6
+Jasper,Nitrogen Dioxide,2025-09-16T10:00:00-06:00,0.0057
+Jasper,Ozone,2025-09-16T10:00:00-06:00,0.0089
+Jasper,Nitric Oxide,2025-09-16T10:00:00-06:00,0.008
 Jasper,,2025-09-16T09:00:00-06:00,1.0
+Jasper,Total Reduced Sulphur,2025-09-16T09:00:00-06:00,
+Jasper,Wind Speed,2025-09-16T09:00:00-06:00,2.0
+Jasper,Relative Humidity,2025-09-16T09:00:00-06:00,87.0
+Jasper,Fine Particulate Matter,2025-09-16T09:00:00-06:00,7.2
+Jasper,Nitrogen Dioxide,2025-09-16T09:00:00-06:00,0.0083
+Jasper,Outdoor Temperature,2025-09-16T09:00:00-06:00,5.2
+Jasper,Ozone,2025-09-16T09:00:00-06:00,0.0038
+Jasper,Nitric Oxide,2025-09-16T09:00:00-06:00,0.0096
+Jasper,Sulphur Dioxide,2025-09-16T09:00:00-06:00,0.0
+Jasper,Total Oxides of Nitrogen,2025-09-16T09:00:00-06:00,0.0178
+Jasper,Wind Direction,2025-09-16T09:00:00-06:00,233.3
+Jasper,Ozone,2025-09-16T08:00:00-06:00,0.001
+Jasper,Total Reduced Sulphur,2025-09-16T08:00:00-06:00,
+Jasper,Sulphur Dioxide,2025-09-16T08:00:00-06:00,0.0
 Jasper,Relative Humidity,2025-09-16T08:00:00-06:00,89.0
 Jasper,Total Oxides of Nitrogen,2025-09-16T08:00:00-06:00,0.0205
-Jasper,Ozone,2025-09-16T08:00:00-06:00,0.001
 Jasper,Outdoor Temperature,2025-09-16T08:00:00-06:00,4.7
 Jasper,Wind Direction,2025-09-16T08:00:00-06:00,247.9
 Jasper,Nitrogen Dioxide,2025-09-16T08:00:00-06:00,0.0113
 Jasper,Nitric Oxide,2025-09-16T08:00:00-06:00,0.0092
 Jasper,Wind Speed,2025-09-16T08:00:00-06:00,3.0
-Jasper,Total Reduced Sulphur,2025-09-16T08:00:00-06:00,
 Jasper,Fine Particulate Matter,2025-09-16T08:00:00-06:00,6.8
-Jasper,Sulphur Dioxide,2025-09-16T08:00:00-06:00,0.0
 Jasper,,2025-09-16T08:00:00-06:00,1.0
-Jasper,Total Reduced Sulphur,2025-09-16T07:00:00-06:00,
-Jasper,Wind Speed,2025-09-16T07:00:00-06:00,2.0
-Jasper,Nitric Oxide,2025-09-16T07:00:00-06:00,0.0069
-Jasper,Wind Direction,2025-09-16T07:00:00-06:00,245.3
-Jasper,Fine Particulate Matter,2025-09-16T07:00:00-06:00,6.2
-Jasper,Relative Humidity,2025-09-16T07:00:00-06:00,89.0
 Jasper,Sulphur Dioxide,2025-09-16T07:00:00-06:00,0.0
-Jasper,Outdoor Temperature,2025-09-16T07:00:00-06:00,5.0
-Jasper,Nitrogen Dioxide,2025-09-16T07:00:00-06:00,0.0117
-Jasper,Ozone,2025-09-16T07:00:00-06:00,0.0013
-Jasper,Total Oxides of Nitrogen,2025-09-16T07:00:00-06:00,0.0186
 Jasper,,2025-09-16T07:00:00-06:00,1.0
-Jasper,,2025-09-16T06:00:00-06:00,2.0
-Jasper,Sulphur Dioxide,2025-09-16T06:00:00-06:00,0.0
-Jasper,Wind Speed,2025-09-16T06:00:00-06:00,2.9
-Jasper,Wind Direction,2025-09-16T06:00:00-06:00,248.1
-Jasper,Ozone,2025-09-16T06:00:00-06:00,0.0047
-Jasper,Outdoor Temperature,2025-09-16T06:00:00-06:00,6.0
-Jasper,Total Oxides of Nitrogen,2025-09-16T06:00:00-06:00,0.0159
-Jasper,Fine Particulate Matter,2025-09-16T06:00:00-06:00,6.0
-Jasper,Relative Humidity,2025-09-16T06:00:00-06:00,85.0
-Jasper,Nitric Oxide,2025-09-16T06:00:00-06:00,0.0055
+Jasper,Total Oxides of Nitrogen,2025-09-16T07:00:00-06:00,0.0186
+Jasper,Ozone,2025-09-16T07:00:00-06:00,0.0013
+Jasper,Nitrogen Dioxide,2025-09-16T07:00:00-06:00,0.0117
+Jasper,Outdoor Temperature,2025-09-16T07:00:00-06:00,5.0
+Jasper,Relative Humidity,2025-09-16T07:00:00-06:00,89.0
+Jasper,Fine Particulate Matter,2025-09-16T07:00:00-06:00,6.2
+Jasper,Wind Direction,2025-09-16T07:00:00-06:00,245.3
+Jasper,Nitric Oxide,2025-09-16T07:00:00-06:00,0.0069
+Jasper,Wind Speed,2025-09-16T07:00:00-06:00,2.0
+Jasper,Total Reduced Sulphur,2025-09-16T07:00:00-06:00,
 Jasper,Nitrogen Dioxide,2025-09-16T06:00:00-06:00,0.0104
+Jasper,Nitric Oxide,2025-09-16T06:00:00-06:00,0.0055
+Jasper,Relative Humidity,2025-09-16T06:00:00-06:00,85.0
+Jasper,Fine Particulate Matter,2025-09-16T06:00:00-06:00,6.0
+Jasper,Total Oxides of Nitrogen,2025-09-16T06:00:00-06:00,0.0159
+Jasper,Outdoor Temperature,2025-09-16T06:00:00-06:00,6.0
+Jasper,Ozone,2025-09-16T06:00:00-06:00,0.0047
+Jasper,Wind Direction,2025-09-16T06:00:00-06:00,248.1
+Jasper,Wind Speed,2025-09-16T06:00:00-06:00,2.9
+Jasper,Sulphur Dioxide,2025-09-16T06:00:00-06:00,0.0
 Jasper,Total Reduced Sulphur,2025-09-16T06:00:00-06:00,
+Jasper,,2025-09-16T06:00:00-06:00,2.0
 Jasper,,2025-09-16T05:00:00-06:00,1.0
-Jasper,Wind Speed,2025-09-16T05:00:00-06:00,2.9
-Jasper,Fine Particulate Matter,2025-09-16T05:00:00-06:00,5.5
-Jasper,Relative Humidity,2025-09-16T05:00:00-06:00,83.0
-Jasper,Total Oxides of Nitrogen,2025-09-16T05:00:00-06:00,0.0261
-Jasper,Nitrogen Dioxide,2025-09-16T05:00:00-06:00,0.0147
-Jasper,Ozone,2025-09-16T05:00:00-06:00,0.0018
-Jasper,Outdoor Temperature,2025-09-16T05:00:00-06:00,6.4
+Jasper,Nitric Oxide,2025-09-16T05:00:00-06:00,0.0115
 Jasper,Sulphur Dioxide,2025-09-16T05:00:00-06:00,0.0
 Jasper,Total Reduced Sulphur,2025-09-16T05:00:00-06:00,
-Jasper,Nitric Oxide,2025-09-16T05:00:00-06:00,0.0115
 Jasper,Wind Direction,2025-09-16T05:00:00-06:00,247.8
-Jasper,Nitrogen Dioxide,2025-09-16T04:00:00-06:00,
-Jasper,Ozone,2025-09-16T04:00:00-06:00,0.0042
-Jasper,Nitric Oxide,2025-09-16T04:00:00-06:00,
-Jasper,Relative Humidity,2025-09-16T04:00:00-06:00,81.0
-Jasper,Total Reduced Sulphur,2025-09-16T04:00:00-06:00,
-Jasper,Total Oxides of Nitrogen,2025-09-16T04:00:00-06:00,
-Jasper,Fine Particulate Matter,2025-09-16T04:00:00-06:00,5.2
-Jasper,Wind Direction,2025-09-16T04:00:00-06:00,
+Jasper,Outdoor Temperature,2025-09-16T05:00:00-06:00,6.4
+Jasper,Ozone,2025-09-16T05:00:00-06:00,0.0018
+Jasper,Nitrogen Dioxide,2025-09-16T05:00:00-06:00,0.0147
+Jasper,Total Oxides of Nitrogen,2025-09-16T05:00:00-06:00,0.0261
+Jasper,Relative Humidity,2025-09-16T05:00:00-06:00,83.0
+Jasper,Fine Particulate Matter,2025-09-16T05:00:00-06:00,5.5
+Jasper,Wind Speed,2025-09-16T05:00:00-06:00,2.9
 Jasper,Outdoor Temperature,2025-09-16T04:00:00-06:00,6.9
+Jasper,Fine Particulate Matter,2025-09-16T04:00:00-06:00,5.2
+Jasper,Ozone,2025-09-16T04:00:00-06:00,0.0042
+Jasper,Relative Humidity,2025-09-16T04:00:00-06:00,81.0
+Jasper,Wind Direction,2025-09-16T04:00:00-06:00,
+Jasper,Total Oxides of Nitrogen,2025-09-16T04:00:00-06:00,
+Jasper,Nitrogen Dioxide,2025-09-16T04:00:00-06:00,
+Jasper,Nitric Oxide,2025-09-16T04:00:00-06:00,
 Jasper,Wind Speed,2025-09-16T04:00:00-06:00,
 Jasper,Sulphur Dioxide,2025-09-16T04:00:00-06:00,
+Jasper,Total Reduced Sulphur,2025-09-16T04:00:00-06:00,
 Jasper,,2025-09-16T04:00:00-06:00,1.0
-Jasper,,2025-09-16T03:00:00-06:00,2.0
-Jasper,Fine Particulate Matter,2025-09-16T03:00:00-06:00,5.1
-Jasper,Outdoor Temperature,2025-09-16T03:00:00-06:00,7.6
-Jasper,Total Oxides of Nitrogen,2025-09-16T03:00:00-06:00,0.0119
-Jasper,Nitric Oxide,2025-09-16T03:00:00-06:00,0.0029
-Jasper,Wind Direction,2025-09-16T03:00:00-06:00,
 Jasper,Sulphur Dioxide,2025-09-16T03:00:00-06:00,0.0
 Jasper,Nitrogen Dioxide,2025-09-16T03:00:00-06:00,0.009
+Jasper,Nitric Oxide,2025-09-16T03:00:00-06:00,0.0029
+Jasper,Total Oxides of Nitrogen,2025-09-16T03:00:00-06:00,0.0119
+Jasper,Outdoor Temperature,2025-09-16T03:00:00-06:00,7.6
 Jasper,Relative Humidity,2025-09-16T03:00:00-06:00,79.0
-Jasper,Ozone,2025-09-16T03:00:00-06:00,
-Jasper,Wind Speed,2025-09-16T03:00:00-06:00,
+Jasper,Fine Particulate Matter,2025-09-16T03:00:00-06:00,5.1
+Jasper,,2025-09-16T03:00:00-06:00,2.0
 Jasper,Total Reduced Sulphur,2025-09-16T03:00:00-06:00,
+Jasper,Wind Speed,2025-09-16T03:00:00-06:00,
+Jasper,Ozone,2025-09-16T03:00:00-06:00,
+Jasper,Wind Direction,2025-09-16T03:00:00-06:00,
 Jasper,,2025-09-16T02:00:00-06:00,2.0
-Jasper,Ozone,2025-09-16T02:00:00-06:00,0.0152
-Jasper,Outdoor Temperature,2025-09-16T02:00:00-06:00,8.6
-Jasper,Relative Humidity,2025-09-16T02:00:00-06:00,73.0
-Jasper,Nitric Oxide,2025-09-16T02:00:00-06:00,0.0002
-Jasper,Wind Speed,2025-09-16T02:00:00-06:00,
-Jasper,Nitrogen Dioxide,2025-09-16T02:00:00-06:00,0.0039
-Jasper,Fine Particulate Matter,2025-09-16T02:00:00-06:00,4.8
-Jasper,Wind Direction,2025-09-16T02:00:00-06:00,
-Jasper,Total Oxides of Nitrogen,2025-09-16T02:00:00-06:00,0.0042
 Jasper,Sulphur Dioxide,2025-09-16T02:00:00-06:00,0.0
 Jasper,Total Reduced Sulphur,2025-09-16T02:00:00-06:00,
+Jasper,Wind Direction,2025-09-16T02:00:00-06:00,
+Jasper,Wind Speed,2025-09-16T02:00:00-06:00,
+Jasper,Total Oxides of Nitrogen,2025-09-16T02:00:00-06:00,0.0042
+Jasper,Fine Particulate Matter,2025-09-16T02:00:00-06:00,4.8
+Jasper,Nitrogen Dioxide,2025-09-16T02:00:00-06:00,0.0039
+Jasper,Nitric Oxide,2025-09-16T02:00:00-06:00,0.0002
+Jasper,Relative Humidity,2025-09-16T02:00:00-06:00,73.0
+Jasper,Ozone,2025-09-16T02:00:00-06:00,0.0152
+Jasper,Outdoor Temperature,2025-09-16T02:00:00-06:00,8.6
+Jasper,,2025-09-16T01:00:00-06:00,2.0
+Jasper,Total Reduced Sulphur,2025-09-16T01:00:00-06:00,
+Jasper,Relative Humidity,2025-09-16T01:00:00-06:00,63.0
+Jasper,Outdoor Temperature,2025-09-16T01:00:00-06:00,10.8
 Jasper,Wind Direction,2025-09-16T01:00:00-06:00,251.6
 Jasper,Total Oxides of Nitrogen,2025-09-16T01:00:00-06:00,0.0099
 Jasper,Fine Particulate Matter,2025-09-16T01:00:00-06:00,4.6
 Jasper,Sulphur Dioxide,2025-09-16T01:00:00-06:00,0.0
 Jasper,Ozone,2025-09-16T01:00:00-06:00,0.0145
 Jasper,Nitrogen Dioxide,2025-09-16T01:00:00-06:00,0.0095
-Jasper,Nitric Oxide,2025-09-16T01:00:00-06:00,0.0004
-Jasper,Outdoor Temperature,2025-09-16T01:00:00-06:00,10.8
 Jasper,Wind Speed,2025-09-16T01:00:00-06:00,2.5
-Jasper,Relative Humidity,2025-09-16T01:00:00-06:00,63.0
-Jasper,,2025-09-16T01:00:00-06:00,2.0
-Jasper,Total Reduced Sulphur,2025-09-16T01:00:00-06:00,
-Jasper,,2025-09-16T00:00:00-06:00,2.0
-Jasper,Total Reduced Sulphur,2025-09-16T00:00:00-06:00,
-Jasper,Sulphur Dioxide,2025-09-16T00:00:00-06:00,0.0
+Jasper,Nitric Oxide,2025-09-16T01:00:00-06:00,0.0004
 Jasper,Wind Speed,2025-09-16T00:00:00-06:00,5.3
-Jasper,Total Oxides of Nitrogen,2025-09-16T00:00:00-06:00,0.01
 Jasper,Relative Humidity,2025-09-16T00:00:00-06:00,54.0
 Jasper,Nitric Oxide,2025-09-16T00:00:00-06:00,0.0001
 Jasper,Wind Direction,2025-09-16T00:00:00-06:00,253.2
 Jasper,Nitrogen Dioxide,2025-09-16T00:00:00-06:00,0.0098
-Jasper,Ozone,2025-09-16T00:00:00-06:00,0.0185
 Jasper,Outdoor Temperature,2025-09-16T00:00:00-06:00,12.8
+Jasper,Total Oxides of Nitrogen,2025-09-16T00:00:00-06:00,0.01
+Jasper,Ozone,2025-09-16T00:00:00-06:00,0.0185
+Jasper,Total Reduced Sulphur,2025-09-16T00:00:00-06:00,
 Jasper,Fine Particulate Matter,2025-09-16T00:00:00-06:00,5.0
-Jasper,,2025-09-15T23:00:00-06:00,2.0
-Jasper,Total Reduced Sulphur,2025-09-15T23:00:00-06:00,
-Jasper,Wind Direction,2025-09-15T23:00:00-06:00,232.0
-Jasper,Outdoor Temperature,2025-09-15T23:00:00-06:00,14.0
-Jasper,Relative Humidity,2025-09-15T23:00:00-06:00,51.0
-Jasper,Fine Particulate Matter,2025-09-15T23:00:00-06:00,5.1
-Jasper,Nitric Oxide,2025-09-15T23:00:00-06:00,0.0003
-Jasper,Ozone,2025-09-15T23:00:00-06:00,0.0208
-Jasper,Sulphur Dioxide,2025-09-15T23:00:00-06:00,0.0
+Jasper,,2025-09-16T00:00:00-06:00,2.0
+Jasper,Sulphur Dioxide,2025-09-16T00:00:00-06:00,0.0
 Jasper,Nitrogen Dioxide,2025-09-15T23:00:00-06:00,0.0088
-Jasper,Wind Speed,2025-09-15T23:00:00-06:00,4.3
+Jasper,Ozone,2025-09-15T23:00:00-06:00,0.0208
+Jasper,,2025-09-15T23:00:00-06:00,2.0
+Jasper,Sulphur Dioxide,2025-09-15T23:00:00-06:00,0.0
+Jasper,Nitric Oxide,2025-09-15T23:00:00-06:00,0.0003
+Jasper,Fine Particulate Matter,2025-09-15T23:00:00-06:00,5.1
+Jasper,Relative Humidity,2025-09-15T23:00:00-06:00,51.0
+Jasper,Outdoor Temperature,2025-09-15T23:00:00-06:00,14.0
+Jasper,Wind Direction,2025-09-15T23:00:00-06:00,232.0
+Jasper,Total Reduced Sulphur,2025-09-15T23:00:00-06:00,
 Jasper,Total Oxides of Nitrogen,2025-09-15T23:00:00-06:00,0.0091
-Jasper,,2025-09-15T22:00:00-06:00,2.0
-Jasper,Ozone,2025-09-15T22:00:00-06:00,0.0112
-Jasper,Wind Direction,2025-09-15T22:00:00-06:00,234.9
-Jasper,Outdoor Temperature,2025-09-15T22:00:00-06:00,14.8
-Jasper,Total Oxides of Nitrogen,2025-09-15T22:00:00-06:00,0.0231
-Jasper,Relative Humidity,2025-09-15T22:00:00-06:00,51.0
-Jasper,Wind Speed,2025-09-15T22:00:00-06:00,2.4
-Jasper,Nitrogen Dioxide,2025-09-15T22:00:00-06:00,0.0196
-Jasper,Nitric Oxide,2025-09-15T22:00:00-06:00,0.0036
-Jasper,Fine Particulate Matter,2025-09-15T22:00:00-06:00,4.6
+Jasper,Wind Speed,2025-09-15T23:00:00-06:00,4.3
 Jasper,Total Reduced Sulphur,2025-09-15T22:00:00-06:00,
 Jasper,Sulphur Dioxide,2025-09-15T22:00:00-06:00,0.0
+Jasper,Nitric Oxide,2025-09-15T22:00:00-06:00,0.0036
+Jasper,Wind Direction,2025-09-15T22:00:00-06:00,234.9
+Jasper,Fine Particulate Matter,2025-09-15T22:00:00-06:00,4.6
+Jasper,Nitrogen Dioxide,2025-09-15T22:00:00-06:00,0.0196
+Jasper,Wind Speed,2025-09-15T22:00:00-06:00,2.4
+Jasper,Ozone,2025-09-15T22:00:00-06:00,0.0112
+Jasper,,2025-09-15T22:00:00-06:00,2.0
+Jasper,Outdoor Temperature,2025-09-15T22:00:00-06:00,14.8
+Jasper,Relative Humidity,2025-09-15T22:00:00-06:00,51.0
+Jasper,Total Oxides of Nitrogen,2025-09-15T22:00:00-06:00,0.0231
 Jasper,,2025-09-15T21:00:00-06:00,2.0
-Jasper,Total Reduced Sulphur,2025-09-15T21:00:00-06:00,
-Jasper,Relative Humidity,2025-09-15T21:00:00-06:00,41.0
-Jasper,Outdoor Temperature,2025-09-15T21:00:00-06:00,17.5
-Jasper,Sulphur Dioxide,2025-09-15T21:00:00-06:00,0.0
-Jasper,Nitric Oxide,2025-09-15T21:00:00-06:00,0.0
-Jasper,Total Oxides of Nitrogen,2025-09-15T21:00:00-06:00,0.002
-Jasper,Ozone,2025-09-15T21:00:00-06:00,0.0331
 Jasper,Fine Particulate Matter,2025-09-15T21:00:00-06:00,3.7
-Jasper,Nitrogen Dioxide,2025-09-15T21:00:00-06:00,0.0021
-Jasper,Wind Speed,2025-09-15T21:00:00-06:00,4.0
+Jasper,Outdoor Temperature,2025-09-15T21:00:00-06:00,17.5
+Jasper,Total Oxides of Nitrogen,2025-09-15T21:00:00-06:00,0.002
+Jasper,Relative Humidity,2025-09-15T21:00:00-06:00,41.0
 Jasper,Wind Direction,2025-09-15T21:00:00-06:00,263.6
-Jasper,,2025-09-15T20:00:00-06:00,2.0
-Jasper,Sulphur Dioxide,2025-09-15T20:00:00-06:00,0.0
-Jasper,Total Reduced Sulphur,2025-09-15T20:00:00-06:00,
-Jasper,Ozone,2025-09-15T20:00:00-06:00,0.032
+Jasper,Total Reduced Sulphur,2025-09-15T21:00:00-06:00,
+Jasper,Wind Speed,2025-09-15T21:00:00-06:00,4.0
+Jasper,Nitrogen Dioxide,2025-09-15T21:00:00-06:00,0.0021
+Jasper,Ozone,2025-09-15T21:00:00-06:00,0.0331
+Jasper,Nitric Oxide,2025-09-15T21:00:00-06:00,0.0
+Jasper,Sulphur Dioxide,2025-09-15T21:00:00-06:00,0.0
+Jasper,Nitrogen Dioxide,2025-09-15T20:00:00-06:00,0.0024
 Jasper,Fine Particulate Matter,2025-09-15T20:00:00-06:00,3.7
-Jasper,Nitric Oxide,2025-09-15T20:00:00-06:00,0.0
+Jasper,Wind Speed,2025-09-15T20:00:00-06:00,3.2
 Jasper,Outdoor Temperature,2025-09-15T20:00:00-06:00,19.8
 Jasper,Wind Direction,2025-09-15T20:00:00-06:00,254.2
-Jasper,Wind Speed,2025-09-15T20:00:00-06:00,3.2
+Jasper,Nitric Oxide,2025-09-15T20:00:00-06:00,0.0
+Jasper,Sulphur Dioxide,2025-09-15T20:00:00-06:00,0.0
+Jasper,Ozone,2025-09-15T20:00:00-06:00,0.032
 Jasper,Relative Humidity,2025-09-15T20:00:00-06:00,38.0
-Jasper,Nitrogen Dioxide,2025-09-15T20:00:00-06:00,0.0024
 Jasper,Total Oxides of Nitrogen,2025-09-15T20:00:00-06:00,0.0023
-Jasper,,2025-09-15T19:00:00-06:00,2.0
-Jasper,Ozone,2025-09-15T19:00:00-06:00,0.0327
-Jasper,Wind Speed,2025-09-15T19:00:00-06:00,4.5
-Jasper,Total Oxides of Nitrogen,2025-09-15T19:00:00-06:00,0.0028
-Jasper,Wind Direction,2025-09-15T19:00:00-06:00,209.7
-Jasper,Nitrogen Dioxide,2025-09-15T19:00:00-06:00,0.0026
-Jasper,Nitric Oxide,2025-09-15T19:00:00-06:00,0.0002
-Jasper,Relative Humidity,2025-09-15T19:00:00-06:00,34.0
-Jasper,Outdoor Temperature,2025-09-15T19:00:00-06:00,22.3
-Jasper,Total Reduced Sulphur,2025-09-15T19:00:00-06:00,
-Jasper,Fine Particulate Matter,2025-09-15T19:00:00-06:00,4.3
+Jasper,,2025-09-15T20:00:00-06:00,2.0
+Jasper,Total Reduced Sulphur,2025-09-15T20:00:00-06:00,
 Jasper,Sulphur Dioxide,2025-09-15T19:00:00-06:00,0.0
-Jasper,Outdoor Temperature,2025-09-15T18:00:00-06:00,22.5
-Jasper,Relative Humidity,2025-09-15T18:00:00-06:00,36.0
-Jasper,Wind Direction,2025-09-15T18:00:00-06:00,151.4
-Jasper,Total Oxides of Nitrogen,2025-09-15T18:00:00-06:00,0.0029
-Jasper,Wind Speed,2025-09-15T18:00:00-06:00,8.3
-Jasper,Nitrogen Dioxide,2025-09-15T18:00:00-06:00,0.0017
-Jasper,Fine Particulate Matter,2025-09-15T18:00:00-06:00,6.5
-Jasper,Nitric Oxide,2025-09-15T18:00:00-06:00,0.0012
-Jasper,Ozone,2025-09-15T18:00:00-06:00,0.0309
-Jasper,,2025-09-15T18:00:00-06:00,2.0
+Jasper,Fine Particulate Matter,2025-09-15T19:00:00-06:00,4.3
+Jasper,Wind Speed,2025-09-15T19:00:00-06:00,4.5
+Jasper,Wind Direction,2025-09-15T19:00:00-06:00,209.7
+Jasper,,2025-09-15T19:00:00-06:00,2.0
+Jasper,Relative Humidity,2025-09-15T19:00:00-06:00,34.0
+Jasper,Ozone,2025-09-15T19:00:00-06:00,0.0327
+Jasper,Total Reduced Sulphur,2025-09-15T19:00:00-06:00,
+Jasper,Nitric Oxide,2025-09-15T19:00:00-06:00,0.0002
+Jasper,Nitrogen Dioxide,2025-09-15T19:00:00-06:00,0.0026
+Jasper,Total Oxides of Nitrogen,2025-09-15T19:00:00-06:00,0.0028
+Jasper,Outdoor Temperature,2025-09-15T19:00:00-06:00,22.3
 Jasper,Sulphur Dioxide,2025-09-15T18:00:00-06:00,0.0
+Jasper,Fine Particulate Matter,2025-09-15T18:00:00-06:00,6.5
+Jasper,Relative Humidity,2025-09-15T18:00:00-06:00,36.0
 Jasper,Total Reduced Sulphur,2025-09-15T18:00:00-06:00,
+Jasper,Ozone,2025-09-15T18:00:00-06:00,0.0309
+Jasper,Total Oxides of Nitrogen,2025-09-15T18:00:00-06:00,0.0029
+Jasper,Outdoor Temperature,2025-09-15T18:00:00-06:00,22.5
+Jasper,Nitric Oxide,2025-09-15T18:00:00-06:00,0.0012
+Jasper,Nitrogen Dioxide,2025-09-15T18:00:00-06:00,0.0017
+Jasper,Wind Speed,2025-09-15T18:00:00-06:00,8.3
+Jasper,Wind Direction,2025-09-15T18:00:00-06:00,151.4
+Jasper,,2025-09-15T18:00:00-06:00,2.0
+Jasper,Outdoor Temperature,2025-09-15T17:00:00-06:00,21.9
+Jasper,Relative Humidity,2025-09-15T17:00:00-06:00,38.0
+Jasper,Total Oxides of Nitrogen,2025-09-15T17:00:00-06:00,0.009
 Jasper,Ozone,2025-09-15T17:00:00-06:00,0.0304
 Jasper,,2025-09-15T17:00:00-06:00,2.0
-Jasper,Outdoor Temperature,2025-09-15T17:00:00-06:00,21.9
-Jasper,Fine Particulate Matter,2025-09-15T17:00:00-06:00,7.6
-Jasper,Total Oxides of Nitrogen,2025-09-15T17:00:00-06:00,0.009
-Jasper,Wind Direction,2025-09-15T17:00:00-06:00,143.8
-Jasper,Nitric Oxide,2025-09-15T17:00:00-06:00,0.0057
-Jasper,Sulphur Dioxide,2025-09-15T17:00:00-06:00,0.0
-Jasper,Relative Humidity,2025-09-15T17:00:00-06:00,38.0
-Jasper,Wind Speed,2025-09-15T17:00:00-06:00,8.8
 Jasper,Nitrogen Dioxide,2025-09-15T17:00:00-06:00,0.0033
 Jasper,Total Reduced Sulphur,2025-09-15T17:00:00-06:00,
+Jasper,Nitric Oxide,2025-09-15T17:00:00-06:00,0.0057
+Jasper,Wind Speed,2025-09-15T17:00:00-06:00,8.8
+Jasper,Fine Particulate Matter,2025-09-15T17:00:00-06:00,7.6
+Jasper,Sulphur Dioxide,2025-09-15T17:00:00-06:00,0.0
+Jasper,Wind Direction,2025-09-15T17:00:00-06:00,143.8
 Jasper,Outdoor Temperature,2025-09-15T16:00:00-06:00,21.2
-Jasper,Nitric Oxide,2025-09-15T16:00:00-06:00,0.0009
-Jasper,Total Oxides of Nitrogen,2025-09-15T16:00:00-06:00,0.0025
-Jasper,Nitrogen Dioxide,2025-09-15T16:00:00-06:00,0.0016
-Jasper,Wind Speed,2025-09-15T16:00:00-06:00,9.6
 Jasper,Relative Humidity,2025-09-15T16:00:00-06:00,42.0
-Jasper,Wind Direction,2025-09-15T16:00:00-06:00,146.7
-Jasper,Total Reduced Sulphur,2025-09-15T16:00:00-06:00,
-Jasper,Sulphur Dioxide,2025-09-15T16:00:00-06:00,0.0
-Jasper,Fine Particulate Matter,2025-09-15T16:00:00-06:00,8.7
 Jasper,,2025-09-15T16:00:00-06:00,2.0
+Jasper,Total Oxides of Nitrogen,2025-09-15T16:00:00-06:00,0.0025
 Jasper,Ozone,2025-09-15T16:00:00-06:00,0.0299
-Jasper,Total Reduced Sulphur,2025-09-15T15:00:00-06:00,
+Jasper,Nitric Oxide,2025-09-15T16:00:00-06:00,0.0009
+Jasper,Nitrogen Dioxide,2025-09-15T16:00:00-06:00,0.0016
+Jasper,Fine Particulate Matter,2025-09-15T16:00:00-06:00,8.7
+Jasper,Wind Direction,2025-09-15T16:00:00-06:00,146.7
+Jasper,Sulphur Dioxide,2025-09-15T16:00:00-06:00,0.0
+Jasper,Wind Speed,2025-09-15T16:00:00-06:00,9.6
+Jasper,Total Reduced Sulphur,2025-09-15T16:00:00-06:00,
 Jasper,Wind Direction,2025-09-15T15:00:00-06:00,153.8
-Jasper,Wind Speed,2025-09-15T15:00:00-06:00,8.7
-Jasper,Nitrogen Dioxide,2025-09-15T15:00:00-06:00,0.0022
-Jasper,Relative Humidity,2025-09-15T15:00:00-06:00,51.0
-Jasper,Nitric Oxide,2025-09-15T15:00:00-06:00,0.0017
-Jasper,Total Oxides of Nitrogen,2025-09-15T15:00:00-06:00,0.0038
-Jasper,Sulphur Dioxide,2025-09-15T15:00:00-06:00,0.0
-Jasper,,2025-09-15T15:00:00-06:00,2.0
 Jasper,Fine Particulate Matter,2025-09-15T15:00:00-06:00,10.2
 Jasper,Ozone,2025-09-15T15:00:00-06:00,0.0273
 Jasper,Outdoor Temperature,2025-09-15T15:00:00-06:00,19.7
-Jasper,Total Oxides of Nitrogen,2025-09-15T14:00:00-06:00,0.0027
+Jasper,,2025-09-15T15:00:00-06:00,2.0
+Jasper,Total Oxides of Nitrogen,2025-09-15T15:00:00-06:00,0.0038
+Jasper,Sulphur Dioxide,2025-09-15T15:00:00-06:00,0.0
+Jasper,Nitric Oxide,2025-09-15T15:00:00-06:00,0.0017
+Jasper,Wind Speed,2025-09-15T15:00:00-06:00,8.7
+Jasper,Total Reduced Sulphur,2025-09-15T15:00:00-06:00,
+Jasper,Relative Humidity,2025-09-15T15:00:00-06:00,51.0
+Jasper,Nitrogen Dioxide,2025-09-15T15:00:00-06:00,0.0022
 Jasper,Nitrogen Dioxide,2025-09-15T14:00:00-06:00,0.0012
-Jasper,Relative Humidity,2025-09-15T14:00:00-06:00,62.0
-Jasper,Wind Speed,2025-09-15T14:00:00-06:00,8.1
-Jasper,,2025-09-15T14:00:00-06:00,2.0
-Jasper,Nitric Oxide,2025-09-15T14:00:00-06:00,0.0014
-Jasper,Wind Direction,2025-09-15T14:00:00-06:00,152.9
-Jasper,Sulphur Dioxide,2025-09-15T14:00:00-06:00,0.0
 Jasper,Fine Particulate Matter,2025-09-15T14:00:00-06:00,10.4
-Jasper,Ozone,2025-09-15T14:00:00-06:00,0.0242
-Jasper,Total Reduced Sulphur,2025-09-15T14:00:00-06:00,
 Jasper,Outdoor Temperature,2025-09-15T14:00:00-06:00,17.4
+Jasper,Sulphur Dioxide,2025-09-15T14:00:00-06:00,0.0
+Jasper,,2025-09-15T14:00:00-06:00,2.0
+Jasper,Total Reduced Sulphur,2025-09-15T14:00:00-06:00,
+Jasper,Nitric Oxide,2025-09-15T14:00:00-06:00,0.0014
+Jasper,Wind Speed,2025-09-15T14:00:00-06:00,8.1
+Jasper,Relative Humidity,2025-09-15T14:00:00-06:00,62.0
+Jasper,Total Oxides of Nitrogen,2025-09-15T14:00:00-06:00,0.0027
+Jasper,Ozone,2025-09-15T14:00:00-06:00,0.0242
+Jasper,Wind Direction,2025-09-15T14:00:00-06:00,152.9
+Jasper,Total Oxides of Nitrogen,2025-09-15T13:00:00-06:00,0.0017
+Jasper,Relative Humidity,2025-09-15T13:00:00-06:00,68.0
+Jasper,Total Reduced Sulphur,2025-09-15T13:00:00-06:00,
 Jasper,,2025-09-15T13:00:00-06:00,1.0
 Jasper,Sulphur Dioxide,2025-09-15T13:00:00-06:00,0.0
+Jasper,Wind Direction,2025-09-15T13:00:00-06:00,161.0
+Jasper,Wind Speed,2025-09-15T13:00:00-06:00,4.0
 Jasper,Outdoor Temperature,2025-09-15T13:00:00-06:00,15.9
 Jasper,Fine Particulate Matter,2025-09-15T13:00:00-06:00,10.2
-Jasper,Total Reduced Sulphur,2025-09-15T13:00:00-06:00,
-Jasper,Total Oxides of Nitrogen,2025-09-15T13:00:00-06:00,0.0017
-Jasper,Wind Speed,2025-09-15T13:00:00-06:00,4.0
 Jasper,Nitric Oxide,2025-09-15T13:00:00-06:00,0.0005
-Jasper,Relative Humidity,2025-09-15T13:00:00-06:00,68.0
-Jasper,Nitrogen Dioxide,2025-09-15T13:00:00-06:00,0.0012
-Jasper,Wind Direction,2025-09-15T13:00:00-06:00,161.0
 Jasper,Ozone,2025-09-15T13:00:00-06:00,0.0227
-Jasper,Total Reduced Sulphur,2025-09-15T12:00:00-06:00,
-Jasper,Outdoor Temperature,2025-09-15T12:00:00-06:00,13.5
-Jasper,Sulphur Dioxide,2025-09-15T12:00:00-06:00,0.0
-Jasper,Wind Speed,2025-09-15T12:00:00-06:00,3.0
-Jasper,Nitrogen Dioxide,2025-09-15T12:00:00-06:00,0.0016
+Jasper,Nitrogen Dioxide,2025-09-15T13:00:00-06:00,0.0012
 Jasper,Total Oxides of Nitrogen,2025-09-15T12:00:00-06:00,0.0032
-Jasper,Wind Direction,2025-09-15T12:00:00-06:00,168.2
 Jasper,Relative Humidity,2025-09-15T12:00:00-06:00,78.0
-Jasper,Nitric Oxide,2025-09-15T12:00:00-06:00,0.0016
 Jasper,,2025-09-15T12:00:00-06:00,1.0
-Jasper,Ozone,2025-09-15T12:00:00-06:00,0.0129
+Jasper,Outdoor Temperature,2025-09-15T12:00:00-06:00,13.5
 Jasper,Fine Particulate Matter,2025-09-15T12:00:00-06:00,10.5
-Jasper,Sulphur Dioxide,2025-09-15T11:00:00-06:00,0.0
-Jasper,Wind Speed,2025-09-15T11:00:00-06:00,1.7
-Jasper,Wind Direction,2025-09-15T11:00:00-06:00,238.2
-Jasper,Total Oxides of Nitrogen,2025-09-15T11:00:00-06:00,0.0055
-Jasper,,2025-09-15T11:00:00-06:00,1.0
-Jasper,Nitrogen Dioxide,2025-09-15T11:00:00-06:00,0.0025
-Jasper,Nitric Oxide,2025-09-15T11:00:00-06:00,0.003
-Jasper,Relative Humidity,2025-09-15T11:00:00-06:00,91.0
-Jasper,Fine Particulate Matter,2025-09-15T11:00:00-06:00,10.0
+Jasper,Total Reduced Sulphur,2025-09-15T12:00:00-06:00,
+Jasper,Ozone,2025-09-15T12:00:00-06:00,0.0129
+Jasper,Nitric Oxide,2025-09-15T12:00:00-06:00,0.0016
+Jasper,Wind Direction,2025-09-15T12:00:00-06:00,168.2
+Jasper,Sulphur Dioxide,2025-09-15T12:00:00-06:00,0.0
+Jasper,Nitrogen Dioxide,2025-09-15T12:00:00-06:00,0.0016
+Jasper,Wind Speed,2025-09-15T12:00:00-06:00,3.0
 Jasper,Ozone,2025-09-15T11:00:00-06:00,0.0067
 Jasper,Total Reduced Sulphur,2025-09-15T11:00:00-06:00,
+Jasper,Nitrogen Dioxide,2025-09-15T11:00:00-06:00,0.0025
+Jasper,Fine Particulate Matter,2025-09-15T11:00:00-06:00,10.0
+Jasper,Total Oxides of Nitrogen,2025-09-15T11:00:00-06:00,0.0055
 Jasper,Outdoor Temperature,2025-09-15T11:00:00-06:00,10.6
-Jasper,Fine Particulate Matter,2025-09-15T10:00:00-06:00,9.6
+Jasper,Nitric Oxide,2025-09-15T11:00:00-06:00,0.003
+Jasper,Sulphur Dioxide,2025-09-15T11:00:00-06:00,0.0
+Jasper,Wind Direction,2025-09-15T11:00:00-06:00,238.2
+Jasper,Relative Humidity,2025-09-15T11:00:00-06:00,91.0
+Jasper,Wind Speed,2025-09-15T11:00:00-06:00,1.7
+Jasper,,2025-09-15T11:00:00-06:00,1.0
 Jasper,Ozone,2025-09-15T10:00:00-06:00,0.0046
-Jasper,Sulphur Dioxide,2025-09-15T10:00:00-06:00,0.0
-Jasper,,2025-09-15T10:00:00-06:00,1.0
 Jasper,Total Reduced Sulphur,2025-09-15T10:00:00-06:00,
-Jasper,Nitric Oxide,2025-09-15T10:00:00-06:00,0.0048
 Jasper,Total Oxides of Nitrogen,2025-09-15T10:00:00-06:00,0.008
-Jasper,Relative Humidity,2025-09-15T10:00:00-06:00,93.0
 Jasper,Wind Direction,2025-09-15T10:00:00-06:00,243.6
 Jasper,Nitrogen Dioxide,2025-09-15T10:00:00-06:00,0.0032
-Jasper,Wind Speed,2025-09-15T10:00:00-06:00,2.1
+Jasper,Fine Particulate Matter,2025-09-15T10:00:00-06:00,9.6
 Jasper,Outdoor Temperature,2025-09-15T10:00:00-06:00,9.4
+Jasper,Sulphur Dioxide,2025-09-15T10:00:00-06:00,0.0
+Jasper,,2025-09-15T10:00:00-06:00,1.0
+Jasper,Relative Humidity,2025-09-15T10:00:00-06:00,93.0
+Jasper,Nitric Oxide,2025-09-15T10:00:00-06:00,0.0048
+Jasper,Wind Speed,2025-09-15T10:00:00-06:00,2.1
+Jasper,Ozone,2025-09-15T09:00:00-06:00,0.0029
 Jasper,Wind Speed,2025-09-15T09:00:00-06:00,2.5
 Jasper,Wind Direction,2025-09-15T09:00:00-06:00,246.3
-Jasper,Nitrogen Dioxide,2025-09-15T09:00:00-06:00,0.0033
 Jasper,Total Oxides of Nitrogen,2025-09-15T09:00:00-06:00,0.0085
 Jasper,Relative Humidity,2025-09-15T09:00:00-06:00,95.0
 Jasper,Nitric Oxide,2025-09-15T09:00:00-06:00,0.0052
-Jasper,Fine Particulate Matter,2025-09-15T09:00:00-06:00,10.8
-Jasper,Ozone,2025-09-15T09:00:00-06:00,0.0029
-Jasper,Sulphur Dioxide,2025-09-15T09:00:00-06:00,0.0
-Jasper,,2025-09-15T09:00:00-06:00,1.0
 Jasper,Total Reduced Sulphur,2025-09-15T09:00:00-06:00,
+Jasper,Sulphur Dioxide,2025-09-15T09:00:00-06:00,0.0
+Jasper,Fine Particulate Matter,2025-09-15T09:00:00-06:00,10.8
+Jasper,,2025-09-15T09:00:00-06:00,1.0
+Jasper,Nitrogen Dioxide,2025-09-15T09:00:00-06:00,0.0033
 Jasper,Outdoor Temperature,2025-09-15T09:00:00-06:00,8.6
-Jasper,Ozone,2025-09-15T08:00:00-06:00,0.0012
-Jasper,Sulphur Dioxide,2025-09-15T08:00:00-06:00,0.0
-Jasper,Total Reduced Sulphur,2025-09-15T08:00:00-06:00,
-Jasper,Outdoor Temperature,2025-09-15T08:00:00-06:00,8.1
+Jasper,Nitric Oxide,2025-09-15T08:00:00-06:00,0.0109
+Jasper,,2025-09-15T08:00:00-06:00,1.0
 Jasper,Relative Humidity,2025-09-15T08:00:00-06:00,97.0
+Jasper,Total Reduced Sulphur,2025-09-15T08:00:00-06:00,
+Jasper,Total Oxides of Nitrogen,2025-09-15T08:00:00-06:00,0.0163
+Jasper,Sulphur Dioxide,2025-09-15T08:00:00-06:00,0.0
+Jasper,Fine Particulate Matter,2025-09-15T08:00:00-06:00,11.6
 Jasper,Wind Direction,2025-09-15T08:00:00-06:00,251.8
 Jasper,Wind Speed,2025-09-15T08:00:00-06:00,3.7
-Jasper,Nitric Oxide,2025-09-15T08:00:00-06:00,0.0109
+Jasper,Outdoor Temperature,2025-09-15T08:00:00-06:00,8.1
 Jasper,Nitrogen Dioxide,2025-09-15T08:00:00-06:00,0.0054
-Jasper,Total Oxides of Nitrogen,2025-09-15T08:00:00-06:00,0.0163
-Jasper,,2025-09-15T08:00:00-06:00,1.0
-Jasper,Fine Particulate Matter,2025-09-15T08:00:00-06:00,11.6
-Jasper,Outdoor Temperature,2025-09-15T07:00:00-06:00,8.5
+Jasper,Ozone,2025-09-15T08:00:00-06:00,0.0012
 Jasper,,2025-09-15T07:00:00-06:00,1.0
-Jasper,Total Reduced Sulphur,2025-09-15T07:00:00-06:00,
-Jasper,Ozone,2025-09-15T07:00:00-06:00,0.0011
-Jasper,Sulphur Dioxide,2025-09-15T07:00:00-06:00,0.0
-Jasper,Wind Speed,2025-09-15T07:00:00-06:00,3.3
-Jasper,Nitrogen Dioxide,2025-09-15T07:00:00-06:00,0.0062
+Jasper,Relative Humidity,2025-09-15T07:00:00-06:00,96.0
 Jasper,Wind Direction,2025-09-15T07:00:00-06:00,247.7
 Jasper,Nitric Oxide,2025-09-15T07:00:00-06:00,0.0109
-Jasper,Fine Particulate Matter,2025-09-15T07:00:00-06:00,12.2
-Jasper,Relative Humidity,2025-09-15T07:00:00-06:00,96.0
 Jasper,Total Oxides of Nitrogen,2025-09-15T07:00:00-06:00,0.0171
-Jasper,Outdoor Temperature,2025-09-15T06:00:00-06:00,8.6
-Jasper,Ozone,2025-09-15T06:00:00-06:00,0.0003
-Jasper,Relative Humidity,2025-09-15T06:00:00-06:00,97.0
-Jasper,Wind Direction,2025-09-15T06:00:00-06:00,233.7
-Jasper,Wind Speed,2025-09-15T06:00:00-06:00,2.6
+Jasper,Ozone,2025-09-15T07:00:00-06:00,0.0011
+Jasper,Outdoor Temperature,2025-09-15T07:00:00-06:00,8.5
+Jasper,Nitrogen Dioxide,2025-09-15T07:00:00-06:00,0.0062
+Jasper,Fine Particulate Matter,2025-09-15T07:00:00-06:00,12.2
+Jasper,Sulphur Dioxide,2025-09-15T07:00:00-06:00,0.0
+Jasper,Total Reduced Sulphur,2025-09-15T07:00:00-06:00,
+Jasper,Wind Speed,2025-09-15T07:00:00-06:00,3.3
 Jasper,Nitrogen Dioxide,2025-09-15T06:00:00-06:00,0.006
-Jasper,Nitric Oxide,2025-09-15T06:00:00-06:00,0.0116
-Jasper,Total Oxides of Nitrogen,2025-09-15T06:00:00-06:00,0.0176
-Jasper,,2025-09-15T06:00:00-06:00,1.0
-Jasper,Sulphur Dioxide,2025-09-15T06:00:00-06:00,0.0
+Jasper,Ozone,2025-09-15T06:00:00-06:00,0.0003
+Jasper,Outdoor Temperature,2025-09-15T06:00:00-06:00,8.6
 Jasper,Fine Particulate Matter,2025-09-15T06:00:00-06:00,11.7
+Jasper,Wind Direction,2025-09-15T06:00:00-06:00,233.7
+Jasper,Nitric Oxide,2025-09-15T06:00:00-06:00,0.0116
+Jasper,Wind Speed,2025-09-15T06:00:00-06:00,2.6
+Jasper,Sulphur Dioxide,2025-09-15T06:00:00-06:00,0.0
+Jasper,,2025-09-15T06:00:00-06:00,1.0
+Jasper,Total Oxides of Nitrogen,2025-09-15T06:00:00-06:00,0.0176
+Jasper,Relative Humidity,2025-09-15T06:00:00-06:00,97.0
 Jasper,Total Reduced Sulphur,2025-09-15T06:00:00-06:00,
-Jasper,Outdoor Temperature,2025-09-15T05:00:00-06:00,8.7
 Jasper,Ozone,2025-09-15T05:00:00-06:00,0.001
-Jasper,,2025-09-15T05:00:00-06:00,1.0
-Jasper,Sulphur Dioxide,2025-09-15T05:00:00-06:00,0.0
-Jasper,Fine Particulate Matter,2025-09-15T05:00:00-06:00,11.5
 Jasper,Total Reduced Sulphur,2025-09-15T05:00:00-06:00,
-Jasper,Wind Speed,2025-09-15T05:00:00-06:00,3.4
-Jasper,Nitric Oxide,2025-09-15T05:00:00-06:00,0.005
+Jasper,Outdoor Temperature,2025-09-15T05:00:00-06:00,8.7
 Jasper,Nitrogen Dioxide,2025-09-15T05:00:00-06:00,0.0038
-Jasper,Relative Humidity,2025-09-15T05:00:00-06:00,98.0
+Jasper,,2025-09-15T05:00:00-06:00,1.0
+Jasper,Fine Particulate Matter,2025-09-15T05:00:00-06:00,11.5
 Jasper,Wind Direction,2025-09-15T05:00:00-06:00,260.1
+Jasper,Sulphur Dioxide,2025-09-15T05:00:00-06:00,0.0
+Jasper,Nitric Oxide,2025-09-15T05:00:00-06:00,0.005
+Jasper,Relative Humidity,2025-09-15T05:00:00-06:00,98.0
 Jasper,Total Oxides of Nitrogen,2025-09-15T05:00:00-06:00,0.0088
-Jasper,Total Reduced Sulphur,2025-09-15T04:00:00-06:00,
-Jasper,Ozone,2025-09-15T04:00:00-06:00,0.0038
-Jasper,,2025-09-15T04:00:00-06:00,1.0
+Jasper,Wind Speed,2025-09-15T05:00:00-06:00,3.4
+Jasper,Outdoor Temperature,2025-09-15T04:00:00-06:00,9.0
 Jasper,Fine Particulate Matter,2025-09-15T04:00:00-06:00,12.0
+Jasper,,2025-09-15T04:00:00-06:00,1.0
+Jasper,Wind Speed,2025-09-15T04:00:00-06:00,3.4
+Jasper,Nitrogen Dioxide,2025-09-15T04:00:00-06:00,
+Jasper,Relative Humidity,2025-09-15T04:00:00-06:00,97.0
 Jasper,Nitric Oxide,2025-09-15T04:00:00-06:00,
 Jasper,Sulphur Dioxide,2025-09-15T04:00:00-06:00,
-Jasper,Nitrogen Dioxide,2025-09-15T04:00:00-06:00,
 Jasper,Total Oxides of Nitrogen,2025-09-15T04:00:00-06:00,
-Jasper,Wind Speed,2025-09-15T04:00:00-06:00,3.4
-Jasper,Outdoor Temperature,2025-09-15T04:00:00-06:00,9.0
 Jasper,Wind Direction,2025-09-15T04:00:00-06:00,227.8
-Jasper,Relative Humidity,2025-09-15T04:00:00-06:00,97.0
-Jasper,Total Reduced Sulphur,2025-09-15T03:00:00-06:00,
+Jasper,Total Reduced Sulphur,2025-09-15T04:00:00-06:00,
+Jasper,Ozone,2025-09-15T04:00:00-06:00,0.0038
+Jasper,Total Oxides of Nitrogen,2025-09-15T03:00:00-06:00,0.0026
+Jasper,Relative Humidity,2025-09-15T03:00:00-06:00,98.0
+Jasper,Nitrogen Dioxide,2025-09-15T03:00:00-06:00,0.0022
+Jasper,Nitric Oxide,2025-09-15T03:00:00-06:00,0.0004
+Jasper,,2025-09-15T03:00:00-06:00,1.0
 Jasper,Ozone,2025-09-15T03:00:00-06:00,
+Jasper,Sulphur Dioxide,2025-09-15T03:00:00-06:00,0.0
+Jasper,Fine Particulate Matter,2025-09-15T03:00:00-06:00,11.7
 Jasper,Wind Speed,2025-09-15T03:00:00-06:00,3.8
 Jasper,Wind Direction,2025-09-15T03:00:00-06:00,251.4
-Jasper,Nitric Oxide,2025-09-15T03:00:00-06:00,0.0004
-Jasper,Relative Humidity,2025-09-15T03:00:00-06:00,98.0
-Jasper,,2025-09-15T03:00:00-06:00,1.0
-Jasper,Total Oxides of Nitrogen,2025-09-15T03:00:00-06:00,0.0026
-Jasper,Fine Particulate Matter,2025-09-15T03:00:00-06:00,11.7
-Jasper,Nitrogen Dioxide,2025-09-15T03:00:00-06:00,0.0022
-Jasper,Sulphur Dioxide,2025-09-15T03:00:00-06:00,0.0
+Jasper,Total Reduced Sulphur,2025-09-15T03:00:00-06:00,
 Jasper,Outdoor Temperature,2025-09-15T03:00:00-06:00,9.2
-Jasper,,2025-09-15T02:00:00-06:00,1.0
-Jasper,Fine Particulate Matter,2025-09-15T02:00:00-06:00,11.3
 Jasper,Nitric Oxide,2025-09-15T02:00:00-06:00,0.0008
-Jasper,Wind Direction,2025-09-15T02:00:00-06:00,245.6
-Jasper,Total Oxides of Nitrogen,2025-09-15T02:00:00-06:00,0.0032
-Jasper,Wind Speed,2025-09-15T02:00:00-06:00,2.8
-Jasper,Relative Humidity,2025-09-15T02:00:00-06:00,98.0
 Jasper,Nitrogen Dioxide,2025-09-15T02:00:00-06:00,0.0023
-Jasper,Outdoor Temperature,2025-09-15T02:00:00-06:00,10.0
-Jasper,Sulphur Dioxide,2025-09-15T02:00:00-06:00,0.0
-Jasper,Ozone,2025-09-15T02:00:00-06:00,0.0041
+Jasper,Wind Direction,2025-09-15T02:00:00-06:00,245.6
 Jasper,Total Reduced Sulphur,2025-09-15T02:00:00-06:00,
+Jasper,Sulphur Dioxide,2025-09-15T02:00:00-06:00,0.0
+Jasper,Wind Speed,2025-09-15T02:00:00-06:00,2.8
+Jasper,Ozone,2025-09-15T02:00:00-06:00,0.0041
+Jasper,Outdoor Temperature,2025-09-15T02:00:00-06:00,10.0
+Jasper,Fine Particulate Matter,2025-09-15T02:00:00-06:00,11.3
+Jasper,,2025-09-15T02:00:00-06:00,1.0
+Jasper,Total Oxides of Nitrogen,2025-09-15T02:00:00-06:00,0.0032
+Jasper,Relative Humidity,2025-09-15T02:00:00-06:00,98.0
 Jasper,Outdoor Temperature,2025-09-15T01:00:00-06:00,10.7
-Jasper,Total Reduced Sulphur,2025-09-15T01:00:00-06:00,
-Jasper,Total Oxides of Nitrogen,2025-09-15T01:00:00-06:00,0.0051
-Jasper,Nitric Oxide,2025-09-15T01:00:00-06:00,0.0009
-Jasper,Nitrogen Dioxide,2025-09-15T01:00:00-06:00,0.0042
-Jasper,Sulphur Dioxide,2025-09-15T01:00:00-06:00,0.0
-Jasper,Relative Humidity,2025-09-15T01:00:00-06:00,98.0
-Jasper,Wind Direction,2025-09-15T01:00:00-06:00,248.6
-Jasper,Wind Speed,2025-09-15T01:00:00-06:00,3.6
-Jasper,Fine Particulate Matter,2025-09-15T01:00:00-06:00,11.2
 Jasper,Ozone,2025-09-15T01:00:00-06:00,0.0039
+Jasper,Sulphur Dioxide,2025-09-15T01:00:00-06:00,0.0
+Jasper,Total Reduced Sulphur,2025-09-15T01:00:00-06:00,
+Jasper,Nitrogen Dioxide,2025-09-15T01:00:00-06:00,0.0042
+Jasper,Fine Particulate Matter,2025-09-15T01:00:00-06:00,11.2
+Jasper,Wind Speed,2025-09-15T01:00:00-06:00,3.6
+Jasper,Total Oxides of Nitrogen,2025-09-15T01:00:00-06:00,0.0051
+Jasper,Wind Direction,2025-09-15T01:00:00-06:00,248.6
+Jasper,Relative Humidity,2025-09-15T01:00:00-06:00,98.0
+Jasper,Nitric Oxide,2025-09-15T01:00:00-06:00,0.0009
 Jasper,,2025-09-15T01:00:00-06:00,1.0
 Jasper,Fine Particulate Matter,2025-09-15T00:00:00-06:00,12.0
-Jasper,Total Reduced Sulphur,2025-09-15T00:00:00-06:00,
-Jasper,Total Oxides of Nitrogen,2025-09-15T00:00:00-06:00,0.005
-Jasper,Wind Speed,2025-09-15T00:00:00-06:00,
-Jasper,Wind Direction,2025-09-15T00:00:00-06:00,
-Jasper,,2025-09-15T00:00:00-06:00,1.0
-Jasper,Ozone,2025-09-15T00:00:00-06:00,0.0051
-Jasper,Nitric Oxide,2025-09-15T00:00:00-06:00,0.0008
-Jasper,Outdoor Temperature,2025-09-15T00:00:00-06:00,11.2
-Jasper,Relative Humidity,2025-09-15T00:00:00-06:00,98.0
-Jasper,Sulphur Dioxide,2025-09-15T00:00:00-06:00,0.0
 Jasper,Nitrogen Dioxide,2025-09-15T00:00:00-06:00,0.0042
-Jasper,Nitrogen Dioxide,2025-09-14T23:00:00-06:00,0.0055
-Jasper,,2025-09-14T23:00:00-06:00,1.0
-Jasper,Ozone,2025-09-14T23:00:00-06:00,0.01
+Jasper,Wind Speed,2025-09-15T00:00:00-06:00,
+Jasper,Total Oxides of Nitrogen,2025-09-15T00:00:00-06:00,0.005
+Jasper,Wind Direction,2025-09-15T00:00:00-06:00,
+Jasper,Relative Humidity,2025-09-15T00:00:00-06:00,98.0
+Jasper,Total Reduced Sulphur,2025-09-15T00:00:00-06:00,
+Jasper,Outdoor Temperature,2025-09-15T00:00:00-06:00,11.2
+Jasper,Sulphur Dioxide,2025-09-15T00:00:00-06:00,0.0
+Jasper,Nitric Oxide,2025-09-15T00:00:00-06:00,0.0008
+Jasper,Ozone,2025-09-15T00:00:00-06:00,0.0051
+Jasper,,2025-09-15T00:00:00-06:00,1.0
 Jasper,Outdoor Temperature,2025-09-14T23:00:00-06:00,11.8
-Jasper,Relative Humidity,2025-09-14T23:00:00-06:00,97.0
-Jasper,Nitric Oxide,2025-09-14T23:00:00-06:00,0.001
-Jasper,Total Reduced Sulphur,2025-09-14T23:00:00-06:00,
-Jasper,Wind Speed,2025-09-14T23:00:00-06:00,1.4
 Jasper,Sulphur Dioxide,2025-09-14T23:00:00-06:00,0.0
 Jasper,Wind Direction,2025-09-14T23:00:00-06:00,257.9
-Jasper,Fine Particulate Matter,2025-09-14T23:00:00-06:00,12.1
 Jasper,Total Oxides of Nitrogen,2025-09-14T23:00:00-06:00,0.0065
-Jasper,Nitrogen Dioxide,2025-09-14T22:00:00-06:00,0.0012
-Jasper,Wind Speed,2025-09-14T22:00:00-06:00,
-Jasper,Outdoor Temperature,2025-09-14T22:00:00-06:00,12.1
+Jasper,Relative Humidity,2025-09-14T23:00:00-06:00,97.0
+Jasper,Total Reduced Sulphur,2025-09-14T23:00:00-06:00,
+Jasper,,2025-09-14T23:00:00-06:00,1.0
+Jasper,Nitric Oxide,2025-09-14T23:00:00-06:00,0.001
+Jasper,Ozone,2025-09-14T23:00:00-06:00,0.01
+Jasper,Fine Particulate Matter,2025-09-14T23:00:00-06:00,12.1
+Jasper,Nitrogen Dioxide,2025-09-14T23:00:00-06:00,0.0055
+Jasper,Wind Speed,2025-09-14T23:00:00-06:00,1.4
 Jasper,Ozone,2025-09-14T22:00:00-06:00,0.0121
-Jasper,Fine Particulate Matter,2025-09-14T22:00:00-06:00,10.6
-Jasper,Relative Humidity,2025-09-14T22:00:00-06:00,97.0
-Jasper,Wind Direction,2025-09-14T22:00:00-06:00,
-Jasper,Total Reduced Sulphur,2025-09-14T22:00:00-06:00,
-Jasper,,2025-09-14T22:00:00-06:00,2.0
-Jasper,Nitric Oxide,2025-09-14T22:00:00-06:00,0.0
 Jasper,Sulphur Dioxide,2025-09-14T22:00:00-06:00,0.0
+Jasper,Wind Direction,2025-09-14T22:00:00-06:00,
 Jasper,Total Oxides of Nitrogen,2025-09-14T22:00:00-06:00,0.0011
-Jasper,Ozone,2025-09-14T21:00:00-06:00,0.0214
-Jasper,Total Reduced Sulphur,2025-09-14T21:00:00-06:00,
-Jasper,Sulphur Dioxide,2025-09-14T21:00:00-06:00,0.0
-Jasper,Total Oxides of Nitrogen,2025-09-14T21:00:00-06:00,0.0018
-Jasper,Fine Particulate Matter,2025-09-14T21:00:00-06:00,10.0
-Jasper,Wind Speed,2025-09-14T21:00:00-06:00,2.2
-Jasper,,2025-09-14T21:00:00-06:00,2.0
+Jasper,Total Reduced Sulphur,2025-09-14T22:00:00-06:00,
+Jasper,Nitrogen Dioxide,2025-09-14T22:00:00-06:00,0.0012
+Jasper,,2025-09-14T22:00:00-06:00,2.0
+Jasper,Relative Humidity,2025-09-14T22:00:00-06:00,97.0
+Jasper,Wind Speed,2025-09-14T22:00:00-06:00,
+Jasper,Fine Particulate Matter,2025-09-14T22:00:00-06:00,10.6
+Jasper,Outdoor Temperature,2025-09-14T22:00:00-06:00,12.1
+Jasper,Nitric Oxide,2025-09-14T22:00:00-06:00,0.0
 Jasper,Nitric Oxide,2025-09-14T21:00:00-06:00,0.0001
+Jasper,Wind Speed,2025-09-14T21:00:00-06:00,2.2
+Jasper,Ozone,2025-09-14T21:00:00-06:00,0.0214
+Jasper,Fine Particulate Matter,2025-09-14T21:00:00-06:00,10.0
+Jasper,Sulphur Dioxide,2025-09-14T21:00:00-06:00,0.0
+Jasper,Total Reduced Sulphur,2025-09-14T21:00:00-06:00,
 Jasper,Relative Humidity,2025-09-14T21:00:00-06:00,94.0
 Jasper,Outdoor Temperature,2025-09-14T21:00:00-06:00,12.6
-Jasper,Nitrogen Dioxide,2025-09-14T21:00:00-06:00,0.0017
 Jasper,Wind Direction,2025-09-14T21:00:00-06:00,300.1
-Jasper,Nitric Oxide,2025-09-14T20:00:00-06:00,0.0
-Jasper,Sulphur Dioxide,2025-09-14T20:00:00-06:00,0.0
-Jasper,Ozone,2025-09-14T20:00:00-06:00,0.0284
-Jasper,Fine Particulate Matter,2025-09-14T20:00:00-06:00,9.8
-Jasper,,2025-09-14T20:00:00-06:00,2.0
-Jasper,Wind Speed,2025-09-14T20:00:00-06:00,2.6
+Jasper,Total Oxides of Nitrogen,2025-09-14T21:00:00-06:00,0.0018
+Jasper,Nitrogen Dioxide,2025-09-14T21:00:00-06:00,0.0017
+Jasper,,2025-09-14T21:00:00-06:00,2.0
 Jasper,Total Reduced Sulphur,2025-09-14T20:00:00-06:00,
-Jasper,Total Oxides of Nitrogen,2025-09-14T20:00:00-06:00,0.0014
-Jasper,Nitrogen Dioxide,2025-09-14T20:00:00-06:00,0.0015
+Jasper,Ozone,2025-09-14T20:00:00-06:00,0.0284
+Jasper,Wind Speed,2025-09-14T20:00:00-06:00,2.6
 Jasper,Outdoor Temperature,2025-09-14T20:00:00-06:00,12.9
 Jasper,Relative Humidity,2025-09-14T20:00:00-06:00,93.0
+Jasper,Nitrogen Dioxide,2025-09-14T20:00:00-06:00,0.0015
+Jasper,Fine Particulate Matter,2025-09-14T20:00:00-06:00,9.8
+Jasper,Sulphur Dioxide,2025-09-14T20:00:00-06:00,0.0
+Jasper,Nitric Oxide,2025-09-14T20:00:00-06:00,0.0
+Jasper,,2025-09-14T20:00:00-06:00,2.0
+Jasper,Total Oxides of Nitrogen,2025-09-14T20:00:00-06:00,0.0014
 Jasper,Wind Direction,2025-09-14T20:00:00-06:00,341.8
-Jasper,Wind Speed,2025-09-14T19:00:00-06:00,1.8
-Jasper,Fine Particulate Matter,2025-09-14T19:00:00-06:00,14.6
+Jasper,Outdoor Temperature,2025-09-14T19:00:00-06:00,14.1
 Jasper,Ozone,2025-09-14T19:00:00-06:00,0.0284
+Jasper,Fine Particulate Matter,2025-09-14T19:00:00-06:00,14.6
+Jasper,Wind Speed,2025-09-14T19:00:00-06:00,1.8
+Jasper,Relative Humidity,2025-09-14T19:00:00-06:00,88.0
+Jasper,Sulphur Dioxide,2025-09-14T19:00:00-06:00,0.0
+Jasper,Nitric Oxide,2025-09-14T19:00:00-06:00,0.0
+Jasper,Wind Direction,2025-09-14T19:00:00-06:00,222.4
+Jasper,,2025-09-14T19:00:00-06:00,2.0
 Jasper,Nitrogen Dioxide,2025-09-14T19:00:00-06:00,0.0033
 Jasper,Total Reduced Sulphur,2025-09-14T19:00:00-06:00,
-Jasper,Nitric Oxide,2025-09-14T19:00:00-06:00,0.0
 Jasper,Total Oxides of Nitrogen,2025-09-14T19:00:00-06:00,0.0033
-Jasper,Relative Humidity,2025-09-14T19:00:00-06:00,88.0
-Jasper,Outdoor Temperature,2025-09-14T19:00:00-06:00,14.1
-Jasper,Sulphur Dioxide,2025-09-14T19:00:00-06:00,0.0
-Jasper,,2025-09-14T19:00:00-06:00,2.0
-Jasper,Wind Direction,2025-09-14T19:00:00-06:00,222.4
-Jasper,Wind Speed,2025-09-14T18:00:00-06:00,0.8
-Jasper,Fine Particulate Matter,2025-09-14T18:00:00-06:00,16.8
-Jasper,Nitrogen Dioxide,2025-09-14T18:00:00-06:00,0.0056
-Jasper,Total Oxides of Nitrogen,2025-09-14T18:00:00-06:00,0.0062
-Jasper,Total Reduced Sulphur,2025-09-14T18:00:00-06:00,
-Jasper,Sulphur Dioxide,2025-09-14T18:00:00-06:00,0.0
 Jasper,Outdoor Temperature,2025-09-14T18:00:00-06:00,15.2
-Jasper,Nitric Oxide,2025-09-14T18:00:00-06:00,0.0005
-Jasper,Relative Humidity,2025-09-14T18:00:00-06:00,85.0
-Jasper,Ozone,2025-09-14T18:00:00-06:00,0.0226
+Jasper,Fine Particulate Matter,2025-09-14T18:00:00-06:00,16.8
+Jasper,Sulphur Dioxide,2025-09-14T18:00:00-06:00,0.0
+Jasper,Wind Speed,2025-09-14T18:00:00-06:00,0.8
+Jasper,Total Reduced Sulphur,2025-09-14T18:00:00-06:00,
+Jasper,Total Oxides of Nitrogen,2025-09-14T18:00:00-06:00,0.0062
+Jasper,Nitrogen Dioxide,2025-09-14T18:00:00-06:00,0.0056
 Jasper,Wind Direction,2025-09-14T18:00:00-06:00,249.1
 Jasper,,2025-09-14T18:00:00-06:00,3.0
+Jasper,Relative Humidity,2025-09-14T18:00:00-06:00,85.0
+Jasper,Ozone,2025-09-14T18:00:00-06:00,0.0226
+Jasper,Nitric Oxide,2025-09-14T18:00:00-06:00,0.0005
+Jasper,Wind Direction,2025-09-14T17:00:00-06:00,258.6
+Jasper,Total Oxides of Nitrogen,2025-09-14T17:00:00-06:00,0.0021
+Jasper,Wind Speed,2025-09-14T17:00:00-06:00,9.4
 Jasper,Total Reduced Sulphur,2025-09-14T17:00:00-06:00,
-Jasper,Nitric Oxide,2025-09-14T17:00:00-06:00,0.0
+Jasper,,2025-09-14T17:00:00-06:00,3.0
 Jasper,Nitrogen Dioxide,2025-09-14T17:00:00-06:00,0.0021
+Jasper,Nitric Oxide,2025-09-14T17:00:00-06:00,0.0
+Jasper,Relative Humidity,2025-09-14T17:00:00-06:00,81.0
 Jasper,Sulphur Dioxide,2025-09-14T17:00:00-06:00,0.0
 Jasper,Fine Particulate Matter,2025-09-14T17:00:00-06:00,15.8
 Jasper,Ozone,2025-09-14T17:00:00-06:00,0.0318
-Jasper,,2025-09-14T17:00:00-06:00,3.0
 Jasper,Outdoor Temperature,2025-09-14T17:00:00-06:00,15.0
-Jasper,Wind Direction,2025-09-14T17:00:00-06:00,258.6
-Jasper,Relative Humidity,2025-09-14T17:00:00-06:00,81.0
-Jasper,Wind Speed,2025-09-14T17:00:00-06:00,9.4
-Jasper,Total Oxides of Nitrogen,2025-09-14T17:00:00-06:00,0.0021
+Jasper,Total Oxides of Nitrogen,2025-09-14T16:00:00-06:00,0.0076
+Jasper,Total Reduced Sulphur,2025-09-14T16:00:00-06:00,
+Jasper,,2025-09-14T16:00:00-06:00,3.0
 Jasper,Nitrogen Dioxide,2025-09-14T16:00:00-06:00,0.0067
+Jasper,Relative Humidity,2025-09-14T16:00:00-06:00,56.0
 Jasper,Sulphur Dioxide,2025-09-14T16:00:00-06:00,0.0
+Jasper,Fine Particulate Matter,2025-09-14T16:00:00-06:00,14.8
 Jasper,Ozone,2025-09-14T16:00:00-06:00,0.0266
 Jasper,Outdoor Temperature,2025-09-14T16:00:00-06:00,18.8
-Jasper,Fine Particulate Matter,2025-09-14T16:00:00-06:00,14.8
-Jasper,Wind Speed,2025-09-14T16:00:00-06:00,5.9
-Jasper,Total Oxides of Nitrogen,2025-09-14T16:00:00-06:00,0.0076
-Jasper,Relative Humidity,2025-09-14T16:00:00-06:00,56.0
-Jasper,,2025-09-14T16:00:00-06:00,3.0
-Jasper,Wind Direction,2025-09-14T16:00:00-06:00,241.1
-Jasper,Total Reduced Sulphur,2025-09-14T16:00:00-06:00,
 Jasper,Nitric Oxide,2025-09-14T16:00:00-06:00,0.0009
-Jasper,Total Oxides of Nitrogen,2025-09-14T15:00:00-06:00,0.0065
-Jasper,Relative Humidity,2025-09-14T15:00:00-06:00,49.0
+Jasper,Wind Speed,2025-09-14T16:00:00-06:00,5.9
+Jasper,Wind Direction,2025-09-14T16:00:00-06:00,241.1
 Jasper,,2025-09-14T15:00:00-06:00,3.0
-Jasper,Fine Particulate Matter,2025-09-14T15:00:00-06:00,14.8
+Jasper,Ozone,2025-09-14T15:00:00-06:00,0.0277
+Jasper,Sulphur Dioxide,2025-09-14T15:00:00-06:00,0.0
+Jasper,Wind Speed,2025-09-14T15:00:00-06:00,
+Jasper,Total Oxides of Nitrogen,2025-09-14T15:00:00-06:00,0.0065
 Jasper,Wind Direction,2025-09-14T15:00:00-06:00,
 Jasper,Outdoor Temperature,2025-09-14T15:00:00-06:00,19.4
-Jasper,Sulphur Dioxide,2025-09-14T15:00:00-06:00,0.0
-Jasper,Total Reduced Sulphur,2025-09-14T15:00:00-06:00,
-Jasper,Nitric Oxide,2025-09-14T15:00:00-06:00,0.0007
-Jasper,Ozone,2025-09-14T15:00:00-06:00,0.0277
-Jasper,Wind Speed,2025-09-14T15:00:00-06:00,
+Jasper,Relative Humidity,2025-09-14T15:00:00-06:00,49.0
 Jasper,Nitrogen Dioxide,2025-09-14T15:00:00-06:00,0.0057
-Jasper,Total Oxides of Nitrogen,2025-09-14T14:00:00-06:00,0.0039
+Jasper,Nitric Oxide,2025-09-14T15:00:00-06:00,0.0007
+Jasper,Total Reduced Sulphur,2025-09-14T15:00:00-06:00,
+Jasper,Fine Particulate Matter,2025-09-14T15:00:00-06:00,14.8
+Jasper,Ozone,2025-09-14T14:00:00-06:00,0.0292
+Jasper,Sulphur Dioxide,2025-09-14T14:00:00-06:00,0.0
+Jasper,Wind Direction,2025-09-14T14:00:00-06:00,
+Jasper,Outdoor Temperature,2025-09-14T14:00:00-06:00,19.2
+Jasper,Nitrogen Dioxide,2025-09-14T14:00:00-06:00,0.0036
+Jasper,Total Reduced Sulphur,2025-09-14T14:00:00-06:00,
+Jasper,Fine Particulate Matter,2025-09-14T14:00:00-06:00,14.9
+Jasper,Nitric Oxide,2025-09-14T14:00:00-06:00,0.0003
 Jasper,,2025-09-14T14:00:00-06:00,2.0
 Jasper,Relative Humidity,2025-09-14T14:00:00-06:00,49.0
-Jasper,Fine Particulate Matter,2025-09-14T14:00:00-06:00,14.9
-Jasper,Wind Direction,2025-09-14T14:00:00-06:00,
-Jasper,Total Reduced Sulphur,2025-09-14T14:00:00-06:00,
-Jasper,Outdoor Temperature,2025-09-14T14:00:00-06:00,19.2
-Jasper,Sulphur Dioxide,2025-09-14T14:00:00-06:00,0.0
-Jasper,Nitric Oxide,2025-09-14T14:00:00-06:00,0.0003
-Jasper,Ozone,2025-09-14T14:00:00-06:00,0.0292
 Jasper,Wind Speed,2025-09-14T14:00:00-06:00,
-Jasper,Nitrogen Dioxide,2025-09-14T14:00:00-06:00,0.0036
-Jasper,,2025-09-14T13:00:00-06:00,2.0
-Jasper,Fine Particulate Matter,2025-09-14T13:00:00-06:00,15.6
-Jasper,Wind Direction,2025-09-14T13:00:00-06:00,
-Jasper,Total Oxides of Nitrogen,2025-09-14T13:00:00-06:00,0.0039
-Jasper,Sulphur Dioxide,2025-09-14T13:00:00-06:00,0.0
-Jasper,Wind Speed,2025-09-14T13:00:00-06:00,
-Jasper,Nitrogen Dioxide,2025-09-14T13:00:00-06:00,0.0035
-Jasper,Nitric Oxide,2025-09-14T13:00:00-06:00,0.0004
-Jasper,Ozone,2025-09-14T13:00:00-06:00,0.027
+Jasper,Total Oxides of Nitrogen,2025-09-14T14:00:00-06:00,0.0039
 Jasper,Total Reduced Sulphur,2025-09-14T13:00:00-06:00,
+Jasper,Fine Particulate Matter,2025-09-14T13:00:00-06:00,15.6
+Jasper,Nitric Oxide,2025-09-14T13:00:00-06:00,0.0004
+Jasper,,2025-09-14T13:00:00-06:00,2.0
+Jasper,Wind Direction,2025-09-14T13:00:00-06:00,
 Jasper,Relative Humidity,2025-09-14T13:00:00-06:00,50.0
 Jasper,Outdoor Temperature,2025-09-14T13:00:00-06:00,18.5
-Jasper,Total Oxides of Nitrogen,2025-09-14T12:00:00-06:00,0.0031
-Jasper,Wind Direction,2025-09-14T12:00:00-06:00,
-Jasper,Nitric Oxide,2025-09-14T12:00:00-06:00,0.0006
-Jasper,Relative Humidity,2025-09-14T12:00:00-06:00,52.0
+Jasper,Nitrogen Dioxide,2025-09-14T13:00:00-06:00,0.0035
+Jasper,Wind Speed,2025-09-14T13:00:00-06:00,
+Jasper,Sulphur Dioxide,2025-09-14T13:00:00-06:00,0.0
+Jasper,Total Oxides of Nitrogen,2025-09-14T13:00:00-06:00,0.0039
+Jasper,Ozone,2025-09-14T13:00:00-06:00,0.027
 Jasper,Total Reduced Sulphur,2025-09-14T12:00:00-06:00,
-Jasper,,2025-09-14T12:00:00-06:00,2.0
-Jasper,Fine Particulate Matter,2025-09-14T12:00:00-06:00,15.8
 Jasper,Wind Speed,2025-09-14T12:00:00-06:00,0.2
-Jasper,Sulphur Dioxide,2025-09-14T12:00:00-06:00,0.0
-Jasper,Outdoor Temperature,2025-09-14T12:00:00-06:00,17.8
+Jasper,Relative Humidity,2025-09-14T12:00:00-06:00,52.0
 Jasper,Ozone,2025-09-14T12:00:00-06:00,0.0265
+Jasper,Sulphur Dioxide,2025-09-14T12:00:00-06:00,0.0
+Jasper,Total Oxides of Nitrogen,2025-09-14T12:00:00-06:00,0.0031
 Jasper,Nitrogen Dioxide,2025-09-14T12:00:00-06:00,0.0026
+Jasper,,2025-09-14T12:00:00-06:00,2.0
+Jasper,Outdoor Temperature,2025-09-14T12:00:00-06:00,17.8
+Jasper,Wind Direction,2025-09-14T12:00:00-06:00,
+Jasper,Fine Particulate Matter,2025-09-14T12:00:00-06:00,15.8
+Jasper,Nitric Oxide,2025-09-14T12:00:00-06:00,0.0006
 Jasper,Sulphur Dioxide,2025-09-14T11:00:00-06:00,0.0
-Jasper,Wind Speed,2025-09-14T11:00:00-06:00,3.1
-Jasper,Nitric Oxide,2025-09-14T11:00:00-06:00,0.0058
-Jasper,Ozone,2025-09-14T11:00:00-06:00,0.0137
-Jasper,,2025-09-14T11:00:00-06:00,2.0
-Jasper,Nitrogen Dioxide,2025-09-14T11:00:00-06:00,0.0095
-Jasper,Fine Particulate Matter,2025-09-14T11:00:00-06:00,16.9
 Jasper,Total Oxides of Nitrogen,2025-09-14T11:00:00-06:00,0.0153
+Jasper,Wind Direction,2025-09-14T11:00:00-06:00,244.3
+Jasper,Nitric Oxide,2025-09-14T11:00:00-06:00,0.0058
+Jasper,Nitrogen Dioxide,2025-09-14T11:00:00-06:00,0.0095
+Jasper,Ozone,2025-09-14T11:00:00-06:00,0.0137
+Jasper,Fine Particulate Matter,2025-09-14T11:00:00-06:00,16.9
+Jasper,,2025-09-14T11:00:00-06:00,2.0
+Jasper,Outdoor Temperature,2025-09-14T11:00:00-06:00,14.5
 Jasper,Relative Humidity,2025-09-14T11:00:00-06:00,71.0
 Jasper,Total Reduced Sulphur,2025-09-14T11:00:00-06:00,
-Jasper,Outdoor Temperature,2025-09-14T11:00:00-06:00,14.5
-Jasper,Wind Direction,2025-09-14T11:00:00-06:00,244.3
-Jasper,Sulphur Dioxide,2025-09-14T10:00:00-06:00,0.0
-Jasper,Relative Humidity,2025-09-14T10:00:00-06:00,76.0
-Jasper,Fine Particulate Matter,2025-09-14T10:00:00-06:00,17.1
-Jasper,Outdoor Temperature,2025-09-14T10:00:00-06:00,13.3
-Jasper,Wind Speed,2025-09-14T10:00:00-06:00,2.2
-Jasper,Total Reduced Sulphur,2025-09-14T10:00:00-06:00,
-Jasper,,2025-09-14T10:00:00-06:00,2.0
-Jasper,Total Oxides of Nitrogen,2025-09-14T10:00:00-06:00,0.0199
+Jasper,Wind Speed,2025-09-14T11:00:00-06:00,3.1
 Jasper,Ozone,2025-09-14T10:00:00-06:00,0.0091
-Jasper,Wind Direction,2025-09-14T10:00:00-06:00,244.2
-Jasper,Nitric Oxide,2025-09-14T10:00:00-06:00,0.0082
+Jasper,Sulphur Dioxide,2025-09-14T10:00:00-06:00,0.0
 Jasper,Nitrogen Dioxide,2025-09-14T10:00:00-06:00,0.0117
-Jasper,Ozone,2025-09-14T09:00:00-06:00,0.0122
-Jasper,,2025-09-14T09:00:00-06:00,2.0
-Jasper,Fine Particulate Matter,2025-09-14T09:00:00-06:00,15.0
+Jasper,Outdoor Temperature,2025-09-14T10:00:00-06:00,13.3
+Jasper,Total Oxides of Nitrogen,2025-09-14T10:00:00-06:00,0.0199
+Jasper,Total Reduced Sulphur,2025-09-14T10:00:00-06:00,
+Jasper,Wind Speed,2025-09-14T10:00:00-06:00,2.2
+Jasper,Relative Humidity,2025-09-14T10:00:00-06:00,76.0
+Jasper,Wind Direction,2025-09-14T10:00:00-06:00,244.2
+Jasper,,2025-09-14T10:00:00-06:00,2.0
+Jasper,Nitric Oxide,2025-09-14T10:00:00-06:00,0.0082
+Jasper,Fine Particulate Matter,2025-09-14T10:00:00-06:00,17.1
+Jasper,Total Oxides of Nitrogen,2025-09-14T09:00:00-06:00,0.0109
 Jasper,Total Reduced Sulphur,2025-09-14T09:00:00-06:00,
-Jasper,Outdoor Temperature,2025-09-14T09:00:00-06:00,12.3
 Jasper,Wind Speed,2025-09-14T09:00:00-06:00,
 Jasper,Nitrogen Dioxide,2025-09-14T09:00:00-06:00,0.0091
 Jasper,Wind Direction,2025-09-14T09:00:00-06:00,
+Jasper,Fine Particulate Matter,2025-09-14T09:00:00-06:00,15.0
 Jasper,Relative Humidity,2025-09-14T09:00:00-06:00,77.0
-Jasper,Sulphur Dioxide,2025-09-14T09:00:00-06:00,0.0
-Jasper,Total Oxides of Nitrogen,2025-09-14T09:00:00-06:00,0.0109
+Jasper,Outdoor Temperature,2025-09-14T09:00:00-06:00,12.3
+Jasper,Ozone,2025-09-14T09:00:00-06:00,0.0122
 Jasper,Nitric Oxide,2025-09-14T09:00:00-06:00,0.0018
-Jasper,Wind Direction,2025-09-14T08:00:00-06:00,262.4
+Jasper,,2025-09-14T09:00:00-06:00,2.0
+Jasper,Sulphur Dioxide,2025-09-14T09:00:00-06:00,0.0
+Jasper,Wind Speed,2025-09-14T08:00:00-06:00,2.3
+Jasper,Relative Humidity,2025-09-14T08:00:00-06:00,67.0
+Jasper,Fine Particulate Matter,2025-09-14T08:00:00-06:00,14.2
+Jasper,,2025-09-14T08:00:00-06:00,2.0
+Jasper,Ozone,2025-09-14T08:00:00-06:00,0.009
 Jasper,Outdoor Temperature,2025-09-14T08:00:00-06:00,12.5
 Jasper,Nitrogen Dioxide,2025-09-14T08:00:00-06:00,0.013
-Jasper,Total Reduced Sulphur,2025-09-14T08:00:00-06:00,
-Jasper,Sulphur Dioxide,2025-09-14T08:00:00-06:00,0.0
-Jasper,Ozone,2025-09-14T08:00:00-06:00,0.009
-Jasper,Wind Speed,2025-09-14T08:00:00-06:00,2.3
 Jasper,Nitric Oxide,2025-09-14T08:00:00-06:00,0.0042
+Jasper,Total Reduced Sulphur,2025-09-14T08:00:00-06:00,
+Jasper,Wind Direction,2025-09-14T08:00:00-06:00,262.4
 Jasper,Total Oxides of Nitrogen,2025-09-14T08:00:00-06:00,0.0173
-Jasper,Fine Particulate Matter,2025-09-14T08:00:00-06:00,14.2
-Jasper,Relative Humidity,2025-09-14T08:00:00-06:00,67.0
-Jasper,,2025-09-14T08:00:00-06:00,2.0
-Jasper,Nitrogen Dioxide,2025-09-14T07:00:00-06:00,0.0167
-Jasper,Ozone,2025-09-14T07:00:00-06:00,0.0059
-Jasper,Outdoor Temperature,2025-09-14T07:00:00-06:00,12.0
-Jasper,Sulphur Dioxide,2025-09-14T07:00:00-06:00,0.0
-Jasper,Fine Particulate Matter,2025-09-14T07:00:00-06:00,13.7
-Jasper,Wind Speed,2025-09-14T07:00:00-06:00,2.2
-Jasper,,2025-09-14T07:00:00-06:00,2.0
-Jasper,Total Reduced Sulphur,2025-09-14T07:00:00-06:00,
-Jasper,Total Oxides of Nitrogen,2025-09-14T07:00:00-06:00,0.0203
+Jasper,Sulphur Dioxide,2025-09-14T08:00:00-06:00,0.0
 Jasper,Relative Humidity,2025-09-14T07:00:00-06:00,68.0
 Jasper,Nitric Oxide,2025-09-14T07:00:00-06:00,0.0036
+Jasper,,2025-09-14T07:00:00-06:00,2.0
+Jasper,Ozone,2025-09-14T07:00:00-06:00,0.0059
+Jasper,Total Reduced Sulphur,2025-09-14T07:00:00-06:00,
+Jasper,Nitrogen Dioxide,2025-09-14T07:00:00-06:00,0.0167
 Jasper,Wind Direction,2025-09-14T07:00:00-06:00,251.2
-Jasper,Wind Speed,2025-09-14T06:00:00-06:00,3.9
-Jasper,,2025-09-14T06:00:00-06:00,2.0
-Jasper,Total Reduced Sulphur,2025-09-14T06:00:00-06:00,
-Jasper,Fine Particulate Matter,2025-09-14T06:00:00-06:00,13.2
-Jasper,Sulphur Dioxide,2025-09-14T06:00:00-06:00,0.0
-Jasper,Relative Humidity,2025-09-14T06:00:00-06:00,70.0
-Jasper,Total Oxides of Nitrogen,2025-09-14T06:00:00-06:00,0.0294
-Jasper,Outdoor Temperature,2025-09-14T06:00:00-06:00,11.6
-Jasper,Nitric Oxide,2025-09-14T06:00:00-06:00,0.0095
-Jasper,Wind Direction,2025-09-14T06:00:00-06:00,249.1
+Jasper,Total Oxides of Nitrogen,2025-09-14T07:00:00-06:00,0.0203
+Jasper,Fine Particulate Matter,2025-09-14T07:00:00-06:00,13.7
+Jasper,Wind Speed,2025-09-14T07:00:00-06:00,2.2
+Jasper,Sulphur Dioxide,2025-09-14T07:00:00-06:00,0.0
+Jasper,Outdoor Temperature,2025-09-14T07:00:00-06:00,12.0
 Jasper,Ozone,2025-09-14T06:00:00-06:00,0.002
+Jasper,Wind Speed,2025-09-14T06:00:00-06:00,3.9
+Jasper,Relative Humidity,2025-09-14T06:00:00-06:00,70.0
+Jasper,Total Reduced Sulphur,2025-09-14T06:00:00-06:00,
+Jasper,Total Oxides of Nitrogen,2025-09-14T06:00:00-06:00,0.0294
+Jasper,Nitric Oxide,2025-09-14T06:00:00-06:00,0.0095
+Jasper,Fine Particulate Matter,2025-09-14T06:00:00-06:00,13.2
+Jasper,Wind Direction,2025-09-14T06:00:00-06:00,249.1
 Jasper,Nitrogen Dioxide,2025-09-14T06:00:00-06:00,0.0198
+Jasper,Outdoor Temperature,2025-09-14T06:00:00-06:00,11.6
+Jasper,,2025-09-14T06:00:00-06:00,2.0
+Jasper,Sulphur Dioxide,2025-09-14T06:00:00-06:00,0.0
+Jasper,Relative Humidity,2025-09-14T05:00:00-06:00,70.0
+Jasper,Fine Particulate Matter,2025-09-14T05:00:00-06:00,13.4
+Jasper,Total Reduced Sulphur,2025-09-14T05:00:00-06:00,
+Jasper,Outdoor Temperature,2025-09-14T05:00:00-06:00,11.7
+Jasper,Nitric Oxide,2025-09-14T05:00:00-06:00,0.0081
 Jasper,,2025-09-14T05:00:00-06:00,2.0
+Jasper,Wind Direction,2025-09-14T05:00:00-06:00,248.0
 Jasper,Total Oxides of Nitrogen,2025-09-14T05:00:00-06:00,0.0219
 Jasper,Nitrogen Dioxide,2025-09-14T05:00:00-06:00,0.0137
 Jasper,Wind Speed,2025-09-14T05:00:00-06:00,3.7
-Jasper,Total Reduced Sulphur,2025-09-14T05:00:00-06:00,
 Jasper,Ozone,2025-09-14T05:00:00-06:00,0.0069
-Jasper,Outdoor Temperature,2025-09-14T05:00:00-06:00,11.7
 Jasper,Sulphur Dioxide,2025-09-14T05:00:00-06:00,0.0
-Jasper,Wind Direction,2025-09-14T05:00:00-06:00,248.0
-Jasper,Relative Humidity,2025-09-14T05:00:00-06:00,70.0
-Jasper,Fine Particulate Matter,2025-09-14T05:00:00-06:00,13.4
-Jasper,Nitric Oxide,2025-09-14T05:00:00-06:00,0.0081
-Jasper,Total Reduced Sulphur,2025-09-14T04:00:00-06:00,
-Jasper,Relative Humidity,2025-09-14T04:00:00-06:00,69.0
-Jasper,Outdoor Temperature,2025-09-14T04:00:00-06:00,12.0
-Jasper,Wind Speed,2025-09-14T04:00:00-06:00,2.7
-Jasper,Wind Direction,2025-09-14T04:00:00-06:00,245.9
-Jasper,Nitric Oxide,2025-09-14T04:00:00-06:00,
 Jasper,Sulphur Dioxide,2025-09-14T04:00:00-06:00,
+Jasper,Nitric Oxide,2025-09-14T04:00:00-06:00,
+Jasper,Relative Humidity,2025-09-14T04:00:00-06:00,69.0
+Jasper,Wind Direction,2025-09-14T04:00:00-06:00,245.9
 Jasper,Ozone,2025-09-14T04:00:00-06:00,0.0071
-Jasper,Fine Particulate Matter,2025-09-14T04:00:00-06:00,13.2
-Jasper,,2025-09-14T04:00:00-06:00,2.0
+Jasper,Wind Speed,2025-09-14T04:00:00-06:00,2.7
 Jasper,Nitrogen Dioxide,2025-09-14T04:00:00-06:00,
 Jasper,Total Oxides of Nitrogen,2025-09-14T04:00:00-06:00,
+Jasper,Fine Particulate Matter,2025-09-14T04:00:00-06:00,13.2
+Jasper,Total Reduced Sulphur,2025-09-14T04:00:00-06:00,
+Jasper,,2025-09-14T04:00:00-06:00,2.0
+Jasper,Outdoor Temperature,2025-09-14T04:00:00-06:00,12.0
+Jasper,Sulphur Dioxide,2025-09-14T03:00:00-06:00,0.0
 Jasper,Wind Direction,2025-09-14T03:00:00-06:00,255.3
-Jasper,Nitric Oxide,2025-09-14T03:00:00-06:00,0.002
-Jasper,Outdoor Temperature,2025-09-14T03:00:00-06:00,12.7
+Jasper,Fine Particulate Matter,2025-09-14T03:00:00-06:00,13.6
 Jasper,,2025-09-14T03:00:00-06:00,2.0
 Jasper,Nitrogen Dioxide,2025-09-14T03:00:00-06:00,0.0158
-Jasper,Relative Humidity,2025-09-14T03:00:00-06:00,67.0
-Jasper,Total Oxides of Nitrogen,2025-09-14T03:00:00-06:00,0.0178
+Jasper,Outdoor Temperature,2025-09-14T03:00:00-06:00,12.7
+Jasper,Nitric Oxide,2025-09-14T03:00:00-06:00,0.002
 Jasper,Ozone,2025-09-14T03:00:00-06:00,
-Jasper,Sulphur Dioxide,2025-09-14T03:00:00-06:00,0.0
-Jasper,Wind Speed,2025-09-14T03:00:00-06:00,2.4
+Jasper,Total Oxides of Nitrogen,2025-09-14T03:00:00-06:00,0.0178
 Jasper,Total Reduced Sulphur,2025-09-14T03:00:00-06:00,
-Jasper,Fine Particulate Matter,2025-09-14T03:00:00-06:00,13.6
-Jasper,Wind Speed,2025-09-14T02:00:00-06:00,1.3
+Jasper,Relative Humidity,2025-09-14T03:00:00-06:00,67.0
+Jasper,Wind Speed,2025-09-14T03:00:00-06:00,2.4
+Jasper,Outdoor Temperature,2025-09-14T02:00:00-06:00,13.3
+Jasper,Total Reduced Sulphur,2025-09-14T02:00:00-06:00,
 Jasper,Nitric Oxide,2025-09-14T02:00:00-06:00,0.0028
-Jasper,Nitrogen Dioxide,2025-09-14T02:00:00-06:00,0.0177
-Jasper,Wind Direction,2025-09-14T02:00:00-06:00,232.5
+Jasper,Fine Particulate Matter,2025-09-14T02:00:00-06:00,13.7
+Jasper,Total Oxides of Nitrogen,2025-09-14T02:00:00-06:00,0.0206
+Jasper,Wind Speed,2025-09-14T02:00:00-06:00,1.3
+Jasper,Relative Humidity,2025-09-14T02:00:00-06:00,64.0
 Jasper,,2025-09-14T02:00:00-06:00,2.0
 Jasper,Ozone,2025-09-14T02:00:00-06:00,0.0051
-Jasper,Outdoor Temperature,2025-09-14T02:00:00-06:00,13.3
-Jasper,Total Oxides of Nitrogen,2025-09-14T02:00:00-06:00,0.0206
-Jasper,Fine Particulate Matter,2025-09-14T02:00:00-06:00,13.7
 Jasper,Sulphur Dioxide,2025-09-14T02:00:00-06:00,0.0
-Jasper,Total Reduced Sulphur,2025-09-14T02:00:00-06:00,
-Jasper,Relative Humidity,2025-09-14T02:00:00-06:00,64.0
-Jasper,Wind Direction,2025-09-14T01:00:00-06:00,237.8
-Jasper,Nitric Oxide,2025-09-14T01:00:00-06:00,0.0008
-Jasper,Relative Humidity,2025-09-14T01:00:00-06:00,58.0
-Jasper,Total Oxides of Nitrogen,2025-09-14T01:00:00-06:00,0.0083
-Jasper,Wind Speed,2025-09-14T01:00:00-06:00,3.6
-Jasper,Fine Particulate Matter,2025-09-14T01:00:00-06:00,14.1
-Jasper,Sulphur Dioxide,2025-09-14T01:00:00-06:00,0.0
-Jasper,Total Reduced Sulphur,2025-09-14T01:00:00-06:00,
-Jasper,Outdoor Temperature,2025-09-14T01:00:00-06:00,14.6
-Jasper,Ozone,2025-09-14T01:00:00-06:00,0.0165
-Jasper,,2025-09-14T01:00:00-06:00,2.0
+Jasper,Wind Direction,2025-09-14T02:00:00-06:00,232.5
+Jasper,Nitrogen Dioxide,2025-09-14T02:00:00-06:00,0.0177
 Jasper,Nitrogen Dioxide,2025-09-14T01:00:00-06:00,0.0076
-Jasper,Nitrogen Dioxide,2025-09-14T00:00:00-06:00,0.0076
-Jasper,Ozone,2025-09-14T00:00:00-06:00,0.0203
-Jasper,Outdoor Temperature,2025-09-14T00:00:00-06:00,16.3
+Jasper,Total Oxides of Nitrogen,2025-09-14T01:00:00-06:00,0.0083
+Jasper,Total Reduced Sulphur,2025-09-14T01:00:00-06:00,
+Jasper,Fine Particulate Matter,2025-09-14T01:00:00-06:00,14.1
+Jasper,Nitric Oxide,2025-09-14T01:00:00-06:00,0.0008
+Jasper,Outdoor Temperature,2025-09-14T01:00:00-06:00,14.6
+Jasper,Wind Speed,2025-09-14T01:00:00-06:00,3.6
+Jasper,,2025-09-14T01:00:00-06:00,2.0
+Jasper,Sulphur Dioxide,2025-09-14T01:00:00-06:00,0.0
+Jasper,Relative Humidity,2025-09-14T01:00:00-06:00,58.0
+Jasper,Ozone,2025-09-14T01:00:00-06:00,0.0165
+Jasper,Wind Direction,2025-09-14T01:00:00-06:00,237.8
+Jasper,Relative Humidity,2025-09-14T00:00:00-06:00,51.0
 Jasper,,2025-09-14T00:00:00-06:00,2.0
+Jasper,Outdoor Temperature,2025-09-14T00:00:00-06:00,16.3
+Jasper,Wind Speed,2025-09-14T00:00:00-06:00,7.5
+Jasper,Nitrogen Dioxide,2025-09-14T00:00:00-06:00,0.0076
 Jasper,Fine Particulate Matter,2025-09-14T00:00:00-06:00,13.5
 Jasper,Total Reduced Sulphur,2025-09-14T00:00:00-06:00,
-Jasper,Relative Humidity,2025-09-14T00:00:00-06:00,51.0
-Jasper,Wind Speed,2025-09-14T00:00:00-06:00,7.5
-Jasper,Total Oxides of Nitrogen,2025-09-14T00:00:00-06:00,0.0078
-Jasper,Wind Direction,2025-09-14T00:00:00-06:00,245.7
 Jasper,Sulphur Dioxide,2025-09-14T00:00:00-06:00,0.0
+Jasper,Ozone,2025-09-14T00:00:00-06:00,0.0203
 Jasper,Nitric Oxide,2025-09-14T00:00:00-06:00,0.0002
-Jasper,,2025-09-13T23:00:00-06:00,3.0
-Jasper,Total Reduced Sulphur,2025-09-13T23:00:00-06:00,
-Jasper,Sulphur Dioxide,2025-09-13T23:00:00-06:00,0.0
-Jasper,Wind Direction,2025-09-13T23:00:00-06:00,249.8
-Jasper,Wind Speed,2025-09-13T23:00:00-06:00,6.9
-Jasper,Ozone,2025-09-13T23:00:00-06:00,0.0218
+Jasper,Wind Direction,2025-09-14T00:00:00-06:00,245.7
+Jasper,Total Oxides of Nitrogen,2025-09-14T00:00:00-06:00,0.0078
 Jasper,Relative Humidity,2025-09-13T23:00:00-06:00,48.0
-Jasper,Total Oxides of Nitrogen,2025-09-13T23:00:00-06:00,0.0094
-Jasper,Fine Particulate Matter,2025-09-13T23:00:00-06:00,13.1
-Jasper,Nitric Oxide,2025-09-13T23:00:00-06:00,0.002
 Jasper,Nitrogen Dioxide,2025-09-13T23:00:00-06:00,0.0074
+Jasper,Total Reduced Sulphur,2025-09-13T23:00:00-06:00,
+Jasper,Wind Direction,2025-09-13T23:00:00-06:00,249.8
+Jasper,Total Oxides of Nitrogen,2025-09-13T23:00:00-06:00,0.0094
+Jasper,Nitric Oxide,2025-09-13T23:00:00-06:00,0.002
+Jasper,Wind Speed,2025-09-13T23:00:00-06:00,6.9
+Jasper,Fine Particulate Matter,2025-09-13T23:00:00-06:00,13.1
+Jasper,,2025-09-13T23:00:00-06:00,3.0
 Jasper,Outdoor Temperature,2025-09-13T23:00:00-06:00,17.3
-Jasper,Outdoor Temperature,2025-09-13T22:00:00-06:00,18.9
-Jasper,Wind Direction,2025-09-13T22:00:00-06:00,244.7
+Jasper,Ozone,2025-09-13T23:00:00-06:00,0.0218
+Jasper,Sulphur Dioxide,2025-09-13T23:00:00-06:00,0.0
+Jasper,Wind Speed,2025-09-13T22:00:00-06:00,6.0
+Jasper,Nitric Oxide,2025-09-13T22:00:00-06:00,0.0003
 Jasper,Sulphur Dioxide,2025-09-13T22:00:00-06:00,0.0
+Jasper,Total Oxides of Nitrogen,2025-09-13T22:00:00-06:00,0.0109
+Jasper,Nitrogen Dioxide,2025-09-13T22:00:00-06:00,0.0105
+Jasper,Total Reduced Sulphur,2025-09-13T22:00:00-06:00,
+Jasper,Wind Direction,2025-09-13T22:00:00-06:00,244.7
+Jasper,Outdoor Temperature,2025-09-13T22:00:00-06:00,18.9
 Jasper,Fine Particulate Matter,2025-09-13T22:00:00-06:00,13.0
 Jasper,Relative Humidity,2025-09-13T22:00:00-06:00,45.0
-Jasper,Total Oxides of Nitrogen,2025-09-13T22:00:00-06:00,0.0109
 Jasper,,2025-09-13T22:00:00-06:00,3.0
 Jasper,Ozone,2025-09-13T22:00:00-06:00,0.0201
-Jasper,Nitrogen Dioxide,2025-09-13T22:00:00-06:00,0.0105
-Jasper,Nitric Oxide,2025-09-13T22:00:00-06:00,0.0003
-Jasper,Total Reduced Sulphur,2025-09-13T22:00:00-06:00,
-Jasper,Wind Speed,2025-09-13T22:00:00-06:00,6.0
+Jasper,Nitric Oxide,2025-09-13T21:00:00-06:00,0.0
+Jasper,Sulphur Dioxide,2025-09-13T21:00:00-06:00,0.0
+Jasper,Total Oxides of Nitrogen,2025-09-13T21:00:00-06:00,0.0048
+Jasper,Fine Particulate Matter,2025-09-13T21:00:00-06:00,14.3
 Jasper,Nitrogen Dioxide,2025-09-13T21:00:00-06:00,0.005
-Jasper,,2025-09-13T21:00:00-06:00,3.0
-Jasper,Wind Speed,2025-09-13T21:00:00-06:00,3.2
 Jasper,Outdoor Temperature,2025-09-13T21:00:00-06:00,21.5
 Jasper,Ozone,2025-09-13T21:00:00-06:00,0.0305
-Jasper,Total Oxides of Nitrogen,2025-09-13T21:00:00-06:00,0.0048
-Jasper,Sulphur Dioxide,2025-09-13T21:00:00-06:00,0.0
-Jasper,Total Reduced Sulphur,2025-09-13T21:00:00-06:00,
-Jasper,Wind Direction,2025-09-13T21:00:00-06:00,253.9
-Jasper,Nitric Oxide,2025-09-13T21:00:00-06:00,0.0
-Jasper,Fine Particulate Matter,2025-09-13T21:00:00-06:00,14.3
+Jasper,,2025-09-13T21:00:00-06:00,3.0
+Jasper,Wind Speed,2025-09-13T21:00:00-06:00,3.2
 Jasper,Relative Humidity,2025-09-13T21:00:00-06:00,35.0
-Jasper,Nitric Oxide,2025-09-13T20:00:00-06:00,0.0008
-Jasper,Nitrogen Dioxide,2025-09-13T20:00:00-06:00,0.0041
-Jasper,Wind Speed,2025-09-13T20:00:00-06:00,2.9
+Jasper,Wind Direction,2025-09-13T21:00:00-06:00,253.9
+Jasper,Total Reduced Sulphur,2025-09-13T21:00:00-06:00,
 Jasper,Ozone,2025-09-13T20:00:00-06:00,0.0349
-Jasper,,2025-09-13T20:00:00-06:00,3.0
 Jasper,Outdoor Temperature,2025-09-13T20:00:00-06:00,23.5
-Jasper,Sulphur Dioxide,2025-09-13T20:00:00-06:00,0.0
-Jasper,Total Oxides of Nitrogen,2025-09-13T20:00:00-06:00,0.0049
-Jasper,Total Reduced Sulphur,2025-09-13T20:00:00-06:00,
+Jasper,Relative Humidity,2025-09-13T20:00:00-06:00,30.0
 Jasper,Wind Direction,2025-09-13T20:00:00-06:00,133.0
 Jasper,Fine Particulate Matter,2025-09-13T20:00:00-06:00,13.4
-Jasper,Relative Humidity,2025-09-13T20:00:00-06:00,30.0
-Jasper,Sulphur Dioxide,2025-09-13T19:00:00-06:00,0.0
-Jasper,Outdoor Temperature,2025-09-13T19:00:00-06:00,24.4
-Jasper,Relative Humidity,2025-09-13T19:00:00-06:00,29.0
-Jasper,Fine Particulate Matter,2025-09-13T19:00:00-06:00,13.5
-Jasper,Total Reduced Sulphur,2025-09-13T19:00:00-06:00,
+Jasper,Total Oxides of Nitrogen,2025-09-13T20:00:00-06:00,0.0049
+Jasper,Nitrogen Dioxide,2025-09-13T20:00:00-06:00,0.0041
+Jasper,,2025-09-13T20:00:00-06:00,3.0
+Jasper,Total Reduced Sulphur,2025-09-13T20:00:00-06:00,
+Jasper,Sulphur Dioxide,2025-09-13T20:00:00-06:00,0.0
+Jasper,Wind Speed,2025-09-13T20:00:00-06:00,2.9
+Jasper,Nitric Oxide,2025-09-13T20:00:00-06:00,0.0008
 Jasper,Wind Direction,2025-09-13T19:00:00-06:00,130.2
-Jasper,,2025-09-13T19:00:00-06:00,3.0
-Jasper,Total Oxides of Nitrogen,2025-09-13T19:00:00-06:00,0.0065
-Jasper,Ozone,2025-09-13T19:00:00-06:00,0.0344
+Jasper,Outdoor Temperature,2025-09-13T19:00:00-06:00,24.4
 Jasper,Wind Speed,2025-09-13T19:00:00-06:00,3.3
-Jasper,Nitrogen Dioxide,2025-09-13T19:00:00-06:00,0.0058
+Jasper,Total Oxides of Nitrogen,2025-09-13T19:00:00-06:00,0.0065
+Jasper,Sulphur Dioxide,2025-09-13T19:00:00-06:00,0.0
+Jasper,Total Reduced Sulphur,2025-09-13T19:00:00-06:00,
 Jasper,Nitric Oxide,2025-09-13T19:00:00-06:00,0.0008
+Jasper,,2025-09-13T19:00:00-06:00,3.0
+Jasper,Nitrogen Dioxide,2025-09-13T19:00:00-06:00,0.0058
+Jasper,Fine Particulate Matter,2025-09-13T19:00:00-06:00,13.5
+Jasper,Relative Humidity,2025-09-13T19:00:00-06:00,29.0
+Jasper,Ozone,2025-09-13T19:00:00-06:00,0.0344
 Jasper,Nitric Oxide,2025-09-13T18:00:00-06:00,0.0
-Jasper,Relative Humidity,2025-09-13T18:00:00-06:00,28.0
-Jasper,,2025-09-13T18:00:00-06:00,3.0
-Jasper,Total Oxides of Nitrogen,2025-09-13T18:00:00-06:00,0.0018
-Jasper,Wind Speed,2025-09-13T18:00:00-06:00,6.6
-Jasper,Ozone,2025-09-13T18:00:00-06:00,0.0393
-Jasper,Sulphur Dioxide,2025-09-13T18:00:00-06:00,0.0
 Jasper,Total Reduced Sulphur,2025-09-13T18:00:00-06:00,
-Jasper,Outdoor Temperature,2025-09-13T18:00:00-06:00,25.0
-Jasper,Fine Particulate Matter,2025-09-13T18:00:00-06:00,13.7
-Jasper,Wind Direction,2025-09-13T18:00:00-06:00,263.4
+Jasper,Sulphur Dioxide,2025-09-13T18:00:00-06:00,0.0
+Jasper,,2025-09-13T18:00:00-06:00,3.0
 Jasper,Nitrogen Dioxide,2025-09-13T18:00:00-06:00,0.0019
-Jasper,Wind Speed,2025-09-13T17:00:00-06:00,4.8
+Jasper,Fine Particulate Matter,2025-09-13T18:00:00-06:00,13.7
+Jasper,Total Oxides of Nitrogen,2025-09-13T18:00:00-06:00,0.0018
+Jasper,Relative Humidity,2025-09-13T18:00:00-06:00,28.0
+Jasper,Ozone,2025-09-13T18:00:00-06:00,0.0393
+Jasper,Outdoor Temperature,2025-09-13T18:00:00-06:00,25.0
+Jasper,Wind Speed,2025-09-13T18:00:00-06:00,6.6
+Jasper,Wind Direction,2025-09-13T18:00:00-06:00,263.4
+Jasper,Nitric Oxide,2025-09-13T17:00:00-06:00,0.0
 Jasper,Total Reduced Sulphur,2025-09-13T17:00:00-06:00,
+Jasper,Nitrogen Dioxide,2025-09-13T17:00:00-06:00,0.0021
 Jasper,Sulphur Dioxide,2025-09-13T17:00:00-06:00,0.0
+Jasper,Fine Particulate Matter,2025-09-13T17:00:00-06:00,14.2
+Jasper,Total Oxides of Nitrogen,2025-09-13T17:00:00-06:00,0.0021
+Jasper,Relative Humidity,2025-09-13T17:00:00-06:00,27.0
 Jasper,Ozone,2025-09-13T17:00:00-06:00,0.0389
 Jasper,Outdoor Temperature,2025-09-13T17:00:00-06:00,25.3
-Jasper,Relative Humidity,2025-09-13T17:00:00-06:00,27.0
-Jasper,Nitric Oxide,2025-09-13T17:00:00-06:00,0.0
-Jasper,Fine Particulate Matter,2025-09-13T17:00:00-06:00,14.2
-Jasper,Wind Direction,2025-09-13T17:00:00-06:00,256.2
 Jasper,,2025-09-13T17:00:00-06:00,3.0
-Jasper,Total Oxides of Nitrogen,2025-09-13T17:00:00-06:00,0.0021
-Jasper,Nitrogen Dioxide,2025-09-13T17:00:00-06:00,0.0021
-Jasper,Ozone,2025-09-13T16:00:00-06:00,0.0384
-Jasper,Sulphur Dioxide,2025-09-13T16:00:00-06:00,0.0
-Jasper,Wind Speed,2025-09-13T16:00:00-06:00,2.7
+Jasper,Wind Direction,2025-09-13T17:00:00-06:00,256.2
+Jasper,Wind Speed,2025-09-13T17:00:00-06:00,4.8
 Jasper,Total Reduced Sulphur,2025-09-13T16:00:00-06:00,
 Jasper,Relative Humidity,2025-09-13T16:00:00-06:00,28.0
-Jasper,Nitrogen Dioxide,2025-09-13T16:00:00-06:00,0.0015
+Jasper,Wind Speed,2025-09-13T16:00:00-06:00,2.7
 Jasper,Wind Direction,2025-09-13T16:00:00-06:00,263.5
-Jasper,Fine Particulate Matter,2025-09-13T16:00:00-06:00,15.9
-Jasper,Nitric Oxide,2025-09-13T16:00:00-06:00,0.0
 Jasper,Outdoor Temperature,2025-09-13T16:00:00-06:00,24.9
+Jasper,Ozone,2025-09-13T16:00:00-06:00,0.0384
 Jasper,,2025-09-13T16:00:00-06:00,3.0
 Jasper,Total Oxides of Nitrogen,2025-09-13T16:00:00-06:00,0.0015
-Jasper,Ozone,2025-09-13T15:00:00-06:00,0.0346
-Jasper,,2025-09-13T15:00:00-06:00,3.0
-Jasper,Nitrogen Dioxide,2025-09-13T15:00:00-06:00,0.0025
-Jasper,Wind Direction,2025-09-13T15:00:00-06:00,163.2
+Jasper,Sulphur Dioxide,2025-09-13T16:00:00-06:00,0.0
+Jasper,Nitrogen Dioxide,2025-09-13T16:00:00-06:00,0.0015
+Jasper,Fine Particulate Matter,2025-09-13T16:00:00-06:00,15.9
+Jasper,Nitric Oxide,2025-09-13T16:00:00-06:00,0.0
 Jasper,Total Oxides of Nitrogen,2025-09-13T15:00:00-06:00,0.0033
-Jasper,Outdoor Temperature,2025-09-13T15:00:00-06:00,24.2
-Jasper,Fine Particulate Matter,2025-09-13T15:00:00-06:00,22.3
-Jasper,Total Reduced Sulphur,2025-09-13T15:00:00-06:00,
 Jasper,Relative Humidity,2025-09-13T15:00:00-06:00,31.0
-Jasper,Nitric Oxide,2025-09-13T15:00:00-06:00,0.0008
-Jasper,Wind Speed,2025-09-13T15:00:00-06:00,1.8
 Jasper,Sulphur Dioxide,2025-09-13T15:00:00-06:00,0.0
+Jasper,Fine Particulate Matter,2025-09-13T15:00:00-06:00,22.3
+Jasper,Nitric Oxide,2025-09-13T15:00:00-06:00,0.0008
+Jasper,Outdoor Temperature,2025-09-13T15:00:00-06:00,24.2
+Jasper,,2025-09-13T15:00:00-06:00,3.0
+Jasper,Ozone,2025-09-13T15:00:00-06:00,0.0346
+Jasper,Total Reduced Sulphur,2025-09-13T15:00:00-06:00,
+Jasper,Wind Direction,2025-09-13T15:00:00-06:00,163.2
+Jasper,Wind Speed,2025-09-13T15:00:00-06:00,1.8
+Jasper,Nitrogen Dioxide,2025-09-13T15:00:00-06:00,0.0025
 Jasper,Outdoor Temperature,2025-09-13T14:00:00-06:00,21.3
-Jasper,Total Reduced Sulphur,2025-09-13T14:00:00-06:00,
-Jasper,Nitrogen Dioxide,2025-09-13T14:00:00-06:00,0.0025
-Jasper,Wind Speed,2025-09-13T14:00:00-06:00,
+Jasper,,2025-09-13T14:00:00-06:00,3.0
 Jasper,Nitric Oxide,2025-09-13T14:00:00-06:00,0.0008
 Jasper,Ozone,2025-09-13T14:00:00-06:00,0.0278
-Jasper,,2025-09-13T14:00:00-06:00,3.0
-Jasper,Total Oxides of Nitrogen,2025-09-13T14:00:00-06:00,0.0033
-Jasper,Fine Particulate Matter,2025-09-13T14:00:00-06:00,29.3
-Jasper,Relative Humidity,2025-09-13T14:00:00-06:00,40.0
-Jasper,Wind Direction,2025-09-13T14:00:00-06:00,
 Jasper,Sulphur Dioxide,2025-09-13T14:00:00-06:00,0.0
-Jasper,Ozone,2025-09-13T13:00:00-06:00,0.0275
-Jasper,Nitrogen Dioxide,2025-09-13T13:00:00-06:00,0.0019
-Jasper,Wind Direction,2025-09-13T13:00:00-06:00,133.6
+Jasper,Total Reduced Sulphur,2025-09-13T14:00:00-06:00,
+Jasper,Total Oxides of Nitrogen,2025-09-13T14:00:00-06:00,0.0033
+Jasper,Wind Direction,2025-09-13T14:00:00-06:00,
+Jasper,Wind Speed,2025-09-13T14:00:00-06:00,
+Jasper,Relative Humidity,2025-09-13T14:00:00-06:00,40.0
+Jasper,Fine Particulate Matter,2025-09-13T14:00:00-06:00,29.3
+Jasper,Nitrogen Dioxide,2025-09-13T14:00:00-06:00,0.0025
 Jasper,,2025-09-13T13:00:00-06:00,3.0
+Jasper,Ozone,2025-09-13T13:00:00-06:00,0.0275
 Jasper,Total Oxides of Nitrogen,2025-09-13T13:00:00-06:00,0.0023
-Jasper,Outdoor Temperature,2025-09-13T13:00:00-06:00,19.2
-Jasper,Total Reduced Sulphur,2025-09-13T13:00:00-06:00,
-Jasper,Fine Particulate Matter,2025-09-13T13:00:00-06:00,31.8
 Jasper,Relative Humidity,2025-09-13T13:00:00-06:00,44.0
-Jasper,Sulphur Dioxide,2025-09-13T13:00:00-06:00,0.0
-Jasper,Nitric Oxide,2025-09-13T13:00:00-06:00,0.0004
+Jasper,Wind Direction,2025-09-13T13:00:00-06:00,133.6
 Jasper,Wind Speed,2025-09-13T13:00:00-06:00,2.4
-Jasper,Ozone,2025-09-13T12:00:00-06:00,0.0224
+Jasper,Nitrogen Dioxide,2025-09-13T13:00:00-06:00,0.0019
+Jasper,Sulphur Dioxide,2025-09-13T13:00:00-06:00,0.0
+Jasper,Fine Particulate Matter,2025-09-13T13:00:00-06:00,31.8
+Jasper,Total Reduced Sulphur,2025-09-13T13:00:00-06:00,
+Jasper,Nitric Oxide,2025-09-13T13:00:00-06:00,0.0004
+Jasper,Outdoor Temperature,2025-09-13T13:00:00-06:00,19.2
 Jasper,Nitrogen Dioxide,2025-09-13T12:00:00-06:00,0.0031
-Jasper,Wind Direction,2025-09-13T12:00:00-06:00,176.7
-Jasper,Total Reduced Sulphur,2025-09-13T12:00:00-06:00,
-Jasper,,2025-09-13T12:00:00-06:00,3.0
-Jasper,Total Oxides of Nitrogen,2025-09-13T12:00:00-06:00,0.0057
-Jasper,Outdoor Temperature,2025-09-13T12:00:00-06:00,16.0
-Jasper,Fine Particulate Matter,2025-09-13T12:00:00-06:00,33.3
-Jasper,Wind Speed,2025-09-13T12:00:00-06:00,2.2
 Jasper,Relative Humidity,2025-09-13T12:00:00-06:00,52.0
 Jasper,Sulphur Dioxide,2025-09-13T12:00:00-06:00,0.0
+Jasper,Wind Direction,2025-09-13T12:00:00-06:00,176.7
+Jasper,Fine Particulate Matter,2025-09-13T12:00:00-06:00,33.3
+Jasper,Total Reduced Sulphur,2025-09-13T12:00:00-06:00,
+Jasper,Wind Speed,2025-09-13T12:00:00-06:00,2.2
+Jasper,Total Oxides of Nitrogen,2025-09-13T12:00:00-06:00,0.0057
+Jasper,Ozone,2025-09-13T12:00:00-06:00,0.0224
 Jasper,Nitric Oxide,2025-09-13T12:00:00-06:00,0.0026
-Jasper,Wind Direction,2025-09-13T11:00:00-06:00,177.4
+Jasper,,2025-09-13T12:00:00-06:00,3.0
+Jasper,Outdoor Temperature,2025-09-13T12:00:00-06:00,16.0
+Jasper,Sulphur Dioxide,2025-09-13T11:00:00-06:00,0.0
+Jasper,Relative Humidity,2025-09-13T11:00:00-06:00,64.0
 Jasper,Total Oxides of Nitrogen,2025-09-13T11:00:00-06:00,0.0054
 Jasper,,2025-09-13T11:00:00-06:00,3.0
-Jasper,Sulphur Dioxide,2025-09-13T11:00:00-06:00,0.0
-Jasper,Outdoor Temperature,2025-09-13T11:00:00-06:00,12.4
-Jasper,Total Reduced Sulphur,2025-09-13T11:00:00-06:00,
 Jasper,Fine Particulate Matter,2025-09-13T11:00:00-06:00,35.1
-Jasper,Ozone,2025-09-13T11:00:00-06:00,0.0161
-Jasper,Relative Humidity,2025-09-13T11:00:00-06:00,64.0
 Jasper,Nitric Oxide,2025-09-13T11:00:00-06:00,0.0023
-Jasper,Wind Speed,2025-09-13T11:00:00-06:00,2.4
+Jasper,Ozone,2025-09-13T11:00:00-06:00,0.0161
+Jasper,Wind Direction,2025-09-13T11:00:00-06:00,177.4
 Jasper,Nitrogen Dioxide,2025-09-13T11:00:00-06:00,0.0032
-Jasper,Relative Humidity,2025-09-13T10:00:00-06:00,79.0
-Jasper,Outdoor Temperature,2025-09-13T10:00:00-06:00,9.2
-Jasper,Fine Particulate Matter,2025-09-13T10:00:00-06:00,34.9
-Jasper,Total Reduced Sulphur,2025-09-13T10:00:00-06:00,
-Jasper,Ozone,2025-09-13T10:00:00-06:00,0.0053
+Jasper,Total Reduced Sulphur,2025-09-13T11:00:00-06:00,
+Jasper,Wind Speed,2025-09-13T11:00:00-06:00,2.4
+Jasper,Outdoor Temperature,2025-09-13T11:00:00-06:00,12.4
 Jasper,Total Oxides of Nitrogen,2025-09-13T10:00:00-06:00,0.0342
 Jasper,,2025-09-13T10:00:00-06:00,3.0
-Jasper,Wind Speed,2025-09-13T10:00:00-06:00,1.6
+Jasper,Ozone,2025-09-13T10:00:00-06:00,0.0053
 Jasper,Wind Direction,2025-09-13T10:00:00-06:00,214.0
-Jasper,Nitric Oxide,2025-09-13T10:00:00-06:00,0.0227
 Jasper,Sulphur Dioxide,2025-09-13T10:00:00-06:00,0.0
 Jasper,Nitrogen Dioxide,2025-09-13T10:00:00-06:00,0.0115
-Jasper,Relative Humidity,2025-09-13T09:00:00-06:00,84.0
-Jasper,Outdoor Temperature,2025-09-13T09:00:00-06:00,8.2
-Jasper,Total Reduced Sulphur,2025-09-13T09:00:00-06:00,
-Jasper,,2025-09-13T09:00:00-06:00,3.0
-Jasper,Nitric Oxide,2025-09-13T09:00:00-06:00,0.0212
-Jasper,Wind Speed,2025-09-13T09:00:00-06:00,
-Jasper,Sulphur Dioxide,2025-09-13T09:00:00-06:00,0.0
-Jasper,Nitrogen Dioxide,2025-09-13T09:00:00-06:00,0.0128
+Jasper,Total Reduced Sulphur,2025-09-13T10:00:00-06:00,
+Jasper,Wind Speed,2025-09-13T10:00:00-06:00,1.6
+Jasper,Fine Particulate Matter,2025-09-13T10:00:00-06:00,34.9
+Jasper,Relative Humidity,2025-09-13T10:00:00-06:00,79.0
+Jasper,Nitric Oxide,2025-09-13T10:00:00-06:00,0.0227
+Jasper,Outdoor Temperature,2025-09-13T10:00:00-06:00,9.2
 Jasper,Total Oxides of Nitrogen,2025-09-13T09:00:00-06:00,0.034
 Jasper,Ozone,2025-09-13T09:00:00-06:00,0.002
 Jasper,Wind Direction,2025-09-13T09:00:00-06:00,
+Jasper,Sulphur Dioxide,2025-09-13T09:00:00-06:00,0.0
+Jasper,,2025-09-13T09:00:00-06:00,3.0
+Jasper,Nitrogen Dioxide,2025-09-13T09:00:00-06:00,0.0128
+Jasper,Total Reduced Sulphur,2025-09-13T09:00:00-06:00,
 Jasper,Fine Particulate Matter,2025-09-13T09:00:00-06:00,34.1
-Jasper,Sulphur Dioxide,2025-09-13T08:00:00-06:00,0.0
-Jasper,Wind Speed,2025-09-13T08:00:00-06:00,
-Jasper,Nitrogen Dioxide,2025-09-13T08:00:00-06:00,0.0123
-Jasper,Nitric Oxide,2025-09-13T08:00:00-06:00,0.0101
+Jasper,Relative Humidity,2025-09-13T09:00:00-06:00,84.0
+Jasper,Nitric Oxide,2025-09-13T09:00:00-06:00,0.0212
+Jasper,Outdoor Temperature,2025-09-13T09:00:00-06:00,8.2
+Jasper,Wind Speed,2025-09-13T09:00:00-06:00,
 Jasper,Total Oxides of Nitrogen,2025-09-13T08:00:00-06:00,0.0224
-Jasper,Ozone,2025-09-13T08:00:00-06:00,0.0023
-Jasper,Outdoor Temperature,2025-09-13T08:00:00-06:00,8.0
-Jasper,,2025-09-13T08:00:00-06:00,3.0
-Jasper,Total Reduced Sulphur,2025-09-13T08:00:00-06:00,
 Jasper,Wind Direction,2025-09-13T08:00:00-06:00,
-Jasper,Fine Particulate Matter,2025-09-13T08:00:00-06:00,35.1
+Jasper,Ozone,2025-09-13T08:00:00-06:00,0.0023
+Jasper,Total Reduced Sulphur,2025-09-13T08:00:00-06:00,
+Jasper,Sulphur Dioxide,2025-09-13T08:00:00-06:00,0.0
+Jasper,Nitrogen Dioxide,2025-09-13T08:00:00-06:00,0.0123
+Jasper,Outdoor Temperature,2025-09-13T08:00:00-06:00,8.0
 Jasper,Relative Humidity,2025-09-13T08:00:00-06:00,86.0
-Jasper,Nitrogen Dioxide,2025-09-13T07:00:00-06:00,0.0142
-Jasper,Nitric Oxide,2025-09-13T07:00:00-06:00,0.0153
+Jasper,Nitric Oxide,2025-09-13T08:00:00-06:00,0.0101
+Jasper,Fine Particulate Matter,2025-09-13T08:00:00-06:00,35.1
+Jasper,Wind Speed,2025-09-13T08:00:00-06:00,
+Jasper,,2025-09-13T08:00:00-06:00,3.0
+Jasper,Total Oxides of Nitrogen,2025-09-13T07:00:00-06:00,0.0295
 Jasper,Outdoor Temperature,2025-09-13T07:00:00-06:00,8.2
+Jasper,Relative Humidity,2025-09-13T07:00:00-06:00,85.0
+Jasper,Wind Speed,2025-09-13T07:00:00-06:00,
+Jasper,Nitric Oxide,2025-09-13T07:00:00-06:00,0.0153
+Jasper,Nitrogen Dioxide,2025-09-13T07:00:00-06:00,0.0142
+Jasper,Sulphur Dioxide,2025-09-13T07:00:00-06:00,0.0
+Jasper,Ozone,2025-09-13T07:00:00-06:00,0.0009
 Jasper,Wind Direction,2025-09-13T07:00:00-06:00,
 Jasper,Total Reduced Sulphur,2025-09-13T07:00:00-06:00,
-Jasper,Relative Humidity,2025-09-13T07:00:00-06:00,85.0
-Jasper,Fine Particulate Matter,2025-09-13T07:00:00-06:00,31.9
 Jasper,,2025-09-13T07:00:00-06:00,3.0
-Jasper,Sulphur Dioxide,2025-09-13T07:00:00-06:00,0.0
-Jasper,Wind Speed,2025-09-13T07:00:00-06:00,
-Jasper,Total Oxides of Nitrogen,2025-09-13T07:00:00-06:00,0.0295
-Jasper,Ozone,2025-09-13T07:00:00-06:00,0.0009
+Jasper,Fine Particulate Matter,2025-09-13T07:00:00-06:00,31.9
 Jasper,Total Oxides of Nitrogen,2025-09-13T06:00:00-06:00,0.0244
-Jasper,Relative Humidity,2025-09-13T06:00:00-06:00,79.0
-Jasper,Nitrogen Dioxide,2025-09-13T06:00:00-06:00,0.0107
 Jasper,Wind Direction,2025-09-13T06:00:00-06:00,252.7
-Jasper,Fine Particulate Matter,2025-09-13T06:00:00-06:00,35.3
-Jasper,,2025-09-13T06:00:00-06:00,3.0
-Jasper,Sulphur Dioxide,2025-09-13T06:00:00-06:00,0.0
-Jasper,Outdoor Temperature,2025-09-13T06:00:00-06:00,9.4
 Jasper,Wind Speed,2025-09-13T06:00:00-06:00,1.4
-Jasper,Total Reduced Sulphur,2025-09-13T06:00:00-06:00,
+Jasper,Outdoor Temperature,2025-09-13T06:00:00-06:00,9.4
+Jasper,Relative Humidity,2025-09-13T06:00:00-06:00,79.0
 Jasper,Nitric Oxide,2025-09-13T06:00:00-06:00,0.0136
 Jasper,Ozone,2025-09-13T06:00:00-06:00,0.0058
-Jasper,Total Oxides of Nitrogen,2025-09-13T05:00:00-06:00,0.0229
+Jasper,Sulphur Dioxide,2025-09-13T06:00:00-06:00,0.0
+Jasper,Nitrogen Dioxide,2025-09-13T06:00:00-06:00,0.0107
+Jasper,Total Reduced Sulphur,2025-09-13T06:00:00-06:00,
+Jasper,,2025-09-13T06:00:00-06:00,3.0
+Jasper,Fine Particulate Matter,2025-09-13T06:00:00-06:00,35.3
+Jasper,Ozone,2025-09-13T05:00:00-06:00,0.003
 Jasper,Wind Direction,2025-09-13T05:00:00-06:00,263.3
+Jasper,Relative Humidity,2025-09-13T05:00:00-06:00,82.0
+Jasper,Nitric Oxide,2025-09-13T05:00:00-06:00,0.0087
+Jasper,Total Reduced Sulphur,2025-09-13T05:00:00-06:00,
+Jasper,Fine Particulate Matter,2025-09-13T05:00:00-06:00,37.2
+Jasper,,2025-09-13T05:00:00-06:00,3.0
 Jasper,Nitrogen Dioxide,2025-09-13T05:00:00-06:00,0.0142
 Jasper,Sulphur Dioxide,2025-09-13T05:00:00-06:00,0.0
 Jasper,Outdoor Temperature,2025-09-13T05:00:00-06:00,9.2
 Jasper,Wind Speed,2025-09-13T05:00:00-06:00,1.8
-Jasper,Nitric Oxide,2025-09-13T05:00:00-06:00,0.0087
-Jasper,,2025-09-13T05:00:00-06:00,3.0
-Jasper,Total Reduced Sulphur,2025-09-13T05:00:00-06:00,
-Jasper,Ozone,2025-09-13T05:00:00-06:00,0.003
-Jasper,Fine Particulate Matter,2025-09-13T05:00:00-06:00,37.2
-Jasper,Relative Humidity,2025-09-13T05:00:00-06:00,82.0
-Jasper,Wind Direction,2025-09-13T04:00:00-06:00,
-Jasper,Outdoor Temperature,2025-09-13T04:00:00-06:00,9.7
-Jasper,Wind Speed,2025-09-13T04:00:00-06:00,
-Jasper,,2025-09-13T04:00:00-06:00,3.0
-Jasper,Total Reduced Sulphur,2025-09-13T04:00:00-06:00,
-Jasper,Total Oxides of Nitrogen,2025-09-13T04:00:00-06:00,
-Jasper,Nitric Oxide,2025-09-13T04:00:00-06:00,
-Jasper,Nitrogen Dioxide,2025-09-13T04:00:00-06:00,
-Jasper,Ozone,2025-09-13T04:00:00-06:00,0.0056
-Jasper,Sulphur Dioxide,2025-09-13T04:00:00-06:00,
+Jasper,Total Oxides of Nitrogen,2025-09-13T05:00:00-06:00,0.0229
 Jasper,Fine Particulate Matter,2025-09-13T04:00:00-06:00,41.0
+Jasper,Total Reduced Sulphur,2025-09-13T04:00:00-06:00,
+Jasper,Wind Speed,2025-09-13T04:00:00-06:00,
+Jasper,Nitric Oxide,2025-09-13T04:00:00-06:00,
+Jasper,,2025-09-13T04:00:00-06:00,3.0
+Jasper,Nitrogen Dioxide,2025-09-13T04:00:00-06:00,
+Jasper,Outdoor Temperature,2025-09-13T04:00:00-06:00,9.7
+Jasper,Total Oxides of Nitrogen,2025-09-13T04:00:00-06:00,
+Jasper,Wind Direction,2025-09-13T04:00:00-06:00,
+Jasper,Sulphur Dioxide,2025-09-13T04:00:00-06:00,
 Jasper,Relative Humidity,2025-09-13T04:00:00-06:00,81.0
-Jasper,Outdoor Temperature,2025-09-13T03:00:00-06:00,10.1
-Jasper,Nitrogen Dioxide,2025-09-13T03:00:00-06:00,0.0092
-Jasper,Wind Direction,2025-09-13T03:00:00-06:00,
-Jasper,Fine Particulate Matter,2025-09-13T03:00:00-06:00,42.8
-Jasper,Total Oxides of Nitrogen,2025-09-13T03:00:00-06:00,0.0107
-Jasper,Sulphur Dioxide,2025-09-13T03:00:00-06:00,0.0
-Jasper,Nitric Oxide,2025-09-13T03:00:00-06:00,0.0014
-Jasper,,2025-09-13T03:00:00-06:00,3.0
-Jasper,Wind Speed,2025-09-13T03:00:00-06:00,
-Jasper,Total Reduced Sulphur,2025-09-13T03:00:00-06:00,
+Jasper,Ozone,2025-09-13T04:00:00-06:00,0.0056
 Jasper,Ozone,2025-09-13T03:00:00-06:00,
+Jasper,Sulphur Dioxide,2025-09-13T03:00:00-06:00,0.0
+Jasper,Total Oxides of Nitrogen,2025-09-13T03:00:00-06:00,0.0107
+Jasper,,2025-09-13T03:00:00-06:00,3.0
+Jasper,Fine Particulate Matter,2025-09-13T03:00:00-06:00,42.8
+Jasper,Wind Direction,2025-09-13T03:00:00-06:00,
+Jasper,Nitric Oxide,2025-09-13T03:00:00-06:00,0.0014
 Jasper,Relative Humidity,2025-09-13T03:00:00-06:00,80.0
-Jasper,Total Oxides of Nitrogen,2025-09-13T02:00:00-06:00,0.0055
-Jasper,Outdoor Temperature,2025-09-13T02:00:00-06:00,11.4
-Jasper,Nitrogen Dioxide,2025-09-13T02:00:00-06:00,0.0051
-Jasper,Nitric Oxide,2025-09-13T02:00:00-06:00,0.0003
+Jasper,Total Reduced Sulphur,2025-09-13T03:00:00-06:00,
+Jasper,Outdoor Temperature,2025-09-13T03:00:00-06:00,10.1
+Jasper,Wind Speed,2025-09-13T03:00:00-06:00,
+Jasper,Nitrogen Dioxide,2025-09-13T03:00:00-06:00,0.0092
 Jasper,,2025-09-13T02:00:00-06:00,3.0
-Jasper,Sulphur Dioxide,2025-09-13T02:00:00-06:00,0.0
-Jasper,Wind Direction,2025-09-13T02:00:00-06:00,
-Jasper,Total Reduced Sulphur,2025-09-13T02:00:00-06:00,
-Jasper,Fine Particulate Matter,2025-09-13T02:00:00-06:00,39.2
 Jasper,Ozone,2025-09-13T02:00:00-06:00,0.014
+Jasper,Wind Direction,2025-09-13T02:00:00-06:00,
+Jasper,Fine Particulate Matter,2025-09-13T02:00:00-06:00,39.2
+Jasper,Nitric Oxide,2025-09-13T02:00:00-06:00,0.0003
 Jasper,Relative Humidity,2025-09-13T02:00:00-06:00,75.0
 Jasper,Wind Speed,2025-09-13T02:00:00-06:00,
+Jasper,Total Reduced Sulphur,2025-09-13T02:00:00-06:00,
+Jasper,Sulphur Dioxide,2025-09-13T02:00:00-06:00,0.0
+Jasper,Outdoor Temperature,2025-09-13T02:00:00-06:00,11.4
+Jasper,Nitrogen Dioxide,2025-09-13T02:00:00-06:00,0.0051
+Jasper,Total Oxides of Nitrogen,2025-09-13T02:00:00-06:00,0.0055
+Jasper,,2025-09-13T01:00:00-06:00,3.0
 Jasper,Fine Particulate Matter,2025-09-13T01:00:00-06:00,41.7
 Jasper,Sulphur Dioxide,2025-09-13T01:00:00-06:00,0.0
-Jasper,Ozone,2025-09-13T01:00:00-06:00,0.0159
-Jasper,Relative Humidity,2025-09-13T01:00:00-06:00,72.0
-Jasper,Wind Direction,2025-09-13T01:00:00-06:00,
-Jasper,Nitrogen Dioxide,2025-09-13T01:00:00-06:00,0.0041
-Jasper,Outdoor Temperature,2025-09-13T01:00:00-06:00,12.2
-Jasper,Nitric Oxide,2025-09-13T01:00:00-06:00,0.0001
-Jasper,Wind Speed,2025-09-13T01:00:00-06:00,
-Jasper,,2025-09-13T01:00:00-06:00,3.0
-Jasper,Total Oxides of Nitrogen,2025-09-13T01:00:00-06:00,0.0041
 Jasper,Total Reduced Sulphur,2025-09-13T01:00:00-06:00,
-Jasper,Wind Direction,2025-09-13T00:00:00-06:00,281.3
-Jasper,Nitrogen Dioxide,2025-09-13T00:00:00-06:00,0.005
-Jasper,Ozone,2025-09-13T00:00:00-06:00,0.017
-Jasper,Outdoor Temperature,2025-09-13T00:00:00-06:00,13.6
+Jasper,Outdoor Temperature,2025-09-13T01:00:00-06:00,12.2
+Jasper,Nitrogen Dioxide,2025-09-13T01:00:00-06:00,0.0041
+Jasper,Wind Speed,2025-09-13T01:00:00-06:00,
+Jasper,Total Oxides of Nitrogen,2025-09-13T01:00:00-06:00,0.0041
+Jasper,Wind Direction,2025-09-13T01:00:00-06:00,
+Jasper,Relative Humidity,2025-09-13T01:00:00-06:00,72.0
+Jasper,Nitric Oxide,2025-09-13T01:00:00-06:00,0.0001
+Jasper,Ozone,2025-09-13T01:00:00-06:00,0.0159
 Jasper,Wind Speed,2025-09-13T00:00:00-06:00,1.9
+Jasper,Outdoor Temperature,2025-09-13T00:00:00-06:00,13.6
+Jasper,Wind Direction,2025-09-13T00:00:00-06:00,281.3
+Jasper,Ozone,2025-09-13T00:00:00-06:00,0.017
+Jasper,Nitrogen Dioxide,2025-09-13T00:00:00-06:00,0.005
 Jasper,Total Oxides of Nitrogen,2025-09-13T00:00:00-06:00,0.0051
 Jasper,Relative Humidity,2025-09-13T00:00:00-06:00,67.0
-Jasper,Fine Particulate Matter,2025-09-13T00:00:00-06:00,41.8
 Jasper,Sulphur Dioxide,2025-09-13T00:00:00-06:00,0.0
-Jasper,,2025-09-13T00:00:00-06:00,4.0
 Jasper,Nitric Oxide,2025-09-13T00:00:00-06:00,0.0
+Jasper,Fine Particulate Matter,2025-09-13T00:00:00-06:00,41.8
+Jasper,,2025-09-13T00:00:00-06:00,4.0
 Jasper,Total Reduced Sulphur,2025-09-13T00:00:00-06:00,
-Jasper,Wind Speed,2025-09-12T23:00:00-06:00,3.5
-Jasper,Ozone,2025-09-12T23:00:00-06:00,0.0185
-Jasper,Total Oxides of Nitrogen,2025-09-12T23:00:00-06:00,0.0067
-Jasper,Nitrogen Dioxide,2025-09-12T23:00:00-06:00,0.0064
-Jasper,Nitric Oxide,2025-09-12T23:00:00-06:00,0.0003
-Jasper,Outdoor Temperature,2025-09-12T23:00:00-06:00,15.6
-Jasper,Relative Humidity,2025-09-12T23:00:00-06:00,59.0
-Jasper,Wind Direction,2025-09-12T23:00:00-06:00,260.5
-Jasper,Sulphur Dioxide,2025-09-12T23:00:00-06:00,0.0
-Jasper,Fine Particulate Matter,2025-09-12T23:00:00-06:00,45.4
 Jasper,,2025-09-12T23:00:00-06:00,4.0
+Jasper,Wind Direction,2025-09-12T23:00:00-06:00,260.5
 Jasper,Total Reduced Sulphur,2025-09-12T23:00:00-06:00,
-Jasper,Outdoor Temperature,2025-09-12T22:00:00-06:00,16.0
-Jasper,Wind Speed,2025-09-12T22:00:00-06:00,1.8
-Jasper,Ozone,2025-09-12T22:00:00-06:00,0.0189
-Jasper,Wind Direction,2025-09-12T22:00:00-06:00,281.1
-Jasper,Relative Humidity,2025-09-12T22:00:00-06:00,57.0
-Jasper,Sulphur Dioxide,2025-09-12T22:00:00-06:00,0.0
-Jasper,Total Oxides of Nitrogen,2025-09-12T22:00:00-06:00,0.0071
-Jasper,Total Reduced Sulphur,2025-09-12T22:00:00-06:00,
-Jasper,Fine Particulate Matter,2025-09-12T22:00:00-06:00,49.9
+Jasper,Relative Humidity,2025-09-12T23:00:00-06:00,59.0
+Jasper,Sulphur Dioxide,2025-09-12T23:00:00-06:00,0.0
+Jasper,Outdoor Temperature,2025-09-12T23:00:00-06:00,15.6
+Jasper,Fine Particulate Matter,2025-09-12T23:00:00-06:00,45.4
+Jasper,Wind Speed,2025-09-12T23:00:00-06:00,3.5
+Jasper,Nitric Oxide,2025-09-12T23:00:00-06:00,0.0003
+Jasper,Nitrogen Dioxide,2025-09-12T23:00:00-06:00,0.0064
+Jasper,Total Oxides of Nitrogen,2025-09-12T23:00:00-06:00,0.0067
+Jasper,Ozone,2025-09-12T23:00:00-06:00,0.0185
 Jasper,,2025-09-12T22:00:00-06:00,4.0
+Jasper,Ozone,2025-09-12T22:00:00-06:00,0.0189
+Jasper,Wind Speed,2025-09-12T22:00:00-06:00,1.8
+Jasper,Total Reduced Sulphur,2025-09-12T22:00:00-06:00,
+Jasper,Total Oxides of Nitrogen,2025-09-12T22:00:00-06:00,0.0071
+Jasper,Wind Direction,2025-09-12T22:00:00-06:00,281.1
+Jasper,Outdoor Temperature,2025-09-12T22:00:00-06:00,16.0
 Jasper,Nitric Oxide,2025-09-12T22:00:00-06:00,0.0004
+Jasper,Fine Particulate Matter,2025-09-12T22:00:00-06:00,49.9
+Jasper,Relative Humidity,2025-09-12T22:00:00-06:00,57.0
 Jasper,Nitrogen Dioxide,2025-09-12T22:00:00-06:00,0.0067
-Jasper,Wind Speed,2025-09-12T21:00:00-06:00,2.1
-Jasper,Relative Humidity,2025-09-12T21:00:00-06:00,52.0
-Jasper,Wind Direction,2025-09-12T21:00:00-06:00,321.8
+Jasper,Sulphur Dioxide,2025-09-12T22:00:00-06:00,0.0
 Jasper,Outdoor Temperature,2025-09-12T21:00:00-06:00,17.3
-Jasper,Total Oxides of Nitrogen,2025-09-12T21:00:00-06:00,0.0042
+Jasper,Wind Direction,2025-09-12T21:00:00-06:00,321.8
+Jasper,Wind Speed,2025-09-12T21:00:00-06:00,2.1
 Jasper,Sulphur Dioxide,2025-09-12T21:00:00-06:00,0.0
-Jasper,Fine Particulate Matter,2025-09-12T21:00:00-06:00,50.4
-Jasper,Nitric Oxide,2025-09-12T21:00:00-06:00,0.0
-Jasper,,2025-09-12T21:00:00-06:00,4.0
+Jasper,Total Oxides of Nitrogen,2025-09-12T21:00:00-06:00,0.0042
 Jasper,Total Reduced Sulphur,2025-09-12T21:00:00-06:00,
+Jasper,Fine Particulate Matter,2025-09-12T21:00:00-06:00,50.4
 Jasper,Nitrogen Dioxide,2025-09-12T21:00:00-06:00,0.0043
+Jasper,Relative Humidity,2025-09-12T21:00:00-06:00,52.0
 Jasper,Ozone,2025-09-12T21:00:00-06:00,0.0232
-Jasper,Relative Humidity,2025-09-12T20:00:00-06:00,42.0
-Jasper,Wind Direction,2025-09-12T20:00:00-06:00,321.6
-Jasper,Sulphur Dioxide,2025-09-12T20:00:00-06:00,0.0
+Jasper,,2025-09-12T21:00:00-06:00,4.0
+Jasper,Nitric Oxide,2025-09-12T21:00:00-06:00,0.0
 Jasper,Outdoor Temperature,2025-09-12T20:00:00-06:00,20.5
-Jasper,Total Oxides of Nitrogen,2025-09-12T20:00:00-06:00,0.0043
-Jasper,Fine Particulate Matter,2025-09-12T20:00:00-06:00,49.7
-Jasper,Nitric Oxide,2025-09-12T20:00:00-06:00,0.0
-Jasper,Wind Speed,2025-09-12T20:00:00-06:00,1.2
-Jasper,Total Reduced Sulphur,2025-09-12T20:00:00-06:00,
-Jasper,,2025-09-12T20:00:00-06:00,4.0
+Jasper,Wind Direction,2025-09-12T20:00:00-06:00,321.6
 Jasper,Nitrogen Dioxide,2025-09-12T20:00:00-06:00,0.0044
+Jasper,Wind Speed,2025-09-12T20:00:00-06:00,1.2
 Jasper,Ozone,2025-09-12T20:00:00-06:00,0.0275
-Jasper,Sulphur Dioxide,2025-09-12T19:00:00-06:00,0.0
-Jasper,Outdoor Temperature,2025-09-12T19:00:00-06:00,23.2
-Jasper,Fine Particulate Matter,2025-09-12T19:00:00-06:00,46.3
+Jasper,Total Oxides of Nitrogen,2025-09-12T20:00:00-06:00,0.0043
+Jasper,,2025-09-12T20:00:00-06:00,4.0
+Jasper,Nitric Oxide,2025-09-12T20:00:00-06:00,0.0
+Jasper,Relative Humidity,2025-09-12T20:00:00-06:00,42.0
+Jasper,Sulphur Dioxide,2025-09-12T20:00:00-06:00,0.0
+Jasper,Total Reduced Sulphur,2025-09-12T20:00:00-06:00,
+Jasper,Fine Particulate Matter,2025-09-12T20:00:00-06:00,49.7
+Jasper,Total Oxides of Nitrogen,2025-09-12T19:00:00-06:00,0.0055
+Jasper,Relative Humidity,2025-09-12T19:00:00-06:00,35.0
+Jasper,Wind Speed,2025-09-12T19:00:00-06:00,5.4
 Jasper,,2025-09-12T19:00:00-06:00,4.0
 Jasper,Ozone,2025-09-12T19:00:00-06:00,0.0338
 Jasper,Nitrogen Dioxide,2025-09-12T19:00:00-06:00,0.0053
-Jasper,Nitric Oxide,2025-09-12T19:00:00-06:00,0.0002
 Jasper,Total Reduced Sulphur,2025-09-12T19:00:00-06:00,
-Jasper,Wind Speed,2025-09-12T19:00:00-06:00,5.4
-Jasper,Total Oxides of Nitrogen,2025-09-12T19:00:00-06:00,0.0055
+Jasper,Sulphur Dioxide,2025-09-12T19:00:00-06:00,0.0
 Jasper,Wind Direction,2025-09-12T19:00:00-06:00,51.7
-Jasper,Relative Humidity,2025-09-12T19:00:00-06:00,35.0
-Jasper,Nitrogen Dioxide,2025-09-12T18:00:00-06:00,0.0042
-Jasper,Ozone,2025-09-12T18:00:00-06:00,0.0386
-Jasper,,2025-09-12T18:00:00-06:00,5.0
-Jasper,Total Reduced Sulphur,2025-09-12T18:00:00-06:00,
-Jasper,Fine Particulate Matter,2025-09-12T18:00:00-06:00,45.0
-Jasper,Relative Humidity,2025-09-12T18:00:00-06:00,31.0
+Jasper,Nitric Oxide,2025-09-12T19:00:00-06:00,0.0002
+Jasper,Outdoor Temperature,2025-09-12T19:00:00-06:00,23.2
+Jasper,Fine Particulate Matter,2025-09-12T19:00:00-06:00,46.3
 Jasper,Total Oxides of Nitrogen,2025-09-12T18:00:00-06:00,0.0046
-Jasper,Outdoor Temperature,2025-09-12T18:00:00-06:00,24.8
-Jasper,Nitric Oxide,2025-09-12T18:00:00-06:00,0.0004
-Jasper,Wind Direction,2025-09-12T18:00:00-06:00,39.9
+Jasper,,2025-09-12T18:00:00-06:00,5.0
+Jasper,Relative Humidity,2025-09-12T18:00:00-06:00,31.0
+Jasper,Ozone,2025-09-12T18:00:00-06:00,0.0386
+Jasper,Nitrogen Dioxide,2025-09-12T18:00:00-06:00,0.0042
 Jasper,Wind Speed,2025-09-12T18:00:00-06:00,4.2
+Jasper,Total Reduced Sulphur,2025-09-12T18:00:00-06:00,
+Jasper,Wind Direction,2025-09-12T18:00:00-06:00,39.9
 Jasper,Sulphur Dioxide,2025-09-12T18:00:00-06:00,0.0
-Jasper,Fine Particulate Matter,2025-09-12T17:00:00-06:00,44.1
-Jasper,Ozone,2025-09-12T17:00:00-06:00,0.0395
+Jasper,Outdoor Temperature,2025-09-12T18:00:00-06:00,24.8
+Jasper,Fine Particulate Matter,2025-09-12T18:00:00-06:00,45.0
+Jasper,Nitric Oxide,2025-09-12T18:00:00-06:00,0.0004
 Jasper,Relative Humidity,2025-09-12T17:00:00-06:00,30.0
-Jasper,Wind Speed,2025-09-12T17:00:00-06:00,3.8
-Jasper,Wind Direction,2025-09-12T17:00:00-06:00,37.3
+Jasper,Nitrogen Dioxide,2025-09-12T17:00:00-06:00,0.0041
+Jasper,Nitric Oxide,2025-09-12T17:00:00-06:00,0.0006
 Jasper,Sulphur Dioxide,2025-09-12T17:00:00-06:00,0.0
 Jasper,Outdoor Temperature,2025-09-12T17:00:00-06:00,24.7
-Jasper,Nitric Oxide,2025-09-12T17:00:00-06:00,0.0006
-Jasper,Total Oxides of Nitrogen,2025-09-12T17:00:00-06:00,0.0047
-Jasper,,2025-09-12T17:00:00-06:00,5.0
+Jasper,Wind Speed,2025-09-12T17:00:00-06:00,3.8
+Jasper,Fine Particulate Matter,2025-09-12T17:00:00-06:00,44.1
 Jasper,Total Reduced Sulphur,2025-09-12T17:00:00-06:00,
-Jasper,Nitrogen Dioxide,2025-09-12T17:00:00-06:00,0.0041
-Jasper,Sulphur Dioxide,2025-09-12T16:00:00-06:00,0.0
-Jasper,Nitric Oxide,2025-09-12T16:00:00-06:00,0.0014
-Jasper,Outdoor Temperature,2025-09-12T16:00:00-06:00,23.9
-Jasper,Wind Direction,2025-09-12T16:00:00-06:00,100.1
+Jasper,Wind Direction,2025-09-12T17:00:00-06:00,37.3
+Jasper,Total Oxides of Nitrogen,2025-09-12T17:00:00-06:00,0.0047
+Jasper,Ozone,2025-09-12T17:00:00-06:00,0.0395
+Jasper,,2025-09-12T17:00:00-06:00,5.0
 Jasper,Total Oxides of Nitrogen,2025-09-12T16:00:00-06:00,0.0082
-Jasper,Total Reduced Sulphur,2025-09-12T16:00:00-06:00,
-Jasper,,2025-09-12T16:00:00-06:00,5.0
+Jasper,Outdoor Temperature,2025-09-12T16:00:00-06:00,23.9
 Jasper,Wind Speed,2025-09-12T16:00:00-06:00,2.2
+Jasper,Sulphur Dioxide,2025-09-12T16:00:00-06:00,0.0
+Jasper,Total Reduced Sulphur,2025-09-12T16:00:00-06:00,
+Jasper,Wind Direction,2025-09-12T16:00:00-06:00,100.1
+Jasper,Nitric Oxide,2025-09-12T16:00:00-06:00,0.0014
+Jasper,Nitrogen Dioxide,2025-09-12T16:00:00-06:00,0.0068
+Jasper,Ozone,2025-09-12T16:00:00-06:00,0.0361
 Jasper,Relative Humidity,2025-09-12T16:00:00-06:00,30.0
 Jasper,Fine Particulate Matter,2025-09-12T16:00:00-06:00,47.1
-Jasper,Ozone,2025-09-12T16:00:00-06:00,0.0361
-Jasper,Nitrogen Dioxide,2025-09-12T16:00:00-06:00,0.0068
-Jasper,Total Reduced Sulphur,2025-09-12T15:00:00-06:00,
-Jasper,Fine Particulate Matter,2025-09-12T15:00:00-06:00,48.0
+Jasper,,2025-09-12T16:00:00-06:00,5.0
+Jasper,Sulphur Dioxide,2025-09-12T15:00:00-06:00,0.0
+Jasper,Total Oxides of Nitrogen,2025-09-12T15:00:00-06:00,0.0037
 Jasper,Nitric Oxide,2025-09-12T15:00:00-06:00,0.0006
+Jasper,Nitrogen Dioxide,2025-09-12T15:00:00-06:00,0.0031
 Jasper,Wind Direction,2025-09-12T15:00:00-06:00,173.4
 Jasper,Relative Humidity,2025-09-12T15:00:00-06:00,32.0
-Jasper,Total Oxides of Nitrogen,2025-09-12T15:00:00-06:00,0.0037
-Jasper,Wind Speed,2025-09-12T15:00:00-06:00,1.7
-Jasper,Nitrogen Dioxide,2025-09-12T15:00:00-06:00,0.0031
-Jasper,Ozone,2025-09-12T15:00:00-06:00,0.0375
+Jasper,Fine Particulate Matter,2025-09-12T15:00:00-06:00,48.0
 Jasper,,2025-09-12T15:00:00-06:00,4.0
+Jasper,Total Reduced Sulphur,2025-09-12T15:00:00-06:00,
 Jasper,Outdoor Temperature,2025-09-12T15:00:00-06:00,22.8
-Jasper,Sulphur Dioxide,2025-09-12T15:00:00-06:00,0.0
+Jasper,Ozone,2025-09-12T15:00:00-06:00,0.0375
+Jasper,Wind Speed,2025-09-12T15:00:00-06:00,1.7
 Jasper,Nitrogen Dioxide,2025-09-12T14:00:00-06:00,0.0041
-Jasper,Ozone,2025-09-12T14:00:00-06:00,0.0332
-Jasper,,2025-09-12T14:00:00-06:00,4.0
-Jasper,Total Oxides of Nitrogen,2025-09-12T14:00:00-06:00,0.005
-Jasper,Wind Direction,2025-09-12T14:00:00-06:00,100.2
-Jasper,Outdoor Temperature,2025-09-12T14:00:00-06:00,20.9
 Jasper,Nitric Oxide,2025-09-12T14:00:00-06:00,0.0009
-Jasper,Sulphur Dioxide,2025-09-12T14:00:00-06:00,0.0
-Jasper,Wind Speed,2025-09-12T14:00:00-06:00,1.2
-Jasper,Fine Particulate Matter,2025-09-12T14:00:00-06:00,48.6
-Jasper,Total Reduced Sulphur,2025-09-12T14:00:00-06:00,
 Jasper,Relative Humidity,2025-09-12T14:00:00-06:00,38.0
-Jasper,Nitrogen Dioxide,2025-09-12T13:00:00-06:00,0.0036
-Jasper,Ozone,2025-09-12T13:00:00-06:00,0.0279
+Jasper,,2025-09-12T14:00:00-06:00,4.0
+Jasper,Wind Direction,2025-09-12T14:00:00-06:00,100.2
+Jasper,Fine Particulate Matter,2025-09-12T14:00:00-06:00,48.6
+Jasper,Sulphur Dioxide,2025-09-12T14:00:00-06:00,0.0
+Jasper,Total Oxides of Nitrogen,2025-09-12T14:00:00-06:00,0.005
+Jasper,Total Reduced Sulphur,2025-09-12T14:00:00-06:00,
+Jasper,Wind Speed,2025-09-12T14:00:00-06:00,1.2
+Jasper,Outdoor Temperature,2025-09-12T14:00:00-06:00,20.9
+Jasper,Ozone,2025-09-12T14:00:00-06:00,0.0332
 Jasper,,2025-09-12T13:00:00-06:00,4.0
-Jasper,Wind Speed,2025-09-12T13:00:00-06:00,1.8
-Jasper,Total Oxides of Nitrogen,2025-09-12T13:00:00-06:00,0.005
-Jasper,Outdoor Temperature,2025-09-12T13:00:00-06:00,18.6
+Jasper,Total Reduced Sulphur,2025-09-12T13:00:00-06:00,
+Jasper,Nitric Oxide,2025-09-12T13:00:00-06:00,0.0015
 Jasper,Relative Humidity,2025-09-12T13:00:00-06:00,42.0
 Jasper,Wind Direction,2025-09-12T13:00:00-06:00,100.8
-Jasper,Sulphur Dioxide,2025-09-12T13:00:00-06:00,0.0
-Jasper,Nitric Oxide,2025-09-12T13:00:00-06:00,0.0015
+Jasper,Wind Speed,2025-09-12T13:00:00-06:00,1.8
+Jasper,Outdoor Temperature,2025-09-12T13:00:00-06:00,18.6
+Jasper,Ozone,2025-09-12T13:00:00-06:00,0.0279
+Jasper,Total Oxides of Nitrogen,2025-09-12T13:00:00-06:00,0.005
+Jasper,Nitrogen Dioxide,2025-09-12T13:00:00-06:00,0.0036
 Jasper,Fine Particulate Matter,2025-09-12T13:00:00-06:00,49.6
-Jasper,Total Reduced Sulphur,2025-09-12T13:00:00-06:00,
-Jasper,,2025-09-12T12:00:00-06:00,4.0
-Jasper,Fine Particulate Matter,2025-09-12T12:00:00-06:00,49.4
-Jasper,Relative Humidity,2025-09-12T12:00:00-06:00,48.0
-Jasper,Sulphur Dioxide,2025-09-12T12:00:00-06:00,0.0
+Jasper,Sulphur Dioxide,2025-09-12T13:00:00-06:00,0.0
 Jasper,Total Reduced Sulphur,2025-09-12T12:00:00-06:00,
-Jasper,Wind Direction,2025-09-12T12:00:00-06:00,108.7
 Jasper,Nitric Oxide,2025-09-12T12:00:00-06:00,0.0024
-Jasper,Wind Speed,2025-09-12T12:00:00-06:00,1.8
-Jasper,Total Oxides of Nitrogen,2025-09-12T12:00:00-06:00,0.0071
 Jasper,Ozone,2025-09-12T12:00:00-06:00,0.0225
+Jasper,,2025-09-12T12:00:00-06:00,4.0
 Jasper,Nitrogen Dioxide,2025-09-12T12:00:00-06:00,0.0047
+Jasper,Total Oxides of Nitrogen,2025-09-12T12:00:00-06:00,0.0071
+Jasper,Sulphur Dioxide,2025-09-12T12:00:00-06:00,0.0
+Jasper,Relative Humidity,2025-09-12T12:00:00-06:00,48.0
+Jasper,Wind Speed,2025-09-12T12:00:00-06:00,1.8
+Jasper,Fine Particulate Matter,2025-09-12T12:00:00-06:00,49.4
 Jasper,Outdoor Temperature,2025-09-12T12:00:00-06:00,15.7
-Jasper,Wind Direction,2025-09-12T11:00:00-06:00,108.4
-Jasper,Relative Humidity,2025-09-12T11:00:00-06:00,57.0
-Jasper,Nitric Oxide,2025-09-12T11:00:00-06:00,0.0028
-Jasper,Total Reduced Sulphur,2025-09-12T11:00:00-06:00,
-Jasper,Wind Speed,2025-09-12T11:00:00-06:00,1.6
-Jasper,Ozone,2025-09-12T11:00:00-06:00,0.019
-Jasper,Fine Particulate Matter,2025-09-12T11:00:00-06:00,49.8
-Jasper,Total Oxides of Nitrogen,2025-09-12T11:00:00-06:00,0.0082
+Jasper,Wind Direction,2025-09-12T12:00:00-06:00,108.7
 Jasper,,2025-09-12T11:00:00-06:00,4.0
-Jasper,Sulphur Dioxide,2025-09-12T11:00:00-06:00,0.0
+Jasper,Total Reduced Sulphur,2025-09-12T11:00:00-06:00,
+Jasper,Nitric Oxide,2025-09-12T11:00:00-06:00,0.0028
+Jasper,Total Oxides of Nitrogen,2025-09-12T11:00:00-06:00,0.0082
 Jasper,Nitrogen Dioxide,2025-09-12T11:00:00-06:00,0.0054
+Jasper,Ozone,2025-09-12T11:00:00-06:00,0.019
+Jasper,Sulphur Dioxide,2025-09-12T11:00:00-06:00,0.0
+Jasper,Relative Humidity,2025-09-12T11:00:00-06:00,57.0
+Jasper,Wind Direction,2025-09-12T11:00:00-06:00,108.4
+Jasper,Wind Speed,2025-09-12T11:00:00-06:00,1.6
 Jasper,Outdoor Temperature,2025-09-12T11:00:00-06:00,12.5
-Jasper,Relative Humidity,2025-09-12T10:00:00-06:00,70.0
-Jasper,Nitric Oxide,2025-09-12T10:00:00-06:00,0.0119
-Jasper,Wind Direction,2025-09-12T10:00:00-06:00,175.3
-Jasper,Fine Particulate Matter,2025-09-12T10:00:00-06:00,47.2
-Jasper,Total Reduced Sulphur,2025-09-12T10:00:00-06:00,
-Jasper,Ozone,2025-09-12T10:00:00-06:00,0.0092
+Jasper,Fine Particulate Matter,2025-09-12T11:00:00-06:00,49.8
 Jasper,Total Oxides of Nitrogen,2025-09-12T10:00:00-06:00,0.0232
-Jasper,Wind Speed,2025-09-12T10:00:00-06:00,1.7
-Jasper,Outdoor Temperature,2025-09-12T10:00:00-06:00,9.5
-Jasper,,2025-09-12T10:00:00-06:00,3.0
+Jasper,Wind Direction,2025-09-12T10:00:00-06:00,175.3
 Jasper,Sulphur Dioxide,2025-09-12T10:00:00-06:00,0.0
 Jasper,Nitrogen Dioxide,2025-09-12T10:00:00-06:00,0.0114
-Jasper,Nitric Oxide,2025-09-12T09:00:00-06:00,0.0117
-Jasper,Total Reduced Sulphur,2025-09-12T09:00:00-06:00,
-Jasper,Total Oxides of Nitrogen,2025-09-12T09:00:00-06:00,0.0253
-Jasper,Outdoor Temperature,2025-09-12T09:00:00-06:00,7.0
+Jasper,Outdoor Temperature,2025-09-12T10:00:00-06:00,9.5
+Jasper,Wind Speed,2025-09-12T10:00:00-06:00,1.7
+Jasper,Total Reduced Sulphur,2025-09-12T10:00:00-06:00,
+Jasper,Relative Humidity,2025-09-12T10:00:00-06:00,70.0
+Jasper,Fine Particulate Matter,2025-09-12T10:00:00-06:00,47.2
+Jasper,,2025-09-12T10:00:00-06:00,3.0
+Jasper,Ozone,2025-09-12T10:00:00-06:00,0.0092
+Jasper,Nitric Oxide,2025-09-12T10:00:00-06:00,0.0119
 Jasper,Sulphur Dioxide,2025-09-12T09:00:00-06:00,0.0
-Jasper,,2025-09-12T09:00:00-06:00,3.0
-Jasper,Nitrogen Dioxide,2025-09-12T09:00:00-06:00,0.0136
 Jasper,Wind Speed,2025-09-12T09:00:00-06:00,1.7
-Jasper,Ozone,2025-09-12T09:00:00-06:00,0.0048
-Jasper,Fine Particulate Matter,2025-09-12T09:00:00-06:00,43.0
-Jasper,Wind Direction,2025-09-12T09:00:00-06:00,226.7
 Jasper,Relative Humidity,2025-09-12T09:00:00-06:00,82.0
-Jasper,,2025-09-12T08:00:00-06:00,3.0
-Jasper,Sulphur Dioxide,2025-09-12T08:00:00-06:00,0.0
-Jasper,Outdoor Temperature,2025-09-12T08:00:00-06:00,6.7
-Jasper,Wind Speed,2025-09-12T08:00:00-06:00,1.6
-Jasper,Nitrogen Dioxide,2025-09-12T08:00:00-06:00,0.015
-Jasper,Nitric Oxide,2025-09-12T08:00:00-06:00,0.005
+Jasper,,2025-09-12T09:00:00-06:00,3.0
+Jasper,Total Oxides of Nitrogen,2025-09-12T09:00:00-06:00,0.0253
+Jasper,Nitrogen Dioxide,2025-09-12T09:00:00-06:00,0.0136
+Jasper,Outdoor Temperature,2025-09-12T09:00:00-06:00,7.0
+Jasper,Wind Direction,2025-09-12T09:00:00-06:00,226.7
+Jasper,Total Reduced Sulphur,2025-09-12T09:00:00-06:00,
+Jasper,Fine Particulate Matter,2025-09-12T09:00:00-06:00,43.0
+Jasper,Ozone,2025-09-12T09:00:00-06:00,0.0048
+Jasper,Nitric Oxide,2025-09-12T09:00:00-06:00,0.0117
 Jasper,Total Oxides of Nitrogen,2025-09-12T08:00:00-06:00,0.02
 Jasper,Ozone,2025-09-12T08:00:00-06:00,0.0031
-Jasper,Total Reduced Sulphur,2025-09-12T08:00:00-06:00,
-Jasper,Fine Particulate Matter,2025-09-12T08:00:00-06:00,41.6
+Jasper,,2025-09-12T08:00:00-06:00,3.0
+Jasper,Outdoor Temperature,2025-09-12T08:00:00-06:00,6.7
+Jasper,Sulphur Dioxide,2025-09-12T08:00:00-06:00,0.0
+Jasper,Wind Speed,2025-09-12T08:00:00-06:00,1.6
 Jasper,Wind Direction,2025-09-12T08:00:00-06:00,242.5
+Jasper,Total Reduced Sulphur,2025-09-12T08:00:00-06:00,
 Jasper,Relative Humidity,2025-09-12T08:00:00-06:00,83.0
+Jasper,Fine Particulate Matter,2025-09-12T08:00:00-06:00,41.6
+Jasper,Nitric Oxide,2025-09-12T08:00:00-06:00,0.005
+Jasper,Nitrogen Dioxide,2025-09-12T08:00:00-06:00,0.015
+Jasper,Fine Particulate Matter,2025-09-12T07:00:00-06:00,41.0
 Jasper,,2025-09-12T07:00:00-06:00,3.0
-Jasper,Sulphur Dioxide,2025-09-12T07:00:00-06:00,0.0
+Jasper,Wind Direction,2025-09-12T07:00:00-06:00,247.1
+Jasper,Total Reduced Sulphur,2025-09-12T07:00:00-06:00,
+Jasper,Relative Humidity,2025-09-12T07:00:00-06:00,80.0
+Jasper,Ozone,2025-09-12T07:00:00-06:00,0.0064
 Jasper,Nitrogen Dioxide,2025-09-12T07:00:00-06:00,0.0127
 Jasper,Wind Speed,2025-09-12T07:00:00-06:00,2.2
 Jasper,Outdoor Temperature,2025-09-12T07:00:00-06:00,7.4
-Jasper,Fine Particulate Matter,2025-09-12T07:00:00-06:00,41.0
-Jasper,Relative Humidity,2025-09-12T07:00:00-06:00,80.0
-Jasper,Total Reduced Sulphur,2025-09-12T07:00:00-06:00,
-Jasper,Wind Direction,2025-09-12T07:00:00-06:00,247.1
-Jasper,Nitric Oxide,2025-09-12T07:00:00-06:00,0.0021
-Jasper,Ozone,2025-09-12T07:00:00-06:00,0.0064
+Jasper,Sulphur Dioxide,2025-09-12T07:00:00-06:00,0.0
 Jasper,Total Oxides of Nitrogen,2025-09-12T07:00:00-06:00,0.0149
+Jasper,Nitric Oxide,2025-09-12T07:00:00-06:00,0.0021
 Jasper,,2025-09-12T06:00:00-06:00,3.0
-Jasper,Wind Direction,2025-09-12T06:00:00-06:00,249.3
 Jasper,Wind Speed,2025-09-12T06:00:00-06:00,2.1
-Jasper,Relative Humidity,2025-09-12T06:00:00-06:00,77.0
-Jasper,Nitrogen Dioxide,2025-09-12T06:00:00-06:00,0.0106
-Jasper,Fine Particulate Matter,2025-09-12T06:00:00-06:00,40.2
-Jasper,Nitric Oxide,2025-09-12T06:00:00-06:00,0.0003
 Jasper,Ozone,2025-09-12T06:00:00-06:00,0.009
-Jasper,Total Oxides of Nitrogen,2025-09-12T06:00:00-06:00,0.0109
-Jasper,Sulphur Dioxide,2025-09-12T06:00:00-06:00,0.0
-Jasper,Outdoor Temperature,2025-09-12T06:00:00-06:00,8.1
+Jasper,Nitrogen Dioxide,2025-09-12T06:00:00-06:00,0.0106
+Jasper,Relative Humidity,2025-09-12T06:00:00-06:00,77.0
 Jasper,Total Reduced Sulphur,2025-09-12T06:00:00-06:00,
-Jasper,Sulphur Dioxide,2025-09-12T05:00:00-06:00,0.0
-Jasper,Total Oxides of Nitrogen,2025-09-12T05:00:00-06:00,0.0229
+Jasper,Nitric Oxide,2025-09-12T06:00:00-06:00,0.0003
+Jasper,Outdoor Temperature,2025-09-12T06:00:00-06:00,8.1
+Jasper,Sulphur Dioxide,2025-09-12T06:00:00-06:00,0.0
+Jasper,Fine Particulate Matter,2025-09-12T06:00:00-06:00,40.2
+Jasper,Total Oxides of Nitrogen,2025-09-12T06:00:00-06:00,0.0109
+Jasper,Wind Direction,2025-09-12T06:00:00-06:00,249.3
+Jasper,,2025-09-12T05:00:00-06:00,3.0
+Jasper,Total Reduced Sulphur,2025-09-12T05:00:00-06:00,
 Jasper,Ozone,2025-09-12T05:00:00-06:00,0.004
+Jasper,Nitrogen Dioxide,2025-09-12T05:00:00-06:00,0.0177
 Jasper,Nitric Oxide,2025-09-12T05:00:00-06:00,0.0052
-Jasper,Fine Particulate Matter,2025-09-12T05:00:00-06:00,38.9
 Jasper,Wind Direction,2025-09-12T05:00:00-06:00,234.3
 Jasper,Outdoor Temperature,2025-09-12T05:00:00-06:00,8.9
-Jasper,Nitrogen Dioxide,2025-09-12T05:00:00-06:00,0.0177
-Jasper,,2025-09-12T05:00:00-06:00,3.0
-Jasper,Relative Humidity,2025-09-12T05:00:00-06:00,74.0
 Jasper,Wind Speed,2025-09-12T05:00:00-06:00,2.8
-Jasper,Total Reduced Sulphur,2025-09-12T05:00:00-06:00,
-Jasper,Nitric Oxide,2025-09-12T04:00:00-06:00,
-Jasper,Nitrogen Dioxide,2025-09-12T04:00:00-06:00,
-Jasper,Ozone,2025-09-12T04:00:00-06:00,0.0053
-Jasper,Sulphur Dioxide,2025-09-12T04:00:00-06:00,
-Jasper,Total Oxides of Nitrogen,2025-09-12T04:00:00-06:00,
-Jasper,Wind Direction,2025-09-12T04:00:00-06:00,253.6
+Jasper,Total Oxides of Nitrogen,2025-09-12T05:00:00-06:00,0.0229
+Jasper,Fine Particulate Matter,2025-09-12T05:00:00-06:00,38.9
+Jasper,Sulphur Dioxide,2025-09-12T05:00:00-06:00,0.0
+Jasper,Relative Humidity,2025-09-12T05:00:00-06:00,74.0
 Jasper,Fine Particulate Matter,2025-09-12T04:00:00-06:00,37.5
+Jasper,Total Oxides of Nitrogen,2025-09-12T04:00:00-06:00,
+Jasper,Nitrogen Dioxide,2025-09-12T04:00:00-06:00,
 Jasper,Outdoor Temperature,2025-09-12T04:00:00-06:00,9.4
 Jasper,,2025-09-12T04:00:00-06:00,3.0
-Jasper,Total Reduced Sulphur,2025-09-12T04:00:00-06:00,
-Jasper,Relative Humidity,2025-09-12T04:00:00-06:00,73.0
 Jasper,Wind Speed,2025-09-12T04:00:00-06:00,2.2
+Jasper,Wind Direction,2025-09-12T04:00:00-06:00,253.6
+Jasper,Sulphur Dioxide,2025-09-12T04:00:00-06:00,
+Jasper,Nitric Oxide,2025-09-12T04:00:00-06:00,
+Jasper,Relative Humidity,2025-09-12T04:00:00-06:00,73.0
+Jasper,Ozone,2025-09-12T04:00:00-06:00,0.0053
+Jasper,Total Reduced Sulphur,2025-09-12T04:00:00-06:00,
 Jasper,Total Oxides of Nitrogen,2025-09-12T03:00:00-06:00,0.0174
-Jasper,Nitric Oxide,2025-09-12T03:00:00-06:00,0.0008
 Jasper,Fine Particulate Matter,2025-09-12T03:00:00-06:00,36.7
-Jasper,Nitrogen Dioxide,2025-09-12T03:00:00-06:00,0.0166
+Jasper,Wind Speed,2025-09-12T03:00:00-06:00,2.8
 Jasper,Outdoor Temperature,2025-09-12T03:00:00-06:00,10.7
 Jasper,Relative Humidity,2025-09-12T03:00:00-06:00,68.0
+Jasper,Wind Direction,2025-09-12T03:00:00-06:00,246.8
+Jasper,Nitrogen Dioxide,2025-09-12T03:00:00-06:00,0.0166
+Jasper,Sulphur Dioxide,2025-09-12T03:00:00-06:00,0.0
 Jasper,,2025-09-12T03:00:00-06:00,4.0
 Jasper,Total Reduced Sulphur,2025-09-12T03:00:00-06:00,
+Jasper,Nitric Oxide,2025-09-12T03:00:00-06:00,0.0008
 Jasper,Ozone,2025-09-12T03:00:00-06:00,
-Jasper,Wind Direction,2025-09-12T03:00:00-06:00,246.8
-Jasper,Sulphur Dioxide,2025-09-12T03:00:00-06:00,0.0
-Jasper,Wind Speed,2025-09-12T03:00:00-06:00,2.8
-Jasper,Outdoor Temperature,2025-09-12T02:00:00-06:00,11.9
-Jasper,Total Reduced Sulphur,2025-09-12T02:00:00-06:00,
-Jasper,Ozone,2025-09-12T02:00:00-06:00,0.0095
-Jasper,,2025-09-12T02:00:00-06:00,4.0
-Jasper,Total Oxides of Nitrogen,2025-09-12T02:00:00-06:00,0.0172
-Jasper,Sulphur Dioxide,2025-09-12T02:00:00-06:00,0.0
-Jasper,Nitric Oxide,2025-09-12T02:00:00-06:00,0.0017
-Jasper,Wind Direction,2025-09-12T02:00:00-06:00,255.1
-Jasper,Nitrogen Dioxide,2025-09-12T02:00:00-06:00,0.0155
 Jasper,Fine Particulate Matter,2025-09-12T02:00:00-06:00,37.1
 Jasper,Relative Humidity,2025-09-12T02:00:00-06:00,63.0
+Jasper,,2025-09-12T02:00:00-06:00,4.0
+Jasper,Total Reduced Sulphur,2025-09-12T02:00:00-06:00,
+Jasper,Sulphur Dioxide,2025-09-12T02:00:00-06:00,0.0
+Jasper,Ozone,2025-09-12T02:00:00-06:00,0.0095
+Jasper,Total Oxides of Nitrogen,2025-09-12T02:00:00-06:00,0.0172
+Jasper,Wind Direction,2025-09-12T02:00:00-06:00,255.1
+Jasper,Nitric Oxide,2025-09-12T02:00:00-06:00,0.0017
+Jasper,Nitrogen Dioxide,2025-09-12T02:00:00-06:00,0.0155
 Jasper,Wind Speed,2025-09-12T02:00:00-06:00,1.9
-Jasper,Outdoor Temperature,2025-09-12T01:00:00-06:00,13.2
-Jasper,Total Oxides of Nitrogen,2025-09-12T01:00:00-06:00,0.0173
-Jasper,Sulphur Dioxide,2025-09-12T01:00:00-06:00,0.0
-Jasper,Total Reduced Sulphur,2025-09-12T01:00:00-06:00,
-Jasper,Nitric Oxide,2025-09-12T01:00:00-06:00,0.0005
-Jasper,Wind Direction,2025-09-12T01:00:00-06:00,242.4
-Jasper,Nitrogen Dioxide,2025-09-12T01:00:00-06:00,0.0168
-Jasper,Ozone,2025-09-12T01:00:00-06:00,0.0105
-Jasper,Fine Particulate Matter,2025-09-12T01:00:00-06:00,37.0
-Jasper,,2025-09-12T01:00:00-06:00,4.0
-Jasper,Wind Speed,2025-09-12T01:00:00-06:00,3.7
+Jasper,Outdoor Temperature,2025-09-12T02:00:00-06:00,11.9
 Jasper,Relative Humidity,2025-09-12T01:00:00-06:00,58.0
-Jasper,Fine Particulate Matter,2025-09-12T00:00:00-06:00,36.4
-Jasper,Nitrogen Dioxide,2025-09-12T00:00:00-06:00,0.0178
-Jasper,Sulphur Dioxide,2025-09-12T00:00:00-06:00,0.0
-Jasper,Total Oxides of Nitrogen,2025-09-12T00:00:00-06:00,0.019
-Jasper,Ozone,2025-09-12T00:00:00-06:00,0.0117
-Jasper,Wind Speed,2025-09-12T00:00:00-06:00,4.4
-Jasper,Relative Humidity,2025-09-12T00:00:00-06:00,53.0
-Jasper,Total Reduced Sulphur,2025-09-12T00:00:00-06:00,
+Jasper,Total Oxides of Nitrogen,2025-09-12T01:00:00-06:00,0.0173
+Jasper,Nitric Oxide,2025-09-12T01:00:00-06:00,0.0005
+Jasper,Sulphur Dioxide,2025-09-12T01:00:00-06:00,0.0
+Jasper,Ozone,2025-09-12T01:00:00-06:00,0.0105
+Jasper,,2025-09-12T01:00:00-06:00,4.0
+Jasper,Total Reduced Sulphur,2025-09-12T01:00:00-06:00,
+Jasper,Wind Direction,2025-09-12T01:00:00-06:00,242.4
+Jasper,Fine Particulate Matter,2025-09-12T01:00:00-06:00,37.0
+Jasper,Nitrogen Dioxide,2025-09-12T01:00:00-06:00,0.0168
+Jasper,Wind Speed,2025-09-12T01:00:00-06:00,3.7
+Jasper,Outdoor Temperature,2025-09-12T01:00:00-06:00,13.2
 Jasper,Nitric Oxide,2025-09-12T00:00:00-06:00,0.0012
-Jasper,,2025-09-12T00:00:00-06:00,4.0
-Jasper,Outdoor Temperature,2025-09-12T00:00:00-06:00,14.5
+Jasper,Relative Humidity,2025-09-12T00:00:00-06:00,53.0
+Jasper,Ozone,2025-09-12T00:00:00-06:00,0.0117
+Jasper,Nitrogen Dioxide,2025-09-12T00:00:00-06:00,0.0178
+Jasper,Fine Particulate Matter,2025-09-12T00:00:00-06:00,36.4
+Jasper,Total Reduced Sulphur,2025-09-12T00:00:00-06:00,
 Jasper,Wind Direction,2025-09-12T00:00:00-06:00,237.4
-Jasper,Sulphur Dioxide,2025-09-11T23:00:00-06:00,0.0
+Jasper,Sulphur Dioxide,2025-09-12T00:00:00-06:00,0.0
+Jasper,,2025-09-12T00:00:00-06:00,4.0
+Jasper,Wind Speed,2025-09-12T00:00:00-06:00,4.4
+Jasper,Total Oxides of Nitrogen,2025-09-12T00:00:00-06:00,0.019
+Jasper,Outdoor Temperature,2025-09-12T00:00:00-06:00,14.5
+Jasper,Total Reduced Sulphur,2025-09-11T23:00:00-06:00,
 Jasper,Nitric Oxide,2025-09-11T23:00:00-06:00,0.0
-Jasper,Total Oxides of Nitrogen,2025-09-11T23:00:00-06:00,0.0078
+Jasper,,2025-09-11T23:00:00-06:00,4.0
 Jasper,Fine Particulate Matter,2025-09-11T23:00:00-06:00,38.1
 Jasper,Ozone,2025-09-11T23:00:00-06:00,0.0259
-Jasper,Nitrogen Dioxide,2025-09-11T23:00:00-06:00,0.0078
-Jasper,Outdoor Temperature,2025-09-11T23:00:00-06:00,17.2
 Jasper,Wind Speed,2025-09-11T23:00:00-06:00,5.0
-Jasper,Relative Humidity,2025-09-11T23:00:00-06:00,44.0
-Jasper,Total Reduced Sulphur,2025-09-11T23:00:00-06:00,
+Jasper,Nitrogen Dioxide,2025-09-11T23:00:00-06:00,0.0078
+Jasper,Total Oxides of Nitrogen,2025-09-11T23:00:00-06:00,0.0078
+Jasper,Outdoor Temperature,2025-09-11T23:00:00-06:00,17.2
 Jasper,Wind Direction,2025-09-11T23:00:00-06:00,245.0
-Jasper,,2025-09-11T23:00:00-06:00,4.0
-Jasper,Relative Humidity,2025-09-11T22:00:00-06:00,42.0
-Jasper,Fine Particulate Matter,2025-09-11T22:00:00-06:00,34.9
-Jasper,Wind Speed,2025-09-11T22:00:00-06:00,5.6
-Jasper,Total Oxides of Nitrogen,2025-09-11T22:00:00-06:00,0.0231
-Jasper,Nitrogen Dioxide,2025-09-11T22:00:00-06:00,0.0179
-Jasper,Wind Direction,2025-09-11T22:00:00-06:00,245.3
+Jasper,Relative Humidity,2025-09-11T23:00:00-06:00,44.0
+Jasper,Sulphur Dioxide,2025-09-11T23:00:00-06:00,0.0
 Jasper,Nitric Oxide,2025-09-11T22:00:00-06:00,0.0052
+Jasper,Total Oxides of Nitrogen,2025-09-11T22:00:00-06:00,0.0231
+Jasper,Wind Direction,2025-09-11T22:00:00-06:00,245.3
+Jasper,Nitrogen Dioxide,2025-09-11T22:00:00-06:00,0.0179
+Jasper,Relative Humidity,2025-09-11T22:00:00-06:00,42.0
+Jasper,Wind Speed,2025-09-11T22:00:00-06:00,5.6
+Jasper,,2025-09-11T22:00:00-06:00,4.0
+Jasper,Total Reduced Sulphur,2025-09-11T22:00:00-06:00,
 Jasper,Ozone,2025-09-11T22:00:00-06:00,0.0169
 Jasper,Sulphur Dioxide,2025-09-11T22:00:00-06:00,0.0
 Jasper,Outdoor Temperature,2025-09-11T22:00:00-06:00,17.9
-Jasper,Total Reduced Sulphur,2025-09-11T22:00:00-06:00,
-Jasper,,2025-09-11T22:00:00-06:00,4.0
-Jasper,Ozone,2025-09-11T21:00:00-06:00,0.0321
-Jasper,Relative Humidity,2025-09-11T21:00:00-06:00,33.0
+Jasper,Fine Particulate Matter,2025-09-11T22:00:00-06:00,34.9
+Jasper,Total Oxides of Nitrogen,2025-09-11T21:00:00-06:00,0.0063
 Jasper,Wind Direction,2025-09-11T21:00:00-06:00,261.3
-Jasper,Nitric Oxide,2025-09-11T21:00:00-06:00,0.0006
-Jasper,Sulphur Dioxide,2025-09-11T21:00:00-06:00,0.0
 Jasper,Nitrogen Dioxide,2025-09-11T21:00:00-06:00,0.0058
+Jasper,Relative Humidity,2025-09-11T21:00:00-06:00,33.0
 Jasper,Total Reduced Sulphur,2025-09-11T21:00:00-06:00,
+Jasper,Wind Speed,2025-09-11T21:00:00-06:00,6.4
+Jasper,Nitric Oxide,2025-09-11T21:00:00-06:00,0.0006
+Jasper,,2025-09-11T21:00:00-06:00,4.0
+Jasper,Ozone,2025-09-11T21:00:00-06:00,0.0321
+Jasper,Sulphur Dioxide,2025-09-11T21:00:00-06:00,0.0
 Jasper,Outdoor Temperature,2025-09-11T21:00:00-06:00,20.9
 Jasper,Fine Particulate Matter,2025-09-11T21:00:00-06:00,34.2
-Jasper,Wind Speed,2025-09-11T21:00:00-06:00,6.4
-Jasper,Total Oxides of Nitrogen,2025-09-11T21:00:00-06:00,0.0063
-Jasper,,2025-09-11T21:00:00-06:00,4.0
-Jasper,Outdoor Temperature,2025-09-11T20:00:00-06:00,22.5
-Jasper,Wind Speed,2025-09-11T20:00:00-06:00,4.3
-Jasper,Relative Humidity,2025-09-11T20:00:00-06:00,28.0
-Jasper,Sulphur Dioxide,2025-09-11T20:00:00-06:00,0.0
-Jasper,Total Oxides of Nitrogen,2025-09-11T20:00:00-06:00,0.0031
-Jasper,Ozone,2025-09-11T20:00:00-06:00,0.036
-Jasper,,2025-09-11T20:00:00-06:00,4.0
-Jasper,Nitric Oxide,2025-09-11T20:00:00-06:00,0.0
-Jasper,Fine Particulate Matter,2025-09-11T20:00:00-06:00,32.4
-Jasper,Nitrogen Dioxide,2025-09-11T20:00:00-06:00,0.0032
 Jasper,Total Reduced Sulphur,2025-09-11T20:00:00-06:00,
+Jasper,Sulphur Dioxide,2025-09-11T20:00:00-06:00,0.0
+Jasper,Outdoor Temperature,2025-09-11T20:00:00-06:00,22.5
+Jasper,Fine Particulate Matter,2025-09-11T20:00:00-06:00,32.4
+Jasper,Total Oxides of Nitrogen,2025-09-11T20:00:00-06:00,0.0031
+Jasper,Relative Humidity,2025-09-11T20:00:00-06:00,28.0
+Jasper,Ozone,2025-09-11T20:00:00-06:00,0.036
 Jasper,Wind Direction,2025-09-11T20:00:00-06:00,281.6
-Jasper,Relative Humidity,2025-09-11T19:00:00-06:00,22.0
-Jasper,Ozone,2025-09-11T19:00:00-06:00,0.0397
-Jasper,Sulphur Dioxide,2025-09-11T19:00:00-06:00,0.0
-Jasper,Fine Particulate Matter,2025-09-11T19:00:00-06:00,34.6
-Jasper,Wind Speed,2025-09-11T19:00:00-06:00,5.3
-Jasper,,2025-09-11T19:00:00-06:00,4.0
-Jasper,Total Oxides of Nitrogen,2025-09-11T19:00:00-06:00,0.0047
-Jasper,Outdoor Temperature,2025-09-11T19:00:00-06:00,25.4
-Jasper,Total Reduced Sulphur,2025-09-11T19:00:00-06:00,
-Jasper,Nitric Oxide,2025-09-11T19:00:00-06:00,0.0002
+Jasper,Nitrogen Dioxide,2025-09-11T20:00:00-06:00,0.0032
+Jasper,,2025-09-11T20:00:00-06:00,4.0
+Jasper,Wind Speed,2025-09-11T20:00:00-06:00,4.3
+Jasper,Nitric Oxide,2025-09-11T20:00:00-06:00,0.0
 Jasper,Wind Direction,2025-09-11T19:00:00-06:00,246.8
+Jasper,Relative Humidity,2025-09-11T19:00:00-06:00,22.0
+Jasper,Total Oxides of Nitrogen,2025-09-11T19:00:00-06:00,0.0047
+Jasper,Nitric Oxide,2025-09-11T19:00:00-06:00,0.0002
+Jasper,Wind Speed,2025-09-11T19:00:00-06:00,5.3
+Jasper,Total Reduced Sulphur,2025-09-11T19:00:00-06:00,
+Jasper,Outdoor Temperature,2025-09-11T19:00:00-06:00,25.4
+Jasper,Sulphur Dioxide,2025-09-11T19:00:00-06:00,0.0
 Jasper,Nitrogen Dioxide,2025-09-11T19:00:00-06:00,0.0044
-Jasper,Fine Particulate Matter,2025-09-11T18:00:00-06:00,47.8
+Jasper,,2025-09-11T19:00:00-06:00,4.0
+Jasper,Ozone,2025-09-11T19:00:00-06:00,0.0397
+Jasper,Fine Particulate Matter,2025-09-11T19:00:00-06:00,34.6
 Jasper,Ozone,2025-09-11T18:00:00-06:00,0.04
-Jasper,Sulphur Dioxide,2025-09-11T18:00:00-06:00,0.0
 Jasper,Nitric Oxide,2025-09-11T18:00:00-06:00,0.0005
-Jasper,Wind Speed,2025-09-11T18:00:00-06:00,5.8
+Jasper,Sulphur Dioxide,2025-09-11T18:00:00-06:00,0.0
 Jasper,Total Reduced Sulphur,2025-09-11T18:00:00-06:00,
-Jasper,Total Oxides of Nitrogen,2025-09-11T18:00:00-06:00,0.0046
-Jasper,Nitrogen Dioxide,2025-09-11T18:00:00-06:00,0.0041
-Jasper,Relative Humidity,2025-09-11T18:00:00-06:00,23.0
 Jasper,,2025-09-11T18:00:00-06:00,4.0
-Jasper,Outdoor Temperature,2025-09-11T18:00:00-06:00,25.9
+Jasper,Nitrogen Dioxide,2025-09-11T18:00:00-06:00,0.0041
+Jasper,Wind Speed,2025-09-11T18:00:00-06:00,5.8
+Jasper,Total Oxides of Nitrogen,2025-09-11T18:00:00-06:00,0.0046
+Jasper,Relative Humidity,2025-09-11T18:00:00-06:00,23.0
+Jasper,Fine Particulate Matter,2025-09-11T18:00:00-06:00,47.8
 Jasper,Wind Direction,2025-09-11T18:00:00-06:00,180.7
+Jasper,Outdoor Temperature,2025-09-11T18:00:00-06:00,25.9
+Jasper,Ozone,2025-09-11T17:00:00-06:00,0.0392
+Jasper,Sulphur Dioxide,2025-09-11T17:00:00-06:00,0.0
 Jasper,Total Reduced Sulphur,2025-09-11T17:00:00-06:00,
+Jasper,,2025-09-11T17:00:00-06:00,4.0
 Jasper,Wind Speed,2025-09-11T17:00:00-06:00,5.0
 Jasper,Total Oxides of Nitrogen,2025-09-11T17:00:00-06:00,0.0055
-Jasper,Sulphur Dioxide,2025-09-11T17:00:00-06:00,0.0
-Jasper,Nitrogen Dioxide,2025-09-11T17:00:00-06:00,0.0042
-Jasper,Relative Humidity,2025-09-11T17:00:00-06:00,24.0
-Jasper,Ozone,2025-09-11T17:00:00-06:00,0.0392
-Jasper,,2025-09-11T17:00:00-06:00,4.0
-Jasper,Fine Particulate Matter,2025-09-11T17:00:00-06:00,47.0
-Jasper,Outdoor Temperature,2025-09-11T17:00:00-06:00,25.6
 Jasper,Nitric Oxide,2025-09-11T17:00:00-06:00,0.0013
+Jasper,Fine Particulate Matter,2025-09-11T17:00:00-06:00,47.0
+Jasper,Relative Humidity,2025-09-11T17:00:00-06:00,24.0
+Jasper,Nitrogen Dioxide,2025-09-11T17:00:00-06:00,0.0042
 Jasper,Wind Direction,2025-09-11T17:00:00-06:00,168.7
-Jasper,Total Reduced Sulphur,2025-09-11T16:00:00-06:00,
+Jasper,Outdoor Temperature,2025-09-11T17:00:00-06:00,25.6
 Jasper,Total Oxides of Nitrogen,2025-09-11T16:00:00-06:00,0.0046
-Jasper,Nitrogen Dioxide,2025-09-11T16:00:00-06:00,0.0033
-Jasper,Ozone,2025-09-11T16:00:00-06:00,0.036
-Jasper,Relative Humidity,2025-09-11T16:00:00-06:00,26.0
-Jasper,Nitric Oxide,2025-09-11T16:00:00-06:00,0.0013
 Jasper,Outdoor Temperature,2025-09-11T16:00:00-06:00,24.8
-Jasper,Fine Particulate Matter,2025-09-11T16:00:00-06:00,38.6
 Jasper,Wind Direction,2025-09-11T16:00:00-06:00,161.8
-Jasper,Wind Speed,2025-09-11T16:00:00-06:00,4.7
-Jasper,Sulphur Dioxide,2025-09-11T16:00:00-06:00,0.0
 Jasper,,2025-09-11T16:00:00-06:00,3.0
+Jasper,Relative Humidity,2025-09-11T16:00:00-06:00,26.0
+Jasper,Wind Speed,2025-09-11T16:00:00-06:00,4.7
+Jasper,Nitrogen Dioxide,2025-09-11T16:00:00-06:00,0.0033
+Jasper,Total Reduced Sulphur,2025-09-11T16:00:00-06:00,
+Jasper,Ozone,2025-09-11T16:00:00-06:00,0.036
+Jasper,Sulphur Dioxide,2025-09-11T16:00:00-06:00,0.0
+Jasper,Nitric Oxide,2025-09-11T16:00:00-06:00,0.0013
+Jasper,Fine Particulate Matter,2025-09-11T16:00:00-06:00,38.6
 Jasper,Wind Direction,2025-09-11T15:00:00-06:00,152.8
-Jasper,Relative Humidity,2025-09-11T15:00:00-06:00,32.0
 Jasper,Nitric Oxide,2025-09-11T15:00:00-06:00,0.0025
-Jasper,Outdoor Temperature,2025-09-11T15:00:00-06:00,23.1
 Jasper,Ozone,2025-09-11T15:00:00-06:00,0.0309
-Jasper,,2025-09-11T15:00:00-06:00,3.0
-Jasper,Nitrogen Dioxide,2025-09-11T15:00:00-06:00,0.0043
-Jasper,Wind Speed,2025-09-11T15:00:00-06:00,4.3
-Jasper,Sulphur Dioxide,2025-09-11T15:00:00-06:00,0.0
-Jasper,Total Oxides of Nitrogen,2025-09-11T15:00:00-06:00,0.0068
-Jasper,Fine Particulate Matter,2025-09-11T15:00:00-06:00,25.6
 Jasper,Total Reduced Sulphur,2025-09-11T15:00:00-06:00,
-Jasper,Ozone,2025-09-11T14:00:00-06:00,0.0274
-Jasper,Wind Direction,2025-09-11T14:00:00-06:00,193.5
-Jasper,Nitric Oxide,2025-09-11T14:00:00-06:00,0.0025
-Jasper,Relative Humidity,2025-09-11T14:00:00-06:00,39.0
-Jasper,Fine Particulate Matter,2025-09-11T14:00:00-06:00,20.7
-Jasper,,2025-09-11T14:00:00-06:00,3.0
+Jasper,Outdoor Temperature,2025-09-11T15:00:00-06:00,23.1
+Jasper,Total Oxides of Nitrogen,2025-09-11T15:00:00-06:00,0.0068
+Jasper,Relative Humidity,2025-09-11T15:00:00-06:00,32.0
+Jasper,Wind Speed,2025-09-11T15:00:00-06:00,4.3
+Jasper,Nitrogen Dioxide,2025-09-11T15:00:00-06:00,0.0043
+Jasper,,2025-09-11T15:00:00-06:00,3.0
+Jasper,Sulphur Dioxide,2025-09-11T15:00:00-06:00,0.0
+Jasper,Fine Particulate Matter,2025-09-11T15:00:00-06:00,25.6
 Jasper,Outdoor Temperature,2025-09-11T14:00:00-06:00,20.3
-Jasper,Nitrogen Dioxide,2025-09-11T14:00:00-06:00,0.0039
-Jasper,Wind Speed,2025-09-11T14:00:00-06:00,2.3
 Jasper,Total Oxides of Nitrogen,2025-09-11T14:00:00-06:00,0.0063
-Jasper,Sulphur Dioxide,2025-09-11T14:00:00-06:00,0.0
+Jasper,Wind Direction,2025-09-11T14:00:00-06:00,193.5
+Jasper,Relative Humidity,2025-09-11T14:00:00-06:00,39.0
+Jasper,Nitric Oxide,2025-09-11T14:00:00-06:00,0.0025
+Jasper,Wind Speed,2025-09-11T14:00:00-06:00,2.3
+Jasper,Ozone,2025-09-11T14:00:00-06:00,0.0274
 Jasper,Total Reduced Sulphur,2025-09-11T14:00:00-06:00,
-Jasper,Ozone,2025-09-11T13:00:00-06:00,0.0243
-Jasper,Fine Particulate Matter,2025-09-11T13:00:00-06:00,31.8
-Jasper,,2025-09-11T13:00:00-06:00,3.0
+Jasper,Fine Particulate Matter,2025-09-11T14:00:00-06:00,20.7
+Jasper,Sulphur Dioxide,2025-09-11T14:00:00-06:00,0.0
+Jasper,Nitrogen Dioxide,2025-09-11T14:00:00-06:00,0.0039
+Jasper,,2025-09-11T14:00:00-06:00,3.0
 Jasper,Outdoor Temperature,2025-09-11T13:00:00-06:00,17.7
-Jasper,Nitrogen Dioxide,2025-09-11T13:00:00-06:00,0.002
-Jasper,Total Reduced Sulphur,2025-09-11T13:00:00-06:00,
-Jasper,Wind Speed,2025-09-11T13:00:00-06:00,
-Jasper,Relative Humidity,2025-09-11T13:00:00-06:00,46.0
 Jasper,Total Oxides of Nitrogen,2025-09-11T13:00:00-06:00,0.0027
+Jasper,Ozone,2025-09-11T13:00:00-06:00,0.0243
+Jasper,Relative Humidity,2025-09-11T13:00:00-06:00,46.0
+Jasper,Wind Speed,2025-09-11T13:00:00-06:00,
+Jasper,Total Reduced Sulphur,2025-09-11T13:00:00-06:00,
+Jasper,,2025-09-11T13:00:00-06:00,3.0
 Jasper,Nitric Oxide,2025-09-11T13:00:00-06:00,0.0007
-Jasper,Wind Direction,2025-09-11T13:00:00-06:00,
+Jasper,Fine Particulate Matter,2025-09-11T13:00:00-06:00,31.8
 Jasper,Sulphur Dioxide,2025-09-11T13:00:00-06:00,0.0
-Jasper,Total Oxides of Nitrogen,2025-09-11T12:00:00-06:00,0.0033
-Jasper,Relative Humidity,2025-09-11T12:00:00-06:00,52.0
-Jasper,Total Reduced Sulphur,2025-09-11T12:00:00-06:00,
+Jasper,Wind Direction,2025-09-11T13:00:00-06:00,
+Jasper,Nitrogen Dioxide,2025-09-11T13:00:00-06:00,0.002
 Jasper,,2025-09-11T12:00:00-06:00,3.0
-Jasper,Nitric Oxide,2025-09-11T12:00:00-06:00,0.0012
+Jasper,Total Oxides of Nitrogen,2025-09-11T12:00:00-06:00,0.0033
 Jasper,Ozone,2025-09-11T12:00:00-06:00,0.0216
+Jasper,Wind Direction,2025-09-11T12:00:00-06:00,144.5
 Jasper,Wind Speed,2025-09-11T12:00:00-06:00,2.6
 Jasper,Fine Particulate Matter,2025-09-11T12:00:00-06:00,31.0
 Jasper,Nitrogen Dioxide,2025-09-11T12:00:00-06:00,0.0021
-Jasper,Outdoor Temperature,2025-09-11T12:00:00-06:00,15.2
-Jasper,Wind Direction,2025-09-11T12:00:00-06:00,144.5
+Jasper,Relative Humidity,2025-09-11T12:00:00-06:00,52.0
+Jasper,Nitric Oxide,2025-09-11T12:00:00-06:00,0.0012
 Jasper,Sulphur Dioxide,2025-09-11T12:00:00-06:00,0.0
-Jasper,Total Oxides of Nitrogen,2025-09-11T11:00:00-06:00,0.0093
+Jasper,Outdoor Temperature,2025-09-11T12:00:00-06:00,15.2
+Jasper,Total Reduced Sulphur,2025-09-11T12:00:00-06:00,
+Jasper,Sulphur Dioxide,2025-09-11T11:00:00-06:00,0.0
+Jasper,Fine Particulate Matter,2025-09-11T11:00:00-06:00,38.7
+Jasper,,2025-09-11T11:00:00-06:00,3.0
+Jasper,Outdoor Temperature,2025-09-11T11:00:00-06:00,12.0
+Jasper,Nitrogen Dioxide,2025-09-11T11:00:00-06:00,0.0049
 Jasper,Relative Humidity,2025-09-11T11:00:00-06:00,64.0
+Jasper,Total Oxides of Nitrogen,2025-09-11T11:00:00-06:00,0.0093
+Jasper,Ozone,2025-09-11T11:00:00-06:00,0.014
+Jasper,Wind Direction,2025-09-11T11:00:00-06:00,168.1
+Jasper,Total Reduced Sulphur,2025-09-11T11:00:00-06:00,
 Jasper,Nitric Oxide,2025-09-11T11:00:00-06:00,0.0044
 Jasper,Wind Speed,2025-09-11T11:00:00-06:00,2.4
-Jasper,Ozone,2025-09-11T11:00:00-06:00,0.014
-Jasper,Outdoor Temperature,2025-09-11T11:00:00-06:00,12.0
-Jasper,,2025-09-11T11:00:00-06:00,3.0
-Jasper,Wind Direction,2025-09-11T11:00:00-06:00,168.1
-Jasper,Nitrogen Dioxide,2025-09-11T11:00:00-06:00,0.0049
-Jasper,Total Reduced Sulphur,2025-09-11T11:00:00-06:00,
-Jasper,Fine Particulate Matter,2025-09-11T11:00:00-06:00,38.7
-Jasper,Sulphur Dioxide,2025-09-11T11:00:00-06:00,0.0
-Jasper,Total Oxides of Nitrogen,2025-09-11T10:00:00-06:00,0.0213
-Jasper,Relative Humidity,2025-09-11T10:00:00-06:00,75.0
+Jasper,,2025-09-11T10:00:00-06:00,3.0
 Jasper,Outdoor Temperature,2025-09-11T10:00:00-06:00,8.7
+Jasper,Total Oxides of Nitrogen,2025-09-11T10:00:00-06:00,0.0213
+Jasper,Ozone,2025-09-11T10:00:00-06:00,0.0074
+Jasper,Wind Direction,2025-09-11T10:00:00-06:00,194.3
+Jasper,Relative Humidity,2025-09-11T10:00:00-06:00,75.0
+Jasper,Nitric Oxide,2025-09-11T10:00:00-06:00,0.0118
 Jasper,Wind Speed,2025-09-11T10:00:00-06:00,3.2
+Jasper,Total Reduced Sulphur,2025-09-11T10:00:00-06:00,
+Jasper,Nitrogen Dioxide,2025-09-11T10:00:00-06:00,0.0095
 Jasper,Fine Particulate Matter,2025-09-11T10:00:00-06:00,40.7
 Jasper,Sulphur Dioxide,2025-09-11T10:00:00-06:00,0.0
-Jasper,,2025-09-11T10:00:00-06:00,3.0
-Jasper,Total Reduced Sulphur,2025-09-11T10:00:00-06:00,
-Jasper,Wind Direction,2025-09-11T10:00:00-06:00,194.3
-Jasper,Ozone,2025-09-11T10:00:00-06:00,0.0074
-Jasper,Nitrogen Dioxide,2025-09-11T10:00:00-06:00,0.0095
-Jasper,Nitric Oxide,2025-09-11T10:00:00-06:00,0.0118
-Jasper,Fine Particulate Matter,2025-09-11T09:00:00-06:00,39.0
-Jasper,Sulphur Dioxide,2025-09-11T09:00:00-06:00,0.0
-Jasper,Total Reduced Sulphur,2025-09-11T09:00:00-06:00,
-Jasper,Ozone,2025-09-11T09:00:00-06:00,0.0035
-Jasper,Nitrogen Dioxide,2025-09-11T09:00:00-06:00,0.012
 Jasper,Wind Speed,2025-09-11T09:00:00-06:00,3.1
-Jasper,,2025-09-11T09:00:00-06:00,3.0
-Jasper,Outdoor Temperature,2025-09-11T09:00:00-06:00,6.4
+Jasper,Relative Humidity,2025-09-11T09:00:00-06:00,84.0
+Jasper,Total Reduced Sulphur,2025-09-11T09:00:00-06:00,
 Jasper,Nitric Oxide,2025-09-11T09:00:00-06:00,0.012
 Jasper,Wind Direction,2025-09-11T09:00:00-06:00,242.6
+Jasper,Outdoor Temperature,2025-09-11T09:00:00-06:00,6.4
 Jasper,Total Oxides of Nitrogen,2025-09-11T09:00:00-06:00,0.024
-Jasper,Relative Humidity,2025-09-11T09:00:00-06:00,84.0
-Jasper,Sulphur Dioxide,2025-09-11T08:00:00-06:00,0.0
-Jasper,Fine Particulate Matter,2025-09-11T08:00:00-06:00,37.8
+Jasper,Nitrogen Dioxide,2025-09-11T09:00:00-06:00,0.012
+Jasper,Fine Particulate Matter,2025-09-11T09:00:00-06:00,39.0
+Jasper,Ozone,2025-09-11T09:00:00-06:00,0.0035
+Jasper,,2025-09-11T09:00:00-06:00,3.0
+Jasper,Sulphur Dioxide,2025-09-11T09:00:00-06:00,0.0
 Jasper,Total Reduced Sulphur,2025-09-11T08:00:00-06:00,
-Jasper,Ozone,2025-09-11T08:00:00-06:00,0.0011
 Jasper,Wind Speed,2025-09-11T08:00:00-06:00,2.4
-Jasper,Outdoor Temperature,2025-09-11T08:00:00-06:00,6.0
 Jasper,Nitric Oxide,2025-09-11T08:00:00-06:00,0.0134
-Jasper,Total Oxides of Nitrogen,2025-09-11T08:00:00-06:00,0.0278
-Jasper,,2025-09-11T08:00:00-06:00,3.0
 Jasper,Relative Humidity,2025-09-11T08:00:00-06:00,87.0
-Jasper,Wind Direction,2025-09-11T08:00:00-06:00,250.6
 Jasper,Nitrogen Dioxide,2025-09-11T08:00:00-06:00,0.0144
-Jasper,Fine Particulate Matter,2025-09-11T07:00:00-06:00,37.9
+Jasper,Wind Direction,2025-09-11T08:00:00-06:00,250.6
+Jasper,Outdoor Temperature,2025-09-11T08:00:00-06:00,6.0
+Jasper,Total Oxides of Nitrogen,2025-09-11T08:00:00-06:00,0.0278
+Jasper,Fine Particulate Matter,2025-09-11T08:00:00-06:00,37.8
+Jasper,Ozone,2025-09-11T08:00:00-06:00,0.0011
+Jasper,,2025-09-11T08:00:00-06:00,3.0
+Jasper,Sulphur Dioxide,2025-09-11T08:00:00-06:00,0.0
+Jasper,Wind Speed,2025-09-11T07:00:00-06:00,2.1
 Jasper,Outdoor Temperature,2025-09-11T07:00:00-06:00,6.4
+Jasper,Nitrogen Dioxide,2025-09-11T07:00:00-06:00,0.0148
 Jasper,Wind Direction,2025-09-11T07:00:00-06:00,239.7
+Jasper,Nitric Oxide,2025-09-11T07:00:00-06:00,0.0124
+Jasper,Ozone,2025-09-11T07:00:00-06:00,0.0012
+Jasper,Sulphur Dioxide,2025-09-11T07:00:00-06:00,0.0
+Jasper,Fine Particulate Matter,2025-09-11T07:00:00-06:00,37.9
 Jasper,,2025-09-11T07:00:00-06:00,3.0
+Jasper,Total Reduced Sulphur,2025-09-11T07:00:00-06:00,
 Jasper,Relative Humidity,2025-09-11T07:00:00-06:00,86.0
 Jasper,Total Oxides of Nitrogen,2025-09-11T07:00:00-06:00,0.0273
-Jasper,Wind Speed,2025-09-11T07:00:00-06:00,2.1
-Jasper,Sulphur Dioxide,2025-09-11T07:00:00-06:00,0.0
-Jasper,Total Reduced Sulphur,2025-09-11T07:00:00-06:00,
-Jasper,Ozone,2025-09-11T07:00:00-06:00,0.0012
-Jasper,Nitrogen Dioxide,2025-09-11T07:00:00-06:00,0.0148
-Jasper,Nitric Oxide,2025-09-11T07:00:00-06:00,0.0124
-Jasper,,2025-09-11T06:00:00-06:00,3.0
 Jasper,Relative Humidity,2025-09-11T06:00:00-06:00,83.0
+Jasper,Nitrogen Dioxide,2025-09-11T06:00:00-06:00,0.015
+Jasper,Wind Direction,2025-09-11T06:00:00-06:00,252.8
+Jasper,Fine Particulate Matter,2025-09-11T06:00:00-06:00,37.8
 Jasper,Outdoor Temperature,2025-09-11T06:00:00-06:00,7.1
+Jasper,Nitric Oxide,2025-09-11T06:00:00-06:00,0.0041
+Jasper,Sulphur Dioxide,2025-09-11T06:00:00-06:00,0.0
+Jasper,Ozone,2025-09-11T06:00:00-06:00,0.0016
+Jasper,Total Reduced Sulphur,2025-09-11T06:00:00-06:00,
+Jasper,,2025-09-11T06:00:00-06:00,3.0
 Jasper,Total Oxides of Nitrogen,2025-09-11T06:00:00-06:00,0.0192
 Jasper,Wind Speed,2025-09-11T06:00:00-06:00,2.9
-Jasper,Total Reduced Sulphur,2025-09-11T06:00:00-06:00,
-Jasper,Sulphur Dioxide,2025-09-11T06:00:00-06:00,0.0
-Jasper,Wind Direction,2025-09-11T06:00:00-06:00,252.8
-Jasper,Ozone,2025-09-11T06:00:00-06:00,0.0016
-Jasper,Fine Particulate Matter,2025-09-11T06:00:00-06:00,37.8
-Jasper,Nitric Oxide,2025-09-11T06:00:00-06:00,0.0041
-Jasper,Nitrogen Dioxide,2025-09-11T06:00:00-06:00,0.015
 Jasper,Relative Humidity,2025-09-11T05:00:00-06:00,81.0
+Jasper,Nitrogen Dioxide,2025-09-11T05:00:00-06:00,0.0156
+Jasper,Nitric Oxide,2025-09-11T05:00:00-06:00,0.0045
+Jasper,Fine Particulate Matter,2025-09-11T05:00:00-06:00,37.9
+Jasper,Total Reduced Sulphur,2025-09-11T05:00:00-06:00,
+Jasper,Total Oxides of Nitrogen,2025-09-11T05:00:00-06:00,0.0201
+Jasper,Wind Direction,2025-09-11T05:00:00-06:00,234.1
 Jasper,Outdoor Temperature,2025-09-11T05:00:00-06:00,7.8
 Jasper,Wind Speed,2025-09-11T05:00:00-06:00,2.4
-Jasper,Total Reduced Sulphur,2025-09-11T05:00:00-06:00,
 Jasper,Sulphur Dioxide,2025-09-11T05:00:00-06:00,0.0
-Jasper,Total Oxides of Nitrogen,2025-09-11T05:00:00-06:00,0.0201
-Jasper,Ozone,2025-09-11T05:00:00-06:00,0.0017
-Jasper,Fine Particulate Matter,2025-09-11T05:00:00-06:00,37.9
-Jasper,Nitric Oxide,2025-09-11T05:00:00-06:00,0.0045
-Jasper,Nitrogen Dioxide,2025-09-11T05:00:00-06:00,0.0156
-Jasper,Wind Direction,2025-09-11T05:00:00-06:00,234.1
 Jasper,,2025-09-11T05:00:00-06:00,3.0
-Jasper,Nitrogen Dioxide,2025-09-11T04:00:00-06:00,
-Jasper,Relative Humidity,2025-09-11T04:00:00-06:00,78.0
+Jasper,Ozone,2025-09-11T05:00:00-06:00,0.0017
+Jasper,Wind Direction,2025-09-11T04:00:00-06:00,255.4
 Jasper,Outdoor Temperature,2025-09-11T04:00:00-06:00,8.7
 Jasper,Total Reduced Sulphur,2025-09-11T04:00:00-06:00,
+Jasper,Wind Speed,2025-09-11T04:00:00-06:00,2.4
+Jasper,Fine Particulate Matter,2025-09-11T04:00:00-06:00,38.4
+Jasper,Ozone,2025-09-11T04:00:00-06:00,0.0021
+Jasper,,2025-09-11T04:00:00-06:00,3.0
+Jasper,Relative Humidity,2025-09-11T04:00:00-06:00,78.0
+Jasper,Nitrogen Dioxide,2025-09-11T04:00:00-06:00,
 Jasper,Nitric Oxide,2025-09-11T04:00:00-06:00,
 Jasper,Sulphur Dioxide,2025-09-11T04:00:00-06:00,
 Jasper,Total Oxides of Nitrogen,2025-09-11T04:00:00-06:00,
-Jasper,Wind Direction,2025-09-11T04:00:00-06:00,255.4
-Jasper,,2025-09-11T04:00:00-06:00,3.0
-Jasper,Fine Particulate Matter,2025-09-11T04:00:00-06:00,38.4
-Jasper,Ozone,2025-09-11T04:00:00-06:00,0.0021
-Jasper,Wind Speed,2025-09-11T04:00:00-06:00,2.4
 Jasper,Wind Direction,2025-09-11T03:00:00-06:00,246.1
-Jasper,Fine Particulate Matter,2025-09-11T03:00:00-06:00,38.3
-Jasper,,2025-09-11T03:00:00-06:00,3.0
-Jasper,Nitric Oxide,2025-09-11T03:00:00-06:00,0.0027
+Jasper,Relative Humidity,2025-09-11T03:00:00-06:00,76.0
 Jasper,Total Oxides of Nitrogen,2025-09-11T03:00:00-06:00,0.0152
-Jasper,Ozone,2025-09-11T03:00:00-06:00,
-Jasper,Sulphur Dioxide,2025-09-11T03:00:00-06:00,0.0
+Jasper,Outdoor Temperature,2025-09-11T03:00:00-06:00,9.5
 Jasper,Total Reduced Sulphur,2025-09-11T03:00:00-06:00,
 Jasper,Wind Speed,2025-09-11T03:00:00-06:00,1.4
-Jasper,Relative Humidity,2025-09-11T03:00:00-06:00,76.0
-Jasper,Outdoor Temperature,2025-09-11T03:00:00-06:00,9.5
+Jasper,Fine Particulate Matter,2025-09-11T03:00:00-06:00,38.3
+Jasper,Sulphur Dioxide,2025-09-11T03:00:00-06:00,0.0
+Jasper,,2025-09-11T03:00:00-06:00,3.0
+Jasper,Nitric Oxide,2025-09-11T03:00:00-06:00,0.0027
 Jasper,Nitrogen Dioxide,2025-09-11T03:00:00-06:00,0.0126
-Jasper,Ozone,2025-09-11T02:00:00-06:00,0.0149
-Jasper,Total Oxides of Nitrogen,2025-09-11T02:00:00-06:00,0.0044
-Jasper,Wind Speed,2025-09-11T02:00:00-06:00,
-Jasper,Sulphur Dioxide,2025-09-11T02:00:00-06:00,0.0
-Jasper,Wind Direction,2025-09-11T02:00:00-06:00,
-Jasper,Total Reduced Sulphur,2025-09-11T02:00:00-06:00,
-Jasper,Nitric Oxide,2025-09-11T02:00:00-06:00,0.0
-Jasper,Nitrogen Dioxide,2025-09-11T02:00:00-06:00,0.0045
-Jasper,Relative Humidity,2025-09-11T02:00:00-06:00,74.0
-Jasper,,2025-09-11T02:00:00-06:00,3.0
+Jasper,Ozone,2025-09-11T03:00:00-06:00,
 Jasper,Outdoor Temperature,2025-09-11T02:00:00-06:00,10.1
+Jasper,Total Reduced Sulphur,2025-09-11T02:00:00-06:00,
+Jasper,Sulphur Dioxide,2025-09-11T02:00:00-06:00,0.0
+Jasper,Nitrogen Dioxide,2025-09-11T02:00:00-06:00,0.0045
+Jasper,Wind Direction,2025-09-11T02:00:00-06:00,
+Jasper,Wind Speed,2025-09-11T02:00:00-06:00,
+Jasper,Relative Humidity,2025-09-11T02:00:00-06:00,74.0
 Jasper,Fine Particulate Matter,2025-09-11T02:00:00-06:00,34.6
-Jasper,Ozone,2025-09-11T01:00:00-06:00,0.0175
+Jasper,Total Oxides of Nitrogen,2025-09-11T02:00:00-06:00,0.0044
+Jasper,Nitric Oxide,2025-09-11T02:00:00-06:00,0.0
+Jasper,Ozone,2025-09-11T02:00:00-06:00,0.0149
+Jasper,,2025-09-11T02:00:00-06:00,3.0
+Jasper,Wind Direction,2025-09-11T01:00:00-06:00,
 Jasper,Wind Speed,2025-09-11T01:00:00-06:00,
+Jasper,Fine Particulate Matter,2025-09-11T01:00:00-06:00,32.1
 Jasper,Nitric Oxide,2025-09-11T01:00:00-06:00,0.0
-Jasper,Total Reduced Sulphur,2025-09-11T01:00:00-06:00,
-Jasper,Total Oxides of Nitrogen,2025-09-11T01:00:00-06:00,0.0029
 Jasper,Outdoor Temperature,2025-09-11T01:00:00-06:00,11.0
+Jasper,Relative Humidity,2025-09-11T01:00:00-06:00,70.0
+Jasper,Total Oxides of Nitrogen,2025-09-11T01:00:00-06:00,0.0029
+Jasper,Nitrogen Dioxide,2025-09-11T01:00:00-06:00,0.003
+Jasper,Ozone,2025-09-11T01:00:00-06:00,0.0175
 Jasper,,2025-09-11T01:00:00-06:00,3.0
 Jasper,Sulphur Dioxide,2025-09-11T01:00:00-06:00,0.0
-Jasper,Relative Humidity,2025-09-11T01:00:00-06:00,70.0
-Jasper,Fine Particulate Matter,2025-09-11T01:00:00-06:00,32.1
-Jasper,Wind Direction,2025-09-11T01:00:00-06:00,
-Jasper,Nitrogen Dioxide,2025-09-11T01:00:00-06:00,0.003
+Jasper,Total Reduced Sulphur,2025-09-11T01:00:00-06:00,
 Jasper,Relative Humidity,2025-09-11T00:00:00-06:00,65.0
-Jasper,Sulphur Dioxide,2025-09-11T00:00:00-06:00,0.0
+Jasper,Wind Direction,2025-09-11T00:00:00-06:00,
+Jasper,Nitrogen Dioxide,2025-09-11T00:00:00-06:00,0.0043
+Jasper,Outdoor Temperature,2025-09-11T00:00:00-06:00,12.4
+Jasper,Nitric Oxide,2025-09-11T00:00:00-06:00,0.0003
+Jasper,,2025-09-11T00:00:00-06:00,3.0
 Jasper,Total Oxides of Nitrogen,2025-09-11T00:00:00-06:00,0.0046
 Jasper,Total Reduced Sulphur,2025-09-11T00:00:00-06:00,
-Jasper,Wind Direction,2025-09-11T00:00:00-06:00,
-Jasper,Fine Particulate Matter,2025-09-11T00:00:00-06:00,32.1
-Jasper,,2025-09-11T00:00:00-06:00,3.0
-Jasper,Wind Speed,2025-09-11T00:00:00-06:00,
 Jasper,Ozone,2025-09-11T00:00:00-06:00,0.0177
-Jasper,Nitric Oxide,2025-09-11T00:00:00-06:00,0.0003
-Jasper,Outdoor Temperature,2025-09-11T00:00:00-06:00,12.4
-Jasper,Nitrogen Dioxide,2025-09-11T00:00:00-06:00,0.0043
-Jasper,Nitrogen Dioxide,2025-09-10T23:00:00-06:00,0.0035
+Jasper,Fine Particulate Matter,2025-09-11T00:00:00-06:00,32.1
+Jasper,Sulphur Dioxide,2025-09-11T00:00:00-06:00,0.0
+Jasper,Wind Speed,2025-09-11T00:00:00-06:00,
 Jasper,,2025-09-10T23:00:00-06:00,3.0
-Jasper,Ozone,2025-09-10T23:00:00-06:00,0.0206
-Jasper,Nitric Oxide,2025-09-10T23:00:00-06:00,0.0
-Jasper,Wind Direction,2025-09-10T23:00:00-06:00,
-Jasper,Total Oxides of Nitrogen,2025-09-10T23:00:00-06:00,0.0034
 Jasper,Fine Particulate Matter,2025-09-10T23:00:00-06:00,33.1
 Jasper,Sulphur Dioxide,2025-09-10T23:00:00-06:00,0.0
-Jasper,Total Reduced Sulphur,2025-09-10T23:00:00-06:00,
 Jasper,Wind Speed,2025-09-10T23:00:00-06:00,
+Jasper,Nitrogen Dioxide,2025-09-10T23:00:00-06:00,0.0035
+Jasper,Ozone,2025-09-10T23:00:00-06:00,0.0206
+Jasper,Total Reduced Sulphur,2025-09-10T23:00:00-06:00,
+Jasper,Wind Direction,2025-09-10T23:00:00-06:00,
 Jasper,Outdoor Temperature,2025-09-10T23:00:00-06:00,13.7
+Jasper,Nitric Oxide,2025-09-10T23:00:00-06:00,0.0
+Jasper,Total Oxides of Nitrogen,2025-09-10T23:00:00-06:00,0.0034
 Jasper,Relative Humidity,2025-09-10T23:00:00-06:00,60.0
-Jasper,Relative Humidity,2025-09-10T22:00:00-06:00,55.0
 Jasper,Nitrogen Dioxide,2025-09-10T22:00:00-06:00,0.0085
 Jasper,Ozone,2025-09-10T22:00:00-06:00,0.0173
-Jasper,,2025-09-10T22:00:00-06:00,3.0
-Jasper,Wind Direction,2025-09-10T22:00:00-06:00,245.9
-Jasper,Nitric Oxide,2025-09-10T22:00:00-06:00,0.0004
-Jasper,Fine Particulate Matter,2025-09-10T22:00:00-06:00,36.7
-Jasper,Wind Speed,2025-09-10T22:00:00-06:00,2.7
 Jasper,Total Reduced Sulphur,2025-09-10T22:00:00-06:00,
-Jasper,Total Oxides of Nitrogen,2025-09-10T22:00:00-06:00,0.0089
 Jasper,Outdoor Temperature,2025-09-10T22:00:00-06:00,16.3
+Jasper,,2025-09-10T22:00:00-06:00,3.0
+Jasper,Total Oxides of Nitrogen,2025-09-10T22:00:00-06:00,0.0089
+Jasper,Fine Particulate Matter,2025-09-10T22:00:00-06:00,36.7
+Jasper,Nitric Oxide,2025-09-10T22:00:00-06:00,0.0004
+Jasper,Relative Humidity,2025-09-10T22:00:00-06:00,55.0
 Jasper,Sulphur Dioxide,2025-09-10T22:00:00-06:00,0.0
-Jasper,Outdoor Temperature,2025-09-10T21:00:00-06:00,19.7
-Jasper,Total Reduced Sulphur,2025-09-10T21:00:00-06:00,
-Jasper,Sulphur Dioxide,2025-09-10T21:00:00-06:00,0.0
-Jasper,Wind Speed,2025-09-10T21:00:00-06:00,1.5
-Jasper,Total Oxides of Nitrogen,2025-09-10T21:00:00-06:00,0.0075
-Jasper,Nitric Oxide,2025-09-10T21:00:00-06:00,0.0
-Jasper,,2025-09-10T21:00:00-06:00,4.0
+Jasper,Wind Direction,2025-09-10T22:00:00-06:00,245.9
+Jasper,Wind Speed,2025-09-10T22:00:00-06:00,2.7
 Jasper,Relative Humidity,2025-09-10T21:00:00-06:00,45.0
-Jasper,Nitrogen Dioxide,2025-09-10T21:00:00-06:00,0.0075
-Jasper,Ozone,2025-09-10T21:00:00-06:00,0.0228
+Jasper,Sulphur Dioxide,2025-09-10T21:00:00-06:00,0.0
+Jasper,Outdoor Temperature,2025-09-10T21:00:00-06:00,19.7
 Jasper,Fine Particulate Matter,2025-09-10T21:00:00-06:00,34.1
+Jasper,Nitric Oxide,2025-09-10T21:00:00-06:00,0.0
 Jasper,Wind Direction,2025-09-10T21:00:00-06:00,276.5
-Jasper,Sulphur Dioxide,2025-09-10T20:00:00-06:00,0.0
-Jasper,,2025-09-10T20:00:00-06:00,4.0
-Jasper,Wind Direction,2025-09-10T20:00:00-06:00,250.6
-Jasper,Nitric Oxide,2025-09-10T20:00:00-06:00,0.0
-Jasper,Total Reduced Sulphur,2025-09-10T20:00:00-06:00,
+Jasper,Total Reduced Sulphur,2025-09-10T21:00:00-06:00,
+Jasper,Nitrogen Dioxide,2025-09-10T21:00:00-06:00,0.0075
+Jasper,,2025-09-10T21:00:00-06:00,4.0
+Jasper,Total Oxides of Nitrogen,2025-09-10T21:00:00-06:00,0.0075
+Jasper,Wind Speed,2025-09-10T21:00:00-06:00,1.5
+Jasper,Ozone,2025-09-10T21:00:00-06:00,0.0228
 Jasper,Outdoor Temperature,2025-09-10T20:00:00-06:00,21.9
-Jasper,Ozone,2025-09-10T20:00:00-06:00,0.0303
+Jasper,Sulphur Dioxide,2025-09-10T20:00:00-06:00,0.0
 Jasper,Fine Particulate Matter,2025-09-10T20:00:00-06:00,38.8
 Jasper,Relative Humidity,2025-09-10T20:00:00-06:00,38.0
+Jasper,Nitric Oxide,2025-09-10T20:00:00-06:00,0.0
+Jasper,Total Reduced Sulphur,2025-09-10T20:00:00-06:00,
 Jasper,Nitrogen Dioxide,2025-09-10T20:00:00-06:00,0.0035
-Jasper,Total Oxides of Nitrogen,2025-09-10T20:00:00-06:00,0.0034
 Jasper,Wind Speed,2025-09-10T20:00:00-06:00,1.6
-Jasper,Wind Direction,2025-09-10T19:00:00-06:00,240.7
-Jasper,Nitric Oxide,2025-09-10T19:00:00-06:00,0.0
-Jasper,Total Reduced Sulphur,2025-09-10T19:00:00-06:00,
-Jasper,Ozone,2025-09-10T19:00:00-06:00,0.0348
-Jasper,Outdoor Temperature,2025-09-10T19:00:00-06:00,23.4
-Jasper,Wind Speed,2025-09-10T19:00:00-06:00,5.8
-Jasper,Fine Particulate Matter,2025-09-10T19:00:00-06:00,39.7
-Jasper,Sulphur Dioxide,2025-09-10T19:00:00-06:00,0.0
-Jasper,,2025-09-10T19:00:00-06:00,4.0
+Jasper,,2025-09-10T20:00:00-06:00,4.0
+Jasper,Wind Direction,2025-09-10T20:00:00-06:00,250.6
+Jasper,Total Oxides of Nitrogen,2025-09-10T20:00:00-06:00,0.0034
+Jasper,Ozone,2025-09-10T20:00:00-06:00,0.0303
 Jasper,Relative Humidity,2025-09-10T19:00:00-06:00,32.0
-Jasper,Nitrogen Dioxide,2025-09-10T19:00:00-06:00,0.002
 Jasper,Total Oxides of Nitrogen,2025-09-10T19:00:00-06:00,0.0019
-Jasper,Wind Direction,2025-09-10T18:00:00-06:00,243.9
-Jasper,Total Oxides of Nitrogen,2025-09-10T18:00:00-06:00,0.002
+Jasper,Total Reduced Sulphur,2025-09-10T19:00:00-06:00,
+Jasper,Nitrogen Dioxide,2025-09-10T19:00:00-06:00,0.002
+Jasper,Wind Direction,2025-09-10T19:00:00-06:00,240.7
+Jasper,Ozone,2025-09-10T19:00:00-06:00,0.0348
+Jasper,Fine Particulate Matter,2025-09-10T19:00:00-06:00,39.7
+Jasper,Outdoor Temperature,2025-09-10T19:00:00-06:00,23.4
+Jasper,Sulphur Dioxide,2025-09-10T19:00:00-06:00,0.0
+Jasper,Wind Speed,2025-09-10T19:00:00-06:00,5.8
+Jasper,Nitric Oxide,2025-09-10T19:00:00-06:00,0.0
+Jasper,,2025-09-10T19:00:00-06:00,4.0
+Jasper,Total Reduced Sulphur,2025-09-10T18:00:00-06:00,
+Jasper,Nitrogen Dioxide,2025-09-10T18:00:00-06:00,0.002
+Jasper,Nitric Oxide,2025-09-10T18:00:00-06:00,0.0001
 Jasper,Outdoor Temperature,2025-09-10T18:00:00-06:00,23.8
-Jasper,Ozone,2025-09-10T18:00:00-06:00,0.0358
-Jasper,Fine Particulate Matter,2025-09-10T18:00:00-06:00,37.6
+Jasper,Sulphur Dioxide,2025-09-10T18:00:00-06:00,0.0
+Jasper,Wind Speed,2025-09-10T18:00:00-06:00,8.4
 Jasper,Relative Humidity,2025-09-10T18:00:00-06:00,31.0
 Jasper,,2025-09-10T18:00:00-06:00,4.0
-Jasper,Nitrogen Dioxide,2025-09-10T18:00:00-06:00,0.002
-Jasper,Total Reduced Sulphur,2025-09-10T18:00:00-06:00,
-Jasper,Wind Speed,2025-09-10T18:00:00-06:00,8.4
-Jasper,Nitric Oxide,2025-09-10T18:00:00-06:00,0.0001
-Jasper,Sulphur Dioxide,2025-09-10T18:00:00-06:00,0.0
-Jasper,Total Oxides of Nitrogen,2025-09-10T17:00:00-06:00,0.0051
-Jasper,Wind Direction,2025-09-10T17:00:00-06:00,205.9
-Jasper,Sulphur Dioxide,2025-09-10T17:00:00-06:00,0.0
-Jasper,Nitrogen Dioxide,2025-09-10T17:00:00-06:00,0.0041
-Jasper,Total Reduced Sulphur,2025-09-10T17:00:00-06:00,
-Jasper,Nitric Oxide,2025-09-10T17:00:00-06:00,0.001
-Jasper,,2025-09-10T17:00:00-06:00,4.0
-Jasper,Wind Speed,2025-09-10T17:00:00-06:00,6.9
-Jasper,Relative Humidity,2025-09-10T17:00:00-06:00,30.0
+Jasper,Fine Particulate Matter,2025-09-10T18:00:00-06:00,37.6
+Jasper,Wind Direction,2025-09-10T18:00:00-06:00,243.9
+Jasper,Ozone,2025-09-10T18:00:00-06:00,0.0358
+Jasper,Total Oxides of Nitrogen,2025-09-10T18:00:00-06:00,0.002
 Jasper,Outdoor Temperature,2025-09-10T17:00:00-06:00,23.8
 Jasper,Ozone,2025-09-10T17:00:00-06:00,0.0348
+Jasper,Relative Humidity,2025-09-10T17:00:00-06:00,30.0
 Jasper,Fine Particulate Matter,2025-09-10T17:00:00-06:00,50.4
+Jasper,Sulphur Dioxide,2025-09-10T17:00:00-06:00,0.0
+Jasper,,2025-09-10T17:00:00-06:00,4.0
+Jasper,Nitric Oxide,2025-09-10T17:00:00-06:00,0.001
+Jasper,Total Reduced Sulphur,2025-09-10T17:00:00-06:00,
+Jasper,Wind Speed,2025-09-10T17:00:00-06:00,6.9
+Jasper,Total Oxides of Nitrogen,2025-09-10T17:00:00-06:00,0.0051
+Jasper,Wind Direction,2025-09-10T17:00:00-06:00,205.9
+Jasper,Nitrogen Dioxide,2025-09-10T17:00:00-06:00,0.0041
 Jasper,Wind Direction,2025-09-10T16:00:00-06:00,201.8
-Jasper,,2025-09-10T16:00:00-06:00,3.0
 Jasper,Total Reduced Sulphur,2025-09-10T16:00:00-06:00,
-Jasper,Wind Speed,2025-09-10T16:00:00-06:00,5.8
 Jasper,Fine Particulate Matter,2025-09-10T16:00:00-06:00,44.1
-Jasper,Outdoor Temperature,2025-09-10T16:00:00-06:00,23.4
-Jasper,Ozone,2025-09-10T16:00:00-06:00,0.0346
-Jasper,Nitric Oxide,2025-09-10T16:00:00-06:00,0.0015
 Jasper,Sulphur Dioxide,2025-09-10T16:00:00-06:00,0.0
+Jasper,Ozone,2025-09-10T16:00:00-06:00,0.0346
 Jasper,Total Oxides of Nitrogen,2025-09-10T16:00:00-06:00,0.0049
-Jasper,Relative Humidity,2025-09-10T16:00:00-06:00,32.0
+Jasper,Outdoor Temperature,2025-09-10T16:00:00-06:00,23.4
+Jasper,Nitric Oxide,2025-09-10T16:00:00-06:00,0.0015
 Jasper,Nitrogen Dioxide,2025-09-10T16:00:00-06:00,0.0034
+Jasper,Wind Speed,2025-09-10T16:00:00-06:00,5.8
+Jasper,,2025-09-10T16:00:00-06:00,3.0
+Jasper,Relative Humidity,2025-09-10T16:00:00-06:00,32.0
+Jasper,Outdoor Temperature,2025-09-10T15:00:00-06:00,22.5
 Jasper,Sulphur Dioxide,2025-09-10T15:00:00-06:00,0.0
 Jasper,Nitric Oxide,2025-09-10T15:00:00-06:00,0.0009
-Jasper,Ozone,2025-09-10T15:00:00-06:00,0.0346
-Jasper,Outdoor Temperature,2025-09-10T15:00:00-06:00,22.5
-Jasper,Total Oxides of Nitrogen,2025-09-10T15:00:00-06:00,0.0035
-Jasper,Relative Humidity,2025-09-10T15:00:00-06:00,35.0
-Jasper,Fine Particulate Matter,2025-09-10T15:00:00-06:00,23.4
-Jasper,Wind Speed,2025-09-10T15:00:00-06:00,2.1
 Jasper,Nitrogen Dioxide,2025-09-10T15:00:00-06:00,0.0026
-Jasper,Total Reduced Sulphur,2025-09-10T15:00:00-06:00,
-Jasper,Wind Direction,2025-09-10T15:00:00-06:00,186.5
 Jasper,,2025-09-10T15:00:00-06:00,3.0
+Jasper,Total Reduced Sulphur,2025-09-10T15:00:00-06:00,
+Jasper,Wind Speed,2025-09-10T15:00:00-06:00,2.1
+Jasper,Total Oxides of Nitrogen,2025-09-10T15:00:00-06:00,0.0035
+Jasper,Ozone,2025-09-10T15:00:00-06:00,0.0346
+Jasper,Fine Particulate Matter,2025-09-10T15:00:00-06:00,23.4
+Jasper,Wind Direction,2025-09-10T15:00:00-06:00,186.5
+Jasper,Relative Humidity,2025-09-10T15:00:00-06:00,35.0
 Jasper,Ozone,2025-09-10T14:00:00-06:00,0.0319
-Jasper,Nitric Oxide,2025-09-10T14:00:00-06:00,0.0046
-Jasper,Outdoor Temperature,2025-09-10T14:00:00-06:00,20.2
 Jasper,,2025-09-10T14:00:00-06:00,2.0
-Jasper,Fine Particulate Matter,2025-09-10T14:00:00-06:00,11.6
 Jasper,Nitrogen Dioxide,2025-09-10T14:00:00-06:00,0.0028
+Jasper,Sulphur Dioxide,2025-09-10T14:00:00-06:00,0.0
+Jasper,Total Oxides of Nitrogen,2025-09-10T14:00:00-06:00,0.0073
+Jasper,Total Reduced Sulphur,2025-09-10T14:00:00-06:00,
+Jasper,Fine Particulate Matter,2025-09-10T14:00:00-06:00,11.6
+Jasper,Outdoor Temperature,2025-09-10T14:00:00-06:00,20.2
+Jasper,Nitric Oxide,2025-09-10T14:00:00-06:00,0.0046
 Jasper,Wind Speed,2025-09-10T14:00:00-06:00,2.7
 Jasper,Relative Humidity,2025-09-10T14:00:00-06:00,40.0
-Jasper,Sulphur Dioxide,2025-09-10T14:00:00-06:00,0.0
-Jasper,Total Reduced Sulphur,2025-09-10T14:00:00-06:00,
 Jasper,Wind Direction,2025-09-10T14:00:00-06:00,121.3
-Jasper,Total Oxides of Nitrogen,2025-09-10T14:00:00-06:00,0.0073
-Jasper,Ozone,2025-09-10T13:00:00-06:00,0.0284
-Jasper,Nitric Oxide,2025-09-10T13:00:00-06:00,0.0013
-Jasper,Relative Humidity,2025-09-10T13:00:00-06:00,45.0
-Jasper,Total Oxides of Nitrogen,2025-09-10T13:00:00-06:00,0.0046
-Jasper,Total Reduced Sulphur,2025-09-10T13:00:00-06:00,
-Jasper,Sulphur Dioxide,2025-09-10T13:00:00-06:00,0.0
-Jasper,Wind Speed,2025-09-10T13:00:00-06:00,
-Jasper,Wind Direction,2025-09-10T13:00:00-06:00,
-Jasper,Fine Particulate Matter,2025-09-10T13:00:00-06:00,11.8
 Jasper,Outdoor Temperature,2025-09-10T13:00:00-06:00,18.3
+Jasper,Total Oxides of Nitrogen,2025-09-10T13:00:00-06:00,0.0046
+Jasper,Sulphur Dioxide,2025-09-10T13:00:00-06:00,0.0
+Jasper,Total Reduced Sulphur,2025-09-10T13:00:00-06:00,
+Jasper,Fine Particulate Matter,2025-09-10T13:00:00-06:00,11.8
+Jasper,Ozone,2025-09-10T13:00:00-06:00,0.0284
 Jasper,,2025-09-10T13:00:00-06:00,2.0
+Jasper,Nitric Oxide,2025-09-10T13:00:00-06:00,0.0013
+Jasper,Wind Direction,2025-09-10T13:00:00-06:00,
 Jasper,Nitrogen Dioxide,2025-09-10T13:00:00-06:00,0.0032
-Jasper,Wind Speed,2025-09-10T12:00:00-06:00,2.0
-Jasper,Wind Direction,2025-09-10T12:00:00-06:00,141.6
-Jasper,Nitric Oxide,2025-09-10T12:00:00-06:00,0.0024
+Jasper,Relative Humidity,2025-09-10T13:00:00-06:00,45.0
+Jasper,Wind Speed,2025-09-10T13:00:00-06:00,
+Jasper,Outdoor Temperature,2025-09-10T12:00:00-06:00,16.4
 Jasper,Sulphur Dioxide,2025-09-10T12:00:00-06:00,0.0
 Jasper,Fine Particulate Matter,2025-09-10T12:00:00-06:00,11.9
-Jasper,Outdoor Temperature,2025-09-10T12:00:00-06:00,16.4
-Jasper,Total Oxides of Nitrogen,2025-09-10T12:00:00-06:00,0.0071
-Jasper,Ozone,2025-09-10T12:00:00-06:00,0.0239
-Jasper,Relative Humidity,2025-09-10T12:00:00-06:00,50.0
-Jasper,Total Reduced Sulphur,2025-09-10T12:00:00-06:00,
+Jasper,Wind Speed,2025-09-10T12:00:00-06:00,2.0
 Jasper,,2025-09-10T12:00:00-06:00,2.0
+Jasper,Ozone,2025-09-10T12:00:00-06:00,0.0239
 Jasper,Nitrogen Dioxide,2025-09-10T12:00:00-06:00,0.0047
-Jasper,Wind Speed,2025-09-10T11:00:00-06:00,2.7
+Jasper,Relative Humidity,2025-09-10T12:00:00-06:00,50.0
+Jasper,Wind Direction,2025-09-10T12:00:00-06:00,141.6
+Jasper,Nitric Oxide,2025-09-10T12:00:00-06:00,0.0024
+Jasper,Total Oxides of Nitrogen,2025-09-10T12:00:00-06:00,0.0071
+Jasper,Total Reduced Sulphur,2025-09-10T12:00:00-06:00,
+Jasper,Nitrogen Dioxide,2025-09-10T11:00:00-06:00,0.0026
+Jasper,,2025-09-10T11:00:00-06:00,2.0
+Jasper,Ozone,2025-09-10T11:00:00-06:00,0.0215
 Jasper,Wind Direction,2025-09-10T11:00:00-06:00,154.5
 Jasper,Nitric Oxide,2025-09-10T11:00:00-06:00,0.0015
+Jasper,Outdoor Temperature,2025-09-10T11:00:00-06:00,13.4
+Jasper,Relative Humidity,2025-09-10T11:00:00-06:00,59.0
+Jasper,Wind Speed,2025-09-10T11:00:00-06:00,2.7
+Jasper,Total Oxides of Nitrogen,2025-09-10T11:00:00-06:00,0.0041
+Jasper,Total Reduced Sulphur,2025-09-10T11:00:00-06:00,
 Jasper,Sulphur Dioxide,2025-09-10T11:00:00-06:00,0.0
 Jasper,Fine Particulate Matter,2025-09-10T11:00:00-06:00,11.5
-Jasper,Outdoor Temperature,2025-09-10T11:00:00-06:00,13.4
-Jasper,Total Oxides of Nitrogen,2025-09-10T11:00:00-06:00,0.0041
-Jasper,Ozone,2025-09-10T11:00:00-06:00,0.0215
-Jasper,Relative Humidity,2025-09-10T11:00:00-06:00,59.0
-Jasper,Total Reduced Sulphur,2025-09-10T11:00:00-06:00,
-Jasper,,2025-09-10T11:00:00-06:00,2.0
-Jasper,Nitrogen Dioxide,2025-09-10T11:00:00-06:00,0.0026
-Jasper,Wind Speed,2025-09-10T10:00:00-06:00,1.2
-Jasper,Nitric Oxide,2025-09-10T10:00:00-06:00,0.0053
-Jasper,Sulphur Dioxide,2025-09-10T10:00:00-06:00,0.0
-Jasper,Total Oxides of Nitrogen,2025-09-10T10:00:00-06:00,0.0115
-Jasper,Relative Humidity,2025-09-10T10:00:00-06:00,72.0
-Jasper,,2025-09-10T10:00:00-06:00,2.0
-Jasper,Nitrogen Dioxide,2025-09-10T10:00:00-06:00,0.0062
 Jasper,Wind Direction,2025-09-10T10:00:00-06:00,208.1
+Jasper,Nitrogen Dioxide,2025-09-10T10:00:00-06:00,0.0062
+Jasper,,2025-09-10T10:00:00-06:00,2.0
+Jasper,Nitric Oxide,2025-09-10T10:00:00-06:00,0.0053
 Jasper,Outdoor Temperature,2025-09-10T10:00:00-06:00,10.6
-Jasper,Fine Particulate Matter,2025-09-10T10:00:00-06:00,11.5
+Jasper,Wind Speed,2025-09-10T10:00:00-06:00,1.2
+Jasper,Total Oxides of Nitrogen,2025-09-10T10:00:00-06:00,0.0115
 Jasper,Ozone,2025-09-10T10:00:00-06:00,0.011
 Jasper,Total Reduced Sulphur,2025-09-10T10:00:00-06:00,
-Jasper,Wind Speed,2025-09-10T09:00:00-06:00,2.5
-Jasper,Nitrogen Dioxide,2025-09-10T09:00:00-06:00,0.011
+Jasper,Relative Humidity,2025-09-10T10:00:00-06:00,72.0
+Jasper,Fine Particulate Matter,2025-09-10T10:00:00-06:00,11.5
+Jasper,Sulphur Dioxide,2025-09-10T10:00:00-06:00,0.0
 Jasper,Wind Direction,2025-09-10T09:00:00-06:00,228.8
-Jasper,Ozone,2025-09-10T09:00:00-06:00,0.0031
-Jasper,Relative Humidity,2025-09-10T09:00:00-06:00,86.0
-Jasper,Nitric Oxide,2025-09-10T09:00:00-06:00,0.0147
 Jasper,Fine Particulate Matter,2025-09-10T09:00:00-06:00,10.6
-Jasper,Outdoor Temperature,2025-09-10T09:00:00-06:00,7.4
+Jasper,Nitric Oxide,2025-09-10T09:00:00-06:00,0.0147
+Jasper,Wind Speed,2025-09-10T09:00:00-06:00,2.5
+Jasper,Relative Humidity,2025-09-10T09:00:00-06:00,86.0
 Jasper,Sulphur Dioxide,2025-09-10T09:00:00-06:00,0.0
-Jasper,Total Oxides of Nitrogen,2025-09-10T09:00:00-06:00,0.0257
 Jasper,Total Reduced Sulphur,2025-09-10T09:00:00-06:00,
+Jasper,Total Oxides of Nitrogen,2025-09-10T09:00:00-06:00,0.0257
+Jasper,Outdoor Temperature,2025-09-10T09:00:00-06:00,7.4
+Jasper,Nitrogen Dioxide,2025-09-10T09:00:00-06:00,0.011
 Jasper,,2025-09-10T09:00:00-06:00,2.0
-Jasper,Wind Speed,2025-09-10T08:00:00-06:00,2.8
-Jasper,Wind Direction,2025-09-10T08:00:00-06:00,250.3
-Jasper,Nitric Oxide,2025-09-10T08:00:00-06:00,0.015
-Jasper,Fine Particulate Matter,2025-09-10T08:00:00-06:00,10.3
-Jasper,Total Reduced Sulphur,2025-09-10T08:00:00-06:00,
-Jasper,Sulphur Dioxide,2025-09-10T08:00:00-06:00,0.0
-Jasper,,2025-09-10T08:00:00-06:00,2.0
-Jasper,Total Oxides of Nitrogen,2025-09-10T08:00:00-06:00,0.0291
+Jasper,Ozone,2025-09-10T09:00:00-06:00,0.0031
 Jasper,Relative Humidity,2025-09-10T08:00:00-06:00,88.0
+Jasper,Total Reduced Sulphur,2025-09-10T08:00:00-06:00,
+Jasper,Wind Speed,2025-09-10T08:00:00-06:00,2.8
+Jasper,Sulphur Dioxide,2025-09-10T08:00:00-06:00,0.0
+Jasper,Total Oxides of Nitrogen,2025-09-10T08:00:00-06:00,0.0291
 Jasper,Outdoor Temperature,2025-09-10T08:00:00-06:00,7.1
+Jasper,,2025-09-10T08:00:00-06:00,2.0
+Jasper,Fine Particulate Matter,2025-09-10T08:00:00-06:00,10.3
+Jasper,Nitric Oxide,2025-09-10T08:00:00-06:00,0.015
 Jasper,Ozone,2025-09-10T08:00:00-06:00,0.0009
+Jasper,Wind Direction,2025-09-10T08:00:00-06:00,250.3
 Jasper,Nitrogen Dioxide,2025-09-10T08:00:00-06:00,0.0141
-Jasper,Total Reduced Sulphur,2025-09-10T07:00:00-06:00,
-Jasper,Ozone,2025-09-10T07:00:00-06:00,0.0005
-Jasper,Total Oxides of Nitrogen,2025-09-10T07:00:00-06:00,0.037
-Jasper,Sulphur Dioxide,2025-09-10T07:00:00-06:00,0.0
-Jasper,Relative Humidity,2025-09-10T07:00:00-06:00,86.0
-Jasper,Fine Particulate Matter,2025-09-10T07:00:00-06:00,10.5
-Jasper,Wind Direction,2025-09-10T07:00:00-06:00,239.5
-Jasper,Nitric Oxide,2025-09-10T07:00:00-06:00,0.0211
-Jasper,,2025-09-10T07:00:00-06:00,2.0
-Jasper,Outdoor Temperature,2025-09-10T07:00:00-06:00,7.7
-Jasper,Nitrogen Dioxide,2025-09-10T07:00:00-06:00,0.0159
-Jasper,Wind Speed,2025-09-10T07:00:00-06:00,2.0
