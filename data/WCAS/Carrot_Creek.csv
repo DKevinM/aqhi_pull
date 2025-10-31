@@ -1,4 +1,13 @@
 Value,StationName,ParameterName,ReadingDate
+,Carrot Creek,Nitric Oxide,2025-10-31T05:00:00-06:00
+,Carrot Creek,Wind Direction,2025-10-31T05:00:00-06:00
+,Carrot Creek,Ozone,2025-10-31T05:00:00-06:00
+,Carrot Creek,Nitrogen Dioxide,2025-10-31T05:00:00-06:00
+,Carrot Creek,Wind Speed,2025-10-31T05:00:00-06:00
+,Carrot Creek,Total Oxides of Nitrogen,2025-10-31T05:00:00-06:00
+,Carrot Creek,Relative Humidity,2025-10-31T05:00:00-06:00
+,Carrot Creek,Sulphur Dioxide,2025-10-31T05:00:00-06:00
+,Carrot Creek,Outdoor Temperature,2025-10-31T05:00:00-06:00
 0.003,Carrot Creek,Nitric Oxide,2025-10-31T04:00:00-06:00
 90.4,Carrot Creek,Relative Humidity,2025-10-31T04:00:00-06:00
 -5.9,Carrot Creek,Outdoor Temperature,2025-10-31T04:00:00-06:00
@@ -17,15 +26,15 @@ Value,StationName,ParameterName,ReadingDate
 89.4,Carrot Creek,Relative Humidity,2025-10-31T03:00:00-06:00
 0.004,Carrot Creek,Nitric Oxide,2025-10-31T03:00:00-06:00
 0.016,Carrot Creek,Total Oxides of Nitrogen,2025-10-31T03:00:00-06:00
-0.001,Carrot Creek,Ozone,2025-10-31T02:00:00-06:00
--4.6,Carrot Creek,Outdoor Temperature,2025-10-31T02:00:00-06:00
-0.014,Carrot Creek,Nitrogen Dioxide,2025-10-31T02:00:00-06:00
-0.016,Carrot Creek,Total Oxides of Nitrogen,2025-10-31T02:00:00-06:00
-110.0,Carrot Creek,Wind Direction,2025-10-31T02:00:00-06:00
-0.3,Carrot Creek,Wind Speed,2025-10-31T02:00:00-06:00
-0.003,Carrot Creek,Nitric Oxide,2025-10-31T02:00:00-06:00
-87.4,Carrot Creek,Relative Humidity,2025-10-31T02:00:00-06:00
 0.0,Carrot Creek,Sulphur Dioxide,2025-10-31T02:00:00-06:00
+87.4,Carrot Creek,Relative Humidity,2025-10-31T02:00:00-06:00
+0.003,Carrot Creek,Nitric Oxide,2025-10-31T02:00:00-06:00
+0.3,Carrot Creek,Wind Speed,2025-10-31T02:00:00-06:00
+110.0,Carrot Creek,Wind Direction,2025-10-31T02:00:00-06:00
+0.016,Carrot Creek,Total Oxides of Nitrogen,2025-10-31T02:00:00-06:00
+0.014,Carrot Creek,Nitrogen Dioxide,2025-10-31T02:00:00-06:00
+-4.6,Carrot Creek,Outdoor Temperature,2025-10-31T02:00:00-06:00
+0.001,Carrot Creek,Ozone,2025-10-31T02:00:00-06:00
 150.0,Carrot Creek,Wind Direction,2025-10-31T01:00:00-06:00
 0.9,Carrot Creek,Wind Speed,2025-10-31T01:00:00-06:00
 -4.1,Carrot Creek,Outdoor Temperature,2025-10-31T01:00:00-06:00
@@ -422,42 +431,42 @@ Value,StationName,ParameterName,ReadingDate
 65.4,Carrot Creek,Relative Humidity,2025-10-29T06:00:00-06:00
 0.005,Carrot Creek,Total Oxides of Nitrogen,2025-10-29T06:00:00-06:00
 0.005,Carrot Creek,Nitrogen Dioxide,2025-10-29T06:00:00-06:00
-,Carrot Creek,Ozone,2025-10-29T05:00:00-06:00
-,Carrot Creek,Nitric Oxide,2025-10-29T05:00:00-06:00
-,Carrot Creek,Nitrogen Dioxide,2025-10-29T05:00:00-06:00
-,Carrot Creek,Total Oxides of Nitrogen,2025-10-29T05:00:00-06:00
-,Carrot Creek,Sulphur Dioxide,2025-10-29T05:00:00-06:00
-0.0,Carrot Creek,Outdoor Temperature,2025-10-29T05:00:00-06:00
-6.8,Carrot Creek,Wind Speed,2025-10-29T05:00:00-06:00
-288.0,Carrot Creek,Wind Direction,2025-10-29T05:00:00-06:00
 59.8,Carrot Creek,Relative Humidity,2025-10-29T05:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-29T04:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-29T04:00:00-06:00
-5.9,Carrot Creek,Wind Speed,2025-10-29T04:00:00-06:00
-37.0,Carrot Creek,Wind Direction,2025-10-29T04:00:00-06:00
-0.021,Carrot Creek,Ozone,2025-10-29T04:00:00-06:00
-0.2,Carrot Creek,Outdoor Temperature,2025-10-29T04:00:00-06:00
-55.8,Carrot Creek,Relative Humidity,2025-10-29T04:00:00-06:00
-0.003,Carrot Creek,Total Oxides of Nitrogen,2025-10-29T04:00:00-06:00
+288.0,Carrot Creek,Wind Direction,2025-10-29T05:00:00-06:00
+6.8,Carrot Creek,Wind Speed,2025-10-29T05:00:00-06:00
+0.0,Carrot Creek,Outdoor Temperature,2025-10-29T05:00:00-06:00
+,Carrot Creek,Sulphur Dioxide,2025-10-29T05:00:00-06:00
+,Carrot Creek,Total Oxides of Nitrogen,2025-10-29T05:00:00-06:00
+,Carrot Creek,Nitrogen Dioxide,2025-10-29T05:00:00-06:00
+,Carrot Creek,Nitric Oxide,2025-10-29T05:00:00-06:00
+,Carrot Creek,Ozone,2025-10-29T05:00:00-06:00
 0.003,Carrot Creek,Nitrogen Dioxide,2025-10-29T04:00:00-06:00
-7.4,Carrot Creek,Wind Speed,2025-10-29T03:00:00-06:00
-56.0,Carrot Creek,Wind Direction,2025-10-29T03:00:00-06:00
-0.02,Carrot Creek,Ozone,2025-10-29T03:00:00-06:00
-0.9,Carrot Creek,Outdoor Temperature,2025-10-29T03:00:00-06:00
-52.0,Carrot Creek,Relative Humidity,2025-10-29T03:00:00-06:00
-0.004,Carrot Creek,Total Oxides of Nitrogen,2025-10-29T03:00:00-06:00
-0.004,Carrot Creek,Nitrogen Dioxide,2025-10-29T03:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-29T03:00:00-06:00
+0.003,Carrot Creek,Total Oxides of Nitrogen,2025-10-29T04:00:00-06:00
+55.8,Carrot Creek,Relative Humidity,2025-10-29T04:00:00-06:00
+0.2,Carrot Creek,Outdoor Temperature,2025-10-29T04:00:00-06:00
+0.021,Carrot Creek,Ozone,2025-10-29T04:00:00-06:00
+37.0,Carrot Creek,Wind Direction,2025-10-29T04:00:00-06:00
+5.9,Carrot Creek,Wind Speed,2025-10-29T04:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-29T04:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-29T04:00:00-06:00
 0.0,Carrot Creek,Sulphur Dioxide,2025-10-29T03:00:00-06:00
-9.7,Carrot Creek,Wind Speed,2025-10-29T02:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-29T02:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-29T02:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-29T03:00:00-06:00
+0.004,Carrot Creek,Nitrogen Dioxide,2025-10-29T03:00:00-06:00
+0.004,Carrot Creek,Total Oxides of Nitrogen,2025-10-29T03:00:00-06:00
+52.0,Carrot Creek,Relative Humidity,2025-10-29T03:00:00-06:00
+0.9,Carrot Creek,Outdoor Temperature,2025-10-29T03:00:00-06:00
+0.02,Carrot Creek,Ozone,2025-10-29T03:00:00-06:00
+56.0,Carrot Creek,Wind Direction,2025-10-29T03:00:00-06:00
+7.4,Carrot Creek,Wind Speed,2025-10-29T03:00:00-06:00
 0.003,Carrot Creek,Nitrogen Dioxide,2025-10-29T02:00:00-06:00
 0.003,Carrot Creek,Total Oxides of Nitrogen,2025-10-29T02:00:00-06:00
 48.6,Carrot Creek,Relative Humidity,2025-10-29T02:00:00-06:00
 0.9,Carrot Creek,Outdoor Temperature,2025-10-29T02:00:00-06:00
-0.022,Carrot Creek,Ozone,2025-10-29T02:00:00-06:00
 79.0,Carrot Creek,Wind Direction,2025-10-29T02:00:00-06:00
+0.022,Carrot Creek,Ozone,2025-10-29T02:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-29T02:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-29T02:00:00-06:00
+9.7,Carrot Creek,Wind Speed,2025-10-29T02:00:00-06:00
 0.0,Carrot Creek,Nitric Oxide,2025-10-29T01:00:00-06:00
 0.0,Carrot Creek,Sulphur Dioxide,2025-10-29T01:00:00-06:00
 10.2,Carrot Creek,Wind Speed,2025-10-29T01:00:00-06:00
@@ -467,24 +476,24 @@ Value,StationName,ParameterName,ReadingDate
 45.3,Carrot Creek,Relative Humidity,2025-10-29T01:00:00-06:00
 0.002,Carrot Creek,Total Oxides of Nitrogen,2025-10-29T01:00:00-06:00
 0.003,Carrot Creek,Nitrogen Dioxide,2025-10-29T01:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-29T00:00:00-06:00
-0.025,Carrot Creek,Ozone,2025-10-29T00:00:00-06:00
-0.002,Carrot Creek,Total Oxides of Nitrogen,2025-10-29T00:00:00-06:00
-0.002,Carrot Creek,Nitrogen Dioxide,2025-10-29T00:00:00-06:00
-1.6,Carrot Creek,Outdoor Temperature,2025-10-29T00:00:00-06:00
-42.3,Carrot Creek,Relative Humidity,2025-10-29T00:00:00-06:00
-13.2,Carrot Creek,Wind Speed,2025-10-29T00:00:00-06:00
-94.0,Carrot Creek,Wind Direction,2025-10-29T00:00:00-06:00
 0.0,Carrot Creek,Nitric Oxide,2025-10-29T00:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-28T23:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-28T23:00:00-06:00
-0.002,Carrot Creek,Nitrogen Dioxide,2025-10-28T23:00:00-06:00
-100.0,Carrot Creek,Wind Direction,2025-10-28T23:00:00-06:00
-12.7,Carrot Creek,Wind Speed,2025-10-28T23:00:00-06:00
-1.4,Carrot Creek,Outdoor Temperature,2025-10-28T23:00:00-06:00
-43.3,Carrot Creek,Relative Humidity,2025-10-28T23:00:00-06:00
-0.027,Carrot Creek,Ozone,2025-10-28T23:00:00-06:00
+94.0,Carrot Creek,Wind Direction,2025-10-29T00:00:00-06:00
+13.2,Carrot Creek,Wind Speed,2025-10-29T00:00:00-06:00
+42.3,Carrot Creek,Relative Humidity,2025-10-29T00:00:00-06:00
+1.6,Carrot Creek,Outdoor Temperature,2025-10-29T00:00:00-06:00
+0.002,Carrot Creek,Nitrogen Dioxide,2025-10-29T00:00:00-06:00
+0.002,Carrot Creek,Total Oxides of Nitrogen,2025-10-29T00:00:00-06:00
+0.025,Carrot Creek,Ozone,2025-10-29T00:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-29T00:00:00-06:00
 0.002,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T23:00:00-06:00
+0.027,Carrot Creek,Ozone,2025-10-28T23:00:00-06:00
+43.3,Carrot Creek,Relative Humidity,2025-10-28T23:00:00-06:00
+1.4,Carrot Creek,Outdoor Temperature,2025-10-28T23:00:00-06:00
+12.7,Carrot Creek,Wind Speed,2025-10-28T23:00:00-06:00
+100.0,Carrot Creek,Wind Direction,2025-10-28T23:00:00-06:00
+0.002,Carrot Creek,Nitrogen Dioxide,2025-10-28T23:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-28T23:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-28T23:00:00-06:00
 0.002,Carrot Creek,Nitrogen Dioxide,2025-10-28T22:00:00-06:00
 0.028,Carrot Creek,Ozone,2025-10-28T22:00:00-06:00
 0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T22:00:00-06:00
@@ -503,24 +512,24 @@ Value,StationName,ParameterName,ReadingDate
 3.4,Carrot Creek,Outdoor Temperature,2025-10-28T21:00:00-06:00
 15.2,Carrot Creek,Wind Speed,2025-10-28T21:00:00-06:00
 104.0,Carrot Creek,Wind Direction,2025-10-28T21:00:00-06:00
-0.029,Carrot Creek,Ozone,2025-10-28T20:00:00-06:00
-0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T20:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-28T20:00:00-06:00
-0.0,Carrot Creek,Nitrogen Dioxide,2025-10-28T20:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-28T20:00:00-06:00
-36.6,Carrot Creek,Relative Humidity,2025-10-28T20:00:00-06:00
-3.7,Carrot Creek,Outdoor Temperature,2025-10-28T20:00:00-06:00
-12.8,Carrot Creek,Wind Speed,2025-10-28T20:00:00-06:00
 104.0,Carrot Creek,Wind Direction,2025-10-28T20:00:00-06:00
-0.027,Carrot Creek,Ozone,2025-10-28T19:00:00-06:00
-,Carrot Creek,Sulphur Dioxide,2025-10-28T19:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-28T19:00:00-06:00
-38.5,Carrot Creek,Relative Humidity,2025-10-28T19:00:00-06:00
-3.8,Carrot Creek,Outdoor Temperature,2025-10-28T19:00:00-06:00
-9.9,Carrot Creek,Wind Speed,2025-10-28T19:00:00-06:00
-102.0,Carrot Creek,Wind Direction,2025-10-28T19:00:00-06:00
-0.004,Carrot Creek,Nitrogen Dioxide,2025-10-28T19:00:00-06:00
+12.8,Carrot Creek,Wind Speed,2025-10-28T20:00:00-06:00
+3.7,Carrot Creek,Outdoor Temperature,2025-10-28T20:00:00-06:00
+36.6,Carrot Creek,Relative Humidity,2025-10-28T20:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-28T20:00:00-06:00
+0.0,Carrot Creek,Nitrogen Dioxide,2025-10-28T20:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-28T20:00:00-06:00
+0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T20:00:00-06:00
+0.029,Carrot Creek,Ozone,2025-10-28T20:00:00-06:00
 0.003,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T19:00:00-06:00
+0.004,Carrot Creek,Nitrogen Dioxide,2025-10-28T19:00:00-06:00
+102.0,Carrot Creek,Wind Direction,2025-10-28T19:00:00-06:00
+9.9,Carrot Creek,Wind Speed,2025-10-28T19:00:00-06:00
+3.8,Carrot Creek,Outdoor Temperature,2025-10-28T19:00:00-06:00
+38.5,Carrot Creek,Relative Humidity,2025-10-28T19:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-28T19:00:00-06:00
+,Carrot Creek,Sulphur Dioxide,2025-10-28T19:00:00-06:00
+0.027,Carrot Creek,Ozone,2025-10-28T19:00:00-06:00
 0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T18:00:00-06:00
 0.03,Carrot Creek,Ozone,2025-10-28T18:00:00-06:00
 0.001,Carrot Creek,Nitrogen Dioxide,2025-10-28T18:00:00-06:00
@@ -530,28 +539,28 @@ Value,StationName,ParameterName,ReadingDate
 4.5,Carrot Creek,Outdoor Temperature,2025-10-28T18:00:00-06:00
 10.2,Carrot Creek,Wind Speed,2025-10-28T18:00:00-06:00
 87.0,Carrot Creek,Wind Direction,2025-10-28T18:00:00-06:00
-0.031,Carrot Creek,Ozone,2025-10-28T17:00:00-06:00
-0.001,Carrot Creek,Nitrogen Dioxide,2025-10-28T17:00:00-06:00
-0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T17:00:00-06:00
-,Carrot Creek,Sulphur Dioxide,2025-10-28T17:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-28T17:00:00-06:00
-31.8,Carrot Creek,Relative Humidity,2025-10-28T17:00:00-06:00
-5.7,Carrot Creek,Outdoor Temperature,2025-10-28T17:00:00-06:00
-9.5,Carrot Creek,Wind Speed,2025-10-28T17:00:00-06:00
 93.0,Carrot Creek,Wind Direction,2025-10-28T17:00:00-06:00
-100.0,Carrot Creek,Wind Direction,2025-10-28T16:00:00-06:00
-6.3,Carrot Creek,Wind Speed,2025-10-28T16:00:00-06:00
-6.6,Carrot Creek,Outdoor Temperature,2025-10-28T16:00:00-06:00
-29.5,Carrot Creek,Relative Humidity,2025-10-28T16:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-28T16:00:00-06:00
-,Carrot Creek,Sulphur Dioxide,2025-10-28T16:00:00-06:00
-0.032,Carrot Creek,Ozone,2025-10-28T16:00:00-06:00
-0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T16:00:00-06:00
+9.5,Carrot Creek,Wind Speed,2025-10-28T17:00:00-06:00
+5.7,Carrot Creek,Outdoor Temperature,2025-10-28T17:00:00-06:00
+31.8,Carrot Creek,Relative Humidity,2025-10-28T17:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-28T17:00:00-06:00
+,Carrot Creek,Sulphur Dioxide,2025-10-28T17:00:00-06:00
+0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T17:00:00-06:00
+0.001,Carrot Creek,Nitrogen Dioxide,2025-10-28T17:00:00-06:00
+0.031,Carrot Creek,Ozone,2025-10-28T17:00:00-06:00
 0.001,Carrot Creek,Nitrogen Dioxide,2025-10-28T16:00:00-06:00
+0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T16:00:00-06:00
+0.032,Carrot Creek,Ozone,2025-10-28T16:00:00-06:00
+,Carrot Creek,Sulphur Dioxide,2025-10-28T16:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-28T16:00:00-06:00
+29.5,Carrot Creek,Relative Humidity,2025-10-28T16:00:00-06:00
+6.6,Carrot Creek,Outdoor Temperature,2025-10-28T16:00:00-06:00
+6.3,Carrot Creek,Wind Speed,2025-10-28T16:00:00-06:00
+100.0,Carrot Creek,Wind Direction,2025-10-28T16:00:00-06:00
 0.002,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T15:00:00-06:00
-0.031,Carrot Creek,Ozone,2025-10-28T15:00:00-06:00
-0.001,Carrot Creek,Nitrogen Dioxide,2025-10-28T15:00:00-06:00
 0.0,Carrot Creek,Sulphur Dioxide,2025-10-28T15:00:00-06:00
+0.001,Carrot Creek,Nitrogen Dioxide,2025-10-28T15:00:00-06:00
+0.031,Carrot Creek,Ozone,2025-10-28T15:00:00-06:00
 0.0,Carrot Creek,Nitric Oxide,2025-10-28T15:00:00-06:00
 29.9,Carrot Creek,Relative Humidity,2025-10-28T15:00:00-06:00
 6.8,Carrot Creek,Outdoor Temperature,2025-10-28T15:00:00-06:00
@@ -575,15 +584,15 @@ Value,StationName,ParameterName,ReadingDate
 7.2,Carrot Creek,Wind Speed,2025-10-28T13:00:00-06:00
 257.0,Carrot Creek,Wind Direction,2025-10-28T13:00:00-06:00
 0.003,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T13:00:00-06:00
-0.004,Carrot Creek,Nitrogen Dioxide,2025-10-28T12:00:00-06:00
-3.0,Carrot Creek,Outdoor Temperature,2025-10-28T12:00:00-06:00
-47.3,Carrot Creek,Relative Humidity,2025-10-28T12:00:00-06:00
-0.006,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T12:00:00-06:00
-10.6,Carrot Creek,Wind Speed,2025-10-28T12:00:00-06:00
-241.0,Carrot Creek,Wind Direction,2025-10-28T12:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-28T12:00:00-06:00
-0.002,Carrot Creek,Nitric Oxide,2025-10-28T12:00:00-06:00
 0.025,Carrot Creek,Ozone,2025-10-28T12:00:00-06:00
+0.002,Carrot Creek,Nitric Oxide,2025-10-28T12:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-28T12:00:00-06:00
+241.0,Carrot Creek,Wind Direction,2025-10-28T12:00:00-06:00
+10.6,Carrot Creek,Wind Speed,2025-10-28T12:00:00-06:00
+0.006,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T12:00:00-06:00
+47.3,Carrot Creek,Relative Humidity,2025-10-28T12:00:00-06:00
+3.0,Carrot Creek,Outdoor Temperature,2025-10-28T12:00:00-06:00
+0.004,Carrot Creek,Nitrogen Dioxide,2025-10-28T12:00:00-06:00
 0.005,Carrot Creek,Nitrogen Dioxide,2025-10-28T11:00:00-06:00
 0.3,Carrot Creek,Outdoor Temperature,2025-10-28T11:00:00-06:00
 60.6,Carrot Creek,Relative Humidity,2025-10-28T11:00:00-06:00
@@ -593,14 +602,14 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Carrot Creek,Sulphur Dioxide,2025-10-28T11:00:00-06:00
 0.002,Carrot Creek,Nitric Oxide,2025-10-28T11:00:00-06:00
 0.02,Carrot Creek,Ozone,2025-10-28T11:00:00-06:00
-0.004,Carrot Creek,Nitrogen Dioxide,2025-10-28T10:00:00-06:00
-210.0,Carrot Creek,Wind Direction,2025-10-28T10:00:00-06:00
-6.4,Carrot Creek,Wind Speed,2025-10-28T10:00:00-06:00
--2.9,Carrot Creek,Outdoor Temperature,2025-10-28T10:00:00-06:00
-70.1,Carrot Creek,Relative Humidity,2025-10-28T10:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-28T10:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-28T10:00:00-06:00
 0.019,Carrot Creek,Ozone,2025-10-28T10:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-28T10:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-28T10:00:00-06:00
+70.1,Carrot Creek,Relative Humidity,2025-10-28T10:00:00-06:00
+-2.9,Carrot Creek,Outdoor Temperature,2025-10-28T10:00:00-06:00
+6.4,Carrot Creek,Wind Speed,2025-10-28T10:00:00-06:00
+210.0,Carrot Creek,Wind Direction,2025-10-28T10:00:00-06:00
+0.004,Carrot Creek,Nitrogen Dioxide,2025-10-28T10:00:00-06:00
 0.004,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T10:00:00-06:00
 0.017,Carrot Creek,Ozone,2025-10-28T09:00:00-06:00
 0.0,Carrot Creek,Sulphur Dioxide,2025-10-28T09:00:00-06:00
@@ -611,24 +620,24 @@ Value,StationName,ParameterName,ReadingDate
 -3.5,Carrot Creek,Outdoor Temperature,2025-10-28T09:00:00-06:00
 3.8,Carrot Creek,Wind Speed,2025-10-28T09:00:00-06:00
 189.0,Carrot Creek,Wind Direction,2025-10-28T09:00:00-06:00
-261.0,Carrot Creek,Wind Direction,2025-10-28T08:00:00-06:00
-9.3,Carrot Creek,Wind Speed,2025-10-28T08:00:00-06:00
--3.7,Carrot Creek,Outdoor Temperature,2025-10-28T08:00:00-06:00
-73.7,Carrot Creek,Relative Humidity,2025-10-28T08:00:00-06:00
-0.009,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T08:00:00-06:00
-0.009,Carrot Creek,Nitrogen Dioxide,2025-10-28T08:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-28T08:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-28T08:00:00-06:00
 0.016,Carrot Creek,Ozone,2025-10-28T08:00:00-06:00
-0.019,Carrot Creek,Ozone,2025-10-28T07:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-28T07:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-28T07:00:00-06:00
-75.2,Carrot Creek,Relative Humidity,2025-10-28T07:00:00-06:00
-270.0,Carrot Creek,Wind Direction,2025-10-28T07:00:00-06:00
-7.9,Carrot Creek,Wind Speed,2025-10-28T07:00:00-06:00
--3.9,Carrot Creek,Outdoor Temperature,2025-10-28T07:00:00-06:00
-0.004,Carrot Creek,Nitrogen Dioxide,2025-10-28T07:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-28T08:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-28T08:00:00-06:00
+0.009,Carrot Creek,Nitrogen Dioxide,2025-10-28T08:00:00-06:00
+0.009,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T08:00:00-06:00
+73.7,Carrot Creek,Relative Humidity,2025-10-28T08:00:00-06:00
+-3.7,Carrot Creek,Outdoor Temperature,2025-10-28T08:00:00-06:00
+9.3,Carrot Creek,Wind Speed,2025-10-28T08:00:00-06:00
+261.0,Carrot Creek,Wind Direction,2025-10-28T08:00:00-06:00
 0.004,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T07:00:00-06:00
+0.004,Carrot Creek,Nitrogen Dioxide,2025-10-28T07:00:00-06:00
+-3.9,Carrot Creek,Outdoor Temperature,2025-10-28T07:00:00-06:00
+7.9,Carrot Creek,Wind Speed,2025-10-28T07:00:00-06:00
+270.0,Carrot Creek,Wind Direction,2025-10-28T07:00:00-06:00
+75.2,Carrot Creek,Relative Humidity,2025-10-28T07:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-28T07:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-28T07:00:00-06:00
+0.019,Carrot Creek,Ozone,2025-10-28T07:00:00-06:00
 0.02,Carrot Creek,Ozone,2025-10-28T06:00:00-06:00
 0.0,Carrot Creek,Sulphur Dioxide,2025-10-28T06:00:00-06:00
 0.0,Carrot Creek,Nitric Oxide,2025-10-28T06:00:00-06:00
@@ -659,14 +668,14 @@ Value,StationName,ParameterName,ReadingDate
 ,Carrot Creek,Sulphur Dioxide,2025-10-28T03:00:00-06:00
 ,Carrot Creek,Relative Humidity,2025-10-28T03:00:00-06:00
 ,Carrot Creek,Outdoor Temperature,2025-10-28T03:00:00-06:00
+,Carrot Creek,Nitrogen Dioxide,2025-10-28T03:00:00-06:00
+,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T03:00:00-06:00
+,Carrot Creek,Ozone,2025-10-28T03:00:00-06:00
 ,Carrot Creek,Wind Direction,2025-10-28T03:00:00-06:00
 ,Carrot Creek,Nitric Oxide,2025-10-28T03:00:00-06:00
 ,Carrot Creek,Wind Speed,2025-10-28T03:00:00-06:00
-,Carrot Creek,Ozone,2025-10-28T03:00:00-06:00
-,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T03:00:00-06:00
-,Carrot Creek,Nitrogen Dioxide,2025-10-28T03:00:00-06:00
-,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T02:00:00-06:00
 ,Carrot Creek,Nitric Oxide,2025-10-28T02:00:00-06:00
+,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T02:00:00-06:00
 ,Carrot Creek,Nitrogen Dioxide,2025-10-28T02:00:00-06:00
 ,Carrot Creek,Wind Direction,2025-10-28T02:00:00-06:00
 ,Carrot Creek,Outdoor Temperature,2025-10-28T02:00:00-06:00
@@ -674,24 +683,24 @@ Value,StationName,ParameterName,ReadingDate
 ,Carrot Creek,Wind Speed,2025-10-28T02:00:00-06:00
 ,Carrot Creek,Ozone,2025-10-28T02:00:00-06:00
 ,Carrot Creek,Sulphur Dioxide,2025-10-28T02:00:00-06:00
-,Carrot Creek,Nitric Oxide,2025-10-28T01:00:00-06:00
-,Carrot Creek,Ozone,2025-10-28T01:00:00-06:00
-,Carrot Creek,Relative Humidity,2025-10-28T01:00:00-06:00
-,Carrot Creek,Outdoor Temperature,2025-10-28T01:00:00-06:00
-,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T01:00:00-06:00
-,Carrot Creek,Nitrogen Dioxide,2025-10-28T01:00:00-06:00
-,Carrot Creek,Sulphur Dioxide,2025-10-28T01:00:00-06:00
-,Carrot Creek,Wind Speed,2025-10-28T01:00:00-06:00
 ,Carrot Creek,Wind Direction,2025-10-28T01:00:00-06:00
-0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T00:00:00-06:00
-0.001,Carrot Creek,Nitrogen Dioxide,2025-10-28T00:00:00-06:00
-9.2,Carrot Creek,Wind Speed,2025-10-28T00:00:00-06:00
--0.4,Carrot Creek,Outdoor Temperature,2025-10-28T00:00:00-06:00
-67.7,Carrot Creek,Relative Humidity,2025-10-28T00:00:00-06:00
-295.0,Carrot Creek,Wind Direction,2025-10-28T00:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-28T00:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-28T00:00:00-06:00
+,Carrot Creek,Wind Speed,2025-10-28T01:00:00-06:00
+,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T01:00:00-06:00
+,Carrot Creek,Outdoor Temperature,2025-10-28T01:00:00-06:00
+,Carrot Creek,Relative Humidity,2025-10-28T01:00:00-06:00
+,Carrot Creek,Ozone,2025-10-28T01:00:00-06:00
+,Carrot Creek,Nitric Oxide,2025-10-28T01:00:00-06:00
+,Carrot Creek,Sulphur Dioxide,2025-10-28T01:00:00-06:00
+,Carrot Creek,Nitrogen Dioxide,2025-10-28T01:00:00-06:00
 0.025,Carrot Creek,Ozone,2025-10-28T00:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-28T00:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-28T00:00:00-06:00
+295.0,Carrot Creek,Wind Direction,2025-10-28T00:00:00-06:00
+67.7,Carrot Creek,Relative Humidity,2025-10-28T00:00:00-06:00
+-0.4,Carrot Creek,Outdoor Temperature,2025-10-28T00:00:00-06:00
+9.2,Carrot Creek,Wind Speed,2025-10-28T00:00:00-06:00
+0.001,Carrot Creek,Nitrogen Dioxide,2025-10-28T00:00:00-06:00
+0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-28T00:00:00-06:00
 10.4,Carrot Creek,Wind Speed,2025-10-27T23:00:00-06:00
 -1.1,Carrot Creek,Outdoor Temperature,2025-10-27T23:00:00-06:00
 75.0,Carrot Creek,Relative Humidity,2025-10-27T23:00:00-06:00
@@ -701,8 +710,6 @@ Value,StationName,ParameterName,ReadingDate
 0.023,Carrot Creek,Ozone,2025-10-27T23:00:00-06:00
 0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T23:00:00-06:00
 0.001,Carrot Creek,Nitrogen Dioxide,2025-10-27T23:00:00-06:00
-0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T22:00:00-06:00
-0.001,Carrot Creek,Nitrogen Dioxide,2025-10-27T22:00:00-06:00
 7.3,Carrot Creek,Wind Speed,2025-10-27T22:00:00-06:00
 69.1,Carrot Creek,Relative Humidity,2025-10-27T22:00:00-06:00
 291.0,Carrot Creek,Wind Direction,2025-10-27T22:00:00-06:00
@@ -710,44 +717,44 @@ Value,StationName,ParameterName,ReadingDate
 0.023,Carrot Creek,Ozone,2025-10-27T22:00:00-06:00
 -0.2,Carrot Creek,Outdoor Temperature,2025-10-27T22:00:00-06:00
 ,Carrot Creek,Sulphur Dioxide,2025-10-27T22:00:00-06:00
-0.001,Carrot Creek,Nitrogen Dioxide,2025-10-27T21:00:00-06:00
-,Carrot Creek,Sulphur Dioxide,2025-10-27T21:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-27T21:00:00-06:00
-0.0,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T21:00:00-06:00
-308.0,Carrot Creek,Wind Direction,2025-10-27T21:00:00-06:00
-61.8,Carrot Creek,Relative Humidity,2025-10-27T21:00:00-06:00
-1.7,Carrot Creek,Outdoor Temperature,2025-10-27T21:00:00-06:00
-0.027,Carrot Creek,Ozone,2025-10-27T21:00:00-06:00
+0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T22:00:00-06:00
+0.001,Carrot Creek,Nitrogen Dioxide,2025-10-27T22:00:00-06:00
 9.7,Carrot Creek,Wind Speed,2025-10-27T21:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-27T20:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T20:00:00-06:00
-0.0,Carrot Creek,Nitrogen Dioxide,2025-10-27T20:00:00-06:00
-0.0,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T20:00:00-06:00
-315.0,Carrot Creek,Wind Direction,2025-10-27T20:00:00-06:00
-56.3,Carrot Creek,Relative Humidity,2025-10-27T20:00:00-06:00
-2.6,Carrot Creek,Outdoor Temperature,2025-10-27T20:00:00-06:00
-0.029,Carrot Creek,Ozone,2025-10-27T20:00:00-06:00
+0.027,Carrot Creek,Ozone,2025-10-27T21:00:00-06:00
+1.7,Carrot Creek,Outdoor Temperature,2025-10-27T21:00:00-06:00
+61.8,Carrot Creek,Relative Humidity,2025-10-27T21:00:00-06:00
+308.0,Carrot Creek,Wind Direction,2025-10-27T21:00:00-06:00
+0.0,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T21:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-27T21:00:00-06:00
+,Carrot Creek,Sulphur Dioxide,2025-10-27T21:00:00-06:00
+0.001,Carrot Creek,Nitrogen Dioxide,2025-10-27T21:00:00-06:00
 12.1,Carrot Creek,Wind Speed,2025-10-27T20:00:00-06:00
-15.2,Carrot Creek,Wind Speed,2025-10-27T19:00:00-06:00
-3.5,Carrot Creek,Outdoor Temperature,2025-10-27T19:00:00-06:00
-50.0,Carrot Creek,Relative Humidity,2025-10-27T19:00:00-06:00
-322.0,Carrot Creek,Wind Direction,2025-10-27T19:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-27T19:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T19:00:00-06:00
-0.03,Carrot Creek,Ozone,2025-10-27T19:00:00-06:00
-0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T19:00:00-06:00
+0.029,Carrot Creek,Ozone,2025-10-27T20:00:00-06:00
+2.6,Carrot Creek,Outdoor Temperature,2025-10-27T20:00:00-06:00
+56.3,Carrot Creek,Relative Humidity,2025-10-27T20:00:00-06:00
+315.0,Carrot Creek,Wind Direction,2025-10-27T20:00:00-06:00
+0.0,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T20:00:00-06:00
+0.0,Carrot Creek,Nitrogen Dioxide,2025-10-27T20:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T20:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-27T20:00:00-06:00
 0.001,Carrot Creek,Nitrogen Dioxide,2025-10-27T19:00:00-06:00
-19.1,Carrot Creek,Wind Speed,2025-10-27T18:00:00-06:00
-0.031,Carrot Creek,Ozone,2025-10-27T18:00:00-06:00
-4.2,Carrot Creek,Outdoor Temperature,2025-10-27T18:00:00-06:00
-46.4,Carrot Creek,Relative Humidity,2025-10-27T18:00:00-06:00
-323.0,Carrot Creek,Wind Direction,2025-10-27T18:00:00-06:00
-0.0,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T18:00:00-06:00
-0.0,Carrot Creek,Nitrogen Dioxide,2025-10-27T18:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-27T18:00:00-06:00
+0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T19:00:00-06:00
+0.03,Carrot Creek,Ozone,2025-10-27T19:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T19:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-27T19:00:00-06:00
+322.0,Carrot Creek,Wind Direction,2025-10-27T19:00:00-06:00
+50.0,Carrot Creek,Relative Humidity,2025-10-27T19:00:00-06:00
+3.5,Carrot Creek,Outdoor Temperature,2025-10-27T19:00:00-06:00
+15.2,Carrot Creek,Wind Speed,2025-10-27T19:00:00-06:00
 0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T18:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-27T17:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T17:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-27T18:00:00-06:00
+0.0,Carrot Creek,Nitrogen Dioxide,2025-10-27T18:00:00-06:00
+0.0,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T18:00:00-06:00
+323.0,Carrot Creek,Wind Direction,2025-10-27T18:00:00-06:00
+46.4,Carrot Creek,Relative Humidity,2025-10-27T18:00:00-06:00
+4.2,Carrot Creek,Outdoor Temperature,2025-10-27T18:00:00-06:00
+0.031,Carrot Creek,Ozone,2025-10-27T18:00:00-06:00
+19.1,Carrot Creek,Wind Speed,2025-10-27T18:00:00-06:00
 25.5,Carrot Creek,Wind Speed,2025-10-27T17:00:00-06:00
 0.031,Carrot Creek,Ozone,2025-10-27T17:00:00-06:00
 4.5,Carrot Creek,Outdoor Temperature,2025-10-27T17:00:00-06:00
@@ -755,24 +762,26 @@ Value,StationName,ParameterName,ReadingDate
 320.0,Carrot Creek,Wind Direction,2025-10-27T17:00:00-06:00
 0.0,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T17:00:00-06:00
 0.0,Carrot Creek,Nitrogen Dioxide,2025-10-27T17:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-27T17:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T17:00:00-06:00
+29.4,Carrot Creek,Wind Speed,2025-10-27T16:00:00-06:00
+0.029,Carrot Creek,Ozone,2025-10-27T16:00:00-06:00
+4.8,Carrot Creek,Outdoor Temperature,2025-10-27T16:00:00-06:00
 0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T16:00:00-06:00
 0.0,Carrot Creek,Nitric Oxide,2025-10-27T16:00:00-06:00
 0.0,Carrot Creek,Nitrogen Dioxide,2025-10-27T16:00:00-06:00
 0.0,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T16:00:00-06:00
 316.0,Carrot Creek,Wind Direction,2025-10-27T16:00:00-06:00
 49.3,Carrot Creek,Relative Humidity,2025-10-27T16:00:00-06:00
-4.8,Carrot Creek,Outdoor Temperature,2025-10-27T16:00:00-06:00
-0.029,Carrot Creek,Ozone,2025-10-27T16:00:00-06:00
-29.4,Carrot Creek,Wind Speed,2025-10-27T16:00:00-06:00
+25.9,Carrot Creek,Wind Speed,2025-10-27T15:00:00-06:00
+0.029,Carrot Creek,Ozone,2025-10-27T15:00:00-06:00
+4.9,Carrot Creek,Outdoor Temperature,2025-10-27T15:00:00-06:00
+50.6,Carrot Creek,Relative Humidity,2025-10-27T15:00:00-06:00
+311.0,Carrot Creek,Wind Direction,2025-10-27T15:00:00-06:00
+0.0,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T15:00:00-06:00
+0.0,Carrot Creek,Nitrogen Dioxide,2025-10-27T15:00:00-06:00
 0.0,Carrot Creek,Nitric Oxide,2025-10-27T15:00:00-06:00
 0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T15:00:00-06:00
-0.0,Carrot Creek,Nitrogen Dioxide,2025-10-27T15:00:00-06:00
-0.0,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T15:00:00-06:00
-311.0,Carrot Creek,Wind Direction,2025-10-27T15:00:00-06:00
-50.6,Carrot Creek,Relative Humidity,2025-10-27T15:00:00-06:00
-4.9,Carrot Creek,Outdoor Temperature,2025-10-27T15:00:00-06:00
-0.029,Carrot Creek,Ozone,2025-10-27T15:00:00-06:00
-25.9,Carrot Creek,Wind Speed,2025-10-27T15:00:00-06:00
 24.8,Carrot Creek,Wind Speed,2025-10-27T14:00:00-06:00
 0.0,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T14:00:00-06:00
 0.0,Carrot Creek,Nitrogen Dioxide,2025-10-27T14:00:00-06:00
@@ -782,15 +791,15 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Carrot Creek,Nitric Oxide,2025-10-27T14:00:00-06:00
 56.5,Carrot Creek,Relative Humidity,2025-10-27T14:00:00-06:00
 310.0,Carrot Creek,Wind Direction,2025-10-27T14:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T13:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-27T13:00:00-06:00
-0.0,Carrot Creek,Nitrogen Dioxide,2025-10-27T13:00:00-06:00
-0.0,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T13:00:00-06:00
-309.0,Carrot Creek,Wind Direction,2025-10-27T13:00:00-06:00
-65.9,Carrot Creek,Relative Humidity,2025-10-27T13:00:00-06:00
-4.1,Carrot Creek,Outdoor Temperature,2025-10-27T13:00:00-06:00
-0.023,Carrot Creek,Ozone,2025-10-27T13:00:00-06:00
 26.0,Carrot Creek,Wind Speed,2025-10-27T13:00:00-06:00
+0.023,Carrot Creek,Ozone,2025-10-27T13:00:00-06:00
+4.1,Carrot Creek,Outdoor Temperature,2025-10-27T13:00:00-06:00
+65.9,Carrot Creek,Relative Humidity,2025-10-27T13:00:00-06:00
+309.0,Carrot Creek,Wind Direction,2025-10-27T13:00:00-06:00
+0.0,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T13:00:00-06:00
+0.0,Carrot Creek,Nitrogen Dioxide,2025-10-27T13:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-27T13:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T13:00:00-06:00
 21.9,Carrot Creek,Wind Speed,2025-10-27T12:00:00-06:00
 0.02,Carrot Creek,Ozone,2025-10-27T12:00:00-06:00
 3.4,Carrot Creek,Outdoor Temperature,2025-10-27T12:00:00-06:00
@@ -800,15 +809,15 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T12:00:00-06:00
 0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T12:00:00-06:00
 0.001,Carrot Creek,Nitrogen Dioxide,2025-10-27T12:00:00-06:00
-22.5,Carrot Creek,Wind Speed,2025-10-27T11:00:00-06:00
-2.2,Carrot Creek,Outdoor Temperature,2025-10-27T11:00:00-06:00
-83.5,Carrot Creek,Relative Humidity,2025-10-27T11:00:00-06:00
-311.0,Carrot Creek,Wind Direction,2025-10-27T11:00:00-06:00
-0.005,Carrot Creek,Nitric Oxide,2025-10-27T11:00:00-06:00
-0.019,Carrot Creek,Ozone,2025-10-27T11:00:00-06:00
-0.0,Carrot Creek,Nitrogen Dioxide,2025-10-27T11:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T11:00:00-06:00
 0.005,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T11:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T11:00:00-06:00
+0.0,Carrot Creek,Nitrogen Dioxide,2025-10-27T11:00:00-06:00
+0.019,Carrot Creek,Ozone,2025-10-27T11:00:00-06:00
+0.005,Carrot Creek,Nitric Oxide,2025-10-27T11:00:00-06:00
+311.0,Carrot Creek,Wind Direction,2025-10-27T11:00:00-06:00
+83.5,Carrot Creek,Relative Humidity,2025-10-27T11:00:00-06:00
+2.2,Carrot Creek,Outdoor Temperature,2025-10-27T11:00:00-06:00
+22.5,Carrot Creek,Wind Speed,2025-10-27T11:00:00-06:00
 ,Carrot Creek,Nitrogen Dioxide,2025-10-27T10:00:00-06:00
 ,Carrot Creek,Nitric Oxide,2025-10-27T10:00:00-06:00
 0.018,Carrot Creek,Ozone,2025-10-27T10:00:00-06:00
@@ -818,40 +827,40 @@ Value,StationName,ParameterName,ReadingDate
 86.7,Carrot Creek,Relative Humidity,2025-10-27T10:00:00-06:00
 1.7,Carrot Creek,Outdoor Temperature,2025-10-27T10:00:00-06:00
 19.8,Carrot Creek,Wind Speed,2025-10-27T10:00:00-06:00
-17.5,Carrot Creek,Wind Speed,2025-10-27T09:00:00-06:00
-0.018,Carrot Creek,Ozone,2025-10-27T09:00:00-06:00
-1.5,Carrot Creek,Outdoor Temperature,2025-10-27T09:00:00-06:00
-88.5,Carrot Creek,Relative Humidity,2025-10-27T09:00:00-06:00
-304.0,Carrot Creek,Wind Direction,2025-10-27T09:00:00-06:00
-0.0,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T09:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-27T09:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T09:00:00-06:00
 0.001,Carrot Creek,Nitrogen Dioxide,2025-10-27T09:00:00-06:00
-18.9,Carrot Creek,Wind Speed,2025-10-27T08:00:00-06:00
-0.019,Carrot Creek,Ozone,2025-10-27T08:00:00-06:00
-1.3,Carrot Creek,Outdoor Temperature,2025-10-27T08:00:00-06:00
-91.2,Carrot Creek,Relative Humidity,2025-10-27T08:00:00-06:00
-303.0,Carrot Creek,Wind Direction,2025-10-27T08:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-27T08:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T08:00:00-06:00
-0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T08:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T09:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-27T09:00:00-06:00
+0.0,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T09:00:00-06:00
+304.0,Carrot Creek,Wind Direction,2025-10-27T09:00:00-06:00
+88.5,Carrot Creek,Relative Humidity,2025-10-27T09:00:00-06:00
+1.5,Carrot Creek,Outdoor Temperature,2025-10-27T09:00:00-06:00
+0.018,Carrot Creek,Ozone,2025-10-27T09:00:00-06:00
+17.5,Carrot Creek,Wind Speed,2025-10-27T09:00:00-06:00
 0.001,Carrot Creek,Nitrogen Dioxide,2025-10-27T08:00:00-06:00
-0.001,Carrot Creek,Nitrogen Dioxide,2025-10-27T07:00:00-06:00
-0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T07:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T07:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-27T07:00:00-06:00
-0.019,Carrot Creek,Ozone,2025-10-27T07:00:00-06:00
-304.0,Carrot Creek,Wind Direction,2025-10-27T07:00:00-06:00
-86.5,Carrot Creek,Relative Humidity,2025-10-27T07:00:00-06:00
-1.7,Carrot Creek,Outdoor Temperature,2025-10-27T07:00:00-06:00
+0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T08:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T08:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-27T08:00:00-06:00
+303.0,Carrot Creek,Wind Direction,2025-10-27T08:00:00-06:00
+91.2,Carrot Creek,Relative Humidity,2025-10-27T08:00:00-06:00
+1.3,Carrot Creek,Outdoor Temperature,2025-10-27T08:00:00-06:00
+0.019,Carrot Creek,Ozone,2025-10-27T08:00:00-06:00
+18.9,Carrot Creek,Wind Speed,2025-10-27T08:00:00-06:00
 20.7,Carrot Creek,Wind Speed,2025-10-27T07:00:00-06:00
+1.7,Carrot Creek,Outdoor Temperature,2025-10-27T07:00:00-06:00
+86.5,Carrot Creek,Relative Humidity,2025-10-27T07:00:00-06:00
+304.0,Carrot Creek,Wind Direction,2025-10-27T07:00:00-06:00
+0.019,Carrot Creek,Ozone,2025-10-27T07:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-27T07:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T07:00:00-06:00
+0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T07:00:00-06:00
+0.001,Carrot Creek,Nitrogen Dioxide,2025-10-27T07:00:00-06:00
 22.2,Carrot Creek,Wind Speed,2025-10-27T06:00:00-06:00
 0.021,Carrot Creek,Ozone,2025-10-27T06:00:00-06:00
 2.5,Carrot Creek,Outdoor Temperature,2025-10-27T06:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T06:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-27T06:00:00-06:00
-309.0,Carrot Creek,Wind Direction,2025-10-27T06:00:00-06:00
 75.7,Carrot Creek,Relative Humidity,2025-10-27T06:00:00-06:00
+309.0,Carrot Creek,Wind Direction,2025-10-27T06:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-27T06:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T06:00:00-06:00
 0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T06:00:00-06:00
 0.001,Carrot Creek,Nitrogen Dioxide,2025-10-27T06:00:00-06:00
 13.2,Carrot Creek,Wind Speed,2025-10-27T05:00:00-06:00
@@ -881,42 +890,42 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T03:00:00-06:00
 0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T03:00:00-06:00
 0.001,Carrot Creek,Nitrogen Dioxide,2025-10-27T03:00:00-06:00
-21.8,Carrot Creek,Wind Speed,2025-10-27T02:00:00-06:00
-0.023,Carrot Creek,Ozone,2025-10-27T02:00:00-06:00
-2.5,Carrot Creek,Outdoor Temperature,2025-10-27T02:00:00-06:00
-75.5,Carrot Creek,Relative Humidity,2025-10-27T02:00:00-06:00
-0.001,Carrot Creek,Nitrogen Dioxide,2025-10-27T02:00:00-06:00
-0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T02:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T02:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-27T02:00:00-06:00
 288.0,Carrot Creek,Wind Direction,2025-10-27T02:00:00-06:00
-0.001,Carrot Creek,Nitrogen Dioxide,2025-10-27T01:00:00-06:00
-0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T01:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T01:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-27T01:00:00-06:00
+75.5,Carrot Creek,Relative Humidity,2025-10-27T02:00:00-06:00
+2.5,Carrot Creek,Outdoor Temperature,2025-10-27T02:00:00-06:00
+0.023,Carrot Creek,Ozone,2025-10-27T02:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-27T02:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T02:00:00-06:00
+0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T02:00:00-06:00
+0.001,Carrot Creek,Nitrogen Dioxide,2025-10-27T02:00:00-06:00
+21.8,Carrot Creek,Wind Speed,2025-10-27T02:00:00-06:00
 283.0,Carrot Creek,Wind Direction,2025-10-27T01:00:00-06:00
 77.5,Carrot Creek,Relative Humidity,2025-10-27T01:00:00-06:00
 2.2,Carrot Creek,Outdoor Temperature,2025-10-27T01:00:00-06:00
 0.024,Carrot Creek,Ozone,2025-10-27T01:00:00-06:00
 21.3,Carrot Creek,Wind Speed,2025-10-27T01:00:00-06:00
-0.016,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T00:00:00-06:00
-0.026,Carrot Creek,Ozone,2025-10-27T00:00:00-06:00
-75.3,Carrot Creek,Relative Humidity,2025-10-27T00:00:00-06:00
-0.0,Carrot Creek,Nitrogen Dioxide,2025-10-27T00:00:00-06:00
-0.015,Carrot Creek,Nitric Oxide,2025-10-27T00:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-27T01:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T01:00:00-06:00
+0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T01:00:00-06:00
+0.001,Carrot Creek,Nitrogen Dioxide,2025-10-27T01:00:00-06:00
 290.0,Carrot Creek,Wind Direction,2025-10-27T00:00:00-06:00
+0.015,Carrot Creek,Nitric Oxide,2025-10-27T00:00:00-06:00
+0.0,Carrot Creek,Nitrogen Dioxide,2025-10-27T00:00:00-06:00
+75.3,Carrot Creek,Relative Humidity,2025-10-27T00:00:00-06:00
+0.026,Carrot Creek,Ozone,2025-10-27T00:00:00-06:00
+0.016,Carrot Creek,Total Oxides of Nitrogen,2025-10-27T00:00:00-06:00
 2.6,Carrot Creek,Outdoor Temperature,2025-10-27T00:00:00-06:00
 18.6,Carrot Creek,Wind Speed,2025-10-27T00:00:00-06:00
 0.0,Carrot Creek,Sulphur Dioxide,2025-10-27T00:00:00-06:00
-3.1,Carrot Creek,Outdoor Temperature,2025-10-26T23:00:00-06:00
-19.0,Carrot Creek,Wind Speed,2025-10-26T23:00:00-06:00
-,Carrot Creek,Total Oxides of Nitrogen,2025-10-26T23:00:00-06:00
-74.7,Carrot Creek,Relative Humidity,2025-10-26T23:00:00-06:00
-0.026,Carrot Creek,Ozone,2025-10-26T23:00:00-06:00
-,Carrot Creek,Nitrogen Dioxide,2025-10-26T23:00:00-06:00
-,Carrot Creek,Nitric Oxide,2025-10-26T23:00:00-06:00
-,Carrot Creek,Sulphur Dioxide,2025-10-26T23:00:00-06:00
 289.0,Carrot Creek,Wind Direction,2025-10-26T23:00:00-06:00
+,Carrot Creek,Sulphur Dioxide,2025-10-26T23:00:00-06:00
+,Carrot Creek,Nitric Oxide,2025-10-26T23:00:00-06:00
+,Carrot Creek,Nitrogen Dioxide,2025-10-26T23:00:00-06:00
+0.026,Carrot Creek,Ozone,2025-10-26T23:00:00-06:00
+74.7,Carrot Creek,Relative Humidity,2025-10-26T23:00:00-06:00
+,Carrot Creek,Total Oxides of Nitrogen,2025-10-26T23:00:00-06:00
+19.0,Carrot Creek,Wind Speed,2025-10-26T23:00:00-06:00
+3.1,Carrot Creek,Outdoor Temperature,2025-10-26T23:00:00-06:00
 3.2,Carrot Creek,Outdoor Temperature,2025-10-26T22:00:00-06:00
 13.0,Carrot Creek,Wind Speed,2025-10-26T22:00:00-06:00
 0.0,Carrot Creek,Sulphur Dioxide,2025-10-26T22:00:00-06:00
@@ -926,15 +935,15 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Carrot Creek,Nitric Oxide,2025-10-26T22:00:00-06:00
 308.0,Carrot Creek,Wind Direction,2025-10-26T22:00:00-06:00
 0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-26T22:00:00-06:00
-307.0,Carrot Creek,Wind Direction,2025-10-26T21:00:00-06:00
-0.002,Carrot Creek,Nitrogen Dioxide,2025-10-26T21:00:00-06:00
-0.0,Carrot Creek,Nitric Oxide,2025-10-26T21:00:00-06:00
-68.3,Carrot Creek,Relative Humidity,2025-10-26T21:00:00-06:00
-0.027,Carrot Creek,Ozone,2025-10-26T21:00:00-06:00
-0.002,Carrot Creek,Total Oxides of Nitrogen,2025-10-26T21:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-26T21:00:00-06:00
-11.7,Carrot Creek,Wind Speed,2025-10-26T21:00:00-06:00
 4.2,Carrot Creek,Outdoor Temperature,2025-10-26T21:00:00-06:00
+11.7,Carrot Creek,Wind Speed,2025-10-26T21:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-26T21:00:00-06:00
+0.002,Carrot Creek,Total Oxides of Nitrogen,2025-10-26T21:00:00-06:00
+0.027,Carrot Creek,Ozone,2025-10-26T21:00:00-06:00
+68.3,Carrot Creek,Relative Humidity,2025-10-26T21:00:00-06:00
+0.0,Carrot Creek,Nitric Oxide,2025-10-26T21:00:00-06:00
+0.002,Carrot Creek,Nitrogen Dioxide,2025-10-26T21:00:00-06:00
+307.0,Carrot Creek,Wind Direction,2025-10-26T21:00:00-06:00
 4.1,Carrot Creek,Outdoor Temperature,2025-10-26T20:00:00-06:00
 10.4,Carrot Creek,Wind Speed,2025-10-26T20:00:00-06:00
 0.0,Carrot Creek,Sulphur Dioxide,2025-10-26T20:00:00-06:00
@@ -944,18 +953,18 @@ Value,StationName,ParameterName,ReadingDate
 0.002,Carrot Creek,Nitrogen Dioxide,2025-10-26T20:00:00-06:00
 0.0,Carrot Creek,Nitric Oxide,2025-10-26T20:00:00-06:00
 297.0,Carrot Creek,Wind Direction,2025-10-26T20:00:00-06:00
-5.5,Carrot Creek,Outdoor Temperature,2025-10-26T19:00:00-06:00
-9.9,Carrot Creek,Wind Speed,2025-10-26T19:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-26T19:00:00-06:00
 0.001,Carrot Creek,Total Oxides of Nitrogen,2025-10-26T19:00:00-06:00
 0.001,Carrot Creek,Nitrogen Dioxide,2025-10-26T19:00:00-06:00
 301.0,Carrot Creek,Wind Direction,2025-10-26T19:00:00-06:00
 0.03,Carrot Creek,Ozone,2025-10-26T19:00:00-06:00
 0.0,Carrot Creek,Nitric Oxide,2025-10-26T19:00:00-06:00
 60.0,Carrot Creek,Relative Humidity,2025-10-26T19:00:00-06:00
-7.0,Carrot Creek,Outdoor Temperature,2025-10-26T18:00:00-06:00
-12.4,Carrot Creek,Wind Speed,2025-10-26T18:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-26T19:00:00-06:00
+9.9,Carrot Creek,Wind Speed,2025-10-26T19:00:00-06:00
+5.5,Carrot Creek,Outdoor Temperature,2025-10-26T19:00:00-06:00
 0.0,Carrot Creek,Sulphur Dioxide,2025-10-26T18:00:00-06:00
+12.4,Carrot Creek,Wind Speed,2025-10-26T18:00:00-06:00
+7.0,Carrot Creek,Outdoor Temperature,2025-10-26T18:00:00-06:00
 0.031,Carrot Creek,Ozone,2025-10-26T18:00:00-06:00
 54.2,Carrot Creek,Relative Humidity,2025-10-26T18:00:00-06:00
 0.0,Carrot Creek,Nitric Oxide,2025-10-26T18:00:00-06:00
@@ -1439,21 +1448,12 @@ Value,StationName,ParameterName,ReadingDate
 15.4,Carrot Creek,Outdoor Temperature,2025-10-24T13:00:00-06:00
 6.1,Carrot Creek,Wind Speed,2025-10-24T13:00:00-06:00
 92.0,Carrot Creek,Wind Direction,2025-10-24T13:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-24T12:00:00-06:00
-0.031,Carrot Creek,Ozone,2025-10-24T12:00:00-06:00
-0.005,Carrot Creek,Total Oxides of Nitrogen,2025-10-24T12:00:00-06:00
-0.001,Carrot Creek,Nitric Oxide,2025-10-24T12:00:00-06:00
-46.5,Carrot Creek,Relative Humidity,2025-10-24T12:00:00-06:00
-12.6,Carrot Creek,Outdoor Temperature,2025-10-24T12:00:00-06:00
-0.004,Carrot Creek,Nitrogen Dioxide,2025-10-24T12:00:00-06:00
 4.7,Carrot Creek,Wind Speed,2025-10-24T12:00:00-06:00
 133.0,Carrot Creek,Wind Direction,2025-10-24T12:00:00-06:00
-3.2,Carrot Creek,Wind Speed,2025-10-24T11:00:00-06:00
-149.0,Carrot Creek,Wind Direction,2025-10-24T11:00:00-06:00
-0.006,Carrot Creek,Nitric Oxide,2025-10-24T11:00:00-06:00
-0.018,Carrot Creek,Total Oxides of Nitrogen,2025-10-24T11:00:00-06:00
-0.012,Carrot Creek,Nitrogen Dioxide,2025-10-24T11:00:00-06:00
-5.9,Carrot Creek,Outdoor Temperature,2025-10-24T11:00:00-06:00
-73.2,Carrot Creek,Relative Humidity,2025-10-24T11:00:00-06:00
-0.011,Carrot Creek,Ozone,2025-10-24T11:00:00-06:00
-0.0,Carrot Creek,Sulphur Dioxide,2025-10-24T11:00:00-06:00
+0.004,Carrot Creek,Nitrogen Dioxide,2025-10-24T12:00:00-06:00
+12.6,Carrot Creek,Outdoor Temperature,2025-10-24T12:00:00-06:00
+46.5,Carrot Creek,Relative Humidity,2025-10-24T12:00:00-06:00
+0.001,Carrot Creek,Nitric Oxide,2025-10-24T12:00:00-06:00
+0.005,Carrot Creek,Total Oxides of Nitrogen,2025-10-24T12:00:00-06:00
+0.031,Carrot Creek,Ozone,2025-10-24T12:00:00-06:00
+0.0,Carrot Creek,Sulphur Dioxide,2025-10-24T12:00:00-06:00
