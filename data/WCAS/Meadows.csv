@@ -1,12 +1,20 @@
 Value,StationName,ParameterName,ReadingDate
+0.0,Meadows,Sulphur Dioxide,2025-11-01T06:00:00-06:00
+0.0,Meadows,Nitric Oxide,2025-11-01T06:00:00-06:00
+69.1,Meadows,Relative Humidity,2025-11-01T06:00:00-06:00
+3.3,Meadows,Outdoor Temperature,2025-11-01T06:00:00-06:00
+320.0,Meadows,Wind Direction,2025-11-01T06:00:00-06:00
+0.005,Meadows,Nitrogen Dioxide,2025-11-01T06:00:00-06:00
+0.004,Meadows,Total Oxides of Nitrogen,2025-11-01T06:00:00-06:00
+4.2,Meadows,Wind Speed,2025-11-01T06:00:00-06:00
+,Meadows,Nitric Oxide,2025-11-01T05:00:00-06:00
+,Meadows,Sulphur Dioxide,2025-11-01T05:00:00-06:00
+1.8,Meadows,Wind Speed,2025-11-01T05:00:00-06:00
+68.3,Meadows,Relative Humidity,2025-11-01T05:00:00-06:00
 2.6,Meadows,Outdoor Temperature,2025-11-01T05:00:00-06:00
 ,Meadows,Total Oxides of Nitrogen,2025-11-01T05:00:00-06:00
 303.0,Meadows,Wind Direction,2025-11-01T05:00:00-06:00
 ,Meadows,Nitrogen Dioxide,2025-11-01T05:00:00-06:00
-68.3,Meadows,Relative Humidity,2025-11-01T05:00:00-06:00
-1.8,Meadows,Wind Speed,2025-11-01T05:00:00-06:00
-,Meadows,Sulphur Dioxide,2025-11-01T05:00:00-06:00
-,Meadows,Nitric Oxide,2025-11-01T05:00:00-06:00
 0.5,Meadows,Outdoor Temperature,2025-11-01T04:00:00-06:00
 0.004,Meadows,Total Oxides of Nitrogen,2025-11-01T04:00:00-06:00
 248.0,Meadows,Wind Direction,2025-11-01T04:00:00-06:00
@@ -15,27 +23,27 @@ Value,StationName,ParameterName,ReadingDate
 6.2,Meadows,Wind Speed,2025-11-01T04:00:00-06:00
 71.9,Meadows,Relative Humidity,2025-11-01T04:00:00-06:00
 0.0,Meadows,Nitric Oxide,2025-11-01T04:00:00-06:00
-0.0,Meadows,Sulphur Dioxide,2025-11-01T03:00:00-06:00
-0.005,Meadows,Nitrogen Dioxide,2025-11-01T03:00:00-06:00
-0.6,Meadows,Outdoor Temperature,2025-11-01T03:00:00-06:00
-0.004,Meadows,Total Oxides of Nitrogen,2025-11-01T03:00:00-06:00
-66.9,Meadows,Relative Humidity,2025-11-01T03:00:00-06:00
-4.4,Meadows,Wind Speed,2025-11-01T03:00:00-06:00
-260.0,Meadows,Wind Direction,2025-11-01T03:00:00-06:00
 0.0,Meadows,Nitric Oxide,2025-11-01T03:00:00-06:00
+260.0,Meadows,Wind Direction,2025-11-01T03:00:00-06:00
+4.4,Meadows,Wind Speed,2025-11-01T03:00:00-06:00
+66.9,Meadows,Relative Humidity,2025-11-01T03:00:00-06:00
+0.004,Meadows,Total Oxides of Nitrogen,2025-11-01T03:00:00-06:00
+0.6,Meadows,Outdoor Temperature,2025-11-01T03:00:00-06:00
+0.005,Meadows,Nitrogen Dioxide,2025-11-01T03:00:00-06:00
+0.0,Meadows,Sulphur Dioxide,2025-11-01T03:00:00-06:00
 6.9,Meadows,Wind Speed,2025-11-01T02:00:00-06:00
-1.4,Meadows,Outdoor Temperature,2025-11-01T02:00:00-06:00
 64.7,Meadows,Relative Humidity,2025-11-01T02:00:00-06:00
+1.4,Meadows,Outdoor Temperature,2025-11-01T02:00:00-06:00
 0.0,Meadows,Nitric Oxide,2025-11-01T02:00:00-06:00
 0.004,Meadows,Nitrogen Dioxide,2025-11-01T02:00:00-06:00
 0.0,Meadows,Sulphur Dioxide,2025-11-01T02:00:00-06:00
 255.0,Meadows,Wind Direction,2025-11-01T02:00:00-06:00
 0.004,Meadows,Total Oxides of Nitrogen,2025-11-01T02:00:00-06:00
-0.0,Meadows,Nitric Oxide,2025-11-01T01:00:00-06:00
-0.004,Meadows,Nitrogen Dioxide,2025-11-01T01:00:00-06:00
-0.003,Meadows,Total Oxides of Nitrogen,2025-11-01T01:00:00-06:00
-7.6,Meadows,Wind Speed,2025-11-01T01:00:00-06:00
 2.8,Meadows,Outdoor Temperature,2025-11-01T01:00:00-06:00
+7.6,Meadows,Wind Speed,2025-11-01T01:00:00-06:00
+0.003,Meadows,Total Oxides of Nitrogen,2025-11-01T01:00:00-06:00
+0.004,Meadows,Nitrogen Dioxide,2025-11-01T01:00:00-06:00
+0.0,Meadows,Nitric Oxide,2025-11-01T01:00:00-06:00
 0.0,Meadows,Sulphur Dioxide,2025-11-01T01:00:00-06:00
 263.0,Meadows,Wind Direction,2025-11-01T01:00:00-06:00
 61.6,Meadows,Relative Humidity,2025-11-01T01:00:00-06:00
@@ -139,10 +147,10 @@ Value,StationName,ParameterName,ReadingDate
 3.7,Meadows,Outdoor Temperature,2025-10-31T12:00:00-06:00
 0.001,Meadows,Nitric Oxide,2025-10-31T12:00:00-06:00
 68.4,Meadows,Relative Humidity,2025-10-31T12:00:00-06:00
-0.003,Meadows,Nitrogen Dioxide,2025-10-31T12:00:00-06:00
-0.004,Meadows,Total Oxides of Nitrogen,2025-10-31T12:00:00-06:00
-122.0,Meadows,Wind Direction,2025-10-31T12:00:00-06:00
 0.0,Meadows,Sulphur Dioxide,2025-10-31T12:00:00-06:00
+122.0,Meadows,Wind Direction,2025-10-31T12:00:00-06:00
+0.004,Meadows,Total Oxides of Nitrogen,2025-10-31T12:00:00-06:00
+0.003,Meadows,Nitrogen Dioxide,2025-10-31T12:00:00-06:00
 0.004,Meadows,Total Oxides of Nitrogen,2025-10-31T11:00:00-06:00
 14.4,Meadows,Wind Speed,2025-10-31T11:00:00-06:00
 0.003,Meadows,Nitrogen Dioxide,2025-10-31T11:00:00-06:00
@@ -151,14 +159,14 @@ Value,StationName,ParameterName,ReadingDate
 86.3,Meadows,Relative Humidity,2025-10-31T11:00:00-06:00
 0.001,Meadows,Nitric Oxide,2025-10-31T11:00:00-06:00
 0.0,Meadows,Sulphur Dioxide,2025-10-31T11:00:00-06:00
-0.004,Meadows,Total Oxides of Nitrogen,2025-10-31T10:00:00-06:00
-0.0,Meadows,Nitric Oxide,2025-10-31T10:00:00-06:00
-0.004,Meadows,Nitrogen Dioxide,2025-10-31T10:00:00-06:00
--1.5,Meadows,Outdoor Temperature,2025-10-31T10:00:00-06:00
 102.0,Meadows,Wind Direction,2025-10-31T10:00:00-06:00
 0.0,Meadows,Sulphur Dioxide,2025-10-31T10:00:00-06:00
 10.6,Meadows,Wind Speed,2025-10-31T10:00:00-06:00
 90.8,Meadows,Relative Humidity,2025-10-31T10:00:00-06:00
+-1.5,Meadows,Outdoor Temperature,2025-10-31T10:00:00-06:00
+0.004,Meadows,Nitrogen Dioxide,2025-10-31T10:00:00-06:00
+0.0,Meadows,Nitric Oxide,2025-10-31T10:00:00-06:00
+0.004,Meadows,Total Oxides of Nitrogen,2025-10-31T10:00:00-06:00
 91.0,Meadows,Wind Direction,2025-10-31T09:00:00-06:00
 92.9,Meadows,Relative Humidity,2025-10-31T09:00:00-06:00
 0.003,Meadows,Nitrogen Dioxide,2025-10-31T09:00:00-06:00
@@ -175,14 +183,14 @@ Value,StationName,ParameterName,ReadingDate
 84.0,Meadows,Wind Direction,2025-10-31T08:00:00-06:00
 0.0,Meadows,Sulphur Dioxide,2025-10-31T08:00:00-06:00
 0.0,Meadows,Nitric Oxide,2025-10-31T08:00:00-06:00
-0.003,Meadows,Nitrogen Dioxide,2025-10-31T07:00:00-06:00
-9.5,Meadows,Wind Speed,2025-10-31T07:00:00-06:00
-0.0,Meadows,Nitric Oxide,2025-10-31T07:00:00-06:00
-91.0,Meadows,Wind Direction,2025-10-31T07:00:00-06:00
-0.0,Meadows,Sulphur Dioxide,2025-10-31T07:00:00-06:00
-0.002,Meadows,Total Oxides of Nitrogen,2025-10-31T07:00:00-06:00
-91.6,Meadows,Relative Humidity,2025-10-31T07:00:00-06:00
 -2.3,Meadows,Outdoor Temperature,2025-10-31T07:00:00-06:00
+91.6,Meadows,Relative Humidity,2025-10-31T07:00:00-06:00
+0.002,Meadows,Total Oxides of Nitrogen,2025-10-31T07:00:00-06:00
+0.0,Meadows,Sulphur Dioxide,2025-10-31T07:00:00-06:00
+91.0,Meadows,Wind Direction,2025-10-31T07:00:00-06:00
+0.0,Meadows,Nitric Oxide,2025-10-31T07:00:00-06:00
+9.5,Meadows,Wind Speed,2025-10-31T07:00:00-06:00
+0.003,Meadows,Nitrogen Dioxide,2025-10-31T07:00:00-06:00
 0.002,Meadows,Nitrogen Dioxide,2025-10-31T06:00:00-06:00
 0.0,Meadows,Nitric Oxide,2025-10-31T06:00:00-06:00
 -2.7,Meadows,Outdoor Temperature,2025-10-31T06:00:00-06:00
@@ -199,10 +207,10 @@ Value,StationName,ParameterName,ReadingDate
 ,Meadows,Nitrogen Dioxide,2025-10-31T05:00:00-06:00
 -2.7,Meadows,Outdoor Temperature,2025-10-31T05:00:00-06:00
 114.0,Meadows,Wind Direction,2025-10-31T05:00:00-06:00
-0.0,Meadows,Nitric Oxide,2025-10-31T04:00:00-06:00
-105.0,Meadows,Wind Direction,2025-10-31T04:00:00-06:00
-86.5,Meadows,Relative Humidity,2025-10-31T04:00:00-06:00
 0.002,Meadows,Nitrogen Dioxide,2025-10-31T04:00:00-06:00
+86.5,Meadows,Relative Humidity,2025-10-31T04:00:00-06:00
+105.0,Meadows,Wind Direction,2025-10-31T04:00:00-06:00
+0.0,Meadows,Nitric Oxide,2025-10-31T04:00:00-06:00
 7.6,Meadows,Wind Speed,2025-10-31T04:00:00-06:00
 -2.4,Meadows,Outdoor Temperature,2025-10-31T04:00:00-06:00
 0.002,Meadows,Total Oxides of Nitrogen,2025-10-31T04:00:00-06:00
@@ -218,26 +226,26 @@ Value,StationName,ParameterName,ReadingDate
 7.0,Meadows,Wind Speed,2025-10-31T02:00:00-06:00
 0.002,Meadows,Nitrogen Dioxide,2025-10-31T02:00:00-06:00
 116.0,Meadows,Wind Direction,2025-10-31T02:00:00-06:00
-0.0,Meadows,Sulphur Dioxide,2025-10-31T02:00:00-06:00
-75.7,Meadows,Relative Humidity,2025-10-31T02:00:00-06:00
--1.1,Meadows,Outdoor Temperature,2025-10-31T02:00:00-06:00
-0.002,Meadows,Total Oxides of Nitrogen,2025-10-31T02:00:00-06:00
 0.0,Meadows,Nitric Oxide,2025-10-31T02:00:00-06:00
-105.0,Meadows,Wind Direction,2025-10-31T01:00:00-06:00
-4.5,Meadows,Wind Speed,2025-10-31T01:00:00-06:00
--0.2,Meadows,Outdoor Temperature,2025-10-31T01:00:00-06:00
-73.5,Meadows,Relative Humidity,2025-10-31T01:00:00-06:00
-0.0,Meadows,Nitric Oxide,2025-10-31T01:00:00-06:00
-0.001,Meadows,Total Oxides of Nitrogen,2025-10-31T01:00:00-06:00
-0.0,Meadows,Sulphur Dioxide,2025-10-31T01:00:00-06:00
+0.002,Meadows,Total Oxides of Nitrogen,2025-10-31T02:00:00-06:00
+-1.1,Meadows,Outdoor Temperature,2025-10-31T02:00:00-06:00
+75.7,Meadows,Relative Humidity,2025-10-31T02:00:00-06:00
+0.0,Meadows,Sulphur Dioxide,2025-10-31T02:00:00-06:00
 0.001,Meadows,Nitrogen Dioxide,2025-10-31T01:00:00-06:00
--0.5,Meadows,Outdoor Temperature,2025-10-31T00:00:00-06:00
-75.5,Meadows,Relative Humidity,2025-10-31T00:00:00-06:00
-0.001,Meadows,Total Oxides of Nitrogen,2025-10-31T00:00:00-06:00
-0.001,Meadows,Nitrogen Dioxide,2025-10-31T00:00:00-06:00
-0.0,Meadows,Sulphur Dioxide,2025-10-31T00:00:00-06:00
-0.0,Meadows,Nitric Oxide,2025-10-31T00:00:00-06:00
+0.0,Meadows,Sulphur Dioxide,2025-10-31T01:00:00-06:00
+0.001,Meadows,Total Oxides of Nitrogen,2025-10-31T01:00:00-06:00
+0.0,Meadows,Nitric Oxide,2025-10-31T01:00:00-06:00
+73.5,Meadows,Relative Humidity,2025-10-31T01:00:00-06:00
+-0.2,Meadows,Outdoor Temperature,2025-10-31T01:00:00-06:00
+4.5,Meadows,Wind Speed,2025-10-31T01:00:00-06:00
+105.0,Meadows,Wind Direction,2025-10-31T01:00:00-06:00
 195.0,Meadows,Wind Direction,2025-10-31T00:00:00-06:00
+0.0,Meadows,Nitric Oxide,2025-10-31T00:00:00-06:00
+0.0,Meadows,Sulphur Dioxide,2025-10-31T00:00:00-06:00
+0.001,Meadows,Nitrogen Dioxide,2025-10-31T00:00:00-06:00
+0.001,Meadows,Total Oxides of Nitrogen,2025-10-31T00:00:00-06:00
+75.5,Meadows,Relative Humidity,2025-10-31T00:00:00-06:00
+-0.5,Meadows,Outdoor Temperature,2025-10-31T00:00:00-06:00
 4.5,Meadows,Wind Speed,2025-10-31T00:00:00-06:00
 0.001,Meadows,Total Oxides of Nitrogen,2025-10-30T23:00:00-06:00
 0.001,Meadows,Nitrogen Dioxide,2025-10-30T23:00:00-06:00
@@ -487,8 +495,8 @@ Value,StationName,ParameterName,ReadingDate
 0.001,Meadows,Total Oxides of Nitrogen,2025-10-29T17:00:00-06:00
 0.0,Meadows,Sulphur Dioxide,2025-10-29T17:00:00-06:00
 0.0,Meadows,Nitric Oxide,2025-10-29T17:00:00-06:00
-0.0,Meadows,Nitric Oxide,2025-10-29T16:00:00-06:00
 0.0,Meadows,Sulphur Dioxide,2025-10-29T16:00:00-06:00
+0.0,Meadows,Nitric Oxide,2025-10-29T16:00:00-06:00
 0.001,Meadows,Total Oxides of Nitrogen,2025-10-29T16:00:00-06:00
 0.001,Meadows,Nitrogen Dioxide,2025-10-29T16:00:00-06:00
 14.0,Meadows,Wind Speed,2025-10-29T16:00:00-06:00
@@ -599,30 +607,30 @@ Value,StationName,ParameterName,ReadingDate
 17.2,Meadows,Wind Speed,2025-10-29T03:00:00-06:00
 0.0,Meadows,Sulphur Dioxide,2025-10-29T03:00:00-06:00
 0.0,Meadows,Nitric Oxide,2025-10-29T03:00:00-06:00
-0.0,Meadows,Nitric Oxide,2025-10-29T02:00:00-06:00
-0.0,Meadows,Sulphur Dioxide,2025-10-29T02:00:00-06:00
-19.3,Meadows,Wind Speed,2025-10-29T02:00:00-06:00
-112.0,Meadows,Wind Direction,2025-10-29T02:00:00-06:00
-2.6,Meadows,Outdoor Temperature,2025-10-29T02:00:00-06:00
 46.7,Meadows,Relative Humidity,2025-10-29T02:00:00-06:00
 0.003,Meadows,Total Oxides of Nitrogen,2025-10-29T02:00:00-06:00
 0.003,Meadows,Nitrogen Dioxide,2025-10-29T02:00:00-06:00
+2.6,Meadows,Outdoor Temperature,2025-10-29T02:00:00-06:00
+112.0,Meadows,Wind Direction,2025-10-29T02:00:00-06:00
+19.3,Meadows,Wind Speed,2025-10-29T02:00:00-06:00
+0.0,Meadows,Sulphur Dioxide,2025-10-29T02:00:00-06:00
+0.0,Meadows,Nitric Oxide,2025-10-29T02:00:00-06:00
 0.0,Meadows,Nitric Oxide,2025-10-29T01:00:00-06:00
 0.0,Meadows,Sulphur Dioxide,2025-10-29T01:00:00-06:00
-18.8,Meadows,Wind Speed,2025-10-29T01:00:00-06:00
-115.0,Meadows,Wind Direction,2025-10-29T01:00:00-06:00
-2.1,Meadows,Outdoor Temperature,2025-10-29T01:00:00-06:00
-51.0,Meadows,Relative Humidity,2025-10-29T01:00:00-06:00
-0.002,Meadows,Nitrogen Dioxide,2025-10-29T01:00:00-06:00
 0.002,Meadows,Total Oxides of Nitrogen,2025-10-29T01:00:00-06:00
-0.002,Meadows,Total Oxides of Nitrogen,2025-10-29T00:00:00-06:00
-0.002,Meadows,Nitrogen Dioxide,2025-10-29T00:00:00-06:00
-1.3,Meadows,Outdoor Temperature,2025-10-29T00:00:00-06:00
-54.0,Meadows,Relative Humidity,2025-10-29T00:00:00-06:00
-18.1,Meadows,Wind Speed,2025-10-29T00:00:00-06:00
-117.0,Meadows,Wind Direction,2025-10-29T00:00:00-06:00
-0.0,Meadows,Nitric Oxide,2025-10-29T00:00:00-06:00
+0.002,Meadows,Nitrogen Dioxide,2025-10-29T01:00:00-06:00
+51.0,Meadows,Relative Humidity,2025-10-29T01:00:00-06:00
+2.1,Meadows,Outdoor Temperature,2025-10-29T01:00:00-06:00
+115.0,Meadows,Wind Direction,2025-10-29T01:00:00-06:00
+18.8,Meadows,Wind Speed,2025-10-29T01:00:00-06:00
 0.0,Meadows,Sulphur Dioxide,2025-10-29T00:00:00-06:00
+0.0,Meadows,Nitric Oxide,2025-10-29T00:00:00-06:00
+117.0,Meadows,Wind Direction,2025-10-29T00:00:00-06:00
+18.1,Meadows,Wind Speed,2025-10-29T00:00:00-06:00
+54.0,Meadows,Relative Humidity,2025-10-29T00:00:00-06:00
+1.3,Meadows,Outdoor Temperature,2025-10-29T00:00:00-06:00
+0.002,Meadows,Nitrogen Dioxide,2025-10-29T00:00:00-06:00
+0.002,Meadows,Total Oxides of Nitrogen,2025-10-29T00:00:00-06:00
 0.0,Meadows,Nitric Oxide,2025-10-28T23:00:00-06:00
 0.0,Meadows,Sulphur Dioxide,2025-10-28T23:00:00-06:00
 0.002,Meadows,Total Oxides of Nitrogen,2025-10-28T23:00:00-06:00
@@ -631,54 +639,54 @@ Value,StationName,ParameterName,ReadingDate
 16.5,Meadows,Wind Speed,2025-10-28T23:00:00-06:00
 1.5,Meadows,Outdoor Temperature,2025-10-28T23:00:00-06:00
 52.5,Meadows,Relative Humidity,2025-10-28T23:00:00-06:00
-0.003,Meadows,Total Oxides of Nitrogen,2025-10-28T22:00:00-06:00
-0.003,Meadows,Nitrogen Dioxide,2025-10-28T22:00:00-06:00
-0.0,Meadows,Sulphur Dioxide,2025-10-28T22:00:00-06:00
-0.0,Meadows,Nitric Oxide,2025-10-28T22:00:00-06:00
-18.3,Meadows,Wind Speed,2025-10-28T22:00:00-06:00
-120.0,Meadows,Wind Direction,2025-10-28T22:00:00-06:00
-46.9,Meadows,Relative Humidity,2025-10-28T22:00:00-06:00
 2.5,Meadows,Outdoor Temperature,2025-10-28T22:00:00-06:00
-0.002,Meadows,Nitrogen Dioxide,2025-10-28T21:00:00-06:00
-0.001,Meadows,Total Oxides of Nitrogen,2025-10-28T21:00:00-06:00
+46.9,Meadows,Relative Humidity,2025-10-28T22:00:00-06:00
+120.0,Meadows,Wind Direction,2025-10-28T22:00:00-06:00
+18.3,Meadows,Wind Speed,2025-10-28T22:00:00-06:00
+0.0,Meadows,Nitric Oxide,2025-10-28T22:00:00-06:00
+0.0,Meadows,Sulphur Dioxide,2025-10-28T22:00:00-06:00
+0.003,Meadows,Nitrogen Dioxide,2025-10-28T22:00:00-06:00
+0.003,Meadows,Total Oxides of Nitrogen,2025-10-28T22:00:00-06:00
 0.0,Meadows,Sulphur Dioxide,2025-10-28T21:00:00-06:00
 0.0,Meadows,Nitric Oxide,2025-10-28T21:00:00-06:00
 48.7,Meadows,Relative Humidity,2025-10-28T21:00:00-06:00
 2.0,Meadows,Outdoor Temperature,2025-10-28T21:00:00-06:00
 15.4,Meadows,Wind Speed,2025-10-28T21:00:00-06:00
 112.0,Meadows,Wind Direction,2025-10-28T21:00:00-06:00
-119.0,Meadows,Wind Direction,2025-10-28T20:00:00-06:00
-13.8,Meadows,Wind Speed,2025-10-28T20:00:00-06:00
-3.2,Meadows,Outdoor Temperature,2025-10-28T20:00:00-06:00
-46.4,Meadows,Relative Humidity,2025-10-28T20:00:00-06:00
-0.0,Meadows,Nitric Oxide,2025-10-28T20:00:00-06:00
-0.0,Meadows,Sulphur Dioxide,2025-10-28T20:00:00-06:00
-0.001,Meadows,Total Oxides of Nitrogen,2025-10-28T20:00:00-06:00
+0.001,Meadows,Total Oxides of Nitrogen,2025-10-28T21:00:00-06:00
+0.002,Meadows,Nitrogen Dioxide,2025-10-28T21:00:00-06:00
 0.001,Meadows,Nitrogen Dioxide,2025-10-28T20:00:00-06:00
-0.001,Meadows,Nitrogen Dioxide,2025-10-28T19:00:00-06:00
-0.001,Meadows,Total Oxides of Nitrogen,2025-10-28T19:00:00-06:00
-0.0,Meadows,Nitric Oxide,2025-10-28T19:00:00-06:00
-46.4,Meadows,Relative Humidity,2025-10-28T19:00:00-06:00
-2.9,Meadows,Outdoor Temperature,2025-10-28T19:00:00-06:00
-10.8,Meadows,Wind Speed,2025-10-28T19:00:00-06:00
-117.0,Meadows,Wind Direction,2025-10-28T19:00:00-06:00
+0.001,Meadows,Total Oxides of Nitrogen,2025-10-28T20:00:00-06:00
+0.0,Meadows,Sulphur Dioxide,2025-10-28T20:00:00-06:00
+0.0,Meadows,Nitric Oxide,2025-10-28T20:00:00-06:00
+46.4,Meadows,Relative Humidity,2025-10-28T20:00:00-06:00
+3.2,Meadows,Outdoor Temperature,2025-10-28T20:00:00-06:00
+13.8,Meadows,Wind Speed,2025-10-28T20:00:00-06:00
+119.0,Meadows,Wind Direction,2025-10-28T20:00:00-06:00
 0.0,Meadows,Sulphur Dioxide,2025-10-28T19:00:00-06:00
-0.001,Meadows,Nitrogen Dioxide,2025-10-28T18:00:00-06:00
-0.001,Meadows,Total Oxides of Nitrogen,2025-10-28T18:00:00-06:00
-0.0,Meadows,Sulphur Dioxide,2025-10-28T18:00:00-06:00
-0.0,Meadows,Nitric Oxide,2025-10-28T18:00:00-06:00
-38.9,Meadows,Relative Humidity,2025-10-28T18:00:00-06:00
-4.5,Meadows,Outdoor Temperature,2025-10-28T18:00:00-06:00
-8.0,Meadows,Wind Speed,2025-10-28T18:00:00-06:00
+117.0,Meadows,Wind Direction,2025-10-28T19:00:00-06:00
+10.8,Meadows,Wind Speed,2025-10-28T19:00:00-06:00
+2.9,Meadows,Outdoor Temperature,2025-10-28T19:00:00-06:00
+46.4,Meadows,Relative Humidity,2025-10-28T19:00:00-06:00
+0.0,Meadows,Nitric Oxide,2025-10-28T19:00:00-06:00
+0.001,Meadows,Total Oxides of Nitrogen,2025-10-28T19:00:00-06:00
+0.001,Meadows,Nitrogen Dioxide,2025-10-28T19:00:00-06:00
 116.0,Meadows,Wind Direction,2025-10-28T18:00:00-06:00
-92.0,Meadows,Wind Direction,2025-10-28T17:00:00-06:00
-7.3,Meadows,Wind Speed,2025-10-28T17:00:00-06:00
-6.2,Meadows,Outdoor Temperature,2025-10-28T17:00:00-06:00
-36.1,Meadows,Relative Humidity,2025-10-28T17:00:00-06:00
-0.0,Meadows,Sulphur Dioxide,2025-10-28T17:00:00-06:00
-0.0,Meadows,Total Oxides of Nitrogen,2025-10-28T17:00:00-06:00
-0.0,Meadows,Nitrogen Dioxide,2025-10-28T17:00:00-06:00
+8.0,Meadows,Wind Speed,2025-10-28T18:00:00-06:00
+4.5,Meadows,Outdoor Temperature,2025-10-28T18:00:00-06:00
+38.9,Meadows,Relative Humidity,2025-10-28T18:00:00-06:00
+0.0,Meadows,Nitric Oxide,2025-10-28T18:00:00-06:00
+0.0,Meadows,Sulphur Dioxide,2025-10-28T18:00:00-06:00
+0.001,Meadows,Total Oxides of Nitrogen,2025-10-28T18:00:00-06:00
+0.001,Meadows,Nitrogen Dioxide,2025-10-28T18:00:00-06:00
 0.0,Meadows,Nitric Oxide,2025-10-28T17:00:00-06:00
+0.0,Meadows,Nitrogen Dioxide,2025-10-28T17:00:00-06:00
+0.0,Meadows,Total Oxides of Nitrogen,2025-10-28T17:00:00-06:00
+0.0,Meadows,Sulphur Dioxide,2025-10-28T17:00:00-06:00
+36.1,Meadows,Relative Humidity,2025-10-28T17:00:00-06:00
+6.2,Meadows,Outdoor Temperature,2025-10-28T17:00:00-06:00
+7.3,Meadows,Wind Speed,2025-10-28T17:00:00-06:00
+92.0,Meadows,Wind Direction,2025-10-28T17:00:00-06:00
 ,Meadows,Sulphur Dioxide,2025-10-28T16:00:00-06:00
 0.0,Meadows,Total Oxides of Nitrogen,2025-10-28T16:00:00-06:00
 0.0,Meadows,Nitrogen Dioxide,2025-10-28T16:00:00-06:00
@@ -687,22 +695,22 @@ Value,StationName,ParameterName,ReadingDate
 7.1,Meadows,Outdoor Temperature,2025-10-28T16:00:00-06:00
 8.1,Meadows,Wind Speed,2025-10-28T16:00:00-06:00
 69.0,Meadows,Wind Direction,2025-10-28T16:00:00-06:00
-30.0,Meadows,Relative Humidity,2025-10-28T15:00:00-06:00
-7.8,Meadows,Outdoor Temperature,2025-10-28T15:00:00-06:00
-7.8,Meadows,Wind Speed,2025-10-28T15:00:00-06:00
-250.0,Meadows,Wind Direction,2025-10-28T15:00:00-06:00
-,Meadows,Sulphur Dioxide,2025-10-28T15:00:00-06:00
-0.0,Meadows,Total Oxides of Nitrogen,2025-10-28T15:00:00-06:00
-0.0,Meadows,Nitrogen Dioxide,2025-10-28T15:00:00-06:00
 0.0,Meadows,Nitric Oxide,2025-10-28T15:00:00-06:00
-,Meadows,Sulphur Dioxide,2025-10-28T14:00:00-06:00
-0.0,Meadows,Total Oxides of Nitrogen,2025-10-28T14:00:00-06:00
-0.0,Meadows,Nitrogen Dioxide,2025-10-28T14:00:00-06:00
-0.0,Meadows,Nitric Oxide,2025-10-28T14:00:00-06:00
-35.1,Meadows,Relative Humidity,2025-10-28T14:00:00-06:00
-6.9,Meadows,Outdoor Temperature,2025-10-28T14:00:00-06:00
-9.9,Meadows,Wind Speed,2025-10-28T14:00:00-06:00
+0.0,Meadows,Nitrogen Dioxide,2025-10-28T15:00:00-06:00
+0.0,Meadows,Total Oxides of Nitrogen,2025-10-28T15:00:00-06:00
+,Meadows,Sulphur Dioxide,2025-10-28T15:00:00-06:00
+250.0,Meadows,Wind Direction,2025-10-28T15:00:00-06:00
+7.8,Meadows,Wind Speed,2025-10-28T15:00:00-06:00
+7.8,Meadows,Outdoor Temperature,2025-10-28T15:00:00-06:00
+30.0,Meadows,Relative Humidity,2025-10-28T15:00:00-06:00
 268.0,Meadows,Wind Direction,2025-10-28T14:00:00-06:00
+9.9,Meadows,Wind Speed,2025-10-28T14:00:00-06:00
+6.9,Meadows,Outdoor Temperature,2025-10-28T14:00:00-06:00
+35.1,Meadows,Relative Humidity,2025-10-28T14:00:00-06:00
+0.0,Meadows,Nitric Oxide,2025-10-28T14:00:00-06:00
+0.0,Meadows,Nitrogen Dioxide,2025-10-28T14:00:00-06:00
+0.0,Meadows,Total Oxides of Nitrogen,2025-10-28T14:00:00-06:00
+,Meadows,Sulphur Dioxide,2025-10-28T14:00:00-06:00
 294.0,Meadows,Wind Direction,2025-10-28T13:00:00-06:00
 11.1,Meadows,Wind Speed,2025-10-28T13:00:00-06:00
 5.8,Meadows,Outdoor Temperature,2025-10-28T13:00:00-06:00
@@ -719,14 +727,14 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Meadows,Sulphur Dioxide,2025-10-28T12:00:00-06:00
 0.001,Meadows,Nitrogen Dioxide,2025-10-28T12:00:00-06:00
 0.001,Meadows,Total Oxides of Nitrogen,2025-10-28T12:00:00-06:00
-0.002,Meadows,Nitrogen Dioxide,2025-10-28T11:00:00-06:00
-0.002,Meadows,Total Oxides of Nitrogen,2025-10-28T11:00:00-06:00
-0.0,Meadows,Sulphur Dioxide,2025-10-28T11:00:00-06:00
-0.0,Meadows,Nitric Oxide,2025-10-28T11:00:00-06:00
-267.0,Meadows,Wind Direction,2025-10-28T11:00:00-06:00
-19.9,Meadows,Wind Speed,2025-10-28T11:00:00-06:00
-50.7,Meadows,Relative Humidity,2025-10-28T11:00:00-06:00
 2.9,Meadows,Outdoor Temperature,2025-10-28T11:00:00-06:00
+50.7,Meadows,Relative Humidity,2025-10-28T11:00:00-06:00
+19.9,Meadows,Wind Speed,2025-10-28T11:00:00-06:00
+267.0,Meadows,Wind Direction,2025-10-28T11:00:00-06:00
+0.0,Meadows,Nitric Oxide,2025-10-28T11:00:00-06:00
+0.0,Meadows,Sulphur Dioxide,2025-10-28T11:00:00-06:00
+0.002,Meadows,Total Oxides of Nitrogen,2025-10-28T11:00:00-06:00
+0.002,Meadows,Nitrogen Dioxide,2025-10-28T11:00:00-06:00
 0.0,Meadows,Nitric Oxide,2025-10-28T10:00:00-06:00
 59.9,Meadows,Relative Humidity,2025-10-28T10:00:00-06:00
 0.6,Meadows,Outdoor Temperature,2025-10-28T10:00:00-06:00
@@ -735,14 +743,14 @@ Value,StationName,ParameterName,ReadingDate
 0.005,Meadows,Total Oxides of Nitrogen,2025-10-28T10:00:00-06:00
 0.004,Meadows,Nitrogen Dioxide,2025-10-28T10:00:00-06:00
 0.0,Meadows,Sulphur Dioxide,2025-10-28T10:00:00-06:00
-0.005,Meadows,Nitrogen Dioxide,2025-10-28T09:00:00-06:00
-271.0,Meadows,Wind Direction,2025-10-28T09:00:00-06:00
-11.9,Meadows,Wind Speed,2025-10-28T09:00:00-06:00
--0.8,Meadows,Outdoor Temperature,2025-10-28T09:00:00-06:00
-65.0,Meadows,Relative Humidity,2025-10-28T09:00:00-06:00
-0.0,Meadows,Nitric Oxide,2025-10-28T09:00:00-06:00
-0.0,Meadows,Sulphur Dioxide,2025-10-28T09:00:00-06:00
 0.004,Meadows,Total Oxides of Nitrogen,2025-10-28T09:00:00-06:00
+0.0,Meadows,Sulphur Dioxide,2025-10-28T09:00:00-06:00
+0.0,Meadows,Nitric Oxide,2025-10-28T09:00:00-06:00
+65.0,Meadows,Relative Humidity,2025-10-28T09:00:00-06:00
+-0.8,Meadows,Outdoor Temperature,2025-10-28T09:00:00-06:00
+11.9,Meadows,Wind Speed,2025-10-28T09:00:00-06:00
+271.0,Meadows,Wind Direction,2025-10-28T09:00:00-06:00
+0.005,Meadows,Nitrogen Dioxide,2025-10-28T09:00:00-06:00
 0.002,Meadows,Nitrogen Dioxide,2025-10-28T08:00:00-06:00
 0.001,Meadows,Total Oxides of Nitrogen,2025-10-28T08:00:00-06:00
 0.0,Meadows,Sulphur Dioxide,2025-10-28T08:00:00-06:00
@@ -783,36 +791,36 @@ Value,StationName,ParameterName,ReadingDate
 ,Meadows,Wind Direction,2025-10-28T04:00:00-06:00
 ,Meadows,Nitrogen Dioxide,2025-10-28T04:00:00-06:00
 ,Meadows,Sulphur Dioxide,2025-10-28T04:00:00-06:00
-,Meadows,Sulphur Dioxide,2025-10-28T03:00:00-06:00
-,Meadows,Nitrogen Dioxide,2025-10-28T03:00:00-06:00
-,Meadows,Total Oxides of Nitrogen,2025-10-28T03:00:00-06:00
-,Meadows,Wind Speed,2025-10-28T03:00:00-06:00
-,Meadows,Nitric Oxide,2025-10-28T03:00:00-06:00
-,Meadows,Relative Humidity,2025-10-28T03:00:00-06:00
-,Meadows,Wind Direction,2025-10-28T03:00:00-06:00
 ,Meadows,Outdoor Temperature,2025-10-28T03:00:00-06:00
-,Meadows,Sulphur Dioxide,2025-10-28T02:00:00-06:00
-,Meadows,Relative Humidity,2025-10-28T02:00:00-06:00
-,Meadows,Outdoor Temperature,2025-10-28T02:00:00-06:00
-,Meadows,Wind Speed,2025-10-28T02:00:00-06:00
-,Meadows,Wind Direction,2025-10-28T02:00:00-06:00
-,Meadows,Nitrogen Dioxide,2025-10-28T02:00:00-06:00
-,Meadows,Total Oxides of Nitrogen,2025-10-28T02:00:00-06:00
+,Meadows,Wind Direction,2025-10-28T03:00:00-06:00
+,Meadows,Sulphur Dioxide,2025-10-28T03:00:00-06:00
+,Meadows,Relative Humidity,2025-10-28T03:00:00-06:00
+,Meadows,Nitric Oxide,2025-10-28T03:00:00-06:00
+,Meadows,Wind Speed,2025-10-28T03:00:00-06:00
+,Meadows,Total Oxides of Nitrogen,2025-10-28T03:00:00-06:00
+,Meadows,Nitrogen Dioxide,2025-10-28T03:00:00-06:00
 ,Meadows,Nitric Oxide,2025-10-28T02:00:00-06:00
-,Meadows,Sulphur Dioxide,2025-10-28T01:00:00-06:00
-,Meadows,Relative Humidity,2025-10-28T01:00:00-06:00
-,Meadows,Outdoor Temperature,2025-10-28T01:00:00-06:00
-,Meadows,Total Oxides of Nitrogen,2025-10-28T01:00:00-06:00
-,Meadows,Wind Speed,2025-10-28T01:00:00-06:00
-,Meadows,Wind Direction,2025-10-28T01:00:00-06:00
+,Meadows,Total Oxides of Nitrogen,2025-10-28T02:00:00-06:00
+,Meadows,Nitrogen Dioxide,2025-10-28T02:00:00-06:00
+,Meadows,Wind Direction,2025-10-28T02:00:00-06:00
+,Meadows,Wind Speed,2025-10-28T02:00:00-06:00
+,Meadows,Outdoor Temperature,2025-10-28T02:00:00-06:00
+,Meadows,Relative Humidity,2025-10-28T02:00:00-06:00
+,Meadows,Sulphur Dioxide,2025-10-28T02:00:00-06:00
 ,Meadows,Nitric Oxide,2025-10-28T01:00:00-06:00
 ,Meadows,Nitrogen Dioxide,2025-10-28T01:00:00-06:00
+,Meadows,Sulphur Dioxide,2025-10-28T01:00:00-06:00
+,Meadows,Relative Humidity,2025-10-28T01:00:00-06:00
+,Meadows,Wind Direction,2025-10-28T01:00:00-06:00
+,Meadows,Wind Speed,2025-10-28T01:00:00-06:00
+,Meadows,Total Oxides of Nitrogen,2025-10-28T01:00:00-06:00
+,Meadows,Outdoor Temperature,2025-10-28T01:00:00-06:00
+0.001,Meadows,Nitrogen Dioxide,2025-10-28T00:00:00-06:00
 0.0,Meadows,Total Oxides of Nitrogen,2025-10-28T00:00:00-06:00
 0.0,Meadows,Nitric Oxide,2025-10-28T00:00:00-06:00
 0.0,Meadows,Sulphur Dioxide,2025-10-28T00:00:00-06:00
 2.9,Meadows,Outdoor Temperature,2025-10-28T00:00:00-06:00
 60.3,Meadows,Relative Humidity,2025-10-28T00:00:00-06:00
-0.001,Meadows,Nitrogen Dioxide,2025-10-28T00:00:00-06:00
 280.0,Meadows,Wind Direction,2025-10-28T00:00:00-06:00
 20.1,Meadows,Wind Speed,2025-10-28T00:00:00-06:00
 24.3,Meadows,Wind Speed,2025-10-27T23:00:00-06:00
@@ -823,22 +831,22 @@ Value,StationName,ParameterName,ReadingDate
 3.3,Meadows,Outdoor Temperature,2025-10-27T23:00:00-06:00
 58.3,Meadows,Relative Humidity,2025-10-27T23:00:00-06:00
 285.0,Meadows,Wind Direction,2025-10-27T23:00:00-06:00
-,Meadows,Sulphur Dioxide,2025-10-27T22:00:00-06:00
-292.0,Meadows,Wind Direction,2025-10-27T22:00:00-06:00
-56.6,Meadows,Relative Humidity,2025-10-27T22:00:00-06:00
-3.9,Meadows,Outdoor Temperature,2025-10-27T22:00:00-06:00
-0.0,Meadows,Nitric Oxide,2025-10-27T22:00:00-06:00
-0.0,Meadows,Nitrogen Dioxide,2025-10-27T22:00:00-06:00
-0.0,Meadows,Total Oxides of Nitrogen,2025-10-27T22:00:00-06:00
 26.0,Meadows,Wind Speed,2025-10-27T22:00:00-06:00
-0.0,Meadows,Total Oxides of Nitrogen,2025-10-27T21:00:00-06:00
-0.0,Meadows,Nitrogen Dioxide,2025-10-27T21:00:00-06:00
-,Meadows,Sulphur Dioxide,2025-10-27T21:00:00-06:00
-27.7,Meadows,Wind Speed,2025-10-27T21:00:00-06:00
-296.0,Meadows,Wind Direction,2025-10-27T21:00:00-06:00
-54.9,Meadows,Relative Humidity,2025-10-27T21:00:00-06:00
-4.3,Meadows,Outdoor Temperature,2025-10-27T21:00:00-06:00
+0.0,Meadows,Total Oxides of Nitrogen,2025-10-27T22:00:00-06:00
+0.0,Meadows,Nitrogen Dioxide,2025-10-27T22:00:00-06:00
+0.0,Meadows,Nitric Oxide,2025-10-27T22:00:00-06:00
+3.9,Meadows,Outdoor Temperature,2025-10-27T22:00:00-06:00
+56.6,Meadows,Relative Humidity,2025-10-27T22:00:00-06:00
+292.0,Meadows,Wind Direction,2025-10-27T22:00:00-06:00
+,Meadows,Sulphur Dioxide,2025-10-27T22:00:00-06:00
 0.0,Meadows,Nitric Oxide,2025-10-27T21:00:00-06:00
+4.3,Meadows,Outdoor Temperature,2025-10-27T21:00:00-06:00
+54.9,Meadows,Relative Humidity,2025-10-27T21:00:00-06:00
+296.0,Meadows,Wind Direction,2025-10-27T21:00:00-06:00
+27.7,Meadows,Wind Speed,2025-10-27T21:00:00-06:00
+,Meadows,Sulphur Dioxide,2025-10-27T21:00:00-06:00
+0.0,Meadows,Nitrogen Dioxide,2025-10-27T21:00:00-06:00
+0.0,Meadows,Total Oxides of Nitrogen,2025-10-27T21:00:00-06:00
 ,Meadows,Sulphur Dioxide,2025-10-27T20:00:00-06:00
 301.0,Meadows,Wind Direction,2025-10-27T20:00:00-06:00
 56.7,Meadows,Relative Humidity,2025-10-27T20:00:00-06:00
@@ -847,14 +855,14 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Meadows,Nitrogen Dioxide,2025-10-27T20:00:00-06:00
 0.0,Meadows,Total Oxides of Nitrogen,2025-10-27T20:00:00-06:00
 31.5,Meadows,Wind Speed,2025-10-27T20:00:00-06:00
-290.0,Meadows,Wind Direction,2025-10-27T19:00:00-06:00
-55.1,Meadows,Relative Humidity,2025-10-27T19:00:00-06:00
-4.4,Meadows,Outdoor Temperature,2025-10-27T19:00:00-06:00
-0.0,Meadows,Sulphur Dioxide,2025-10-27T19:00:00-06:00
 0.0,Meadows,Nitric Oxide,2025-10-27T19:00:00-06:00
 0.0,Meadows,Nitrogen Dioxide,2025-10-27T19:00:00-06:00
 0.0,Meadows,Total Oxides of Nitrogen,2025-10-27T19:00:00-06:00
 30.3,Meadows,Wind Speed,2025-10-27T19:00:00-06:00
+0.0,Meadows,Sulphur Dioxide,2025-10-27T19:00:00-06:00
+4.4,Meadows,Outdoor Temperature,2025-10-27T19:00:00-06:00
+55.1,Meadows,Relative Humidity,2025-10-27T19:00:00-06:00
+290.0,Meadows,Wind Direction,2025-10-27T19:00:00-06:00
 33.3,Meadows,Wind Speed,2025-10-27T18:00:00-06:00
 0.0,Meadows,Total Oxides of Nitrogen,2025-10-27T18:00:00-06:00
 0.0,Meadows,Nitrogen Dioxide,2025-10-27T18:00:00-06:00
@@ -1247,14 +1255,14 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Meadows,Nitric Oxide,2025-10-25T18:00:00-06:00
 0.0,Meadows,Sulphur Dioxide,2025-10-25T18:00:00-06:00
 8.3,Meadows,Outdoor Temperature,2025-10-25T18:00:00-06:00
-9.7,Meadows,Outdoor Temperature,2025-10-25T17:00:00-06:00
-0.0,Meadows,Total Oxides of Nitrogen,2025-10-25T17:00:00-06:00
-0.0,Meadows,Sulphur Dioxide,2025-10-25T17:00:00-06:00
-0.0,Meadows,Nitric Oxide,2025-10-25T17:00:00-06:00
-0.001,Meadows,Nitrogen Dioxide,2025-10-25T17:00:00-06:00
-2.8,Meadows,Wind Speed,2025-10-25T17:00:00-06:00
-43.6,Meadows,Relative Humidity,2025-10-25T17:00:00-06:00
 49.0,Meadows,Wind Direction,2025-10-25T17:00:00-06:00
+43.6,Meadows,Relative Humidity,2025-10-25T17:00:00-06:00
+2.8,Meadows,Wind Speed,2025-10-25T17:00:00-06:00
+0.001,Meadows,Nitrogen Dioxide,2025-10-25T17:00:00-06:00
+0.0,Meadows,Nitric Oxide,2025-10-25T17:00:00-06:00
+0.0,Meadows,Sulphur Dioxide,2025-10-25T17:00:00-06:00
+0.0,Meadows,Total Oxides of Nitrogen,2025-10-25T17:00:00-06:00
+9.7,Meadows,Outdoor Temperature,2025-10-25T17:00:00-06:00
 0.0,Meadows,Sulphur Dioxide,2025-10-25T16:00:00-06:00
 0.0,Meadows,Total Oxides of Nitrogen,2025-10-25T16:00:00-06:00
 0.0,Meadows,Nitrogen Dioxide,2025-10-25T16:00:00-06:00
@@ -1263,14 +1271,14 @@ Value,StationName,ParameterName,ReadingDate
 37.5,Meadows,Relative Humidity,2025-10-25T16:00:00-06:00
 296.0,Meadows,Wind Direction,2025-10-25T16:00:00-06:00
 0.0,Meadows,Nitric Oxide,2025-10-25T16:00:00-06:00
-306.0,Meadows,Wind Direction,2025-10-25T15:00:00-06:00
-,Meadows,Sulphur Dioxide,2025-10-25T15:00:00-06:00
-40.8,Meadows,Relative Humidity,2025-10-25T15:00:00-06:00
-14.5,Meadows,Wind Speed,2025-10-25T15:00:00-06:00
-0.0,Meadows,Nitric Oxide,2025-10-25T15:00:00-06:00
-0.0,Meadows,Total Oxides of Nitrogen,2025-10-25T15:00:00-06:00
-0.0,Meadows,Nitrogen Dioxide,2025-10-25T15:00:00-06:00
 10.8,Meadows,Outdoor Temperature,2025-10-25T15:00:00-06:00
+0.0,Meadows,Nitrogen Dioxide,2025-10-25T15:00:00-06:00
+0.0,Meadows,Total Oxides of Nitrogen,2025-10-25T15:00:00-06:00
+0.0,Meadows,Nitric Oxide,2025-10-25T15:00:00-06:00
+14.5,Meadows,Wind Speed,2025-10-25T15:00:00-06:00
+40.8,Meadows,Relative Humidity,2025-10-25T15:00:00-06:00
+,Meadows,Sulphur Dioxide,2025-10-25T15:00:00-06:00
+306.0,Meadows,Wind Direction,2025-10-25T15:00:00-06:00
 9.7,Meadows,Outdoor Temperature,2025-10-25T14:00:00-06:00
 0.0,Meadows,Nitrogen Dioxide,2025-10-25T14:00:00-06:00
 0.0,Meadows,Total Oxides of Nitrogen,2025-10-25T14:00:00-06:00
@@ -1287,11 +1295,3 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Meadows,Nitric Oxide,2025-10-25T13:00:00-06:00
 0.001,Meadows,Nitrogen Dioxide,2025-10-25T13:00:00-06:00
 8.5,Meadows,Outdoor Temperature,2025-10-25T13:00:00-06:00
-273.0,Meadows,Wind Direction,2025-10-25T12:00:00-06:00
-26.1,Meadows,Wind Speed,2025-10-25T12:00:00-06:00
-69.9,Meadows,Relative Humidity,2025-10-25T12:00:00-06:00
-0.001,Meadows,Nitrogen Dioxide,2025-10-25T12:00:00-06:00
-0.001,Meadows,Total Oxides of Nitrogen,2025-10-25T12:00:00-06:00
-0.0,Meadows,Nitric Oxide,2025-10-25T12:00:00-06:00
-0.0,Meadows,Sulphur Dioxide,2025-10-25T12:00:00-06:00
-8.2,Meadows,Outdoor Temperature,2025-10-25T12:00:00-06:00
