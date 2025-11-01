@@ -1,4 +1,15 @@
 Value,StationName,ParameterName,ReadingDate
+2.0,Edson,,2025-11-01T17:00:00-06:00
+0.0,Edson,Nitric Oxide,2025-11-01T17:00:00-06:00
+0.0,Edson,Sulphur Dioxide,2025-11-01T17:00:00-06:00
+0.017,Edson,Ozone,2025-11-01T17:00:00-06:00
+5.2,Edson,Outdoor Temperature,2025-11-01T17:00:00-06:00
+3.2,Edson,Fine Particulate Matter,2025-11-01T17:00:00-06:00
+0.008,Edson,Nitrogen Dioxide,2025-11-01T17:00:00-06:00
+80.0,Edson,Relative Humidity,2025-11-01T17:00:00-06:00
+288.0,Edson,Wind Direction,2025-11-01T17:00:00-06:00
+5.4,Edson,Wind Speed,2025-11-01T17:00:00-06:00
+0.007,Edson,Total Oxides of Nitrogen,2025-11-01T17:00:00-06:00
 2.0,Edson,,2025-11-01T16:00:00-06:00
 0.013,Edson,Ozone,2025-11-01T16:00:00-06:00
 5.7,Edson,Outdoor Temperature,2025-11-01T16:00:00-06:00
@@ -21,12 +32,12 @@ Value,StationName,ParameterName,ReadingDate
 5.7,Edson,Outdoor Temperature,2025-11-01T15:00:00-06:00
 0.01,Edson,Nitrogen Dioxide,2025-11-01T15:00:00-06:00
 68.9,Edson,Relative Humidity,2025-11-01T15:00:00-06:00
-0.019,Edson,Nitrogen Dioxide,2025-11-01T14:00:00-06:00
-2.3,Edson,Wind Speed,2025-11-01T14:00:00-06:00
-0.001,Edson,Sulphur Dioxide,2025-11-01T14:00:00-06:00
-5.4,Edson,Outdoor Temperature,2025-11-01T14:00:00-06:00
-62.0,Edson,Wind Direction,2025-11-01T14:00:00-06:00
 70.6,Edson,Relative Humidity,2025-11-01T14:00:00-06:00
+62.0,Edson,Wind Direction,2025-11-01T14:00:00-06:00
+5.4,Edson,Outdoor Temperature,2025-11-01T14:00:00-06:00
+0.001,Edson,Sulphur Dioxide,2025-11-01T14:00:00-06:00
+2.3,Edson,Wind Speed,2025-11-01T14:00:00-06:00
+0.019,Edson,Nitrogen Dioxide,2025-11-01T14:00:00-06:00
 5.1,Edson,Fine Particulate Matter,2025-11-01T14:00:00-06:00
 0.019,Edson,Nitric Oxide,2025-11-01T14:00:00-06:00
 0.037,Edson,Total Oxides of Nitrogen,2025-11-01T14:00:00-06:00
@@ -164,39 +175,39 @@ Value,StationName,ParameterName,ReadingDate
 78.2,Edson,Relative Humidity,2025-11-01T02:00:00-06:00
 0.02,Edson,Total Oxides of Nitrogen,2025-11-01T02:00:00-06:00
 5.2,Edson,Fine Particulate Matter,2025-11-01T02:00:00-06:00
-2.0,Edson,,2025-11-01T01:00:00-06:00
-3.7,Edson,Fine Particulate Matter,2025-11-01T01:00:00-06:00
--1.2,Edson,Outdoor Temperature,2025-11-01T01:00:00-06:00
-0.0,Edson,Nitric Oxide,2025-11-01T01:00:00-06:00
-252.0,Edson,Wind Direction,2025-11-01T01:00:00-06:00
-0.013,Edson,Total Oxides of Nitrogen,2025-11-01T01:00:00-06:00
-0.0,Edson,Sulphur Dioxide,2025-11-01T01:00:00-06:00
-0.005,Edson,Ozone,2025-11-01T01:00:00-06:00
-6.8,Edson,Wind Speed,2025-11-01T01:00:00-06:00
-79.0,Edson,Relative Humidity,2025-11-01T01:00:00-06:00
 0.013,Edson,Nitrogen Dioxide,2025-11-01T01:00:00-06:00
-0.014,Edson,Nitrogen Dioxide,2025-11-01T00:00:00-06:00
-0.014,Edson,Total Oxides of Nitrogen,2025-11-01T00:00:00-06:00
-0.0,Edson,Nitric Oxide,2025-11-01T00:00:00-06:00
-5.4,Edson,Fine Particulate Matter,2025-11-01T00:00:00-06:00
--1.2,Edson,Outdoor Temperature,2025-11-01T00:00:00-06:00
-2.0,Edson,,2025-11-01T00:00:00-06:00
+79.0,Edson,Relative Humidity,2025-11-01T01:00:00-06:00
+6.8,Edson,Wind Speed,2025-11-01T01:00:00-06:00
+0.005,Edson,Ozone,2025-11-01T01:00:00-06:00
+0.0,Edson,Sulphur Dioxide,2025-11-01T01:00:00-06:00
+0.013,Edson,Total Oxides of Nitrogen,2025-11-01T01:00:00-06:00
+252.0,Edson,Wind Direction,2025-11-01T01:00:00-06:00
+0.0,Edson,Nitric Oxide,2025-11-01T01:00:00-06:00
+-1.2,Edson,Outdoor Temperature,2025-11-01T01:00:00-06:00
+3.7,Edson,Fine Particulate Matter,2025-11-01T01:00:00-06:00
+2.0,Edson,,2025-11-01T01:00:00-06:00
 7.9,Edson,Wind Speed,2025-11-01T00:00:00-06:00
 252.0,Edson,Wind Direction,2025-11-01T00:00:00-06:00
 0.005,Edson,Ozone,2025-11-01T00:00:00-06:00
 0.0,Edson,Sulphur Dioxide,2025-11-01T00:00:00-06:00
 78.3,Edson,Relative Humidity,2025-11-01T00:00:00-06:00
-7.2,Edson,Fine Particulate Matter,2025-10-31T23:00:00-06:00
-9.4,Edson,Wind Speed,2025-10-31T23:00:00-06:00
-2.0,Edson,,2025-10-31T23:00:00-06:00
-0.001,Edson,Nitric Oxide,2025-10-31T23:00:00-06:00
-252.0,Edson,Wind Direction,2025-10-31T23:00:00-06:00
-0.0,Edson,Sulphur Dioxide,2025-10-31T23:00:00-06:00
-0.017,Edson,Nitrogen Dioxide,2025-10-31T23:00:00-06:00
-0.001,Edson,Ozone,2025-10-31T23:00:00-06:00
-0.018,Edson,Total Oxides of Nitrogen,2025-10-31T23:00:00-06:00
-77.4,Edson,Relative Humidity,2025-10-31T23:00:00-06:00
+2.0,Edson,,2025-11-01T00:00:00-06:00
+-1.2,Edson,Outdoor Temperature,2025-11-01T00:00:00-06:00
+5.4,Edson,Fine Particulate Matter,2025-11-01T00:00:00-06:00
+0.0,Edson,Nitric Oxide,2025-11-01T00:00:00-06:00
+0.014,Edson,Total Oxides of Nitrogen,2025-11-01T00:00:00-06:00
+0.014,Edson,Nitrogen Dioxide,2025-11-01T00:00:00-06:00
 -1.0,Edson,Outdoor Temperature,2025-10-31T23:00:00-06:00
+77.4,Edson,Relative Humidity,2025-10-31T23:00:00-06:00
+0.018,Edson,Total Oxides of Nitrogen,2025-10-31T23:00:00-06:00
+0.001,Edson,Ozone,2025-10-31T23:00:00-06:00
+0.017,Edson,Nitrogen Dioxide,2025-10-31T23:00:00-06:00
+0.0,Edson,Sulphur Dioxide,2025-10-31T23:00:00-06:00
+252.0,Edson,Wind Direction,2025-10-31T23:00:00-06:00
+0.001,Edson,Nitric Oxide,2025-10-31T23:00:00-06:00
+2.0,Edson,,2025-10-31T23:00:00-06:00
+9.4,Edson,Wind Speed,2025-10-31T23:00:00-06:00
+7.2,Edson,Fine Particulate Matter,2025-10-31T23:00:00-06:00
 2.0,Edson,,2025-10-31T22:00:00-06:00
 0.0,Edson,Sulphur Dioxide,2025-10-31T22:00:00-06:00
 72.7,Edson,Relative Humidity,2025-10-31T22:00:00-06:00
@@ -242,49 +253,49 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Edson,Sulphur Dioxide,2025-10-31T19:00:00-06:00
 0.004,Edson,Total Oxides of Nitrogen,2025-10-31T19:00:00-06:00
 1.0,Edson,,2025-10-31T18:00:00-06:00
-0.006,Edson,Nitrogen Dioxide,2025-10-31T18:00:00-06:00
-0.0,Edson,Nitric Oxide,2025-10-31T18:00:00-06:00
-3.3,Edson,Wind Speed,2025-10-31T18:00:00-06:00
-1.5,Edson,Outdoor Temperature,2025-10-31T18:00:00-06:00
-0.013,Edson,Ozone,2025-10-31T18:00:00-06:00
-2.7,Edson,Fine Particulate Matter,2025-10-31T18:00:00-06:00
-0.0,Edson,Sulphur Dioxide,2025-10-31T18:00:00-06:00
-32.0,Edson,Wind Direction,2025-10-31T18:00:00-06:00
-0.005,Edson,Total Oxides of Nitrogen,2025-10-31T18:00:00-06:00
 69.0,Edson,Relative Humidity,2025-10-31T18:00:00-06:00
-2.3,Edson,Fine Particulate Matter,2025-10-31T17:00:00-06:00
-0.0,Edson,Sulphur Dioxide,2025-10-31T17:00:00-06:00
-41.0,Edson,Wind Direction,2025-10-31T17:00:00-06:00
-0.005,Edson,Nitrogen Dioxide,2025-10-31T17:00:00-06:00
-66.9,Edson,Relative Humidity,2025-10-31T17:00:00-06:00
+0.005,Edson,Total Oxides of Nitrogen,2025-10-31T18:00:00-06:00
+32.0,Edson,Wind Direction,2025-10-31T18:00:00-06:00
+0.0,Edson,Sulphur Dioxide,2025-10-31T18:00:00-06:00
+2.7,Edson,Fine Particulate Matter,2025-10-31T18:00:00-06:00
+0.013,Edson,Ozone,2025-10-31T18:00:00-06:00
+1.5,Edson,Outdoor Temperature,2025-10-31T18:00:00-06:00
+3.3,Edson,Wind Speed,2025-10-31T18:00:00-06:00
+0.0,Edson,Nitric Oxide,2025-10-31T18:00:00-06:00
+0.006,Edson,Nitrogen Dioxide,2025-10-31T18:00:00-06:00
 0.0,Edson,Nitric Oxide,2025-10-31T17:00:00-06:00
 0.015,Edson,Ozone,2025-10-31T17:00:00-06:00
 4.1,Edson,Wind Speed,2025-10-31T17:00:00-06:00
 0.004,Edson,Total Oxides of Nitrogen,2025-10-31T17:00:00-06:00
 1.8,Edson,Outdoor Temperature,2025-10-31T17:00:00-06:00
 1.0,Edson,,2025-10-31T17:00:00-06:00
-0.005,Edson,Nitrogen Dioxide,2025-10-31T16:00:00-06:00
-3.9,Edson,Wind Speed,2025-10-31T16:00:00-06:00
-0.0,Edson,Sulphur Dioxide,2025-10-31T16:00:00-06:00
-11.0,Edson,Wind Direction,2025-10-31T16:00:00-06:00
-1.5,Edson,Outdoor Temperature,2025-10-31T16:00:00-06:00
+66.9,Edson,Relative Humidity,2025-10-31T17:00:00-06:00
+0.005,Edson,Nitrogen Dioxide,2025-10-31T17:00:00-06:00
+41.0,Edson,Wind Direction,2025-10-31T17:00:00-06:00
+0.0,Edson,Sulphur Dioxide,2025-10-31T17:00:00-06:00
+2.3,Edson,Fine Particulate Matter,2025-10-31T17:00:00-06:00
 1.0,Edson,,2025-10-31T16:00:00-06:00
 2.8,Edson,Fine Particulate Matter,2025-10-31T16:00:00-06:00
 0.005,Edson,Total Oxides of Nitrogen,2025-10-31T16:00:00-06:00
 0.0,Edson,Nitric Oxide,2025-10-31T16:00:00-06:00
 68.1,Edson,Relative Humidity,2025-10-31T16:00:00-06:00
 0.015,Edson,Ozone,2025-10-31T16:00:00-06:00
-1.0,Edson,,2025-10-31T15:00:00-06:00
-0.015,Edson,Ozone,2025-10-31T15:00:00-06:00
-1.2,Edson,Outdoor Temperature,2025-10-31T15:00:00-06:00
-17.0,Edson,Wind Direction,2025-10-31T15:00:00-06:00
-2.7,Edson,Wind Speed,2025-10-31T15:00:00-06:00
-0.005,Edson,Nitrogen Dioxide,2025-10-31T15:00:00-06:00
-0.0,Edson,Nitric Oxide,2025-10-31T15:00:00-06:00
-2.4,Edson,Fine Particulate Matter,2025-10-31T15:00:00-06:00
-0.0,Edson,Sulphur Dioxide,2025-10-31T15:00:00-06:00
-0.005,Edson,Total Oxides of Nitrogen,2025-10-31T15:00:00-06:00
+1.5,Edson,Outdoor Temperature,2025-10-31T16:00:00-06:00
+11.0,Edson,Wind Direction,2025-10-31T16:00:00-06:00
+0.0,Edson,Sulphur Dioxide,2025-10-31T16:00:00-06:00
+3.9,Edson,Wind Speed,2025-10-31T16:00:00-06:00
+0.005,Edson,Nitrogen Dioxide,2025-10-31T16:00:00-06:00
 70.7,Edson,Relative Humidity,2025-10-31T15:00:00-06:00
+0.005,Edson,Total Oxides of Nitrogen,2025-10-31T15:00:00-06:00
+0.0,Edson,Sulphur Dioxide,2025-10-31T15:00:00-06:00
+2.4,Edson,Fine Particulate Matter,2025-10-31T15:00:00-06:00
+0.0,Edson,Nitric Oxide,2025-10-31T15:00:00-06:00
+0.005,Edson,Nitrogen Dioxide,2025-10-31T15:00:00-06:00
+2.7,Edson,Wind Speed,2025-10-31T15:00:00-06:00
+17.0,Edson,Wind Direction,2025-10-31T15:00:00-06:00
+1.2,Edson,Outdoor Temperature,2025-10-31T15:00:00-06:00
+0.015,Edson,Ozone,2025-10-31T15:00:00-06:00
+1.0,Edson,,2025-10-31T15:00:00-06:00
 1.0,Edson,,2025-10-31T14:00:00-06:00
 5.0,Edson,Wind Speed,2025-10-31T14:00:00-06:00
 34.0,Edson,Wind Direction,2025-10-31T14:00:00-06:00
@@ -780,11 +791,11 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Edson,Total Oxides of Nitrogen,2025-10-29T18:00:00-06:00
 0.0,Edson,Nitric Oxide,2025-10-29T18:00:00-06:00
 ,Edson,Sulphur Dioxide,2025-10-29T18:00:00-06:00
+0.033,Edson,Ozone,2025-10-29T17:00:00-06:00
+0.6,Edson,Fine Particulate Matter,2025-10-29T17:00:00-06:00
+9.8,Edson,Outdoor Temperature,2025-10-29T17:00:00-06:00
 39.1,Edson,Relative Humidity,2025-10-29T17:00:00-06:00
 2.0,Edson,,2025-10-29T17:00:00-06:00
-9.8,Edson,Outdoor Temperature,2025-10-29T17:00:00-06:00
-0.6,Edson,Fine Particulate Matter,2025-10-29T17:00:00-06:00
-0.033,Edson,Ozone,2025-10-29T17:00:00-06:00
 301.0,Edson,Wind Direction,2025-10-29T17:00:00-06:00
 10.5,Edson,Wind Speed,2025-10-29T17:00:00-06:00
 0.001,Edson,Nitrogen Dioxide,2025-10-29T17:00:00-06:00
@@ -835,31 +846,31 @@ Value,StationName,ParameterName,ReadingDate
 10.6,Edson,Outdoor Temperature,2025-10-29T13:00:00-06:00
 32.6,Edson,Relative Humidity,2025-10-29T13:00:00-06:00
 2.0,Edson,,2025-10-29T13:00:00-06:00
-2.0,Edson,,2025-10-29T12:00:00-06:00
-38.9,Edson,Relative Humidity,2025-10-29T12:00:00-06:00
-9.0,Edson,Outdoor Temperature,2025-10-29T12:00:00-06:00
-1.3,Edson,Fine Particulate Matter,2025-10-29T12:00:00-06:00
-0.031,Edson,Ozone,2025-10-29T12:00:00-06:00
-279.0,Edson,Wind Direction,2025-10-29T12:00:00-06:00
-12.3,Edson,Wind Speed,2025-10-29T12:00:00-06:00
-0.001,Edson,Nitrogen Dioxide,2025-10-29T12:00:00-06:00
-0.0,Edson,Total Oxides of Nitrogen,2025-10-29T12:00:00-06:00
-0.0,Edson,Sulphur Dioxide,2025-10-29T12:00:00-06:00
 0.0,Edson,Nitric Oxide,2025-10-29T12:00:00-06:00
+0.0,Edson,Sulphur Dioxide,2025-10-29T12:00:00-06:00
+0.0,Edson,Total Oxides of Nitrogen,2025-10-29T12:00:00-06:00
+0.001,Edson,Nitrogen Dioxide,2025-10-29T12:00:00-06:00
+12.3,Edson,Wind Speed,2025-10-29T12:00:00-06:00
+279.0,Edson,Wind Direction,2025-10-29T12:00:00-06:00
+0.031,Edson,Ozone,2025-10-29T12:00:00-06:00
+1.3,Edson,Fine Particulate Matter,2025-10-29T12:00:00-06:00
+9.0,Edson,Outdoor Temperature,2025-10-29T12:00:00-06:00
+38.9,Edson,Relative Humidity,2025-10-29T12:00:00-06:00
+2.0,Edson,,2025-10-29T12:00:00-06:00
+0.002,Edson,Nitrogen Dioxide,2025-10-29T11:00:00-06:00
+2.0,Edson,,2025-10-29T11:00:00-06:00
 1.4,Edson,Fine Particulate Matter,2025-10-29T11:00:00-06:00
 6.4,Edson,Outdoor Temperature,2025-10-29T11:00:00-06:00
-47.5,Edson,Relative Humidity,2025-10-29T11:00:00-06:00
-2.0,Edson,,2025-10-29T11:00:00-06:00
-0.002,Edson,Nitrogen Dioxide,2025-10-29T11:00:00-06:00
-0.029,Edson,Ozone,2025-10-29T11:00:00-06:00
-276.0,Edson,Wind Direction,2025-10-29T11:00:00-06:00
-11.3,Edson,Wind Speed,2025-10-29T11:00:00-06:00
-0.001,Edson,Total Oxides of Nitrogen,2025-10-29T11:00:00-06:00
-0.0,Edson,Sulphur Dioxide,2025-10-29T11:00:00-06:00
 0.0,Edson,Nitric Oxide,2025-10-29T11:00:00-06:00
-0.0,Edson,Sulphur Dioxide,2025-10-29T10:00:00-06:00
-2.6,Edson,Wind Speed,2025-10-29T10:00:00-06:00
+0.0,Edson,Sulphur Dioxide,2025-10-29T11:00:00-06:00
+0.001,Edson,Total Oxides of Nitrogen,2025-10-29T11:00:00-06:00
+11.3,Edson,Wind Speed,2025-10-29T11:00:00-06:00
+276.0,Edson,Wind Direction,2025-10-29T11:00:00-06:00
+0.029,Edson,Ozone,2025-10-29T11:00:00-06:00
+47.5,Edson,Relative Humidity,2025-10-29T11:00:00-06:00
 241.0,Edson,Wind Direction,2025-10-29T10:00:00-06:00
+2.6,Edson,Wind Speed,2025-10-29T10:00:00-06:00
+0.0,Edson,Sulphur Dioxide,2025-10-29T10:00:00-06:00
 0.004,Edson,Ozone,2025-10-29T10:00:00-06:00
 8.6,Edson,Fine Particulate Matter,2025-10-29T10:00:00-06:00
 -1.1,Edson,Outdoor Temperature,2025-10-29T10:00:00-06:00
@@ -879,6 +890,10 @@ Value,StationName,ParameterName,ReadingDate
 3.8,Edson,Wind Speed,2025-10-29T09:00:00-06:00
 0.001,Edson,Ozone,2025-10-29T09:00:00-06:00
 0.0,Edson,Sulphur Dioxide,2025-10-29T09:00:00-06:00
+2.0,Edson,,2025-10-29T08:00:00-06:00
+0.018,Edson,Nitrogen Dioxide,2025-10-29T08:00:00-06:00
+0.019,Edson,Total Oxides of Nitrogen,2025-10-29T08:00:00-06:00
+57.1,Edson,Relative Humidity,2025-10-29T08:00:00-06:00
 -0.9,Edson,Outdoor Temperature,2025-10-29T08:00:00-06:00
 3.8,Edson,Fine Particulate Matter,2025-10-29T08:00:00-06:00
 0.006,Edson,Ozone,2025-10-29T08:00:00-06:00
@@ -886,10 +901,6 @@ Value,StationName,ParameterName,ReadingDate
 5.3,Edson,Wind Speed,2025-10-29T08:00:00-06:00
 0.001,Edson,Nitric Oxide,2025-10-29T08:00:00-06:00
 0.0,Edson,Sulphur Dioxide,2025-10-29T08:00:00-06:00
-57.1,Edson,Relative Humidity,2025-10-29T08:00:00-06:00
-0.019,Edson,Total Oxides of Nitrogen,2025-10-29T08:00:00-06:00
-0.018,Edson,Nitrogen Dioxide,2025-10-29T08:00:00-06:00
-2.0,Edson,,2025-10-29T08:00:00-06:00
 2.0,Edson,,2025-10-29T07:00:00-06:00
 0.016,Edson,Nitrogen Dioxide,2025-10-29T07:00:00-06:00
 0.018,Edson,Total Oxides of Nitrogen,2025-10-29T07:00:00-06:00
@@ -905,16 +916,15 @@ Value,StationName,ParameterName,ReadingDate
 0.011,Edson,Nitrogen Dioxide,2025-10-29T06:00:00-06:00
 0.01,Edson,Total Oxides of Nitrogen,2025-10-29T06:00:00-06:00
 58.2,Edson,Relative Humidity,2025-10-29T06:00:00-06:00
--1.3,Edson,Outdoor Temperature,2025-10-29T06:00:00-06:00
-3.2,Edson,Fine Particulate Matter,2025-10-29T06:00:00-06:00
-0.011,Edson,Ozone,2025-10-29T06:00:00-06:00
-253.0,Edson,Wind Direction,2025-10-29T06:00:00-06:00
-4.9,Edson,Wind Speed,2025-10-29T06:00:00-06:00
-0.0,Edson,Sulphur Dioxide,2025-10-29T06:00:00-06:00
 0.0,Edson,Nitric Oxide,2025-10-29T06:00:00-06:00
-,Edson,Sulphur Dioxide,2025-10-29T05:00:00-06:00
-4.0,Edson,Wind Speed,2025-10-29T05:00:00-06:00
+0.0,Edson,Sulphur Dioxide,2025-10-29T06:00:00-06:00
+4.9,Edson,Wind Speed,2025-10-29T06:00:00-06:00
+253.0,Edson,Wind Direction,2025-10-29T06:00:00-06:00
+0.011,Edson,Ozone,2025-10-29T06:00:00-06:00
+3.2,Edson,Fine Particulate Matter,2025-10-29T06:00:00-06:00
+-1.3,Edson,Outdoor Temperature,2025-10-29T06:00:00-06:00
 266.0,Edson,Wind Direction,2025-10-29T05:00:00-06:00
+4.0,Edson,Wind Speed,2025-10-29T05:00:00-06:00
 2.5,Edson,Fine Particulate Matter,2025-10-29T05:00:00-06:00
 -0.7,Edson,Outdoor Temperature,2025-10-29T05:00:00-06:00
 53.8,Edson,Relative Humidity,2025-10-29T05:00:00-06:00
@@ -923,6 +933,7 @@ Value,StationName,ParameterName,ReadingDate
 ,Edson,Ozone,2025-10-29T05:00:00-06:00
 ,Edson,Nitric Oxide,2025-10-29T05:00:00-06:00
 1.0,Edson,,2025-10-29T05:00:00-06:00
+,Edson,Sulphur Dioxide,2025-10-29T05:00:00-06:00
 2.0,Edson,,2025-10-29T04:00:00-06:00
 0.002,Edson,Nitrogen Dioxide,2025-10-29T04:00:00-06:00
 50.8,Edson,Relative Humidity,2025-10-29T04:00:00-06:00
@@ -950,12 +961,12 @@ Value,StationName,ParameterName,ReadingDate
 0.002,Edson,Total Oxides of Nitrogen,2025-10-29T02:00:00-06:00
 49.2,Edson,Relative Humidity,2025-10-29T02:00:00-06:00
 0.2,Edson,Outdoor Temperature,2025-10-29T02:00:00-06:00
-0.0,Edson,Nitric Oxide,2025-10-29T02:00:00-06:00
-0.0,Edson,Sulphur Dioxide,2025-10-29T02:00:00-06:00
-14.8,Edson,Wind Speed,2025-10-29T02:00:00-06:00
-25.0,Edson,Wind Direction,2025-10-29T02:00:00-06:00
-0.022,Edson,Ozone,2025-10-29T02:00:00-06:00
 2.1,Edson,Fine Particulate Matter,2025-10-29T02:00:00-06:00
+0.022,Edson,Ozone,2025-10-29T02:00:00-06:00
+25.0,Edson,Wind Direction,2025-10-29T02:00:00-06:00
+14.8,Edson,Wind Speed,2025-10-29T02:00:00-06:00
+0.0,Edson,Sulphur Dioxide,2025-10-29T02:00:00-06:00
+0.0,Edson,Nitric Oxide,2025-10-29T02:00:00-06:00
 0.005,Edson,Total Oxides of Nitrogen,2025-10-29T01:00:00-06:00
 0.005,Edson,Nitrogen Dioxide,2025-10-29T01:00:00-06:00
 47.8,Edson,Relative Humidity,2025-10-29T01:00:00-06:00
@@ -1445,11 +1456,11 @@ Value,StationName,ParameterName,ReadingDate
 9.1,Edson,Wind Speed,2025-10-27T05:00:00-06:00
 92.6,Edson,Relative Humidity,2025-10-27T05:00:00-06:00
 0.7,Edson,Outdoor Temperature,2025-10-27T05:00:00-06:00
-1.3,Edson,Fine Particulate Matter,2025-10-27T05:00:00-06:00
-,Edson,Total Oxides of Nitrogen,2025-10-27T05:00:00-06:00
-,Edson,Nitric Oxide,2025-10-27T05:00:00-06:00
-,Edson,Nitrogen Dioxide,2025-10-27T05:00:00-06:00
 ,Edson,Ozone,2025-10-27T05:00:00-06:00
+,Edson,Nitrogen Dioxide,2025-10-27T05:00:00-06:00
+,Edson,Nitric Oxide,2025-10-27T05:00:00-06:00
+,Edson,Total Oxides of Nitrogen,2025-10-27T05:00:00-06:00
+1.3,Edson,Fine Particulate Matter,2025-10-27T05:00:00-06:00
 ,Edson,Sulphur Dioxide,2025-10-27T05:00:00-06:00
 1.0,Edson,,2025-10-27T04:00:00-06:00
 284.0,Edson,Wind Direction,2025-10-27T04:00:00-06:00
@@ -1462,12 +1473,12 @@ Value,StationName,ParameterName,ReadingDate
 0.7,Edson,Outdoor Temperature,2025-10-27T04:00:00-06:00
 0.019,Edson,Ozone,2025-10-27T04:00:00-06:00
 1.3,Edson,Fine Particulate Matter,2025-10-27T04:00:00-06:00
-0.002,Edson,Nitrogen Dioxide,2025-10-27T03:00:00-06:00
-9.2,Edson,Wind Speed,2025-10-27T03:00:00-06:00
-0.0,Edson,Nitric Oxide,2025-10-27T03:00:00-06:00
-0.0,Edson,Sulphur Dioxide,2025-10-27T03:00:00-06:00
-285.0,Edson,Wind Direction,2025-10-27T03:00:00-06:00
 1.0,Edson,,2025-10-27T03:00:00-06:00
+285.0,Edson,Wind Direction,2025-10-27T03:00:00-06:00
+0.0,Edson,Sulphur Dioxide,2025-10-27T03:00:00-06:00
+0.0,Edson,Nitric Oxide,2025-10-27T03:00:00-06:00
+9.2,Edson,Wind Speed,2025-10-27T03:00:00-06:00
+0.002,Edson,Nitrogen Dioxide,2025-10-27T03:00:00-06:00
 0.001,Edson,Total Oxides of Nitrogen,2025-10-27T03:00:00-06:00
 95.8,Edson,Relative Humidity,2025-10-27T03:00:00-06:00
 0.7,Edson,Outdoor Temperature,2025-10-27T03:00:00-06:00
@@ -1480,43 +1491,43 @@ Value,StationName,ParameterName,ReadingDate
 4.6,Edson,Wind Speed,2025-10-27T02:00:00-06:00
 0.018,Edson,Ozone,2025-10-27T02:00:00-06:00
 0.002,Edson,Nitrogen Dioxide,2025-10-27T02:00:00-06:00
-2.8,Edson,Fine Particulate Matter,2025-10-27T02:00:00-06:00
-0.3,Edson,Outdoor Temperature,2025-10-27T02:00:00-06:00
-99.1,Edson,Relative Humidity,2025-10-27T02:00:00-06:00
 0.001,Edson,Total Oxides of Nitrogen,2025-10-27T02:00:00-06:00
+99.1,Edson,Relative Humidity,2025-10-27T02:00:00-06:00
+0.3,Edson,Outdoor Temperature,2025-10-27T02:00:00-06:00
+2.8,Edson,Fine Particulate Matter,2025-10-27T02:00:00-06:00
 1.0,Edson,,2025-10-27T01:00:00-06:00
-0.0,Edson,Nitric Oxide,2025-10-27T01:00:00-06:00
-266.0,Edson,Wind Direction,2025-10-27T01:00:00-06:00
-0.0,Edson,Sulphur Dioxide,2025-10-27T01:00:00-06:00
-4.6,Edson,Wind Speed,2025-10-27T01:00:00-06:00
-0.002,Edson,Nitrogen Dioxide,2025-10-27T01:00:00-06:00
-0.001,Edson,Total Oxides of Nitrogen,2025-10-27T01:00:00-06:00
-0.018,Edson,Ozone,2025-10-27T01:00:00-06:00
-99.2,Edson,Relative Humidity,2025-10-27T01:00:00-06:00
-0.9,Edson,Outdoor Temperature,2025-10-27T01:00:00-06:00
 2.4,Edson,Fine Particulate Matter,2025-10-27T01:00:00-06:00
-0.002,Edson,Nitrogen Dioxide,2025-10-27T00:00:00-06:00
-0.023,Edson,Ozone,2025-10-27T00:00:00-06:00
-98.3,Edson,Relative Humidity,2025-10-27T00:00:00-06:00
-269.0,Edson,Wind Direction,2025-10-27T00:00:00-06:00
-7.5,Edson,Wind Speed,2025-10-27T00:00:00-06:00
+0.9,Edson,Outdoor Temperature,2025-10-27T01:00:00-06:00
+99.2,Edson,Relative Humidity,2025-10-27T01:00:00-06:00
+0.018,Edson,Ozone,2025-10-27T01:00:00-06:00
+0.001,Edson,Total Oxides of Nitrogen,2025-10-27T01:00:00-06:00
+0.002,Edson,Nitrogen Dioxide,2025-10-27T01:00:00-06:00
+4.6,Edson,Wind Speed,2025-10-27T01:00:00-06:00
+0.0,Edson,Sulphur Dioxide,2025-10-27T01:00:00-06:00
+266.0,Edson,Wind Direction,2025-10-27T01:00:00-06:00
+0.0,Edson,Nitric Oxide,2025-10-27T01:00:00-06:00
 0.0,Edson,Nitric Oxide,2025-10-27T00:00:00-06:00
+7.5,Edson,Wind Speed,2025-10-27T00:00:00-06:00
+269.0,Edson,Wind Direction,2025-10-27T00:00:00-06:00
+98.3,Edson,Relative Humidity,2025-10-27T00:00:00-06:00
+0.023,Edson,Ozone,2025-10-27T00:00:00-06:00
+0.002,Edson,Nitrogen Dioxide,2025-10-27T00:00:00-06:00
 2.0,Edson,,2025-10-27T00:00:00-06:00
 0.0,Edson,Sulphur Dioxide,2025-10-27T00:00:00-06:00
 2.1,Edson,Fine Particulate Matter,2025-10-27T00:00:00-06:00
 1.4,Edson,Outdoor Temperature,2025-10-27T00:00:00-06:00
 0.0,Edson,Total Oxides of Nitrogen,2025-10-27T00:00:00-06:00
-0.0,Edson,Nitric Oxide,2025-10-26T23:00:00-06:00
-0.0,Edson,Total Oxides of Nitrogen,2025-10-26T23:00:00-06:00
-0.002,Edson,Nitrogen Dioxide,2025-10-26T23:00:00-06:00
-280.0,Edson,Wind Direction,2025-10-26T23:00:00-06:00
-0.025,Edson,Ozone,2025-10-26T23:00:00-06:00
-85.4,Edson,Relative Humidity,2025-10-26T23:00:00-06:00
-2.7,Edson,Outdoor Temperature,2025-10-26T23:00:00-06:00
-1.9,Edson,Fine Particulate Matter,2025-10-26T23:00:00-06:00
-0.0,Edson,Sulphur Dioxide,2025-10-26T23:00:00-06:00
-10.9,Edson,Wind Speed,2025-10-26T23:00:00-06:00
 1.0,Edson,,2025-10-26T23:00:00-06:00
+10.9,Edson,Wind Speed,2025-10-26T23:00:00-06:00
+0.0,Edson,Sulphur Dioxide,2025-10-26T23:00:00-06:00
+1.9,Edson,Fine Particulate Matter,2025-10-26T23:00:00-06:00
+2.7,Edson,Outdoor Temperature,2025-10-26T23:00:00-06:00
+85.4,Edson,Relative Humidity,2025-10-26T23:00:00-06:00
+0.025,Edson,Ozone,2025-10-26T23:00:00-06:00
+280.0,Edson,Wind Direction,2025-10-26T23:00:00-06:00
+0.002,Edson,Nitrogen Dioxide,2025-10-26T23:00:00-06:00
+0.0,Edson,Total Oxides of Nitrogen,2025-10-26T23:00:00-06:00
+0.0,Edson,Nitric Oxide,2025-10-26T23:00:00-06:00
 1.0,Edson,,2025-10-26T22:00:00-06:00
 9.8,Edson,Wind Speed,2025-10-26T22:00:00-06:00
 0.0,Edson,Sulphur Dioxide,2025-10-26T22:00:00-06:00
@@ -1528,17 +1539,17 @@ Value,StationName,ParameterName,ReadingDate
 86.3,Edson,Relative Humidity,2025-10-26T22:00:00-06:00
 289.0,Edson,Wind Direction,2025-10-26T22:00:00-06:00
 0.001,Edson,Total Oxides of Nitrogen,2025-10-26T22:00:00-06:00
-2.0,Edson,,2025-10-26T21:00:00-06:00
-0.0,Edson,Sulphur Dioxide,2025-10-26T21:00:00-06:00
-0.9,Edson,Fine Particulate Matter,2025-10-26T21:00:00-06:00
-3.1,Edson,Outdoor Temperature,2025-10-26T21:00:00-06:00
-0.0,Edson,Nitric Oxide,2025-10-26T21:00:00-06:00
-4.7,Edson,Wind Speed,2025-10-26T21:00:00-06:00
-288.0,Edson,Wind Direction,2025-10-26T21:00:00-06:00
-90.5,Edson,Relative Humidity,2025-10-26T21:00:00-06:00
-0.023,Edson,Ozone,2025-10-26T21:00:00-06:00
-0.002,Edson,Nitrogen Dioxide,2025-10-26T21:00:00-06:00
 0.001,Edson,Total Oxides of Nitrogen,2025-10-26T21:00:00-06:00
+0.002,Edson,Nitrogen Dioxide,2025-10-26T21:00:00-06:00
+0.023,Edson,Ozone,2025-10-26T21:00:00-06:00
+90.5,Edson,Relative Humidity,2025-10-26T21:00:00-06:00
+288.0,Edson,Wind Direction,2025-10-26T21:00:00-06:00
+4.7,Edson,Wind Speed,2025-10-26T21:00:00-06:00
+0.0,Edson,Nitric Oxide,2025-10-26T21:00:00-06:00
+3.1,Edson,Outdoor Temperature,2025-10-26T21:00:00-06:00
+0.9,Edson,Fine Particulate Matter,2025-10-26T21:00:00-06:00
+0.0,Edson,Sulphur Dioxide,2025-10-26T21:00:00-06:00
+2.0,Edson,,2025-10-26T21:00:00-06:00
 2.0,Edson,,2025-10-26T20:00:00-06:00
 6.5,Edson,Wind Speed,2025-10-26T20:00:00-06:00
 0.0,Edson,Sulphur Dioxide,2025-10-26T20:00:00-06:00
@@ -1561,50 +1572,50 @@ Value,StationName,ParameterName,ReadingDate
 67.2,Edson,Relative Humidity,2025-10-26T19:00:00-06:00
 0.028,Edson,Ozone,2025-10-26T19:00:00-06:00
 0.001,Edson,Nitrogen Dioxide,2025-10-26T19:00:00-06:00
-2.0,Edson,,2025-10-26T18:00:00-06:00
-0.0,Edson,Sulphur Dioxide,2025-10-26T18:00:00-06:00
-1.1,Edson,Fine Particulate Matter,2025-10-26T18:00:00-06:00
-6.3,Edson,Outdoor Temperature,2025-10-26T18:00:00-06:00
-0.0,Edson,Nitric Oxide,2025-10-26T18:00:00-06:00
-8.7,Edson,Wind Speed,2025-10-26T18:00:00-06:00
-266.0,Edson,Wind Direction,2025-10-26T18:00:00-06:00
-64.2,Edson,Relative Humidity,2025-10-26T18:00:00-06:00
 0.001,Edson,Total Oxides of Nitrogen,2025-10-26T18:00:00-06:00
 0.002,Edson,Nitrogen Dioxide,2025-10-26T18:00:00-06:00
 0.029,Edson,Ozone,2025-10-26T18:00:00-06:00
-2.0,Edson,,2025-10-26T17:00:00-06:00
-0.0,Edson,Sulphur Dioxide,2025-10-26T17:00:00-06:00
-1.1,Edson,Fine Particulate Matter,2025-10-26T17:00:00-06:00
-8.7,Edson,Outdoor Temperature,2025-10-26T17:00:00-06:00
-0.0,Edson,Nitric Oxide,2025-10-26T17:00:00-06:00
-7.7,Edson,Wind Speed,2025-10-26T17:00:00-06:00
-334.0,Edson,Wind Direction,2025-10-26T17:00:00-06:00
+64.2,Edson,Relative Humidity,2025-10-26T18:00:00-06:00
+266.0,Edson,Wind Direction,2025-10-26T18:00:00-06:00
+8.7,Edson,Wind Speed,2025-10-26T18:00:00-06:00
+0.0,Edson,Nitric Oxide,2025-10-26T18:00:00-06:00
+6.3,Edson,Outdoor Temperature,2025-10-26T18:00:00-06:00
+1.1,Edson,Fine Particulate Matter,2025-10-26T18:00:00-06:00
+0.0,Edson,Sulphur Dioxide,2025-10-26T18:00:00-06:00
+2.0,Edson,,2025-10-26T18:00:00-06:00
 52.2,Edson,Relative Humidity,2025-10-26T17:00:00-06:00
+334.0,Edson,Wind Direction,2025-10-26T17:00:00-06:00
+7.7,Edson,Wind Speed,2025-10-26T17:00:00-06:00
+0.0,Edson,Nitric Oxide,2025-10-26T17:00:00-06:00
+8.7,Edson,Outdoor Temperature,2025-10-26T17:00:00-06:00
+1.1,Edson,Fine Particulate Matter,2025-10-26T17:00:00-06:00
+0.0,Edson,Sulphur Dioxide,2025-10-26T17:00:00-06:00
+2.0,Edson,,2025-10-26T17:00:00-06:00
 0.028,Edson,Ozone,2025-10-26T17:00:00-06:00
 0.002,Edson,Nitrogen Dioxide,2025-10-26T17:00:00-06:00
 0.001,Edson,Total Oxides of Nitrogen,2025-10-26T17:00:00-06:00
-2.0,Edson,,2025-10-26T16:00:00-06:00
-0.0,Edson,Sulphur Dioxide,2025-10-26T16:00:00-06:00
-1.3,Edson,Fine Particulate Matter,2025-10-26T16:00:00-06:00
-9.4,Edson,Outdoor Temperature,2025-10-26T16:00:00-06:00
-0.0,Edson,Total Oxides of Nitrogen,2025-10-26T16:00:00-06:00
-0.0,Edson,Nitric Oxide,2025-10-26T16:00:00-06:00
-8.8,Edson,Wind Speed,2025-10-26T16:00:00-06:00
-51.0,Edson,Relative Humidity,2025-10-26T16:00:00-06:00
-0.03,Edson,Ozone,2025-10-26T16:00:00-06:00
-332.0,Edson,Wind Direction,2025-10-26T16:00:00-06:00
 0.001,Edson,Nitrogen Dioxide,2025-10-26T16:00:00-06:00
-0.001,Edson,Nitrogen Dioxide,2025-10-26T15:00:00-06:00
-322.0,Edson,Wind Direction,2025-10-26T15:00:00-06:00
-0.031,Edson,Ozone,2025-10-26T15:00:00-06:00
-52.2,Edson,Relative Humidity,2025-10-26T15:00:00-06:00
-8.7,Edson,Wind Speed,2025-10-26T15:00:00-06:00
-0.0,Edson,Nitric Oxide,2025-10-26T15:00:00-06:00
-0.0,Edson,Total Oxides of Nitrogen,2025-10-26T15:00:00-06:00
-9.2,Edson,Outdoor Temperature,2025-10-26T15:00:00-06:00
-1.1,Edson,Fine Particulate Matter,2025-10-26T15:00:00-06:00
-0.0,Edson,Sulphur Dioxide,2025-10-26T15:00:00-06:00
+332.0,Edson,Wind Direction,2025-10-26T16:00:00-06:00
+0.03,Edson,Ozone,2025-10-26T16:00:00-06:00
+51.0,Edson,Relative Humidity,2025-10-26T16:00:00-06:00
+8.8,Edson,Wind Speed,2025-10-26T16:00:00-06:00
+0.0,Edson,Nitric Oxide,2025-10-26T16:00:00-06:00
+0.0,Edson,Total Oxides of Nitrogen,2025-10-26T16:00:00-06:00
+9.4,Edson,Outdoor Temperature,2025-10-26T16:00:00-06:00
+1.3,Edson,Fine Particulate Matter,2025-10-26T16:00:00-06:00
+0.0,Edson,Sulphur Dioxide,2025-10-26T16:00:00-06:00
+2.0,Edson,,2025-10-26T16:00:00-06:00
 2.0,Edson,,2025-10-26T15:00:00-06:00
+0.0,Edson,Sulphur Dioxide,2025-10-26T15:00:00-06:00
+1.1,Edson,Fine Particulate Matter,2025-10-26T15:00:00-06:00
+9.2,Edson,Outdoor Temperature,2025-10-26T15:00:00-06:00
+0.0,Edson,Total Oxides of Nitrogen,2025-10-26T15:00:00-06:00
+0.0,Edson,Nitric Oxide,2025-10-26T15:00:00-06:00
+8.7,Edson,Wind Speed,2025-10-26T15:00:00-06:00
+52.2,Edson,Relative Humidity,2025-10-26T15:00:00-06:00
+0.031,Edson,Ozone,2025-10-26T15:00:00-06:00
+322.0,Edson,Wind Direction,2025-10-26T15:00:00-06:00
+0.001,Edson,Nitrogen Dioxide,2025-10-26T15:00:00-06:00
 2.0,Edson,,2025-10-26T14:00:00-06:00
 2.0,Edson,Fine Particulate Matter,2025-10-26T14:00:00-06:00
 7.2,Edson,Outdoor Temperature,2025-10-26T14:00:00-06:00
@@ -1720,23 +1731,23 @@ Value,StationName,ParameterName,ReadingDate
 2.4,Edson,Fine Particulate Matter,2025-10-26T04:00:00-06:00
 0.0,Edson,Nitric Oxide,2025-10-26T04:00:00-06:00
 14.7,Edson,Wind Speed,2025-10-26T04:00:00-06:00
-0.023,Edson,Ozone,2025-10-26T04:00:00-06:00
-90.4,Edson,Relative Humidity,2025-10-26T04:00:00-06:00
-0.004,Edson,Nitrogen Dioxide,2025-10-26T04:00:00-06:00
-47.0,Edson,Wind Direction,2025-10-26T04:00:00-06:00
-0.003,Edson,Total Oxides of Nitrogen,2025-10-26T04:00:00-06:00
 2.9,Edson,Outdoor Temperature,2025-10-26T04:00:00-06:00
-0.002,Edson,Total Oxides of Nitrogen,2025-10-26T03:00:00-06:00
-53.0,Edson,Wind Direction,2025-10-26T03:00:00-06:00
-0.003,Edson,Nitrogen Dioxide,2025-10-26T03:00:00-06:00
-0.025,Edson,Ozone,2025-10-26T03:00:00-06:00
-90.8,Edson,Relative Humidity,2025-10-26T03:00:00-06:00
-3.3,Edson,Outdoor Temperature,2025-10-26T03:00:00-06:00
-13.5,Edson,Wind Speed,2025-10-26T03:00:00-06:00
-0.0,Edson,Nitric Oxide,2025-10-26T03:00:00-06:00
-1.0,Edson,Fine Particulate Matter,2025-10-26T03:00:00-06:00
-0.0,Edson,Sulphur Dioxide,2025-10-26T03:00:00-06:00
+0.003,Edson,Total Oxides of Nitrogen,2025-10-26T04:00:00-06:00
+47.0,Edson,Wind Direction,2025-10-26T04:00:00-06:00
+0.004,Edson,Nitrogen Dioxide,2025-10-26T04:00:00-06:00
+90.4,Edson,Relative Humidity,2025-10-26T04:00:00-06:00
+0.023,Edson,Ozone,2025-10-26T04:00:00-06:00
 2.0,Edson,,2025-10-26T03:00:00-06:00
+0.0,Edson,Sulphur Dioxide,2025-10-26T03:00:00-06:00
+1.0,Edson,Fine Particulate Matter,2025-10-26T03:00:00-06:00
+0.0,Edson,Nitric Oxide,2025-10-26T03:00:00-06:00
+13.5,Edson,Wind Speed,2025-10-26T03:00:00-06:00
+3.3,Edson,Outdoor Temperature,2025-10-26T03:00:00-06:00
+90.8,Edson,Relative Humidity,2025-10-26T03:00:00-06:00
+0.025,Edson,Ozone,2025-10-26T03:00:00-06:00
+0.003,Edson,Nitrogen Dioxide,2025-10-26T03:00:00-06:00
+53.0,Edson,Wind Direction,2025-10-26T03:00:00-06:00
+0.002,Edson,Total Oxides of Nitrogen,2025-10-26T03:00:00-06:00
 2.0,Edson,,2025-10-26T02:00:00-06:00
 0.0,Edson,Sulphur Dioxide,2025-10-26T02:00:00-06:00
 1.1,Edson,Fine Particulate Matter,2025-10-26T02:00:00-06:00
@@ -1764,20 +1775,9 @@ Value,StationName,ParameterName,ReadingDate
 4.1,Edson,Outdoor Temperature,2025-10-26T00:00:00-06:00
 0.004,Edson,Nitrogen Dioxide,2025-10-26T00:00:00-06:00
 0.0,Edson,Nitric Oxide,2025-10-26T00:00:00-06:00
-0.003,Edson,Total Oxides of Nitrogen,2025-10-26T00:00:00-06:00
 2.0,Edson,,2025-10-26T00:00:00-06:00
 63.5,Edson,Relative Humidity,2025-10-26T00:00:00-06:00
+0.003,Edson,Total Oxides of Nitrogen,2025-10-26T00:00:00-06:00
 64.0,Edson,Wind Direction,2025-10-26T00:00:00-06:00
 0.0,Edson,Sulphur Dioxide,2025-10-26T00:00:00-06:00
 0.8,Edson,Fine Particulate Matter,2025-10-26T00:00:00-06:00
-0.026,Edson,Ozone,2025-10-25T23:00:00-06:00
-4.2,Edson,Outdoor Temperature,2025-10-25T23:00:00-06:00
-66.6,Edson,Relative Humidity,2025-10-25T23:00:00-06:00
-0.0,Edson,Nitric Oxide,2025-10-25T23:00:00-06:00
-0.003,Edson,Nitrogen Dioxide,2025-10-25T23:00:00-06:00
-0.002,Edson,Total Oxides of Nitrogen,2025-10-25T23:00:00-06:00
-0.8,Edson,Fine Particulate Matter,2025-10-25T23:00:00-06:00
-0.0,Edson,Sulphur Dioxide,2025-10-25T23:00:00-06:00
-46.0,Edson,Wind Direction,2025-10-25T23:00:00-06:00
-15.0,Edson,Wind Speed,2025-10-25T23:00:00-06:00
-2.0,Edson,,2025-10-25T23:00:00-06:00
