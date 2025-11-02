@@ -1,4 +1,15 @@
 Value,StationName,ParameterName,ReadingDate
+2.0,Genesee,,2025-11-01T19:00:00-06:00
+5.4,Genesee,Outdoor Temperature,2025-11-01T19:00:00-06:00
+320.0,Genesee,Wind Direction,2025-11-01T19:00:00-06:00
+4.9,Genesee,Fine Particulate Matter,2025-11-01T19:00:00-06:00
+0.003,Genesee,Nitrogen Dioxide,2025-11-01T19:00:00-06:00
+89.6,Genesee,Relative Humidity,2025-11-01T19:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-11-01T19:00:00-06:00
+0.001,Genesee,Sulphur Dioxide,2025-11-01T19:00:00-06:00
+0.002,Genesee,Total Oxides of Nitrogen,2025-11-01T19:00:00-06:00
+0.021,Genesee,Ozone,2025-11-01T19:00:00-06:00
+6.6,Genesee,Wind Speed,2025-11-01T19:00:00-06:00
 2.0,Genesee,,2025-11-01T18:00:00-06:00
 10.4,Genesee,Wind Speed,2025-11-01T18:00:00-06:00
 83.2,Genesee,Relative Humidity,2025-11-01T18:00:00-06:00
@@ -32,11 +43,11 @@ Value,StationName,ParameterName,ReadingDate
 4.7,Genesee,Fine Particulate Matter,2025-11-01T16:00:00-06:00
 0.026,Genesee,Ozone,2025-11-01T16:00:00-06:00
 52.2,Genesee,Relative Humidity,2025-11-01T16:00:00-06:00
-2.0,Genesee,,2025-11-01T15:00:00-06:00
-0.002,Genesee,Total Oxides of Nitrogen,2025-11-01T15:00:00-06:00
-0.002,Genesee,Nitrogen Dioxide,2025-11-01T15:00:00-06:00
-4.6,Genesee,Fine Particulate Matter,2025-11-01T15:00:00-06:00
 0.0,Genesee,Nitric Oxide,2025-11-01T15:00:00-06:00
+4.6,Genesee,Fine Particulate Matter,2025-11-01T15:00:00-06:00
+0.002,Genesee,Nitrogen Dioxide,2025-11-01T15:00:00-06:00
+0.002,Genesee,Total Oxides of Nitrogen,2025-11-01T15:00:00-06:00
+2.0,Genesee,,2025-11-01T15:00:00-06:00
 0.001,Genesee,Sulphur Dioxide,2025-11-01T15:00:00-06:00
 53.5,Genesee,Relative Humidity,2025-11-01T15:00:00-06:00
 7.9,Genesee,Wind Speed,2025-11-01T15:00:00-06:00
@@ -715,41 +726,41 @@ Value,StationName,ParameterName,ReadingDate
 16.7,Genesee,Wind Speed,2025-10-30T02:00:00-06:00
 5.3,Genesee,Outdoor Temperature,2025-10-30T02:00:00-06:00
 2.0,Genesee,,2025-10-30T01:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-30T01:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-30T01:00:00-06:00
-0.001,Genesee,Total Oxides of Nitrogen,2025-10-30T01:00:00-06:00
-0.001,Genesee,Nitrogen Dioxide,2025-10-30T01:00:00-06:00
-18.0,Genesee,Wind Speed,2025-10-30T01:00:00-06:00
-308.0,Genesee,Wind Direction,2025-10-30T01:00:00-06:00
-0.024,Genesee,Ozone,2025-10-30T01:00:00-06:00
-4.9,Genesee,Fine Particulate Matter,2025-10-30T01:00:00-06:00
-6.8,Genesee,Outdoor Temperature,2025-10-30T01:00:00-06:00
 71.7,Genesee,Relative Humidity,2025-10-30T01:00:00-06:00
-308.0,Genesee,Wind Direction,2025-10-30T00:00:00-06:00
-25.3,Genesee,Wind Speed,2025-10-30T00:00:00-06:00
-0.001,Genesee,Sulphur Dioxide,2025-10-30T00:00:00-06:00
-0.001,Genesee,Nitrogen Dioxide,2025-10-30T00:00:00-06:00
-0.001,Genesee,Total Oxides of Nitrogen,2025-10-30T00:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-30T00:00:00-06:00
+6.8,Genesee,Outdoor Temperature,2025-10-30T01:00:00-06:00
+4.9,Genesee,Fine Particulate Matter,2025-10-30T01:00:00-06:00
+0.024,Genesee,Ozone,2025-10-30T01:00:00-06:00
+308.0,Genesee,Wind Direction,2025-10-30T01:00:00-06:00
+18.0,Genesee,Wind Speed,2025-10-30T01:00:00-06:00
+0.001,Genesee,Nitrogen Dioxide,2025-10-30T01:00:00-06:00
+0.001,Genesee,Total Oxides of Nitrogen,2025-10-30T01:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-30T01:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-30T01:00:00-06:00
 2.0,Genesee,,2025-10-30T00:00:00-06:00
 66.2,Genesee,Relative Humidity,2025-10-30T00:00:00-06:00
 8.2,Genesee,Outdoor Temperature,2025-10-30T00:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-30T00:00:00-06:00
+0.001,Genesee,Total Oxides of Nitrogen,2025-10-30T00:00:00-06:00
+0.001,Genesee,Nitrogen Dioxide,2025-10-30T00:00:00-06:00
+0.001,Genesee,Sulphur Dioxide,2025-10-30T00:00:00-06:00
+25.3,Genesee,Wind Speed,2025-10-30T00:00:00-06:00
+308.0,Genesee,Wind Direction,2025-10-30T00:00:00-06:00
 4.4,Genesee,Fine Particulate Matter,2025-10-30T00:00:00-06:00
 0.026,Genesee,Ozone,2025-10-30T00:00:00-06:00
-28.8,Genesee,Wind Speed,2025-10-29T23:00:00-06:00
-300.0,Genesee,Wind Direction,2025-10-29T23:00:00-06:00
-0.027,Genesee,Ozone,2025-10-29T23:00:00-06:00
-4.1,Genesee,Fine Particulate Matter,2025-10-29T23:00:00-06:00
-8.8,Genesee,Outdoor Temperature,2025-10-29T23:00:00-06:00
-62.3,Genesee,Relative Humidity,2025-10-29T23:00:00-06:00
-0.002,Genesee,Nitrogen Dioxide,2025-10-29T23:00:00-06:00
-0.002,Genesee,Total Oxides of Nitrogen,2025-10-29T23:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-29T23:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-29T23:00:00-06:00
 2.0,Genesee,,2025-10-29T23:00:00-06:00
-9.3,Genesee,Outdoor Temperature,2025-10-29T22:00:00-06:00
-59.5,Genesee,Relative Humidity,2025-10-29T22:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-29T23:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-29T23:00:00-06:00
+0.002,Genesee,Total Oxides of Nitrogen,2025-10-29T23:00:00-06:00
+0.002,Genesee,Nitrogen Dioxide,2025-10-29T23:00:00-06:00
+62.3,Genesee,Relative Humidity,2025-10-29T23:00:00-06:00
+8.8,Genesee,Outdoor Temperature,2025-10-29T23:00:00-06:00
+4.1,Genesee,Fine Particulate Matter,2025-10-29T23:00:00-06:00
+0.027,Genesee,Ozone,2025-10-29T23:00:00-06:00
+300.0,Genesee,Wind Direction,2025-10-29T23:00:00-06:00
+28.8,Genesee,Wind Speed,2025-10-29T23:00:00-06:00
 2.0,Genesee,,2025-10-29T22:00:00-06:00
+59.5,Genesee,Relative Humidity,2025-10-29T22:00:00-06:00
+9.3,Genesee,Outdoor Temperature,2025-10-29T22:00:00-06:00
 4.1,Genesee,Fine Particulate Matter,2025-10-29T22:00:00-06:00
 0.029,Genesee,Ozone,2025-10-29T22:00:00-06:00
 310.0,Genesee,Wind Direction,2025-10-29T22:00:00-06:00
@@ -758,20 +769,20 @@ Value,StationName,ParameterName,ReadingDate
 0.001,Genesee,Total Oxides of Nitrogen,2025-10-29T22:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-29T22:00:00-06:00
 0.0,Genesee,Nitric Oxide,2025-10-29T22:00:00-06:00
-2.0,Genesee,,2025-10-29T21:00:00-06:00
-0.028,Genesee,Ozone,2025-10-29T21:00:00-06:00
-295.0,Genesee,Wind Direction,2025-10-29T21:00:00-06:00
-27.6,Genesee,Wind Speed,2025-10-29T21:00:00-06:00
-0.001,Genesee,Total Oxides of Nitrogen,2025-10-29T21:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-29T21:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-29T21:00:00-06:00
-0.002,Genesee,Nitrogen Dioxide,2025-10-29T21:00:00-06:00
-55.8,Genesee,Relative Humidity,2025-10-29T21:00:00-06:00
-9.7,Genesee,Outdoor Temperature,2025-10-29T21:00:00-06:00
 4.0,Genesee,Fine Particulate Matter,2025-10-29T21:00:00-06:00
+9.7,Genesee,Outdoor Temperature,2025-10-29T21:00:00-06:00
+55.8,Genesee,Relative Humidity,2025-10-29T21:00:00-06:00
+0.002,Genesee,Nitrogen Dioxide,2025-10-29T21:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-29T21:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-29T21:00:00-06:00
+0.001,Genesee,Total Oxides of Nitrogen,2025-10-29T21:00:00-06:00
+27.6,Genesee,Wind Speed,2025-10-29T21:00:00-06:00
+295.0,Genesee,Wind Direction,2025-10-29T21:00:00-06:00
+0.028,Genesee,Ozone,2025-10-29T21:00:00-06:00
+2.0,Genesee,,2025-10-29T21:00:00-06:00
+55.0,Genesee,Relative Humidity,2025-10-29T20:00:00-06:00
 0.002,Genesee,Nitrogen Dioxide,2025-10-29T20:00:00-06:00
 2.0,Genesee,,2025-10-29T20:00:00-06:00
-55.0,Genesee,Relative Humidity,2025-10-29T20:00:00-06:00
 9.3,Genesee,Outdoor Temperature,2025-10-29T20:00:00-06:00
 4.1,Genesee,Fine Particulate Matter,2025-10-29T20:00:00-06:00
 0.028,Genesee,Ozone,2025-10-29T20:00:00-06:00
@@ -780,45 +791,45 @@ Value,StationName,ParameterName,ReadingDate
 0.001,Genesee,Total Oxides of Nitrogen,2025-10-29T20:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-29T20:00:00-06:00
 0.0,Genesee,Nitric Oxide,2025-10-29T20:00:00-06:00
-50.7,Genesee,Relative Humidity,2025-10-29T19:00:00-06:00
-10.6,Genesee,Outdoor Temperature,2025-10-29T19:00:00-06:00
-3.9,Genesee,Fine Particulate Matter,2025-10-29T19:00:00-06:00
-0.03,Genesee,Ozone,2025-10-29T19:00:00-06:00
-297.0,Genesee,Wind Direction,2025-10-29T19:00:00-06:00
-23.3,Genesee,Wind Speed,2025-10-29T19:00:00-06:00
-0.001,Genesee,Sulphur Dioxide,2025-10-29T19:00:00-06:00
 0.0,Genesee,Nitric Oxide,2025-10-29T19:00:00-06:00
+0.001,Genesee,Sulphur Dioxide,2025-10-29T19:00:00-06:00
+23.3,Genesee,Wind Speed,2025-10-29T19:00:00-06:00
+297.0,Genesee,Wind Direction,2025-10-29T19:00:00-06:00
+0.03,Genesee,Ozone,2025-10-29T19:00:00-06:00
+3.9,Genesee,Fine Particulate Matter,2025-10-29T19:00:00-06:00
+10.6,Genesee,Outdoor Temperature,2025-10-29T19:00:00-06:00
+50.7,Genesee,Relative Humidity,2025-10-29T19:00:00-06:00
 0.002,Genesee,Nitrogen Dioxide,2025-10-29T19:00:00-06:00
 0.002,Genesee,Total Oxides of Nitrogen,2025-10-29T19:00:00-06:00
 2.0,Genesee,,2025-10-29T19:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-29T18:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-29T18:00:00-06:00
-0.001,Genesee,Total Oxides of Nitrogen,2025-10-29T18:00:00-06:00
-0.001,Genesee,Nitrogen Dioxide,2025-10-29T18:00:00-06:00
-24.9,Genesee,Wind Speed,2025-10-29T18:00:00-06:00
-325.0,Genesee,Wind Direction,2025-10-29T18:00:00-06:00
-0.03,Genesee,Ozone,2025-10-29T18:00:00-06:00
-4.4,Genesee,Fine Particulate Matter,2025-10-29T18:00:00-06:00
-11.0,Genesee,Outdoor Temperature,2025-10-29T18:00:00-06:00
-48.3,Genesee,Relative Humidity,2025-10-29T18:00:00-06:00
 2.0,Genesee,,2025-10-29T18:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-29T17:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-29T17:00:00-06:00
-0.001,Genesee,Total Oxides of Nitrogen,2025-10-29T17:00:00-06:00
-15.9,Genesee,Wind Speed,2025-10-29T17:00:00-06:00
-336.0,Genesee,Wind Direction,2025-10-29T17:00:00-06:00
-0.029,Genesee,Ozone,2025-10-29T17:00:00-06:00
-4.6,Genesee,Fine Particulate Matter,2025-10-29T17:00:00-06:00
-11.8,Genesee,Outdoor Temperature,2025-10-29T17:00:00-06:00
+48.3,Genesee,Relative Humidity,2025-10-29T18:00:00-06:00
+11.0,Genesee,Outdoor Temperature,2025-10-29T18:00:00-06:00
+4.4,Genesee,Fine Particulate Matter,2025-10-29T18:00:00-06:00
+0.03,Genesee,Ozone,2025-10-29T18:00:00-06:00
+325.0,Genesee,Wind Direction,2025-10-29T18:00:00-06:00
+24.9,Genesee,Wind Speed,2025-10-29T18:00:00-06:00
+0.001,Genesee,Nitrogen Dioxide,2025-10-29T18:00:00-06:00
+0.001,Genesee,Total Oxides of Nitrogen,2025-10-29T18:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-29T18:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-29T18:00:00-06:00
 43.9,Genesee,Relative Humidity,2025-10-29T17:00:00-06:00
 0.002,Genesee,Nitrogen Dioxide,2025-10-29T17:00:00-06:00
 2.0,Genesee,,2025-10-29T17:00:00-06:00
-4.7,Genesee,Fine Particulate Matter,2025-10-29T16:00:00-06:00
-11.9,Genesee,Outdoor Temperature,2025-10-29T16:00:00-06:00
-41.9,Genesee,Relative Humidity,2025-10-29T16:00:00-06:00
-0.002,Genesee,Nitrogen Dioxide,2025-10-29T16:00:00-06:00
-0.002,Genesee,Total Oxides of Nitrogen,2025-10-29T16:00:00-06:00
+11.8,Genesee,Outdoor Temperature,2025-10-29T17:00:00-06:00
+4.6,Genesee,Fine Particulate Matter,2025-10-29T17:00:00-06:00
+0.029,Genesee,Ozone,2025-10-29T17:00:00-06:00
+336.0,Genesee,Wind Direction,2025-10-29T17:00:00-06:00
+15.9,Genesee,Wind Speed,2025-10-29T17:00:00-06:00
+0.001,Genesee,Total Oxides of Nitrogen,2025-10-29T17:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-29T17:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-29T17:00:00-06:00
 2.0,Genesee,,2025-10-29T16:00:00-06:00
+0.002,Genesee,Total Oxides of Nitrogen,2025-10-29T16:00:00-06:00
+0.002,Genesee,Nitrogen Dioxide,2025-10-29T16:00:00-06:00
+41.9,Genesee,Relative Humidity,2025-10-29T16:00:00-06:00
+11.9,Genesee,Outdoor Temperature,2025-10-29T16:00:00-06:00
+4.7,Genesee,Fine Particulate Matter,2025-10-29T16:00:00-06:00
 0.028,Genesee,Ozone,2025-10-29T16:00:00-06:00
 335.0,Genesee,Wind Direction,2025-10-29T16:00:00-06:00
 14.5,Genesee,Wind Speed,2025-10-29T16:00:00-06:00
@@ -827,14 +838,14 @@ Value,StationName,ParameterName,ReadingDate
 2.0,Genesee,,2025-10-29T15:00:00-06:00
 0.003,Genesee,Nitrogen Dioxide,2025-10-29T15:00:00-06:00
 0.004,Genesee,Total Oxides of Nitrogen,2025-10-29T15:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-29T15:00:00-06:00
-0.001,Genesee,Nitric Oxide,2025-10-29T15:00:00-06:00
 42.5,Genesee,Relative Humidity,2025-10-29T15:00:00-06:00
 10.9,Genesee,Outdoor Temperature,2025-10-29T15:00:00-06:00
 4.9,Genesee,Fine Particulate Matter,2025-10-29T15:00:00-06:00
 0.025,Genesee,Ozone,2025-10-29T15:00:00-06:00
 334.0,Genesee,Wind Direction,2025-10-29T15:00:00-06:00
 13.1,Genesee,Wind Speed,2025-10-29T15:00:00-06:00
+0.001,Genesee,Nitric Oxide,2025-10-29T15:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-29T15:00:00-06:00
 2.0,Genesee,,2025-10-29T14:00:00-06:00
 0.003,Genesee,Nitrogen Dioxide,2025-10-29T14:00:00-06:00
 0.004,Genesee,Total Oxides of Nitrogen,2025-10-29T14:00:00-06:00
@@ -846,28 +857,28 @@ Value,StationName,ParameterName,ReadingDate
 12.4,Genesee,Wind Speed,2025-10-29T14:00:00-06:00
 0.001,Genesee,Nitric Oxide,2025-10-29T14:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-29T14:00:00-06:00
-300.0,Genesee,Wind Direction,2025-10-29T13:00:00-06:00
-0.021,Genesee,Ozone,2025-10-29T13:00:00-06:00
-5.3,Genesee,Fine Particulate Matter,2025-10-29T13:00:00-06:00
-7.2,Genesee,Outdoor Temperature,2025-10-29T13:00:00-06:00
-51.0,Genesee,Relative Humidity,2025-10-29T13:00:00-06:00
-0.002,Genesee,Nitric Oxide,2025-10-29T13:00:00-06:00
-0.005,Genesee,Total Oxides of Nitrogen,2025-10-29T13:00:00-06:00
-0.003,Genesee,Nitrogen Dioxide,2025-10-29T13:00:00-06:00
 2.0,Genesee,,2025-10-29T13:00:00-06:00
+0.003,Genesee,Nitrogen Dioxide,2025-10-29T13:00:00-06:00
+0.005,Genesee,Total Oxides of Nitrogen,2025-10-29T13:00:00-06:00
+0.002,Genesee,Nitric Oxide,2025-10-29T13:00:00-06:00
+51.0,Genesee,Relative Humidity,2025-10-29T13:00:00-06:00
+7.2,Genesee,Outdoor Temperature,2025-10-29T13:00:00-06:00
+5.3,Genesee,Fine Particulate Matter,2025-10-29T13:00:00-06:00
+0.021,Genesee,Ozone,2025-10-29T13:00:00-06:00
+300.0,Genesee,Wind Direction,2025-10-29T13:00:00-06:00
 17.2,Genesee,Wind Speed,2025-10-29T13:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-29T13:00:00-06:00
-1.0,Genesee,,2025-10-29T12:00:00-06:00
-0.005,Genesee,Total Oxides of Nitrogen,2025-10-29T12:00:00-06:00
-0.004,Genesee,Nitrogen Dioxide,2025-10-29T12:00:00-06:00
-57.0,Genesee,Relative Humidity,2025-10-29T12:00:00-06:00
-5.2,Genesee,Outdoor Temperature,2025-10-29T12:00:00-06:00
-6.0,Genesee,Fine Particulate Matter,2025-10-29T12:00:00-06:00
-0.018,Genesee,Ozone,2025-10-29T12:00:00-06:00
-289.0,Genesee,Wind Direction,2025-10-29T12:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-29T12:00:00-06:00
 0.001,Genesee,Nitric Oxide,2025-10-29T12:00:00-06:00
 13.4,Genesee,Wind Speed,2025-10-29T12:00:00-06:00
+289.0,Genesee,Wind Direction,2025-10-29T12:00:00-06:00
+0.018,Genesee,Ozone,2025-10-29T12:00:00-06:00
+6.0,Genesee,Fine Particulate Matter,2025-10-29T12:00:00-06:00
+5.2,Genesee,Outdoor Temperature,2025-10-29T12:00:00-06:00
+57.0,Genesee,Relative Humidity,2025-10-29T12:00:00-06:00
+0.004,Genesee,Nitrogen Dioxide,2025-10-29T12:00:00-06:00
+0.005,Genesee,Total Oxides of Nitrogen,2025-10-29T12:00:00-06:00
+1.0,Genesee,,2025-10-29T12:00:00-06:00
 1.0,Genesee,,2025-10-29T11:00:00-06:00
 0.004,Genesee,Total Oxides of Nitrogen,2025-10-29T11:00:00-06:00
 0.004,Genesee,Nitrogen Dioxide,2025-10-29T11:00:00-06:00
@@ -903,26 +914,28 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Genesee,Nitric Oxide,2025-10-29T09:00:00-06:00
 1.0,Genesee,,2025-10-29T08:00:00-06:00
 0.006,Genesee,Nitrogen Dioxide,2025-10-29T08:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-29T08:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-29T08:00:00-06:00
-8.2,Genesee,Wind Speed,2025-10-29T08:00:00-06:00
-282.0,Genesee,Wind Direction,2025-10-29T08:00:00-06:00
-0.012,Genesee,Ozone,2025-10-29T08:00:00-06:00
-6.9,Genesee,Fine Particulate Matter,2025-10-29T08:00:00-06:00
-2.9,Genesee,Outdoor Temperature,2025-10-29T08:00:00-06:00
-65.1,Genesee,Relative Humidity,2025-10-29T08:00:00-06:00
 0.006,Genesee,Total Oxides of Nitrogen,2025-10-29T08:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-29T07:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-29T07:00:00-06:00
-5.3,Genesee,Wind Speed,2025-10-29T07:00:00-06:00
-8.0,Genesee,Wind Direction,2025-10-29T07:00:00-06:00
-0.017,Genesee,Ozone,2025-10-29T07:00:00-06:00
-6.8,Genesee,Fine Particulate Matter,2025-10-29T07:00:00-06:00
-3.3,Genesee,Outdoor Temperature,2025-10-29T07:00:00-06:00
-58.1,Genesee,Relative Humidity,2025-10-29T07:00:00-06:00
-0.002,Genesee,Nitrogen Dioxide,2025-10-29T07:00:00-06:00
-0.002,Genesee,Total Oxides of Nitrogen,2025-10-29T07:00:00-06:00
+65.1,Genesee,Relative Humidity,2025-10-29T08:00:00-06:00
+2.9,Genesee,Outdoor Temperature,2025-10-29T08:00:00-06:00
+6.9,Genesee,Fine Particulate Matter,2025-10-29T08:00:00-06:00
+0.012,Genesee,Ozone,2025-10-29T08:00:00-06:00
+282.0,Genesee,Wind Direction,2025-10-29T08:00:00-06:00
+8.2,Genesee,Wind Speed,2025-10-29T08:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-29T08:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-29T08:00:00-06:00
 1.0,Genesee,,2025-10-29T07:00:00-06:00
+0.002,Genesee,Total Oxides of Nitrogen,2025-10-29T07:00:00-06:00
+0.002,Genesee,Nitrogen Dioxide,2025-10-29T07:00:00-06:00
+58.1,Genesee,Relative Humidity,2025-10-29T07:00:00-06:00
+3.3,Genesee,Outdoor Temperature,2025-10-29T07:00:00-06:00
+6.8,Genesee,Fine Particulate Matter,2025-10-29T07:00:00-06:00
+0.017,Genesee,Ozone,2025-10-29T07:00:00-06:00
+8.0,Genesee,Wind Direction,2025-10-29T07:00:00-06:00
+5.3,Genesee,Wind Speed,2025-10-29T07:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-29T07:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-29T07:00:00-06:00
+1.0,Genesee,,2025-10-29T06:00:00-06:00
+0.002,Genesee,Total Oxides of Nitrogen,2025-10-29T06:00:00-06:00
 0.0,Genesee,Nitric Oxide,2025-10-29T06:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-29T06:00:00-06:00
 9.0,Genesee,Wind Speed,2025-10-29T06:00:00-06:00
@@ -932,8 +945,6 @@ Value,StationName,ParameterName,ReadingDate
 2.9,Genesee,Outdoor Temperature,2025-10-29T06:00:00-06:00
 57.2,Genesee,Relative Humidity,2025-10-29T06:00:00-06:00
 0.002,Genesee,Nitrogen Dioxide,2025-10-29T06:00:00-06:00
-0.002,Genesee,Total Oxides of Nitrogen,2025-10-29T06:00:00-06:00
-1.0,Genesee,,2025-10-29T06:00:00-06:00
 10.5,Genesee,Wind Speed,2025-10-29T05:00:00-06:00
 78.0,Genesee,Wind Direction,2025-10-29T05:00:00-06:00
 5.8,Genesee,Fine Particulate Matter,2025-10-29T05:00:00-06:00
@@ -956,17 +967,17 @@ Value,StationName,ParameterName,ReadingDate
 9.9,Genesee,Wind Speed,2025-10-29T04:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-29T04:00:00-06:00
 0.0,Genesee,Nitric Oxide,2025-10-29T04:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-29T03:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-29T03:00:00-06:00
-13.2,Genesee,Wind Speed,2025-10-29T03:00:00-06:00
-116.0,Genesee,Wind Direction,2025-10-29T03:00:00-06:00
-0.022,Genesee,Ozone,2025-10-29T03:00:00-06:00
-5.4,Genesee,Fine Particulate Matter,2025-10-29T03:00:00-06:00
-4.2,Genesee,Outdoor Temperature,2025-10-29T03:00:00-06:00
-46.2,Genesee,Relative Humidity,2025-10-29T03:00:00-06:00
-0.002,Genesee,Nitrogen Dioxide,2025-10-29T03:00:00-06:00
-0.002,Genesee,Total Oxides of Nitrogen,2025-10-29T03:00:00-06:00
 2.0,Genesee,,2025-10-29T03:00:00-06:00
+0.002,Genesee,Total Oxides of Nitrogen,2025-10-29T03:00:00-06:00
+0.002,Genesee,Nitrogen Dioxide,2025-10-29T03:00:00-06:00
+46.2,Genesee,Relative Humidity,2025-10-29T03:00:00-06:00
+4.2,Genesee,Outdoor Temperature,2025-10-29T03:00:00-06:00
+5.4,Genesee,Fine Particulate Matter,2025-10-29T03:00:00-06:00
+0.022,Genesee,Ozone,2025-10-29T03:00:00-06:00
+116.0,Genesee,Wind Direction,2025-10-29T03:00:00-06:00
+13.2,Genesee,Wind Speed,2025-10-29T03:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-29T03:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-29T03:00:00-06:00
 2.0,Genesee,,2025-10-29T02:00:00-06:00
 0.002,Genesee,Nitrogen Dioxide,2025-10-29T02:00:00-06:00
 45.5,Genesee,Relative Humidity,2025-10-29T02:00:00-06:00
@@ -978,28 +989,28 @@ Value,StationName,ParameterName,ReadingDate
 0.001,Genesee,Total Oxides of Nitrogen,2025-10-29T02:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-29T02:00:00-06:00
 0.0,Genesee,Nitric Oxide,2025-10-29T02:00:00-06:00
-0.002,Genesee,Nitrogen Dioxide,2025-10-29T01:00:00-06:00
-44.6,Genesee,Relative Humidity,2025-10-29T01:00:00-06:00
-3.2,Genesee,Outdoor Temperature,2025-10-29T01:00:00-06:00
-4.9,Genesee,Fine Particulate Matter,2025-10-29T01:00:00-06:00
-0.024,Genesee,Ozone,2025-10-29T01:00:00-06:00
-119.0,Genesee,Wind Direction,2025-10-29T01:00:00-06:00
-13.6,Genesee,Wind Speed,2025-10-29T01:00:00-06:00
-0.001,Genesee,Total Oxides of Nitrogen,2025-10-29T01:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-29T01:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-29T01:00:00-06:00
 2.0,Genesee,,2025-10-29T01:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-29T01:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-29T01:00:00-06:00
+0.001,Genesee,Total Oxides of Nitrogen,2025-10-29T01:00:00-06:00
+13.6,Genesee,Wind Speed,2025-10-29T01:00:00-06:00
+119.0,Genesee,Wind Direction,2025-10-29T01:00:00-06:00
+0.024,Genesee,Ozone,2025-10-29T01:00:00-06:00
+4.9,Genesee,Fine Particulate Matter,2025-10-29T01:00:00-06:00
+3.2,Genesee,Outdoor Temperature,2025-10-29T01:00:00-06:00
+44.6,Genesee,Relative Humidity,2025-10-29T01:00:00-06:00
+0.002,Genesee,Nitrogen Dioxide,2025-10-29T01:00:00-06:00
+0.002,Genesee,Nitrogen Dioxide,2025-10-29T00:00:00-06:00
+0.002,Genesee,Total Oxides of Nitrogen,2025-10-29T00:00:00-06:00
+12.4,Genesee,Wind Speed,2025-10-29T00:00:00-06:00
+104.0,Genesee,Wind Direction,2025-10-29T00:00:00-06:00
+48.5,Genesee,Relative Humidity,2025-10-29T00:00:00-06:00
+2.0,Genesee,Outdoor Temperature,2025-10-29T00:00:00-06:00
 2.0,Genesee,,2025-10-29T00:00:00-06:00
 0.023,Genesee,Ozone,2025-10-29T00:00:00-06:00
 0.0,Genesee,Nitric Oxide,2025-10-29T00:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-29T00:00:00-06:00
 4.5,Genesee,Fine Particulate Matter,2025-10-29T00:00:00-06:00
-2.0,Genesee,Outdoor Temperature,2025-10-29T00:00:00-06:00
-48.5,Genesee,Relative Humidity,2025-10-29T00:00:00-06:00
-104.0,Genesee,Wind Direction,2025-10-29T00:00:00-06:00
-12.4,Genesee,Wind Speed,2025-10-29T00:00:00-06:00
-0.002,Genesee,Total Oxides of Nitrogen,2025-10-29T00:00:00-06:00
-0.002,Genesee,Nitrogen Dioxide,2025-10-29T00:00:00-06:00
 2.0,Genesee,,2025-10-28T23:00:00-06:00
 4.7,Genesee,Fine Particulate Matter,2025-10-28T23:00:00-06:00
 0.001,Genesee,Sulphur Dioxide,2025-10-28T23:00:00-06:00
@@ -1011,17 +1022,17 @@ Value,StationName,ParameterName,ReadingDate
 2.1,Genesee,Outdoor Temperature,2025-10-28T23:00:00-06:00
 0.023,Genesee,Ozone,2025-10-28T23:00:00-06:00
 0.0,Genesee,Nitric Oxide,2025-10-28T23:00:00-06:00
-5.0,Genesee,Fine Particulate Matter,2025-10-28T22:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-28T22:00:00-06:00
-0.001,Genesee,Sulphur Dioxide,2025-10-28T22:00:00-06:00
-0.024,Genesee,Ozone,2025-10-28T22:00:00-06:00
-2.4,Genesee,Outdoor Temperature,2025-10-28T22:00:00-06:00
-46.2,Genesee,Relative Humidity,2025-10-28T22:00:00-06:00
-102.0,Genesee,Wind Direction,2025-10-28T22:00:00-06:00
-11.3,Genesee,Wind Speed,2025-10-28T22:00:00-06:00
-0.003,Genesee,Nitrogen Dioxide,2025-10-28T22:00:00-06:00
-0.002,Genesee,Total Oxides of Nitrogen,2025-10-28T22:00:00-06:00
 2.0,Genesee,,2025-10-28T22:00:00-06:00
+0.002,Genesee,Total Oxides of Nitrogen,2025-10-28T22:00:00-06:00
+0.003,Genesee,Nitrogen Dioxide,2025-10-28T22:00:00-06:00
+11.3,Genesee,Wind Speed,2025-10-28T22:00:00-06:00
+102.0,Genesee,Wind Direction,2025-10-28T22:00:00-06:00
+46.2,Genesee,Relative Humidity,2025-10-28T22:00:00-06:00
+2.4,Genesee,Outdoor Temperature,2025-10-28T22:00:00-06:00
+0.024,Genesee,Ozone,2025-10-28T22:00:00-06:00
+0.001,Genesee,Sulphur Dioxide,2025-10-28T22:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-28T22:00:00-06:00
+5.0,Genesee,Fine Particulate Matter,2025-10-28T22:00:00-06:00
 2.0,Genesee,,2025-10-28T21:00:00-06:00
 0.023,Genesee,Ozone,2025-10-28T21:00:00-06:00
 0.0,Genesee,Nitric Oxide,2025-10-28T21:00:00-06:00
@@ -1033,14 +1044,14 @@ Value,StationName,ParameterName,ReadingDate
 0.003,Genesee,Total Oxides of Nitrogen,2025-10-28T21:00:00-06:00
 45.1,Genesee,Relative Humidity,2025-10-28T21:00:00-06:00
 2.9,Genesee,Outdoor Temperature,2025-10-28T21:00:00-06:00
+43.2,Genesee,Relative Humidity,2025-10-28T20:00:00-06:00
+4.2,Genesee,Outdoor Temperature,2025-10-28T20:00:00-06:00
+0.026,Genesee,Ozone,2025-10-28T20:00:00-06:00
 2.0,Genesee,,2025-10-28T20:00:00-06:00
 0.002,Genesee,Total Oxides of Nitrogen,2025-10-28T20:00:00-06:00
 0.002,Genesee,Nitrogen Dioxide,2025-10-28T20:00:00-06:00
 93.0,Genesee,Wind Direction,2025-10-28T20:00:00-06:00
 10.2,Genesee,Wind Speed,2025-10-28T20:00:00-06:00
-43.2,Genesee,Relative Humidity,2025-10-28T20:00:00-06:00
-4.2,Genesee,Outdoor Temperature,2025-10-28T20:00:00-06:00
-0.026,Genesee,Ozone,2025-10-28T20:00:00-06:00
 0.0,Genesee,Nitric Oxide,2025-10-28T20:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-28T20:00:00-06:00
 4.3,Genesee,Fine Particulate Matter,2025-10-28T20:00:00-06:00
@@ -1055,14 +1066,14 @@ Value,StationName,ParameterName,ReadingDate
 41.2,Genesee,Relative Humidity,2025-10-28T19:00:00-06:00
 4.7,Genesee,Outdoor Temperature,2025-10-28T19:00:00-06:00
 0.028,Genesee,Ozone,2025-10-28T19:00:00-06:00
-0.029,Genesee,Ozone,2025-10-28T18:00:00-06:00
-5.7,Genesee,Outdoor Temperature,2025-10-28T18:00:00-06:00
-36.2,Genesee,Relative Humidity,2025-10-28T18:00:00-06:00
-6.7,Genesee,Wind Speed,2025-10-28T18:00:00-06:00
-95.0,Genesee,Wind Direction,2025-10-28T18:00:00-06:00
-0.003,Genesee,Nitrogen Dioxide,2025-10-28T18:00:00-06:00
-0.002,Genesee,Total Oxides of Nitrogen,2025-10-28T18:00:00-06:00
 2.0,Genesee,,2025-10-28T18:00:00-06:00
+0.002,Genesee,Total Oxides of Nitrogen,2025-10-28T18:00:00-06:00
+0.003,Genesee,Nitrogen Dioxide,2025-10-28T18:00:00-06:00
+95.0,Genesee,Wind Direction,2025-10-28T18:00:00-06:00
+6.7,Genesee,Wind Speed,2025-10-28T18:00:00-06:00
+36.2,Genesee,Relative Humidity,2025-10-28T18:00:00-06:00
+5.7,Genesee,Outdoor Temperature,2025-10-28T18:00:00-06:00
+0.029,Genesee,Ozone,2025-10-28T18:00:00-06:00
 0.0,Genesee,Nitric Oxide,2025-10-28T18:00:00-06:00
 4.9,Genesee,Fine Particulate Matter,2025-10-28T18:00:00-06:00
 0.001,Genesee,Sulphur Dioxide,2025-10-28T18:00:00-06:00
@@ -1077,28 +1088,28 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Genesee,Total Oxides of Nitrogen,2025-10-28T17:00:00-06:00
 3.5,Genesee,Fine Particulate Matter,2025-10-28T17:00:00-06:00
 0.001,Genesee,Sulphur Dioxide,2025-10-28T17:00:00-06:00
-3.6,Genesee,Fine Particulate Matter,2025-10-28T16:00:00-06:00
-0.0,Genesee,Total Oxides of Nitrogen,2025-10-28T16:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-28T16:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-28T16:00:00-06:00
-0.001,Genesee,Nitrogen Dioxide,2025-10-28T16:00:00-06:00
-0.032,Genesee,Ozone,2025-10-28T16:00:00-06:00
-8.5,Genesee,Outdoor Temperature,2025-10-28T16:00:00-06:00
-30.6,Genesee,Relative Humidity,2025-10-28T16:00:00-06:00
-5.7,Genesee,Wind Speed,2025-10-28T16:00:00-06:00
-161.0,Genesee,Wind Direction,2025-10-28T16:00:00-06:00
+0.0,Genesee,Total Oxides of Nitrogen,2025-10-28T16:00:00-06:00
+3.6,Genesee,Fine Particulate Matter,2025-10-28T16:00:00-06:00
 2.0,Genesee,,2025-10-28T16:00:00-06:00
-2.0,Genesee,,2025-10-28T15:00:00-06:00
-233.0,Genesee,Wind Direction,2025-10-28T15:00:00-06:00
-7.0,Genesee,Wind Speed,2025-10-28T15:00:00-06:00
-34.2,Genesee,Relative Humidity,2025-10-28T15:00:00-06:00
-8.4,Genesee,Outdoor Temperature,2025-10-28T15:00:00-06:00
-0.031,Genesee,Ozone,2025-10-28T15:00:00-06:00
-0.001,Genesee,Nitrogen Dioxide,2025-10-28T15:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-28T15:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-28T15:00:00-06:00
-0.0,Genesee,Total Oxides of Nitrogen,2025-10-28T15:00:00-06:00
+161.0,Genesee,Wind Direction,2025-10-28T16:00:00-06:00
+5.7,Genesee,Wind Speed,2025-10-28T16:00:00-06:00
+30.6,Genesee,Relative Humidity,2025-10-28T16:00:00-06:00
+8.5,Genesee,Outdoor Temperature,2025-10-28T16:00:00-06:00
+0.032,Genesee,Ozone,2025-10-28T16:00:00-06:00
+0.001,Genesee,Nitrogen Dioxide,2025-10-28T16:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-28T16:00:00-06:00
 3.7,Genesee,Fine Particulate Matter,2025-10-28T15:00:00-06:00
+0.0,Genesee,Total Oxides of Nitrogen,2025-10-28T15:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-28T15:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-28T15:00:00-06:00
+0.001,Genesee,Nitrogen Dioxide,2025-10-28T15:00:00-06:00
+0.031,Genesee,Ozone,2025-10-28T15:00:00-06:00
+8.4,Genesee,Outdoor Temperature,2025-10-28T15:00:00-06:00
+34.2,Genesee,Relative Humidity,2025-10-28T15:00:00-06:00
+7.0,Genesee,Wind Speed,2025-10-28T15:00:00-06:00
+233.0,Genesee,Wind Direction,2025-10-28T15:00:00-06:00
+2.0,Genesee,,2025-10-28T15:00:00-06:00
 2.0,Genesee,,2025-10-28T14:00:00-06:00
 246.0,Genesee,Wind Direction,2025-10-28T14:00:00-06:00
 11.1,Genesee,Wind Speed,2025-10-28T14:00:00-06:00
@@ -1132,28 +1143,28 @@ Value,StationName,ParameterName,ReadingDate
 0.001,Genesee,Nitric Oxide,2025-10-28T12:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-28T12:00:00-06:00
 4.1,Genesee,Fine Particulate Matter,2025-10-28T12:00:00-06:00
-3.9,Genesee,Fine Particulate Matter,2025-10-28T11:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-28T11:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-28T11:00:00-06:00
-0.001,Genesee,Nitrogen Dioxide,2025-10-28T11:00:00-06:00
-0.001,Genesee,Total Oxides of Nitrogen,2025-10-28T11:00:00-06:00
-0.027,Genesee,Ozone,2025-10-28T11:00:00-06:00
-4.3,Genesee,Outdoor Temperature,2025-10-28T11:00:00-06:00
-52.8,Genesee,Relative Humidity,2025-10-28T11:00:00-06:00
-18.2,Genesee,Wind Speed,2025-10-28T11:00:00-06:00
-255.0,Genesee,Wind Direction,2025-10-28T11:00:00-06:00
 2.0,Genesee,,2025-10-28T11:00:00-06:00
+255.0,Genesee,Wind Direction,2025-10-28T11:00:00-06:00
+18.2,Genesee,Wind Speed,2025-10-28T11:00:00-06:00
+52.8,Genesee,Relative Humidity,2025-10-28T11:00:00-06:00
+4.3,Genesee,Outdoor Temperature,2025-10-28T11:00:00-06:00
+0.027,Genesee,Ozone,2025-10-28T11:00:00-06:00
+0.001,Genesee,Total Oxides of Nitrogen,2025-10-28T11:00:00-06:00
+0.001,Genesee,Nitrogen Dioxide,2025-10-28T11:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-28T11:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-28T11:00:00-06:00
+3.9,Genesee,Fine Particulate Matter,2025-10-28T11:00:00-06:00
 2.0,Genesee,,2025-10-28T10:00:00-06:00
 255.0,Genesee,Wind Direction,2025-10-28T10:00:00-06:00
 17.6,Genesee,Wind Speed,2025-10-28T10:00:00-06:00
 58.6,Genesee,Relative Humidity,2025-10-28T10:00:00-06:00
 2.0,Genesee,Outdoor Temperature,2025-10-28T10:00:00-06:00
-0.025,Genesee,Ozone,2025-10-28T10:00:00-06:00
-0.001,Genesee,Nitrogen Dioxide,2025-10-28T10:00:00-06:00
-0.001,Genesee,Total Oxides of Nitrogen,2025-10-28T10:00:00-06:00
 0.0,Genesee,Nitric Oxide,2025-10-28T10:00:00-06:00
 3.7,Genesee,Fine Particulate Matter,2025-10-28T10:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-28T10:00:00-06:00
+0.001,Genesee,Total Oxides of Nitrogen,2025-10-28T10:00:00-06:00
+0.001,Genesee,Nitrogen Dioxide,2025-10-28T10:00:00-06:00
+0.025,Genesee,Ozone,2025-10-28T10:00:00-06:00
 3.9,Genesee,Fine Particulate Matter,2025-10-28T09:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-28T09:00:00-06:00
 0.0,Genesee,Nitric Oxide,2025-10-28T09:00:00-06:00
@@ -1165,6 +1176,9 @@ Value,StationName,ParameterName,ReadingDate
 0.001,Genesee,Nitrogen Dioxide,2025-10-28T09:00:00-06:00
 0.026,Genesee,Ozone,2025-10-28T09:00:00-06:00
 2.0,Genesee,,2025-10-28T09:00:00-06:00
+4.8,Genesee,Fine Particulate Matter,2025-10-28T08:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-28T08:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-28T08:00:00-06:00
 2.0,Genesee,,2025-10-28T08:00:00-06:00
 0.025,Genesee,Ozone,2025-10-28T08:00:00-06:00
 0.002,Genesee,Total Oxides of Nitrogen,2025-10-28T08:00:00-06:00
@@ -1173,9 +1187,6 @@ Value,StationName,ParameterName,ReadingDate
 18.5,Genesee,Wind Speed,2025-10-28T08:00:00-06:00
 61.4,Genesee,Relative Humidity,2025-10-28T08:00:00-06:00
 1.5,Genesee,Outdoor Temperature,2025-10-28T08:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-28T08:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-28T08:00:00-06:00
-4.8,Genesee,Fine Particulate Matter,2025-10-28T08:00:00-06:00
 2.0,Genesee,,2025-10-28T07:00:00-06:00
 0.026,Genesee,Ozone,2025-10-28T07:00:00-06:00
 0.001,Genesee,Nitrogen Dioxide,2025-10-28T07:00:00-06:00
@@ -1187,17 +1198,17 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Genesee,Sulphur Dioxide,2025-10-28T07:00:00-06:00
 4.5,Genesee,Fine Particulate Matter,2025-10-28T07:00:00-06:00
 0.0,Genesee,Nitric Oxide,2025-10-28T07:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-28T06:00:00-06:00
-1.9,Genesee,Outdoor Temperature,2025-10-28T06:00:00-06:00
-63.3,Genesee,Relative Humidity,2025-10-28T06:00:00-06:00
 19.8,Genesee,Wind Speed,2025-10-28T06:00:00-06:00
+63.3,Genesee,Relative Humidity,2025-10-28T06:00:00-06:00
+1.9,Genesee,Outdoor Temperature,2025-10-28T06:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-28T06:00:00-06:00
 267.0,Genesee,Wind Direction,2025-10-28T06:00:00-06:00
 4.6,Genesee,Fine Particulate Matter,2025-10-28T06:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-28T06:00:00-06:00
-0.001,Genesee,Total Oxides of Nitrogen,2025-10-28T06:00:00-06:00
-0.001,Genesee,Nitrogen Dioxide,2025-10-28T06:00:00-06:00
-0.026,Genesee,Ozone,2025-10-28T06:00:00-06:00
 ,Genesee,,2025-10-28T06:00:00-06:00
+0.026,Genesee,Ozone,2025-10-28T06:00:00-06:00
+0.001,Genesee,Nitrogen Dioxide,2025-10-28T06:00:00-06:00
+0.001,Genesee,Total Oxides of Nitrogen,2025-10-28T06:00:00-06:00
 ,Genesee,Nitric Oxide,2025-10-28T05:00:00-06:00
 ,Genesee,Ozone,2025-10-28T05:00:00-06:00
 ,Genesee,Nitrogen Dioxide,2025-10-28T05:00:00-06:00
@@ -1315,10 +1326,10 @@ Value,StationName,ParameterName,ReadingDate
 38.0,Genesee,Wind Speed,2025-10-27T19:00:00-06:00
 0.001,Genesee,Nitrogen Dioxide,2025-10-27T19:00:00-06:00
 0.026,Genesee,Ozone,2025-10-27T19:00:00-06:00
-5.0,Genesee,Fine Particulate Matter,2025-10-27T19:00:00-06:00
-6.1,Genesee,Outdoor Temperature,2025-10-27T19:00:00-06:00
-55.4,Genesee,Relative Humidity,2025-10-27T19:00:00-06:00
 0.001,Genesee,Total Oxides of Nitrogen,2025-10-27T19:00:00-06:00
+55.4,Genesee,Relative Humidity,2025-10-27T19:00:00-06:00
+6.1,Genesee,Outdoor Temperature,2025-10-27T19:00:00-06:00
+5.0,Genesee,Fine Particulate Matter,2025-10-27T19:00:00-06:00
 4.6,Genesee,Fine Particulate Matter,2025-10-27T18:00:00-06:00
 6.7,Genesee,Outdoor Temperature,2025-10-27T18:00:00-06:00
 55.7,Genesee,Relative Humidity,2025-10-27T18:00:00-06:00
@@ -1330,8 +1341,6 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Genesee,Total Oxides of Nitrogen,2025-10-27T18:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-27T18:00:00-06:00
 2.0,Genesee,,2025-10-27T18:00:00-06:00
-4.3,Genesee,Fine Particulate Matter,2025-10-27T17:00:00-06:00
-7.0,Genesee,Outdoor Temperature,2025-10-27T17:00:00-06:00
 56.5,Genesee,Relative Humidity,2025-10-27T17:00:00-06:00
 0.027,Genesee,Ozone,2025-10-27T17:00:00-06:00
 40.9,Genesee,Wind Speed,2025-10-27T17:00:00-06:00
@@ -1341,17 +1350,19 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Genesee,Nitrogen Dioxide,2025-10-27T17:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-27T17:00:00-06:00
 2.0,Genesee,,2025-10-27T17:00:00-06:00
+7.0,Genesee,Outdoor Temperature,2025-10-27T17:00:00-06:00
+4.3,Genesee,Fine Particulate Matter,2025-10-27T17:00:00-06:00
 4.4,Genesee,Fine Particulate Matter,2025-10-27T16:00:00-06:00
 6.9,Genesee,Outdoor Temperature,2025-10-27T16:00:00-06:00
-1.0,Genesee,,2025-10-27T16:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-27T16:00:00-06:00
-0.0,Genesee,Total Oxides of Nitrogen,2025-10-27T16:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-27T16:00:00-06:00
-291.0,Genesee,Wind Direction,2025-10-27T16:00:00-06:00
-41.5,Genesee,Wind Speed,2025-10-27T16:00:00-06:00
-0.001,Genesee,Nitrogen Dioxide,2025-10-27T16:00:00-06:00
-0.026,Genesee,Ozone,2025-10-27T16:00:00-06:00
 58.1,Genesee,Relative Humidity,2025-10-27T16:00:00-06:00
+0.026,Genesee,Ozone,2025-10-27T16:00:00-06:00
+0.001,Genesee,Nitrogen Dioxide,2025-10-27T16:00:00-06:00
+41.5,Genesee,Wind Speed,2025-10-27T16:00:00-06:00
+291.0,Genesee,Wind Direction,2025-10-27T16:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-27T16:00:00-06:00
+0.0,Genesee,Total Oxides of Nitrogen,2025-10-27T16:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-27T16:00:00-06:00
+1.0,Genesee,,2025-10-27T16:00:00-06:00
 1.0,Genesee,,2025-10-27T15:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-27T15:00:00-06:00
 0.0,Genesee,Nitrogen Dioxide,2025-10-27T15:00:00-06:00
@@ -1396,28 +1407,28 @@ Value,StationName,ParameterName,ReadingDate
 79.7,Genesee,Relative Humidity,2025-10-27T12:00:00-06:00
 3.2,Genesee,Fine Particulate Matter,2025-10-27T12:00:00-06:00
 4.8,Genesee,Outdoor Temperature,2025-10-27T12:00:00-06:00
-3.0,Genesee,Fine Particulate Matter,2025-10-27T11:00:00-06:00
-5.2,Genesee,Outdoor Temperature,2025-10-27T11:00:00-06:00
-76.7,Genesee,Relative Humidity,2025-10-27T11:00:00-06:00
-0.02,Genesee,Ozone,2025-10-27T11:00:00-06:00
-0.001,Genesee,Nitrogen Dioxide,2025-10-27T11:00:00-06:00
-0.001,Genesee,Total Oxides of Nitrogen,2025-10-27T11:00:00-06:00
-29.0,Genesee,Wind Speed,2025-10-27T11:00:00-06:00
-279.0,Genesee,Wind Direction,2025-10-27T11:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-27T11:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-27T11:00:00-06:00
 1.0,Genesee,,2025-10-27T11:00:00-06:00
-1.0,Genesee,,2025-10-27T10:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-27T10:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-27T10:00:00-06:00
-275.0,Genesee,Wind Direction,2025-10-27T10:00:00-06:00
-30.1,Genesee,Wind Speed,2025-10-27T10:00:00-06:00
-0.001,Genesee,Total Oxides of Nitrogen,2025-10-27T10:00:00-06:00
-0.001,Genesee,Nitrogen Dioxide,2025-10-27T10:00:00-06:00
-0.02,Genesee,Ozone,2025-10-27T10:00:00-06:00
-75.9,Genesee,Relative Humidity,2025-10-27T10:00:00-06:00
-5.1,Genesee,Outdoor Temperature,2025-10-27T10:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-27T11:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-27T11:00:00-06:00
+279.0,Genesee,Wind Direction,2025-10-27T11:00:00-06:00
+29.0,Genesee,Wind Speed,2025-10-27T11:00:00-06:00
+0.001,Genesee,Total Oxides of Nitrogen,2025-10-27T11:00:00-06:00
+0.001,Genesee,Nitrogen Dioxide,2025-10-27T11:00:00-06:00
+0.02,Genesee,Ozone,2025-10-27T11:00:00-06:00
+76.7,Genesee,Relative Humidity,2025-10-27T11:00:00-06:00
+5.2,Genesee,Outdoor Temperature,2025-10-27T11:00:00-06:00
+3.0,Genesee,Fine Particulate Matter,2025-10-27T11:00:00-06:00
 3.0,Genesee,Fine Particulate Matter,2025-10-27T10:00:00-06:00
+5.1,Genesee,Outdoor Temperature,2025-10-27T10:00:00-06:00
+75.9,Genesee,Relative Humidity,2025-10-27T10:00:00-06:00
+0.02,Genesee,Ozone,2025-10-27T10:00:00-06:00
+0.001,Genesee,Nitrogen Dioxide,2025-10-27T10:00:00-06:00
+0.001,Genesee,Total Oxides of Nitrogen,2025-10-27T10:00:00-06:00
+30.1,Genesee,Wind Speed,2025-10-27T10:00:00-06:00
+275.0,Genesee,Wind Direction,2025-10-27T10:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-27T10:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-27T10:00:00-06:00
+1.0,Genesee,,2025-10-27T10:00:00-06:00
 1.0,Genesee,,2025-10-27T09:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-27T09:00:00-06:00
 0.0,Genesee,Nitric Oxide,2025-10-27T09:00:00-06:00
@@ -1426,9 +1437,12 @@ Value,StationName,ParameterName,ReadingDate
 0.022,Genesee,Ozone,2025-10-27T09:00:00-06:00
 28.8,Genesee,Wind Speed,2025-10-27T09:00:00-06:00
 0.001,Genesee,Total Oxides of Nitrogen,2025-10-27T09:00:00-06:00
-75.6,Genesee,Relative Humidity,2025-10-27T09:00:00-06:00
-5.0,Genesee,Outdoor Temperature,2025-10-27T09:00:00-06:00
 3.2,Genesee,Fine Particulate Matter,2025-10-27T09:00:00-06:00
+5.0,Genesee,Outdoor Temperature,2025-10-27T09:00:00-06:00
+75.6,Genesee,Relative Humidity,2025-10-27T09:00:00-06:00
+3.2,Genesee,Fine Particulate Matter,2025-10-27T08:00:00-06:00
+5.4,Genesee,Outdoor Temperature,2025-10-27T08:00:00-06:00
+72.1,Genesee,Relative Humidity,2025-10-27T08:00:00-06:00
 0.001,Genesee,Nitrogen Dioxide,2025-10-27T08:00:00-06:00
 27.9,Genesee,Wind Speed,2025-10-27T08:00:00-06:00
 0.023,Genesee,Ozone,2025-10-27T08:00:00-06:00
@@ -1437,9 +1451,6 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Genesee,Total Oxides of Nitrogen,2025-10-27T08:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-27T08:00:00-06:00
 1.0,Genesee,,2025-10-27T08:00:00-06:00
-72.1,Genesee,Relative Humidity,2025-10-27T08:00:00-06:00
-5.4,Genesee,Outdoor Temperature,2025-10-27T08:00:00-06:00
-3.2,Genesee,Fine Particulate Matter,2025-10-27T08:00:00-06:00
 1.0,Genesee,,2025-10-27T07:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-27T07:00:00-06:00
 0.0,Genesee,Total Oxides of Nitrogen,2025-10-27T07:00:00-06:00
@@ -1462,17 +1473,17 @@ Value,StationName,ParameterName,ReadingDate
 69.1,Genesee,Relative Humidity,2025-10-27T06:00:00-06:00
 5.1,Genesee,Outdoor Temperature,2025-10-27T06:00:00-06:00
 4.1,Genesee,Fine Particulate Matter,2025-10-27T06:00:00-06:00
-2.0,Genesee,,2025-10-27T05:00:00-06:00
-258.0,Genesee,Wind Direction,2025-10-27T05:00:00-06:00
-25.1,Genesee,Wind Speed,2025-10-27T05:00:00-06:00
-70.5,Genesee,Relative Humidity,2025-10-27T05:00:00-06:00
-5.2,Genesee,Outdoor Temperature,2025-10-27T05:00:00-06:00
-,Genesee,Ozone,2025-10-27T05:00:00-06:00
-,Genesee,Nitric Oxide,2025-10-27T05:00:00-06:00
-,Genesee,Total Oxides of Nitrogen,2025-10-27T05:00:00-06:00
-,Genesee,Nitrogen Dioxide,2025-10-27T05:00:00-06:00
-4.6,Genesee,Fine Particulate Matter,2025-10-27T05:00:00-06:00
 ,Genesee,Sulphur Dioxide,2025-10-27T05:00:00-06:00
+,Genesee,Nitrogen Dioxide,2025-10-27T05:00:00-06:00
+,Genesee,Total Oxides of Nitrogen,2025-10-27T05:00:00-06:00
+,Genesee,Nitric Oxide,2025-10-27T05:00:00-06:00
+,Genesee,Ozone,2025-10-27T05:00:00-06:00
+4.6,Genesee,Fine Particulate Matter,2025-10-27T05:00:00-06:00
+5.2,Genesee,Outdoor Temperature,2025-10-27T05:00:00-06:00
+70.5,Genesee,Relative Humidity,2025-10-27T05:00:00-06:00
+25.1,Genesee,Wind Speed,2025-10-27T05:00:00-06:00
+258.0,Genesee,Wind Direction,2025-10-27T05:00:00-06:00
+2.0,Genesee,,2025-10-27T05:00:00-06:00
 2.0,Genesee,,2025-10-27T04:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-27T04:00:00-06:00
 0.0,Genesee,Nitric Oxide,2025-10-27T04:00:00-06:00
@@ -1484,12 +1495,12 @@ Value,StationName,ParameterName,ReadingDate
 73.1,Genesee,Relative Humidity,2025-10-27T04:00:00-06:00
 5.0,Genesee,Outdoor Temperature,2025-10-27T04:00:00-06:00
 4.3,Genesee,Fine Particulate Matter,2025-10-27T04:00:00-06:00
-2.0,Genesee,,2025-10-27T03:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-27T03:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-27T03:00:00-06:00
-256.0,Genesee,Wind Direction,2025-10-27T03:00:00-06:00
-21.5,Genesee,Wind Speed,2025-10-27T03:00:00-06:00
 0.001,Genesee,Total Oxides of Nitrogen,2025-10-27T03:00:00-06:00
+21.5,Genesee,Wind Speed,2025-10-27T03:00:00-06:00
+256.0,Genesee,Wind Direction,2025-10-27T03:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-27T03:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-27T03:00:00-06:00
+2.0,Genesee,,2025-10-27T03:00:00-06:00
 0.001,Genesee,Nitrogen Dioxide,2025-10-27T03:00:00-06:00
 0.024,Genesee,Ozone,2025-10-27T03:00:00-06:00
 75.8,Genesee,Relative Humidity,2025-10-27T03:00:00-06:00
@@ -1506,39 +1517,39 @@ Value,StationName,ParameterName,ReadingDate
 74.4,Genesee,Relative Humidity,2025-10-27T02:00:00-06:00
 4.7,Genesee,Outdoor Temperature,2025-10-27T02:00:00-06:00
 4.9,Genesee,Fine Particulate Matter,2025-10-27T02:00:00-06:00
-2.0,Genesee,,2025-10-27T01:00:00-06:00
-5.5,Genesee,Fine Particulate Matter,2025-10-27T01:00:00-06:00
-4.7,Genesee,Outdoor Temperature,2025-10-27T01:00:00-06:00
-73.7,Genesee,Relative Humidity,2025-10-27T01:00:00-06:00
-22.9,Genesee,Wind Speed,2025-10-27T01:00:00-06:00
-0.026,Genesee,Ozone,2025-10-27T01:00:00-06:00
-0.001,Genesee,Nitrogen Dioxide,2025-10-27T01:00:00-06:00
-0.001,Genesee,Total Oxides of Nitrogen,2025-10-27T01:00:00-06:00
-258.0,Genesee,Wind Direction,2025-10-27T01:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-27T01:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-27T01:00:00-06:00
-0.024,Genesee,Ozone,2025-10-27T00:00:00-06:00
-265.0,Genesee,Wind Direction,2025-10-27T00:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-27T00:00:00-06:00
-4.1,Genesee,Outdoor Temperature,2025-10-27T00:00:00-06:00
-0.002,Genesee,Nitrogen Dioxide,2025-10-27T00:00:00-06:00
-5.4,Genesee,Fine Particulate Matter,2025-10-27T00:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-27T01:00:00-06:00
+258.0,Genesee,Wind Direction,2025-10-27T01:00:00-06:00
+0.001,Genesee,Total Oxides of Nitrogen,2025-10-27T01:00:00-06:00
+0.001,Genesee,Nitrogen Dioxide,2025-10-27T01:00:00-06:00
+0.026,Genesee,Ozone,2025-10-27T01:00:00-06:00
+22.9,Genesee,Wind Speed,2025-10-27T01:00:00-06:00
+73.7,Genesee,Relative Humidity,2025-10-27T01:00:00-06:00
+4.7,Genesee,Outdoor Temperature,2025-10-27T01:00:00-06:00
+5.5,Genesee,Fine Particulate Matter,2025-10-27T01:00:00-06:00
+2.0,Genesee,,2025-10-27T01:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-27T00:00:00-06:00
+5.4,Genesee,Fine Particulate Matter,2025-10-27T00:00:00-06:00
+0.002,Genesee,Nitrogen Dioxide,2025-10-27T00:00:00-06:00
+4.1,Genesee,Outdoor Temperature,2025-10-27T00:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-27T00:00:00-06:00
+265.0,Genesee,Wind Direction,2025-10-27T00:00:00-06:00
+0.024,Genesee,Ozone,2025-10-27T00:00:00-06:00
 2.0,Genesee,,2025-10-27T00:00:00-06:00
 21.3,Genesee,Wind Speed,2025-10-27T00:00:00-06:00
 0.002,Genesee,Total Oxides of Nitrogen,2025-10-27T00:00:00-06:00
 79.7,Genesee,Relative Humidity,2025-10-27T00:00:00-06:00
-2.0,Genesee,,2025-10-26T23:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-26T23:00:00-06:00
-19.4,Genesee,Wind Speed,2025-10-26T23:00:00-06:00
-0.003,Genesee,Nitrogen Dioxide,2025-10-26T23:00:00-06:00
-3.7,Genesee,Outdoor Temperature,2025-10-26T23:00:00-06:00
-0.022,Genesee,Ozone,2025-10-26T23:00:00-06:00
-85.1,Genesee,Relative Humidity,2025-10-26T23:00:00-06:00
-280.0,Genesee,Wind Direction,2025-10-26T23:00:00-06:00
-0.003,Genesee,Total Oxides of Nitrogen,2025-10-26T23:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-26T23:00:00-06:00
 5.5,Genesee,Fine Particulate Matter,2025-10-26T23:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-26T23:00:00-06:00
+0.003,Genesee,Total Oxides of Nitrogen,2025-10-26T23:00:00-06:00
+280.0,Genesee,Wind Direction,2025-10-26T23:00:00-06:00
+85.1,Genesee,Relative Humidity,2025-10-26T23:00:00-06:00
+0.022,Genesee,Ozone,2025-10-26T23:00:00-06:00
+3.7,Genesee,Outdoor Temperature,2025-10-26T23:00:00-06:00
+0.003,Genesee,Nitrogen Dioxide,2025-10-26T23:00:00-06:00
+19.4,Genesee,Wind Speed,2025-10-26T23:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-26T23:00:00-06:00
+2.0,Genesee,,2025-10-26T23:00:00-06:00
 2.0,Genesee,,2025-10-26T22:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-26T22:00:00-06:00
 18.6,Genesee,Wind Speed,2025-10-26T22:00:00-06:00
@@ -1583,39 +1594,39 @@ Value,StationName,ParameterName,ReadingDate
 4.7,Genesee,Fine Particulate Matter,2025-10-26T19:00:00-06:00
 0.001,Genesee,Nitrogen Dioxide,2025-10-26T19:00:00-06:00
 0.001,Genesee,Total Oxides of Nitrogen,2025-10-26T19:00:00-06:00
-0.001,Genesee,Total Oxides of Nitrogen,2025-10-26T18:00:00-06:00
-0.001,Genesee,Nitrogen Dioxide,2025-10-26T18:00:00-06:00
-4.9,Genesee,Fine Particulate Matter,2025-10-26T18:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-26T18:00:00-06:00
-268.0,Genesee,Wind Direction,2025-10-26T18:00:00-06:00
-0.03,Genesee,Ozone,2025-10-26T18:00:00-06:00
-58.9,Genesee,Relative Humidity,2025-10-26T18:00:00-06:00
-9.4,Genesee,Outdoor Temperature,2025-10-26T18:00:00-06:00
-11.4,Genesee,Wind Speed,2025-10-26T18:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-26T18:00:00-06:00
 2.0,Genesee,,2025-10-26T18:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-26T17:00:00-06:00
-277.0,Genesee,Wind Direction,2025-10-26T17:00:00-06:00
-0.031,Genesee,Ozone,2025-10-26T17:00:00-06:00
-61.6,Genesee,Relative Humidity,2025-10-26T17:00:00-06:00
-9.3,Genesee,Outdoor Temperature,2025-10-26T17:00:00-06:00
-14.9,Genesee,Wind Speed,2025-10-26T17:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-26T17:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-26T18:00:00-06:00
+11.4,Genesee,Wind Speed,2025-10-26T18:00:00-06:00
+9.4,Genesee,Outdoor Temperature,2025-10-26T18:00:00-06:00
+58.9,Genesee,Relative Humidity,2025-10-26T18:00:00-06:00
+0.03,Genesee,Ozone,2025-10-26T18:00:00-06:00
+268.0,Genesee,Wind Direction,2025-10-26T18:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-26T18:00:00-06:00
+4.9,Genesee,Fine Particulate Matter,2025-10-26T18:00:00-06:00
+0.001,Genesee,Nitrogen Dioxide,2025-10-26T18:00:00-06:00
+0.001,Genesee,Total Oxides of Nitrogen,2025-10-26T18:00:00-06:00
 2.0,Genesee,,2025-10-26T17:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-26T17:00:00-06:00
+14.9,Genesee,Wind Speed,2025-10-26T17:00:00-06:00
+9.3,Genesee,Outdoor Temperature,2025-10-26T17:00:00-06:00
+61.6,Genesee,Relative Humidity,2025-10-26T17:00:00-06:00
+0.031,Genesee,Ozone,2025-10-26T17:00:00-06:00
+277.0,Genesee,Wind Direction,2025-10-26T17:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-26T17:00:00-06:00
 5.3,Genesee,Fine Particulate Matter,2025-10-26T17:00:00-06:00
 0.001,Genesee,Nitrogen Dioxide,2025-10-26T17:00:00-06:00
 0.001,Genesee,Total Oxides of Nitrogen,2025-10-26T17:00:00-06:00
-0.001,Genesee,Total Oxides of Nitrogen,2025-10-26T16:00:00-06:00
-0.001,Genesee,Nitrogen Dioxide,2025-10-26T16:00:00-06:00
-6.6,Genesee,Fine Particulate Matter,2025-10-26T16:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-26T16:00:00-06:00
-278.0,Genesee,Wind Direction,2025-10-26T16:00:00-06:00
-0.029,Genesee,Ozone,2025-10-26T16:00:00-06:00
-68.8,Genesee,Relative Humidity,2025-10-26T16:00:00-06:00
-8.5,Genesee,Outdoor Temperature,2025-10-26T16:00:00-06:00
-17.2,Genesee,Wind Speed,2025-10-26T16:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-26T16:00:00-06:00
 2.0,Genesee,,2025-10-26T16:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-26T16:00:00-06:00
+17.2,Genesee,Wind Speed,2025-10-26T16:00:00-06:00
+8.5,Genesee,Outdoor Temperature,2025-10-26T16:00:00-06:00
+68.8,Genesee,Relative Humidity,2025-10-26T16:00:00-06:00
+0.029,Genesee,Ozone,2025-10-26T16:00:00-06:00
+278.0,Genesee,Wind Direction,2025-10-26T16:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-26T16:00:00-06:00
+6.6,Genesee,Fine Particulate Matter,2025-10-26T16:00:00-06:00
+0.001,Genesee,Nitrogen Dioxide,2025-10-26T16:00:00-06:00
+0.001,Genesee,Total Oxides of Nitrogen,2025-10-26T16:00:00-06:00
 2.0,Genesee,,2025-10-26T15:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-26T15:00:00-06:00
 19.5,Genesee,Wind Speed,2025-10-26T15:00:00-06:00
@@ -1627,28 +1638,28 @@ Value,StationName,ParameterName,ReadingDate
 77.2,Genesee,Relative Humidity,2025-10-26T15:00:00-06:00
 0.027,Genesee,Ozone,2025-10-26T15:00:00-06:00
 8.5,Genesee,Fine Particulate Matter,2025-10-26T15:00:00-06:00
-2.0,Genesee,,2025-10-26T14:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-26T14:00:00-06:00
-24.1,Genesee,Wind Speed,2025-10-26T14:00:00-06:00
-274.0,Genesee,Wind Direction,2025-10-26T14:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-26T14:00:00-06:00
-6.7,Genesee,Outdoor Temperature,2025-10-26T14:00:00-06:00
-84.0,Genesee,Relative Humidity,2025-10-26T14:00:00-06:00
-0.025,Genesee,Ozone,2025-10-26T14:00:00-06:00
-9.1,Genesee,Fine Particulate Matter,2025-10-26T14:00:00-06:00
-0.001,Genesee,Nitrogen Dioxide,2025-10-26T14:00:00-06:00
 0.001,Genesee,Total Oxides of Nitrogen,2025-10-26T14:00:00-06:00
-0.001,Genesee,Total Oxides of Nitrogen,2025-10-26T13:00:00-06:00
-0.001,Genesee,Nitrogen Dioxide,2025-10-26T13:00:00-06:00
-8.7,Genesee,Fine Particulate Matter,2025-10-26T13:00:00-06:00
-6.2,Genesee,Outdoor Temperature,2025-10-26T13:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-26T13:00:00-06:00
-264.0,Genesee,Wind Direction,2025-10-26T13:00:00-06:00
-0.024,Genesee,Ozone,2025-10-26T13:00:00-06:00
-92.0,Genesee,Relative Humidity,2025-10-26T13:00:00-06:00
-21.7,Genesee,Wind Speed,2025-10-26T13:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-26T13:00:00-06:00
+0.001,Genesee,Nitrogen Dioxide,2025-10-26T14:00:00-06:00
+9.1,Genesee,Fine Particulate Matter,2025-10-26T14:00:00-06:00
+0.025,Genesee,Ozone,2025-10-26T14:00:00-06:00
+84.0,Genesee,Relative Humidity,2025-10-26T14:00:00-06:00
+6.7,Genesee,Outdoor Temperature,2025-10-26T14:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-26T14:00:00-06:00
+274.0,Genesee,Wind Direction,2025-10-26T14:00:00-06:00
+24.1,Genesee,Wind Speed,2025-10-26T14:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-26T14:00:00-06:00
+2.0,Genesee,,2025-10-26T14:00:00-06:00
 2.0,Genesee,,2025-10-26T13:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-26T13:00:00-06:00
+21.7,Genesee,Wind Speed,2025-10-26T13:00:00-06:00
+92.0,Genesee,Relative Humidity,2025-10-26T13:00:00-06:00
+0.024,Genesee,Ozone,2025-10-26T13:00:00-06:00
+264.0,Genesee,Wind Direction,2025-10-26T13:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-26T13:00:00-06:00
+6.2,Genesee,Outdoor Temperature,2025-10-26T13:00:00-06:00
+8.7,Genesee,Fine Particulate Matter,2025-10-26T13:00:00-06:00
+0.001,Genesee,Nitrogen Dioxide,2025-10-26T13:00:00-06:00
+0.001,Genesee,Total Oxides of Nitrogen,2025-10-26T13:00:00-06:00
 2.0,Genesee,,2025-10-26T12:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-26T12:00:00-06:00
 16.9,Genesee,Wind Speed,2025-10-26T12:00:00-06:00
@@ -1660,39 +1671,39 @@ Value,StationName,ParameterName,ReadingDate
 0.001,Genesee,Nitrogen Dioxide,2025-10-26T12:00:00-06:00
 8.7,Genesee,Fine Particulate Matter,2025-10-26T12:00:00-06:00
 0.001,Genesee,Total Oxides of Nitrogen,2025-10-26T12:00:00-06:00
-2.0,Genesee,,2025-10-26T11:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-26T11:00:00-06:00
-12.2,Genesee,Wind Speed,2025-10-26T11:00:00-06:00
-254.0,Genesee,Wind Direction,2025-10-26T11:00:00-06:00
-4.6,Genesee,Outdoor Temperature,2025-10-26T11:00:00-06:00
-0.005,Genesee,Nitrogen Dioxide,2025-10-26T11:00:00-06:00
-0.006,Genesee,Total Oxides of Nitrogen,2025-10-26T11:00:00-06:00
-99.5,Genesee,Relative Humidity,2025-10-26T11:00:00-06:00
-0.018,Genesee,Ozone,2025-10-26T11:00:00-06:00
-6.5,Genesee,Fine Particulate Matter,2025-10-26T11:00:00-06:00
 0.001,Genesee,Nitric Oxide,2025-10-26T11:00:00-06:00
-0.001,Genesee,Total Oxides of Nitrogen,2025-10-26T10:00:00-06:00
-0.001,Genesee,Nitrogen Dioxide,2025-10-26T10:00:00-06:00
-5.0,Genesee,Fine Particulate Matter,2025-10-26T10:00:00-06:00
-0.022,Genesee,Ozone,2025-10-26T10:00:00-06:00
-99.5,Genesee,Relative Humidity,2025-10-26T10:00:00-06:00
-3.0,Genesee,Outdoor Temperature,2025-10-26T10:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-26T10:00:00-06:00
-231.0,Genesee,Wind Direction,2025-10-26T10:00:00-06:00
-2.5,Genesee,Wind Speed,2025-10-26T10:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-26T10:00:00-06:00
+6.5,Genesee,Fine Particulate Matter,2025-10-26T11:00:00-06:00
+0.018,Genesee,Ozone,2025-10-26T11:00:00-06:00
+99.5,Genesee,Relative Humidity,2025-10-26T11:00:00-06:00
+0.006,Genesee,Total Oxides of Nitrogen,2025-10-26T11:00:00-06:00
+0.005,Genesee,Nitrogen Dioxide,2025-10-26T11:00:00-06:00
+4.6,Genesee,Outdoor Temperature,2025-10-26T11:00:00-06:00
+254.0,Genesee,Wind Direction,2025-10-26T11:00:00-06:00
+12.2,Genesee,Wind Speed,2025-10-26T11:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-26T11:00:00-06:00
+2.0,Genesee,,2025-10-26T11:00:00-06:00
 1.0,Genesee,,2025-10-26T10:00:00-06:00
-2.0,Genesee,,2025-10-26T09:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-26T09:00:00-06:00
-2.2,Genesee,Wind Speed,2025-10-26T09:00:00-06:00
-3.0,Genesee,Wind Direction,2025-10-26T09:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-26T09:00:00-06:00
-2.8,Genesee,Outdoor Temperature,2025-10-26T09:00:00-06:00
-0.002,Genesee,Nitrogen Dioxide,2025-10-26T09:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-26T10:00:00-06:00
+2.5,Genesee,Wind Speed,2025-10-26T10:00:00-06:00
+231.0,Genesee,Wind Direction,2025-10-26T10:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-26T10:00:00-06:00
+3.0,Genesee,Outdoor Temperature,2025-10-26T10:00:00-06:00
+99.5,Genesee,Relative Humidity,2025-10-26T10:00:00-06:00
+0.022,Genesee,Ozone,2025-10-26T10:00:00-06:00
+5.0,Genesee,Fine Particulate Matter,2025-10-26T10:00:00-06:00
+0.001,Genesee,Nitrogen Dioxide,2025-10-26T10:00:00-06:00
+0.001,Genesee,Total Oxides of Nitrogen,2025-10-26T10:00:00-06:00
 0.001,Genesee,Total Oxides of Nitrogen,2025-10-26T09:00:00-06:00
 4.9,Genesee,Fine Particulate Matter,2025-10-26T09:00:00-06:00
 0.021,Genesee,Ozone,2025-10-26T09:00:00-06:00
 99.5,Genesee,Relative Humidity,2025-10-26T09:00:00-06:00
+0.002,Genesee,Nitrogen Dioxide,2025-10-26T09:00:00-06:00
+2.8,Genesee,Outdoor Temperature,2025-10-26T09:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-26T09:00:00-06:00
+3.0,Genesee,Wind Direction,2025-10-26T09:00:00-06:00
+2.2,Genesee,Wind Speed,2025-10-26T09:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-26T09:00:00-06:00
+2.0,Genesee,,2025-10-26T09:00:00-06:00
 0.001,Genesee,Total Oxides of Nitrogen,2025-10-26T08:00:00-06:00
 0.001,Genesee,Nitrogen Dioxide,2025-10-26T08:00:00-06:00
 4.9,Genesee,Fine Particulate Matter,2025-10-26T08:00:00-06:00
@@ -1704,80 +1715,58 @@ Value,StationName,ParameterName,ReadingDate
 3.6,Genesee,Wind Speed,2025-10-26T08:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-26T08:00:00-06:00
 2.0,Genesee,,2025-10-26T08:00:00-06:00
-2.0,Genesee,,2025-10-26T07:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-26T07:00:00-06:00
-7.4,Genesee,Wind Speed,2025-10-26T07:00:00-06:00
-3.4,Genesee,Outdoor Temperature,2025-10-26T07:00:00-06:00
-99.4,Genesee,Relative Humidity,2025-10-26T07:00:00-06:00
-0.024,Genesee,Ozone,2025-10-26T07:00:00-06:00
 69.0,Genesee,Wind Direction,2025-10-26T07:00:00-06:00
+0.024,Genesee,Ozone,2025-10-26T07:00:00-06:00
+99.4,Genesee,Relative Humidity,2025-10-26T07:00:00-06:00
+3.4,Genesee,Outdoor Temperature,2025-10-26T07:00:00-06:00
+7.4,Genesee,Wind Speed,2025-10-26T07:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-26T07:00:00-06:00
+2.0,Genesee,,2025-10-26T07:00:00-06:00
 0.0,Genesee,Nitric Oxide,2025-10-26T07:00:00-06:00
 4.9,Genesee,Fine Particulate Matter,2025-10-26T07:00:00-06:00
 0.001,Genesee,Nitrogen Dioxide,2025-10-26T07:00:00-06:00
 0.001,Genesee,Total Oxides of Nitrogen,2025-10-26T07:00:00-06:00
-2.0,Genesee,,2025-10-26T06:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-26T06:00:00-06:00
-9.0,Genesee,Wind Speed,2025-10-26T06:00:00-06:00
-80.0,Genesee,Wind Direction,2025-10-26T06:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-26T06:00:00-06:00
-3.5,Genesee,Outdoor Temperature,2025-10-26T06:00:00-06:00
-0.002,Genesee,Nitrogen Dioxide,2025-10-26T06:00:00-06:00
-99.1,Genesee,Relative Humidity,2025-10-26T06:00:00-06:00
-0.024,Genesee,Ozone,2025-10-26T06:00:00-06:00
-5.1,Genesee,Fine Particulate Matter,2025-10-26T06:00:00-06:00
 0.001,Genesee,Total Oxides of Nitrogen,2025-10-26T06:00:00-06:00
-5.0,Genesee,Fine Particulate Matter,2025-10-26T05:00:00-06:00
+5.1,Genesee,Fine Particulate Matter,2025-10-26T06:00:00-06:00
+0.024,Genesee,Ozone,2025-10-26T06:00:00-06:00
+99.1,Genesee,Relative Humidity,2025-10-26T06:00:00-06:00
+0.002,Genesee,Nitrogen Dioxide,2025-10-26T06:00:00-06:00
+3.5,Genesee,Outdoor Temperature,2025-10-26T06:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-26T06:00:00-06:00
+80.0,Genesee,Wind Direction,2025-10-26T06:00:00-06:00
+9.0,Genesee,Wind Speed,2025-10-26T06:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-26T06:00:00-06:00
+2.0,Genesee,,2025-10-26T06:00:00-06:00
+2.0,Genesee,,2025-10-26T05:00:00-06:00
+14.6,Genesee,Wind Speed,2025-10-26T05:00:00-06:00
+,Genesee,Sulphur Dioxide,2025-10-26T05:00:00-06:00
+,Genesee,Nitric Oxide,2025-10-26T05:00:00-06:00
 ,Genesee,Nitrogen Dioxide,2025-10-26T05:00:00-06:00
 ,Genesee,Total Oxides of Nitrogen,2025-10-26T05:00:00-06:00
 96.9,Genesee,Relative Humidity,2025-10-26T05:00:00-06:00
+5.0,Genesee,Fine Particulate Matter,2025-10-26T05:00:00-06:00
 ,Genesee,Ozone,2025-10-26T05:00:00-06:00
 79.0,Genesee,Wind Direction,2025-10-26T05:00:00-06:00
 3.3,Genesee,Outdoor Temperature,2025-10-26T05:00:00-06:00
-,Genesee,Nitric Oxide,2025-10-26T05:00:00-06:00
-,Genesee,Sulphur Dioxide,2025-10-26T05:00:00-06:00
-14.6,Genesee,Wind Speed,2025-10-26T05:00:00-06:00
-2.0,Genesee,,2025-10-26T05:00:00-06:00
-2.0,Genesee,,2025-10-26T04:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-26T04:00:00-06:00
-13.7,Genesee,Wind Speed,2025-10-26T04:00:00-06:00
-3.7,Genesee,Outdoor Temperature,2025-10-26T04:00:00-06:00
-88.7,Genesee,Relative Humidity,2025-10-26T04:00:00-06:00
-0.029,Genesee,Ozone,2025-10-26T04:00:00-06:00
-93.0,Genesee,Wind Direction,2025-10-26T04:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-26T04:00:00-06:00
-5.9,Genesee,Fine Particulate Matter,2025-10-26T04:00:00-06:00
-0.001,Genesee,Nitrogen Dioxide,2025-10-26T04:00:00-06:00
 0.001,Genesee,Total Oxides of Nitrogen,2025-10-26T04:00:00-06:00
+0.001,Genesee,Nitrogen Dioxide,2025-10-26T04:00:00-06:00
+5.9,Genesee,Fine Particulate Matter,2025-10-26T04:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-26T04:00:00-06:00
+93.0,Genesee,Wind Direction,2025-10-26T04:00:00-06:00
+0.029,Genesee,Ozone,2025-10-26T04:00:00-06:00
+88.7,Genesee,Relative Humidity,2025-10-26T04:00:00-06:00
+3.7,Genesee,Outdoor Temperature,2025-10-26T04:00:00-06:00
+13.7,Genesee,Wind Speed,2025-10-26T04:00:00-06:00
+0.0,Genesee,Sulphur Dioxide,2025-10-26T04:00:00-06:00
+2.0,Genesee,,2025-10-26T04:00:00-06:00
+0.001,Genesee,Nitrogen Dioxide,2025-10-26T03:00:00-06:00
+4.8,Genesee,Fine Particulate Matter,2025-10-26T03:00:00-06:00
+0.031,Genesee,Ozone,2025-10-26T03:00:00-06:00
+65.4,Genesee,Relative Humidity,2025-10-26T03:00:00-06:00
+6.9,Genesee,Outdoor Temperature,2025-10-26T03:00:00-06:00
+0.0,Genesee,Nitric Oxide,2025-10-26T03:00:00-06:00
 0.0,Genesee,Total Oxides of Nitrogen,2025-10-26T03:00:00-06:00
 114.0,Genesee,Wind Direction,2025-10-26T03:00:00-06:00
 12.4,Genesee,Wind Speed,2025-10-26T03:00:00-06:00
 0.0,Genesee,Sulphur Dioxide,2025-10-26T03:00:00-06:00
 2.0,Genesee,,2025-10-26T03:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-26T03:00:00-06:00
-6.9,Genesee,Outdoor Temperature,2025-10-26T03:00:00-06:00
-65.4,Genesee,Relative Humidity,2025-10-26T03:00:00-06:00
-0.031,Genesee,Ozone,2025-10-26T03:00:00-06:00
-4.8,Genesee,Fine Particulate Matter,2025-10-26T03:00:00-06:00
-0.001,Genesee,Nitrogen Dioxide,2025-10-26T03:00:00-06:00
-2.0,Genesee,,2025-10-26T02:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-26T02:00:00-06:00
-11.8,Genesee,Wind Speed,2025-10-26T02:00:00-06:00
-6.5,Genesee,Outdoor Temperature,2025-10-26T02:00:00-06:00
-67.4,Genesee,Relative Humidity,2025-10-26T02:00:00-06:00
-0.029,Genesee,Ozone,2025-10-26T02:00:00-06:00
-83.0,Genesee,Wind Direction,2025-10-26T02:00:00-06:00
-0.0,Genesee,Total Oxides of Nitrogen,2025-10-26T02:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-26T02:00:00-06:00
-4.5,Genesee,Fine Particulate Matter,2025-10-26T02:00:00-06:00
-0.001,Genesee,Nitrogen Dioxide,2025-10-26T02:00:00-06:00
-0.001,Genesee,Total Oxides of Nitrogen,2025-10-26T01:00:00-06:00
-4.5,Genesee,Fine Particulate Matter,2025-10-26T01:00:00-06:00
-0.026,Genesee,Ozone,2025-10-26T01:00:00-06:00
-73.2,Genesee,Relative Humidity,2025-10-26T01:00:00-06:00
-0.002,Genesee,Nitrogen Dioxide,2025-10-26T01:00:00-06:00
-0.0,Genesee,Nitric Oxide,2025-10-26T01:00:00-06:00
-83.0,Genesee,Wind Direction,2025-10-26T01:00:00-06:00
-5.5,Genesee,Outdoor Temperature,2025-10-26T01:00:00-06:00
-9.8,Genesee,Wind Speed,2025-10-26T01:00:00-06:00
-0.0,Genesee,Sulphur Dioxide,2025-10-26T01:00:00-06:00
-2.0,Genesee,,2025-10-26T01:00:00-06:00
