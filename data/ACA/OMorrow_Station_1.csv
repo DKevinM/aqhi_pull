@@ -475,12 +475,12 @@ Value,StationName,ParameterName,ReadingDate
 55.0,O’Morrow Station 1,Wind Direction,2025-11-05T03:00:00-07:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-05T03:00:00-07:00
 1.3,O’Morrow Station 1,Fine Particulate Matter,2025-11-05T03:00:00-07:00
-2.6,O’Morrow Station 1,Wind Speed,2025-11-05T02:00:00-07:00
-88.7,O’Morrow Station 1,Relative Humidity,2025-11-05T02:00:00-07:00
--8.0,O’Morrow Station 1,Outdoor Temperature,2025-11-05T02:00:00-07:00
-1.2,O’Morrow Station 1,Fine Particulate Matter,2025-11-05T02:00:00-07:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-05T02:00:00-07:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-05T02:00:00-07:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-05T02:00:00-07:00
+1.2,O’Morrow Station 1,Fine Particulate Matter,2025-11-05T02:00:00-07:00
+-8.0,O’Morrow Station 1,Outdoor Temperature,2025-11-05T02:00:00-07:00
+88.7,O’Morrow Station 1,Relative Humidity,2025-11-05T02:00:00-07:00
+2.6,O’Morrow Station 1,Wind Speed,2025-11-05T02:00:00-07:00
 145.0,O’Morrow Station 1,Wind Direction,2025-11-05T02:00:00-07:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-05T01:00:00-07:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-05T01:00:00-07:00
@@ -510,20 +510,20 @@ Value,StationName,ParameterName,ReadingDate
 84.7,O’Morrow Station 1,Relative Humidity,2025-11-04T22:00:00-07:00
 199.0,O’Morrow Station 1,Wind Direction,2025-11-04T22:00:00-07:00
 2.1,O’Morrow Station 1,Wind Speed,2025-11-04T22:00:00-07:00
+4.3,O’Morrow Station 1,Wind Speed,2025-11-04T21:00:00-07:00
 1.7,O’Morrow Station 1,Fine Particulate Matter,2025-11-04T21:00:00-07:00
 247.0,O’Morrow Station 1,Wind Direction,2025-11-04T21:00:00-07:00
 82.3,O’Morrow Station 1,Relative Humidity,2025-11-04T21:00:00-07:00
 -5.0,O’Morrow Station 1,Outdoor Temperature,2025-11-04T21:00:00-07:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-04T21:00:00-07:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-04T21:00:00-07:00
-4.3,O’Morrow Station 1,Wind Speed,2025-11-04T21:00:00-07:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-04T20:00:00-07:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-04T20:00:00-07:00
-1.7,O’Morrow Station 1,Fine Particulate Matter,2025-11-04T20:00:00-07:00
--2.8,O’Morrow Station 1,Outdoor Temperature,2025-11-04T20:00:00-07:00
-71.7,O’Morrow Station 1,Relative Humidity,2025-11-04T20:00:00-07:00
-237.0,O’Morrow Station 1,Wind Direction,2025-11-04T20:00:00-07:00
 3.4,O’Morrow Station 1,Wind Speed,2025-11-04T20:00:00-07:00
+237.0,O’Morrow Station 1,Wind Direction,2025-11-04T20:00:00-07:00
+71.7,O’Morrow Station 1,Relative Humidity,2025-11-04T20:00:00-07:00
+-2.8,O’Morrow Station 1,Outdoor Temperature,2025-11-04T20:00:00-07:00
+1.7,O’Morrow Station 1,Fine Particulate Matter,2025-11-04T20:00:00-07:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-04T20:00:00-07:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-04T20:00:00-07:00
 2.7,O’Morrow Station 1,Wind Speed,2025-11-04T19:00:00-07:00
 71.8,O’Morrow Station 1,Relative Humidity,2025-11-04T19:00:00-07:00
 228.0,O’Morrow Station 1,Wind Direction,2025-11-04T19:00:00-07:00
@@ -531,13 +531,13 @@ Value,StationName,ParameterName,ReadingDate
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-04T19:00:00-07:00
 -2.3,O’Morrow Station 1,Outdoor Temperature,2025-11-04T19:00:00-07:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-04T19:00:00-07:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-04T18:00:00-07:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-04T18:00:00-07:00
-0.7,O’Morrow Station 1,Outdoor Temperature,2025-11-04T18:00:00-07:00
-59.7,O’Morrow Station 1,Relative Humidity,2025-11-04T18:00:00-07:00
-244.0,O’Morrow Station 1,Wind Direction,2025-11-04T18:00:00-07:00
-1.5,O’Morrow Station 1,Fine Particulate Matter,2025-11-04T18:00:00-07:00
 3.8,O’Morrow Station 1,Wind Speed,2025-11-04T18:00:00-07:00
+1.5,O’Morrow Station 1,Fine Particulate Matter,2025-11-04T18:00:00-07:00
+244.0,O’Morrow Station 1,Wind Direction,2025-11-04T18:00:00-07:00
+59.7,O’Morrow Station 1,Relative Humidity,2025-11-04T18:00:00-07:00
+0.7,O’Morrow Station 1,Outdoor Temperature,2025-11-04T18:00:00-07:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-04T18:00:00-07:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-04T18:00:00-07:00
 9.3,O’Morrow Station 1,Wind Speed,2025-11-04T17:00:00-07:00
 1.3,O’Morrow Station 1,Fine Particulate Matter,2025-11-04T17:00:00-07:00
 256.0,O’Morrow Station 1,Wind Direction,2025-11-04T17:00:00-07:00
@@ -566,27 +566,27 @@ Value,StationName,ParameterName,ReadingDate
 44.6,O’Morrow Station 1,Relative Humidity,2025-11-04T14:00:00-07:00
 280.0,O’Morrow Station 1,Wind Direction,2025-11-04T14:00:00-07:00
 14.6,O’Morrow Station 1,Wind Speed,2025-11-04T14:00:00-07:00
-14.6,O’Morrow Station 1,Wind Speed,2025-11-04T13:00:00-07:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-04T13:00:00-07:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-04T13:00:00-07:00
 4.4,O’Morrow Station 1,Outdoor Temperature,2025-11-04T13:00:00-07:00
 51.0,O’Morrow Station 1,Relative Humidity,2025-11-04T13:00:00-07:00
 286.0,O’Morrow Station 1,Wind Direction,2025-11-04T13:00:00-07:00
 1.6,O’Morrow Station 1,Fine Particulate Matter,2025-11-04T13:00:00-07:00
+14.6,O’Morrow Station 1,Wind Speed,2025-11-04T13:00:00-07:00
+17.9,O’Morrow Station 1,Wind Speed,2025-11-04T12:00:00-07:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-04T12:00:00-07:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-04T12:00:00-07:00
 3.3,O’Morrow Station 1,Outdoor Temperature,2025-11-04T12:00:00-07:00
 58.2,O’Morrow Station 1,Relative Humidity,2025-11-04T12:00:00-07:00
 285.0,O’Morrow Station 1,Wind Direction,2025-11-04T12:00:00-07:00
 1.7,O’Morrow Station 1,Fine Particulate Matter,2025-11-04T12:00:00-07:00
-17.9,O’Morrow Station 1,Wind Speed,2025-11-04T12:00:00-07:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-04T11:00:00-07:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-04T11:00:00-07:00
-2.0,O’Morrow Station 1,Outdoor Temperature,2025-11-04T11:00:00-07:00
-64.7,O’Morrow Station 1,Relative Humidity,2025-11-04T11:00:00-07:00
-292.0,O’Morrow Station 1,Wind Direction,2025-11-04T11:00:00-07:00
-1.7,O’Morrow Station 1,Fine Particulate Matter,2025-11-04T11:00:00-07:00
 18.0,O’Morrow Station 1,Wind Speed,2025-11-04T11:00:00-07:00
+1.7,O’Morrow Station 1,Fine Particulate Matter,2025-11-04T11:00:00-07:00
+292.0,O’Morrow Station 1,Wind Direction,2025-11-04T11:00:00-07:00
+64.7,O’Morrow Station 1,Relative Humidity,2025-11-04T11:00:00-07:00
+2.0,O’Morrow Station 1,Outdoor Temperature,2025-11-04T11:00:00-07:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-04T11:00:00-07:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-04T11:00:00-07:00
 17.6,O’Morrow Station 1,Wind Speed,2025-11-04T10:00:00-07:00
 1.6,O’Morrow Station 1,Fine Particulate Matter,2025-11-04T10:00:00-07:00
 286.0,O’Morrow Station 1,Wind Direction,2025-11-04T10:00:00-07:00
@@ -905,17 +905,17 @@ Value,StationName,ParameterName,ReadingDate
 0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-02T13:00:00-07:00
 6.4,O’Morrow Station 1,Outdoor Temperature,2025-11-02T13:00:00-07:00
 277.0,O’Morrow Station 1,Wind Direction,2025-11-02T13:00:00-07:00
-33.1,O’Morrow Station 1,Wind Speed,2025-11-02T13:00:00-07:00
-40.3,O’Morrow Station 1,Relative Humidity,2025-11-02T13:00:00-07:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-02T13:00:00-07:00
 0.5,O’Morrow Station 1,Fine Particulate Matter,2025-11-02T13:00:00-07:00
-6.3,O’Morrow Station 1,Outdoor Temperature,2025-11-02T12:00:00-07:00
-272.0,O’Morrow Station 1,Wind Direction,2025-11-02T12:00:00-07:00
-0.6,O’Morrow Station 1,Fine Particulate Matter,2025-11-02T12:00:00-07:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-02T12:00:00-07:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-02T12:00:00-07:00
-42.7,O’Morrow Station 1,Relative Humidity,2025-11-02T12:00:00-07:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-02T13:00:00-07:00
+40.3,O’Morrow Station 1,Relative Humidity,2025-11-02T13:00:00-07:00
+33.1,O’Morrow Station 1,Wind Speed,2025-11-02T13:00:00-07:00
 29.5,O’Morrow Station 1,Wind Speed,2025-11-02T12:00:00-07:00
+42.7,O’Morrow Station 1,Relative Humidity,2025-11-02T12:00:00-07:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-02T12:00:00-07:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-02T12:00:00-07:00
+0.6,O’Morrow Station 1,Fine Particulate Matter,2025-11-02T12:00:00-07:00
+272.0,O’Morrow Station 1,Wind Direction,2025-11-02T12:00:00-07:00
+6.3,O’Morrow Station 1,Outdoor Temperature,2025-11-02T12:00:00-07:00
 5.2,O’Morrow Station 1,Outdoor Temperature,2025-11-02T11:00:00-07:00
 255.0,O’Morrow Station 1,Wind Direction,2025-11-02T11:00:00-07:00
 0.5,O’Morrow Station 1,Fine Particulate Matter,2025-11-02T11:00:00-07:00
@@ -923,41 +923,41 @@ Value,StationName,ParameterName,ReadingDate
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-02T11:00:00-07:00
 47.5,O’Morrow Station 1,Relative Humidity,2025-11-02T11:00:00-07:00
 25.1,O’Morrow Station 1,Wind Speed,2025-11-02T11:00:00-07:00
-21.4,O’Morrow Station 1,Wind Speed,2025-11-02T10:00:00-07:00
-54.2,O’Morrow Station 1,Relative Humidity,2025-11-02T10:00:00-07:00
-243.0,O’Morrow Station 1,Wind Direction,2025-11-02T10:00:00-07:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-02T10:00:00-07:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-02T10:00:00-07:00
-0.5,O’Morrow Station 1,Fine Particulate Matter,2025-11-02T10:00:00-07:00
 3.3,O’Morrow Station 1,Outdoor Temperature,2025-11-02T10:00:00-07:00
-18.1,O’Morrow Station 1,Wind Speed,2025-11-02T09:00:00-07:00
-61.9,O’Morrow Station 1,Relative Humidity,2025-11-02T09:00:00-07:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-02T09:00:00-07:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-02T09:00:00-07:00
+0.5,O’Morrow Station 1,Fine Particulate Matter,2025-11-02T10:00:00-07:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-02T10:00:00-07:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-02T10:00:00-07:00
+243.0,O’Morrow Station 1,Wind Direction,2025-11-02T10:00:00-07:00
+54.2,O’Morrow Station 1,Relative Humidity,2025-11-02T10:00:00-07:00
+21.4,O’Morrow Station 1,Wind Speed,2025-11-02T10:00:00-07:00
 0.6,O’Morrow Station 1,Fine Particulate Matter,2025-11-02T09:00:00-07:00
 235.0,O’Morrow Station 1,Wind Direction,2025-11-02T09:00:00-07:00
 1.0,O’Morrow Station 1,Outdoor Temperature,2025-11-02T09:00:00-07:00
-240.0,O’Morrow Station 1,Wind Direction,2025-11-02T08:00:00-07:00
-10.3,O’Morrow Station 1,Wind Speed,2025-11-02T08:00:00-07:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-02T09:00:00-07:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-02T09:00:00-07:00
+61.9,O’Morrow Station 1,Relative Humidity,2025-11-02T09:00:00-07:00
+18.1,O’Morrow Station 1,Wind Speed,2025-11-02T09:00:00-07:00
 -0.5,O’Morrow Station 1,Outdoor Temperature,2025-11-02T08:00:00-07:00
+10.3,O’Morrow Station 1,Wind Speed,2025-11-02T08:00:00-07:00
+240.0,O’Morrow Station 1,Wind Direction,2025-11-02T08:00:00-07:00
 66.1,O’Morrow Station 1,Relative Humidity,2025-11-02T08:00:00-07:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-02T08:00:00-07:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-02T08:00:00-07:00
 0.7,O’Morrow Station 1,Fine Particulate Matter,2025-11-02T08:00:00-07:00
-0.8,O’Morrow Station 1,Fine Particulate Matter,2025-11-02T07:00:00-07:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-02T07:00:00-07:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-02T07:00:00-07:00
-64.3,O’Morrow Station 1,Relative Humidity,2025-11-02T07:00:00-07:00
-237.0,O’Morrow Station 1,Wind Direction,2025-11-02T07:00:00-07:00
-11.9,O’Morrow Station 1,Wind Speed,2025-11-02T07:00:00-07:00
 -0.1,O’Morrow Station 1,Outdoor Temperature,2025-11-02T07:00:00-07:00
+11.9,O’Morrow Station 1,Wind Speed,2025-11-02T07:00:00-07:00
+237.0,O’Morrow Station 1,Wind Direction,2025-11-02T07:00:00-07:00
+64.3,O’Morrow Station 1,Relative Humidity,2025-11-02T07:00:00-07:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-02T07:00:00-07:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-02T07:00:00-07:00
+0.8,O’Morrow Station 1,Fine Particulate Matter,2025-11-02T07:00:00-07:00
 1.5,O’Morrow Station 1,Outdoor Temperature,2025-11-02T06:00:00-07:00
 0.7,O’Morrow Station 1,Fine Particulate Matter,2025-11-02T06:00:00-07:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-02T06:00:00-07:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-02T06:00:00-07:00
-59.8,O’Morrow Station 1,Relative Humidity,2025-11-02T06:00:00-07:00
-16.7,O’Morrow Station 1,Wind Speed,2025-11-02T06:00:00-07:00
 257.0,O’Morrow Station 1,Wind Direction,2025-11-02T06:00:00-07:00
+16.7,O’Morrow Station 1,Wind Speed,2025-11-02T06:00:00-07:00
+59.8,O’Morrow Station 1,Relative Humidity,2025-11-02T06:00:00-07:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-02T06:00:00-07:00
 2.0,O’Morrow Station 1,Outdoor Temperature,2025-11-02T05:00:00-07:00
 0.8,O’Morrow Station 1,Fine Particulate Matter,2025-11-02T05:00:00-07:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-02T05:00:00-07:00
@@ -965,15 +965,15 @@ Value,StationName,ParameterName,ReadingDate
 263.0,O’Morrow Station 1,Wind Direction,2025-11-02T05:00:00-07:00
 59.2,O’Morrow Station 1,Relative Humidity,2025-11-02T05:00:00-07:00
 19.3,O’Morrow Station 1,Wind Speed,2025-11-02T05:00:00-07:00
-20.5,O’Morrow Station 1,Wind Speed,2025-11-02T04:00:00-07:00
-58.2,O’Morrow Station 1,Relative Humidity,2025-11-02T04:00:00-07:00
-266.0,O’Morrow Station 1,Wind Direction,2025-11-02T04:00:00-07:00
-,O’Morrow Station 1,Sulphur Dioxide,2025-11-02T04:00:00-07:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-02T04:00:00-07:00
-0.7,O’Morrow Station 1,Fine Particulate Matter,2025-11-02T04:00:00-07:00
 2.5,O’Morrow Station 1,Outdoor Temperature,2025-11-02T04:00:00-07:00
-0.6,O’Morrow Station 1,Fine Particulate Matter,2025-11-02T03:00:00-07:00
+0.7,O’Morrow Station 1,Fine Particulate Matter,2025-11-02T04:00:00-07:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-02T04:00:00-07:00
+,O’Morrow Station 1,Sulphur Dioxide,2025-11-02T04:00:00-07:00
+266.0,O’Morrow Station 1,Wind Direction,2025-11-02T04:00:00-07:00
+58.2,O’Morrow Station 1,Relative Humidity,2025-11-02T04:00:00-07:00
+20.5,O’Morrow Station 1,Wind Speed,2025-11-02T04:00:00-07:00
 3.1,O’Morrow Station 1,Outdoor Temperature,2025-11-02T03:00:00-07:00
+0.6,O’Morrow Station 1,Fine Particulate Matter,2025-11-02T03:00:00-07:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-02T03:00:00-07:00
 ,O’Morrow Station 1,Total Reduced Sulphur,2025-11-02T03:00:00-07:00
 266.0,O’Morrow Station 1,Wind Direction,2025-11-02T03:00:00-07:00
@@ -981,11 +981,11 @@ Value,StationName,ParameterName,ReadingDate
 21.1,O’Morrow Station 1,Wind Speed,2025-11-02T03:00:00-07:00
 ,O’Morrow Station 1,Fine Particulate Matter,2025-11-02T02:00:00-07:00
 ,O’Morrow Station 1,Total Reduced Sulphur,2025-11-02T02:00:00-07:00
-,O’Morrow Station 1,Relative Humidity,2025-11-02T02:00:00-07:00
-,O’Morrow Station 1,Wind Speed,2025-11-02T02:00:00-07:00
-,O’Morrow Station 1,Outdoor Temperature,2025-11-02T02:00:00-07:00
-,O’Morrow Station 1,Sulphur Dioxide,2025-11-02T02:00:00-07:00
 ,O’Morrow Station 1,Wind Direction,2025-11-02T02:00:00-07:00
+,O’Morrow Station 1,Sulphur Dioxide,2025-11-02T02:00:00-07:00
+,O’Morrow Station 1,Outdoor Temperature,2025-11-02T02:00:00-07:00
+,O’Morrow Station 1,Wind Speed,2025-11-02T02:00:00-07:00
+,O’Morrow Station 1,Relative Humidity,2025-11-02T02:00:00-07:00
 18.6,O’Morrow Station 1,Wind Speed,2025-11-02T01:00:00-07:00
 55.3,O’Morrow Station 1,Relative Humidity,2025-11-02T01:00:00-07:00
 278.0,O’Morrow Station 1,Wind Direction,2025-11-02T01:00:00-07:00
@@ -993,13 +993,13 @@ Value,StationName,ParameterName,ReadingDate
 0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-02T01:00:00-07:00
 0.5,O’Morrow Station 1,Fine Particulate Matter,2025-11-02T01:00:00-07:00
 5.4,O’Morrow Station 1,Outdoor Temperature,2025-11-02T01:00:00-07:00
-55.3,O’Morrow Station 1,Relative Humidity,2025-11-02T00:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-02T00:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-02T00:00:00-06:00
-284.0,O’Morrow Station 1,Wind Direction,2025-11-02T00:00:00-06:00
-0.5,O’Morrow Station 1,Fine Particulate Matter,2025-11-02T00:00:00-06:00
-5.8,O’Morrow Station 1,Outdoor Temperature,2025-11-02T00:00:00-06:00
 14.7,O’Morrow Station 1,Wind Speed,2025-11-02T00:00:00-06:00
+5.8,O’Morrow Station 1,Outdoor Temperature,2025-11-02T00:00:00-06:00
+0.5,O’Morrow Station 1,Fine Particulate Matter,2025-11-02T00:00:00-06:00
+284.0,O’Morrow Station 1,Wind Direction,2025-11-02T00:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-02T00:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-02T00:00:00-06:00
+55.3,O’Morrow Station 1,Relative Humidity,2025-11-02T00:00:00-06:00
 269.0,O’Morrow Station 1,Wind Direction,2025-11-01T23:00:00-06:00
 0.8,O’Morrow Station 1,Fine Particulate Matter,2025-11-01T23:00:00-06:00
 5.3,O’Morrow Station 1,Outdoor Temperature,2025-11-01T23:00:00-06:00
@@ -1008,26 +1008,26 @@ Value,StationName,ParameterName,ReadingDate
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-01T23:00:00-06:00
 65.3,O’Morrow Station 1,Relative Humidity,2025-11-01T23:00:00-06:00
 271.0,O’Morrow Station 1,Wind Direction,2025-11-01T22:00:00-06:00
-68.2,O’Morrow Station 1,Relative Humidity,2025-11-01T22:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-01T22:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-01T22:00:00-06:00
-12.3,O’Morrow Station 1,Wind Speed,2025-11-01T22:00:00-06:00
-5.9,O’Morrow Station 1,Outdoor Temperature,2025-11-01T22:00:00-06:00
 0.6,O’Morrow Station 1,Fine Particulate Matter,2025-11-01T22:00:00-06:00
+5.9,O’Morrow Station 1,Outdoor Temperature,2025-11-01T22:00:00-06:00
+12.3,O’Morrow Station 1,Wind Speed,2025-11-01T22:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-01T22:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-01T22:00:00-06:00
+68.2,O’Morrow Station 1,Relative Humidity,2025-11-01T22:00:00-06:00
+261.0,O’Morrow Station 1,Wind Direction,2025-11-01T21:00:00-06:00
 82.1,O’Morrow Station 1,Relative Humidity,2025-11-01T21:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-01T21:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-01T21:00:00-06:00
 5.9,O’Morrow Station 1,Wind Speed,2025-11-01T21:00:00-06:00
 1.0,O’Morrow Station 1,Fine Particulate Matter,2025-11-01T21:00:00-06:00
 3.7,O’Morrow Station 1,Outdoor Temperature,2025-11-01T21:00:00-06:00
-261.0,O’Morrow Station 1,Wind Direction,2025-11-01T21:00:00-06:00
-82.4,O’Morrow Station 1,Relative Humidity,2025-11-01T20:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-01T20:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-01T20:00:00-06:00
-3.5,O’Morrow Station 1,Wind Speed,2025-11-01T20:00:00-06:00
-3.6,O’Morrow Station 1,Outdoor Temperature,2025-11-01T20:00:00-06:00
-1.0,O’Morrow Station 1,Fine Particulate Matter,2025-11-01T20:00:00-06:00
 249.0,O’Morrow Station 1,Wind Direction,2025-11-01T20:00:00-06:00
+1.0,O’Morrow Station 1,Fine Particulate Matter,2025-11-01T20:00:00-06:00
+3.6,O’Morrow Station 1,Outdoor Temperature,2025-11-01T20:00:00-06:00
+3.5,O’Morrow Station 1,Wind Speed,2025-11-01T20:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-01T20:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-01T20:00:00-06:00
+82.4,O’Morrow Station 1,Relative Humidity,2025-11-01T20:00:00-06:00
 233.0,O’Morrow Station 1,Wind Direction,2025-11-01T19:00:00-06:00
 4.7,O’Morrow Station 1,Outdoor Temperature,2025-11-01T19:00:00-06:00
 1.0,O’Morrow Station 1,Fine Particulate Matter,2025-11-01T19:00:00-06:00
@@ -1049,13 +1049,13 @@ Value,StationName,ParameterName,ReadingDate
 0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-01T17:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-01T17:00:00-06:00
 70.4,O’Morrow Station 1,Relative Humidity,2025-11-01T17:00:00-06:00
-69.1,O’Morrow Station 1,Relative Humidity,2025-11-01T16:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-01T16:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-01T16:00:00-06:00
-11.0,O’Morrow Station 1,Wind Speed,2025-11-01T16:00:00-06:00
-7.0,O’Morrow Station 1,Outdoor Temperature,2025-11-01T16:00:00-06:00
-1.2,O’Morrow Station 1,Fine Particulate Matter,2025-11-01T16:00:00-06:00
 198.0,O’Morrow Station 1,Wind Direction,2025-11-01T16:00:00-06:00
+1.2,O’Morrow Station 1,Fine Particulate Matter,2025-11-01T16:00:00-06:00
+7.0,O’Morrow Station 1,Outdoor Temperature,2025-11-01T16:00:00-06:00
+11.0,O’Morrow Station 1,Wind Speed,2025-11-01T16:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-01T16:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-01T16:00:00-06:00
+69.1,O’Morrow Station 1,Relative Humidity,2025-11-01T16:00:00-06:00
 186.0,O’Morrow Station 1,Wind Direction,2025-11-01T15:00:00-06:00
 7.1,O’Morrow Station 1,Outdoor Temperature,2025-11-01T15:00:00-06:00
 1.4,O’Morrow Station 1,Fine Particulate Matter,2025-11-01T15:00:00-06:00
@@ -1070,15 +1070,15 @@ Value,StationName,ParameterName,ReadingDate
 0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-01T14:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-01T14:00:00-06:00
 68.9,O’Morrow Station 1,Relative Humidity,2025-11-01T14:00:00-06:00
-192.0,O’Morrow Station 1,Wind Direction,2025-11-01T13:00:00-06:00
-1.0,O’Morrow Station 1,Fine Particulate Matter,2025-11-01T13:00:00-06:00
-7.2,O’Morrow Station 1,Outdoor Temperature,2025-11-01T13:00:00-06:00
-7.5,O’Morrow Station 1,Wind Speed,2025-11-01T13:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-01T13:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-01T13:00:00-06:00
 66.5,O’Morrow Station 1,Relative Humidity,2025-11-01T13:00:00-06:00
-203.0,O’Morrow Station 1,Wind Direction,2025-11-01T12:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-01T13:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-01T13:00:00-06:00
+7.5,O’Morrow Station 1,Wind Speed,2025-11-01T13:00:00-06:00
+7.2,O’Morrow Station 1,Outdoor Temperature,2025-11-01T13:00:00-06:00
+1.0,O’Morrow Station 1,Fine Particulate Matter,2025-11-01T13:00:00-06:00
+192.0,O’Morrow Station 1,Wind Direction,2025-11-01T13:00:00-06:00
 1.1,O’Morrow Station 1,Fine Particulate Matter,2025-11-01T12:00:00-06:00
+203.0,O’Morrow Station 1,Wind Direction,2025-11-01T12:00:00-06:00
 7.1,O’Morrow Station 1,Outdoor Temperature,2025-11-01T12:00:00-06:00
 7.4,O’Morrow Station 1,Wind Speed,2025-11-01T12:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-01T12:00:00-06:00
@@ -1098,13 +1098,13 @@ Value,StationName,ParameterName,ReadingDate
 0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-01T10:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-01T10:00:00-06:00
 78.5,O’Morrow Station 1,Relative Humidity,2025-11-01T10:00:00-06:00
-89.2,O’Morrow Station 1,Relative Humidity,2025-11-01T09:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-01T09:00:00-06:00
-0.0,O’Morrow Station 1,Outdoor Temperature,2025-11-01T09:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-01T09:00:00-06:00
-7.5,O’Morrow Station 1,Wind Speed,2025-11-01T09:00:00-06:00
-1.8,O’Morrow Station 1,Fine Particulate Matter,2025-11-01T09:00:00-06:00
 219.0,O’Morrow Station 1,Wind Direction,2025-11-01T09:00:00-06:00
+1.8,O’Morrow Station 1,Fine Particulate Matter,2025-11-01T09:00:00-06:00
+7.5,O’Morrow Station 1,Wind Speed,2025-11-01T09:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-01T09:00:00-06:00
+0.0,O’Morrow Station 1,Outdoor Temperature,2025-11-01T09:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-01T09:00:00-06:00
+89.2,O’Morrow Station 1,Relative Humidity,2025-11-01T09:00:00-06:00
 209.0,O’Morrow Station 1,Wind Direction,2025-11-01T08:00:00-06:00
 -1.7,O’Morrow Station 1,Outdoor Temperature,2025-11-01T08:00:00-06:00
 1.3,O’Morrow Station 1,Fine Particulate Matter,2025-11-01T08:00:00-06:00
@@ -1119,10 +1119,3 @@ Value,StationName,ParameterName,ReadingDate
 1.3,O’Morrow Station 1,Fine Particulate Matter,2025-11-01T07:00:00-06:00
 -1.1,O’Morrow Station 1,Outdoor Temperature,2025-11-01T07:00:00-06:00
 151.0,O’Morrow Station 1,Wind Direction,2025-11-01T07:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2025-11-01T06:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2025-11-01T06:00:00-06:00
-91.1,O’Morrow Station 1,Relative Humidity,2025-11-01T06:00:00-06:00
-2.2,O’Morrow Station 1,Wind Speed,2025-11-01T06:00:00-06:00
-1.4,O’Morrow Station 1,Fine Particulate Matter,2025-11-01T06:00:00-06:00
-0.3,O’Morrow Station 1,Outdoor Temperature,2025-11-01T06:00:00-06:00
-233.0,O’Morrow Station 1,Wind Direction,2025-11-01T06:00:00-06:00
