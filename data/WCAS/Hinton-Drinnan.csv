@@ -896,6 +896,9 @@ Value,StationName,ParameterName,ReadingDate
 64.4,Hinton-Drinnan,Relative Humidity,2025-11-05T23:00:00-07:00
 0.013,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T23:00:00-07:00
 1.2,Hinton-Drinnan,Wind Speed,2025-11-05T23:00:00-07:00
+257.0,Hinton-Drinnan,Wind Direction,2025-11-05T22:00:00-07:00
+0.001,Hinton-Drinnan,Nitric Oxide,2025-11-05T22:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T22:00:00-07:00
 2.0,Hinton-Drinnan,,2025-11-05T22:00:00-07:00
 0.011,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T22:00:00-07:00
 -2.6,Hinton-Drinnan,Outdoor Temperature,2025-11-05T22:00:00-07:00
@@ -903,9 +906,6 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T22:00:00-07:00
 0.007,Hinton-Drinnan,Ozone,2025-11-05T22:00:00-07:00
 4.5,Hinton-Drinnan,Fine Particulate Matter,2025-11-05T22:00:00-07:00
-257.0,Hinton-Drinnan,Wind Direction,2025-11-05T22:00:00-07:00
-0.001,Hinton-Drinnan,Nitric Oxide,2025-11-05T22:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T22:00:00-07:00
 1.0,Hinton-Drinnan,Wind Speed,2025-11-05T22:00:00-07:00
 0.01,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T22:00:00-07:00
 65.0,Hinton-Drinnan,Relative Humidity,2025-11-05T22:00:00-07:00
@@ -935,19 +935,19 @@ Value,StationName,ParameterName,ReadingDate
 61.8,Hinton-Drinnan,Relative Humidity,2025-11-05T20:00:00-07:00
 0.012,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T20:00:00-07:00
 1.8,Hinton-Drinnan,Wind Speed,2025-11-05T20:00:00-07:00
-2.0,Hinton-Drinnan,,2025-11-05T19:00:00-07:00
-0.015,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T19:00:00-07:00
--2.2,Hinton-Drinnan,Outdoor Temperature,2025-11-05T19:00:00-07:00
-0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T19:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T19:00:00-07:00
-0.01,Hinton-Drinnan,Ozone,2025-11-05T19:00:00-07:00
-7.0,Hinton-Drinnan,Fine Particulate Matter,2025-11-05T19:00:00-07:00
-68.0,Hinton-Drinnan,Wind Direction,2025-11-05T19:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T19:00:00-07:00
-0.003,Hinton-Drinnan,Nitric Oxide,2025-11-05T19:00:00-07:00
-61.6,Hinton-Drinnan,Relative Humidity,2025-11-05T19:00:00-07:00
-0.012,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T19:00:00-07:00
 2.1,Hinton-Drinnan,Wind Speed,2025-11-05T19:00:00-07:00
+0.012,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T19:00:00-07:00
+61.6,Hinton-Drinnan,Relative Humidity,2025-11-05T19:00:00-07:00
+0.003,Hinton-Drinnan,Nitric Oxide,2025-11-05T19:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T19:00:00-07:00
+68.0,Hinton-Drinnan,Wind Direction,2025-11-05T19:00:00-07:00
+7.0,Hinton-Drinnan,Fine Particulate Matter,2025-11-05T19:00:00-07:00
+0.01,Hinton-Drinnan,Ozone,2025-11-05T19:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T19:00:00-07:00
+0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T19:00:00-07:00
+-2.2,Hinton-Drinnan,Outdoor Temperature,2025-11-05T19:00:00-07:00
+0.015,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T19:00:00-07:00
+2.0,Hinton-Drinnan,,2025-11-05T19:00:00-07:00
 0.012,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T18:00:00-07:00
 59.8,Hinton-Drinnan,Relative Humidity,2025-11-05T18:00:00-07:00
 0.005,Hinton-Drinnan,Nitric Oxide,2025-11-05T18:00:00-07:00
@@ -974,45 +974,45 @@ Value,StationName,ParameterName,ReadingDate
 57.5,Hinton-Drinnan,Relative Humidity,2025-11-05T17:00:00-07:00
 0.01,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T17:00:00-07:00
 2.4,Hinton-Drinnan,Wind Speed,2025-11-05T17:00:00-07:00
-0.001,Hinton-Drinnan,Nitric Oxide,2025-11-05T16:00:00-07:00
-63.0,Hinton-Drinnan,Wind Direction,2025-11-05T16:00:00-07:00
-3.4,Hinton-Drinnan,Fine Particulate Matter,2025-11-05T16:00:00-07:00
-0.018,Hinton-Drinnan,Ozone,2025-11-05T16:00:00-07:00
-5.1,Hinton-Drinnan,Wind Speed,2025-11-05T16:00:00-07:00
-0.009,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T16:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T16:00:00-07:00
-0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T16:00:00-07:00
--2.1,Hinton-Drinnan,Outdoor Temperature,2025-11-05T16:00:00-07:00
 2.0,Hinton-Drinnan,,2025-11-05T16:00:00-07:00
+-2.1,Hinton-Drinnan,Outdoor Temperature,2025-11-05T16:00:00-07:00
+0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T16:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T16:00:00-07:00
+0.009,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T16:00:00-07:00
+5.1,Hinton-Drinnan,Wind Speed,2025-11-05T16:00:00-07:00
+0.018,Hinton-Drinnan,Ozone,2025-11-05T16:00:00-07:00
+3.4,Hinton-Drinnan,Fine Particulate Matter,2025-11-05T16:00:00-07:00
+63.0,Hinton-Drinnan,Wind Direction,2025-11-05T16:00:00-07:00
+0.001,Hinton-Drinnan,Nitric Oxide,2025-11-05T16:00:00-07:00
 0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T16:00:00-07:00
 56.2,Hinton-Drinnan,Relative Humidity,2025-11-05T16:00:00-07:00
 0.007,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T16:00:00-07:00
-2.0,Hinton-Drinnan,,2025-11-05T15:00:00-07:00
-0.012,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T15:00:00-07:00
--2.5,Hinton-Drinnan,Outdoor Temperature,2025-11-05T15:00:00-07:00
-0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T15:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T15:00:00-07:00
-6.2,Hinton-Drinnan,Wind Speed,2025-11-05T15:00:00-07:00
-0.016,Hinton-Drinnan,Ozone,2025-11-05T15:00:00-07:00
-3.2,Hinton-Drinnan,Fine Particulate Matter,2025-11-05T15:00:00-07:00
-62.0,Hinton-Drinnan,Wind Direction,2025-11-05T15:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T15:00:00-07:00
-0.003,Hinton-Drinnan,Nitric Oxide,2025-11-05T15:00:00-07:00
-58.9,Hinton-Drinnan,Relative Humidity,2025-11-05T15:00:00-07:00
 0.009,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T15:00:00-07:00
-0.009,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T14:00:00-07:00
-60.7,Hinton-Drinnan,Relative Humidity,2025-11-05T14:00:00-07:00
-0.003,Hinton-Drinnan,Nitric Oxide,2025-11-05T14:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T14:00:00-07:00
-53.0,Hinton-Drinnan,Wind Direction,2025-11-05T14:00:00-07:00
-3.2,Hinton-Drinnan,Fine Particulate Matter,2025-11-05T14:00:00-07:00
-0.016,Hinton-Drinnan,Ozone,2025-11-05T14:00:00-07:00
-5.6,Hinton-Drinnan,Wind Speed,2025-11-05T14:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T14:00:00-07:00
-0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T14:00:00-07:00
-0.012,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T14:00:00-07:00
--2.6,Hinton-Drinnan,Outdoor Temperature,2025-11-05T14:00:00-07:00
+58.9,Hinton-Drinnan,Relative Humidity,2025-11-05T15:00:00-07:00
+0.003,Hinton-Drinnan,Nitric Oxide,2025-11-05T15:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T15:00:00-07:00
+62.0,Hinton-Drinnan,Wind Direction,2025-11-05T15:00:00-07:00
+3.2,Hinton-Drinnan,Fine Particulate Matter,2025-11-05T15:00:00-07:00
+0.016,Hinton-Drinnan,Ozone,2025-11-05T15:00:00-07:00
+6.2,Hinton-Drinnan,Wind Speed,2025-11-05T15:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T15:00:00-07:00
+0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T15:00:00-07:00
+-2.5,Hinton-Drinnan,Outdoor Temperature,2025-11-05T15:00:00-07:00
+0.012,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T15:00:00-07:00
+2.0,Hinton-Drinnan,,2025-11-05T15:00:00-07:00
 2.0,Hinton-Drinnan,,2025-11-05T14:00:00-07:00
+-2.6,Hinton-Drinnan,Outdoor Temperature,2025-11-05T14:00:00-07:00
+0.012,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T14:00:00-07:00
+0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T14:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T14:00:00-07:00
+5.6,Hinton-Drinnan,Wind Speed,2025-11-05T14:00:00-07:00
+0.016,Hinton-Drinnan,Ozone,2025-11-05T14:00:00-07:00
+3.2,Hinton-Drinnan,Fine Particulate Matter,2025-11-05T14:00:00-07:00
+53.0,Hinton-Drinnan,Wind Direction,2025-11-05T14:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T14:00:00-07:00
+0.003,Hinton-Drinnan,Nitric Oxide,2025-11-05T14:00:00-07:00
+60.7,Hinton-Drinnan,Relative Humidity,2025-11-05T14:00:00-07:00
+0.009,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T14:00:00-07:00
 2.0,Hinton-Drinnan,,2025-11-05T13:00:00-07:00
 -3.2,Hinton-Drinnan,Outdoor Temperature,2025-11-05T13:00:00-07:00
 0.01,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T13:00:00-07:00
@@ -1026,22 +1026,22 @@ Value,StationName,ParameterName,ReadingDate
 0.003,Hinton-Drinnan,Nitric Oxide,2025-11-05T13:00:00-07:00
 64.8,Hinton-Drinnan,Relative Humidity,2025-11-05T13:00:00-07:00
 0.008,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T13:00:00-07:00
-0.008,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T12:00:00-07:00
-72.0,Hinton-Drinnan,Relative Humidity,2025-11-05T12:00:00-07:00
-0.005,Hinton-Drinnan,Nitric Oxide,2025-11-05T12:00:00-07:00
-59.0,Hinton-Drinnan,Wind Direction,2025-11-05T12:00:00-07:00
-3.7,Hinton-Drinnan,Fine Particulate Matter,2025-11-05T12:00:00-07:00
-0.015,Hinton-Drinnan,Ozone,2025-11-05T12:00:00-07:00
-6.7,Hinton-Drinnan,Wind Speed,2025-11-05T12:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T12:00:00-07:00
-0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T12:00:00-07:00
-0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T12:00:00-07:00
--4.2,Hinton-Drinnan,Outdoor Temperature,2025-11-05T12:00:00-07:00
-0.013,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T12:00:00-07:00
 2.0,Hinton-Drinnan,,2025-11-05T12:00:00-07:00
-0.016,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T11:00:00-07:00
--6.1,Hinton-Drinnan,Outdoor Temperature,2025-11-05T11:00:00-07:00
+0.013,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T12:00:00-07:00
+-4.2,Hinton-Drinnan,Outdoor Temperature,2025-11-05T12:00:00-07:00
+0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T12:00:00-07:00
+0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T12:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T12:00:00-07:00
+6.7,Hinton-Drinnan,Wind Speed,2025-11-05T12:00:00-07:00
+0.015,Hinton-Drinnan,Ozone,2025-11-05T12:00:00-07:00
+3.7,Hinton-Drinnan,Fine Particulate Matter,2025-11-05T12:00:00-07:00
+59.0,Hinton-Drinnan,Wind Direction,2025-11-05T12:00:00-07:00
+0.005,Hinton-Drinnan,Nitric Oxide,2025-11-05T12:00:00-07:00
+72.0,Hinton-Drinnan,Relative Humidity,2025-11-05T12:00:00-07:00
+0.008,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T12:00:00-07:00
 2.0,Hinton-Drinnan,,2025-11-05T11:00:00-07:00
+-6.1,Hinton-Drinnan,Outdoor Temperature,2025-11-05T11:00:00-07:00
+0.016,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T11:00:00-07:00
 0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T11:00:00-07:00
 0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T11:00:00-07:00
 0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T11:00:00-07:00
@@ -1052,9 +1052,9 @@ Value,StationName,ParameterName,ReadingDate
 0.008,Hinton-Drinnan,Nitric Oxide,2025-11-05T11:00:00-07:00
 80.4,Hinton-Drinnan,Relative Humidity,2025-11-05T11:00:00-07:00
 0.009,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T11:00:00-07:00
-0.019,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T10:00:00-07:00
-0.004,Hinton-Drinnan,Ozone,2025-11-05T10:00:00-07:00
 1.0,Hinton-Drinnan,,2025-11-05T10:00:00-07:00
+0.004,Hinton-Drinnan,Ozone,2025-11-05T10:00:00-07:00
+0.019,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T10:00:00-07:00
 -8.1,Hinton-Drinnan,Outdoor Temperature,2025-11-05T10:00:00-07:00
 0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T10:00:00-07:00
 0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T10:00:00-07:00
@@ -1065,6 +1065,7 @@ Value,StationName,ParameterName,ReadingDate
 0.009,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T10:00:00-07:00
 2.8,Hinton-Drinnan,Wind Speed,2025-11-05T10:00:00-07:00
 0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T10:00:00-07:00
+1.0,Hinton-Drinnan,,2025-11-05T09:00:00-07:00
 -9.7,Hinton-Drinnan,Outdoor Temperature,2025-11-05T09:00:00-07:00
 0.04,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T09:00:00-07:00
 0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T09:00:00-07:00
@@ -1077,7 +1078,6 @@ Value,StationName,ParameterName,ReadingDate
 1.5,Hinton-Drinnan,Wind Speed,2025-11-05T09:00:00-07:00
 0.001,Hinton-Drinnan,Ozone,2025-11-05T09:00:00-07:00
 0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T09:00:00-07:00
-1.0,Hinton-Drinnan,,2025-11-05T09:00:00-07:00
 0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T08:00:00-07:00
 0.5,Hinton-Drinnan,Wind Speed,2025-11-05T08:00:00-07:00
 0.008,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T08:00:00-07:00
@@ -1091,21 +1091,21 @@ Value,StationName,ParameterName,ReadingDate
 0.025,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T08:00:00-07:00
 -10.5,Hinton-Drinnan,Outdoor Temperature,2025-11-05T08:00:00-07:00
 1.0,Hinton-Drinnan,,2025-11-05T08:00:00-07:00
-0.001,Hinton-Drinnan,Ozone,2025-11-05T07:00:00-07:00
-1.5,Hinton-Drinnan,Wind Speed,2025-11-05T07:00:00-07:00
-0.008,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T07:00:00-07:00
-87.2,Hinton-Drinnan,Relative Humidity,2025-11-05T07:00:00-07:00
-0.01,Hinton-Drinnan,Nitric Oxide,2025-11-05T07:00:00-07:00
-5.6,Hinton-Drinnan,Fine Particulate Matter,2025-11-05T07:00:00-07:00
-60.0,Hinton-Drinnan,Wind Direction,2025-11-05T07:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T07:00:00-07:00
-0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T07:00:00-07:00
-0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T07:00:00-07:00
--10.0,Hinton-Drinnan,Outdoor Temperature,2025-11-05T07:00:00-07:00
-0.017,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T07:00:00-07:00
 1.0,Hinton-Drinnan,,2025-11-05T07:00:00-07:00
-0.014,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T06:00:00-07:00
+0.017,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T07:00:00-07:00
+-10.0,Hinton-Drinnan,Outdoor Temperature,2025-11-05T07:00:00-07:00
+0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T07:00:00-07:00
+0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T07:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T07:00:00-07:00
+60.0,Hinton-Drinnan,Wind Direction,2025-11-05T07:00:00-07:00
+5.6,Hinton-Drinnan,Fine Particulate Matter,2025-11-05T07:00:00-07:00
+0.01,Hinton-Drinnan,Nitric Oxide,2025-11-05T07:00:00-07:00
+87.2,Hinton-Drinnan,Relative Humidity,2025-11-05T07:00:00-07:00
+0.008,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T07:00:00-07:00
+1.5,Hinton-Drinnan,Wind Speed,2025-11-05T07:00:00-07:00
+0.001,Hinton-Drinnan,Ozone,2025-11-05T07:00:00-07:00
 1.0,Hinton-Drinnan,,2025-11-05T06:00:00-07:00
+0.014,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T06:00:00-07:00
 -9.7,Hinton-Drinnan,Outdoor Temperature,2025-11-05T06:00:00-07:00
 0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T06:00:00-07:00
 0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T06:00:00-07:00
@@ -1121,15 +1121,16 @@ Value,StationName,ParameterName,ReadingDate
 0.017,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T05:00:00-07:00
 -9.5,Hinton-Drinnan,Outdoor Temperature,2025-11-05T05:00:00-07:00
 0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T05:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T05:00:00-07:00
-4.4,Hinton-Drinnan,Fine Particulate Matter,2025-11-05T05:00:00-07:00
-56.0,Hinton-Drinnan,Wind Direction,2025-11-05T05:00:00-07:00
-0.001,Hinton-Drinnan,Ozone,2025-11-05T05:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T05:00:00-07:00
-0.008,Hinton-Drinnan,Nitric Oxide,2025-11-05T05:00:00-07:00
-86.3,Hinton-Drinnan,Relative Humidity,2025-11-05T05:00:00-07:00
-0.009,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T05:00:00-07:00
 1.2,Hinton-Drinnan,Wind Speed,2025-11-05T05:00:00-07:00
+0.009,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T05:00:00-07:00
+86.3,Hinton-Drinnan,Relative Humidity,2025-11-05T05:00:00-07:00
+0.008,Hinton-Drinnan,Nitric Oxide,2025-11-05T05:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T05:00:00-07:00
+0.001,Hinton-Drinnan,Ozone,2025-11-05T05:00:00-07:00
+56.0,Hinton-Drinnan,Wind Direction,2025-11-05T05:00:00-07:00
+4.4,Hinton-Drinnan,Fine Particulate Matter,2025-11-05T05:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T05:00:00-07:00
+1.0,Hinton-Drinnan,,2025-11-05T04:00:00-07:00
 1.2,Hinton-Drinnan,Wind Speed,2025-11-05T04:00:00-07:00
 85.1,Hinton-Drinnan,Relative Humidity,2025-11-05T04:00:00-07:00
 67.0,Hinton-Drinnan,Wind Direction,2025-11-05T04:00:00-07:00
@@ -1142,7 +1143,10 @@ Value,StationName,ParameterName,ReadingDate
 ,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T04:00:00-07:00
 ,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T04:00:00-07:00
 ,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T04:00:00-07:00
-1.0,Hinton-Drinnan,,2025-11-05T04:00:00-07:00
+0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T03:00:00-07:00
+-9.3,Hinton-Drinnan,Outdoor Temperature,2025-11-05T03:00:00-07:00
+0.021,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T03:00:00-07:00
+1.0,Hinton-Drinnan,,2025-11-05T03:00:00-07:00
 1.1,Hinton-Drinnan,Wind Speed,2025-11-05T03:00:00-07:00
 0.01,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T03:00:00-07:00
 84.3,Hinton-Drinnan,Relative Humidity,2025-11-05T03:00:00-07:00
@@ -1152,12 +1156,6 @@ Value,StationName,ParameterName,ReadingDate
 28.0,Hinton-Drinnan,Wind Direction,2025-11-05T03:00:00-07:00
 6.0,Hinton-Drinnan,Fine Particulate Matter,2025-11-05T03:00:00-07:00
 0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T03:00:00-07:00
-0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T03:00:00-07:00
--9.3,Hinton-Drinnan,Outdoor Temperature,2025-11-05T03:00:00-07:00
-0.021,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T03:00:00-07:00
-1.0,Hinton-Drinnan,,2025-11-05T03:00:00-07:00
-1.0,Hinton-Drinnan,,2025-11-05T02:00:00-07:00
-0.015,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T02:00:00-07:00
 1.1,Hinton-Drinnan,Wind Speed,2025-11-05T02:00:00-07:00
 0.011,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T02:00:00-07:00
 83.0,Hinton-Drinnan,Relative Humidity,2025-11-05T02:00:00-07:00
@@ -1169,71 +1167,73 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T02:00:00-07:00
 0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T02:00:00-07:00
 -9.0,Hinton-Drinnan,Outdoor Temperature,2025-11-05T02:00:00-07:00
-0.02,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T01:00:00-07:00
--8.5,Hinton-Drinnan,Outdoor Temperature,2025-11-05T01:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T01:00:00-07:00
-0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T01:00:00-07:00
-4.2,Hinton-Drinnan,Fine Particulate Matter,2025-11-05T01:00:00-07:00
-66.0,Hinton-Drinnan,Wind Direction,2025-11-05T01:00:00-07:00
-0.008,Hinton-Drinnan,Nitric Oxide,2025-11-05T01:00:00-07:00
-81.4,Hinton-Drinnan,Relative Humidity,2025-11-05T01:00:00-07:00
-0.012,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T01:00:00-07:00
-1.3,Hinton-Drinnan,Wind Speed,2025-11-05T01:00:00-07:00
-0.001,Hinton-Drinnan,Ozone,2025-11-05T01:00:00-07:00
+0.015,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T02:00:00-07:00
+1.0,Hinton-Drinnan,,2025-11-05T02:00:00-07:00
 0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T01:00:00-07:00
+0.001,Hinton-Drinnan,Ozone,2025-11-05T01:00:00-07:00
+1.3,Hinton-Drinnan,Wind Speed,2025-11-05T01:00:00-07:00
+0.012,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T01:00:00-07:00
+81.4,Hinton-Drinnan,Relative Humidity,2025-11-05T01:00:00-07:00
+0.008,Hinton-Drinnan,Nitric Oxide,2025-11-05T01:00:00-07:00
+66.0,Hinton-Drinnan,Wind Direction,2025-11-05T01:00:00-07:00
+4.2,Hinton-Drinnan,Fine Particulate Matter,2025-11-05T01:00:00-07:00
+0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T01:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T01:00:00-07:00
+-8.5,Hinton-Drinnan,Outdoor Temperature,2025-11-05T01:00:00-07:00
+0.02,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T01:00:00-07:00
 2.0,Hinton-Drinnan,,2025-11-05T01:00:00-07:00
-2.0,Hinton-Drinnan,,2025-11-05T00:00:00-07:00
-0.018,Hinton-Drinnan,Nitric Oxide,2025-11-05T00:00:00-07:00
-20.0,Hinton-Drinnan,Wind Direction,2025-11-05T00:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T00:00:00-07:00
--7.8,Hinton-Drinnan,Outdoor Temperature,2025-11-05T00:00:00-07:00
-8.9,Hinton-Drinnan,Fine Particulate Matter,2025-11-05T00:00:00-07:00
-0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T00:00:00-07:00
-0.9,Hinton-Drinnan,Wind Speed,2025-11-05T00:00:00-07:00
-0.013,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T00:00:00-07:00
-79.2,Hinton-Drinnan,Relative Humidity,2025-11-05T00:00:00-07:00
-0.031,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T00:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T00:00:00-07:00
 0.001,Hinton-Drinnan,Ozone,2025-11-05T00:00:00-07:00
-3.0,Hinton-Drinnan,,2025-11-04T23:00:00-07:00
-1.0,Hinton-Drinnan,Wind Speed,2025-11-04T23:00:00-07:00
-16.2,Hinton-Drinnan,Fine Particulate Matter,2025-11-04T23:00:00-07:00
--7.0,Hinton-Drinnan,Outdoor Temperature,2025-11-04T23:00:00-07:00
-76.3,Hinton-Drinnan,Relative Humidity,2025-11-04T23:00:00-07:00
-0.015,Hinton-Drinnan,Nitrogen Dioxide,2025-11-04T23:00:00-07:00
-0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-04T23:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-04T23:00:00-07:00
-86.0,Hinton-Drinnan,Wind Direction,2025-11-04T23:00:00-07:00
-0.001,Hinton-Drinnan,Ozone,2025-11-04T23:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-04T23:00:00-07:00
-0.036,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-04T23:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-05T00:00:00-07:00
+0.031,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-05T00:00:00-07:00
+79.2,Hinton-Drinnan,Relative Humidity,2025-11-05T00:00:00-07:00
+0.013,Hinton-Drinnan,Nitrogen Dioxide,2025-11-05T00:00:00-07:00
+0.9,Hinton-Drinnan,Wind Speed,2025-11-05T00:00:00-07:00
+0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-05T00:00:00-07:00
+8.9,Hinton-Drinnan,Fine Particulate Matter,2025-11-05T00:00:00-07:00
+-7.8,Hinton-Drinnan,Outdoor Temperature,2025-11-05T00:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-05T00:00:00-07:00
+20.0,Hinton-Drinnan,Wind Direction,2025-11-05T00:00:00-07:00
+0.018,Hinton-Drinnan,Nitric Oxide,2025-11-05T00:00:00-07:00
+2.0,Hinton-Drinnan,,2025-11-05T00:00:00-07:00
 0.02,Hinton-Drinnan,Nitric Oxide,2025-11-04T23:00:00-07:00
+0.036,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-04T23:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-04T23:00:00-07:00
+0.001,Hinton-Drinnan,Ozone,2025-11-04T23:00:00-07:00
+86.0,Hinton-Drinnan,Wind Direction,2025-11-04T23:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-04T23:00:00-07:00
+0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-04T23:00:00-07:00
+0.015,Hinton-Drinnan,Nitrogen Dioxide,2025-11-04T23:00:00-07:00
+76.3,Hinton-Drinnan,Relative Humidity,2025-11-04T23:00:00-07:00
+-7.0,Hinton-Drinnan,Outdoor Temperature,2025-11-04T23:00:00-07:00
+16.2,Hinton-Drinnan,Fine Particulate Matter,2025-11-04T23:00:00-07:00
+1.0,Hinton-Drinnan,Wind Speed,2025-11-04T23:00:00-07:00
+3.0,Hinton-Drinnan,,2025-11-04T23:00:00-07:00
+0.046,Hinton-Drinnan,Nitric Oxide,2025-11-04T22:00:00-07:00
+0.067,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-04T22:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-04T22:00:00-07:00
+0.001,Hinton-Drinnan,Ozone,2025-11-04T22:00:00-07:00
+83.0,Hinton-Drinnan,Wind Direction,2025-11-04T22:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-04T22:00:00-07:00
+0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-04T22:00:00-07:00
+0.022,Hinton-Drinnan,Nitrogen Dioxide,2025-11-04T22:00:00-07:00
 3.0,Hinton-Drinnan,,2025-11-04T22:00:00-07:00
 0.9,Hinton-Drinnan,Wind Speed,2025-11-04T22:00:00-07:00
 16.7,Hinton-Drinnan,Fine Particulate Matter,2025-11-04T22:00:00-07:00
 -6.1,Hinton-Drinnan,Outdoor Temperature,2025-11-04T22:00:00-07:00
 72.9,Hinton-Drinnan,Relative Humidity,2025-11-04T22:00:00-07:00
-0.022,Hinton-Drinnan,Nitrogen Dioxide,2025-11-04T22:00:00-07:00
-0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-04T22:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-04T22:00:00-07:00
-83.0,Hinton-Drinnan,Wind Direction,2025-11-04T22:00:00-07:00
-0.001,Hinton-Drinnan,Ozone,2025-11-04T22:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-04T22:00:00-07:00
-0.067,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-04T22:00:00-07:00
-0.046,Hinton-Drinnan,Nitric Oxide,2025-11-04T22:00:00-07:00
-0.058,Hinton-Drinnan,Nitric Oxide,2025-11-04T21:00:00-07:00
-0.079,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-04T21:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-04T21:00:00-07:00
-0.001,Hinton-Drinnan,Ozone,2025-11-04T21:00:00-07:00
-0.001,Hinton-Drinnan,Sulphur Dioxide,2025-11-04T21:00:00-07:00
-95.0,Hinton-Drinnan,Wind Direction,2025-11-04T21:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-04T21:00:00-07:00
-0.022,Hinton-Drinnan,Nitrogen Dioxide,2025-11-04T21:00:00-07:00
-68.6,Hinton-Drinnan,Relative Humidity,2025-11-04T21:00:00-07:00
--5.1,Hinton-Drinnan,Outdoor Temperature,2025-11-04T21:00:00-07:00
-22.7,Hinton-Drinnan,Fine Particulate Matter,2025-11-04T21:00:00-07:00
-0.3,Hinton-Drinnan,Wind Speed,2025-11-04T21:00:00-07:00
 3.0,Hinton-Drinnan,,2025-11-04T21:00:00-07:00
+0.3,Hinton-Drinnan,Wind Speed,2025-11-04T21:00:00-07:00
+22.7,Hinton-Drinnan,Fine Particulate Matter,2025-11-04T21:00:00-07:00
+-5.1,Hinton-Drinnan,Outdoor Temperature,2025-11-04T21:00:00-07:00
+68.6,Hinton-Drinnan,Relative Humidity,2025-11-04T21:00:00-07:00
+0.022,Hinton-Drinnan,Nitrogen Dioxide,2025-11-04T21:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-04T21:00:00-07:00
+95.0,Hinton-Drinnan,Wind Direction,2025-11-04T21:00:00-07:00
+0.001,Hinton-Drinnan,Sulphur Dioxide,2025-11-04T21:00:00-07:00
+0.001,Hinton-Drinnan,Ozone,2025-11-04T21:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-04T21:00:00-07:00
+0.079,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-04T21:00:00-07:00
+0.058,Hinton-Drinnan,Nitric Oxide,2025-11-04T21:00:00-07:00
 3.0,Hinton-Drinnan,,2025-11-04T20:00:00-07:00
 65.3,Hinton-Drinnan,Relative Humidity,2025-11-04T20:00:00-07:00
 0.023,Hinton-Drinnan,Nitrogen Dioxide,2025-11-04T20:00:00-07:00
@@ -1817,47 +1817,47 @@ Value,StationName,ParameterName,ReadingDate
 2.0,Hinton-Drinnan,,2025-11-03T00:00:00-07:00
 4.2,Hinton-Drinnan,Fine Particulate Matter,2025-11-03T00:00:00-07:00
 0.006,Hinton-Drinnan,Nitrogen Dioxide,2025-11-03T00:00:00-07:00
-0.008,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-03T00:00:00-07:00
 2.0,Hinton-Drinnan,Wind Speed,2025-11-03T00:00:00-07:00
-53.6,Hinton-Drinnan,Relative Humidity,2025-11-02T23:00:00-07:00
-0.001,Hinton-Drinnan,Nitric Oxide,2025-11-02T23:00:00-07:00
-0.001,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T23:00:00-07:00
-228.0,Hinton-Drinnan,Wind Direction,2025-11-02T23:00:00-07:00
-0.021,Hinton-Drinnan,Ozone,2025-11-02T23:00:00-07:00
+0.008,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-03T00:00:00-07:00
+1.6,Hinton-Drinnan,Wind Speed,2025-11-02T23:00:00-07:00
+0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T23:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T23:00:00-07:00
+2.7,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T23:00:00-07:00
+2.0,Hinton-Drinnan,,2025-11-02T23:00:00-07:00
 0.009,Hinton-Drinnan,Nitrogen Dioxide,2025-11-02T23:00:00-07:00
+0.021,Hinton-Drinnan,Ozone,2025-11-02T23:00:00-07:00
 -2.0,Hinton-Drinnan,Outdoor Temperature,2025-11-02T23:00:00-07:00
 0.011,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-02T23:00:00-07:00
-2.0,Hinton-Drinnan,,2025-11-02T23:00:00-07:00
-2.7,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T23:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T23:00:00-07:00
-0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T23:00:00-07:00
-1.6,Hinton-Drinnan,Wind Speed,2025-11-02T23:00:00-07:00
-2.0,Hinton-Drinnan,,2025-11-02T22:00:00-07:00
-3.8,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T22:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T22:00:00-07:00
-0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T22:00:00-07:00
-0.007,Hinton-Drinnan,Nitrogen Dioxide,2025-11-02T22:00:00-07:00
-2.6,Hinton-Drinnan,Wind Speed,2025-11-02T22:00:00-07:00
-0.008,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-02T22:00:00-07:00
-0.025,Hinton-Drinnan,Ozone,2025-11-02T22:00:00-07:00
--0.4,Hinton-Drinnan,Outdoor Temperature,2025-11-02T22:00:00-07:00
-211.0,Hinton-Drinnan,Wind Direction,2025-11-02T22:00:00-07:00
-0.001,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T22:00:00-07:00
-0.001,Hinton-Drinnan,Nitric Oxide,2025-11-02T22:00:00-07:00
+228.0,Hinton-Drinnan,Wind Direction,2025-11-02T23:00:00-07:00
+0.001,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T23:00:00-07:00
+0.001,Hinton-Drinnan,Nitric Oxide,2025-11-02T23:00:00-07:00
+53.6,Hinton-Drinnan,Relative Humidity,2025-11-02T23:00:00-07:00
 47.1,Hinton-Drinnan,Relative Humidity,2025-11-02T22:00:00-07:00
-42.3,Hinton-Drinnan,Relative Humidity,2025-11-02T21:00:00-07:00
-0.0,Hinton-Drinnan,Nitric Oxide,2025-11-02T21:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T21:00:00-07:00
-0.001,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T21:00:00-07:00
-0.001,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T21:00:00-07:00
-225.0,Hinton-Drinnan,Wind Direction,2025-11-02T21:00:00-07:00
-0.029,Hinton-Drinnan,Ozone,2025-11-02T21:00:00-07:00
-0.4,Hinton-Drinnan,Outdoor Temperature,2025-11-02T21:00:00-07:00
-4.5,Hinton-Drinnan,Wind Speed,2025-11-02T21:00:00-07:00
-0.005,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-02T21:00:00-07:00
-0.005,Hinton-Drinnan,Nitrogen Dioxide,2025-11-02T21:00:00-07:00
-3.5,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T21:00:00-07:00
+0.001,Hinton-Drinnan,Nitric Oxide,2025-11-02T22:00:00-07:00
+0.001,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T22:00:00-07:00
+211.0,Hinton-Drinnan,Wind Direction,2025-11-02T22:00:00-07:00
+-0.4,Hinton-Drinnan,Outdoor Temperature,2025-11-02T22:00:00-07:00
+0.025,Hinton-Drinnan,Ozone,2025-11-02T22:00:00-07:00
+0.008,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-02T22:00:00-07:00
+2.6,Hinton-Drinnan,Wind Speed,2025-11-02T22:00:00-07:00
+0.007,Hinton-Drinnan,Nitrogen Dioxide,2025-11-02T22:00:00-07:00
+0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T22:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T22:00:00-07:00
+3.8,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T22:00:00-07:00
+2.0,Hinton-Drinnan,,2025-11-02T22:00:00-07:00
 2.0,Hinton-Drinnan,,2025-11-02T21:00:00-07:00
+3.5,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T21:00:00-07:00
+0.005,Hinton-Drinnan,Nitrogen Dioxide,2025-11-02T21:00:00-07:00
+0.005,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-02T21:00:00-07:00
+4.5,Hinton-Drinnan,Wind Speed,2025-11-02T21:00:00-07:00
+0.4,Hinton-Drinnan,Outdoor Temperature,2025-11-02T21:00:00-07:00
+0.029,Hinton-Drinnan,Ozone,2025-11-02T21:00:00-07:00
+225.0,Hinton-Drinnan,Wind Direction,2025-11-02T21:00:00-07:00
+0.001,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T21:00:00-07:00
+0.001,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T21:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T21:00:00-07:00
+0.0,Hinton-Drinnan,Nitric Oxide,2025-11-02T21:00:00-07:00
+42.3,Hinton-Drinnan,Relative Humidity,2025-11-02T21:00:00-07:00
 2.0,Hinton-Drinnan,,2025-11-02T20:00:00-07:00
 2.1,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T20:00:00-07:00
 0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T20:00:00-07:00
@@ -1871,24 +1871,24 @@ Value,StationName,ParameterName,ReadingDate
 0.001,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T20:00:00-07:00
 0.0,Hinton-Drinnan,Nitric Oxide,2025-11-02T20:00:00-07:00
 42.6,Hinton-Drinnan,Relative Humidity,2025-11-02T20:00:00-07:00
-2.0,Hinton-Drinnan,,2025-11-02T19:00:00-07:00
-1.4,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T19:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T19:00:00-07:00
-0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T19:00:00-07:00
-2.7,Hinton-Drinnan,Wind Speed,2025-11-02T19:00:00-07:00
-0.033,Hinton-Drinnan,Ozone,2025-11-02T19:00:00-07:00
-0.5,Hinton-Drinnan,Outdoor Temperature,2025-11-02T19:00:00-07:00
-0.002,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-02T19:00:00-07:00
-0.002,Hinton-Drinnan,Nitrogen Dioxide,2025-11-02T19:00:00-07:00
-277.0,Hinton-Drinnan,Wind Direction,2025-11-02T19:00:00-07:00
-0.001,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T19:00:00-07:00
-0.0,Hinton-Drinnan,Nitric Oxide,2025-11-02T19:00:00-07:00
 41.1,Hinton-Drinnan,Relative Humidity,2025-11-02T19:00:00-07:00
-2.0,Hinton-Drinnan,,2025-11-02T18:00:00-07:00
-1.0,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T18:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T18:00:00-07:00
-0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T18:00:00-07:00
+0.0,Hinton-Drinnan,Nitric Oxide,2025-11-02T19:00:00-07:00
+0.001,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T19:00:00-07:00
+277.0,Hinton-Drinnan,Wind Direction,2025-11-02T19:00:00-07:00
+0.002,Hinton-Drinnan,Nitrogen Dioxide,2025-11-02T19:00:00-07:00
+0.002,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-02T19:00:00-07:00
+0.5,Hinton-Drinnan,Outdoor Temperature,2025-11-02T19:00:00-07:00
+0.033,Hinton-Drinnan,Ozone,2025-11-02T19:00:00-07:00
+2.7,Hinton-Drinnan,Wind Speed,2025-11-02T19:00:00-07:00
+0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T19:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T19:00:00-07:00
+1.4,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T19:00:00-07:00
+2.0,Hinton-Drinnan,,2025-11-02T19:00:00-07:00
 3.2,Hinton-Drinnan,Wind Speed,2025-11-02T18:00:00-07:00
+0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T18:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T18:00:00-07:00
+1.0,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T18:00:00-07:00
+2.0,Hinton-Drinnan,,2025-11-02T18:00:00-07:00
 0.001,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-02T18:00:00-07:00
 0.4,Hinton-Drinnan,Outdoor Temperature,2025-11-02T18:00:00-07:00
 0.002,Hinton-Drinnan,Nitrogen Dioxide,2025-11-02T18:00:00-07:00
@@ -1910,19 +1910,19 @@ Value,StationName,ParameterName,ReadingDate
 235.0,Hinton-Drinnan,Wind Direction,2025-11-02T17:00:00-07:00
 0.0,Hinton-Drinnan,Nitric Oxide,2025-11-02T17:00:00-07:00
 42.8,Hinton-Drinnan,Relative Humidity,2025-11-02T17:00:00-07:00
-36.3,Hinton-Drinnan,Relative Humidity,2025-11-02T16:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T16:00:00-07:00
-0.001,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T16:00:00-07:00
-0.001,Hinton-Drinnan,Nitric Oxide,2025-11-02T16:00:00-07:00
-236.0,Hinton-Drinnan,Wind Direction,2025-11-02T16:00:00-07:00
-0.032,Hinton-Drinnan,Ozone,2025-11-02T16:00:00-07:00
-3.8,Hinton-Drinnan,Outdoor Temperature,2025-11-02T16:00:00-07:00
-11.5,Hinton-Drinnan,Wind Speed,2025-11-02T16:00:00-07:00
-0.004,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T16:00:00-07:00
-0.005,Hinton-Drinnan,Nitrogen Dioxide,2025-11-02T16:00:00-07:00
-0.007,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-02T16:00:00-07:00
-3.6,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T16:00:00-07:00
 2.0,Hinton-Drinnan,,2025-11-02T16:00:00-07:00
+3.6,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T16:00:00-07:00
+0.007,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-02T16:00:00-07:00
+0.005,Hinton-Drinnan,Nitrogen Dioxide,2025-11-02T16:00:00-07:00
+0.004,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T16:00:00-07:00
+11.5,Hinton-Drinnan,Wind Speed,2025-11-02T16:00:00-07:00
+3.8,Hinton-Drinnan,Outdoor Temperature,2025-11-02T16:00:00-07:00
+0.032,Hinton-Drinnan,Ozone,2025-11-02T16:00:00-07:00
+236.0,Hinton-Drinnan,Wind Direction,2025-11-02T16:00:00-07:00
+0.001,Hinton-Drinnan,Nitric Oxide,2025-11-02T16:00:00-07:00
+0.001,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T16:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T16:00:00-07:00
+36.3,Hinton-Drinnan,Relative Humidity,2025-11-02T16:00:00-07:00
 2.0,Hinton-Drinnan,,2025-11-02T15:00:00-07:00
 5.0,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T15:00:00-07:00
 0.007,Hinton-Drinnan,Nitrogen Dioxide,2025-11-02T15:00:00-07:00
@@ -1936,19 +1936,19 @@ Value,StationName,ParameterName,ReadingDate
 0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T15:00:00-07:00
 35.4,Hinton-Drinnan,Relative Humidity,2025-11-02T15:00:00-07:00
 0.003,Hinton-Drinnan,Nitric Oxide,2025-11-02T15:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T14:00:00-07:00
-0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T14:00:00-07:00
-0.004,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T14:00:00-07:00
-0.004,Hinton-Drinnan,Nitrogen Dioxide,2025-11-02T14:00:00-07:00
-10.9,Hinton-Drinnan,Wind Speed,2025-11-02T14:00:00-07:00
-0.006,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-02T14:00:00-07:00
-0.033,Hinton-Drinnan,Ozone,2025-11-02T14:00:00-07:00
-4.9,Hinton-Drinnan,Outdoor Temperature,2025-11-02T14:00:00-07:00
-0.002,Hinton-Drinnan,Nitric Oxide,2025-11-02T14:00:00-07:00
-245.0,Hinton-Drinnan,Wind Direction,2025-11-02T14:00:00-07:00
 34.0,Hinton-Drinnan,Relative Humidity,2025-11-02T14:00:00-07:00
-2.0,Hinton-Drinnan,,2025-11-02T14:00:00-07:00
+245.0,Hinton-Drinnan,Wind Direction,2025-11-02T14:00:00-07:00
+0.002,Hinton-Drinnan,Nitric Oxide,2025-11-02T14:00:00-07:00
+4.9,Hinton-Drinnan,Outdoor Temperature,2025-11-02T14:00:00-07:00
+0.033,Hinton-Drinnan,Ozone,2025-11-02T14:00:00-07:00
+0.006,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-02T14:00:00-07:00
+10.9,Hinton-Drinnan,Wind Speed,2025-11-02T14:00:00-07:00
+0.004,Hinton-Drinnan,Nitrogen Dioxide,2025-11-02T14:00:00-07:00
+0.004,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T14:00:00-07:00
+0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T14:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T14:00:00-07:00
 3.6,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T14:00:00-07:00
+2.0,Hinton-Drinnan,,2025-11-02T14:00:00-07:00
 2.0,Hinton-Drinnan,,2025-11-02T13:00:00-07:00
 3.0,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T13:00:00-07:00
 0.004,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T13:00:00-07:00
@@ -1962,15 +1962,15 @@ Value,StationName,ParameterName,ReadingDate
 0.002,Hinton-Drinnan,Nitric Oxide,2025-11-02T13:00:00-07:00
 233.0,Hinton-Drinnan,Wind Direction,2025-11-02T13:00:00-07:00
 33.5,Hinton-Drinnan,Relative Humidity,2025-11-02T13:00:00-07:00
+12.7,Hinton-Drinnan,Wind Speed,2025-11-02T12:00:00-07:00
+0.004,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-02T12:00:00-07:00
+4.4,Hinton-Drinnan,Outdoor Temperature,2025-11-02T12:00:00-07:00
+0.002,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T12:00:00-07:00
 2.0,Hinton-Drinnan,,2025-11-02T12:00:00-07:00
 2.0,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T12:00:00-07:00
 0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T12:00:00-07:00
 0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T12:00:00-07:00
 0.003,Hinton-Drinnan,Nitrogen Dioxide,2025-11-02T12:00:00-07:00
-12.7,Hinton-Drinnan,Wind Speed,2025-11-02T12:00:00-07:00
-0.004,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-02T12:00:00-07:00
-4.4,Hinton-Drinnan,Outdoor Temperature,2025-11-02T12:00:00-07:00
-0.002,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T12:00:00-07:00
 0.034,Hinton-Drinnan,Ozone,2025-11-02T12:00:00-07:00
 230.0,Hinton-Drinnan,Wind Direction,2025-11-02T12:00:00-07:00
 0.001,Hinton-Drinnan,Nitric Oxide,2025-11-02T12:00:00-07:00
@@ -1984,10 +1984,10 @@ Value,StationName,ParameterName,ReadingDate
 3.7,Hinton-Drinnan,Outdoor Temperature,2025-11-02T11:00:00-07:00
 0.002,Hinton-Drinnan,Nitric Oxide,2025-11-02T11:00:00-07:00
 0.029,Hinton-Drinnan,Ozone,2025-11-02T11:00:00-07:00
-239.0,Hinton-Drinnan,Wind Direction,2025-11-02T11:00:00-07:00
-0.001,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T11:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T11:00:00-07:00
 48.8,Hinton-Drinnan,Relative Humidity,2025-11-02T11:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T11:00:00-07:00
+0.001,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T11:00:00-07:00
+239.0,Hinton-Drinnan,Wind Direction,2025-11-02T11:00:00-07:00
 2.0,Hinton-Drinnan,,2025-11-02T10:00:00-07:00
 3.7,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T10:00:00-07:00
 0.006,Hinton-Drinnan,Nitrogen Dioxide,2025-11-02T10:00:00-07:00
@@ -2001,19 +2001,19 @@ Value,StationName,ParameterName,ReadingDate
 0.001,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T10:00:00-07:00
 0.001,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T10:00:00-07:00
 55.6,Hinton-Drinnan,Relative Humidity,2025-11-02T10:00:00-07:00
-69.9,Hinton-Drinnan,Relative Humidity,2025-11-02T09:00:00-07:00
-0.001,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T09:00:00-07:00
-0.0,Hinton-Drinnan,Nitric Oxide,2025-11-02T09:00:00-07:00
 246.0,Hinton-Drinnan,Wind Direction,2025-11-02T09:00:00-07:00
-0.027,Hinton-Drinnan,Ozone,2025-11-02T09:00:00-07:00
--0.7,Hinton-Drinnan,Outdoor Temperature,2025-11-02T09:00:00-07:00
-0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T09:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T09:00:00-07:00
-5.9,Hinton-Drinnan,Wind Speed,2025-11-02T09:00:00-07:00
-0.003,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-02T09:00:00-07:00
-0.003,Hinton-Drinnan,Nitrogen Dioxide,2025-11-02T09:00:00-07:00
-1.7,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T09:00:00-07:00
+0.0,Hinton-Drinnan,Nitric Oxide,2025-11-02T09:00:00-07:00
+0.001,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T09:00:00-07:00
+69.9,Hinton-Drinnan,Relative Humidity,2025-11-02T09:00:00-07:00
 2.0,Hinton-Drinnan,,2025-11-02T09:00:00-07:00
+1.7,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T09:00:00-07:00
+0.003,Hinton-Drinnan,Nitrogen Dioxide,2025-11-02T09:00:00-07:00
+0.003,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-02T09:00:00-07:00
+5.9,Hinton-Drinnan,Wind Speed,2025-11-02T09:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T09:00:00-07:00
+0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T09:00:00-07:00
+-0.7,Hinton-Drinnan,Outdoor Temperature,2025-11-02T09:00:00-07:00
+0.027,Hinton-Drinnan,Ozone,2025-11-02T09:00:00-07:00
 0.004,Hinton-Drinnan,Nitrogen Dioxide,2025-11-02T08:00:00-07:00
 0.005,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-02T08:00:00-07:00
 2.1,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T08:00:00-07:00
@@ -2023,10 +2023,10 @@ Value,StationName,ParameterName,ReadingDate
 -1.8,Hinton-Drinnan,Outdoor Temperature,2025-11-02T08:00:00-07:00
 0.0,Hinton-Drinnan,Nitric Oxide,2025-11-02T08:00:00-07:00
 0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T08:00:00-07:00
-0.022,Hinton-Drinnan,Ozone,2025-11-02T08:00:00-07:00
-0.001,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T08:00:00-07:00
 0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T08:00:00-07:00
 79.9,Hinton-Drinnan,Relative Humidity,2025-11-02T08:00:00-07:00
+0.022,Hinton-Drinnan,Ozone,2025-11-02T08:00:00-07:00
+0.001,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T08:00:00-07:00
 0.001,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T07:00:00-07:00
 0.029,Hinton-Drinnan,Ozone,2025-11-02T07:00:00-07:00
 73.7,Hinton-Drinnan,Relative Humidity,2025-11-02T07:00:00-07:00
@@ -2055,17 +2055,17 @@ Value,StationName,ParameterName,ReadingDate
 70.5,Hinton-Drinnan,Relative Humidity,2025-11-02T06:00:00-07:00
 2.0,Hinton-Drinnan,,2025-11-02T05:00:00-07:00
 1.6,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T05:00:00-07:00
-73.0,Hinton-Drinnan,Relative Humidity,2025-11-02T05:00:00-07:00
-0.001,Hinton-Drinnan,Nitric Oxide,2025-11-02T05:00:00-07:00
-268.0,Hinton-Drinnan,Wind Direction,2025-11-02T05:00:00-07:00
--1.3,Hinton-Drinnan,Outdoor Temperature,2025-11-02T05:00:00-07:00
-0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T05:00:00-07:00
-0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T05:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T05:00:00-07:00
-0.022,Hinton-Drinnan,Ozone,2025-11-02T05:00:00-07:00
-0.006,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-02T05:00:00-07:00
-3.3,Hinton-Drinnan,Wind Speed,2025-11-02T05:00:00-07:00
 0.005,Hinton-Drinnan,Nitrogen Dioxide,2025-11-02T05:00:00-07:00
+3.3,Hinton-Drinnan,Wind Speed,2025-11-02T05:00:00-07:00
+0.006,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-02T05:00:00-07:00
+0.022,Hinton-Drinnan,Ozone,2025-11-02T05:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T05:00:00-07:00
+0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T05:00:00-07:00
+0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T05:00:00-07:00
+-1.3,Hinton-Drinnan,Outdoor Temperature,2025-11-02T05:00:00-07:00
+268.0,Hinton-Drinnan,Wind Direction,2025-11-02T05:00:00-07:00
+0.001,Hinton-Drinnan,Nitric Oxide,2025-11-02T05:00:00-07:00
+73.0,Hinton-Drinnan,Relative Humidity,2025-11-02T05:00:00-07:00
 0.9,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T04:00:00-07:00
 ,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T04:00:00-07:00
 3.0,Hinton-Drinnan,Wind Speed,2025-11-02T04:00:00-07:00
@@ -2092,16 +2092,3 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T03:00:00-07:00
 0.0,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T03:00:00-07:00
 -0.6,Hinton-Drinnan,Outdoor Temperature,2025-11-02T03:00:00-07:00
-,Hinton-Drinnan,Fine Particulate Matter,2025-11-02T02:00:00-07:00
-,Hinton-Drinnan,Relative Humidity,2025-11-02T02:00:00-07:00
-,Hinton-Drinnan,Wind Speed,2025-11-02T02:00:00-07:00
-,Hinton-Drinnan,Hydrogen Sulphide,2025-11-02T02:00:00-07:00
-,Hinton-Drinnan,Nitrogen Dioxide,2025-11-02T02:00:00-07:00
-,Hinton-Drinnan,Total Reduced Sulphur,2025-11-02T02:00:00-07:00
-,Hinton-Drinnan,Sulphur Dioxide,2025-11-02T02:00:00-07:00
-,Hinton-Drinnan,Total Oxides of Nitrogen,2025-11-02T02:00:00-07:00
-,Hinton-Drinnan,Nitric Oxide,2025-11-02T02:00:00-07:00
-,Hinton-Drinnan,Wind Direction,2025-11-02T02:00:00-07:00
-,Hinton-Drinnan,Outdoor Temperature,2025-11-02T02:00:00-07:00
-,Hinton-Drinnan,Ozone,2025-11-02T02:00:00-07:00
-1.0,Hinton-Drinnan,,2025-11-02T02:00:00-07:00

@@ -725,28 +725,28 @@ Value,StationName,ParameterName,ReadingDate
 0.006,Drayton Valley,Nitrogen Dioxide,2025-11-06T02:00:00-07:00
 0.001,Drayton Valley,Nitric Oxide,2025-11-06T02:00:00-07:00
 0.0,Drayton Valley,Sulphur Dioxide,2025-11-06T02:00:00-07:00
-0.006,Drayton Valley,Total Oxides of Nitrogen,2025-11-06T01:00:00-07:00
-3.9,Drayton Valley,Wind Speed,2025-11-06T01:00:00-07:00
-5.0,Drayton Valley,Fine Particulate Matter,2025-11-06T01:00:00-07:00
-0.017,Drayton Valley,Ozone,2025-11-06T01:00:00-07:00
-74.4,Drayton Valley,Relative Humidity,2025-11-06T01:00:00-07:00
-298.0,Drayton Valley,Wind Direction,2025-11-06T01:00:00-07:00
-0.006,Drayton Valley,Nitrogen Dioxide,2025-11-06T01:00:00-07:00
-0.0,Drayton Valley,Nitric Oxide,2025-11-06T01:00:00-07:00
-0.0,Drayton Valley,Sulphur Dioxide,2025-11-06T01:00:00-07:00
-1.7,Drayton Valley,Outdoor Temperature,2025-11-06T01:00:00-07:00
 2.0,Drayton Valley,,2025-11-06T01:00:00-07:00
-0.0,Drayton Valley,Sulphur Dioxide,2025-11-06T00:00:00-07:00
-0.004,Drayton Valley,Total Oxides of Nitrogen,2025-11-06T00:00:00-07:00
-1.9,Drayton Valley,Outdoor Temperature,2025-11-06T00:00:00-07:00
-0.0,Drayton Valley,Nitric Oxide,2025-11-06T00:00:00-07:00
+1.7,Drayton Valley,Outdoor Temperature,2025-11-06T01:00:00-07:00
+0.0,Drayton Valley,Sulphur Dioxide,2025-11-06T01:00:00-07:00
+0.0,Drayton Valley,Nitric Oxide,2025-11-06T01:00:00-07:00
+0.006,Drayton Valley,Nitrogen Dioxide,2025-11-06T01:00:00-07:00
+298.0,Drayton Valley,Wind Direction,2025-11-06T01:00:00-07:00
+74.4,Drayton Valley,Relative Humidity,2025-11-06T01:00:00-07:00
+0.017,Drayton Valley,Ozone,2025-11-06T01:00:00-07:00
+5.0,Drayton Valley,Fine Particulate Matter,2025-11-06T01:00:00-07:00
+3.9,Drayton Valley,Wind Speed,2025-11-06T01:00:00-07:00
+0.006,Drayton Valley,Total Oxides of Nitrogen,2025-11-06T01:00:00-07:00
 2.0,Drayton Valley,,2025-11-06T00:00:00-07:00
+0.0,Drayton Valley,Nitric Oxide,2025-11-06T00:00:00-07:00
+1.9,Drayton Valley,Outdoor Temperature,2025-11-06T00:00:00-07:00
 90.0,Drayton Valley,Wind Direction,2025-11-06T00:00:00-07:00
 4.7,Drayton Valley,Fine Particulate Matter,2025-11-06T00:00:00-07:00
 0.019,Drayton Valley,Ozone,2025-11-06T00:00:00-07:00
 5.2,Drayton Valley,Wind Speed,2025-11-06T00:00:00-07:00
 0.005,Drayton Valley,Nitrogen Dioxide,2025-11-06T00:00:00-07:00
 69.8,Drayton Valley,Relative Humidity,2025-11-06T00:00:00-07:00
+0.004,Drayton Valley,Total Oxides of Nitrogen,2025-11-06T00:00:00-07:00
+0.0,Drayton Valley,Sulphur Dioxide,2025-11-06T00:00:00-07:00
 2.0,Drayton Valley,,2025-11-05T23:00:00-07:00
 2.0,Drayton Valley,Outdoor Temperature,2025-11-05T23:00:00-07:00
 0.0,Drayton Valley,Nitric Oxide,2025-11-05T23:00:00-07:00
@@ -758,9 +758,9 @@ Value,StationName,ParameterName,ReadingDate
 3.3,Drayton Valley,Wind Speed,2025-11-05T23:00:00-07:00
 0.019,Drayton Valley,Ozone,2025-11-05T23:00:00-07:00
 5.5,Drayton Valley,Fine Particulate Matter,2025-11-05T23:00:00-07:00
-2.0,Drayton Valley,,2025-11-05T22:00:00-07:00
-2.4,Drayton Valley,Outdoor Temperature,2025-11-05T22:00:00-07:00
 0.0,Drayton Valley,Nitric Oxide,2025-11-05T22:00:00-07:00
+2.4,Drayton Valley,Outdoor Temperature,2025-11-05T22:00:00-07:00
+2.0,Drayton Valley,,2025-11-05T22:00:00-07:00
 0.0,Drayton Valley,Sulphur Dioxide,2025-11-05T22:00:00-07:00
 0.006,Drayton Valley,Total Oxides of Nitrogen,2025-11-05T22:00:00-07:00
 77.0,Drayton Valley,Wind Direction,2025-11-05T22:00:00-07:00
@@ -780,18 +780,21 @@ Value,StationName,ParameterName,ReadingDate
 0.021,Drayton Valley,Ozone,2025-11-05T21:00:00-07:00
 4.7,Drayton Valley,Fine Particulate Matter,2025-11-05T21:00:00-07:00
 76.0,Drayton Valley,Wind Direction,2025-11-05T21:00:00-07:00
+95.0,Drayton Valley,Wind Direction,2025-11-05T20:00:00-07:00
+4.8,Drayton Valley,Fine Particulate Matter,2025-11-05T20:00:00-07:00
+0.023,Drayton Valley,Ozone,2025-11-05T20:00:00-07:00
+3.9,Drayton Valley,Wind Speed,2025-11-05T20:00:00-07:00
+0.005,Drayton Valley,Nitrogen Dioxide,2025-11-05T20:00:00-07:00
+61.3,Drayton Valley,Relative Humidity,2025-11-05T20:00:00-07:00
+0.005,Drayton Valley,Total Oxides of Nitrogen,2025-11-05T20:00:00-07:00
 0.0,Drayton Valley,Sulphur Dioxide,2025-11-05T20:00:00-07:00
 2.8,Drayton Valley,Outdoor Temperature,2025-11-05T20:00:00-07:00
 0.0,Drayton Valley,Nitric Oxide,2025-11-05T20:00:00-07:00
 2.0,Drayton Valley,,2025-11-05T20:00:00-07:00
-0.005,Drayton Valley,Total Oxides of Nitrogen,2025-11-05T20:00:00-07:00
-61.3,Drayton Valley,Relative Humidity,2025-11-05T20:00:00-07:00
-0.005,Drayton Valley,Nitrogen Dioxide,2025-11-05T20:00:00-07:00
-3.9,Drayton Valley,Wind Speed,2025-11-05T20:00:00-07:00
-0.023,Drayton Valley,Ozone,2025-11-05T20:00:00-07:00
-4.8,Drayton Valley,Fine Particulate Matter,2025-11-05T20:00:00-07:00
-95.0,Drayton Valley,Wind Direction,2025-11-05T20:00:00-07:00
 0.0,Drayton Valley,Sulphur Dioxide,2025-11-05T19:00:00-07:00
+0.0,Drayton Valley,Nitric Oxide,2025-11-05T19:00:00-07:00
+3.1,Drayton Valley,Outdoor Temperature,2025-11-05T19:00:00-07:00
+2.0,Drayton Valley,,2025-11-05T19:00:00-07:00
 0.006,Drayton Valley,Total Oxides of Nitrogen,2025-11-05T19:00:00-07:00
 58.4,Drayton Valley,Relative Humidity,2025-11-05T19:00:00-07:00
 0.006,Drayton Valley,Nitrogen Dioxide,2025-11-05T19:00:00-07:00
@@ -799,43 +802,39 @@ Value,StationName,ParameterName,ReadingDate
 0.024,Drayton Valley,Ozone,2025-11-05T19:00:00-07:00
 5.2,Drayton Valley,Fine Particulate Matter,2025-11-05T19:00:00-07:00
 125.0,Drayton Valley,Wind Direction,2025-11-05T19:00:00-07:00
-0.0,Drayton Valley,Nitric Oxide,2025-11-05T19:00:00-07:00
-3.1,Drayton Valley,Outdoor Temperature,2025-11-05T19:00:00-07:00
-2.0,Drayton Valley,,2025-11-05T19:00:00-07:00
-0.005,Drayton Valley,Total Oxides of Nitrogen,2025-11-05T18:00:00-07:00
-130.0,Drayton Valley,Wind Direction,2025-11-05T18:00:00-07:00
-4.4,Drayton Valley,Fine Particulate Matter,2025-11-05T18:00:00-07:00
-0.026,Drayton Valley,Ozone,2025-11-05T18:00:00-07:00
-14.1,Drayton Valley,Wind Speed,2025-11-05T18:00:00-07:00
-0.005,Drayton Valley,Nitrogen Dioxide,2025-11-05T18:00:00-07:00
-54.7,Drayton Valley,Relative Humidity,2025-11-05T18:00:00-07:00
-0.0,Drayton Valley,Sulphur Dioxide,2025-11-05T18:00:00-07:00
-0.0,Drayton Valley,Nitric Oxide,2025-11-05T18:00:00-07:00
-3.7,Drayton Valley,Outdoor Temperature,2025-11-05T18:00:00-07:00
 2.0,Drayton Valley,,2025-11-05T18:00:00-07:00
-52.5,Drayton Valley,Relative Humidity,2025-11-05T17:00:00-07:00
-0.006,Drayton Valley,Total Oxides of Nitrogen,2025-11-05T17:00:00-07:00
-0.0,Drayton Valley,Sulphur Dioxide,2025-11-05T17:00:00-07:00
-0.0,Drayton Valley,Nitric Oxide,2025-11-05T17:00:00-07:00
-4.0,Drayton Valley,Outdoor Temperature,2025-11-05T17:00:00-07:00
+3.7,Drayton Valley,Outdoor Temperature,2025-11-05T18:00:00-07:00
+0.0,Drayton Valley,Nitric Oxide,2025-11-05T18:00:00-07:00
+0.0,Drayton Valley,Sulphur Dioxide,2025-11-05T18:00:00-07:00
+54.7,Drayton Valley,Relative Humidity,2025-11-05T18:00:00-07:00
+0.005,Drayton Valley,Nitrogen Dioxide,2025-11-05T18:00:00-07:00
+14.1,Drayton Valley,Wind Speed,2025-11-05T18:00:00-07:00
+0.026,Drayton Valley,Ozone,2025-11-05T18:00:00-07:00
+4.4,Drayton Valley,Fine Particulate Matter,2025-11-05T18:00:00-07:00
+130.0,Drayton Valley,Wind Direction,2025-11-05T18:00:00-07:00
+0.005,Drayton Valley,Total Oxides of Nitrogen,2025-11-05T18:00:00-07:00
 2.0,Drayton Valley,,2025-11-05T17:00:00-07:00
+4.0,Drayton Valley,Outdoor Temperature,2025-11-05T17:00:00-07:00
+0.0,Drayton Valley,Nitric Oxide,2025-11-05T17:00:00-07:00
+0.0,Drayton Valley,Sulphur Dioxide,2025-11-05T17:00:00-07:00
+0.006,Drayton Valley,Total Oxides of Nitrogen,2025-11-05T17:00:00-07:00
+52.5,Drayton Valley,Relative Humidity,2025-11-05T17:00:00-07:00
 0.006,Drayton Valley,Nitrogen Dioxide,2025-11-05T17:00:00-07:00
 11.8,Drayton Valley,Wind Speed,2025-11-05T17:00:00-07:00
 0.027,Drayton Valley,Ozone,2025-11-05T17:00:00-07:00
 3.4,Drayton Valley,Fine Particulate Matter,2025-11-05T17:00:00-07:00
 133.0,Drayton Valley,Wind Direction,2025-11-05T17:00:00-07:00
-2.0,Drayton Valley,,2025-11-05T16:00:00-07:00
-0.004,Drayton Valley,Nitrogen Dioxide,2025-11-05T16:00:00-07:00
-3.8,Drayton Valley,Outdoor Temperature,2025-11-05T16:00:00-07:00
-0.0,Drayton Valley,Nitric Oxide,2025-11-05T16:00:00-07:00
-0.004,Drayton Valley,Total Oxides of Nitrogen,2025-11-05T16:00:00-07:00
-0.0,Drayton Valley,Sulphur Dioxide,2025-11-05T16:00:00-07:00
-52.4,Drayton Valley,Relative Humidity,2025-11-05T16:00:00-07:00
-15.8,Drayton Valley,Wind Speed,2025-11-05T16:00:00-07:00
-0.029,Drayton Valley,Ozone,2025-11-05T16:00:00-07:00
-3.2,Drayton Valley,Fine Particulate Matter,2025-11-05T16:00:00-07:00
 135.0,Drayton Valley,Wind Direction,2025-11-05T16:00:00-07:00
-130.0,Drayton Valley,Wind Direction,2025-11-05T15:00:00-07:00
+3.2,Drayton Valley,Fine Particulate Matter,2025-11-05T16:00:00-07:00
+0.029,Drayton Valley,Ozone,2025-11-05T16:00:00-07:00
+15.8,Drayton Valley,Wind Speed,2025-11-05T16:00:00-07:00
+52.4,Drayton Valley,Relative Humidity,2025-11-05T16:00:00-07:00
+0.0,Drayton Valley,Sulphur Dioxide,2025-11-05T16:00:00-07:00
+0.004,Drayton Valley,Total Oxides of Nitrogen,2025-11-05T16:00:00-07:00
+0.0,Drayton Valley,Nitric Oxide,2025-11-05T16:00:00-07:00
+3.8,Drayton Valley,Outdoor Temperature,2025-11-05T16:00:00-07:00
+0.004,Drayton Valley,Nitrogen Dioxide,2025-11-05T16:00:00-07:00
+2.0,Drayton Valley,,2025-11-05T16:00:00-07:00
 3.1,Drayton Valley,Fine Particulate Matter,2025-11-05T15:00:00-07:00
 0.029,Drayton Valley,Ozone,2025-11-05T15:00:00-07:00
 20.2,Drayton Valley,Wind Speed,2025-11-05T15:00:00-07:00
@@ -843,20 +842,21 @@ Value,StationName,ParameterName,ReadingDate
 0.003,Drayton Valley,Nitrogen Dioxide,2025-11-05T15:00:00-07:00
 0.003,Drayton Valley,Total Oxides of Nitrogen,2025-11-05T15:00:00-07:00
 0.0,Drayton Valley,Sulphur Dioxide,2025-11-05T15:00:00-07:00
+130.0,Drayton Valley,Wind Direction,2025-11-05T15:00:00-07:00
 2.0,Drayton Valley,,2025-11-05T15:00:00-07:00
 3.9,Drayton Valley,Outdoor Temperature,2025-11-05T15:00:00-07:00
 0.0,Drayton Valley,Nitric Oxide,2025-11-05T15:00:00-07:00
-124.0,Drayton Valley,Wind Direction,2025-11-05T14:00:00-07:00
-3.5,Drayton Valley,Fine Particulate Matter,2025-11-05T14:00:00-07:00
-0.028,Drayton Valley,Ozone,2025-11-05T14:00:00-07:00
-17.1,Drayton Valley,Wind Speed,2025-11-05T14:00:00-07:00
-52.4,Drayton Valley,Relative Humidity,2025-11-05T14:00:00-07:00
-0.003,Drayton Valley,Nitrogen Dioxide,2025-11-05T14:00:00-07:00
-0.001,Drayton Valley,Nitric Oxide,2025-11-05T14:00:00-07:00
-0.0,Drayton Valley,Sulphur Dioxide,2025-11-05T14:00:00-07:00
-0.004,Drayton Valley,Total Oxides of Nitrogen,2025-11-05T14:00:00-07:00
-3.4,Drayton Valley,Outdoor Temperature,2025-11-05T14:00:00-07:00
 2.0,Drayton Valley,,2025-11-05T14:00:00-07:00
+3.4,Drayton Valley,Outdoor Temperature,2025-11-05T14:00:00-07:00
+0.004,Drayton Valley,Total Oxides of Nitrogen,2025-11-05T14:00:00-07:00
+0.0,Drayton Valley,Sulphur Dioxide,2025-11-05T14:00:00-07:00
+0.001,Drayton Valley,Nitric Oxide,2025-11-05T14:00:00-07:00
+0.003,Drayton Valley,Nitrogen Dioxide,2025-11-05T14:00:00-07:00
+52.4,Drayton Valley,Relative Humidity,2025-11-05T14:00:00-07:00
+17.1,Drayton Valley,Wind Speed,2025-11-05T14:00:00-07:00
+0.028,Drayton Valley,Ozone,2025-11-05T14:00:00-07:00
+3.5,Drayton Valley,Fine Particulate Matter,2025-11-05T14:00:00-07:00
+124.0,Drayton Valley,Wind Direction,2025-11-05T14:00:00-07:00
 121.0,Drayton Valley,Wind Direction,2025-11-05T13:00:00-07:00
 3.7,Drayton Valley,Fine Particulate Matter,2025-11-05T13:00:00-07:00
 0.029,Drayton Valley,Ozone,2025-11-05T13:00:00-07:00
@@ -868,6 +868,9 @@ Value,StationName,ParameterName,ReadingDate
 3.0,Drayton Valley,Outdoor Temperature,2025-11-05T13:00:00-07:00
 0.004,Drayton Valley,Nitrogen Dioxide,2025-11-05T13:00:00-07:00
 2.0,Drayton Valley,,2025-11-05T13:00:00-07:00
+2.0,Drayton Valley,,2025-11-05T12:00:00-07:00
+1.3,Drayton Valley,Outdoor Temperature,2025-11-05T12:00:00-07:00
+0.0,Drayton Valley,Sulphur Dioxide,2025-11-05T12:00:00-07:00
 0.007,Drayton Valley,Total Oxides of Nitrogen,2025-11-05T12:00:00-07:00
 0.001,Drayton Valley,Nitric Oxide,2025-11-05T12:00:00-07:00
 62.1,Drayton Valley,Relative Humidity,2025-11-05T12:00:00-07:00
@@ -876,9 +879,6 @@ Value,StationName,ParameterName,ReadingDate
 0.025,Drayton Valley,Ozone,2025-11-05T12:00:00-07:00
 4.2,Drayton Valley,Fine Particulate Matter,2025-11-05T12:00:00-07:00
 107.0,Drayton Valley,Wind Direction,2025-11-05T12:00:00-07:00
-2.0,Drayton Valley,,2025-11-05T12:00:00-07:00
-1.3,Drayton Valley,Outdoor Temperature,2025-11-05T12:00:00-07:00
-0.0,Drayton Valley,Sulphur Dioxide,2025-11-05T12:00:00-07:00
 2.0,Drayton Valley,,2025-11-05T11:00:00-07:00
 -1.9,Drayton Valley,Outdoor Temperature,2025-11-05T11:00:00-07:00
 0.0,Drayton Valley,Sulphur Dioxide,2025-11-05T11:00:00-07:00
@@ -894,13 +894,17 @@ Value,StationName,ParameterName,ReadingDate
 -3.7,Drayton Valley,Outdoor Temperature,2025-11-05T10:00:00-07:00
 0.013,Drayton Valley,Total Oxides of Nitrogen,2025-11-05T10:00:00-07:00
 0.0,Drayton Valley,Sulphur Dioxide,2025-11-05T10:00:00-07:00
-62.0,Drayton Valley,Wind Direction,2025-11-05T10:00:00-07:00
-5.3,Drayton Valley,Fine Particulate Matter,2025-11-05T10:00:00-07:00
-0.017,Drayton Valley,Ozone,2025-11-05T10:00:00-07:00
-8.9,Drayton Valley,Wind Speed,2025-11-05T10:00:00-07:00
-0.009,Drayton Valley,Nitrogen Dioxide,2025-11-05T10:00:00-07:00
-67.8,Drayton Valley,Relative Humidity,2025-11-05T10:00:00-07:00
 0.003,Drayton Valley,Nitric Oxide,2025-11-05T10:00:00-07:00
+67.8,Drayton Valley,Relative Humidity,2025-11-05T10:00:00-07:00
+0.009,Drayton Valley,Nitrogen Dioxide,2025-11-05T10:00:00-07:00
+8.9,Drayton Valley,Wind Speed,2025-11-05T10:00:00-07:00
+0.017,Drayton Valley,Ozone,2025-11-05T10:00:00-07:00
+5.3,Drayton Valley,Fine Particulate Matter,2025-11-05T10:00:00-07:00
+62.0,Drayton Valley,Wind Direction,2025-11-05T10:00:00-07:00
+2.0,Drayton Valley,,2025-11-05T09:00:00-07:00
+-4.2,Drayton Valley,Outdoor Temperature,2025-11-05T09:00:00-07:00
+0.015,Drayton Valley,Total Oxides of Nitrogen,2025-11-05T09:00:00-07:00
+0.0,Drayton Valley,Sulphur Dioxide,2025-11-05T09:00:00-07:00
 79.0,Drayton Valley,Wind Direction,2025-11-05T09:00:00-07:00
 4.6,Drayton Valley,Fine Particulate Matter,2025-11-05T09:00:00-07:00
 0.014,Drayton Valley,Ozone,2025-11-05T09:00:00-07:00
@@ -908,10 +912,6 @@ Value,StationName,ParameterName,ReadingDate
 0.013,Drayton Valley,Nitrogen Dioxide,2025-11-05T09:00:00-07:00
 69.1,Drayton Valley,Relative Humidity,2025-11-05T09:00:00-07:00
 0.003,Drayton Valley,Nitric Oxide,2025-11-05T09:00:00-07:00
-0.0,Drayton Valley,Sulphur Dioxide,2025-11-05T09:00:00-07:00
-0.015,Drayton Valley,Total Oxides of Nitrogen,2025-11-05T09:00:00-07:00
--4.2,Drayton Valley,Outdoor Temperature,2025-11-05T09:00:00-07:00
-2.0,Drayton Valley,,2025-11-05T09:00:00-07:00
 71.0,Drayton Valley,Wind Direction,2025-11-05T08:00:00-07:00
 5.7,Drayton Valley,Fine Particulate Matter,2025-11-05T08:00:00-07:00
 0.009,Drayton Valley,Ozone,2025-11-05T08:00:00-07:00
@@ -1444,11 +1444,11 @@ Value,StationName,ParameterName,ReadingDate
 235.0,Drayton Valley,Wind Direction,2025-11-03T08:00:00-07:00
 38.3,Drayton Valley,Relative Humidity,2025-11-03T08:00:00-07:00
 2.0,Drayton Valley,,2025-11-03T08:00:00-07:00
-0.6,Drayton Valley,Outdoor Temperature,2025-11-03T08:00:00-07:00
-0.0,Drayton Valley,Sulphur Dioxide,2025-11-03T08:00:00-07:00
 0.006,Drayton Valley,Nitrogen Dioxide,2025-11-03T08:00:00-07:00
 8.3,Drayton Valley,Wind Speed,2025-11-03T08:00:00-07:00
 0.009,Drayton Valley,Total Oxides of Nitrogen,2025-11-03T08:00:00-07:00
+0.6,Drayton Valley,Outdoor Temperature,2025-11-03T08:00:00-07:00
+0.0,Drayton Valley,Sulphur Dioxide,2025-11-03T08:00:00-07:00
 0.03,Drayton Valley,Ozone,2025-11-03T08:00:00-07:00
 0.002,Drayton Valley,Nitric Oxide,2025-11-03T08:00:00-07:00
 39.0,Drayton Valley,Relative Humidity,2025-11-03T07:00:00-07:00
@@ -1468,11 +1468,11 @@ Value,StationName,ParameterName,ReadingDate
 0.031,Drayton Valley,Ozone,2025-11-03T06:00:00-07:00
 10.3,Drayton Valley,Wind Speed,2025-11-03T06:00:00-07:00
 0.006,Drayton Valley,Total Oxides of Nitrogen,2025-11-03T06:00:00-07:00
-0.0,Drayton Valley,Sulphur Dioxide,2025-11-03T06:00:00-07:00
-0.4,Drayton Valley,Outdoor Temperature,2025-11-03T06:00:00-07:00
-222.0,Drayton Valley,Wind Direction,2025-11-03T06:00:00-07:00
-0.0,Drayton Valley,Nitric Oxide,2025-11-03T06:00:00-07:00
 1.6,Drayton Valley,Fine Particulate Matter,2025-11-03T06:00:00-07:00
+0.0,Drayton Valley,Nitric Oxide,2025-11-03T06:00:00-07:00
+222.0,Drayton Valley,Wind Direction,2025-11-03T06:00:00-07:00
+0.4,Drayton Valley,Outdoor Temperature,2025-11-03T06:00:00-07:00
+0.0,Drayton Valley,Sulphur Dioxide,2025-11-03T06:00:00-07:00
 2.0,Drayton Valley,,2025-11-03T05:00:00-07:00
 0.002,Drayton Valley,Nitrogen Dioxide,2025-11-03T05:00:00-07:00
 0.002,Drayton Valley,Total Oxides of Nitrogen,2025-11-03T05:00:00-07:00
@@ -1495,6 +1495,8 @@ Value,StationName,ParameterName,ReadingDate
 1.3,Drayton Valley,Outdoor Temperature,2025-11-03T04:00:00-07:00
 232.0,Drayton Valley,Wind Direction,2025-11-03T04:00:00-07:00
 1.5,Drayton Valley,Fine Particulate Matter,2025-11-03T04:00:00-07:00
+33.3,Drayton Valley,Relative Humidity,2025-11-03T03:00:00-07:00
+2.0,Drayton Valley,,2025-11-03T03:00:00-07:00
 0.001,Drayton Valley,Total Oxides of Nitrogen,2025-11-03T03:00:00-07:00
 0.001,Drayton Valley,Nitrogen Dioxide,2025-11-03T03:00:00-07:00
 0.034,Drayton Valley,Ozone,2025-11-03T03:00:00-07:00
@@ -1504,13 +1506,11 @@ Value,StationName,ParameterName,ReadingDate
 230.0,Drayton Valley,Wind Direction,2025-11-03T03:00:00-07:00
 0.0,Drayton Valley,Nitric Oxide,2025-11-03T03:00:00-07:00
 1.4,Drayton Valley,Fine Particulate Matter,2025-11-03T03:00:00-07:00
-33.3,Drayton Valley,Relative Humidity,2025-11-03T03:00:00-07:00
-2.0,Drayton Valley,,2025-11-03T03:00:00-07:00
-33.3,Drayton Valley,Relative Humidity,2025-11-03T02:00:00-07:00
-14.1,Drayton Valley,Wind Speed,2025-11-03T02:00:00-07:00
-0.033,Drayton Valley,Ozone,2025-11-03T02:00:00-07:00
-0.001,Drayton Valley,Total Oxides of Nitrogen,2025-11-03T02:00:00-07:00
 2.0,Drayton Valley,,2025-11-03T02:00:00-07:00
+0.001,Drayton Valley,Total Oxides of Nitrogen,2025-11-03T02:00:00-07:00
+0.033,Drayton Valley,Ozone,2025-11-03T02:00:00-07:00
+14.1,Drayton Valley,Wind Speed,2025-11-03T02:00:00-07:00
+33.3,Drayton Valley,Relative Humidity,2025-11-03T02:00:00-07:00
 0.002,Drayton Valley,Nitrogen Dioxide,2025-11-03T02:00:00-07:00
 1.3,Drayton Valley,Outdoor Temperature,2025-11-03T02:00:00-07:00
 0.0,Drayton Valley,Sulphur Dioxide,2025-11-03T02:00:00-07:00
@@ -1518,49 +1518,49 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Drayton Valley,Nitric Oxide,2025-11-03T02:00:00-07:00
 1.5,Drayton Valley,Fine Particulate Matter,2025-11-03T02:00:00-07:00
 2.0,Drayton Valley,,2025-11-03T01:00:00-07:00
-0.002,Drayton Valley,Nitrogen Dioxide,2025-11-03T01:00:00-07:00
-0.002,Drayton Valley,Total Oxides of Nitrogen,2025-11-03T01:00:00-07:00
-34.0,Drayton Valley,Relative Humidity,2025-11-03T01:00:00-07:00
-14.3,Drayton Valley,Wind Speed,2025-11-03T01:00:00-07:00
 2.1,Drayton Valley,Fine Particulate Matter,2025-11-03T01:00:00-07:00
 0.0,Drayton Valley,Nitric Oxide,2025-11-03T01:00:00-07:00
 230.0,Drayton Valley,Wind Direction,2025-11-03T01:00:00-07:00
 0.0,Drayton Valley,Sulphur Dioxide,2025-11-03T01:00:00-07:00
 1.1,Drayton Valley,Outdoor Temperature,2025-11-03T01:00:00-07:00
+0.002,Drayton Valley,Nitrogen Dioxide,2025-11-03T01:00:00-07:00
+0.002,Drayton Valley,Total Oxides of Nitrogen,2025-11-03T01:00:00-07:00
 0.033,Drayton Valley,Ozone,2025-11-03T01:00:00-07:00
-233.0,Drayton Valley,Wind Direction,2025-11-03T00:00:00-07:00
-35.8,Drayton Valley,Relative Humidity,2025-11-03T00:00:00-07:00
-0.0,Drayton Valley,Nitric Oxide,2025-11-03T00:00:00-07:00
-0.7,Drayton Valley,Outdoor Temperature,2025-11-03T00:00:00-07:00
-0.002,Drayton Valley,Total Oxides of Nitrogen,2025-11-03T00:00:00-07:00
-0.002,Drayton Valley,Nitrogen Dioxide,2025-11-03T00:00:00-07:00
-0.033,Drayton Valley,Ozone,2025-11-03T00:00:00-07:00
-2.0,Drayton Valley,,2025-11-03T00:00:00-07:00
-0.0,Drayton Valley,Sulphur Dioxide,2025-11-03T00:00:00-07:00
-12.5,Drayton Valley,Wind Speed,2025-11-03T00:00:00-07:00
+14.3,Drayton Valley,Wind Speed,2025-11-03T01:00:00-07:00
+34.0,Drayton Valley,Relative Humidity,2025-11-03T01:00:00-07:00
 1.5,Drayton Valley,Fine Particulate Matter,2025-11-03T00:00:00-07:00
-2.0,Drayton Valley,,2025-11-02T23:00:00-07:00
-0.0,Drayton Valley,Sulphur Dioxide,2025-11-02T23:00:00-07:00
-10.5,Drayton Valley,Wind Speed,2025-11-02T23:00:00-07:00
-1.6,Drayton Valley,Fine Particulate Matter,2025-11-02T23:00:00-07:00
-0.002,Drayton Valley,Nitrogen Dioxide,2025-11-02T23:00:00-07:00
-0.033,Drayton Valley,Ozone,2025-11-02T23:00:00-07:00
-0.4,Drayton Valley,Outdoor Temperature,2025-11-02T23:00:00-07:00
-0.002,Drayton Valley,Total Oxides of Nitrogen,2025-11-02T23:00:00-07:00
-231.0,Drayton Valley,Wind Direction,2025-11-02T23:00:00-07:00
-0.0,Drayton Valley,Nitric Oxide,2025-11-02T23:00:00-07:00
+12.5,Drayton Valley,Wind Speed,2025-11-03T00:00:00-07:00
+0.0,Drayton Valley,Sulphur Dioxide,2025-11-03T00:00:00-07:00
+2.0,Drayton Valley,,2025-11-03T00:00:00-07:00
+0.033,Drayton Valley,Ozone,2025-11-03T00:00:00-07:00
+0.002,Drayton Valley,Nitrogen Dioxide,2025-11-03T00:00:00-07:00
+0.002,Drayton Valley,Total Oxides of Nitrogen,2025-11-03T00:00:00-07:00
+0.7,Drayton Valley,Outdoor Temperature,2025-11-03T00:00:00-07:00
+0.0,Drayton Valley,Nitric Oxide,2025-11-03T00:00:00-07:00
+35.8,Drayton Valley,Relative Humidity,2025-11-03T00:00:00-07:00
+233.0,Drayton Valley,Wind Direction,2025-11-03T00:00:00-07:00
 39.1,Drayton Valley,Relative Humidity,2025-11-02T23:00:00-07:00
-0.0,Drayton Valley,Nitric Oxide,2025-11-02T22:00:00-07:00
-38.4,Drayton Valley,Relative Humidity,2025-11-02T22:00:00-07:00
-236.0,Drayton Valley,Wind Direction,2025-11-02T22:00:00-07:00
-0.002,Drayton Valley,Total Oxides of Nitrogen,2025-11-02T22:00:00-07:00
-1.2,Drayton Valley,Outdoor Temperature,2025-11-02T22:00:00-07:00
-0.033,Drayton Valley,Ozone,2025-11-02T22:00:00-07:00
-0.002,Drayton Valley,Nitrogen Dioxide,2025-11-02T22:00:00-07:00
-1.8,Drayton Valley,Fine Particulate Matter,2025-11-02T22:00:00-07:00
-10.3,Drayton Valley,Wind Speed,2025-11-02T22:00:00-07:00
-0.0,Drayton Valley,Sulphur Dioxide,2025-11-02T22:00:00-07:00
+0.0,Drayton Valley,Nitric Oxide,2025-11-02T23:00:00-07:00
+231.0,Drayton Valley,Wind Direction,2025-11-02T23:00:00-07:00
+0.002,Drayton Valley,Total Oxides of Nitrogen,2025-11-02T23:00:00-07:00
+0.4,Drayton Valley,Outdoor Temperature,2025-11-02T23:00:00-07:00
+0.033,Drayton Valley,Ozone,2025-11-02T23:00:00-07:00
+0.002,Drayton Valley,Nitrogen Dioxide,2025-11-02T23:00:00-07:00
+1.6,Drayton Valley,Fine Particulate Matter,2025-11-02T23:00:00-07:00
+10.5,Drayton Valley,Wind Speed,2025-11-02T23:00:00-07:00
+0.0,Drayton Valley,Sulphur Dioxide,2025-11-02T23:00:00-07:00
+2.0,Drayton Valley,,2025-11-02T23:00:00-07:00
 2.0,Drayton Valley,,2025-11-02T22:00:00-07:00
+0.0,Drayton Valley,Sulphur Dioxide,2025-11-02T22:00:00-07:00
+10.3,Drayton Valley,Wind Speed,2025-11-02T22:00:00-07:00
+1.8,Drayton Valley,Fine Particulate Matter,2025-11-02T22:00:00-07:00
+0.002,Drayton Valley,Nitrogen Dioxide,2025-11-02T22:00:00-07:00
+0.033,Drayton Valley,Ozone,2025-11-02T22:00:00-07:00
+1.2,Drayton Valley,Outdoor Temperature,2025-11-02T22:00:00-07:00
+0.002,Drayton Valley,Total Oxides of Nitrogen,2025-11-02T22:00:00-07:00
+236.0,Drayton Valley,Wind Direction,2025-11-02T22:00:00-07:00
+38.4,Drayton Valley,Relative Humidity,2025-11-02T22:00:00-07:00
+0.0,Drayton Valley,Nitric Oxide,2025-11-02T22:00:00-07:00
 2.0,Drayton Valley,,2025-11-02T21:00:00-07:00
 0.0,Drayton Valley,Sulphur Dioxide,2025-11-02T21:00:00-07:00
 0.003,Drayton Valley,Nitrogen Dioxide,2025-11-02T21:00:00-07:00
@@ -1594,28 +1594,28 @@ Value,StationName,ParameterName,ReadingDate
 0.001,Drayton Valley,Nitrogen Dioxide,2025-11-02T19:00:00-07:00
 249.0,Drayton Valley,Wind Direction,2025-11-02T19:00:00-07:00
 29.8,Drayton Valley,Relative Humidity,2025-11-02T19:00:00-07:00
-26.5,Drayton Valley,Relative Humidity,2025-11-02T18:00:00-07:00
-252.0,Drayton Valley,Wind Direction,2025-11-02T18:00:00-07:00
-0.001,Drayton Valley,Nitric Oxide,2025-11-02T18:00:00-07:00
-5.2,Drayton Valley,Outdoor Temperature,2025-11-02T18:00:00-07:00
-0.001,Drayton Valley,Total Oxides of Nitrogen,2025-11-02T18:00:00-07:00
-0.037,Drayton Valley,Ozone,2025-11-02T18:00:00-07:00
-1.6,Drayton Valley,Fine Particulate Matter,2025-11-02T18:00:00-07:00
-16.1,Drayton Valley,Wind Speed,2025-11-02T18:00:00-07:00
-0.0,Drayton Valley,Sulphur Dioxide,2025-11-02T18:00:00-07:00
-0.0,Drayton Valley,Nitrogen Dioxide,2025-11-02T18:00:00-07:00
 2.0,Drayton Valley,,2025-11-02T18:00:00-07:00
-16.9,Drayton Valley,Wind Speed,2025-11-02T17:00:00-07:00
-1.7,Drayton Valley,Fine Particulate Matter,2025-11-02T17:00:00-07:00
-0.038,Drayton Valley,Ozone,2025-11-02T17:00:00-07:00
-2.0,Drayton Valley,,2025-11-02T17:00:00-07:00
-0.0,Drayton Valley,Sulphur Dioxide,2025-11-02T17:00:00-07:00
-0.001,Drayton Valley,Total Oxides of Nitrogen,2025-11-02T17:00:00-07:00
-6.5,Drayton Valley,Outdoor Temperature,2025-11-02T17:00:00-07:00
-0.0,Drayton Valley,Nitric Oxide,2025-11-02T17:00:00-07:00
-0.001,Drayton Valley,Nitrogen Dioxide,2025-11-02T17:00:00-07:00
-263.0,Drayton Valley,Wind Direction,2025-11-02T17:00:00-07:00
+0.0,Drayton Valley,Nitrogen Dioxide,2025-11-02T18:00:00-07:00
+0.0,Drayton Valley,Sulphur Dioxide,2025-11-02T18:00:00-07:00
+16.1,Drayton Valley,Wind Speed,2025-11-02T18:00:00-07:00
+1.6,Drayton Valley,Fine Particulate Matter,2025-11-02T18:00:00-07:00
+0.037,Drayton Valley,Ozone,2025-11-02T18:00:00-07:00
+0.001,Drayton Valley,Total Oxides of Nitrogen,2025-11-02T18:00:00-07:00
+5.2,Drayton Valley,Outdoor Temperature,2025-11-02T18:00:00-07:00
+0.001,Drayton Valley,Nitric Oxide,2025-11-02T18:00:00-07:00
+252.0,Drayton Valley,Wind Direction,2025-11-02T18:00:00-07:00
+26.5,Drayton Valley,Relative Humidity,2025-11-02T18:00:00-07:00
 24.3,Drayton Valley,Relative Humidity,2025-11-02T17:00:00-07:00
+263.0,Drayton Valley,Wind Direction,2025-11-02T17:00:00-07:00
+0.001,Drayton Valley,Nitrogen Dioxide,2025-11-02T17:00:00-07:00
+0.0,Drayton Valley,Nitric Oxide,2025-11-02T17:00:00-07:00
+6.5,Drayton Valley,Outdoor Temperature,2025-11-02T17:00:00-07:00
+0.001,Drayton Valley,Total Oxides of Nitrogen,2025-11-02T17:00:00-07:00
+0.0,Drayton Valley,Sulphur Dioxide,2025-11-02T17:00:00-07:00
+2.0,Drayton Valley,,2025-11-02T17:00:00-07:00
+0.038,Drayton Valley,Ozone,2025-11-02T17:00:00-07:00
+1.7,Drayton Valley,Fine Particulate Matter,2025-11-02T17:00:00-07:00
+16.9,Drayton Valley,Wind Speed,2025-11-02T17:00:00-07:00
 2.0,Drayton Valley,,2025-11-02T16:00:00-07:00
 0.0,Drayton Valley,Nitrogen Dioxide,2025-11-02T16:00:00-07:00
 0.0,Drayton Valley,Sulphur Dioxide,2025-11-02T16:00:00-07:00
@@ -1656,10 +1656,10 @@ Value,StationName,ParameterName,ReadingDate
 0.035,Drayton Valley,Ozone,2025-11-02T13:00:00-07:00
 0.001,Drayton Valley,Total Oxides of Nitrogen,2025-11-02T13:00:00-07:00
 6.7,Drayton Valley,Outdoor Temperature,2025-11-02T13:00:00-07:00
-39.9,Drayton Valley,Relative Humidity,2025-11-02T13:00:00-07:00
-0.0,Drayton Valley,Nitric Oxide,2025-11-02T13:00:00-07:00
-0.001,Drayton Valley,Nitrogen Dioxide,2025-11-02T13:00:00-07:00
 248.0,Drayton Valley,Wind Direction,2025-11-02T13:00:00-07:00
+0.001,Drayton Valley,Nitrogen Dioxide,2025-11-02T13:00:00-07:00
+0.0,Drayton Valley,Nitric Oxide,2025-11-02T13:00:00-07:00
+39.9,Drayton Valley,Relative Humidity,2025-11-02T13:00:00-07:00
 0.7,Drayton Valley,Fine Particulate Matter,2025-11-02T12:00:00-07:00
 2.0,Drayton Valley,,2025-11-02T12:00:00-07:00
 0.0,Drayton Valley,Sulphur Dioxide,2025-11-02T12:00:00-07:00
@@ -1748,17 +1748,17 @@ Value,StationName,ParameterName,ReadingDate
 181.0,Drayton Valley,Wind Direction,2025-11-02T05:00:00-07:00
 -1.3,Drayton Valley,Outdoor Temperature,2025-11-02T05:00:00-07:00
 84.8,Drayton Valley,Relative Humidity,2025-11-02T05:00:00-07:00
-,Drayton Valley,Nitrogen Dioxide,2025-11-02T04:00:00-07:00
-3.1,Drayton Valley,Fine Particulate Matter,2025-11-02T04:00:00-07:00
-,Drayton Valley,,2025-11-02T04:00:00-07:00
-,Drayton Valley,Nitric Oxide,2025-11-02T04:00:00-07:00
-80.9,Drayton Valley,Relative Humidity,2025-11-02T04:00:00-07:00
-233.0,Drayton Valley,Wind Direction,2025-11-02T04:00:00-07:00
-0.0,Drayton Valley,Outdoor Temperature,2025-11-02T04:00:00-07:00
-,Drayton Valley,Ozone,2025-11-02T04:00:00-07:00
-,Drayton Valley,Total Oxides of Nitrogen,2025-11-02T04:00:00-07:00
-7.2,Drayton Valley,Wind Speed,2025-11-02T04:00:00-07:00
 ,Drayton Valley,Sulphur Dioxide,2025-11-02T04:00:00-07:00
+7.2,Drayton Valley,Wind Speed,2025-11-02T04:00:00-07:00
+,Drayton Valley,Total Oxides of Nitrogen,2025-11-02T04:00:00-07:00
+,Drayton Valley,Ozone,2025-11-02T04:00:00-07:00
+0.0,Drayton Valley,Outdoor Temperature,2025-11-02T04:00:00-07:00
+233.0,Drayton Valley,Wind Direction,2025-11-02T04:00:00-07:00
+80.9,Drayton Valley,Relative Humidity,2025-11-02T04:00:00-07:00
+,Drayton Valley,Nitric Oxide,2025-11-02T04:00:00-07:00
+,Drayton Valley,,2025-11-02T04:00:00-07:00
+3.1,Drayton Valley,Fine Particulate Matter,2025-11-02T04:00:00-07:00
+,Drayton Valley,Nitrogen Dioxide,2025-11-02T04:00:00-07:00
 ,Drayton Valley,,2025-11-02T03:00:00-07:00
 0.0,Drayton Valley,Nitric Oxide,2025-11-02T03:00:00-07:00
 83.2,Drayton Valley,Relative Humidity,2025-11-02T03:00:00-07:00
@@ -1770,14 +1770,3 @@ Value,StationName,ParameterName,ReadingDate
 0.003,Drayton Valley,Total Oxides of Nitrogen,2025-11-02T03:00:00-07:00
 0.003,Drayton Valley,Nitrogen Dioxide,2025-11-02T03:00:00-07:00
 0.0,Drayton Valley,Sulphur Dioxide,2025-11-02T03:00:00-07:00
-,Drayton Valley,Nitrogen Dioxide,2025-11-02T02:00:00-07:00
-,Drayton Valley,Nitric Oxide,2025-11-02T02:00:00-07:00
-,Drayton Valley,Outdoor Temperature,2025-11-02T02:00:00-07:00
-,Drayton Valley,Fine Particulate Matter,2025-11-02T02:00:00-07:00
-,Drayton Valley,Relative Humidity,2025-11-02T02:00:00-07:00
-,Drayton Valley,Wind Speed,2025-11-02T02:00:00-07:00
-,Drayton Valley,Sulphur Dioxide,2025-11-02T02:00:00-07:00
-,Drayton Valley,Ozone,2025-11-02T02:00:00-07:00
-,Drayton Valley,Wind Direction,2025-11-02T02:00:00-07:00
-2.0,Drayton Valley,,2025-11-02T02:00:00-07:00
-,Drayton Valley,Total Oxides of Nitrogen,2025-11-02T02:00:00-07:00
