@@ -1,13 +1,22 @@
 Value,StationName,ParameterName,ReadingDate
-,Breton,Outdoor Temperature,2025-12-02T11:00:00-07:00
-,Breton,Total Oxides of Nitrogen,2025-12-02T11:00:00-07:00
-,Breton,Relative Humidity,2025-12-02T11:00:00-07:00
-,Breton,Wind Direction,2025-12-02T11:00:00-07:00
-,Breton,Nitrogen Dioxide,2025-12-02T11:00:00-07:00
-,Breton,Wind Speed,2025-12-02T11:00:00-07:00
-,Breton,Nitric Oxide,2025-12-02T11:00:00-07:00
-,Breton,Sulphur Dioxide,2025-12-02T11:00:00-07:00
-,Breton,Ozone,2025-12-02T11:00:00-07:00
+,Breton,Total Oxides of Nitrogen,2025-12-02T12:00:00-07:00
+,Breton,Relative Humidity,2025-12-02T12:00:00-07:00
+,Breton,Nitric Oxide,2025-12-02T12:00:00-07:00
+,Breton,Wind Speed,2025-12-02T12:00:00-07:00
+,Breton,Sulphur Dioxide,2025-12-02T12:00:00-07:00
+,Breton,Nitrogen Dioxide,2025-12-02T12:00:00-07:00
+,Breton,Ozone,2025-12-02T12:00:00-07:00
+,Breton,Wind Direction,2025-12-02T12:00:00-07:00
+,Breton,Outdoor Temperature,2025-12-02T12:00:00-07:00
+-3.0,Breton,Outdoor Temperature,2025-12-02T11:00:00-07:00
+0.001,Breton,Total Oxides of Nitrogen,2025-12-02T11:00:00-07:00
+86.3,Breton,Relative Humidity,2025-12-02T11:00:00-07:00
+19.0,Breton,Wind Direction,2025-12-02T11:00:00-07:00
+0.001,Breton,Nitrogen Dioxide,2025-12-02T11:00:00-07:00
+22.5,Breton,Wind Speed,2025-12-02T11:00:00-07:00
+0.0,Breton,Nitric Oxide,2025-12-02T11:00:00-07:00
+0.0,Breton,Sulphur Dioxide,2025-12-02T11:00:00-07:00
+0.02,Breton,Ozone,2025-12-02T11:00:00-07:00
 0.001,Breton,Total Oxides of Nitrogen,2025-12-02T10:00:00-07:00
 0.0,Breton,Nitric Oxide,2025-12-02T10:00:00-07:00
 -0.7,Breton,Outdoor Temperature,2025-12-02T10:00:00-07:00
@@ -17,7 +26,6 @@ Value,StationName,ParameterName,ReadingDate
 87.9,Breton,Relative Humidity,2025-12-02T10:00:00-07:00
 6.0,Breton,Wind Direction,2025-12-02T10:00:00-07:00
 0.023,Breton,Ozone,2025-12-02T10:00:00-07:00
-18.2,Breton,Wind Speed,2025-12-02T09:00:00-07:00
 0.001,Breton,Total Oxides of Nitrogen,2025-12-02T09:00:00-07:00
 0.9,Breton,Outdoor Temperature,2025-12-02T09:00:00-07:00
 0.0,Breton,Sulphur Dioxide,2025-12-02T09:00:00-07:00
@@ -26,15 +34,16 @@ Value,StationName,ParameterName,ReadingDate
 0.024,Breton,Ozone,2025-12-02T09:00:00-07:00
 334.0,Breton,Wind Direction,2025-12-02T09:00:00-07:00
 88.5,Breton,Relative Humidity,2025-12-02T09:00:00-07:00
-15.1,Breton,Wind Speed,2025-12-02T08:00:00-07:00
-312.0,Breton,Wind Direction,2025-12-02T08:00:00-07:00
-0.024,Breton,Ozone,2025-12-02T08:00:00-07:00
-0.0,Breton,Nitric Oxide,2025-12-02T08:00:00-07:00
-0.0,Breton,Sulphur Dioxide,2025-12-02T08:00:00-07:00
-1.1,Breton,Outdoor Temperature,2025-12-02T08:00:00-07:00
-92.2,Breton,Relative Humidity,2025-12-02T08:00:00-07:00
-0.001,Breton,Nitrogen Dioxide,2025-12-02T08:00:00-07:00
+18.2,Breton,Wind Speed,2025-12-02T09:00:00-07:00
 0.001,Breton,Total Oxides of Nitrogen,2025-12-02T08:00:00-07:00
+0.001,Breton,Nitrogen Dioxide,2025-12-02T08:00:00-07:00
+92.2,Breton,Relative Humidity,2025-12-02T08:00:00-07:00
+1.1,Breton,Outdoor Temperature,2025-12-02T08:00:00-07:00
+0.0,Breton,Sulphur Dioxide,2025-12-02T08:00:00-07:00
+0.0,Breton,Nitric Oxide,2025-12-02T08:00:00-07:00
+0.024,Breton,Ozone,2025-12-02T08:00:00-07:00
+312.0,Breton,Wind Direction,2025-12-02T08:00:00-07:00
+15.1,Breton,Wind Speed,2025-12-02T08:00:00-07:00
 0.001,Breton,Nitrogen Dioxide,2025-12-02T07:00:00-07:00
 0.0,Breton,Sulphur Dioxide,2025-12-02T07:00:00-07:00
 0.026,Breton,Ozone,2025-12-02T07:00:00-07:00
@@ -53,8 +62,6 @@ Value,StationName,ParameterName,ReadingDate
 0.001,Breton,Nitrogen Dioxide,2025-12-02T06:00:00-07:00
 0.0,Breton,Sulphur Dioxide,2025-12-02T06:00:00-07:00
 309.0,Breton,Wind Direction,2025-12-02T06:00:00-07:00
-2.0,Breton,Outdoor Temperature,2025-12-02T05:00:00-07:00
-310.0,Breton,Wind Direction,2025-12-02T05:00:00-07:00
 0.0,Breton,Sulphur Dioxide,2025-12-02T05:00:00-07:00
 0.028,Breton,Ozone,2025-12-02T05:00:00-07:00
 82.3,Breton,Relative Humidity,2025-12-02T05:00:00-07:00
@@ -62,45 +69,47 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Breton,Nitric Oxide,2025-12-02T05:00:00-07:00
 0.001,Breton,Total Oxides of Nitrogen,2025-12-02T05:00:00-07:00
 21.4,Breton,Wind Speed,2025-12-02T05:00:00-07:00
-314.0,Breton,Wind Direction,2025-12-02T04:00:00-07:00
-,Breton,Ozone,2025-12-02T04:00:00-07:00
-11.7,Breton,Wind Speed,2025-12-02T04:00:00-07:00
-,Breton,Total Oxides of Nitrogen,2025-12-02T04:00:00-07:00
-,Breton,Nitrogen Dioxide,2025-12-02T04:00:00-07:00
+310.0,Breton,Wind Direction,2025-12-02T05:00:00-07:00
+2.0,Breton,Outdoor Temperature,2025-12-02T05:00:00-07:00
 ,Breton,Sulphur Dioxide,2025-12-02T04:00:00-07:00
 ,Breton,Nitric Oxide,2025-12-02T04:00:00-07:00
 69.7,Breton,Relative Humidity,2025-12-02T04:00:00-07:00
 3.2,Breton,Outdoor Temperature,2025-12-02T04:00:00-07:00
-306.0,Breton,Wind Direction,2025-12-02T03:00:00-07:00
-0.0,Breton,Nitric Oxide,2025-12-02T03:00:00-07:00
-0.03,Breton,Ozone,2025-12-02T03:00:00-07:00
-0.001,Breton,Nitrogen Dioxide,2025-12-02T03:00:00-07:00
-0.0,Breton,Sulphur Dioxide,2025-12-02T03:00:00-07:00
-0.001,Breton,Total Oxides of Nitrogen,2025-12-02T03:00:00-07:00
+,Breton,Nitrogen Dioxide,2025-12-02T04:00:00-07:00
+,Breton,Total Oxides of Nitrogen,2025-12-02T04:00:00-07:00
+11.7,Breton,Wind Speed,2025-12-02T04:00:00-07:00
+,Breton,Ozone,2025-12-02T04:00:00-07:00
+314.0,Breton,Wind Direction,2025-12-02T04:00:00-07:00
 66.1,Breton,Relative Humidity,2025-12-02T03:00:00-07:00
+0.001,Breton,Total Oxides of Nitrogen,2025-12-02T03:00:00-07:00
+0.0,Breton,Sulphur Dioxide,2025-12-02T03:00:00-07:00
+0.001,Breton,Nitrogen Dioxide,2025-12-02T03:00:00-07:00
+0.03,Breton,Ozone,2025-12-02T03:00:00-07:00
+0.0,Breton,Nitric Oxide,2025-12-02T03:00:00-07:00
+306.0,Breton,Wind Direction,2025-12-02T03:00:00-07:00
 13.7,Breton,Wind Speed,2025-12-02T03:00:00-07:00
 3.7,Breton,Outdoor Temperature,2025-12-02T03:00:00-07:00
+0.001,Breton,Nitrogen Dioxide,2025-12-02T02:00:00-07:00
+0.0,Breton,Nitric Oxide,2025-12-02T02:00:00-07:00
+3.6,Breton,Outdoor Temperature,2025-12-02T02:00:00-07:00
 64.8,Breton,Relative Humidity,2025-12-02T02:00:00-07:00
 310.0,Breton,Wind Direction,2025-12-02T02:00:00-07:00
 0.0,Breton,Sulphur Dioxide,2025-12-02T02:00:00-07:00
 11.7,Breton,Wind Speed,2025-12-02T02:00:00-07:00
 0.031,Breton,Ozone,2025-12-02T02:00:00-07:00
 0.001,Breton,Total Oxides of Nitrogen,2025-12-02T02:00:00-07:00
-3.6,Breton,Outdoor Temperature,2025-12-02T02:00:00-07:00
-0.0,Breton,Nitric Oxide,2025-12-02T02:00:00-07:00
-0.001,Breton,Nitrogen Dioxide,2025-12-02T02:00:00-07:00
-0.001,Breton,Total Oxides of Nitrogen,2025-12-02T01:00:00-07:00
-0.0,Breton,Nitric Oxide,2025-12-02T01:00:00-07:00
-0.0,Breton,Sulphur Dioxide,2025-12-02T01:00:00-07:00
-0.031,Breton,Ozone,2025-12-02T01:00:00-07:00
-0.001,Breton,Nitrogen Dioxide,2025-12-02T01:00:00-07:00
-65.1,Breton,Relative Humidity,2025-12-02T01:00:00-07:00
-3.4,Breton,Outdoor Temperature,2025-12-02T01:00:00-07:00
-6.8,Breton,Wind Speed,2025-12-02T01:00:00-07:00
 312.0,Breton,Wind Direction,2025-12-02T01:00:00-07:00
-66.2,Breton,Relative Humidity,2025-12-02T00:00:00-07:00
-0.0,Breton,Sulphur Dioxide,2025-12-02T00:00:00-07:00
+6.8,Breton,Wind Speed,2025-12-02T01:00:00-07:00
+3.4,Breton,Outdoor Temperature,2025-12-02T01:00:00-07:00
+65.1,Breton,Relative Humidity,2025-12-02T01:00:00-07:00
+0.001,Breton,Nitrogen Dioxide,2025-12-02T01:00:00-07:00
+0.031,Breton,Ozone,2025-12-02T01:00:00-07:00
+0.0,Breton,Sulphur Dioxide,2025-12-02T01:00:00-07:00
+0.0,Breton,Nitric Oxide,2025-12-02T01:00:00-07:00
+0.001,Breton,Total Oxides of Nitrogen,2025-12-02T01:00:00-07:00
 0.03,Breton,Ozone,2025-12-02T00:00:00-07:00
+0.0,Breton,Sulphur Dioxide,2025-12-02T00:00:00-07:00
+66.2,Breton,Relative Humidity,2025-12-02T00:00:00-07:00
 0.0,Breton,Nitric Oxide,2025-12-02T00:00:00-07:00
 6.3,Breton,Wind Speed,2025-12-02T00:00:00-07:00
 0.002,Breton,Total Oxides of Nitrogen,2025-12-02T00:00:00-07:00
@@ -627,26 +636,26 @@ Value,StationName,ParameterName,ReadingDate
 0.009,Breton,Total Oxides of Nitrogen,2025-11-29T14:00:00-07:00
 0.013,Breton,Ozone,2025-11-29T14:00:00-07:00
 0.001,Breton,Sulphur Dioxide,2025-11-29T14:00:00-07:00
-0.004,Breton,Nitrogen Dioxide,2025-11-29T14:00:00-07:00
 0.005,Breton,Nitric Oxide,2025-11-29T14:00:00-07:00
-0.004,Breton,Nitrogen Dioxide,2025-11-29T13:00:00-07:00
-0.001,Breton,Sulphur Dioxide,2025-11-29T13:00:00-07:00
-0.012,Breton,Ozone,2025-11-29T13:00:00-07:00
-0.008,Breton,Nitric Oxide,2025-11-29T13:00:00-07:00
-0.013,Breton,Total Oxides of Nitrogen,2025-11-29T13:00:00-07:00
-68.1,Breton,Relative Humidity,2025-11-29T13:00:00-07:00
-1.4,Breton,Wind Speed,2025-11-29T13:00:00-07:00
+0.004,Breton,Nitrogen Dioxide,2025-11-29T14:00:00-07:00
 3.0,Breton,Wind Direction,2025-11-29T13:00:00-07:00
+1.4,Breton,Wind Speed,2025-11-29T13:00:00-07:00
+68.1,Breton,Relative Humidity,2025-11-29T13:00:00-07:00
+0.013,Breton,Total Oxides of Nitrogen,2025-11-29T13:00:00-07:00
+0.008,Breton,Nitric Oxide,2025-11-29T13:00:00-07:00
+0.012,Breton,Ozone,2025-11-29T13:00:00-07:00
+0.001,Breton,Sulphur Dioxide,2025-11-29T13:00:00-07:00
+0.004,Breton,Nitrogen Dioxide,2025-11-29T13:00:00-07:00
 -13.9,Breton,Outdoor Temperature,2025-11-29T13:00:00-07:00
-0.0,Breton,Sulphur Dioxide,2025-11-29T12:00:00-07:00
--16.2,Breton,Outdoor Temperature,2025-11-29T12:00:00-07:00
-42.0,Breton,Wind Direction,2025-11-29T12:00:00-07:00
-0.4,Breton,Wind Speed,2025-11-29T12:00:00-07:00
-75.0,Breton,Relative Humidity,2025-11-29T12:00:00-07:00
-0.014,Breton,Total Oxides of Nitrogen,2025-11-29T12:00:00-07:00
-0.01,Breton,Nitric Oxide,2025-11-29T12:00:00-07:00
-0.01,Breton,Ozone,2025-11-29T12:00:00-07:00
 0.004,Breton,Nitrogen Dioxide,2025-11-29T12:00:00-07:00
+0.01,Breton,Ozone,2025-11-29T12:00:00-07:00
+0.01,Breton,Nitric Oxide,2025-11-29T12:00:00-07:00
+0.014,Breton,Total Oxides of Nitrogen,2025-11-29T12:00:00-07:00
+75.0,Breton,Relative Humidity,2025-11-29T12:00:00-07:00
+0.4,Breton,Wind Speed,2025-11-29T12:00:00-07:00
+42.0,Breton,Wind Direction,2025-11-29T12:00:00-07:00
+-16.2,Breton,Outdoor Temperature,2025-11-29T12:00:00-07:00
+0.0,Breton,Sulphur Dioxide,2025-11-29T12:00:00-07:00
 0.0,Breton,Sulphur Dioxide,2025-11-29T11:00:00-07:00
 -20.0,Breton,Outdoor Temperature,2025-11-29T11:00:00-07:00
 148.0,Breton,Wind Direction,2025-11-29T11:00:00-07:00
@@ -701,39 +710,39 @@ Value,StationName,ParameterName,ReadingDate
 0.002,Breton,Nitric Oxide,2025-11-29T06:00:00-07:00
 0.001,Breton,Ozone,2025-11-29T06:00:00-07:00
 0.0,Breton,Sulphur Dioxide,2025-11-29T06:00:00-07:00
-0.0,Breton,Nitric Oxide,2025-11-29T05:00:00-07:00
-0.0,Breton,Sulphur Dioxide,2025-11-29T05:00:00-07:00
-0.002,Breton,Ozone,2025-11-29T05:00:00-07:00
-0.008,Breton,Total Oxides of Nitrogen,2025-11-29T05:00:00-07:00
-77.2,Breton,Relative Humidity,2025-11-29T05:00:00-07:00
-2.4,Breton,Wind Speed,2025-11-29T05:00:00-07:00
-0.008,Breton,Nitrogen Dioxide,2025-11-29T05:00:00-07:00
-131.0,Breton,Wind Direction,2025-11-29T05:00:00-07:00
 -24.3,Breton,Outdoor Temperature,2025-11-29T05:00:00-07:00
+131.0,Breton,Wind Direction,2025-11-29T05:00:00-07:00
+0.008,Breton,Nitrogen Dioxide,2025-11-29T05:00:00-07:00
+2.4,Breton,Wind Speed,2025-11-29T05:00:00-07:00
+77.2,Breton,Relative Humidity,2025-11-29T05:00:00-07:00
+0.008,Breton,Total Oxides of Nitrogen,2025-11-29T05:00:00-07:00
+0.002,Breton,Ozone,2025-11-29T05:00:00-07:00
+0.0,Breton,Sulphur Dioxide,2025-11-29T05:00:00-07:00
+0.0,Breton,Nitric Oxide,2025-11-29T05:00:00-07:00
 ,Breton,Total Oxides of Nitrogen,2025-11-29T04:00:00-07:00
 ,Breton,Ozone,2025-11-29T04:00:00-07:00
 ,Breton,Nitric Oxide,2025-11-29T04:00:00-07:00
--23.2,Breton,Outdoor Temperature,2025-11-29T04:00:00-07:00
-114.0,Breton,Wind Direction,2025-11-29T04:00:00-07:00
-,Breton,Nitrogen Dioxide,2025-11-29T04:00:00-07:00
-1.1,Breton,Wind Speed,2025-11-29T04:00:00-07:00
-78.5,Breton,Relative Humidity,2025-11-29T04:00:00-07:00
 ,Breton,Sulphur Dioxide,2025-11-29T04:00:00-07:00
-0.0,Breton,Sulphur Dioxide,2025-11-29T03:00:00-07:00
-0.006,Breton,Total Oxides of Nitrogen,2025-11-29T03:00:00-07:00
-0.006,Breton,Nitrogen Dioxide,2025-11-29T03:00:00-07:00
-0.005,Breton,Ozone,2025-11-29T03:00:00-07:00
-78.1,Breton,Relative Humidity,2025-11-29T03:00:00-07:00
-1.5,Breton,Wind Speed,2025-11-29T03:00:00-07:00
-115.0,Breton,Wind Direction,2025-11-29T03:00:00-07:00
--22.6,Breton,Outdoor Temperature,2025-11-29T03:00:00-07:00
+78.5,Breton,Relative Humidity,2025-11-29T04:00:00-07:00
+1.1,Breton,Wind Speed,2025-11-29T04:00:00-07:00
+,Breton,Nitrogen Dioxide,2025-11-29T04:00:00-07:00
+114.0,Breton,Wind Direction,2025-11-29T04:00:00-07:00
+-23.2,Breton,Outdoor Temperature,2025-11-29T04:00:00-07:00
 0.0,Breton,Nitric Oxide,2025-11-29T03:00:00-07:00
-81.6,Breton,Relative Humidity,2025-11-29T02:00:00-07:00
-0.008,Breton,Ozone,2025-11-29T02:00:00-07:00
-123.0,Breton,Wind Direction,2025-11-29T02:00:00-07:00
--20.0,Breton,Outdoor Temperature,2025-11-29T02:00:00-07:00
-0.0,Breton,Nitric Oxide,2025-11-29T02:00:00-07:00
+-22.6,Breton,Outdoor Temperature,2025-11-29T03:00:00-07:00
+115.0,Breton,Wind Direction,2025-11-29T03:00:00-07:00
+1.5,Breton,Wind Speed,2025-11-29T03:00:00-07:00
+78.1,Breton,Relative Humidity,2025-11-29T03:00:00-07:00
+0.005,Breton,Ozone,2025-11-29T03:00:00-07:00
+0.006,Breton,Nitrogen Dioxide,2025-11-29T03:00:00-07:00
+0.006,Breton,Total Oxides of Nitrogen,2025-11-29T03:00:00-07:00
+0.0,Breton,Sulphur Dioxide,2025-11-29T03:00:00-07:00
 0.0,Breton,Sulphur Dioxide,2025-11-29T02:00:00-07:00
+0.0,Breton,Nitric Oxide,2025-11-29T02:00:00-07:00
+-20.0,Breton,Outdoor Temperature,2025-11-29T02:00:00-07:00
+123.0,Breton,Wind Direction,2025-11-29T02:00:00-07:00
+0.008,Breton,Ozone,2025-11-29T02:00:00-07:00
+81.6,Breton,Relative Humidity,2025-11-29T02:00:00-07:00
 0.005,Breton,Nitrogen Dioxide,2025-11-29T02:00:00-07:00
 0.005,Breton,Total Oxides of Nitrogen,2025-11-29T02:00:00-07:00
 4.2,Breton,Wind Speed,2025-11-29T02:00:00-07:00
@@ -752,9 +761,9 @@ Value,StationName,ParameterName,ReadingDate
 0.005,Breton,Nitrogen Dioxide,2025-11-29T00:00:00-07:00
 80.7,Breton,Relative Humidity,2025-11-29T00:00:00-07:00
 3.8,Breton,Wind Speed,2025-11-29T00:00:00-07:00
-0.0,Breton,Nitric Oxide,2025-11-29T00:00:00-07:00
-0.0,Breton,Sulphur Dioxide,2025-11-29T00:00:00-07:00
 115.0,Breton,Wind Direction,2025-11-29T00:00:00-07:00
+0.0,Breton,Sulphur Dioxide,2025-11-29T00:00:00-07:00
+0.0,Breton,Nitric Oxide,2025-11-29T00:00:00-07:00
 125.0,Breton,Wind Direction,2025-11-28T23:00:00-07:00
 0.0,Breton,Sulphur Dioxide,2025-11-28T23:00:00-07:00
 0.0,Breton,Nitric Oxide,2025-11-28T23:00:00-07:00
@@ -791,21 +800,21 @@ Value,StationName,ParameterName,ReadingDate
 126.0,Breton,Wind Direction,2025-11-28T20:00:00-07:00
 0.0,Breton,Sulphur Dioxide,2025-11-28T20:00:00-07:00
 0.0,Breton,Nitric Oxide,2025-11-28T20:00:00-07:00
-122.0,Breton,Wind Direction,2025-11-28T19:00:00-07:00
-0.0,Breton,Sulphur Dioxide,2025-11-28T19:00:00-07:00
-0.0,Breton,Nitric Oxide,2025-11-28T19:00:00-07:00
-0.003,Breton,Total Oxides of Nitrogen,2025-11-28T19:00:00-07:00
-0.011,Breton,Ozone,2025-11-28T19:00:00-07:00
--17.8,Breton,Outdoor Temperature,2025-11-28T19:00:00-07:00
-0.003,Breton,Nitrogen Dioxide,2025-11-28T19:00:00-07:00
-85.8,Breton,Relative Humidity,2025-11-28T19:00:00-07:00
 1.6,Breton,Wind Speed,2025-11-28T19:00:00-07:00
-119.0,Breton,Wind Direction,2025-11-28T18:00:00-07:00
-0.8,Breton,Wind Speed,2025-11-28T18:00:00-07:00
-0.0,Breton,Sulphur Dioxide,2025-11-28T18:00:00-07:00
-0.0,Breton,Nitric Oxide,2025-11-28T18:00:00-07:00
-0.004,Breton,Total Oxides of Nitrogen,2025-11-28T18:00:00-07:00
+85.8,Breton,Relative Humidity,2025-11-28T19:00:00-07:00
+0.003,Breton,Nitrogen Dioxide,2025-11-28T19:00:00-07:00
+-17.8,Breton,Outdoor Temperature,2025-11-28T19:00:00-07:00
+0.011,Breton,Ozone,2025-11-28T19:00:00-07:00
+0.003,Breton,Total Oxides of Nitrogen,2025-11-28T19:00:00-07:00
+0.0,Breton,Nitric Oxide,2025-11-28T19:00:00-07:00
+0.0,Breton,Sulphur Dioxide,2025-11-28T19:00:00-07:00
+122.0,Breton,Wind Direction,2025-11-28T19:00:00-07:00
 0.012,Breton,Ozone,2025-11-28T18:00:00-07:00
+0.004,Breton,Total Oxides of Nitrogen,2025-11-28T18:00:00-07:00
+0.0,Breton,Nitric Oxide,2025-11-28T18:00:00-07:00
+0.0,Breton,Sulphur Dioxide,2025-11-28T18:00:00-07:00
+0.8,Breton,Wind Speed,2025-11-28T18:00:00-07:00
+119.0,Breton,Wind Direction,2025-11-28T18:00:00-07:00
 -16.0,Breton,Outdoor Temperature,2025-11-28T18:00:00-07:00
 0.004,Breton,Nitrogen Dioxide,2025-11-28T18:00:00-07:00
 86.1,Breton,Relative Humidity,2025-11-28T18:00:00-07:00
@@ -1122,8 +1131,8 @@ Value,StationName,ParameterName,ReadingDate
 0.003,Breton,Ozone,2025-11-27T07:00:00-07:00
 0.01,Breton,Total Oxides of Nitrogen,2025-11-27T07:00:00-07:00
 0.01,Breton,Nitrogen Dioxide,2025-11-27T07:00:00-07:00
-86.9,Breton,Relative Humidity,2025-11-27T07:00:00-07:00
 1.3,Breton,Wind Speed,2025-11-27T07:00:00-07:00
+86.9,Breton,Relative Humidity,2025-11-27T07:00:00-07:00
 -7.8,Breton,Outdoor Temperature,2025-11-27T06:00:00-07:00
 0.0,Breton,Nitric Oxide,2025-11-27T06:00:00-07:00
 16.0,Breton,Wind Direction,2025-11-27T06:00:00-07:00
@@ -1271,8 +1280,8 @@ Value,StationName,ParameterName,ReadingDate
 0.014,Breton,Ozone,2025-11-26T14:00:00-07:00
 2.6,Breton,Wind Speed,2025-11-26T14:00:00-07:00
 0.009,Breton,Nitric Oxide,2025-11-26T14:00:00-07:00
--6.2,Breton,Outdoor Temperature,2025-11-26T14:00:00-07:00
 0.009,Breton,Nitrogen Dioxide,2025-11-26T14:00:00-07:00
+-6.2,Breton,Outdoor Temperature,2025-11-26T14:00:00-07:00
 0.0,Breton,Sulphur Dioxide,2025-11-26T14:00:00-07:00
 304.0,Breton,Wind Direction,2025-11-26T14:00:00-07:00
 76.0,Breton,Relative Humidity,2025-11-26T14:00:00-07:00
@@ -1304,18 +1313,18 @@ Value,StationName,ParameterName,ReadingDate
 -11.9,Breton,Outdoor Temperature,2025-11-26T11:00:00-07:00
 162.0,Breton,Wind Direction,2025-11-26T11:00:00-07:00
 1.3,Breton,Wind Speed,2025-11-26T11:00:00-07:00
-0.007,Breton,Ozone,2025-11-26T10:00:00-07:00
-0.011,Breton,Nitric Oxide,2025-11-26T10:00:00-07:00
--15.9,Breton,Outdoor Temperature,2025-11-26T10:00:00-07:00
-1.7,Breton,Wind Speed,2025-11-26T10:00:00-07:00
-0.006,Breton,Nitrogen Dioxide,2025-11-26T10:00:00-07:00
-0.0,Breton,Sulphur Dioxide,2025-11-26T10:00:00-07:00
-105.0,Breton,Wind Direction,2025-11-26T10:00:00-07:00
-83.2,Breton,Relative Humidity,2025-11-26T10:00:00-07:00
 0.018,Breton,Total Oxides of Nitrogen,2025-11-26T10:00:00-07:00
-82.7,Breton,Relative Humidity,2025-11-26T09:00:00-07:00
-0.005,Breton,Total Oxides of Nitrogen,2025-11-26T09:00:00-07:00
+83.2,Breton,Relative Humidity,2025-11-26T10:00:00-07:00
+105.0,Breton,Wind Direction,2025-11-26T10:00:00-07:00
+0.0,Breton,Sulphur Dioxide,2025-11-26T10:00:00-07:00
+0.006,Breton,Nitrogen Dioxide,2025-11-26T10:00:00-07:00
+1.7,Breton,Wind Speed,2025-11-26T10:00:00-07:00
+-15.9,Breton,Outdoor Temperature,2025-11-26T10:00:00-07:00
+0.011,Breton,Nitric Oxide,2025-11-26T10:00:00-07:00
+0.007,Breton,Ozone,2025-11-26T10:00:00-07:00
 0.0,Breton,Nitric Oxide,2025-11-26T09:00:00-07:00
+0.005,Breton,Total Oxides of Nitrogen,2025-11-26T09:00:00-07:00
+82.7,Breton,Relative Humidity,2025-11-26T09:00:00-07:00
 122.0,Breton,Wind Direction,2025-11-26T09:00:00-07:00
 0.0,Breton,Sulphur Dioxide,2025-11-26T09:00:00-07:00
 0.005,Breton,Nitrogen Dioxide,2025-11-26T09:00:00-07:00
@@ -1342,12 +1351,12 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Breton,Nitric Oxide,2025-11-26T07:00:00-07:00
 0.0,Breton,Nitric Oxide,2025-11-26T06:00:00-07:00
 0.004,Breton,Total Oxides of Nitrogen,2025-11-26T06:00:00-07:00
-0.2,Breton,Wind Speed,2025-11-26T06:00:00-07:00
--17.5,Breton,Outdoor Temperature,2025-11-26T06:00:00-07:00
-0.005,Breton,Nitrogen Dioxide,2025-11-26T06:00:00-07:00
-0.0,Breton,Sulphur Dioxide,2025-11-26T06:00:00-07:00
-67.0,Breton,Wind Direction,2025-11-26T06:00:00-07:00
 82.4,Breton,Relative Humidity,2025-11-26T06:00:00-07:00
+67.0,Breton,Wind Direction,2025-11-26T06:00:00-07:00
+0.0,Breton,Sulphur Dioxide,2025-11-26T06:00:00-07:00
+0.005,Breton,Nitrogen Dioxide,2025-11-26T06:00:00-07:00
+-17.5,Breton,Outdoor Temperature,2025-11-26T06:00:00-07:00
+0.2,Breton,Wind Speed,2025-11-26T06:00:00-07:00
 0.004,Breton,Ozone,2025-11-26T06:00:00-07:00
 0.0,Breton,Nitric Oxide,2025-11-26T05:00:00-07:00
 0.007,Breton,Total Oxides of Nitrogen,2025-11-26T05:00:00-07:00
@@ -1358,14 +1367,14 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Breton,Sulphur Dioxide,2025-11-26T05:00:00-07:00
 0.007,Breton,Nitrogen Dioxide,2025-11-26T05:00:00-07:00
 0.004,Breton,Ozone,2025-11-26T05:00:00-07:00
-,Breton,Total Oxides of Nitrogen,2025-11-26T04:00:00-07:00
-83.3,Breton,Relative Humidity,2025-11-26T04:00:00-07:00
-84.0,Breton,Wind Direction,2025-11-26T04:00:00-07:00
-,Breton,Nitric Oxide,2025-11-26T04:00:00-07:00
-,Breton,Sulphur Dioxide,2025-11-26T04:00:00-07:00
-,Breton,Nitrogen Dioxide,2025-11-26T04:00:00-07:00
-,Breton,Ozone,2025-11-26T04:00:00-07:00
 -16.9,Breton,Outdoor Temperature,2025-11-26T04:00:00-07:00
+,Breton,Ozone,2025-11-26T04:00:00-07:00
+,Breton,Nitrogen Dioxide,2025-11-26T04:00:00-07:00
+,Breton,Sulphur Dioxide,2025-11-26T04:00:00-07:00
+,Breton,Nitric Oxide,2025-11-26T04:00:00-07:00
+84.0,Breton,Wind Direction,2025-11-26T04:00:00-07:00
+83.3,Breton,Relative Humidity,2025-11-26T04:00:00-07:00
+,Breton,Total Oxides of Nitrogen,2025-11-26T04:00:00-07:00
 0.3,Breton,Wind Speed,2025-11-26T04:00:00-07:00
 0.0,Breton,Nitric Oxide,2025-11-26T03:00:00-07:00
 0.006,Breton,Total Oxides of Nitrogen,2025-11-26T03:00:00-07:00
@@ -1376,18 +1385,18 @@ Value,StationName,ParameterName,ReadingDate
 2.8,Breton,Wind Speed,2025-11-26T03:00:00-07:00
 -15.1,Breton,Outdoor Temperature,2025-11-26T03:00:00-07:00
 0.008,Breton,Ozone,2025-11-26T03:00:00-07:00
+0.007,Breton,Total Oxides of Nitrogen,2025-11-26T02:00:00-07:00
+84.9,Breton,Relative Humidity,2025-11-26T02:00:00-07:00
+0.0,Breton,Nitric Oxide,2025-11-26T02:00:00-07:00
 122.0,Breton,Wind Direction,2025-11-26T02:00:00-07:00
 0.0,Breton,Sulphur Dioxide,2025-11-26T02:00:00-07:00
 0.008,Breton,Nitrogen Dioxide,2025-11-26T02:00:00-07:00
-0.0,Breton,Nitric Oxide,2025-11-26T02:00:00-07:00
-84.9,Breton,Relative Humidity,2025-11-26T02:00:00-07:00
-0.007,Breton,Total Oxides of Nitrogen,2025-11-26T02:00:00-07:00
 -15.4,Breton,Outdoor Temperature,2025-11-26T02:00:00-07:00
 3.0,Breton,Wind Speed,2025-11-26T02:00:00-07:00
 0.006,Breton,Ozone,2025-11-26T02:00:00-07:00
-85.8,Breton,Relative Humidity,2025-11-26T01:00:00-07:00
-0.007,Breton,Total Oxides of Nitrogen,2025-11-26T01:00:00-07:00
 0.0,Breton,Nitric Oxide,2025-11-26T01:00:00-07:00
+0.007,Breton,Total Oxides of Nitrogen,2025-11-26T01:00:00-07:00
+85.8,Breton,Relative Humidity,2025-11-26T01:00:00-07:00
 126.0,Breton,Wind Direction,2025-11-26T01:00:00-07:00
 0.0,Breton,Sulphur Dioxide,2025-11-26T01:00:00-07:00
 0.008,Breton,Nitrogen Dioxide,2025-11-26T01:00:00-07:00
@@ -1400,9 +1409,9 @@ Value,StationName,ParameterName,ReadingDate
 0.008,Breton,Nitrogen Dioxide,2025-11-26T00:00:00-07:00
 0.0,Breton,Sulphur Dioxide,2025-11-26T00:00:00-07:00
 127.0,Breton,Wind Direction,2025-11-26T00:00:00-07:00
-0.0,Breton,Nitric Oxide,2025-11-26T00:00:00-07:00
-0.008,Breton,Total Oxides of Nitrogen,2025-11-26T00:00:00-07:00
 85.8,Breton,Relative Humidity,2025-11-26T00:00:00-07:00
+0.008,Breton,Total Oxides of Nitrogen,2025-11-26T00:00:00-07:00
+0.0,Breton,Nitric Oxide,2025-11-26T00:00:00-07:00
 0.007,Breton,Total Oxides of Nitrogen,2025-11-25T23:00:00-07:00
 4.9,Breton,Wind Speed,2025-11-25T23:00:00-07:00
 87.5,Breton,Relative Humidity,2025-11-25T23:00:00-07:00
@@ -1412,15 +1421,15 @@ Value,StationName,ParameterName,ReadingDate
 0.008,Breton,Nitrogen Dioxide,2025-11-25T23:00:00-07:00
 -13.5,Breton,Outdoor Temperature,2025-11-25T23:00:00-07:00
 0.008,Breton,Ozone,2025-11-25T23:00:00-07:00
-0.0,Breton,Nitric Oxide,2025-11-25T22:00:00-07:00
-0.008,Breton,Total Oxides of Nitrogen,2025-11-25T22:00:00-07:00
-4.9,Breton,Wind Speed,2025-11-25T22:00:00-07:00
 0.008,Breton,Ozone,2025-11-25T22:00:00-07:00
 -13.4,Breton,Outdoor Temperature,2025-11-25T22:00:00-07:00
 0.008,Breton,Nitrogen Dioxide,2025-11-25T22:00:00-07:00
 0.0,Breton,Sulphur Dioxide,2025-11-25T22:00:00-07:00
 130.0,Breton,Wind Direction,2025-11-25T22:00:00-07:00
 88.1,Breton,Relative Humidity,2025-11-25T22:00:00-07:00
+4.9,Breton,Wind Speed,2025-11-25T22:00:00-07:00
+0.008,Breton,Total Oxides of Nitrogen,2025-11-25T22:00:00-07:00
+0.0,Breton,Nitric Oxide,2025-11-25T22:00:00-07:00
 0.01,Breton,Ozone,2025-11-25T21:00:00-07:00
 -12.6,Breton,Outdoor Temperature,2025-11-25T21:00:00-07:00
 0.007,Breton,Nitrogen Dioxide,2025-11-25T21:00:00-07:00
@@ -1430,30 +1439,21 @@ Value,StationName,ParameterName,ReadingDate
 4.5,Breton,Wind Speed,2025-11-25T21:00:00-07:00
 0.007,Breton,Total Oxides of Nitrogen,2025-11-25T21:00:00-07:00
 0.0,Breton,Nitric Oxide,2025-11-25T21:00:00-07:00
-0.012,Breton,Ozone,2025-11-25T20:00:00-07:00
--11.8,Breton,Outdoor Temperature,2025-11-25T20:00:00-07:00
-0.006,Breton,Nitrogen Dioxide,2025-11-25T20:00:00-07:00
 0.0,Breton,Sulphur Dioxide,2025-11-25T20:00:00-07:00
 104.0,Breton,Wind Direction,2025-11-25T20:00:00-07:00
 90.3,Breton,Relative Humidity,2025-11-25T20:00:00-07:00
 2.0,Breton,Wind Speed,2025-11-25T20:00:00-07:00
 0.006,Breton,Total Oxides of Nitrogen,2025-11-25T20:00:00-07:00
 0.0,Breton,Nitric Oxide,2025-11-25T20:00:00-07:00
-0.014,Breton,Ozone,2025-11-25T19:00:00-07:00
--10.2,Breton,Outdoor Temperature,2025-11-25T19:00:00-07:00
-0.005,Breton,Nitrogen Dioxide,2025-11-25T19:00:00-07:00
+0.006,Breton,Nitrogen Dioxide,2025-11-25T20:00:00-07:00
+-11.8,Breton,Outdoor Temperature,2025-11-25T20:00:00-07:00
+0.012,Breton,Ozone,2025-11-25T20:00:00-07:00
 0.0,Breton,Nitric Oxide,2025-11-25T19:00:00-07:00
 0.005,Breton,Total Oxides of Nitrogen,2025-11-25T19:00:00-07:00
 3.0,Breton,Wind Speed,2025-11-25T19:00:00-07:00
 89.9,Breton,Relative Humidity,2025-11-25T19:00:00-07:00
 132.0,Breton,Wind Direction,2025-11-25T19:00:00-07:00
 0.0,Breton,Sulphur Dioxide,2025-11-25T19:00:00-07:00
-0.0,Breton,Nitric Oxide,2025-11-25T18:00:00-07:00
-0.004,Breton,Total Oxides of Nitrogen,2025-11-25T18:00:00-07:00
-1.4,Breton,Wind Speed,2025-11-25T18:00:00-07:00
-86.7,Breton,Relative Humidity,2025-11-25T18:00:00-07:00
-121.0,Breton,Wind Direction,2025-11-25T18:00:00-07:00
-0.0,Breton,Sulphur Dioxide,2025-11-25T18:00:00-07:00
-0.004,Breton,Nitrogen Dioxide,2025-11-25T18:00:00-07:00
--9.2,Breton,Outdoor Temperature,2025-11-25T18:00:00-07:00
-0.019,Breton,Ozone,2025-11-25T18:00:00-07:00
+0.005,Breton,Nitrogen Dioxide,2025-11-25T19:00:00-07:00
+-10.2,Breton,Outdoor Temperature,2025-11-25T19:00:00-07:00
+0.014,Breton,Ozone,2025-11-25T19:00:00-07:00
