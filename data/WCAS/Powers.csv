@@ -1,4 +1,13 @@
 Value,StationName,ParameterName,ReadingDate
+,Powers,Relative Humidity,2025-12-06T23:00:00-07:00
+,Powers,Nitric Oxide,2025-12-06T23:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-06T23:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-06T23:00:00-07:00
+,Powers,Wind Direction,2025-12-06T23:00:00-07:00
+,Powers,Wind Speed,2025-12-06T23:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-06T23:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-06T23:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-06T23:00:00-07:00
 ,Powers,Nitrogen Dioxide,2025-12-06T22:00:00-07:00
 ,Powers,Total Oxides of Nitrogen,2025-12-06T22:00:00-07:00
 ,Powers,Sulphur Dioxide,2025-12-06T22:00:00-07:00
@@ -17,15 +26,15 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Relative Humidity,2025-12-06T21:00:00-07:00
 ,Powers,Wind Speed,2025-12-06T21:00:00-07:00
 ,Powers,Sulphur Dioxide,2025-12-06T21:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-06T20:00:00-07:00
-,Powers,Nitric Oxide,2025-12-06T20:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-06T20:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-06T20:00:00-07:00
-,Powers,Relative Humidity,2025-12-06T20:00:00-07:00
-,Powers,Wind Direction,2025-12-06T20:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-06T20:00:00-07:00
-,Powers,Wind Speed,2025-12-06T20:00:00-07:00
 ,Powers,Outdoor Temperature,2025-12-06T20:00:00-07:00
+,Powers,Wind Speed,2025-12-06T20:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-06T20:00:00-07:00
+,Powers,Wind Direction,2025-12-06T20:00:00-07:00
+,Powers,Relative Humidity,2025-12-06T20:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-06T20:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-06T20:00:00-07:00
+,Powers,Nitric Oxide,2025-12-06T20:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-06T20:00:00-07:00
 ,Powers,Nitric Oxide,2025-12-06T19:00:00-07:00
 ,Powers,Outdoor Temperature,2025-12-06T19:00:00-07:00
 ,Powers,Wind Speed,2025-12-06T19:00:00-07:00
@@ -581,9 +590,9 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Nitrogen Dioxide,2025-12-04T06:00:00-07:00
 ,Powers,Outdoor Temperature,2025-12-04T06:00:00-07:00
 ,Powers,Total Oxides of Nitrogen,2025-12-04T06:00:00-07:00
-,Powers,Relative Humidity,2025-12-04T06:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-04T06:00:00-07:00
 ,Powers,Wind Speed,2025-12-04T06:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-04T06:00:00-07:00
+,Powers,Relative Humidity,2025-12-04T06:00:00-07:00
 ,Powers,Fine Particulate Matter,2025-12-04T05:00:00-07:00
 ,Powers,Relative Humidity,2025-12-04T05:00:00-07:00
 ,Powers,Total Oxides of Nitrogen,2025-12-04T05:00:00-07:00
@@ -593,17 +602,17 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Wind Speed,2025-12-04T05:00:00-07:00
 ,Powers,Nitric Oxide,2025-12-04T05:00:00-07:00
 ,Powers,Nitrogen Dioxide,2025-12-04T05:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-04T04:00:00-07:00
 ,Powers,Wind Direction,2025-12-04T04:00:00-07:00
 ,Powers,Total Oxides of Nitrogen,2025-12-04T04:00:00-07:00
 ,Powers,Relative Humidity,2025-12-04T04:00:00-07:00
 ,Powers,Nitric Oxide,2025-12-04T04:00:00-07:00
 ,Powers,Outdoor Temperature,2025-12-04T04:00:00-07:00
 ,Powers,Wind Speed,2025-12-04T04:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-04T04:00:00-07:00
 ,Powers,Sulphur Dioxide,2025-12-04T04:00:00-07:00
 ,Powers,Nitrogen Dioxide,2025-12-04T04:00:00-07:00
-,Powers,Wind Speed,2025-12-04T03:00:00-07:00
 ,Powers,Nitrogen Dioxide,2025-12-04T03:00:00-07:00
+,Powers,Wind Speed,2025-12-04T03:00:00-07:00
 ,Powers,Relative Humidity,2025-12-04T03:00:00-07:00
 ,Powers,Wind Direction,2025-12-04T03:00:00-07:00
 ,Powers,Fine Particulate Matter,2025-12-04T03:00:00-07:00
@@ -611,9 +620,9 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Nitric Oxide,2025-12-04T03:00:00-07:00
 ,Powers,Outdoor Temperature,2025-12-04T03:00:00-07:00
 ,Powers,Sulphur Dioxide,2025-12-04T03:00:00-07:00
-,Powers,Wind Speed,2025-12-04T02:00:00-07:00
 ,Powers,Nitric Oxide,2025-12-04T02:00:00-07:00
 ,Powers,Total Oxides of Nitrogen,2025-12-04T02:00:00-07:00
+,Powers,Wind Speed,2025-12-04T02:00:00-07:00
 ,Powers,Wind Direction,2025-12-04T02:00:00-07:00
 ,Powers,Relative Humidity,2025-12-04T02:00:00-07:00
 ,Powers,Fine Particulate Matter,2025-12-04T02:00:00-07:00
@@ -647,33 +656,33 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Sulphur Dioxide,2025-12-03T23:00:00-07:00
 ,Powers,Wind Direction,2025-12-03T23:00:00-07:00
 ,Powers,Wind Speed,2025-12-03T23:00:00-07:00
-,Powers,Wind Speed,2025-12-03T22:00:00-07:00
-,Powers,Relative Humidity,2025-12-03T22:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-03T22:00:00-07:00
-,Powers,Nitric Oxide,2025-12-03T22:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-03T22:00:00-07:00
-,Powers,Wind Direction,2025-12-03T22:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-03T22:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-03T22:00:00-07:00
 ,Powers,Sulphur Dioxide,2025-12-03T22:00:00-07:00
-,Powers,Nitric Oxide,2025-12-03T21:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-03T21:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-03T21:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-03T21:00:00-07:00
-,Powers,Wind Direction,2025-12-03T21:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-03T21:00:00-07:00
-,Powers,Wind Speed,2025-12-03T21:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-03T22:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-03T22:00:00-07:00
+,Powers,Wind Direction,2025-12-03T22:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-03T22:00:00-07:00
+,Powers,Nitric Oxide,2025-12-03T22:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-03T22:00:00-07:00
+,Powers,Relative Humidity,2025-12-03T22:00:00-07:00
+,Powers,Wind Speed,2025-12-03T22:00:00-07:00
 ,Powers,Fine Particulate Matter,2025-12-03T21:00:00-07:00
 ,Powers,Relative Humidity,2025-12-03T21:00:00-07:00
+,Powers,Wind Speed,2025-12-03T21:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-03T21:00:00-07:00
+,Powers,Wind Direction,2025-12-03T21:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-03T21:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-03T21:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-03T21:00:00-07:00
+,Powers,Nitric Oxide,2025-12-03T21:00:00-07:00
 ,Powers,Nitric Oxide,2025-12-03T20:00:00-07:00
 ,Powers,Sulphur Dioxide,2025-12-03T20:00:00-07:00
 ,Powers,Nitrogen Dioxide,2025-12-03T20:00:00-07:00
 ,Powers,Wind Direction,2025-12-03T20:00:00-07:00
 ,Powers,Outdoor Temperature,2025-12-03T20:00:00-07:00
 ,Powers,Total Oxides of Nitrogen,2025-12-03T20:00:00-07:00
-,Powers,Wind Speed,2025-12-03T20:00:00-07:00
-,Powers,Relative Humidity,2025-12-03T20:00:00-07:00
 ,Powers,Fine Particulate Matter,2025-12-03T20:00:00-07:00
+,Powers,Relative Humidity,2025-12-03T20:00:00-07:00
+,Powers,Wind Speed,2025-12-03T20:00:00-07:00
 ,Powers,Wind Speed,2025-12-03T19:00:00-07:00
 ,Powers,Total Oxides of Nitrogen,2025-12-03T19:00:00-07:00
 ,Powers,Wind Direction,2025-12-03T19:00:00-07:00
@@ -683,51 +692,51 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Nitric Oxide,2025-12-03T19:00:00-07:00
 ,Powers,Fine Particulate Matter,2025-12-03T19:00:00-07:00
 ,Powers,Relative Humidity,2025-12-03T19:00:00-07:00
-,Powers,Relative Humidity,2025-12-03T18:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-03T18:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-03T18:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-03T18:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-03T18:00:00-07:00
-,Powers,Wind Direction,2025-12-03T18:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-03T18:00:00-07:00
-,Powers,Wind Speed,2025-12-03T18:00:00-07:00
 ,Powers,Nitric Oxide,2025-12-03T18:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-03T17:00:00-07:00
-,Powers,Relative Humidity,2025-12-03T17:00:00-07:00
-,Powers,Wind Speed,2025-12-03T17:00:00-07:00
-,Powers,Wind Direction,2025-12-03T17:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-03T17:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-03T17:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-03T17:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-03T17:00:00-07:00
+,Powers,Wind Speed,2025-12-03T18:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-03T18:00:00-07:00
+,Powers,Wind Direction,2025-12-03T18:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-03T18:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-03T18:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-03T18:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-03T18:00:00-07:00
+,Powers,Relative Humidity,2025-12-03T18:00:00-07:00
 ,Powers,Nitric Oxide,2025-12-03T17:00:00-07:00
-,Powers,Nitric Oxide,2025-12-03T16:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-03T16:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-03T16:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-03T16:00:00-07:00
-,Powers,Wind Direction,2025-12-03T16:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-03T16:00:00-07:00
-,Powers,Wind Speed,2025-12-03T16:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-03T16:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-03T17:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-03T17:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-03T17:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-03T17:00:00-07:00
+,Powers,Wind Direction,2025-12-03T17:00:00-07:00
+,Powers,Wind Speed,2025-12-03T17:00:00-07:00
+,Powers,Relative Humidity,2025-12-03T17:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-03T17:00:00-07:00
 ,Powers,Relative Humidity,2025-12-03T16:00:00-07:00
-,Powers,Relative Humidity,2025-12-03T15:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-03T15:00:00-07:00
-,Powers,Nitric Oxide,2025-12-03T15:00:00-07:00
-,Powers,Wind Direction,2025-12-03T15:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-03T15:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-03T15:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-03T15:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-03T15:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-03T16:00:00-07:00
+,Powers,Wind Speed,2025-12-03T16:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-03T16:00:00-07:00
+,Powers,Wind Direction,2025-12-03T16:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-03T16:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-03T16:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-03T16:00:00-07:00
+,Powers,Nitric Oxide,2025-12-03T16:00:00-07:00
 ,Powers,Wind Speed,2025-12-03T15:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-03T15:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-03T15:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-03T15:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-03T15:00:00-07:00
+,Powers,Wind Direction,2025-12-03T15:00:00-07:00
+,Powers,Nitric Oxide,2025-12-03T15:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-03T15:00:00-07:00
+,Powers,Relative Humidity,2025-12-03T15:00:00-07:00
 ,Powers,Relative Humidity,2025-12-03T14:00:00-07:00
-,Powers,Wind Speed,2025-12-03T14:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-03T14:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-03T14:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-03T14:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-03T14:00:00-07:00
-,Powers,Wind Direction,2025-12-03T14:00:00-07:00
-,Powers,Nitric Oxide,2025-12-03T14:00:00-07:00
 ,Powers,Fine Particulate Matter,2025-12-03T14:00:00-07:00
+,Powers,Nitric Oxide,2025-12-03T14:00:00-07:00
+,Powers,Wind Direction,2025-12-03T14:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-03T14:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-03T14:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-03T14:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-03T14:00:00-07:00
+,Powers,Wind Speed,2025-12-03T14:00:00-07:00
 ,Powers,Relative Humidity,2025-12-03T13:00:00-07:00
 ,Powers,Fine Particulate Matter,2025-12-03T13:00:00-07:00
 ,Powers,Nitric Oxide,2025-12-03T13:00:00-07:00
@@ -773,15 +782,15 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Sulphur Dioxide,2025-12-03T09:00:00-07:00
 ,Powers,Nitrogen Dioxide,2025-12-03T09:00:00-07:00
 ,Powers,Wind Speed,2025-12-03T09:00:00-07:00
-,Powers,Wind Speed,2025-12-03T08:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-03T08:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-03T08:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-03T08:00:00-07:00
-,Powers,Wind Direction,2025-12-03T08:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-03T08:00:00-07:00
-,Powers,Nitric Oxide,2025-12-03T08:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-03T08:00:00-07:00
 ,Powers,Relative Humidity,2025-12-03T08:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-03T08:00:00-07:00
+,Powers,Nitric Oxide,2025-12-03T08:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-03T08:00:00-07:00
+,Powers,Wind Direction,2025-12-03T08:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-03T08:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-03T08:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-03T08:00:00-07:00
+,Powers,Wind Speed,2025-12-03T08:00:00-07:00
 ,Powers,Wind Speed,2025-12-03T07:00:00-07:00
 ,Powers,Wind Direction,2025-12-03T07:00:00-07:00
 ,Powers,Total Oxides of Nitrogen,2025-12-03T07:00:00-07:00
@@ -828,23 +837,23 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Sulphur Dioxide,2025-12-03T03:00:00-07:00
 ,Powers,Wind Speed,2025-12-03T03:00:00-07:00
 ,Powers,Relative Humidity,2025-12-03T02:00:00-07:00
-,Powers,Wind Speed,2025-12-03T02:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-03T02:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-03T02:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-03T02:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-03T02:00:00-07:00
-,Powers,Wind Direction,2025-12-03T02:00:00-07:00
-,Powers,Nitric Oxide,2025-12-03T02:00:00-07:00
 ,Powers,Fine Particulate Matter,2025-12-03T02:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-03T01:00:00-07:00
-,Powers,Nitric Oxide,2025-12-03T01:00:00-07:00
-,Powers,Wind Speed,2025-12-03T01:00:00-07:00
-,Powers,Relative Humidity,2025-12-03T01:00:00-07:00
+,Powers,Nitric Oxide,2025-12-03T02:00:00-07:00
+,Powers,Wind Direction,2025-12-03T02:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-03T02:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-03T02:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-03T02:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-03T02:00:00-07:00
+,Powers,Wind Speed,2025-12-03T02:00:00-07:00
 ,Powers,Nitrogen Dioxide,2025-12-03T01:00:00-07:00
 ,Powers,Total Oxides of Nitrogen,2025-12-03T01:00:00-07:00
 ,Powers,Wind Direction,2025-12-03T01:00:00-07:00
 ,Powers,Fine Particulate Matter,2025-12-03T01:00:00-07:00
 ,Powers,Sulphur Dioxide,2025-12-03T01:00:00-07:00
+,Powers,Relative Humidity,2025-12-03T01:00:00-07:00
+,Powers,Wind Speed,2025-12-03T01:00:00-07:00
+,Powers,Nitric Oxide,2025-12-03T01:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-03T01:00:00-07:00
 ,Powers,Outdoor Temperature,2025-12-03T00:00:00-07:00
 ,Powers,Nitrogen Dioxide,2025-12-03T00:00:00-07:00
 ,Powers,Wind Direction,2025-12-03T00:00:00-07:00
@@ -890,12 +899,12 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Nitric Oxide,2025-12-02T20:00:00-07:00
 ,Powers,Fine Particulate Matter,2025-12-02T20:00:00-07:00
 ,Powers,Wind Speed,2025-12-02T20:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-02T19:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-02T19:00:00-07:00
-,Powers,Wind Direction,2025-12-02T19:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-02T19:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-02T19:00:00-07:00
 ,Powers,Relative Humidity,2025-12-02T19:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-02T19:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-02T19:00:00-07:00
+,Powers,Wind Direction,2025-12-02T19:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-02T19:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-02T19:00:00-07:00
 ,Powers,Nitric Oxide,2025-12-02T19:00:00-07:00
 ,Powers,Fine Particulate Matter,2025-12-02T19:00:00-07:00
 ,Powers,Wind Speed,2025-12-02T19:00:00-07:00
@@ -944,15 +953,15 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Fine Particulate Matter,2025-12-02T14:00:00-07:00
 ,Powers,Wind Speed,2025-12-02T14:00:00-07:00
 ,Powers,Nitric Oxide,2025-12-02T14:00:00-07:00
-,Powers,Nitric Oxide,2025-12-02T13:00:00-07:00
-,Powers,Wind Speed,2025-12-02T13:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-02T13:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-02T13:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-02T13:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-02T13:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-02T13:00:00-07:00
-,Powers,Wind Direction,2025-12-02T13:00:00-07:00
 ,Powers,Relative Humidity,2025-12-02T13:00:00-07:00
+,Powers,Wind Direction,2025-12-02T13:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-02T13:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-02T13:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-02T13:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-02T13:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-02T13:00:00-07:00
+,Powers,Wind Speed,2025-12-02T13:00:00-07:00
+,Powers,Nitric Oxide,2025-12-02T13:00:00-07:00
 ,Powers,Relative Humidity,2025-12-02T12:00:00-07:00
 ,Powers,Nitrogen Dioxide,2025-12-02T12:00:00-07:00
 ,Powers,Total Oxides of Nitrogen,2025-12-02T12:00:00-07:00
@@ -962,26 +971,26 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Fine Particulate Matter,2025-12-02T12:00:00-07:00
 ,Powers,Wind Speed,2025-12-02T12:00:00-07:00
 ,Powers,Nitric Oxide,2025-12-02T12:00:00-07:00
-,Powers,Relative Humidity,2025-12-02T11:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-02T11:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-02T11:00:00-07:00
-,Powers,Wind Direction,2025-12-02T11:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-02T11:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-02T11:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-02T11:00:00-07:00
-,Powers,Wind Speed,2025-12-02T11:00:00-07:00
 ,Powers,Nitric Oxide,2025-12-02T11:00:00-07:00
+,Powers,Wind Speed,2025-12-02T11:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-02T11:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-02T11:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-02T11:00:00-07:00
+,Powers,Wind Direction,2025-12-02T11:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-02T11:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-02T11:00:00-07:00
+,Powers,Relative Humidity,2025-12-02T11:00:00-07:00
+,Powers,Nitric Oxide,2025-12-02T10:00:00-07:00
+,Powers,Wind Speed,2025-12-02T10:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-02T10:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-02T10:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-02T10:00:00-07:00
+,Powers,Wind Direction,2025-12-02T10:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-02T10:00:00-07:00
 ,Powers,Nitrogen Dioxide,2025-12-02T10:00:00-07:00
 ,Powers,Relative Humidity,2025-12-02T10:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-02T10:00:00-07:00
-,Powers,Wind Direction,2025-12-02T10:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-02T10:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-02T10:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-02T10:00:00-07:00
-,Powers,Wind Speed,2025-12-02T10:00:00-07:00
-,Powers,Nitric Oxide,2025-12-02T10:00:00-07:00
-,Powers,Relative Humidity,2025-12-02T09:00:00-07:00
 ,Powers,Nitrogen Dioxide,2025-12-02T09:00:00-07:00
+,Powers,Relative Humidity,2025-12-02T09:00:00-07:00
 ,Powers,Total Oxides of Nitrogen,2025-12-02T09:00:00-07:00
 ,Powers,Wind Direction,2025-12-02T09:00:00-07:00
 ,Powers,Sulphur Dioxide,2025-12-02T09:00:00-07:00
@@ -1022,18 +1031,18 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Outdoor Temperature,2025-12-02T05:00:00-07:00
 ,Powers,Total Oxides of Nitrogen,2025-12-02T05:00:00-07:00
 ,Powers,Fine Particulate Matter,2025-12-02T05:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-02T05:00:00-07:00
-,Powers,Wind Speed,2025-12-02T05:00:00-07:00
 ,Powers,Nitric Oxide,2025-12-02T05:00:00-07:00
-,Powers,Relative Humidity,2025-12-02T04:00:00-07:00
-,Powers,Wind Direction,2025-12-02T04:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-02T04:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-02T04:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-02T04:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-02T04:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-02T04:00:00-07:00
-,Powers,Wind Speed,2025-12-02T04:00:00-07:00
+,Powers,Wind Speed,2025-12-02T05:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-02T05:00:00-07:00
 ,Powers,Nitric Oxide,2025-12-02T04:00:00-07:00
+,Powers,Wind Speed,2025-12-02T04:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-02T04:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-02T04:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-02T04:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-02T04:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-02T04:00:00-07:00
+,Powers,Wind Direction,2025-12-02T04:00:00-07:00
+,Powers,Relative Humidity,2025-12-02T04:00:00-07:00
 ,Powers,Relative Humidity,2025-12-02T03:00:00-07:00
 ,Powers,Wind Direction,2025-12-02T03:00:00-07:00
 ,Powers,Nitrogen Dioxide,2025-12-02T03:00:00-07:00
@@ -1043,33 +1052,33 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Sulphur Dioxide,2025-12-02T03:00:00-07:00
 ,Powers,Wind Speed,2025-12-02T03:00:00-07:00
 ,Powers,Nitric Oxide,2025-12-02T03:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-02T02:00:00-07:00
-,Powers,Wind Direction,2025-12-02T02:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-02T02:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-02T02:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-02T02:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-02T02:00:00-07:00
-,Powers,Nitric Oxide,2025-12-02T02:00:00-07:00
-,Powers,Wind Speed,2025-12-02T02:00:00-07:00
 ,Powers,Relative Humidity,2025-12-02T02:00:00-07:00
+,Powers,Wind Speed,2025-12-02T02:00:00-07:00
+,Powers,Nitric Oxide,2025-12-02T02:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-02T02:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-02T02:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-02T02:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-02T02:00:00-07:00
+,Powers,Wind Direction,2025-12-02T02:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-02T02:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-02T01:00:00-07:00
+,Powers,Relative Humidity,2025-12-02T01:00:00-07:00
+,Powers,Wind Speed,2025-12-02T01:00:00-07:00
+,Powers,Wind Direction,2025-12-02T01:00:00-07:00
 ,Powers,Outdoor Temperature,2025-12-02T01:00:00-07:00
 ,Powers,Nitrogen Dioxide,2025-12-02T01:00:00-07:00
 ,Powers,Total Oxides of Nitrogen,2025-12-02T01:00:00-07:00
 ,Powers,Sulphur Dioxide,2025-12-02T01:00:00-07:00
 ,Powers,Nitric Oxide,2025-12-02T01:00:00-07:00
-,Powers,Wind Direction,2025-12-02T01:00:00-07:00
-,Powers,Wind Speed,2025-12-02T01:00:00-07:00
-,Powers,Relative Humidity,2025-12-02T01:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-02T01:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-02T00:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-02T00:00:00-07:00
+,Powers,Nitric Oxide,2025-12-02T00:00:00-07:00
 ,Powers,Fine Particulate Matter,2025-12-02T00:00:00-07:00
 ,Powers,Relative Humidity,2025-12-02T00:00:00-07:00
 ,Powers,Wind Speed,2025-12-02T00:00:00-07:00
 ,Powers,Wind Direction,2025-12-02T00:00:00-07:00
 ,Powers,Sulphur Dioxide,2025-12-02T00:00:00-07:00
 ,Powers,Outdoor Temperature,2025-12-02T00:00:00-07:00
-,Powers,Nitric Oxide,2025-12-02T00:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-02T00:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-02T00:00:00-07:00
 ,Powers,Wind Speed,2025-12-01T23:00:00-07:00
 ,Powers,Nitrogen Dioxide,2025-12-01T23:00:00-07:00
 ,Powers,Wind Direction,2025-12-01T23:00:00-07:00
@@ -1133,24 +1142,24 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Wind Speed,2025-12-01T17:00:00-07:00
 ,Powers,Relative Humidity,2025-12-01T17:00:00-07:00
 ,Powers,Fine Particulate Matter,2025-12-01T17:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-01T16:00:00-07:00
-,Powers,Relative Humidity,2025-12-01T16:00:00-07:00
-,Powers,Wind Speed,2025-12-01T16:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-01T16:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-01T16:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-01T16:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-01T16:00:00-07:00
-,Powers,Wind Direction,2025-12-01T16:00:00-07:00
 ,Powers,Nitric Oxide,2025-12-01T16:00:00-07:00
-,Powers,Relative Humidity,2025-12-01T15:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-01T15:00:00-07:00
-,Powers,Nitric Oxide,2025-12-01T15:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-01T15:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-01T15:00:00-07:00
-,Powers,Wind Speed,2025-12-01T15:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-01T15:00:00-07:00
-,Powers,Wind Direction,2025-12-01T15:00:00-07:00
+,Powers,Wind Direction,2025-12-01T16:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-01T16:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-01T16:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-01T16:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-01T16:00:00-07:00
+,Powers,Wind Speed,2025-12-01T16:00:00-07:00
+,Powers,Relative Humidity,2025-12-01T16:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-01T16:00:00-07:00
 ,Powers,Outdoor Temperature,2025-12-01T15:00:00-07:00
+,Powers,Wind Direction,2025-12-01T15:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-01T15:00:00-07:00
+,Powers,Wind Speed,2025-12-01T15:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-01T15:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-01T15:00:00-07:00
+,Powers,Nitric Oxide,2025-12-01T15:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-01T15:00:00-07:00
+,Powers,Relative Humidity,2025-12-01T15:00:00-07:00
 ,Powers,Relative Humidity,2025-12-01T14:00:00-07:00
 ,Powers,Fine Particulate Matter,2025-12-01T14:00:00-07:00
 ,Powers,Nitric Oxide,2025-12-01T14:00:00-07:00
@@ -1160,74 +1169,74 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Sulphur Dioxide,2025-12-01T14:00:00-07:00
 ,Powers,Total Oxides of Nitrogen,2025-12-01T14:00:00-07:00
 ,Powers,Wind Speed,2025-12-01T14:00:00-07:00
-,Powers,Relative Humidity,2025-12-01T13:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-01T13:00:00-07:00
-,Powers,Nitric Oxide,2025-12-01T13:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-01T13:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-01T13:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-01T13:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-01T13:00:00-07:00
-,Powers,Wind Direction,2025-12-01T13:00:00-07:00
 ,Powers,Wind Speed,2025-12-01T13:00:00-07:00
-,Powers,Wind Speed,2025-12-01T12:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-01T12:00:00-07:00
-,Powers,Wind Direction,2025-12-01T12:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-01T12:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-01T12:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-01T12:00:00-07:00
-,Powers,Nitric Oxide,2025-12-01T12:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-01T12:00:00-07:00
+,Powers,Wind Direction,2025-12-01T13:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-01T13:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-01T13:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-01T13:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-01T13:00:00-07:00
+,Powers,Nitric Oxide,2025-12-01T13:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-01T13:00:00-07:00
+,Powers,Relative Humidity,2025-12-01T13:00:00-07:00
 ,Powers,Relative Humidity,2025-12-01T12:00:00-07:00
-,Powers,Wind Speed,2025-12-01T11:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-01T11:00:00-07:00
-,Powers,Wind Direction,2025-12-01T11:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-01T11:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-01T11:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-01T11:00:00-07:00
-,Powers,Nitric Oxide,2025-12-01T11:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-01T11:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-01T12:00:00-07:00
+,Powers,Nitric Oxide,2025-12-01T12:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-01T12:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-01T12:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-01T12:00:00-07:00
+,Powers,Wind Direction,2025-12-01T12:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-01T12:00:00-07:00
+,Powers,Wind Speed,2025-12-01T12:00:00-07:00
 ,Powers,Relative Humidity,2025-12-01T11:00:00-07:00
-,Powers,Wind Speed,2025-12-01T10:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-01T10:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-01T10:00:00-07:00
-,Powers,Wind Direction,2025-12-01T10:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-01T10:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-01T10:00:00-07:00
-,Powers,Nitric Oxide,2025-12-01T10:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-01T10:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-01T11:00:00-07:00
+,Powers,Nitric Oxide,2025-12-01T11:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-01T11:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-01T11:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-01T11:00:00-07:00
+,Powers,Wind Direction,2025-12-01T11:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-01T11:00:00-07:00
+,Powers,Wind Speed,2025-12-01T11:00:00-07:00
 ,Powers,Relative Humidity,2025-12-01T10:00:00-07:00
-,Powers,Wind Speed,2025-12-01T09:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-01T09:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-01T09:00:00-07:00
-,Powers,Wind Direction,2025-12-01T09:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-01T09:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-01T09:00:00-07:00
-,Powers,Nitric Oxide,2025-12-01T09:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-01T09:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-01T10:00:00-07:00
+,Powers,Nitric Oxide,2025-12-01T10:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-01T10:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-01T10:00:00-07:00
+,Powers,Wind Direction,2025-12-01T10:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-01T10:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-01T10:00:00-07:00
+,Powers,Wind Speed,2025-12-01T10:00:00-07:00
 ,Powers,Relative Humidity,2025-12-01T09:00:00-07:00
-,Powers,Wind Speed,2025-12-01T08:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-01T08:00:00-07:00
-,Powers,Wind Direction,2025-12-01T08:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-01T08:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-01T08:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-01T08:00:00-07:00
-,Powers,Nitric Oxide,2025-12-01T08:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-01T08:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-01T09:00:00-07:00
+,Powers,Nitric Oxide,2025-12-01T09:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-01T09:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-01T09:00:00-07:00
+,Powers,Wind Direction,2025-12-01T09:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-01T09:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-01T09:00:00-07:00
+,Powers,Wind Speed,2025-12-01T09:00:00-07:00
 ,Powers,Relative Humidity,2025-12-01T08:00:00-07:00
-,Powers,Relative Humidity,2025-12-01T07:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-01T07:00:00-07:00
-,Powers,Nitric Oxide,2025-12-01T07:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-01T07:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-01T07:00:00-07:00
-,Powers,Wind Direction,2025-12-01T07:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-01T07:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-01T07:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-01T08:00:00-07:00
+,Powers,Nitric Oxide,2025-12-01T08:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-01T08:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-01T08:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-01T08:00:00-07:00
+,Powers,Wind Direction,2025-12-01T08:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-01T08:00:00-07:00
+,Powers,Wind Speed,2025-12-01T08:00:00-07:00
 ,Powers,Wind Speed,2025-12-01T07:00:00-07:00
-,Powers,Nitric Oxide,2025-12-01T06:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-01T06:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-01T06:00:00-07:00
-,Powers,Wind Direction,2025-12-01T06:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-01T07:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-01T07:00:00-07:00
+,Powers,Wind Direction,2025-12-01T07:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-01T07:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-01T07:00:00-07:00
+,Powers,Nitric Oxide,2025-12-01T07:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-01T07:00:00-07:00
+,Powers,Relative Humidity,2025-12-01T07:00:00-07:00
 ,Powers,Nitrogen Dioxide,2025-12-01T06:00:00-07:00
+,Powers,Wind Direction,2025-12-01T06:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-01T06:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-01T06:00:00-07:00
+,Powers,Nitric Oxide,2025-12-01T06:00:00-07:00
 ,Powers,Total Oxides of Nitrogen,2025-12-01T06:00:00-07:00
 ,Powers,Wind Speed,2025-12-01T06:00:00-07:00
 ,Powers,Relative Humidity,2025-12-01T06:00:00-07:00
@@ -1259,30 +1268,30 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Total Oxides of Nitrogen,2025-12-01T03:00:00-07:00
 ,Powers,Outdoor Temperature,2025-12-01T03:00:00-07:00
 ,Powers,Wind Speed,2025-12-01T03:00:00-07:00
+,Powers,Relative Humidity,2025-12-01T02:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-01T02:00:00-07:00
+,Powers,Nitric Oxide,2025-12-01T02:00:00-07:00
+,Powers,Wind Speed,2025-12-01T02:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-01T02:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-01T02:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-01T02:00:00-07:00
 ,Powers,Nitrogen Dioxide,2025-12-01T02:00:00-07:00
 ,Powers,Wind Direction,2025-12-01T02:00:00-07:00
-,Powers,Nitric Oxide,2025-12-01T02:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-01T02:00:00-07:00
-,Powers,Relative Humidity,2025-12-01T02:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-01T02:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-01T02:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-01T02:00:00-07:00
-,Powers,Wind Speed,2025-12-01T02:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-01T01:00:00-07:00
+,Powers,Relative Humidity,2025-12-01T01:00:00-07:00
+,Powers,Wind Speed,2025-12-01T01:00:00-07:00
+,Powers,Outdoor Temperature,2025-12-01T01:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-12-01T01:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-01T01:00:00-07:00
 ,Powers,Wind Direction,2025-12-01T01:00:00-07:00
 ,Powers,Nitrogen Dioxide,2025-12-01T01:00:00-07:00
 ,Powers,Nitric Oxide,2025-12-01T01:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-01T01:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-12-01T01:00:00-07:00
-,Powers,Outdoor Temperature,2025-12-01T01:00:00-07:00
-,Powers,Wind Speed,2025-12-01T01:00:00-07:00
-,Powers,Relative Humidity,2025-12-01T01:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-01T01:00:00-07:00
-,Powers,Fine Particulate Matter,2025-12-01T00:00:00-07:00
-,Powers,Relative Humidity,2025-12-01T00:00:00-07:00
-,Powers,Wind Speed,2025-12-01T00:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-12-01T00:00:00-07:00
-,Powers,Sulphur Dioxide,2025-12-01T00:00:00-07:00
 ,Powers,Total Oxides of Nitrogen,2025-12-01T00:00:00-07:00
+,Powers,Sulphur Dioxide,2025-12-01T00:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-12-01T00:00:00-07:00
+,Powers,Wind Speed,2025-12-01T00:00:00-07:00
+,Powers,Relative Humidity,2025-12-01T00:00:00-07:00
+,Powers,Fine Particulate Matter,2025-12-01T00:00:00-07:00
 ,Powers,Nitric Oxide,2025-12-01T00:00:00-07:00
 ,Powers,Wind Direction,2025-12-01T00:00:00-07:00
 ,Powers,Outdoor Temperature,2025-12-01T00:00:00-07:00
@@ -1322,10 +1331,10 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Wind Speed,2025-11-30T20:00:00-07:00
 ,Powers,Relative Humidity,2025-11-30T20:00:00-07:00
 ,Powers,Fine Particulate Matter,2025-11-30T20:00:00-07:00
-,Powers,Wind Speed,2025-11-30T19:00:00-07:00
-,Powers,Relative Humidity,2025-11-30T19:00:00-07:00
-,Powers,Fine Particulate Matter,2025-11-30T19:00:00-07:00
 ,Powers,Nitric Oxide,2025-11-30T19:00:00-07:00
+,Powers,Fine Particulate Matter,2025-11-30T19:00:00-07:00
+,Powers,Relative Humidity,2025-11-30T19:00:00-07:00
+,Powers,Wind Speed,2025-11-30T19:00:00-07:00
 ,Powers,Wind Direction,2025-11-30T19:00:00-07:00
 ,Powers,Sulphur Dioxide,2025-11-30T19:00:00-07:00
 ,Powers,Nitrogen Dioxide,2025-11-30T19:00:00-07:00
@@ -1349,24 +1358,24 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Wind Speed,2025-11-30T17:00:00-07:00
 ,Powers,Relative Humidity,2025-11-30T17:00:00-07:00
 ,Powers,Fine Particulate Matter,2025-11-30T17:00:00-07:00
-,Powers,Fine Particulate Matter,2025-11-30T16:00:00-07:00
-,Powers,Relative Humidity,2025-11-30T16:00:00-07:00
-,Powers,Wind Speed,2025-11-30T16:00:00-07:00
-,Powers,Sulphur Dioxide,2025-11-30T16:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-11-30T16:00:00-07:00
-,Powers,Wind Direction,2025-11-30T16:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-11-30T16:00:00-07:00
-,Powers,Outdoor Temperature,2025-11-30T16:00:00-07:00
 ,Powers,Nitric Oxide,2025-11-30T16:00:00-07:00
-,Powers,Wind Speed,2025-11-30T15:00:00-07:00
-,Powers,Relative Humidity,2025-11-30T15:00:00-07:00
-,Powers,Fine Particulate Matter,2025-11-30T15:00:00-07:00
-,Powers,Nitric Oxide,2025-11-30T15:00:00-07:00
-,Powers,Sulphur Dioxide,2025-11-30T15:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-11-30T15:00:00-07:00
+,Powers,Outdoor Temperature,2025-11-30T16:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-11-30T16:00:00-07:00
+,Powers,Wind Direction,2025-11-30T16:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-11-30T16:00:00-07:00
+,Powers,Sulphur Dioxide,2025-11-30T16:00:00-07:00
+,Powers,Wind Speed,2025-11-30T16:00:00-07:00
+,Powers,Relative Humidity,2025-11-30T16:00:00-07:00
+,Powers,Fine Particulate Matter,2025-11-30T16:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-11-30T15:00:00-07:00
 ,Powers,Outdoor Temperature,2025-11-30T15:00:00-07:00
 ,Powers,Wind Direction,2025-11-30T15:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-11-30T15:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-11-30T15:00:00-07:00
+,Powers,Sulphur Dioxide,2025-11-30T15:00:00-07:00
+,Powers,Nitric Oxide,2025-11-30T15:00:00-07:00
+,Powers,Fine Particulate Matter,2025-11-30T15:00:00-07:00
+,Powers,Relative Humidity,2025-11-30T15:00:00-07:00
+,Powers,Wind Speed,2025-11-30T15:00:00-07:00
 ,Powers,Wind Speed,2025-11-30T14:00:00-07:00
 ,Powers,Relative Humidity,2025-11-30T14:00:00-07:00
 ,Powers,Fine Particulate Matter,2025-11-30T14:00:00-07:00
@@ -1385,15 +1394,15 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Wind Direction,2025-11-30T13:00:00-07:00
 ,Powers,Sulphur Dioxide,2025-11-30T13:00:00-07:00
 ,Powers,Total Oxides of Nitrogen,2025-11-30T13:00:00-07:00
-,Powers,Wind Direction,2025-11-30T12:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-11-30T12:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-11-30T12:00:00-07:00
-,Powers,Outdoor Temperature,2025-11-30T12:00:00-07:00
-,Powers,Sulphur Dioxide,2025-11-30T12:00:00-07:00
-,Powers,Nitric Oxide,2025-11-30T12:00:00-07:00
-,Powers,Fine Particulate Matter,2025-11-30T12:00:00-07:00
-,Powers,Relative Humidity,2025-11-30T12:00:00-07:00
 ,Powers,Wind Speed,2025-11-30T12:00:00-07:00
+,Powers,Relative Humidity,2025-11-30T12:00:00-07:00
+,Powers,Fine Particulate Matter,2025-11-30T12:00:00-07:00
+,Powers,Nitric Oxide,2025-11-30T12:00:00-07:00
+,Powers,Sulphur Dioxide,2025-11-30T12:00:00-07:00
+,Powers,Outdoor Temperature,2025-11-30T12:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-11-30T12:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-11-30T12:00:00-07:00
+,Powers,Wind Direction,2025-11-30T12:00:00-07:00
 ,Powers,Total Oxides of Nitrogen,2025-11-30T11:00:00-07:00
 ,Powers,Sulphur Dioxide,2025-11-30T11:00:00-07:00
 ,Powers,Nitrogen Dioxide,2025-11-30T11:00:00-07:00
@@ -1412,24 +1421,24 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Fine Particulate Matter,2025-11-30T10:00:00-07:00
 ,Powers,Relative Humidity,2025-11-30T10:00:00-07:00
 ,Powers,Wind Speed,2025-11-30T10:00:00-07:00
-,Powers,Wind Direction,2025-11-30T09:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-11-30T09:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-11-30T09:00:00-07:00
-,Powers,Sulphur Dioxide,2025-11-30T09:00:00-07:00
-,Powers,Outdoor Temperature,2025-11-30T09:00:00-07:00
-,Powers,Nitric Oxide,2025-11-30T09:00:00-07:00
-,Powers,Fine Particulate Matter,2025-11-30T09:00:00-07:00
-,Powers,Relative Humidity,2025-11-30T09:00:00-07:00
 ,Powers,Wind Speed,2025-11-30T09:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-11-30T08:00:00-07:00
-,Powers,Wind Direction,2025-11-30T08:00:00-07:00
-,Powers,Outdoor Temperature,2025-11-30T08:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-11-30T08:00:00-07:00
-,Powers,Sulphur Dioxide,2025-11-30T08:00:00-07:00
-,Powers,Nitric Oxide,2025-11-30T08:00:00-07:00
-,Powers,Fine Particulate Matter,2025-11-30T08:00:00-07:00
-,Powers,Relative Humidity,2025-11-30T08:00:00-07:00
+,Powers,Relative Humidity,2025-11-30T09:00:00-07:00
+,Powers,Fine Particulate Matter,2025-11-30T09:00:00-07:00
+,Powers,Nitric Oxide,2025-11-30T09:00:00-07:00
+,Powers,Outdoor Temperature,2025-11-30T09:00:00-07:00
+,Powers,Sulphur Dioxide,2025-11-30T09:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-11-30T09:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-11-30T09:00:00-07:00
+,Powers,Wind Direction,2025-11-30T09:00:00-07:00
 ,Powers,Wind Speed,2025-11-30T08:00:00-07:00
+,Powers,Relative Humidity,2025-11-30T08:00:00-07:00
+,Powers,Fine Particulate Matter,2025-11-30T08:00:00-07:00
+,Powers,Nitric Oxide,2025-11-30T08:00:00-07:00
+,Powers,Sulphur Dioxide,2025-11-30T08:00:00-07:00
+,Powers,Nitrogen Dioxide,2025-11-30T08:00:00-07:00
+,Powers,Outdoor Temperature,2025-11-30T08:00:00-07:00
+,Powers,Wind Direction,2025-11-30T08:00:00-07:00
+,Powers,Total Oxides of Nitrogen,2025-11-30T08:00:00-07:00
 ,Powers,Relative Humidity,2025-11-30T07:00:00-07:00
 ,Powers,Fine Particulate Matter,2025-11-30T07:00:00-07:00
 ,Powers,Nitric Oxide,2025-11-30T07:00:00-07:00
@@ -1448,12 +1457,3 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Sulphur Dioxide,2025-11-30T06:00:00-07:00
 ,Powers,Outdoor Temperature,2025-11-30T06:00:00-07:00
 ,Powers,Wind Direction,2025-11-30T06:00:00-07:00
-,Powers,Wind Direction,2025-11-30T05:00:00-07:00
-,Powers,Outdoor Temperature,2025-11-30T05:00:00-07:00
-,Powers,Nitrogen Dioxide,2025-11-30T05:00:00-07:00
-,Powers,Sulphur Dioxide,2025-11-30T05:00:00-07:00
-,Powers,Total Oxides of Nitrogen,2025-11-30T05:00:00-07:00
-,Powers,Nitric Oxide,2025-11-30T05:00:00-07:00
-,Powers,Fine Particulate Matter,2025-11-30T05:00:00-07:00
-,Powers,Relative Humidity,2025-11-30T05:00:00-07:00
-,Powers,Wind Speed,2025-11-30T05:00:00-07:00
