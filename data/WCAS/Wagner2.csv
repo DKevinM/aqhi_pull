@@ -1,4 +1,12 @@
 Value,StationName,ParameterName,ReadingDate
+-5.9,Wagner2,Outdoor Temperature,2025-12-08T13:00:00-07:00
+0.012,Wagner2,Nitric Oxide,2025-12-08T13:00:00-07:00
+72.4,Wagner2,Relative Humidity,2025-12-08T13:00:00-07:00
+105.0,Wagner2,Wind Direction,2025-12-08T13:00:00-07:00
+4.3,Wagner2,Wind Speed,2025-12-08T13:00:00-07:00
+0.022,Wagner2,Total Oxides of Nitrogen,2025-12-08T13:00:00-07:00
+0.01,Wagner2,Nitrogen Dioxide,2025-12-08T13:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-08T13:00:00-07:00
 0.009,Wagner2,Nitric Oxide,2025-12-08T12:00:00-07:00
 0.019,Wagner2,Total Oxides of Nitrogen,2025-12-08T12:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-08T12:00:00-07:00
@@ -39,25 +47,25 @@ Value,StationName,ParameterName,ReadingDate
 86.5,Wagner2,Relative Humidity,2025-12-08T08:00:00-07:00
 1.5,Wagner2,Wind Speed,2025-12-08T08:00:00-07:00
 -10.6,Wagner2,Outdoor Temperature,2025-12-08T08:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-08T07:00:00-07:00
-0.014,Wagner2,Total Oxides of Nitrogen,2025-12-08T07:00:00-07:00
-0.014,Wagner2,Nitrogen Dioxide,2025-12-08T07:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-08T07:00:00-07:00
--11.4,Wagner2,Outdoor Temperature,2025-12-08T07:00:00-07:00
-2.0,Wagner2,Wind Direction,2025-12-08T07:00:00-07:00
-87.4,Wagner2,Relative Humidity,2025-12-08T07:00:00-07:00
 1.0,Wagner2,Wind Speed,2025-12-08T07:00:00-07:00
+87.4,Wagner2,Relative Humidity,2025-12-08T07:00:00-07:00
+2.0,Wagner2,Wind Direction,2025-12-08T07:00:00-07:00
+-11.4,Wagner2,Outdoor Temperature,2025-12-08T07:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-08T07:00:00-07:00
+0.014,Wagner2,Nitrogen Dioxide,2025-12-08T07:00:00-07:00
+0.014,Wagner2,Total Oxides of Nitrogen,2025-12-08T07:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-08T07:00:00-07:00
 58.0,Wagner2,Wind Direction,2025-12-08T06:00:00-07:00
-1.2,Wagner2,Wind Speed,2025-12-08T06:00:00-07:00
-0.015,Wagner2,Total Oxides of Nitrogen,2025-12-08T06:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-08T06:00:00-07:00
-88.7,Wagner2,Relative Humidity,2025-12-08T06:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-08T06:00:00-07:00
--12.0,Wagner2,Outdoor Temperature,2025-12-08T06:00:00-07:00
 0.015,Wagner2,Nitrogen Dioxide,2025-12-08T06:00:00-07:00
-82.0,Wagner2,Wind Direction,2025-12-08T05:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-08T05:00:00-07:00
+-12.0,Wagner2,Outdoor Temperature,2025-12-08T06:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-08T06:00:00-07:00
+88.7,Wagner2,Relative Humidity,2025-12-08T06:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-08T06:00:00-07:00
+0.015,Wagner2,Total Oxides of Nitrogen,2025-12-08T06:00:00-07:00
+1.2,Wagner2,Wind Speed,2025-12-08T06:00:00-07:00
 0.014,Wagner2,Nitrogen Dioxide,2025-12-08T05:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-08T05:00:00-07:00
+82.0,Wagner2,Wind Direction,2025-12-08T05:00:00-07:00
 1.9,Wagner2,Wind Speed,2025-12-08T05:00:00-07:00
 89.3,Wagner2,Relative Humidity,2025-12-08T05:00:00-07:00
 -12.6,Wagner2,Outdoor Temperature,2025-12-08T05:00:00-07:00
@@ -65,1233 +73,1225 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Wagner2,Sulphur Dioxide,2025-12-08T05:00:00-07:00
 ,Wagner2,Nitrogen Dioxide,2025-12-08T04:00:00-07:00
 ,Wagner2,Nitric Oxide,2025-12-08T04:00:00-07:00
-88.7,Wagner2,Relative Humidity,2025-12-08T04:00:00-07:00
 -14.0,Wagner2,Outdoor Temperature,2025-12-08T04:00:00-07:00
+88.7,Wagner2,Relative Humidity,2025-12-08T04:00:00-07:00
 ,Wagner2,Sulphur Dioxide,2025-12-08T04:00:00-07:00
 1.1,Wagner2,Wind Speed,2025-12-08T04:00:00-07:00
 ,Wagner2,Total Oxides of Nitrogen,2025-12-08T04:00:00-07:00
 9.0,Wagner2,Wind Direction,2025-12-08T04:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-08T03:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-08T03:00:00-07:00
-87.0,Wagner2,Relative Humidity,2025-12-08T03:00:00-07:00
-0.015,Wagner2,Nitrogen Dioxide,2025-12-08T03:00:00-07:00
+313.0,Wagner2,Wind Direction,2025-12-08T03:00:00-07:00
 -14.8,Wagner2,Outdoor Temperature,2025-12-08T03:00:00-07:00
+0.015,Wagner2,Nitrogen Dioxide,2025-12-08T03:00:00-07:00
+87.0,Wagner2,Relative Humidity,2025-12-08T03:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-08T03:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-08T03:00:00-07:00
 0.015,Wagner2,Total Oxides of Nitrogen,2025-12-08T03:00:00-07:00
 1.0,Wagner2,Wind Speed,2025-12-08T03:00:00-07:00
-313.0,Wagner2,Wind Direction,2025-12-08T03:00:00-07:00
--14.6,Wagner2,Outdoor Temperature,2025-12-08T02:00:00-07:00
-86.7,Wagner2,Relative Humidity,2025-12-08T02:00:00-07:00
-0.015,Wagner2,Nitrogen Dioxide,2025-12-08T02:00:00-07:00
-322.0,Wagner2,Wind Direction,2025-12-08T02:00:00-07:00
-2.0,Wagner2,Wind Speed,2025-12-08T02:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-08T02:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-08T02:00:00-07:00
 0.014,Wagner2,Total Oxides of Nitrogen,2025-12-08T02:00:00-07:00
-3.4,Wagner2,Wind Speed,2025-12-08T01:00:00-07:00
--14.5,Wagner2,Outdoor Temperature,2025-12-08T01:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-08T02:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-08T02:00:00-07:00
+2.0,Wagner2,Wind Speed,2025-12-08T02:00:00-07:00
+322.0,Wagner2,Wind Direction,2025-12-08T02:00:00-07:00
+0.015,Wagner2,Nitrogen Dioxide,2025-12-08T02:00:00-07:00
+86.7,Wagner2,Relative Humidity,2025-12-08T02:00:00-07:00
+-14.6,Wagner2,Outdoor Temperature,2025-12-08T02:00:00-07:00
 0.013,Wagner2,Total Oxides of Nitrogen,2025-12-08T01:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-08T01:00:00-07:00
 0.013,Wagner2,Nitrogen Dioxide,2025-12-08T01:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-08T01:00:00-07:00
 85.4,Wagner2,Relative Humidity,2025-12-08T01:00:00-07:00
 313.0,Wagner2,Wind Direction,2025-12-08T01:00:00-07:00
-82.7,Wagner2,Relative Humidity,2025-12-08T00:00:00-07:00
+-14.5,Wagner2,Outdoor Temperature,2025-12-08T01:00:00-07:00
+3.4,Wagner2,Wind Speed,2025-12-08T01:00:00-07:00
 4.4,Wagner2,Wind Speed,2025-12-08T00:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-08T00:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-08T00:00:00-07:00
 292.0,Wagner2,Wind Direction,2025-12-08T00:00:00-07:00
 0.017,Wagner2,Total Oxides of Nitrogen,2025-12-08T00:00:00-07:00
 0.017,Wagner2,Nitrogen Dioxide,2025-12-08T00:00:00-07:00
 -11.9,Wagner2,Outdoor Temperature,2025-12-08T00:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-07T23:00:00-07:00
-4.4,Wagner2,Wind Speed,2025-12-07T23:00:00-07:00
-289.0,Wagner2,Wind Direction,2025-12-07T23:00:00-07:00
--10.3,Wagner2,Outdoor Temperature,2025-12-07T23:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-07T23:00:00-07:00
-81.1,Wagner2,Relative Humidity,2025-12-07T23:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-08T00:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-08T00:00:00-07:00
+82.7,Wagner2,Relative Humidity,2025-12-08T00:00:00-07:00
 0.016,Wagner2,Total Oxides of Nitrogen,2025-12-07T23:00:00-07:00
+-10.3,Wagner2,Outdoor Temperature,2025-12-07T23:00:00-07:00
+289.0,Wagner2,Wind Direction,2025-12-07T23:00:00-07:00
+4.4,Wagner2,Wind Speed,2025-12-07T23:00:00-07:00
 0.016,Wagner2,Nitrogen Dioxide,2025-12-07T23:00:00-07:00
--9.9,Wagner2,Outdoor Temperature,2025-12-07T22:00:00-07:00
+81.1,Wagner2,Relative Humidity,2025-12-07T23:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-07T23:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-07T23:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-07T22:00:00-07:00
-80.6,Wagner2,Relative Humidity,2025-12-07T22:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-07T22:00:00-07:00
-5.4,Wagner2,Wind Speed,2025-12-07T22:00:00-07:00
 0.009,Wagner2,Total Oxides of Nitrogen,2025-12-07T22:00:00-07:00
+5.4,Wagner2,Wind Speed,2025-12-07T22:00:00-07:00
+-9.9,Wagner2,Outdoor Temperature,2025-12-07T22:00:00-07:00
+80.6,Wagner2,Relative Humidity,2025-12-07T22:00:00-07:00
 0.009,Wagner2,Nitrogen Dioxide,2025-12-07T22:00:00-07:00
 354.0,Wagner2,Wind Direction,2025-12-07T22:00:00-07:00
--10.0,Wagner2,Outdoor Temperature,2025-12-07T21:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-07T22:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-07T21:00:00-07:00
+-10.0,Wagner2,Outdoor Temperature,2025-12-07T21:00:00-07:00
+0.007,Wagner2,Total Oxides of Nitrogen,2025-12-07T21:00:00-07:00
 80.3,Wagner2,Relative Humidity,2025-12-07T21:00:00-07:00
+29.0,Wagner2,Wind Direction,2025-12-07T21:00:00-07:00
+0.007,Wagner2,Nitrogen Dioxide,2025-12-07T21:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-07T21:00:00-07:00
 3.2,Wagner2,Wind Speed,2025-12-07T21:00:00-07:00
-0.007,Wagner2,Total Oxides of Nitrogen,2025-12-07T21:00:00-07:00
-0.007,Wagner2,Nitrogen Dioxide,2025-12-07T21:00:00-07:00
-29.0,Wagner2,Wind Direction,2025-12-07T21:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-07T20:00:00-07:00
-80.2,Wagner2,Relative Humidity,2025-12-07T20:00:00-07:00
-3.7,Wagner2,Wind Speed,2025-12-07T20:00:00-07:00
--10.3,Wagner2,Outdoor Temperature,2025-12-07T20:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-07T20:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-07T20:00:00-07:00
+-10.3,Wagner2,Outdoor Temperature,2025-12-07T20:00:00-07:00
 0.007,Wagner2,Total Oxides of Nitrogen,2025-12-07T20:00:00-07:00
-0.007,Wagner2,Nitrogen Dioxide,2025-12-07T20:00:00-07:00
 14.0,Wagner2,Wind Direction,2025-12-07T20:00:00-07:00
-2.6,Wagner2,Wind Speed,2025-12-07T19:00:00-07:00
-0.008,Wagner2,Nitrogen Dioxide,2025-12-07T19:00:00-07:00
+0.007,Wagner2,Nitrogen Dioxide,2025-12-07T20:00:00-07:00
+3.7,Wagner2,Wind Speed,2025-12-07T20:00:00-07:00
+80.2,Wagner2,Relative Humidity,2025-12-07T20:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-07T19:00:00-07:00
 -10.4,Wagner2,Outdoor Temperature,2025-12-07T19:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-07T19:00:00-07:00
 0.008,Wagner2,Total Oxides of Nitrogen,2025-12-07T19:00:00-07:00
 52.0,Wagner2,Wind Direction,2025-12-07T19:00:00-07:00
+0.008,Wagner2,Nitrogen Dioxide,2025-12-07T19:00:00-07:00
+2.6,Wagner2,Wind Speed,2025-12-07T19:00:00-07:00
 80.5,Wagner2,Relative Humidity,2025-12-07T19:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-07T19:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-07T19:00:00-07:00
-74.0,Wagner2,Wind Direction,2025-12-07T18:00:00-07:00
-0.008,Wagner2,Total Oxides of Nitrogen,2025-12-07T18:00:00-07:00
 -9.9,Wagner2,Outdoor Temperature,2025-12-07T18:00:00-07:00
-80.2,Wagner2,Relative Humidity,2025-12-07T18:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-07T18:00:00-07:00
-0.008,Wagner2,Nitrogen Dioxide,2025-12-07T18:00:00-07:00
+0.008,Wagner2,Total Oxides of Nitrogen,2025-12-07T18:00:00-07:00
 4.8,Wagner2,Wind Speed,2025-12-07T18:00:00-07:00
+80.2,Wagner2,Relative Humidity,2025-12-07T18:00:00-07:00
+0.008,Wagner2,Nitrogen Dioxide,2025-12-07T18:00:00-07:00
+74.0,Wagner2,Wind Direction,2025-12-07T18:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-07T18:00:00-07:00
-78.0,Wagner2,Wind Direction,2025-12-07T17:00:00-07:00
-0.007,Wagner2,Total Oxides of Nitrogen,2025-12-07T17:00:00-07:00
--9.5,Wagner2,Outdoor Temperature,2025-12-07T17:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-07T17:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-07T18:00:00-07:00
 0.007,Wagner2,Nitrogen Dioxide,2025-12-07T17:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-07T17:00:00-07:00
-78.2,Wagner2,Relative Humidity,2025-12-07T17:00:00-07:00
 6.2,Wagner2,Wind Speed,2025-12-07T17:00:00-07:00
+0.007,Wagner2,Total Oxides of Nitrogen,2025-12-07T17:00:00-07:00
+78.0,Wagner2,Wind Direction,2025-12-07T17:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-07T17:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-07T17:00:00-07:00
+-9.5,Wagner2,Outdoor Temperature,2025-12-07T17:00:00-07:00
+78.2,Wagner2,Relative Humidity,2025-12-07T17:00:00-07:00
 77.1,Wagner2,Relative Humidity,2025-12-07T16:00:00-07:00
--9.6,Wagner2,Outdoor Temperature,2025-12-07T16:00:00-07:00
-0.009,Wagner2,Total Oxides of Nitrogen,2025-12-07T16:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-07T16:00:00-07:00
-5.5,Wagner2,Wind Speed,2025-12-07T16:00:00-07:00
 0.008,Wagner2,Nitrogen Dioxide,2025-12-07T16:00:00-07:00
-0.001,Wagner2,Nitric Oxide,2025-12-07T16:00:00-07:00
+5.5,Wagner2,Wind Speed,2025-12-07T16:00:00-07:00
 69.0,Wagner2,Wind Direction,2025-12-07T16:00:00-07:00
-8.1,Wagner2,Wind Speed,2025-12-07T15:00:00-07:00
-0.009,Wagner2,Total Oxides of Nitrogen,2025-12-07T15:00:00-07:00
-0.007,Wagner2,Nitrogen Dioxide,2025-12-07T15:00:00-07:00
-76.0,Wagner2,Relative Humidity,2025-12-07T15:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-07T16:00:00-07:00
+0.009,Wagner2,Total Oxides of Nitrogen,2025-12-07T16:00:00-07:00
+0.001,Wagner2,Nitric Oxide,2025-12-07T16:00:00-07:00
+-9.6,Wagner2,Outdoor Temperature,2025-12-07T16:00:00-07:00
 0.002,Wagner2,Nitric Oxide,2025-12-07T15:00:00-07:00
+0.007,Wagner2,Nitrogen Dioxide,2025-12-07T15:00:00-07:00
+0.009,Wagner2,Total Oxides of Nitrogen,2025-12-07T15:00:00-07:00
 -9.9,Wagner2,Outdoor Temperature,2025-12-07T15:00:00-07:00
+8.1,Wagner2,Wind Speed,2025-12-07T15:00:00-07:00
 84.0,Wagner2,Wind Direction,2025-12-07T15:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-07T15:00:00-07:00
-8.9,Wagner2,Wind Speed,2025-12-07T14:00:00-07:00
-0.008,Wagner2,Total Oxides of Nitrogen,2025-12-07T14:00:00-07:00
-0.005,Wagner2,Nitrogen Dioxide,2025-12-07T14:00:00-07:00
-0.002,Wagner2,Nitric Oxide,2025-12-07T14:00:00-07:00
+76.0,Wagner2,Relative Humidity,2025-12-07T15:00:00-07:00
 -10.5,Wagner2,Outdoor Temperature,2025-12-07T14:00:00-07:00
+8.9,Wagner2,Wind Speed,2025-12-07T14:00:00-07:00
 101.0,Wagner2,Wind Direction,2025-12-07T14:00:00-07:00
+0.008,Wagner2,Total Oxides of Nitrogen,2025-12-07T14:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-07T14:00:00-07:00
 76.3,Wagner2,Relative Humidity,2025-12-07T14:00:00-07:00
-0.005,Wagner2,Total Oxides of Nitrogen,2025-12-07T13:00:00-07:00
-0.004,Wagner2,Nitrogen Dioxide,2025-12-07T13:00:00-07:00
-0.002,Wagner2,Nitric Oxide,2025-12-07T13:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-07T13:00:00-07:00
-78.6,Wagner2,Relative Humidity,2025-12-07T13:00:00-07:00
+0.005,Wagner2,Nitrogen Dioxide,2025-12-07T14:00:00-07:00
+0.002,Wagner2,Nitric Oxide,2025-12-07T14:00:00-07:00
 -11.6,Wagner2,Outdoor Temperature,2025-12-07T13:00:00-07:00
 6.1,Wagner2,Wind Speed,2025-12-07T13:00:00-07:00
 81.0,Wagner2,Wind Direction,2025-12-07T13:00:00-07:00
-78.4,Wagner2,Relative Humidity,2025-12-07T12:00:00-07:00
+0.005,Wagner2,Total Oxides of Nitrogen,2025-12-07T13:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-07T13:00:00-07:00
+78.6,Wagner2,Relative Humidity,2025-12-07T13:00:00-07:00
+0.004,Wagner2,Nitrogen Dioxide,2025-12-07T13:00:00-07:00
+0.002,Wagner2,Nitric Oxide,2025-12-07T13:00:00-07:00
 -12.6,Wagner2,Outdoor Temperature,2025-12-07T12:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-07T12:00:00-07:00
-0.004,Wagner2,Total Oxides of Nitrogen,2025-12-07T12:00:00-07:00
 4.6,Wagner2,Wind Speed,2025-12-07T12:00:00-07:00
-0.001,Wagner2,Nitric Oxide,2025-12-07T12:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-07T12:00:00-07:00
 109.0,Wagner2,Wind Direction,2025-12-07T12:00:00-07:00
+0.004,Wagner2,Total Oxides of Nitrogen,2025-12-07T12:00:00-07:00
+0.001,Wagner2,Nitric Oxide,2025-12-07T12:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-07T12:00:00-07:00
+78.4,Wagner2,Relative Humidity,2025-12-07T12:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-07T12:00:00-07:00
 -16.3,Wagner2,Outdoor Temperature,2025-12-07T11:00:00-07:00
-84.2,Wagner2,Relative Humidity,2025-12-07T11:00:00-07:00
-0.002,Wagner2,Total Oxides of Nitrogen,2025-12-07T11:00:00-07:00
 1.9,Wagner2,Wind Speed,2025-12-07T11:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-07T11:00:00-07:00
 0.001,Wagner2,Nitric Oxide,2025-12-07T11:00:00-07:00
+0.002,Wagner2,Total Oxides of Nitrogen,2025-12-07T11:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-07T11:00:00-07:00
 0.002,Wagner2,Nitrogen Dioxide,2025-12-07T11:00:00-07:00
 85.0,Wagner2,Wind Direction,2025-12-07T11:00:00-07:00
-83.8,Wagner2,Relative Humidity,2025-12-07T10:00:00-07:00
--19.1,Wagner2,Outdoor Temperature,2025-12-07T10:00:00-07:00
+84.2,Wagner2,Relative Humidity,2025-12-07T11:00:00-07:00
 0.6,Wagner2,Wind Speed,2025-12-07T10:00:00-07:00
-0.002,Wagner2,Total Oxides of Nitrogen,2025-12-07T10:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-07T10:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-07T10:00:00-07:00
-104.0,Wagner2,Wind Direction,2025-12-07T10:00:00-07:00
+-19.1,Wagner2,Outdoor Temperature,2025-12-07T10:00:00-07:00
 0.002,Wagner2,Nitrogen Dioxide,2025-12-07T10:00:00-07:00
--21.6,Wagner2,Outdoor Temperature,2025-12-07T09:00:00-07:00
-0.8,Wagner2,Wind Speed,2025-12-07T09:00:00-07:00
-0.002,Wagner2,Total Oxides of Nitrogen,2025-12-07T09:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-07T09:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-07T10:00:00-07:00
+83.8,Wagner2,Relative Humidity,2025-12-07T10:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-07T10:00:00-07:00
+104.0,Wagner2,Wind Direction,2025-12-07T10:00:00-07:00
+0.002,Wagner2,Total Oxides of Nitrogen,2025-12-07T10:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-07T09:00:00-07:00
+0.8,Wagner2,Wind Speed,2025-12-07T09:00:00-07:00
+-21.6,Wagner2,Outdoor Temperature,2025-12-07T09:00:00-07:00
 0.002,Wagner2,Nitrogen Dioxide,2025-12-07T09:00:00-07:00
-308.0,Wagner2,Wind Direction,2025-12-07T09:00:00-07:00
 82.0,Wagner2,Relative Humidity,2025-12-07T09:00:00-07:00
--21.4,Wagner2,Outdoor Temperature,2025-12-07T08:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-07T09:00:00-07:00
+0.002,Wagner2,Total Oxides of Nitrogen,2025-12-07T09:00:00-07:00
+308.0,Wagner2,Wind Direction,2025-12-07T09:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-07T08:00:00-07:00
-314.0,Wagner2,Wind Direction,2025-12-07T08:00:00-07:00
-81.9,Wagner2,Relative Humidity,2025-12-07T08:00:00-07:00
 1.8,Wagner2,Wind Speed,2025-12-07T08:00:00-07:00
+-21.4,Wagner2,Outdoor Temperature,2025-12-07T08:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-07T08:00:00-07:00
+81.9,Wagner2,Relative Humidity,2025-12-07T08:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-07T08:00:00-07:00
 0.002,Wagner2,Total Oxides of Nitrogen,2025-12-07T08:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-07T08:00:00-07:00
--20.8,Wagner2,Outdoor Temperature,2025-12-07T07:00:00-07:00
+314.0,Wagner2,Wind Direction,2025-12-07T08:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-07T07:00:00-07:00
-0.002,Wagner2,Total Oxides of Nitrogen,2025-12-07T07:00:00-07:00
-313.0,Wagner2,Wind Direction,2025-12-07T07:00:00-07:00
-82.4,Wagner2,Relative Humidity,2025-12-07T07:00:00-07:00
-1.8,Wagner2,Wind Speed,2025-12-07T07:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-07T07:00:00-07:00
 0.002,Wagner2,Nitrogen Dioxide,2025-12-07T07:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-07T06:00:00-07:00
--19.9,Wagner2,Outdoor Temperature,2025-12-07T06:00:00-07:00
-1.8,Wagner2,Wind Speed,2025-12-07T06:00:00-07:00
-83.2,Wagner2,Relative Humidity,2025-12-07T06:00:00-07:00
+313.0,Wagner2,Wind Direction,2025-12-07T07:00:00-07:00
+0.002,Wagner2,Total Oxides of Nitrogen,2025-12-07T07:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-07T07:00:00-07:00
+82.4,Wagner2,Relative Humidity,2025-12-07T07:00:00-07:00
+-20.8,Wagner2,Outdoor Temperature,2025-12-07T07:00:00-07:00
+1.8,Wagner2,Wind Speed,2025-12-07T07:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-07T06:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-07T06:00:00-07:00
 316.0,Wagner2,Wind Direction,2025-12-07T06:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-07T06:00:00-07:00
 0.002,Wagner2,Nitrogen Dioxide,2025-12-07T06:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-07T05:00:00-07:00
-312.0,Wagner2,Wind Direction,2025-12-07T05:00:00-07:00
+83.2,Wagner2,Relative Humidity,2025-12-07T06:00:00-07:00
+-19.9,Wagner2,Outdoor Temperature,2025-12-07T06:00:00-07:00
+1.8,Wagner2,Wind Speed,2025-12-07T06:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-07T06:00:00-07:00
 0.001,Wagner2,Nitrogen Dioxide,2025-12-07T05:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-07T05:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-07T05:00:00-07:00
-83.1,Wagner2,Relative Humidity,2025-12-07T05:00:00-07:00
-2.6,Wagner2,Wind Speed,2025-12-07T05:00:00-07:00
+312.0,Wagner2,Wind Direction,2025-12-07T05:00:00-07:00
 -18.7,Wagner2,Outdoor Temperature,2025-12-07T05:00:00-07:00
+2.6,Wagner2,Wind Speed,2025-12-07T05:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-07T05:00:00-07:00
+83.1,Wagner2,Relative Humidity,2025-12-07T05:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-07T05:00:00-07:00
+7.0,Wagner2,Wind Direction,2025-12-07T04:00:00-07:00
+1.6,Wagner2,Wind Speed,2025-12-07T04:00:00-07:00
 ,Wagner2,Total Oxides of Nitrogen,2025-12-07T04:00:00-07:00
 ,Wagner2,Sulphur Dioxide,2025-12-07T04:00:00-07:00
 ,Wagner2,Nitric Oxide,2025-12-07T04:00:00-07:00
 ,Wagner2,Nitrogen Dioxide,2025-12-07T04:00:00-07:00
-7.0,Wagner2,Wind Direction,2025-12-07T04:00:00-07:00
 84.9,Wagner2,Relative Humidity,2025-12-07T04:00:00-07:00
 -16.2,Wagner2,Outdoor Temperature,2025-12-07T04:00:00-07:00
-1.6,Wagner2,Wind Speed,2025-12-07T04:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-07T03:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-07T03:00:00-07:00
--17.1,Wagner2,Outdoor Temperature,2025-12-07T03:00:00-07:00
-1.3,Wagner2,Wind Speed,2025-12-07T03:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-07T03:00:00-07:00
+1.3,Wagner2,Wind Speed,2025-12-07T03:00:00-07:00
 314.0,Wagner2,Wind Direction,2025-12-07T03:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-07T03:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-07T03:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-07T03:00:00-07:00
 85.4,Wagner2,Relative Humidity,2025-12-07T03:00:00-07:00
+-17.1,Wagner2,Outdoor Temperature,2025-12-07T03:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-07T02:00:00-07:00
+1.6,Wagner2,Wind Speed,2025-12-07T02:00:00-07:00
 304.0,Wagner2,Wind Direction,2025-12-07T02:00:00-07:00
+84.4,Wagner2,Relative Humidity,2025-12-07T02:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-07T02:00:00-07:00
 0.001,Wagner2,Nitrogen Dioxide,2025-12-07T02:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-07T02:00:00-07:00
-84.4,Wagner2,Relative Humidity,2025-12-07T02:00:00-07:00
 -18.9,Wagner2,Outdoor Temperature,2025-12-07T02:00:00-07:00
-1.6,Wagner2,Wind Speed,2025-12-07T02:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-07T01:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-07T01:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-07T01:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-07T01:00:00-07:00
-356.0,Wagner2,Wind Direction,2025-12-07T01:00:00-07:00
--17.9,Wagner2,Outdoor Temperature,2025-12-07T01:00:00-07:00
-84.5,Wagner2,Relative Humidity,2025-12-07T01:00:00-07:00
 0.9,Wagner2,Wind Speed,2025-12-07T01:00:00-07:00
--15.8,Wagner2,Outdoor Temperature,2025-12-07T00:00:00-07:00
+84.5,Wagner2,Relative Humidity,2025-12-07T01:00:00-07:00
+-17.9,Wagner2,Outdoor Temperature,2025-12-07T01:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-07T01:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-07T01:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-07T01:00:00-07:00
+356.0,Wagner2,Wind Direction,2025-12-07T01:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-07T01:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-07T00:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-07T00:00:00-07:00
+74.0,Wagner2,Wind Direction,2025-12-07T00:00:00-07:00
 84.2,Wagner2,Relative Humidity,2025-12-07T00:00:00-07:00
 2.5,Wagner2,Wind Speed,2025-12-07T00:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-07T00:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-07T00:00:00-07:00
-74.0,Wagner2,Wind Direction,2025-12-07T00:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-07T00:00:00-07:00
+-15.8,Wagner2,Outdoor Temperature,2025-12-07T00:00:00-07:00
 95.0,Wagner2,Wind Direction,2025-12-06T23:00:00-07:00
 6.9,Wagner2,Wind Speed,2025-12-06T23:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-06T23:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-06T23:00:00-07:00
--14.6,Wagner2,Outdoor Temperature,2025-12-06T23:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T23:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-06T23:00:00-07:00
 83.8,Wagner2,Relative Humidity,2025-12-06T23:00:00-07:00
--14.4,Wagner2,Outdoor Temperature,2025-12-06T22:00:00-07:00
-100.0,Wagner2,Wind Direction,2025-12-06T22:00:00-07:00
-8.7,Wagner2,Wind Speed,2025-12-06T22:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-06T22:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T22:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-06T22:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-06T23:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T23:00:00-07:00
+-14.6,Wagner2,Outdoor Temperature,2025-12-06T23:00:00-07:00
 84.0,Wagner2,Relative Humidity,2025-12-06T22:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T22:00:00-07:00
+8.7,Wagner2,Wind Speed,2025-12-06T22:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-06T22:00:00-07:00
-101.0,Wagner2,Wind Direction,2025-12-06T21:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-06T21:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T21:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-06T21:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-06T21:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-06T22:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-06T22:00:00-07:00
+100.0,Wagner2,Wind Direction,2025-12-06T22:00:00-07:00
+-14.4,Wagner2,Outdoor Temperature,2025-12-06T22:00:00-07:00
 84.7,Wagner2,Relative Humidity,2025-12-06T21:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-06T21:00:00-07:00
 10.0,Wagner2,Wind Speed,2025-12-06T21:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-06T21:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T21:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-06T21:00:00-07:00
+101.0,Wagner2,Wind Direction,2025-12-06T21:00:00-07:00
 -14.3,Wagner2,Outdoor Temperature,2025-12-06T21:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-06T20:00:00-07:00
-86.2,Wagner2,Relative Humidity,2025-12-06T20:00:00-07:00
 0.001,Wagner2,Nitrogen Dioxide,2025-12-06T20:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T20:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-06T20:00:00-07:00
+86.2,Wagner2,Relative Humidity,2025-12-06T20:00:00-07:00
 9.6,Wagner2,Wind Speed,2025-12-06T20:00:00-07:00
-104.0,Wagner2,Wind Direction,2025-12-06T20:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-06T20:00:00-07:00
 -14.4,Wagner2,Outdoor Temperature,2025-12-06T20:00:00-07:00
+104.0,Wagner2,Wind Direction,2025-12-06T20:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-06T20:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T20:00:00-07:00
 86.0,Wagner2,Relative Humidity,2025-12-06T19:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-06T19:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-06T19:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T19:00:00-07:00
-13.0,Wagner2,Wind Speed,2025-12-06T19:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-06T19:00:00-07:00
 -14.4,Wagner2,Outdoor Temperature,2025-12-06T19:00:00-07:00
+13.0,Wagner2,Wind Speed,2025-12-06T19:00:00-07:00
 101.0,Wagner2,Wind Direction,2025-12-06T19:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-06T19:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T19:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-06T18:00:00-07:00
 80.5,Wagner2,Relative Humidity,2025-12-06T18:00:00-07:00
 13.0,Wagner2,Wind Speed,2025-12-06T18:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-06T18:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T18:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-06T18:00:00-07:00
+99.0,Wagner2,Wind Direction,2025-12-06T18:00:00-07:00
 -14.3,Wagner2,Outdoor Temperature,2025-12-06T18:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-06T18:00:00-07:00
-99.0,Wagner2,Wind Direction,2025-12-06T18:00:00-07:00
-14.5,Wagner2,Wind Speed,2025-12-06T17:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-06T17:00:00-07:00
 0.002,Wagner2,Total Oxides of Nitrogen,2025-12-06T17:00:00-07:00
-76.8,Wagner2,Relative Humidity,2025-12-06T17:00:00-07:00
--14.4,Wagner2,Outdoor Temperature,2025-12-06T17:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-06T17:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-06T17:00:00-07:00
 104.0,Wagner2,Wind Direction,2025-12-06T17:00:00-07:00
+14.5,Wagner2,Wind Speed,2025-12-06T17:00:00-07:00
+-14.4,Wagner2,Outdoor Temperature,2025-12-06T17:00:00-07:00
+76.8,Wagner2,Relative Humidity,2025-12-06T17:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-06T17:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-06T17:00:00-07:00
-75.4,Wagner2,Relative Humidity,2025-12-06T16:00:00-07:00
--14.5,Wagner2,Outdoor Temperature,2025-12-06T16:00:00-07:00
 0.002,Wagner2,Total Oxides of Nitrogen,2025-12-06T16:00:00-07:00
-14.2,Wagner2,Wind Speed,2025-12-06T16:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-06T16:00:00-07:00
-102.0,Wagner2,Wind Direction,2025-12-06T16:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-06T16:00:00-07:00
 0.002,Wagner2,Nitrogen Dioxide,2025-12-06T16:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-06T15:00:00-07:00
+14.2,Wagner2,Wind Speed,2025-12-06T16:00:00-07:00
+-14.5,Wagner2,Outdoor Temperature,2025-12-06T16:00:00-07:00
+102.0,Wagner2,Wind Direction,2025-12-06T16:00:00-07:00
+75.4,Wagner2,Relative Humidity,2025-12-06T16:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-06T16:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-06T16:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-06T15:00:00-07:00
+0.002,Wagner2,Total Oxides of Nitrogen,2025-12-06T15:00:00-07:00
 -14.8,Wagner2,Outdoor Temperature,2025-12-06T15:00:00-07:00
 14.4,Wagner2,Wind Speed,2025-12-06T15:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-06T15:00:00-07:00
-107.0,Wagner2,Wind Direction,2025-12-06T15:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-06T15:00:00-07:00
-0.002,Wagner2,Total Oxides of Nitrogen,2025-12-06T15:00:00-07:00
 74.2,Wagner2,Relative Humidity,2025-12-06T15:00:00-07:00
-104.0,Wagner2,Wind Direction,2025-12-06T14:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-06T15:00:00-07:00
+107.0,Wagner2,Wind Direction,2025-12-06T15:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-06T14:00:00-07:00
 15.6,Wagner2,Wind Speed,2025-12-06T14:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T14:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-06T14:00:00-07:00
--15.0,Wagner2,Outdoor Temperature,2025-12-06T14:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-06T14:00:00-07:00
 73.4,Wagner2,Relative Humidity,2025-12-06T14:00:00-07:00
-110.0,Wagner2,Wind Direction,2025-12-06T13:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-06T13:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-06T13:00:00-07:00
-13.8,Wagner2,Wind Speed,2025-12-06T13:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-06T14:00:00-07:00
+104.0,Wagner2,Wind Direction,2025-12-06T14:00:00-07:00
+-15.0,Wagner2,Outdoor Temperature,2025-12-06T14:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-06T14:00:00-07:00
 -15.0,Wagner2,Outdoor Temperature,2025-12-06T13:00:00-07:00
 0.002,Wagner2,Total Oxides of Nitrogen,2025-12-06T13:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-06T13:00:00-07:00
+13.8,Wagner2,Wind Speed,2025-12-06T13:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-06T13:00:00-07:00
+110.0,Wagner2,Wind Direction,2025-12-06T13:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-06T13:00:00-07:00
 72.1,Wagner2,Relative Humidity,2025-12-06T13:00:00-07:00
-11.9,Wagner2,Wind Speed,2025-12-06T12:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-06T12:00:00-07:00
-0.002,Wagner2,Total Oxides of Nitrogen,2025-12-06T12:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-06T12:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-06T12:00:00-07:00
-71.4,Wagner2,Relative Humidity,2025-12-06T12:00:00-07:00
-114.0,Wagner2,Wind Direction,2025-12-06T12:00:00-07:00
 -15.2,Wagner2,Outdoor Temperature,2025-12-06T12:00:00-07:00
--15.5,Wagner2,Outdoor Temperature,2025-12-06T11:00:00-07:00
+0.002,Wagner2,Total Oxides of Nitrogen,2025-12-06T12:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-06T12:00:00-07:00
+11.9,Wagner2,Wind Speed,2025-12-06T12:00:00-07:00
+114.0,Wagner2,Wind Direction,2025-12-06T12:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-06T12:00:00-07:00
+71.4,Wagner2,Relative Humidity,2025-12-06T12:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-06T12:00:00-07:00
 72.8,Wagner2,Relative Humidity,2025-12-06T11:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T11:00:00-07:00
-10.4,Wagner2,Wind Speed,2025-12-06T11:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-06T11:00:00-07:00
-123.0,Wagner2,Wind Direction,2025-12-06T11:00:00-07:00
+-15.5,Wagner2,Outdoor Temperature,2025-12-06T11:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-06T11:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T11:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-06T11:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-06T11:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-06T10:00:00-07:00
+123.0,Wagner2,Wind Direction,2025-12-06T11:00:00-07:00
+10.4,Wagner2,Wind Speed,2025-12-06T11:00:00-07:00
 76.7,Wagner2,Relative Humidity,2025-12-06T10:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T10:00:00-07:00
 -15.8,Wagner2,Outdoor Temperature,2025-12-06T10:00:00-07:00
-10.0,Wagner2,Wind Speed,2025-12-06T10:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-06T10:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T10:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-06T10:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-06T10:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-06T10:00:00-07:00
 111.0,Wagner2,Wind Direction,2025-12-06T10:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T09:00:00-07:00
-111.0,Wagner2,Wind Direction,2025-12-06T09:00:00-07:00
-10.8,Wagner2,Wind Speed,2025-12-06T09:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-06T09:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-06T09:00:00-07:00
+10.0,Wagner2,Wind Speed,2025-12-06T10:00:00-07:00
 0.001,Wagner2,Nitrogen Dioxide,2025-12-06T09:00:00-07:00
--15.9,Wagner2,Outdoor Temperature,2025-12-06T09:00:00-07:00
 78.0,Wagner2,Relative Humidity,2025-12-06T09:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-06T08:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-06T08:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-06T08:00:00-07:00
-12.6,Wagner2,Wind Speed,2025-12-06T08:00:00-07:00
--15.8,Wagner2,Outdoor Temperature,2025-12-06T08:00:00-07:00
-113.0,Wagner2,Wind Direction,2025-12-06T08:00:00-07:00
-78.4,Wagner2,Relative Humidity,2025-12-06T08:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T09:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-06T09:00:00-07:00
+-15.9,Wagner2,Outdoor Temperature,2025-12-06T09:00:00-07:00
+111.0,Wagner2,Wind Direction,2025-12-06T09:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-06T09:00:00-07:00
+10.8,Wagner2,Wind Speed,2025-12-06T09:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T08:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-06T07:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-06T07:00:00-07:00
+-15.8,Wagner2,Outdoor Temperature,2025-12-06T08:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-06T08:00:00-07:00
+12.6,Wagner2,Wind Speed,2025-12-06T08:00:00-07:00
+113.0,Wagner2,Wind Direction,2025-12-06T08:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-06T08:00:00-07:00
+78.4,Wagner2,Relative Humidity,2025-12-06T08:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-06T08:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-06T07:00:00-07:00
--15.7,Wagner2,Outdoor Temperature,2025-12-06T07:00:00-07:00
 13.6,Wagner2,Wind Speed,2025-12-06T07:00:00-07:00
-79.7,Wagner2,Relative Humidity,2025-12-06T07:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-06T07:00:00-07:00
 113.0,Wagner2,Wind Direction,2025-12-06T07:00:00-07:00
+-15.7,Wagner2,Outdoor Temperature,2025-12-06T07:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-06T07:00:00-07:00
+79.7,Wagner2,Relative Humidity,2025-12-06T07:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T07:00:00-07:00
--15.4,Wagner2,Outdoor Temperature,2025-12-06T06:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-06T06:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T06:00:00-07:00
-106.0,Wagner2,Wind Direction,2025-12-06T06:00:00-07:00
-11.1,Wagner2,Wind Speed,2025-12-06T06:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-06T06:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-06T06:00:00-07:00
+11.1,Wagner2,Wind Speed,2025-12-06T06:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-06T06:00:00-07:00
+106.0,Wagner2,Wind Direction,2025-12-06T06:00:00-07:00
+-15.4,Wagner2,Outdoor Temperature,2025-12-06T06:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-06T06:00:00-07:00
 81.7,Wagner2,Relative Humidity,2025-12-06T06:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T05:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T06:00:00-07:00
+105.0,Wagner2,Wind Direction,2025-12-06T05:00:00-07:00
 12.0,Wagner2,Wind Speed,2025-12-06T05:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-06T05:00:00-07:00
-105.0,Wagner2,Wind Direction,2025-12-06T05:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-06T05:00:00-07:00
 -15.1,Wagner2,Outdoor Temperature,2025-12-06T05:00:00-07:00
-82.6,Wagner2,Relative Humidity,2025-12-06T05:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-06T05:00:00-07:00
-,Wagner2,Total Oxides of Nitrogen,2025-12-06T04:00:00-07:00
-14.5,Wagner2,Wind Speed,2025-12-06T04:00:00-07:00
-,Wagner2,Nitrogen Dioxide,2025-12-06T04:00:00-07:00
+82.6,Wagner2,Relative Humidity,2025-12-06T05:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-06T05:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-06T05:00:00-07:00
 102.0,Wagner2,Wind Direction,2025-12-06T04:00:00-07:00
-,Wagner2,Nitric Oxide,2025-12-06T04:00:00-07:00
--15.0,Wagner2,Outdoor Temperature,2025-12-06T04:00:00-07:00
 ,Wagner2,Sulphur Dioxide,2025-12-06T04:00:00-07:00
+,Wagner2,Nitric Oxide,2025-12-06T04:00:00-07:00
 83.0,Wagner2,Relative Humidity,2025-12-06T04:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-06T03:00:00-07:00
-89.0,Wagner2,Wind Direction,2025-12-06T03:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-06T03:00:00-07:00
--15.0,Wagner2,Outdoor Temperature,2025-12-06T03:00:00-07:00
+,Wagner2,Nitrogen Dioxide,2025-12-06T04:00:00-07:00
+,Wagner2,Total Oxides of Nitrogen,2025-12-06T04:00:00-07:00
+-15.0,Wagner2,Outdoor Temperature,2025-12-06T04:00:00-07:00
+14.5,Wagner2,Wind Speed,2025-12-06T04:00:00-07:00
 0.002,Wagner2,Total Oxides of Nitrogen,2025-12-06T03:00:00-07:00
+89.0,Wagner2,Wind Direction,2025-12-06T03:00:00-07:00
 84.1,Wagner2,Relative Humidity,2025-12-06T03:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-06T03:00:00-07:00
 0.002,Wagner2,Nitrogen Dioxide,2025-12-06T03:00:00-07:00
 12.4,Wagner2,Wind Speed,2025-12-06T03:00:00-07:00
-0.002,Wagner2,Total Oxides of Nitrogen,2025-12-06T02:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-06T02:00:00-07:00
--15.1,Wagner2,Outdoor Temperature,2025-12-06T02:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-06T02:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-06T03:00:00-07:00
+-15.0,Wagner2,Outdoor Temperature,2025-12-06T03:00:00-07:00
 84.3,Wagner2,Relative Humidity,2025-12-06T02:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-06T02:00:00-07:00
-10.0,Wagner2,Wind Speed,2025-12-06T02:00:00-07:00
+0.002,Wagner2,Total Oxides of Nitrogen,2025-12-06T02:00:00-07:00
 82.0,Wagner2,Wind Direction,2025-12-06T02:00:00-07:00
-0.002,Wagner2,Total Oxides of Nitrogen,2025-12-06T01:00:00-07:00
-85.0,Wagner2,Wind Direction,2025-12-06T01:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-06T01:00:00-07:00
--15.2,Wagner2,Outdoor Temperature,2025-12-06T01:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-06T01:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-06T01:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-06T02:00:00-07:00
+-15.1,Wagner2,Outdoor Temperature,2025-12-06T02:00:00-07:00
+10.0,Wagner2,Wind Speed,2025-12-06T02:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-06T02:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-06T02:00:00-07:00
 83.8,Wagner2,Relative Humidity,2025-12-06T01:00:00-07:00
+-15.2,Wagner2,Outdoor Temperature,2025-12-06T01:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-06T01:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-06T01:00:00-07:00
 9.9,Wagner2,Wind Speed,2025-12-06T01:00:00-07:00
-10.8,Wagner2,Wind Speed,2025-12-06T00:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-06T01:00:00-07:00
+85.0,Wagner2,Wind Direction,2025-12-06T01:00:00-07:00
+0.002,Wagner2,Total Oxides of Nitrogen,2025-12-06T01:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-06T00:00:00-07:00
 84.1,Wagner2,Relative Humidity,2025-12-06T00:00:00-07:00
+10.8,Wagner2,Wind Speed,2025-12-06T00:00:00-07:00
 0.002,Wagner2,Nitrogen Dioxide,2025-12-06T00:00:00-07:00
 91.0,Wagner2,Wind Direction,2025-12-06T00:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-06T00:00:00-07:00
 0.002,Wagner2,Total Oxides of Nitrogen,2025-12-06T00:00:00-07:00
 -15.3,Wagner2,Outdoor Temperature,2025-12-06T00:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-06T00:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-06T00:00:00-07:00
-0.002,Wagner2,Total Oxides of Nitrogen,2025-12-05T23:00:00-07:00
+0.003,Wagner2,Nitrogen Dioxide,2025-12-05T23:00:00-07:00
+-15.0,Wagner2,Outdoor Temperature,2025-12-05T23:00:00-07:00
+12.7,Wagner2,Wind Speed,2025-12-05T23:00:00-07:00
 83.6,Wagner2,Relative Humidity,2025-12-05T23:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-05T23:00:00-07:00
+0.002,Wagner2,Total Oxides of Nitrogen,2025-12-05T23:00:00-07:00
 96.0,Wagner2,Wind Direction,2025-12-05T23:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-05T23:00:00-07:00
-0.003,Wagner2,Nitrogen Dioxide,2025-12-05T23:00:00-07:00
-12.7,Wagner2,Wind Speed,2025-12-05T23:00:00-07:00
--15.0,Wagner2,Outdoor Temperature,2025-12-05T23:00:00-07:00
--14.7,Wagner2,Outdoor Temperature,2025-12-05T22:00:00-07:00
-0.004,Wagner2,Nitrogen Dioxide,2025-12-05T22:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-05T22:00:00-07:00
 0.003,Wagner2,Total Oxides of Nitrogen,2025-12-05T22:00:00-07:00
-84.0,Wagner2,Wind Direction,2025-12-05T22:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-05T22:00:00-07:00
 83.9,Wagner2,Relative Humidity,2025-12-05T22:00:00-07:00
+84.0,Wagner2,Wind Direction,2025-12-05T22:00:00-07:00
+0.004,Wagner2,Nitrogen Dioxide,2025-12-05T22:00:00-07:00
 11.4,Wagner2,Wind Speed,2025-12-05T22:00:00-07:00
+-14.7,Wagner2,Outdoor Temperature,2025-12-05T22:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-05T22:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-05T21:00:00-07:00
--14.4,Wagner2,Outdoor Temperature,2025-12-05T21:00:00-07:00
 12.1,Wagner2,Wind Speed,2025-12-05T21:00:00-07:00
+-14.4,Wagner2,Outdoor Temperature,2025-12-05T21:00:00-07:00
 83.2,Wagner2,Relative Humidity,2025-12-05T21:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-05T21:00:00-07:00
 0.002,Wagner2,Total Oxides of Nitrogen,2025-12-05T21:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-05T21:00:00-07:00
 89.0,Wagner2,Wind Direction,2025-12-05T21:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-05T21:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-05T21:00:00-07:00
 0.002,Wagner2,Nitrogen Dioxide,2025-12-05T20:00:00-07:00
 -14.1,Wagner2,Outdoor Temperature,2025-12-05T20:00:00-07:00
 14.2,Wagner2,Wind Speed,2025-12-05T20:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-05T20:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-05T20:00:00-07:00
+82.2,Wagner2,Relative Humidity,2025-12-05T20:00:00-07:00
 89.0,Wagner2,Wind Direction,2025-12-05T20:00:00-07:00
 0.002,Wagner2,Total Oxides of Nitrogen,2025-12-05T20:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-05T20:00:00-07:00
-82.2,Wagner2,Relative Humidity,2025-12-05T20:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-05T20:00:00-07:00
--13.6,Wagner2,Outdoor Temperature,2025-12-05T19:00:00-07:00
-0.003,Wagner2,Total Oxides of Nitrogen,2025-12-05T19:00:00-07:00
-95.0,Wagner2,Wind Direction,2025-12-05T19:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-05T19:00:00-07:00
-15.5,Wagner2,Wind Speed,2025-12-05T19:00:00-07:00
 0.003,Wagner2,Nitrogen Dioxide,2025-12-05T19:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-05T19:00:00-07:00
 81.6,Wagner2,Relative Humidity,2025-12-05T19:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-05T18:00:00-07:00
-101.0,Wagner2,Wind Direction,2025-12-05T18:00:00-07:00
-80.1,Wagner2,Relative Humidity,2025-12-05T18:00:00-07:00
--13.2,Wagner2,Outdoor Temperature,2025-12-05T18:00:00-07:00
+-13.6,Wagner2,Outdoor Temperature,2025-12-05T19:00:00-07:00
+0.003,Wagner2,Total Oxides of Nitrogen,2025-12-05T19:00:00-07:00
+95.0,Wagner2,Wind Direction,2025-12-05T19:00:00-07:00
+15.5,Wagner2,Wind Speed,2025-12-05T19:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-05T18:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-05T18:00:00-07:00
 0.002,Wagner2,Nitrogen Dioxide,2025-12-05T18:00:00-07:00
-0.002,Wagner2,Total Oxides of Nitrogen,2025-12-05T18:00:00-07:00
+-13.2,Wagner2,Outdoor Temperature,2025-12-05T18:00:00-07:00
+101.0,Wagner2,Wind Direction,2025-12-05T18:00:00-07:00
 15.6,Wagner2,Wind Speed,2025-12-05T18:00:00-07:00
-15.6,Wagner2,Wind Speed,2025-12-05T17:00:00-07:00
-0.004,Wagner2,Total Oxides of Nitrogen,2025-12-05T17:00:00-07:00
-96.0,Wagner2,Wind Direction,2025-12-05T17:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-05T17:00:00-07:00
--12.5,Wagner2,Outdoor Temperature,2025-12-05T17:00:00-07:00
+0.002,Wagner2,Total Oxides of Nitrogen,2025-12-05T18:00:00-07:00
+80.1,Wagner2,Relative Humidity,2025-12-05T18:00:00-07:00
 0.004,Wagner2,Nitrogen Dioxide,2025-12-05T17:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-05T17:00:00-07:00
+-12.5,Wagner2,Outdoor Temperature,2025-12-05T17:00:00-07:00
+0.004,Wagner2,Total Oxides of Nitrogen,2025-12-05T17:00:00-07:00
 82.2,Wagner2,Relative Humidity,2025-12-05T17:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-05T17:00:00-07:00
+15.6,Wagner2,Wind Speed,2025-12-05T17:00:00-07:00
+96.0,Wagner2,Wind Direction,2025-12-05T17:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-05T16:00:00-07:00
-75.0,Wagner2,Wind Direction,2025-12-05T16:00:00-07:00
-0.001,Wagner2,Nitric Oxide,2025-12-05T16:00:00-07:00
-82.9,Wagner2,Relative Humidity,2025-12-05T16:00:00-07:00
--12.5,Wagner2,Outdoor Temperature,2025-12-05T16:00:00-07:00
 0.015,Wagner2,Nitrogen Dioxide,2025-12-05T16:00:00-07:00
-0.016,Wagner2,Total Oxides of Nitrogen,2025-12-05T16:00:00-07:00
+82.9,Wagner2,Relative Humidity,2025-12-05T16:00:00-07:00
+0.001,Wagner2,Nitric Oxide,2025-12-05T16:00:00-07:00
 9.3,Wagner2,Wind Speed,2025-12-05T16:00:00-07:00
-0.002,Wagner2,Nitric Oxide,2025-12-05T15:00:00-07:00
-83.5,Wagner2,Relative Humidity,2025-12-05T15:00:00-07:00
+-12.5,Wagner2,Outdoor Temperature,2025-12-05T16:00:00-07:00
+0.016,Wagner2,Total Oxides of Nitrogen,2025-12-05T16:00:00-07:00
+75.0,Wagner2,Wind Direction,2025-12-05T16:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-05T15:00:00-07:00
+0.014,Wagner2,Nitrogen Dioxide,2025-12-05T15:00:00-07:00
 76.0,Wagner2,Wind Direction,2025-12-05T15:00:00-07:00
+0.016,Wagner2,Total Oxides of Nitrogen,2025-12-05T15:00:00-07:00
+83.5,Wagner2,Relative Humidity,2025-12-05T15:00:00-07:00
 -12.0,Wagner2,Outdoor Temperature,2025-12-05T15:00:00-07:00
 9.9,Wagner2,Wind Speed,2025-12-05T15:00:00-07:00
-0.016,Wagner2,Total Oxides of Nitrogen,2025-12-05T15:00:00-07:00
-0.014,Wagner2,Nitrogen Dioxide,2025-12-05T15:00:00-07:00
-89.0,Wagner2,Wind Direction,2025-12-05T14:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-05T14:00:00-07:00
-11.9,Wagner2,Wind Speed,2025-12-05T14:00:00-07:00
-0.002,Wagner2,Nitric Oxide,2025-12-05T14:00:00-07:00
-0.007,Wagner2,Nitrogen Dioxide,2025-12-05T14:00:00-07:00
--10.8,Wagner2,Outdoor Temperature,2025-12-05T14:00:00-07:00
-82.4,Wagner2,Relative Humidity,2025-12-05T14:00:00-07:00
+0.002,Wagner2,Nitric Oxide,2025-12-05T15:00:00-07:00
 0.009,Wagner2,Total Oxides of Nitrogen,2025-12-05T14:00:00-07:00
+11.9,Wagner2,Wind Speed,2025-12-05T14:00:00-07:00
+-10.8,Wagner2,Outdoor Temperature,2025-12-05T14:00:00-07:00
+89.0,Wagner2,Wind Direction,2025-12-05T14:00:00-07:00
+0.002,Wagner2,Nitric Oxide,2025-12-05T14:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-05T14:00:00-07:00
+82.4,Wagner2,Relative Humidity,2025-12-05T14:00:00-07:00
+0.007,Wagner2,Nitrogen Dioxide,2025-12-05T14:00:00-07:00
 0.004,Wagner2,Total Oxides of Nitrogen,2025-12-05T13:00:00-07:00
 -10.7,Wagner2,Outdoor Temperature,2025-12-05T13:00:00-07:00
-0.001,Wagner2,Nitric Oxide,2025-12-05T13:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-05T13:00:00-07:00
-87.0,Wagner2,Wind Direction,2025-12-05T13:00:00-07:00
-0.003,Wagner2,Nitrogen Dioxide,2025-12-05T13:00:00-07:00
-79.7,Wagner2,Relative Humidity,2025-12-05T13:00:00-07:00
+0.001,Wagner2,Nitric Oxide,2025-12-05T13:00:00-07:00
 11.1,Wagner2,Wind Speed,2025-12-05T13:00:00-07:00
-75.0,Wagner2,Wind Direction,2025-12-05T12:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-05T12:00:00-07:00
-83.5,Wagner2,Relative Humidity,2025-12-05T12:00:00-07:00
-7.6,Wagner2,Wind Speed,2025-12-05T12:00:00-07:00
-0.002,Wagner2,Total Oxides of Nitrogen,2025-12-05T12:00:00-07:00
--11.2,Wagner2,Outdoor Temperature,2025-12-05T12:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-05T12:00:00-07:00
+87.0,Wagner2,Wind Direction,2025-12-05T13:00:00-07:00
+79.7,Wagner2,Relative Humidity,2025-12-05T13:00:00-07:00
+0.003,Wagner2,Nitrogen Dioxide,2025-12-05T13:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-05T12:00:00-07:00
-0.002,Wagner2,Total Oxides of Nitrogen,2025-12-05T11:00:00-07:00
--10.9,Wagner2,Outdoor Temperature,2025-12-05T11:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-05T11:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-05T11:00:00-07:00
+-11.2,Wagner2,Outdoor Temperature,2025-12-05T12:00:00-07:00
+7.6,Wagner2,Wind Speed,2025-12-05T12:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-05T12:00:00-07:00
+75.0,Wagner2,Wind Direction,2025-12-05T12:00:00-07:00
+0.002,Wagner2,Total Oxides of Nitrogen,2025-12-05T12:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-05T12:00:00-07:00
+83.5,Wagner2,Relative Humidity,2025-12-05T12:00:00-07:00
 79.7,Wagner2,Relative Humidity,2025-12-05T11:00:00-07:00
-8.3,Wagner2,Wind Speed,2025-12-05T11:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-05T11:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-05T11:00:00-07:00
+0.002,Wagner2,Total Oxides of Nitrogen,2025-12-05T11:00:00-07:00
 76.0,Wagner2,Wind Direction,2025-12-05T11:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-05T10:00:00-07:00
-79.5,Wagner2,Relative Humidity,2025-12-05T10:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-05T11:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-05T11:00:00-07:00
+8.3,Wagner2,Wind Speed,2025-12-05T11:00:00-07:00
+-10.9,Wagner2,Outdoor Temperature,2025-12-05T11:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-05T10:00:00-07:00
+79.5,Wagner2,Relative Humidity,2025-12-05T10:00:00-07:00
 74.0,Wagner2,Wind Direction,2025-12-05T10:00:00-07:00
-6.5,Wagner2,Wind Speed,2025-12-05T10:00:00-07:00
 0.001,Wagner2,Nitrogen Dioxide,2025-12-05T10:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-05T10:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-05T10:00:00-07:00
 -10.8,Wagner2,Outdoor Temperature,2025-12-05T10:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-05T10:00:00-07:00
+6.5,Wagner2,Wind Speed,2025-12-05T10:00:00-07:00
 66.0,Wagner2,Wind Direction,2025-12-05T09:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-05T09:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-05T09:00:00-07:00
-81.4,Wagner2,Relative Humidity,2025-12-05T09:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-05T09:00:00-07:00
-5.0,Wagner2,Wind Speed,2025-12-05T09:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-05T09:00:00-07:00
+5.0,Wagner2,Wind Speed,2025-12-05T09:00:00-07:00
+81.4,Wagner2,Relative Humidity,2025-12-05T09:00:00-07:00
 -10.8,Wagner2,Outdoor Temperature,2025-12-05T09:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-05T09:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-05T09:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-05T08:00:00-07:00
 92.0,Wagner2,Wind Direction,2025-12-05T08:00:00-07:00
-81.9,Wagner2,Relative Humidity,2025-12-05T08:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-05T08:00:00-07:00
-0.0,Wagner2,Nitrogen Dioxide,2025-12-05T08:00:00-07:00
 0.0,Wagner2,Total Oxides of Nitrogen,2025-12-05T08:00:00-07:00
 -10.3,Wagner2,Outdoor Temperature,2025-12-05T08:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-05T08:00:00-07:00
 9.0,Wagner2,Wind Speed,2025-12-05T08:00:00-07:00
-50.0,Wagner2,Wind Direction,2025-12-05T07:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-05T07:00:00-07:00
-0.0,Wagner2,Nitrogen Dioxide,2025-12-05T07:00:00-07:00
-0.0,Wagner2,Total Oxides of Nitrogen,2025-12-05T07:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-05T07:00:00-07:00
-3.7,Wagner2,Wind Speed,2025-12-05T07:00:00-07:00
-80.9,Wagner2,Relative Humidity,2025-12-05T07:00:00-07:00
+81.9,Wagner2,Relative Humidity,2025-12-05T08:00:00-07:00
+0.0,Wagner2,Nitrogen Dioxide,2025-12-05T08:00:00-07:00
 -10.2,Wagner2,Outdoor Temperature,2025-12-05T07:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-05T07:00:00-07:00
+3.7,Wagner2,Wind Speed,2025-12-05T07:00:00-07:00
+0.0,Wagner2,Nitrogen Dioxide,2025-12-05T07:00:00-07:00
+80.9,Wagner2,Relative Humidity,2025-12-05T07:00:00-07:00
+0.0,Wagner2,Total Oxides of Nitrogen,2025-12-05T07:00:00-07:00
+50.0,Wagner2,Wind Direction,2025-12-05T07:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-05T07:00:00-07:00
+0.0,Wagner2,Nitrogen Dioxide,2025-12-05T06:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-05T06:00:00-07:00
+80.2,Wagner2,Relative Humidity,2025-12-05T06:00:00-07:00
+0.0,Wagner2,Total Oxides of Nitrogen,2025-12-05T06:00:00-07:00
+74.0,Wagner2,Wind Direction,2025-12-05T06:00:00-07:00
+-9.8,Wagner2,Outdoor Temperature,2025-12-05T06:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-05T06:00:00-07:00
 6.1,Wagner2,Wind Speed,2025-12-05T06:00:00-07:00
-0.0,Wagner2,Nitrogen Dioxide,2025-12-05T06:00:00-07:00
-80.2,Wagner2,Relative Humidity,2025-12-05T06:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-05T06:00:00-07:00
--9.8,Wagner2,Outdoor Temperature,2025-12-05T06:00:00-07:00
-74.0,Wagner2,Wind Direction,2025-12-05T06:00:00-07:00
-0.0,Wagner2,Total Oxides of Nitrogen,2025-12-05T06:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-05T05:00:00-07:00
-0.0,Wagner2,Nitrogen Dioxide,2025-12-05T05:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-05T05:00:00-07:00
 4.8,Wagner2,Wind Speed,2025-12-05T05:00:00-07:00
--9.4,Wagner2,Outdoor Temperature,2025-12-05T05:00:00-07:00
-46.0,Wagner2,Wind Direction,2025-12-05T05:00:00-07:00
-0.0,Wagner2,Total Oxides of Nitrogen,2025-12-05T05:00:00-07:00
 77.5,Wagner2,Relative Humidity,2025-12-05T05:00:00-07:00
--8.9,Wagner2,Outdoor Temperature,2025-12-05T04:00:00-07:00
-6.7,Wagner2,Wind Speed,2025-12-05T04:00:00-07:00
+46.0,Wagner2,Wind Direction,2025-12-05T05:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-05T05:00:00-07:00
+-9.4,Wagner2,Outdoor Temperature,2025-12-05T05:00:00-07:00
+0.0,Wagner2,Nitrogen Dioxide,2025-12-05T05:00:00-07:00
+0.0,Wagner2,Total Oxides of Nitrogen,2025-12-05T05:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-05T05:00:00-07:00
 ,Wagner2,Sulphur Dioxide,2025-12-05T04:00:00-07:00
 ,Wagner2,Total Oxides of Nitrogen,2025-12-05T04:00:00-07:00
 ,Wagner2,Nitric Oxide,2025-12-05T04:00:00-07:00
-,Wagner2,Nitrogen Dioxide,2025-12-05T04:00:00-07:00
-28.0,Wagner2,Wind Direction,2025-12-05T04:00:00-07:00
 74.0,Wagner2,Relative Humidity,2025-12-05T04:00:00-07:00
-0.0,Wagner2,Nitrogen Dioxide,2025-12-05T03:00:00-07:00
+28.0,Wagner2,Wind Direction,2025-12-05T04:00:00-07:00
+-8.9,Wagner2,Outdoor Temperature,2025-12-05T04:00:00-07:00
+,Wagner2,Nitrogen Dioxide,2025-12-05T04:00:00-07:00
+6.7,Wagner2,Wind Speed,2025-12-05T04:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-05T03:00:00-07:00
-75.3,Wagner2,Relative Humidity,2025-12-05T03:00:00-07:00
-0.0,Wagner2,Total Oxides of Nitrogen,2025-12-05T03:00:00-07:00
-23.0,Wagner2,Wind Direction,2025-12-05T03:00:00-07:00
--8.0,Wagner2,Outdoor Temperature,2025-12-05T03:00:00-07:00
+0.0,Wagner2,Nitrogen Dioxide,2025-12-05T03:00:00-07:00
 6.6,Wagner2,Wind Speed,2025-12-05T03:00:00-07:00
+0.0,Wagner2,Total Oxides of Nitrogen,2025-12-05T03:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-05T03:00:00-07:00
-5.8,Wagner2,Wind Speed,2025-12-05T02:00:00-07:00
--7.0,Wagner2,Outdoor Temperature,2025-12-05T02:00:00-07:00
+23.0,Wagner2,Wind Direction,2025-12-05T03:00:00-07:00
+75.3,Wagner2,Relative Humidity,2025-12-05T03:00:00-07:00
+-8.0,Wagner2,Outdoor Temperature,2025-12-05T03:00:00-07:00
 15.0,Wagner2,Wind Direction,2025-12-05T02:00:00-07:00
-77.0,Wagner2,Relative Humidity,2025-12-05T02:00:00-07:00
+-7.0,Wagner2,Outdoor Temperature,2025-12-05T02:00:00-07:00
+5.8,Wagner2,Wind Speed,2025-12-05T02:00:00-07:00
 0.0,Wagner2,Nitrogen Dioxide,2025-12-05T02:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-05T02:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-05T02:00:00-07:00
 0.0,Wagner2,Total Oxides of Nitrogen,2025-12-05T02:00:00-07:00
-0.0,Wagner2,Total Oxides of Nitrogen,2025-12-05T01:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-05T02:00:00-07:00
+77.0,Wagner2,Relative Humidity,2025-12-05T02:00:00-07:00
 21.0,Wagner2,Wind Direction,2025-12-05T01:00:00-07:00
-8.7,Wagner2,Wind Speed,2025-12-05T01:00:00-07:00
 79.4,Wagner2,Relative Humidity,2025-12-05T01:00:00-07:00
-0.0,Wagner2,Nitrogen Dioxide,2025-12-05T01:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-05T01:00:00-07:00
--5.5,Wagner2,Outdoor Temperature,2025-12-05T01:00:00-07:00
+8.7,Wagner2,Wind Speed,2025-12-05T01:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-05T01:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-05T01:00:00-07:00
+0.0,Wagner2,Nitrogen Dioxide,2025-12-05T01:00:00-07:00
+-5.5,Wagner2,Outdoor Temperature,2025-12-05T01:00:00-07:00
+0.0,Wagner2,Total Oxides of Nitrogen,2025-12-05T01:00:00-07:00
+27.0,Wagner2,Wind Direction,2025-12-05T00:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-05T00:00:00-07:00
 82.1,Wagner2,Relative Humidity,2025-12-05T00:00:00-07:00
--3.4,Wagner2,Outdoor Temperature,2025-12-05T00:00:00-07:00
-27.0,Wagner2,Wind Direction,2025-12-05T00:00:00-07:00
-0.0,Wagner2,Total Oxides of Nitrogen,2025-12-05T00:00:00-07:00
-8.7,Wagner2,Wind Speed,2025-12-05T00:00:00-07:00
 0.0,Wagner2,Nitrogen Dioxide,2025-12-05T00:00:00-07:00
+-3.4,Wagner2,Outdoor Temperature,2025-12-05T00:00:00-07:00
+0.0,Wagner2,Total Oxides of Nitrogen,2025-12-05T00:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-05T00:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-04T23:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-04T23:00:00-07:00
-0.0,Wagner2,Total Oxides of Nitrogen,2025-12-04T23:00:00-07:00
+8.7,Wagner2,Wind Speed,2025-12-05T00:00:00-07:00
 17.0,Wagner2,Wind Direction,2025-12-04T23:00:00-07:00
-83.9,Wagner2,Relative Humidity,2025-12-04T23:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-04T23:00:00-07:00
 -0.3,Wagner2,Outdoor Temperature,2025-12-04T23:00:00-07:00
+0.0,Wagner2,Total Oxides of Nitrogen,2025-12-04T23:00:00-07:00
 8.2,Wagner2,Wind Speed,2025-12-04T23:00:00-07:00
 0.001,Wagner2,Nitrogen Dioxide,2025-12-04T23:00:00-07:00
-2.2,Wagner2,Outdoor Temperature,2025-12-04T22:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-04T22:00:00-07:00
+83.9,Wagner2,Relative Humidity,2025-12-04T23:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-04T23:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-04T22:00:00-07:00
+81.4,Wagner2,Relative Humidity,2025-12-04T22:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-04T22:00:00-07:00
+2.2,Wagner2,Outdoor Temperature,2025-12-04T22:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-04T22:00:00-07:00
 0.001,Wagner2,Nitrogen Dioxide,2025-12-04T22:00:00-07:00
 6.5,Wagner2,Wind Speed,2025-12-04T22:00:00-07:00
-81.4,Wagner2,Relative Humidity,2025-12-04T22:00:00-07:00
 330.0,Wagner2,Wind Direction,2025-12-04T22:00:00-07:00
-7.6,Wagner2,Wind Speed,2025-12-04T21:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-04T21:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-04T21:00:00-07:00
+2.6,Wagner2,Outdoor Temperature,2025-12-04T21:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-04T21:00:00-07:00
 0.001,Wagner2,Nitrogen Dioxide,2025-12-04T21:00:00-07:00
-283.0,Wagner2,Wind Direction,2025-12-04T21:00:00-07:00
+7.6,Wagner2,Wind Speed,2025-12-04T21:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-04T21:00:00-07:00
 81.7,Wagner2,Relative Humidity,2025-12-04T21:00:00-07:00
-2.6,Wagner2,Outdoor Temperature,2025-12-04T21:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-04T20:00:00-07:00
-9.2,Wagner2,Wind Speed,2025-12-04T20:00:00-07:00
+283.0,Wagner2,Wind Direction,2025-12-04T21:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-04T21:00:00-07:00
 2.9,Wagner2,Outdoor Temperature,2025-12-04T20:00:00-07:00
-83.5,Wagner2,Relative Humidity,2025-12-04T20:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-04T20:00:00-07:00
-281.0,Wagner2,Wind Direction,2025-12-04T20:00:00-07:00
 0.001,Wagner2,Nitrogen Dioxide,2025-12-04T20:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-04T20:00:00-07:00
-82.7,Wagner2,Relative Humidity,2025-12-04T19:00:00-07:00
-8.9,Wagner2,Wind Speed,2025-12-04T19:00:00-07:00
-283.0,Wagner2,Wind Direction,2025-12-04T19:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-04T19:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-04T19:00:00-07:00
+9.2,Wagner2,Wind Speed,2025-12-04T20:00:00-07:00
+281.0,Wagner2,Wind Direction,2025-12-04T20:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-04T20:00:00-07:00
+83.5,Wagner2,Relative Humidity,2025-12-04T20:00:00-07:00
 3.1,Wagner2,Outdoor Temperature,2025-12-04T19:00:00-07:00
+8.9,Wagner2,Wind Speed,2025-12-04T19:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-04T19:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-04T19:00:00-07:00
+283.0,Wagner2,Wind Direction,2025-12-04T19:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-04T19:00:00-07:00
+82.7,Wagner2,Relative Humidity,2025-12-04T19:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-04T19:00:00-07:00
+276.0,Wagner2,Wind Direction,2025-12-04T18:00:00-07:00
+80.4,Wagner2,Relative Humidity,2025-12-04T18:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-04T18:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-04T18:00:00-07:00
+3.3,Wagner2,Outdoor Temperature,2025-12-04T18:00:00-07:00
 4.8,Wagner2,Wind Speed,2025-12-04T18:00:00-07:00
 0.002,Wagner2,Total Oxides of Nitrogen,2025-12-04T18:00:00-07:00
-3.3,Wagner2,Outdoor Temperature,2025-12-04T18:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-04T18:00:00-07:00
-80.4,Wagner2,Relative Humidity,2025-12-04T18:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-04T18:00:00-07:00
-276.0,Wagner2,Wind Direction,2025-12-04T18:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-04T18:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-04T17:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-04T17:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-04T17:00:00-07:00
 78.7,Wagner2,Relative Humidity,2025-12-04T17:00:00-07:00
-3.6,Wagner2,Outdoor Temperature,2025-12-04T17:00:00-07:00
-279.0,Wagner2,Wind Direction,2025-12-04T17:00:00-07:00
 6.0,Wagner2,Wind Speed,2025-12-04T17:00:00-07:00
+3.6,Wagner2,Outdoor Temperature,2025-12-04T17:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-04T17:00:00-07:00
+279.0,Wagner2,Wind Direction,2025-12-04T17:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-04T17:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-04T17:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-04T17:00:00-07:00
+81.5,Wagner2,Relative Humidity,2025-12-04T16:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-04T16:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-04T16:00:00-07:00
 0.001,Wagner2,Nitrogen Dioxide,2025-12-04T16:00:00-07:00
 3.7,Wagner2,Outdoor Temperature,2025-12-04T16:00:00-07:00
-8.2,Wagner2,Wind Speed,2025-12-04T16:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-04T16:00:00-07:00
 277.0,Wagner2,Wind Direction,2025-12-04T16:00:00-07:00
-81.5,Wagner2,Relative Humidity,2025-12-04T16:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-04T16:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-04T15:00:00-07:00
-6.4,Wagner2,Wind Speed,2025-12-04T15:00:00-07:00
+8.2,Wagner2,Wind Speed,2025-12-04T16:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-04T15:00:00-07:00
 3.3,Wagner2,Outdoor Temperature,2025-12-04T15:00:00-07:00
 0.001,Wagner2,Nitrogen Dioxide,2025-12-04T15:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-04T15:00:00-07:00
-275.0,Wagner2,Wind Direction,2025-12-04T15:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-04T15:00:00-07:00
 90.3,Wagner2,Relative Humidity,2025-12-04T15:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-04T15:00:00-07:00
+6.4,Wagner2,Wind Speed,2025-12-04T15:00:00-07:00
+275.0,Wagner2,Wind Direction,2025-12-04T15:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-04T15:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-04T14:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-04T14:00:00-07:00
+3.3,Wagner2,Outdoor Temperature,2025-12-04T14:00:00-07:00
+8.9,Wagner2,Wind Speed,2025-12-04T14:00:00-07:00
+90.2,Wagner2,Relative Humidity,2025-12-04T14:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-04T14:00:00-07:00
 282.0,Wagner2,Wind Direction,2025-12-04T14:00:00-07:00
-3.3,Wagner2,Outdoor Temperature,2025-12-04T14:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-04T14:00:00-07:00
-90.2,Wagner2,Relative Humidity,2025-12-04T14:00:00-07:00
-8.9,Wagner2,Wind Speed,2025-12-04T14:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-04T14:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-04T14:00:00-07:00
+277.0,Wagner2,Wind Direction,2025-12-04T13:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-04T13:00:00-07:00
 8.4,Wagner2,Wind Speed,2025-12-04T13:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-04T13:00:00-07:00
-3.6,Wagner2,Outdoor Temperature,2025-12-04T13:00:00-07:00
-0.002,Wagner2,Total Oxides of Nitrogen,2025-12-04T13:00:00-07:00
-277.0,Wagner2,Wind Direction,2025-12-04T13:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-04T13:00:00-07:00
 87.3,Wagner2,Relative Humidity,2025-12-04T13:00:00-07:00
+0.002,Wagner2,Total Oxides of Nitrogen,2025-12-04T13:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-04T13:00:00-07:00
+3.6,Wagner2,Outdoor Temperature,2025-12-04T13:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-04T13:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-04T12:00:00-07:00
-88.8,Wagner2,Relative Humidity,2025-12-04T12:00:00-07:00
 272.0,Wagner2,Wind Direction,2025-12-04T12:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-04T12:00:00-07:00
 0.002,Wagner2,Total Oxides of Nitrogen,2025-12-04T12:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-04T12:00:00-07:00
 3.5,Wagner2,Outdoor Temperature,2025-12-04T12:00:00-07:00
 6.0,Wagner2,Wind Speed,2025-12-04T12:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-04T12:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-04T12:00:00-07:00
-269.0,Wagner2,Wind Direction,2025-12-04T11:00:00-07:00
-0.002,Wagner2,Total Oxides of Nitrogen,2025-12-04T11:00:00-07:00
+88.8,Wagner2,Relative Humidity,2025-12-04T12:00:00-07:00
 91.1,Wagner2,Relative Humidity,2025-12-04T11:00:00-07:00
-6.1,Wagner2,Wind Speed,2025-12-04T11:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-04T11:00:00-07:00
 3.2,Wagner2,Outdoor Temperature,2025-12-04T11:00:00-07:00
+269.0,Wagner2,Wind Direction,2025-12-04T11:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-04T11:00:00-07:00
+6.1,Wagner2,Wind Speed,2025-12-04T11:00:00-07:00
+0.002,Wagner2,Total Oxides of Nitrogen,2025-12-04T11:00:00-07:00
 0.002,Wagner2,Nitrogen Dioxide,2025-12-04T11:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-04T11:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-04T10:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-04T10:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-04T10:00:00-07:00
 5.6,Wagner2,Wind Speed,2025-12-04T10:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-04T10:00:00-07:00
-2.8,Wagner2,Outdoor Temperature,2025-12-04T10:00:00-07:00
-270.0,Wagner2,Wind Direction,2025-12-04T10:00:00-07:00
 93.0,Wagner2,Relative Humidity,2025-12-04T10:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-04T10:00:00-07:00
+270.0,Wagner2,Wind Direction,2025-12-04T10:00:00-07:00
+2.8,Wagner2,Outdoor Temperature,2025-12-04T10:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-04T10:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-04T09:00:00-07:00
+2.4,Wagner2,Outdoor Temperature,2025-12-04T09:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-04T09:00:00-07:00
 0.002,Wagner2,Total Oxides of Nitrogen,2025-12-04T09:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-04T09:00:00-07:00
 95.4,Wagner2,Relative Humidity,2025-12-04T09:00:00-07:00
-2.4,Wagner2,Outdoor Temperature,2025-12-04T09:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-04T09:00:00-07:00
 6.3,Wagner2,Wind Speed,2025-12-04T09:00:00-07:00
 274.0,Wagner2,Wind Direction,2025-12-04T09:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-04T09:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-04T08:00:00-07:00
-1.7,Wagner2,Outdoor Temperature,2025-12-04T08:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-04T08:00:00-07:00
-4.3,Wagner2,Wind Speed,2025-12-04T08:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-04T08:00:00-07:00
 260.0,Wagner2,Wind Direction,2025-12-04T08:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-04T08:00:00-07:00
 98.0,Wagner2,Relative Humidity,2025-12-04T08:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-04T08:00:00-07:00
+4.3,Wagner2,Wind Speed,2025-12-04T08:00:00-07:00
+1.7,Wagner2,Outdoor Temperature,2025-12-04T08:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-04T08:00:00-07:00
 251.0,Wagner2,Wind Direction,2025-12-04T07:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-04T07:00:00-07:00
-1.5,Wagner2,Outdoor Temperature,2025-12-04T07:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-04T07:00:00-07:00
 0.002,Wagner2,Nitrogen Dioxide,2025-12-04T07:00:00-07:00
-5.1,Wagner2,Wind Speed,2025-12-04T07:00:00-07:00
+1.5,Wagner2,Outdoor Temperature,2025-12-04T07:00:00-07:00
 97.8,Wagner2,Relative Humidity,2025-12-04T07:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-04T07:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-04T07:00:00-07:00
-3.5,Wagner2,Wind Speed,2025-12-04T06:00:00-07:00
-2.0,Wagner2,Outdoor Temperature,2025-12-04T06:00:00-07:00
-0.002,Wagner2,Total Oxides of Nitrogen,2025-12-04T06:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-04T06:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-04T06:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-04T07:00:00-07:00
+5.1,Wagner2,Wind Speed,2025-12-04T07:00:00-07:00
 258.0,Wagner2,Wind Direction,2025-12-04T06:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-04T06:00:00-07:00
+2.0,Wagner2,Outdoor Temperature,2025-12-04T06:00:00-07:00
 90.9,Wagner2,Relative Humidity,2025-12-04T06:00:00-07:00
+0.002,Wagner2,Total Oxides of Nitrogen,2025-12-04T06:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-04T06:00:00-07:00
+3.5,Wagner2,Wind Speed,2025-12-04T06:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-04T06:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-04T06:00:00-07:00
 0.003,Wagner2,Total Oxides of Nitrogen,2025-12-04T05:00:00-07:00
 0.003,Wagner2,Nitrogen Dioxide,2025-12-04T05:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-04T05:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-04T05:00:00-07:00
-1.6,Wagner2,Outdoor Temperature,2025-12-04T05:00:00-07:00
-1.8,Wagner2,Wind Speed,2025-12-04T05:00:00-07:00
 329.0,Wagner2,Wind Direction,2025-12-04T05:00:00-07:00
+1.6,Wagner2,Outdoor Temperature,2025-12-04T05:00:00-07:00
 88.1,Wagner2,Relative Humidity,2025-12-04T05:00:00-07:00
-,Wagner2,Nitrogen Dioxide,2025-12-04T04:00:00-07:00
-,Wagner2,Nitric Oxide,2025-12-04T04:00:00-07:00
-,Wagner2,Total Oxides of Nitrogen,2025-12-04T04:00:00-07:00
-286.0,Wagner2,Wind Direction,2025-12-04T04:00:00-07:00
-,Wagner2,Sulphur Dioxide,2025-12-04T04:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-04T05:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-04T05:00:00-07:00
+1.8,Wagner2,Wind Speed,2025-12-04T05:00:00-07:00
 87.1,Wagner2,Relative Humidity,2025-12-04T04:00:00-07:00
+,Wagner2,Sulphur Dioxide,2025-12-04T04:00:00-07:00
+,Wagner2,Total Oxides of Nitrogen,2025-12-04T04:00:00-07:00
+,Wagner2,Nitric Oxide,2025-12-04T04:00:00-07:00
+,Wagner2,Nitrogen Dioxide,2025-12-04T04:00:00-07:00
 1.6,Wagner2,Outdoor Temperature,2025-12-04T04:00:00-07:00
+286.0,Wagner2,Wind Direction,2025-12-04T04:00:00-07:00
 3.0,Wagner2,Wind Speed,2025-12-04T04:00:00-07:00
-0.8,Wagner2,Wind Speed,2025-12-04T03:00:00-07:00
-97.4,Wagner2,Relative Humidity,2025-12-04T03:00:00-07:00
-249.0,Wagner2,Wind Direction,2025-12-04T03:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-04T03:00:00-07:00
 0.002,Wagner2,Nitrogen Dioxide,2025-12-04T03:00:00-07:00
 0.002,Wagner2,Total Oxides of Nitrogen,2025-12-04T03:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-04T03:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-04T03:00:00-07:00
 0.2,Wagner2,Outdoor Temperature,2025-12-04T03:00:00-07:00
-94.4,Wagner2,Relative Humidity,2025-12-04T02:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-04T03:00:00-07:00
+249.0,Wagner2,Wind Direction,2025-12-04T03:00:00-07:00
+97.4,Wagner2,Relative Humidity,2025-12-04T03:00:00-07:00
+0.8,Wagner2,Wind Speed,2025-12-04T03:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-04T02:00:00-07:00
 0.002,Wagner2,Nitrogen Dioxide,2025-12-04T02:00:00-07:00
-1.1,Wagner2,Wind Speed,2025-12-04T02:00:00-07:00
-219.0,Wagner2,Wind Direction,2025-12-04T02:00:00-07:00
-0.3,Wagner2,Outdoor Temperature,2025-12-04T02:00:00-07:00
 0.002,Wagner2,Total Oxides of Nitrogen,2025-12-04T02:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-04T02:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-04T02:00:00-07:00
-253.0,Wagner2,Wind Direction,2025-12-04T01:00:00-07:00
-2.6,Wagner2,Outdoor Temperature,2025-12-04T01:00:00-07:00
-3.8,Wagner2,Wind Speed,2025-12-04T01:00:00-07:00
+0.3,Wagner2,Outdoor Temperature,2025-12-04T02:00:00-07:00
+94.4,Wagner2,Relative Humidity,2025-12-04T02:00:00-07:00
+219.0,Wagner2,Wind Direction,2025-12-04T02:00:00-07:00
+1.1,Wagner2,Wind Speed,2025-12-04T02:00:00-07:00
 77.9,Wagner2,Relative Humidity,2025-12-04T01:00:00-07:00
 0.002,Wagner2,Nitrogen Dioxide,2025-12-04T01:00:00-07:00
-0.002,Wagner2,Total Oxides of Nitrogen,2025-12-04T01:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-04T01:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-04T01:00:00-07:00
-4.4,Wagner2,Wind Speed,2025-12-04T00:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-04T00:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-04T00:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-04T00:00:00-07:00
+2.6,Wagner2,Outdoor Temperature,2025-12-04T01:00:00-07:00
+3.8,Wagner2,Wind Speed,2025-12-04T01:00:00-07:00
+253.0,Wagner2,Wind Direction,2025-12-04T01:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-04T01:00:00-07:00
+0.002,Wagner2,Total Oxides of Nitrogen,2025-12-04T01:00:00-07:00
 81.6,Wagner2,Relative Humidity,2025-12-04T00:00:00-07:00
-0.002,Wagner2,Total Oxides of Nitrogen,2025-12-04T00:00:00-07:00
-263.0,Wagner2,Wind Direction,2025-12-04T00:00:00-07:00
 2.7,Wagner2,Outdoor Temperature,2025-12-04T00:00:00-07:00
+4.4,Wagner2,Wind Speed,2025-12-04T00:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-04T00:00:00-07:00
+0.002,Wagner2,Total Oxides of Nitrogen,2025-12-04T00:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-04T00:00:00-07:00
+263.0,Wagner2,Wind Direction,2025-12-04T00:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-04T00:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-03T23:00:00-07:00
 230.0,Wagner2,Wind Direction,2025-12-03T23:00:00-07:00
 1.3,Wagner2,Outdoor Temperature,2025-12-03T23:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-03T23:00:00-07:00
 94.8,Wagner2,Relative Humidity,2025-12-03T23:00:00-07:00
 2.2,Wagner2,Wind Speed,2025-12-03T23:00:00-07:00
 0.002,Wagner2,Nitrogen Dioxide,2025-12-03T23:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-03T23:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-03T23:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-03T22:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-03T22:00:00-07:00
+94.6,Wagner2,Relative Humidity,2025-12-03T22:00:00-07:00
+2.2,Wagner2,Wind Speed,2025-12-03T22:00:00-07:00
+1.4,Wagner2,Outdoor Temperature,2025-12-03T22:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-03T22:00:00-07:00
 232.0,Wagner2,Wind Direction,2025-12-03T22:00:00-07:00
-1.4,Wagner2,Outdoor Temperature,2025-12-03T22:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-03T22:00:00-07:00
-2.2,Wagner2,Wind Speed,2025-12-03T22:00:00-07:00
-94.6,Wagner2,Relative Humidity,2025-12-03T22:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-03T22:00:00-07:00
-1.6,Wagner2,Wind Speed,2025-12-03T21:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-03T21:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-03T21:00:00-07:00
-92.9,Wagner2,Relative Humidity,2025-12-03T21:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-03T22:00:00-07:00
 248.0,Wagner2,Wind Direction,2025-12-03T21:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-03T21:00:00-07:00
+1.6,Wagner2,Wind Speed,2025-12-03T21:00:00-07:00
 0.001,Wagner2,Nitrogen Dioxide,2025-12-03T21:00:00-07:00
+92.9,Wagner2,Relative Humidity,2025-12-03T21:00:00-07:00
 1.8,Wagner2,Outdoor Temperature,2025-12-03T21:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-03T21:00:00-07:00
-4.0,Wagner2,Wind Speed,2025-12-03T20:00:00-07:00
-269.0,Wagner2,Wind Direction,2025-12-03T20:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-03T20:00:00-07:00
-89.0,Wagner2,Relative Humidity,2025-12-03T20:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-03T20:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-03T21:00:00-07:00
 0.003,Wagner2,Nitrogen Dioxide,2025-12-03T20:00:00-07:00
+269.0,Wagner2,Wind Direction,2025-12-03T20:00:00-07:00
 0.003,Wagner2,Total Oxides of Nitrogen,2025-12-03T20:00:00-07:00
+4.0,Wagner2,Wind Speed,2025-12-03T20:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-03T20:00:00-07:00
+89.0,Wagner2,Relative Humidity,2025-12-03T20:00:00-07:00
 2.1,Wagner2,Outdoor Temperature,2025-12-03T20:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-03T20:00:00-07:00
+273.0,Wagner2,Wind Direction,2025-12-03T19:00:00-07:00
+5.9,Wagner2,Wind Speed,2025-12-03T19:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-03T19:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-03T19:00:00-07:00
 89.9,Wagner2,Relative Humidity,2025-12-03T19:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-03T19:00:00-07:00
-0.003,Wagner2,Nitrogen Dioxide,2025-12-03T19:00:00-07:00
 0.003,Wagner2,Total Oxides of Nitrogen,2025-12-03T19:00:00-07:00
-5.9,Wagner2,Wind Speed,2025-12-03T19:00:00-07:00
 2.4,Wagner2,Outdoor Temperature,2025-12-03T19:00:00-07:00
-273.0,Wagner2,Wind Direction,2025-12-03T19:00:00-07:00
-90.9,Wagner2,Relative Humidity,2025-12-03T18:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-03T18:00:00-07:00
-0.003,Wagner2,Nitrogen Dioxide,2025-12-03T18:00:00-07:00
-0.003,Wagner2,Total Oxides of Nitrogen,2025-12-03T18:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-03T18:00:00-07:00
+0.003,Wagner2,Nitrogen Dioxide,2025-12-03T19:00:00-07:00
 268.0,Wagner2,Wind Direction,2025-12-03T18:00:00-07:00
 4.5,Wagner2,Wind Speed,2025-12-03T18:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-03T18:00:00-07:00
 2.3,Wagner2,Outdoor Temperature,2025-12-03T18:00:00-07:00
-95.2,Wagner2,Relative Humidity,2025-12-03T17:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-03T17:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-03T17:00:00-07:00
-0.004,Wagner2,Nitrogen Dioxide,2025-12-03T17:00:00-07:00
+0.003,Wagner2,Total Oxides of Nitrogen,2025-12-03T18:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-03T18:00:00-07:00
+0.003,Wagner2,Nitrogen Dioxide,2025-12-03T18:00:00-07:00
+90.9,Wagner2,Relative Humidity,2025-12-03T18:00:00-07:00
 0.004,Wagner2,Total Oxides of Nitrogen,2025-12-03T17:00:00-07:00
-1.1,Wagner2,Outdoor Temperature,2025-12-03T17:00:00-07:00
-277.0,Wagner2,Wind Direction,2025-12-03T17:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-03T17:00:00-07:00
+0.004,Wagner2,Nitrogen Dioxide,2025-12-03T17:00:00-07:00
 3.8,Wagner2,Wind Speed,2025-12-03T17:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-03T17:00:00-07:00
+277.0,Wagner2,Wind Direction,2025-12-03T17:00:00-07:00
+95.2,Wagner2,Relative Humidity,2025-12-03T17:00:00-07:00
+1.1,Wagner2,Outdoor Temperature,2025-12-03T17:00:00-07:00
 89.6,Wagner2,Relative Humidity,2025-12-03T16:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-03T16:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-03T16:00:00-07:00
+1.5,Wagner2,Wind Speed,2025-12-03T16:00:00-07:00
+-0.2,Wagner2,Outdoor Temperature,2025-12-03T16:00:00-07:00
 0.005,Wagner2,Nitrogen Dioxide,2025-12-03T16:00:00-07:00
 0.005,Wagner2,Total Oxides of Nitrogen,2025-12-03T16:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-03T16:00:00-07:00
 21.0,Wagner2,Wind Direction,2025-12-03T16:00:00-07:00
--0.2,Wagner2,Outdoor Temperature,2025-12-03T16:00:00-07:00
-1.5,Wagner2,Wind Speed,2025-12-03T16:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-03T15:00:00-07:00
-1.1,Wagner2,Wind Speed,2025-12-03T15:00:00-07:00
-0.001,Wagner2,Nitric Oxide,2025-12-03T15:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-03T16:00:00-07:00
 128.0,Wagner2,Wind Direction,2025-12-03T15:00:00-07:00
+0.001,Wagner2,Nitric Oxide,2025-12-03T15:00:00-07:00
 85.9,Wagner2,Relative Humidity,2025-12-03T15:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-03T15:00:00-07:00
 -0.7,Wagner2,Outdoor Temperature,2025-12-03T15:00:00-07:00
 0.004,Wagner2,Nitrogen Dioxide,2025-12-03T15:00:00-07:00
+1.1,Wagner2,Wind Speed,2025-12-03T15:00:00-07:00
 0.005,Wagner2,Total Oxides of Nitrogen,2025-12-03T15:00:00-07:00
-120.0,Wagner2,Wind Direction,2025-12-03T14:00:00-07:00
-0.001,Wagner2,Nitric Oxide,2025-12-03T14:00:00-07:00
+0.004,Wagner2,Nitrogen Dioxide,2025-12-03T14:00:00-07:00
 1.3,Wagner2,Wind Speed,2025-12-03T14:00:00-07:00
+120.0,Wagner2,Wind Direction,2025-12-03T14:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-03T14:00:00-07:00
 -1.9,Wagner2,Outdoor Temperature,2025-12-03T14:00:00-07:00
+0.001,Wagner2,Nitric Oxide,2025-12-03T14:00:00-07:00
 82.2,Wagner2,Relative Humidity,2025-12-03T14:00:00-07:00
 0.005,Wagner2,Total Oxides of Nitrogen,2025-12-03T14:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-03T14:00:00-07:00
-0.004,Wagner2,Nitrogen Dioxide,2025-12-03T14:00:00-07:00
--3.2,Wagner2,Outdoor Temperature,2025-12-03T13:00:00-07:00
-0.001,Wagner2,Nitric Oxide,2025-12-03T13:00:00-07:00
-117.0,Wagner2,Wind Direction,2025-12-03T13:00:00-07:00
 1.1,Wagner2,Wind Speed,2025-12-03T13:00:00-07:00
 0.004,Wagner2,Total Oxides of Nitrogen,2025-12-03T13:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-03T13:00:00-07:00
-82.4,Wagner2,Relative Humidity,2025-12-03T13:00:00-07:00
 0.004,Wagner2,Nitrogen Dioxide,2025-12-03T13:00:00-07:00
--4.3,Wagner2,Outdoor Temperature,2025-12-03T12:00:00-07:00
-0.001,Wagner2,Nitric Oxide,2025-12-03T12:00:00-07:00
-129.0,Wagner2,Wind Direction,2025-12-03T12:00:00-07:00
-1.2,Wagner2,Wind Speed,2025-12-03T12:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-03T13:00:00-07:00
+-3.2,Wagner2,Outdoor Temperature,2025-12-03T13:00:00-07:00
+117.0,Wagner2,Wind Direction,2025-12-03T13:00:00-07:00
+82.4,Wagner2,Relative Humidity,2025-12-03T13:00:00-07:00
+0.001,Wagner2,Nitric Oxide,2025-12-03T13:00:00-07:00
 0.004,Wagner2,Total Oxides of Nitrogen,2025-12-03T12:00:00-07:00
+1.2,Wagner2,Wind Speed,2025-12-03T12:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-03T12:00:00-07:00
+-4.3,Wagner2,Outdoor Temperature,2025-12-03T12:00:00-07:00
 84.6,Wagner2,Relative Humidity,2025-12-03T12:00:00-07:00
 0.004,Wagner2,Nitrogen Dioxide,2025-12-03T12:00:00-07:00
--5.3,Wagner2,Outdoor Temperature,2025-12-03T11:00:00-07:00
-0.001,Wagner2,Nitric Oxide,2025-12-03T11:00:00-07:00
+129.0,Wagner2,Wind Direction,2025-12-03T12:00:00-07:00
+0.001,Wagner2,Nitric Oxide,2025-12-03T12:00:00-07:00
+0.004,Wagner2,Nitrogen Dioxide,2025-12-03T11:00:00-07:00
 0.004,Wagner2,Total Oxides of Nitrogen,2025-12-03T11:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-03T11:00:00-07:00
-0.004,Wagner2,Nitrogen Dioxide,2025-12-03T11:00:00-07:00
-87.0,Wagner2,Relative Humidity,2025-12-03T11:00:00-07:00
-2.7,Wagner2,Wind Speed,2025-12-03T11:00:00-07:00
 146.0,Wagner2,Wind Direction,2025-12-03T11:00:00-07:00
+2.7,Wagner2,Wind Speed,2025-12-03T11:00:00-07:00
+-5.3,Wagner2,Outdoor Temperature,2025-12-03T11:00:00-07:00
+87.0,Wagner2,Relative Humidity,2025-12-03T11:00:00-07:00
+0.001,Wagner2,Nitric Oxide,2025-12-03T11:00:00-07:00
+0.004,Wagner2,Total Oxides of Nitrogen,2025-12-03T10:00:00-07:00
 0.004,Wagner2,Nitrogen Dioxide,2025-12-03T10:00:00-07:00
+104.0,Wagner2,Wind Direction,2025-12-03T10:00:00-07:00
+2.9,Wagner2,Wind Speed,2025-12-03T10:00:00-07:00
+89.1,Wagner2,Relative Humidity,2025-12-03T10:00:00-07:00
+-6.0,Wagner2,Outdoor Temperature,2025-12-03T10:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-03T10:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-03T10:00:00-07:00
-89.1,Wagner2,Relative Humidity,2025-12-03T10:00:00-07:00
-0.004,Wagner2,Total Oxides of Nitrogen,2025-12-03T10:00:00-07:00
--6.0,Wagner2,Outdoor Temperature,2025-12-03T10:00:00-07:00
-2.9,Wagner2,Wind Speed,2025-12-03T10:00:00-07:00
-104.0,Wagner2,Wind Direction,2025-12-03T10:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-03T09:00:00-07:00
-0.004,Wagner2,Nitrogen Dioxide,2025-12-03T09:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-03T09:00:00-07:00
-0.004,Wagner2,Total Oxides of Nitrogen,2025-12-03T09:00:00-07:00
--6.5,Wagner2,Outdoor Temperature,2025-12-03T09:00:00-07:00
 91.2,Wagner2,Relative Humidity,2025-12-03T09:00:00-07:00
+0.004,Wagner2,Total Oxides of Nitrogen,2025-12-03T09:00:00-07:00
 103.0,Wagner2,Wind Direction,2025-12-03T09:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-03T09:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-03T09:00:00-07:00
 1.8,Wagner2,Wind Speed,2025-12-03T09:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-03T08:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-03T08:00:00-07:00
-92.3,Wagner2,Relative Humidity,2025-12-03T08:00:00-07:00
-0.004,Wagner2,Total Oxides of Nitrogen,2025-12-03T08:00:00-07:00
-0.005,Wagner2,Nitrogen Dioxide,2025-12-03T08:00:00-07:00
+0.004,Wagner2,Nitrogen Dioxide,2025-12-03T09:00:00-07:00
+-6.5,Wagner2,Outdoor Temperature,2025-12-03T09:00:00-07:00
 1.4,Wagner2,Wind Speed,2025-12-03T08:00:00-07:00
+92.3,Wagner2,Relative Humidity,2025-12-03T08:00:00-07:00
 -6.9,Wagner2,Outdoor Temperature,2025-12-03T08:00:00-07:00
+0.005,Wagner2,Nitrogen Dioxide,2025-12-03T08:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-03T08:00:00-07:00
+0.004,Wagner2,Total Oxides of Nitrogen,2025-12-03T08:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-03T08:00:00-07:00
 93.0,Wagner2,Wind Direction,2025-12-03T08:00:00-07:00
-0.004,Wagner2,Nitrogen Dioxide,2025-12-03T07:00:00-07:00
-93.8,Wagner2,Relative Humidity,2025-12-03T07:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-03T07:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-03T07:00:00-07:00
-0.004,Wagner2,Total Oxides of Nitrogen,2025-12-03T07:00:00-07:00
-71.0,Wagner2,Wind Direction,2025-12-03T07:00:00-07:00
 0.5,Wagner2,Wind Speed,2025-12-03T07:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-03T07:00:00-07:00
+93.8,Wagner2,Relative Humidity,2025-12-03T07:00:00-07:00
+0.004,Wagner2,Nitrogen Dioxide,2025-12-03T07:00:00-07:00
+0.004,Wagner2,Total Oxides of Nitrogen,2025-12-03T07:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-03T07:00:00-07:00
 -7.4,Wagner2,Outdoor Temperature,2025-12-03T07:00:00-07:00
-2.4,Wagner2,Wind Speed,2025-12-03T06:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-03T06:00:00-07:00
-94.0,Wagner2,Wind Direction,2025-12-03T06:00:00-07:00
--7.6,Wagner2,Outdoor Temperature,2025-12-03T06:00:00-07:00
-0.004,Wagner2,Total Oxides of Nitrogen,2025-12-03T06:00:00-07:00
+71.0,Wagner2,Wind Direction,2025-12-03T07:00:00-07:00
 0.004,Wagner2,Nitrogen Dioxide,2025-12-03T06:00:00-07:00
+2.4,Wagner2,Wind Speed,2025-12-03T06:00:00-07:00
+-7.6,Wagner2,Outdoor Temperature,2025-12-03T06:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-03T06:00:00-07:00
 93.7,Wagner2,Relative Humidity,2025-12-03T06:00:00-07:00
+0.004,Wagner2,Total Oxides of Nitrogen,2025-12-03T06:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-03T06:00:00-07:00
-3.0,Wagner2,Wind Speed,2025-12-03T05:00:00-07:00
+94.0,Wagner2,Wind Direction,2025-12-03T06:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-03T05:00:00-07:00
+3.0,Wagner2,Wind Speed,2025-12-03T05:00:00-07:00
 -7.9,Wagner2,Outdoor Temperature,2025-12-03T05:00:00-07:00
-91.0,Wagner2,Wind Direction,2025-12-03T05:00:00-07:00
 0.005,Wagner2,Total Oxides of Nitrogen,2025-12-03T05:00:00-07:00
 0.005,Wagner2,Nitrogen Dioxide,2025-12-03T05:00:00-07:00
 94.5,Wagner2,Relative Humidity,2025-12-03T05:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-03T05:00:00-07:00
-5.5,Wagner2,Wind Speed,2025-12-03T04:00:00-07:00
--7.8,Wagner2,Outdoor Temperature,2025-12-03T04:00:00-07:00
-96.0,Wagner2,Wind Direction,2025-12-03T04:00:00-07:00
+91.0,Wagner2,Wind Direction,2025-12-03T05:00:00-07:00
 ,Wagner2,Total Oxides of Nitrogen,2025-12-03T04:00:00-07:00
-,Wagner2,Nitrogen Dioxide,2025-12-03T04:00:00-07:00
-95.2,Wagner2,Relative Humidity,2025-12-03T04:00:00-07:00
-,Wagner2,Nitric Oxide,2025-12-03T04:00:00-07:00
 ,Wagner2,Sulphur Dioxide,2025-12-03T04:00:00-07:00
-6.0,Wagner2,Wind Speed,2025-12-03T03:00:00-07:00
+,Wagner2,Nitric Oxide,2025-12-03T04:00:00-07:00
+5.5,Wagner2,Wind Speed,2025-12-03T04:00:00-07:00
+,Wagner2,Nitrogen Dioxide,2025-12-03T04:00:00-07:00
+-7.8,Wagner2,Outdoor Temperature,2025-12-03T04:00:00-07:00
+95.2,Wagner2,Relative Humidity,2025-12-03T04:00:00-07:00
+96.0,Wagner2,Wind Direction,2025-12-03T04:00:00-07:00
+0.005,Wagner2,Total Oxides of Nitrogen,2025-12-03T03:00:00-07:00
 0.006,Wagner2,Nitrogen Dioxide,2025-12-03T03:00:00-07:00
 93.6,Wagner2,Relative Humidity,2025-12-03T03:00:00-07:00
-89.0,Wagner2,Wind Direction,2025-12-03T03:00:00-07:00
-0.005,Wagner2,Total Oxides of Nitrogen,2025-12-03T03:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-03T03:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-03T03:00:00-07:00
 -8.3,Wagner2,Outdoor Temperature,2025-12-03T03:00:00-07:00
+6.0,Wagner2,Wind Speed,2025-12-03T03:00:00-07:00
+89.0,Wagner2,Wind Direction,2025-12-03T03:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-03T03:00:00-07:00
 0.007,Wagner2,Total Oxides of Nitrogen,2025-12-03T02:00:00-07:00
-0.007,Wagner2,Nitrogen Dioxide,2025-12-03T02:00:00-07:00
-90.9,Wagner2,Relative Humidity,2025-12-03T02:00:00-07:00
+-8.6,Wagner2,Outdoor Temperature,2025-12-03T02:00:00-07:00
 0.001,Wagner2,Sulphur Dioxide,2025-12-03T02:00:00-07:00
+0.007,Wagner2,Nitrogen Dioxide,2025-12-03T02:00:00-07:00
+7.6,Wagner2,Wind Speed,2025-12-03T02:00:00-07:00
+90.9,Wagner2,Relative Humidity,2025-12-03T02:00:00-07:00
 102.0,Wagner2,Wind Direction,2025-12-03T02:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-03T02:00:00-07:00
--8.6,Wagner2,Outdoor Temperature,2025-12-03T02:00:00-07:00
-7.6,Wagner2,Wind Speed,2025-12-03T02:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-03T01:00:00-07:00
-0.009,Wagner2,Nitrogen Dioxide,2025-12-03T01:00:00-07:00
-0.008,Wagner2,Total Oxides of Nitrogen,2025-12-03T01:00:00-07:00
 90.0,Wagner2,Relative Humidity,2025-12-03T01:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-03T01:00:00-07:00
-119.0,Wagner2,Wind Direction,2025-12-03T01:00:00-07:00
 -8.8,Wagner2,Outdoor Temperature,2025-12-03T01:00:00-07:00
 7.4,Wagner2,Wind Speed,2025-12-03T01:00:00-07:00
+119.0,Wagner2,Wind Direction,2025-12-03T01:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-03T01:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-03T01:00:00-07:00
+0.008,Wagner2,Total Oxides of Nitrogen,2025-12-03T01:00:00-07:00
+0.009,Wagner2,Nitrogen Dioxide,2025-12-03T01:00:00-07:00
 0.007,Wagner2,Nitrogen Dioxide,2025-12-03T00:00:00-07:00
-102.0,Wagner2,Wind Direction,2025-12-03T00:00:00-07:00
 0.006,Wagner2,Total Oxides of Nitrogen,2025-12-03T00:00:00-07:00
 -8.7,Wagner2,Outdoor Temperature,2025-12-03T00:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-03T00:00:00-07:00
-9.7,Wagner2,Wind Speed,2025-12-03T00:00:00-07:00
 89.1,Wagner2,Relative Humidity,2025-12-03T00:00:00-07:00
+102.0,Wagner2,Wind Direction,2025-12-03T00:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-03T00:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-02T23:00:00-07:00
-8.7,Wagner2,Wind Speed,2025-12-02T23:00:00-07:00
-116.0,Wagner2,Wind Direction,2025-12-02T23:00:00-07:00
+9.7,Wagner2,Wind Speed,2025-12-03T00:00:00-07:00
 -8.6,Wagner2,Outdoor Temperature,2025-12-02T23:00:00-07:00
-86.8,Wagner2,Relative Humidity,2025-12-02T23:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-02T23:00:00-07:00
+116.0,Wagner2,Wind Direction,2025-12-02T23:00:00-07:00
 0.003,Wagner2,Nitrogen Dioxide,2025-12-02T23:00:00-07:00
+86.8,Wagner2,Relative Humidity,2025-12-02T23:00:00-07:00
 0.003,Wagner2,Total Oxides of Nitrogen,2025-12-02T23:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-02T22:00:00-07:00
+8.7,Wagner2,Wind Speed,2025-12-02T23:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-02T23:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-02T23:00:00-07:00
 10.6,Wagner2,Wind Speed,2025-12-02T22:00:00-07:00
-106.0,Wagner2,Wind Direction,2025-12-02T22:00:00-07:00
--8.5,Wagner2,Outdoor Temperature,2025-12-02T22:00:00-07:00
-87.3,Wagner2,Relative Humidity,2025-12-02T22:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-02T22:00:00-07:00
+106.0,Wagner2,Wind Direction,2025-12-02T22:00:00-07:00
+87.3,Wagner2,Relative Humidity,2025-12-02T22:00:00-07:00
 0.003,Wagner2,Nitrogen Dioxide,2025-12-02T22:00:00-07:00
 0.003,Wagner2,Total Oxides of Nitrogen,2025-12-02T22:00:00-07:00
+-8.5,Wagner2,Outdoor Temperature,2025-12-02T22:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-02T22:00:00-07:00
+9.2,Wagner2,Wind Speed,2025-12-02T21:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-02T21:00:00-07:00
+86.7,Wagner2,Relative Humidity,2025-12-02T21:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-02T21:00:00-07:00
 0.004,Wagner2,Total Oxides of Nitrogen,2025-12-02T21:00:00-07:00
-9.2,Wagner2,Wind Speed,2025-12-02T21:00:00-07:00
-86.7,Wagner2,Relative Humidity,2025-12-02T21:00:00-07:00
--8.2,Wagner2,Outdoor Temperature,2025-12-02T21:00:00-07:00
 94.0,Wagner2,Wind Direction,2025-12-02T21:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-02T21:00:00-07:00
 0.004,Wagner2,Nitrogen Dioxide,2025-12-02T21:00:00-07:00
+-8.2,Wagner2,Outdoor Temperature,2025-12-02T21:00:00-07:00
 9.7,Wagner2,Wind Speed,2025-12-02T20:00:00-07:00
-88.0,Wagner2,Wind Direction,2025-12-02T20:00:00-07:00
 0.005,Wagner2,Total Oxides of Nitrogen,2025-12-02T20:00:00-07:00
--7.6,Wagner2,Outdoor Temperature,2025-12-02T20:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-02T20:00:00-07:00
 84.1,Wagner2,Relative Humidity,2025-12-02T20:00:00-07:00
-0.005,Wagner2,Nitrogen Dioxide,2025-12-02T20:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-02T20:00:00-07:00
+0.005,Wagner2,Nitrogen Dioxide,2025-12-02T20:00:00-07:00
+88.0,Wagner2,Wind Direction,2025-12-02T20:00:00-07:00
+-7.6,Wagner2,Outdoor Temperature,2025-12-02T20:00:00-07:00
 90.0,Wagner2,Wind Direction,2025-12-02T19:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-02T19:00:00-07:00
--6.3,Wagner2,Outdoor Temperature,2025-12-02T19:00:00-07:00
-8.7,Wagner2,Wind Speed,2025-12-02T19:00:00-07:00
 82.1,Wagner2,Relative Humidity,2025-12-02T19:00:00-07:00
+-6.3,Wagner2,Outdoor Temperature,2025-12-02T19:00:00-07:00
 0.004,Wagner2,Total Oxides of Nitrogen,2025-12-02T19:00:00-07:00
-0.004,Wagner2,Nitrogen Dioxide,2025-12-02T19:00:00-07:00
+8.7,Wagner2,Wind Speed,2025-12-02T19:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-02T19:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-02T19:00:00-07:00
+0.004,Wagner2,Nitrogen Dioxide,2025-12-02T19:00:00-07:00
 68.0,Wagner2,Wind Direction,2025-12-02T18:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-02T18:00:00-07:00
 -5.7,Wagner2,Outdoor Temperature,2025-12-02T18:00:00-07:00
 4.2,Wagner2,Wind Speed,2025-12-02T18:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-02T18:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-02T18:00:00-07:00
-80.1,Wagner2,Relative Humidity,2025-12-02T18:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-02T18:00:00-07:00
 0.002,Wagner2,Total Oxides of Nitrogen,2025-12-02T18:00:00-07:00
-79.3,Wagner2,Relative Humidity,2025-12-02T17:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-02T17:00:00-07:00
--5.4,Wagner2,Outdoor Temperature,2025-12-02T17:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-02T17:00:00-07:00
-5.0,Wagner2,Wind Speed,2025-12-02T17:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-02T17:00:00-07:00
-0.002,Wagner2,Total Oxides of Nitrogen,2025-12-02T17:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-02T18:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-02T18:00:00-07:00
+80.1,Wagner2,Relative Humidity,2025-12-02T18:00:00-07:00
 75.0,Wagner2,Wind Direction,2025-12-02T17:00:00-07:00
+5.0,Wagner2,Wind Speed,2025-12-02T17:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-02T17:00:00-07:00
+79.3,Wagner2,Relative Humidity,2025-12-02T17:00:00-07:00
+-5.4,Wagner2,Outdoor Temperature,2025-12-02T17:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-02T17:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-02T17:00:00-07:00
+0.002,Wagner2,Total Oxides of Nitrogen,2025-12-02T17:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-02T16:00:00-07:00
--4.8,Wagner2,Outdoor Temperature,2025-12-02T16:00:00-07:00
 77.3,Wagner2,Relative Humidity,2025-12-02T16:00:00-07:00
+-4.8,Wagner2,Outdoor Temperature,2025-12-02T16:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-02T16:00:00-07:00
 3.3,Wagner2,Wind Speed,2025-12-02T16:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-02T16:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-02T16:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-02T16:00:00-07:00
 43.0,Wagner2,Wind Direction,2025-12-02T16:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-02T16:00:00-07:00
 75.4,Wagner2,Relative Humidity,2025-12-02T15:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-02T15:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-02T15:00:00-07:00
-4.3,Wagner2,Wind Speed,2025-12-02T15:00:00-07:00
 -4.4,Wagner2,Outdoor Temperature,2025-12-02T15:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-02T15:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-02T15:00:00-07:00
+4.3,Wagner2,Wind Speed,2025-12-02T15:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-02T15:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-02T15:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-02T15:00:00-07:00
 3.0,Wagner2,Wind Direction,2025-12-02T15:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-02T14:00:00-07:00
--4.2,Wagner2,Outdoor Temperature,2025-12-02T14:00:00-07:00
-17.0,Wagner2,Wind Direction,2025-12-02T14:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-02T14:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-02T14:00:00-07:00
 74.1,Wagner2,Relative Humidity,2025-12-02T14:00:00-07:00
+-4.2,Wagner2,Outdoor Temperature,2025-12-02T14:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-02T14:00:00-07:00
 0.001,Wagner2,Nitrogen Dioxide,2025-12-02T14:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-02T14:00:00-07:00
 5.7,Wagner2,Wind Speed,2025-12-02T14:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-02T13:00:00-07:00
+17.0,Wagner2,Wind Direction,2025-12-02T14:00:00-07:00
 5.7,Wagner2,Wind Speed,2025-12-02T13:00:00-07:00
-15.0,Wagner2,Wind Direction,2025-12-02T13:00:00-07:00
--4.0,Wagner2,Outdoor Temperature,2025-12-02T13:00:00-07:00
-75.0,Wagner2,Relative Humidity,2025-12-02T13:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-02T13:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-02T13:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-02T13:00:00-07:00
+75.0,Wagner2,Relative Humidity,2025-12-02T13:00:00-07:00
+-4.0,Wagner2,Outdoor Temperature,2025-12-02T13:00:00-07:00
 0.001,Wagner2,Nitrogen Dioxide,2025-12-02T13:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-02T13:00:00-07:00
+15.0,Wagner2,Wind Direction,2025-12-02T13:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-02T12:00:00-07:00
+6.5,Wagner2,Wind Speed,2025-12-02T12:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-02T12:00:00-07:00
+76.8,Wagner2,Relative Humidity,2025-12-02T12:00:00-07:00
 20.0,Wagner2,Wind Direction,2025-12-02T12:00:00-07:00
 0.001,Wagner2,Nitrogen Dioxide,2025-12-02T12:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-02T12:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-02T12:00:00-07:00
 -3.8,Wagner2,Outdoor Temperature,2025-12-02T12:00:00-07:00
-6.5,Wagner2,Wind Speed,2025-12-02T12:00:00-07:00
-76.8,Wagner2,Relative Humidity,2025-12-02T12:00:00-07:00
-79.1,Wagner2,Relative Humidity,2025-12-02T11:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-02T11:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-02T12:00:00-07:00
 15.0,Wagner2,Wind Direction,2025-12-02T11:00:00-07:00
--2.8,Wagner2,Outdoor Temperature,2025-12-02T11:00:00-07:00
-7.3,Wagner2,Wind Speed,2025-12-02T11:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-02T11:00:00-07:00
+7.3,Wagner2,Wind Speed,2025-12-02T11:00:00-07:00
 0.001,Wagner2,Nitrogen Dioxide,2025-12-02T11:00:00-07:00
+79.1,Wagner2,Relative Humidity,2025-12-02T11:00:00-07:00
+-2.8,Wagner2,Outdoor Temperature,2025-12-02T11:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-02T11:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-02T11:00:00-07:00
+6.8,Wagner2,Wind Speed,2025-12-02T10:00:00-07:00
 5.0,Wagner2,Wind Direction,2025-12-02T10:00:00-07:00
+88.2,Wagner2,Relative Humidity,2025-12-02T10:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-02T10:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-02T10:00:00-07:00
 -1.9,Wagner2,Outdoor Temperature,2025-12-02T10:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-02T10:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-02T10:00:00-07:00
-88.2,Wagner2,Relative Humidity,2025-12-02T10:00:00-07:00
-6.8,Wagner2,Wind Speed,2025-12-02T10:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-02T10:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-02T10:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-02T09:00:00-07:00
+92.5,Wagner2,Relative Humidity,2025-12-02T09:00:00-07:00
 7.0,Wagner2,Wind Direction,2025-12-02T09:00:00-07:00
-0.2,Wagner2,Outdoor Temperature,2025-12-02T09:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-02T09:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-02T09:00:00-07:00
 7.6,Wagner2,Wind Speed,2025-12-02T09:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-02T09:00:00-07:00
-92.5,Wagner2,Relative Humidity,2025-12-02T09:00:00-07:00
+0.2,Wagner2,Outdoor Temperature,2025-12-02T09:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-02T09:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-02T08:00:00-07:00
-292.0,Wagner2,Wind Direction,2025-12-02T08:00:00-07:00
-1.3,Wagner2,Outdoor Temperature,2025-12-02T08:00:00-07:00
-6.4,Wagner2,Wind Speed,2025-12-02T08:00:00-07:00
 0.001,Wagner2,Nitrogen Dioxide,2025-12-02T08:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-02T08:00:00-07:00
-94.8,Wagner2,Relative Humidity,2025-12-02T08:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-02T08:00:00-07:00
+6.4,Wagner2,Wind Speed,2025-12-02T08:00:00-07:00
+1.3,Wagner2,Outdoor Temperature,2025-12-02T08:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-02T08:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-02T07:00:00-07:00
+94.8,Wagner2,Relative Humidity,2025-12-02T08:00:00-07:00
+292.0,Wagner2,Wind Direction,2025-12-02T08:00:00-07:00
 6.7,Wagner2,Wind Speed,2025-12-02T07:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-02T07:00:00-07:00
+2.5,Wagner2,Outdoor Temperature,2025-12-02T07:00:00-07:00
 85.0,Wagner2,Relative Humidity,2025-12-02T07:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-02T07:00:00-07:00
-305.0,Wagner2,Wind Direction,2025-12-02T07:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-02T07:00:00-07:00
 0.001,Wagner2,Nitrogen Dioxide,2025-12-02T07:00:00-07:00
-2.5,Wagner2,Outdoor Temperature,2025-12-02T07:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-02T06:00:00-07:00
-284.0,Wagner2,Wind Direction,2025-12-02T06:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-02T06:00:00-07:00
+305.0,Wagner2,Wind Direction,2025-12-02T07:00:00-07:00
+3.0,Wagner2,Outdoor Temperature,2025-12-02T06:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-02T06:00:00-07:00
 9.2,Wagner2,Wind Speed,2025-12-02T06:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-02T06:00:00-07:00
 82.9,Wagner2,Relative Humidity,2025-12-02T06:00:00-07:00
-3.0,Wagner2,Outdoor Temperature,2025-12-02T06:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-02T06:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-02T06:00:00-07:00
+284.0,Wagner2,Wind Direction,2025-12-02T06:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-02T05:00:00-07:00
-3.3,Wagner2,Outdoor Temperature,2025-12-02T05:00:00-07:00
-284.0,Wagner2,Wind Direction,2025-12-02T05:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-02T05:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-02T05:00:00-07:00
+3.3,Wagner2,Outdoor Temperature,2025-12-02T05:00:00-07:00
 8.9,Wagner2,Wind Speed,2025-12-02T05:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-02T05:00:00-07:00
 82.0,Wagner2,Relative Humidity,2025-12-02T05:00:00-07:00
-286.0,Wagner2,Wind Direction,2025-12-02T04:00:00-07:00
-10.7,Wagner2,Wind Speed,2025-12-02T04:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-02T05:00:00-07:00
+284.0,Wagner2,Wind Direction,2025-12-02T05:00:00-07:00
 3.9,Wagner2,Outdoor Temperature,2025-12-02T04:00:00-07:00
-,Wagner2,Total Oxides of Nitrogen,2025-12-02T04:00:00-07:00
-,Wagner2,Nitrogen Dioxide,2025-12-02T04:00:00-07:00
+286.0,Wagner2,Wind Direction,2025-12-02T04:00:00-07:00
 75.6,Wagner2,Relative Humidity,2025-12-02T04:00:00-07:00
 ,Wagner2,Sulphur Dioxide,2025-12-02T04:00:00-07:00
+,Wagner2,Total Oxides of Nitrogen,2025-12-02T04:00:00-07:00
+,Wagner2,Nitrogen Dioxide,2025-12-02T04:00:00-07:00
+10.7,Wagner2,Wind Speed,2025-12-02T04:00:00-07:00
 ,Wagner2,Nitric Oxide,2025-12-02T04:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-02T03:00:00-07:00
-3.9,Wagner2,Outdoor Temperature,2025-12-02T03:00:00-07:00
-6.8,Wagner2,Wind Speed,2025-12-02T03:00:00-07:00
-71.3,Wagner2,Relative Humidity,2025-12-02T03:00:00-07:00
 0.001,Wagner2,Nitrogen Dioxide,2025-12-02T03:00:00-07:00
+270.0,Wagner2,Wind Direction,2025-12-02T03:00:00-07:00
+71.3,Wagner2,Relative Humidity,2025-12-02T03:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-02T03:00:00-07:00
+6.8,Wagner2,Wind Speed,2025-12-02T03:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-02T03:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-02T03:00:00-07:00
-270.0,Wagner2,Wind Direction,2025-12-02T03:00:00-07:00
-1.8,Wagner2,Outdoor Temperature,2025-12-02T02:00:00-07:00
-1.4,Wagner2,Wind Speed,2025-12-02T02:00:00-07:00
+3.9,Wagner2,Outdoor Temperature,2025-12-02T03:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-02T02:00:00-07:00
+247.0,Wagner2,Wind Direction,2025-12-02T02:00:00-07:00
 82.0,Wagner2,Relative Humidity,2025-12-02T02:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-02T02:00:00-07:00
-247.0,Wagner2,Wind Direction,2025-12-02T02:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-02T02:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-02T02:00:00-07:00
+1.4,Wagner2,Wind Speed,2025-12-02T02:00:00-07:00
 0.001,Wagner2,Nitrogen Dioxide,2025-12-02T02:00:00-07:00
-259.0,Wagner2,Wind Direction,2025-12-02T01:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-02T01:00:00-07:00
-0.001,Wagner2,Nitrogen Dioxide,2025-12-02T01:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-02T02:00:00-07:00
+1.8,Wagner2,Outdoor Temperature,2025-12-02T02:00:00-07:00
 3.2,Wagner2,Wind Speed,2025-12-02T01:00:00-07:00
-3.1,Wagner2,Outdoor Temperature,2025-12-02T01:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-02T01:00:00-07:00
 74.9,Wagner2,Relative Humidity,2025-12-02T01:00:00-07:00
+0.001,Wagner2,Nitrogen Dioxide,2025-12-02T01:00:00-07:00
 0.001,Wagner2,Total Oxides of Nitrogen,2025-12-02T01:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-02T00:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-02T00:00:00-07:00
-77.8,Wagner2,Relative Humidity,2025-12-02T00:00:00-07:00
+3.1,Wagner2,Outdoor Temperature,2025-12-02T01:00:00-07:00
+259.0,Wagner2,Wind Direction,2025-12-02T01:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-02T01:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-02T01:00:00-07:00
 0.0,Wagner2,Sulphur Dioxide,2025-12-02T00:00:00-07:00
-2.4,Wagner2,Outdoor Temperature,2025-12-02T00:00:00-07:00
-266.0,Wagner2,Wind Direction,2025-12-02T00:00:00-07:00
+77.8,Wagner2,Relative Humidity,2025-12-02T00:00:00-07:00
 0.001,Wagner2,Nitrogen Dioxide,2025-12-02T00:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-02T00:00:00-07:00
+266.0,Wagner2,Wind Direction,2025-12-02T00:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-02T00:00:00-07:00
 3.3,Wagner2,Wind Speed,2025-12-02T00:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-01T23:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-01T23:00:00-07:00
-255.0,Wagner2,Wind Direction,2025-12-01T23:00:00-07:00
+2.4,Wagner2,Outdoor Temperature,2025-12-02T00:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-01T23:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-01T23:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-01T23:00:00-07:00
+255.0,Wagner2,Wind Direction,2025-12-01T23:00:00-07:00
 2.3,Wagner2,Outdoor Temperature,2025-12-01T23:00:00-07:00
 81.6,Wagner2,Relative Humidity,2025-12-01T23:00:00-07:00
 3.5,Wagner2,Wind Speed,2025-12-01T23:00:00-07:00
 0.002,Wagner2,Nitrogen Dioxide,2025-12-01T23:00:00-07:00
-0.001,Wagner2,Total Oxides of Nitrogen,2025-12-01T22:00:00-07:00
-2.5,Wagner2,Wind Speed,2025-12-01T22:00:00-07:00
-0.002,Wagner2,Nitrogen Dioxide,2025-12-01T22:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-01T22:00:00-07:00
 0.0,Wagner2,Nitric Oxide,2025-12-01T22:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-01T22:00:00-07:00
 265.0,Wagner2,Wind Direction,2025-12-01T22:00:00-07:00
-88.4,Wagner2,Relative Humidity,2025-12-01T22:00:00-07:00
+2.5,Wagner2,Wind Speed,2025-12-01T22:00:00-07:00
+0.001,Wagner2,Total Oxides of Nitrogen,2025-12-01T22:00:00-07:00
 1.4,Wagner2,Outdoor Temperature,2025-12-01T22:00:00-07:00
-2.6,Wagner2,Wind Speed,2025-12-01T21:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-01T21:00:00-07:00
-0.003,Wagner2,Total Oxides of Nitrogen,2025-12-01T21:00:00-07:00
-254.0,Wagner2,Wind Direction,2025-12-01T21:00:00-07:00
-90.8,Wagner2,Relative Humidity,2025-12-01T21:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-01T21:00:00-07:00
+0.002,Wagner2,Nitrogen Dioxide,2025-12-01T22:00:00-07:00
+88.4,Wagner2,Relative Humidity,2025-12-01T22:00:00-07:00
 0.003,Wagner2,Nitrogen Dioxide,2025-12-01T21:00:00-07:00
+0.003,Wagner2,Total Oxides of Nitrogen,2025-12-01T21:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-01T21:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-01T21:00:00-07:00
+254.0,Wagner2,Wind Direction,2025-12-01T21:00:00-07:00
+2.6,Wagner2,Wind Speed,2025-12-01T21:00:00-07:00
 1.8,Wagner2,Outdoor Temperature,2025-12-01T21:00:00-07:00
-2.6,Wagner2,Wind Speed,2025-12-01T20:00:00-07:00
+90.8,Wagner2,Relative Humidity,2025-12-01T21:00:00-07:00
 0.004,Wagner2,Nitrogen Dioxide,2025-12-01T20:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-01T20:00:00-07:00
-89.6,Wagner2,Relative Humidity,2025-12-01T20:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-01T20:00:00-07:00
-252.0,Wagner2,Wind Direction,2025-12-01T20:00:00-07:00
 0.004,Wagner2,Total Oxides of Nitrogen,2025-12-01T20:00:00-07:00
+0.0,Wagner2,Nitric Oxide,2025-12-01T20:00:00-07:00
+252.0,Wagner2,Wind Direction,2025-12-01T20:00:00-07:00
+2.6,Wagner2,Wind Speed,2025-12-01T20:00:00-07:00
+0.0,Wagner2,Sulphur Dioxide,2025-12-01T20:00:00-07:00
+89.6,Wagner2,Relative Humidity,2025-12-01T20:00:00-07:00
 2.2,Wagner2,Outdoor Temperature,2025-12-01T20:00:00-07:00
-2.9,Wagner2,Wind Speed,2025-12-01T19:00:00-07:00
-0.005,Wagner2,Nitrogen Dioxide,2025-12-01T19:00:00-07:00
-0.0,Wagner2,Nitric Oxide,2025-12-01T19:00:00-07:00
-90.3,Wagner2,Relative Humidity,2025-12-01T19:00:00-07:00
-249.0,Wagner2,Wind Direction,2025-12-01T19:00:00-07:00
-0.0,Wagner2,Sulphur Dioxide,2025-12-01T19:00:00-07:00
-0.004,Wagner2,Total Oxides of Nitrogen,2025-12-01T19:00:00-07:00
-2.3,Wagner2,Outdoor Temperature,2025-12-01T19:00:00-07:00
