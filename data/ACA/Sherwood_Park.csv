@@ -1,4 +1,16 @@
 Value,StationName,ParameterName,ReadingDate
+2.0,Sherwood Park,,2025-12-12T20:00:00-07:00
+,Sherwood Park,Wind Speed,2025-12-12T20:00:00-07:00
+,Sherwood Park,Fine Particulate Matter,2025-12-12T20:00:00-07:00
+,Sherwood Park,Ozone,2025-12-12T20:00:00-07:00
+,Sherwood Park,Outdoor Temperature,2025-12-12T20:00:00-07:00
+,Sherwood Park,Sulphur Dioxide,2025-12-12T20:00:00-07:00
+,Sherwood Park,Wind Direction,2025-12-12T20:00:00-07:00
+,Sherwood Park,Hydrogen Sulphide,2025-12-12T20:00:00-07:00
+,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T20:00:00-07:00
+,Sherwood Park,Total Hydrocarbons,2025-12-12T20:00:00-07:00
+,Sherwood Park,Nitrogen Dioxide,2025-12-12T20:00:00-07:00
+,Sherwood Park,Nitric Oxide,2025-12-12T20:00:00-07:00
 6.0,Sherwood Park,Wind Speed,2025-12-12T19:00:00-07:00
 -21.0,Sherwood Park,Outdoor Temperature,2025-12-12T19:00:00-07:00
 160.0,Sherwood Park,Wind Direction,2025-12-12T19:00:00-07:00
@@ -11,22 +23,18 @@ Value,StationName,ParameterName,ReadingDate
 0.008,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T19:00:00-07:00
 0.001,Sherwood Park,Nitric Oxide,2025-12-12T19:00:00-07:00
 2.0,Sherwood Park,,2025-12-12T19:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T18:00:00-07:00
+2.57,Sherwood Park,Total Hydrocarbons,2025-12-12T18:00:00-07:00
+0.026,Sherwood Park,Ozone,2025-12-12T18:00:00-07:00
+0.006,Sherwood Park,Nitrogen Dioxide,2025-12-12T18:00:00-07:00
+0.006,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T18:00:00-07:00
+5.0,Sherwood Park,Wind Speed,2025-12-12T18:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T18:00:00-07:00
+139.0,Sherwood Park,Wind Direction,2025-12-12T18:00:00-07:00
 0.0,Sherwood Park,Nitric Oxide,2025-12-12T18:00:00-07:00
 -21.0,Sherwood Park,Outdoor Temperature,2025-12-12T18:00:00-07:00
 5.0,Sherwood Park,Fine Particulate Matter,2025-12-12T18:00:00-07:00
 2.0,Sherwood Park,,2025-12-12T18:00:00-07:00
-139.0,Sherwood Park,Wind Direction,2025-12-12T18:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T18:00:00-07:00
-5.0,Sherwood Park,Wind Speed,2025-12-12T18:00:00-07:00
-0.006,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T18:00:00-07:00
-0.006,Sherwood Park,Nitrogen Dioxide,2025-12-12T18:00:00-07:00
-0.026,Sherwood Park,Ozone,2025-12-12T18:00:00-07:00
-2.57,Sherwood Park,Total Hydrocarbons,2025-12-12T18:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T18:00:00-07:00
-137.0,Sherwood Park,Wind Direction,2025-12-12T17:00:00-07:00
-0.005,Sherwood Park,Nitrogen Dioxide,2025-12-12T17:00:00-07:00
-0.028,Sherwood Park,Ozone,2025-12-12T17:00:00-07:00
-0.006,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T17:00:00-07:00
 4.6,Sherwood Park,Fine Particulate Matter,2025-12-12T17:00:00-07:00
 7.0,Sherwood Park,Wind Speed,2025-12-12T17:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T17:00:00-07:00
@@ -35,6 +43,10 @@ Value,StationName,ParameterName,ReadingDate
 -21.0,Sherwood Park,Outdoor Temperature,2025-12-12T17:00:00-07:00
 0.001,Sherwood Park,Nitric Oxide,2025-12-12T17:00:00-07:00
 2.0,Sherwood Park,,2025-12-12T17:00:00-07:00
+137.0,Sherwood Park,Wind Direction,2025-12-12T17:00:00-07:00
+0.005,Sherwood Park,Nitrogen Dioxide,2025-12-12T17:00:00-07:00
+0.028,Sherwood Park,Ozone,2025-12-12T17:00:00-07:00
+0.006,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T17:00:00-07:00
 2.55,Sherwood Park,Total Hydrocarbons,2025-12-12T16:00:00-07:00
 4.4,Sherwood Park,Fine Particulate Matter,2025-12-12T16:00:00-07:00
 130.0,Sherwood Park,Wind Direction,2025-12-12T16:00:00-07:00
@@ -47,18 +59,23 @@ Value,StationName,ParameterName,ReadingDate
 0.028,Sherwood Park,Ozone,2025-12-12T16:00:00-07:00
 7.0,Sherwood Park,Wind Speed,2025-12-12T16:00:00-07:00
 2.0,Sherwood Park,,2025-12-12T16:00:00-07:00
-4.2,Sherwood Park,Fine Particulate Matter,2025-12-12T15:00:00-07:00
-0.005,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T15:00:00-07:00
-126.0,Sherwood Park,Wind Direction,2025-12-12T15:00:00-07:00
-0.004,Sherwood Park,Nitrogen Dioxide,2025-12-12T15:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T15:00:00-07:00
-2.0,Sherwood Park,,2025-12-12T15:00:00-07:00
 0.001,Sherwood Park,Nitric Oxide,2025-12-12T15:00:00-07:00
 -21.0,Sherwood Park,Outdoor Temperature,2025-12-12T15:00:00-07:00
 2.55,Sherwood Park,Total Hydrocarbons,2025-12-12T15:00:00-07:00
 0.029,Sherwood Park,Ozone,2025-12-12T15:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T15:00:00-07:00
 8.0,Sherwood Park,Wind Speed,2025-12-12T15:00:00-07:00
+4.2,Sherwood Park,Fine Particulate Matter,2025-12-12T15:00:00-07:00
+0.005,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T15:00:00-07:00
+126.0,Sherwood Park,Wind Direction,2025-12-12T15:00:00-07:00
+0.004,Sherwood Park,Nitrogen Dioxide,2025-12-12T15:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T15:00:00-07:00
+2.0,Sherwood Park,,2025-12-12T15:00:00-07:00
+4.5,Sherwood Park,Fine Particulate Matter,2025-12-12T14:00:00-07:00
+131.0,Sherwood Park,Wind Direction,2025-12-12T14:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T14:00:00-07:00
+0.028,Sherwood Park,Ozone,2025-12-12T14:00:00-07:00
+2.0,Sherwood Park,,2025-12-12T14:00:00-07:00
 0.002,Sherwood Park,Nitric Oxide,2025-12-12T14:00:00-07:00
 2.56,Sherwood Park,Total Hydrocarbons,2025-12-12T14:00:00-07:00
 0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T14:00:00-07:00
@@ -66,11 +83,6 @@ Value,StationName,ParameterName,ReadingDate
 0.007,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T14:00:00-07:00
 8.0,Sherwood Park,Wind Speed,2025-12-12T14:00:00-07:00
 -21.0,Sherwood Park,Outdoor Temperature,2025-12-12T14:00:00-07:00
-4.5,Sherwood Park,Fine Particulate Matter,2025-12-12T14:00:00-07:00
-131.0,Sherwood Park,Wind Direction,2025-12-12T14:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T14:00:00-07:00
-0.028,Sherwood Park,Ozone,2025-12-12T14:00:00-07:00
-2.0,Sherwood Park,,2025-12-12T14:00:00-07:00
 0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T13:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T13:00:00-07:00
 5.0,Sherwood Park,Fine Particulate Matter,2025-12-12T13:00:00-07:00
@@ -83,35 +95,35 @@ Value,StationName,ParameterName,ReadingDate
 2.58,Sherwood Park,Total Hydrocarbons,2025-12-12T13:00:00-07:00
 0.001,Sherwood Park,Nitric Oxide,2025-12-12T13:00:00-07:00
 2.0,Sherwood Park,,2025-12-12T13:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T12:00:00-07:00
-0.007,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T12:00:00-07:00
-2.0,Sherwood Park,,2025-12-12T12:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-12T12:00:00-07:00
--23.0,Sherwood Park,Outdoor Temperature,2025-12-12T12:00:00-07:00
-7.0,Sherwood Park,Wind Speed,2025-12-12T12:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T12:00:00-07:00
-4.4,Sherwood Park,Fine Particulate Matter,2025-12-12T12:00:00-07:00
-0.005,Sherwood Park,Nitrogen Dioxide,2025-12-12T12:00:00-07:00
-140.0,Sherwood Park,Wind Direction,2025-12-12T12:00:00-07:00
-0.028,Sherwood Park,Ozone,2025-12-12T12:00:00-07:00
 2.6,Sherwood Park,Total Hydrocarbons,2025-12-12T12:00:00-07:00
+0.028,Sherwood Park,Ozone,2025-12-12T12:00:00-07:00
+140.0,Sherwood Park,Wind Direction,2025-12-12T12:00:00-07:00
+0.005,Sherwood Park,Nitrogen Dioxide,2025-12-12T12:00:00-07:00
+4.4,Sherwood Park,Fine Particulate Matter,2025-12-12T12:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T12:00:00-07:00
+7.0,Sherwood Park,Wind Speed,2025-12-12T12:00:00-07:00
+-23.0,Sherwood Park,Outdoor Temperature,2025-12-12T12:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-12T12:00:00-07:00
+0.007,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T12:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T12:00:00-07:00
+2.0,Sherwood Park,,2025-12-12T12:00:00-07:00
+2.0,Sherwood Park,,2025-12-12T11:00:00-07:00
 -23.0,Sherwood Park,Outdoor Temperature,2025-12-12T11:00:00-07:00
 0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T11:00:00-07:00
 2.62,Sherwood Park,Total Hydrocarbons,2025-12-12T11:00:00-07:00
 142.0,Sherwood Park,Wind Direction,2025-12-12T11:00:00-07:00
-0.002,Sherwood Park,Nitric Oxide,2025-12-12T11:00:00-07:00
-0.006,Sherwood Park,Nitrogen Dioxide,2025-12-12T11:00:00-07:00
-0.008,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T11:00:00-07:00
-0.026,Sherwood Park,Ozone,2025-12-12T11:00:00-07:00
-5.0,Sherwood Park,Wind Speed,2025-12-12T11:00:00-07:00
-4.1,Sherwood Park,Fine Particulate Matter,2025-12-12T11:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T11:00:00-07:00
-2.0,Sherwood Park,,2025-12-12T11:00:00-07:00
-2.0,Sherwood Park,,2025-12-12T10:00:00-07:00
+4.1,Sherwood Park,Fine Particulate Matter,2025-12-12T11:00:00-07:00
+5.0,Sherwood Park,Wind Speed,2025-12-12T11:00:00-07:00
+0.026,Sherwood Park,Ozone,2025-12-12T11:00:00-07:00
+0.008,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T11:00:00-07:00
+0.006,Sherwood Park,Nitrogen Dioxide,2025-12-12T11:00:00-07:00
+0.002,Sherwood Park,Nitric Oxide,2025-12-12T11:00:00-07:00
 152.0,Sherwood Park,Wind Direction,2025-12-12T10:00:00-07:00
 0.01,Sherwood Park,Nitrogen Dioxide,2025-12-12T10:00:00-07:00
 0.013,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T10:00:00-07:00
 2.65,Sherwood Park,Total Hydrocarbons,2025-12-12T10:00:00-07:00
+2.0,Sherwood Park,,2025-12-12T10:00:00-07:00
 0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T10:00:00-07:00
 4.6,Sherwood Park,Fine Particulate Matter,2025-12-12T10:00:00-07:00
 0.022,Sherwood Park,Ozone,2025-12-12T10:00:00-07:00
@@ -119,9 +131,6 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T10:00:00-07:00
 0.002,Sherwood Park,Nitric Oxide,2025-12-12T10:00:00-07:00
 -24.0,Sherwood Park,Outdoor Temperature,2025-12-12T10:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T09:00:00-07:00
-5.0,Sherwood Park,Wind Speed,2025-12-12T09:00:00-07:00
-0.002,Sherwood Park,Nitric Oxide,2025-12-12T09:00:00-07:00
 0.021,Sherwood Park,Ozone,2025-12-12T09:00:00-07:00
 2.66,Sherwood Park,Total Hydrocarbons,2025-12-12T09:00:00-07:00
 -26.0,Sherwood Park,Outdoor Temperature,2025-12-12T09:00:00-07:00
@@ -130,121 +139,124 @@ Value,StationName,ParameterName,ReadingDate
 138.0,Sherwood Park,Wind Direction,2025-12-12T09:00:00-07:00
 0.011,Sherwood Park,Nitrogen Dioxide,2025-12-12T09:00:00-07:00
 5.1,Sherwood Park,Fine Particulate Matter,2025-12-12T09:00:00-07:00
+0.002,Sherwood Park,Nitric Oxide,2025-12-12T09:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T09:00:00-07:00
+5.0,Sherwood Park,Wind Speed,2025-12-12T09:00:00-07:00
 2.0,Sherwood Park,,2025-12-12T09:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-12T08:00:00-07:00
-5.7,Sherwood Park,Fine Particulate Matter,2025-12-12T08:00:00-07:00
-0.012,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T08:00:00-07:00
-2.7,Sherwood Park,Total Hydrocarbons,2025-12-12T08:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T08:00:00-07:00
-2.0,Sherwood Park,,2025-12-12T08:00:00-07:00
--26.0,Sherwood Park,Outdoor Temperature,2025-12-12T08:00:00-07:00
-0.021,Sherwood Park,Ozone,2025-12-12T08:00:00-07:00
-0.011,Sherwood Park,Nitrogen Dioxide,2025-12-12T08:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T08:00:00-07:00
-162.0,Sherwood Park,Wind Direction,2025-12-12T08:00:00-07:00
 5.0,Sherwood Park,Wind Speed,2025-12-12T08:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-12T07:00:00-07:00
-4.2,Sherwood Park,Fine Particulate Matter,2025-12-12T07:00:00-07:00
+0.011,Sherwood Park,Nitrogen Dioxide,2025-12-12T08:00:00-07:00
+0.012,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T08:00:00-07:00
+162.0,Sherwood Park,Wind Direction,2025-12-12T08:00:00-07:00
+2.0,Sherwood Park,,2025-12-12T08:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-12T08:00:00-07:00
+0.021,Sherwood Park,Ozone,2025-12-12T08:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T08:00:00-07:00
+-26.0,Sherwood Park,Outdoor Temperature,2025-12-12T08:00:00-07:00
+5.7,Sherwood Park,Fine Particulate Matter,2025-12-12T08:00:00-07:00
+2.7,Sherwood Park,Total Hydrocarbons,2025-12-12T08:00:00-07:00
+5.0,Sherwood Park,Wind Speed,2025-12-12T07:00:00-07:00
 0.01,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T07:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-12T07:00:00-07:00
+0.023,Sherwood Park,Ozone,2025-12-12T07:00:00-07:00
+4.2,Sherwood Park,Fine Particulate Matter,2025-12-12T07:00:00-07:00
+-27.0,Sherwood Park,Outdoor Temperature,2025-12-12T07:00:00-07:00
 2.68,Sherwood Park,Total Hydrocarbons,2025-12-12T07:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T07:00:00-07:00
--27.0,Sherwood Park,Outdoor Temperature,2025-12-12T07:00:00-07:00
-0.023,Sherwood Park,Ozone,2025-12-12T07:00:00-07:00
 0.009,Sherwood Park,Nitrogen Dioxide,2025-12-12T07:00:00-07:00
-5.0,Sherwood Park,Wind Speed,2025-12-12T07:00:00-07:00
 145.0,Sherwood Park,Wind Direction,2025-12-12T07:00:00-07:00
 2.0,Sherwood Park,,2025-12-12T07:00:00-07:00
 0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T07:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-12T06:00:00-07:00
-3.8,Sherwood Park,Fine Particulate Matter,2025-12-12T06:00:00-07:00
 0.02,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T06:00:00-07:00
-2.74,Sherwood Park,Total Hydrocarbons,2025-12-12T06:00:00-07:00
-2.0,Sherwood Park,,2025-12-12T06:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T06:00:00-07:00
--27.0,Sherwood Park,Outdoor Temperature,2025-12-12T06:00:00-07:00
-0.016,Sherwood Park,Ozone,2025-12-12T06:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T06:00:00-07:00
-0.018,Sherwood Park,Nitrogen Dioxide,2025-12-12T06:00:00-07:00
 2.0,Sherwood Park,Wind Speed,2025-12-12T06:00:00-07:00
+0.018,Sherwood Park,Nitrogen Dioxide,2025-12-12T06:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-12T06:00:00-07:00
+2.0,Sherwood Park,,2025-12-12T06:00:00-07:00
 127.0,Sherwood Park,Wind Direction,2025-12-12T06:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T05:00:00-07:00
-0.014,Sherwood Park,Ozone,2025-12-12T05:00:00-07:00
--28.0,Sherwood Park,Outdoor Temperature,2025-12-12T05:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T05:00:00-07:00
-2.0,Sherwood Park,,2025-12-12T05:00:00-07:00
-2.0,Sherwood Park,Wind Speed,2025-12-12T05:00:00-07:00
-2.73,Sherwood Park,Total Hydrocarbons,2025-12-12T05:00:00-07:00
+0.016,Sherwood Park,Ozone,2025-12-12T06:00:00-07:00
+3.8,Sherwood Park,Fine Particulate Matter,2025-12-12T06:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T06:00:00-07:00
+-27.0,Sherwood Park,Outdoor Temperature,2025-12-12T06:00:00-07:00
+2.74,Sherwood Park,Total Hydrocarbons,2025-12-12T06:00:00-07:00
 0.021,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T05:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T05:00:00-07:00
+3.2,Sherwood Park,Fine Particulate Matter,2025-12-12T05:00:00-07:00
+87.0,Sherwood Park,Wind Direction,2025-12-12T05:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T05:00:00-07:00
+2.73,Sherwood Park,Total Hydrocarbons,2025-12-12T05:00:00-07:00
 0.001,Sherwood Park,Nitric Oxide,2025-12-12T05:00:00-07:00
 0.02,Sherwood Park,Nitrogen Dioxide,2025-12-12T05:00:00-07:00
-87.0,Sherwood Park,Wind Direction,2025-12-12T05:00:00-07:00
-3.2,Sherwood Park,Fine Particulate Matter,2025-12-12T05:00:00-07:00
-0.019,Sherwood Park,Ozone,2025-12-12T04:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T04:00:00-07:00
--27.0,Sherwood Park,Outdoor Temperature,2025-12-12T04:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T04:00:00-07:00
-69.0,Sherwood Park,Wind Direction,2025-12-12T04:00:00-07:00
-2.0,Sherwood Park,Wind Speed,2025-12-12T04:00:00-07:00
-0.015,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T04:00:00-07:00
+2.0,Sherwood Park,,2025-12-12T05:00:00-07:00
+-28.0,Sherwood Park,Outdoor Temperature,2025-12-12T05:00:00-07:00
+0.014,Sherwood Park,Ozone,2025-12-12T05:00:00-07:00
+2.0,Sherwood Park,Wind Speed,2025-12-12T05:00:00-07:00
 2.0,Sherwood Park,,2025-12-12T04:00:00-07:00
-2.7,Sherwood Park,Total Hydrocarbons,2025-12-12T04:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-12T04:00:00-07:00
-3.1,Sherwood Park,Fine Particulate Matter,2025-12-12T04:00:00-07:00
+69.0,Sherwood Park,Wind Direction,2025-12-12T04:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T04:00:00-07:00
 0.014,Sherwood Park,Nitrogen Dioxide,2025-12-12T04:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T03:00:00-07:00
-45.0,Sherwood Park,Wind Direction,2025-12-12T03:00:00-07:00
+-27.0,Sherwood Park,Outdoor Temperature,2025-12-12T04:00:00-07:00
+2.7,Sherwood Park,Total Hydrocarbons,2025-12-12T04:00:00-07:00
+0.015,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T04:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T04:00:00-07:00
+0.019,Sherwood Park,Ozone,2025-12-12T04:00:00-07:00
+3.1,Sherwood Park,Fine Particulate Matter,2025-12-12T04:00:00-07:00
+2.0,Sherwood Park,Wind Speed,2025-12-12T04:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-12T04:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T03:00:00-07:00
-0.013,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T03:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-12T03:00:00-07:00
-0.012,Sherwood Park,Nitrogen Dioxide,2025-12-12T03:00:00-07:00
-3.2,Sherwood Park,Fine Particulate Matter,2025-12-12T03:00:00-07:00
-2.68,Sherwood Park,Total Hydrocarbons,2025-12-12T03:00:00-07:00
-0.021,Sherwood Park,Ozone,2025-12-12T03:00:00-07:00
--27.0,Sherwood Park,Outdoor Temperature,2025-12-12T03:00:00-07:00
-4.0,Sherwood Park,Wind Speed,2025-12-12T03:00:00-07:00
+45.0,Sherwood Park,Wind Direction,2025-12-12T03:00:00-07:00
 2.0,Sherwood Park,,2025-12-12T03:00:00-07:00
-3.2,Sherwood Park,Fine Particulate Matter,2025-12-12T02:00:00-07:00
-2.7,Sherwood Park,Total Hydrocarbons,2025-12-12T02:00:00-07:00
-,Sherwood Park,Nitrogen Dioxide,2025-12-12T02:00:00-07:00
-,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T02:00:00-07:00
-0.025,Sherwood Park,Ozone,2025-12-12T02:00:00-07:00
--25.0,Sherwood Park,Outdoor Temperature,2025-12-12T02:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-12T02:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-12T02:00:00-07:00
+0.013,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T03:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T03:00:00-07:00
+4.0,Sherwood Park,Wind Speed,2025-12-12T03:00:00-07:00
+3.2,Sherwood Park,Fine Particulate Matter,2025-12-12T03:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-12T03:00:00-07:00
+2.68,Sherwood Park,Total Hydrocarbons,2025-12-12T03:00:00-07:00
+-27.0,Sherwood Park,Outdoor Temperature,2025-12-12T03:00:00-07:00
+0.012,Sherwood Park,Nitrogen Dioxide,2025-12-12T03:00:00-07:00
+0.021,Sherwood Park,Ozone,2025-12-12T03:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T02:00:00-07:00
 6.0,Sherwood Park,Wind Speed,2025-12-12T02:00:00-07:00
+3.2,Sherwood Park,Fine Particulate Matter,2025-12-12T02:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-12T02:00:00-07:00
+2.7,Sherwood Park,Total Hydrocarbons,2025-12-12T02:00:00-07:00
+,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T02:00:00-07:00
 3.0,Sherwood Park,,2025-12-12T02:00:00-07:00
 88.0,Sherwood Park,Wind Direction,2025-12-12T02:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T02:00:00-07:00
-3.6,Sherwood Park,Fine Particulate Matter,2025-12-12T01:00:00-07:00
-0.012,Sherwood Park,Nitrogen Dioxide,2025-12-12T01:00:00-07:00
-2.73,Sherwood Park,Total Hydrocarbons,2025-12-12T01:00:00-07:00
-0.023,Sherwood Park,Ozone,2025-12-12T01:00:00-07:00
-0.013,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T01:00:00-07:00
--24.0,Sherwood Park,Outdoor Temperature,2025-12-12T01:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T01:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-12T01:00:00-07:00
-6.0,Sherwood Park,Wind Speed,2025-12-12T01:00:00-07:00
-2.0,Sherwood Park,,2025-12-12T01:00:00-07:00
+-25.0,Sherwood Park,Outdoor Temperature,2025-12-12T02:00:00-07:00
+,Sherwood Park,Nitrogen Dioxide,2025-12-12T02:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-12T02:00:00-07:00
+0.025,Sherwood Park,Ozone,2025-12-12T02:00:00-07:00
 0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T01:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-12T01:00:00-07:00
+2.0,Sherwood Park,,2025-12-12T01:00:00-07:00
 172.0,Sherwood Park,Wind Direction,2025-12-12T01:00:00-07:00
-0.016,Sherwood Park,Nitrogen Dioxide,2025-12-12T00:00:00-07:00
-2.0,Sherwood Park,,2025-12-12T00:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-12T00:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T00:00:00-07:00
-56.0,Sherwood Park,Wind Direction,2025-12-12T00:00:00-07:00
-2.0,Sherwood Park,Wind Speed,2025-12-12T00:00:00-07:00
+0.012,Sherwood Park,Nitrogen Dioxide,2025-12-12T01:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T01:00:00-07:00
+0.013,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T01:00:00-07:00
+6.0,Sherwood Park,Wind Speed,2025-12-12T01:00:00-07:00
+3.6,Sherwood Park,Fine Particulate Matter,2025-12-12T01:00:00-07:00
+2.73,Sherwood Park,Total Hydrocarbons,2025-12-12T01:00:00-07:00
+-24.0,Sherwood Park,Outdoor Temperature,2025-12-12T01:00:00-07:00
+0.023,Sherwood Park,Ozone,2025-12-12T01:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-12T00:00:00-07:00
--26.0,Sherwood Park,Outdoor Temperature,2025-12-12T00:00:00-07:00
+56.0,Sherwood Park,Wind Direction,2025-12-12T00:00:00-07:00
 0.017,Sherwood Park,Total Oxides of Nitrogen,2025-12-12T00:00:00-07:00
-0.018,Sherwood Park,Ozone,2025-12-12T00:00:00-07:00
-2.71,Sherwood Park,Total Hydrocarbons,2025-12-12T00:00:00-07:00
+2.0,Sherwood Park,,2025-12-12T00:00:00-07:00
 5.5,Sherwood Park,Fine Particulate Matter,2025-12-12T00:00:00-07:00
-3.0,Sherwood Park,Wind Speed,2025-12-11T23:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-11T23:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-12T00:00:00-07:00
+2.0,Sherwood Park,Wind Speed,2025-12-12T00:00:00-07:00
+2.71,Sherwood Park,Total Hydrocarbons,2025-12-12T00:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-12T00:00:00-07:00
+0.018,Sherwood Park,Ozone,2025-12-12T00:00:00-07:00
+-26.0,Sherwood Park,Outdoor Temperature,2025-12-12T00:00:00-07:00
+0.016,Sherwood Park,Nitrogen Dioxide,2025-12-12T00:00:00-07:00
 0.014,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T23:00:00-07:00
 2.7,Sherwood Park,Total Hydrocarbons,2025-12-11T23:00:00-07:00
 3.1,Sherwood Park,Fine Particulate Matter,2025-12-11T23:00:00-07:00
 0.012,Sherwood Park,Nitrogen Dioxide,2025-12-11T23:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-11T23:00:00-07:00
+3.0,Sherwood Park,Wind Speed,2025-12-11T23:00:00-07:00
 -25.0,Sherwood Park,Outdoor Temperature,2025-12-11T23:00:00-07:00
 0.022,Sherwood Park,Ozone,2025-12-11T23:00:00-07:00
 0.001,Sherwood Park,Nitric Oxide,2025-12-11T23:00:00-07:00
@@ -252,18 +264,19 @@ Value,StationName,ParameterName,ReadingDate
 48.0,Sherwood Park,Wind Direction,2025-12-11T23:00:00-07:00
 2.0,Sherwood Park,,2025-12-11T23:00:00-07:00
 2.0,Sherwood Park,,2025-12-11T22:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-11T22:00:00-07:00
-215.0,Sherwood Park,Wind Direction,2025-12-11T22:00:00-07:00
--23.0,Sherwood Park,Outdoor Temperature,2025-12-11T22:00:00-07:00
 8.0,Sherwood Park,Wind Speed,2025-12-11T22:00:00-07:00
-3.2,Sherwood Park,Fine Particulate Matter,2025-12-11T22:00:00-07:00
-0.002,Sherwood Park,Nitric Oxide,2025-12-11T22:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T22:00:00-07:00
 0.011,Sherwood Park,Nitrogen Dioxide,2025-12-11T22:00:00-07:00
 0.013,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T22:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-11T22:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T22:00:00-07:00
+215.0,Sherwood Park,Wind Direction,2025-12-11T22:00:00-07:00
+3.2,Sherwood Park,Fine Particulate Matter,2025-12-11T22:00:00-07:00
 0.023,Sherwood Park,Ozone,2025-12-11T22:00:00-07:00
+-23.0,Sherwood Park,Outdoor Temperature,2025-12-11T22:00:00-07:00
 2.75,Sherwood Park,Total Hydrocarbons,2025-12-11T22:00:00-07:00
+0.002,Sherwood Park,Nitric Oxide,2025-12-11T22:00:00-07:00
 9.0,Sherwood Park,Wind Speed,2025-12-11T21:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T21:00:00-07:00
 0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T21:00:00-07:00
 0.008,Sherwood Park,Nitrogen Dioxide,2025-12-11T21:00:00-07:00
 -22.0,Sherwood Park,Outdoor Temperature,2025-12-11T21:00:00-07:00
@@ -274,78 +287,77 @@ Value,StationName,ParameterName,ReadingDate
 0.002,Sherwood Park,Nitric Oxide,2025-12-11T21:00:00-07:00
 8.3,Sherwood Park,Fine Particulate Matter,2025-12-11T21:00:00-07:00
 2.0,Sherwood Park,,2025-12-11T21:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T21:00:00-07:00
+11.0,Sherwood Park,Wind Speed,2025-12-11T20:00:00-07:00
+-22.0,Sherwood Park,Outdoor Temperature,2025-12-11T20:00:00-07:00
 0.012,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T20:00:00-07:00
 2.7,Sherwood Park,Total Hydrocarbons,2025-12-11T20:00:00-07:00
 7.3,Sherwood Park,Fine Particulate Matter,2025-12-11T20:00:00-07:00
-11.0,Sherwood Park,Wind Speed,2025-12-11T20:00:00-07:00
+2.0,Sherwood Park,,2025-12-11T20:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T20:00:00-07:00
 292.0,Sherwood Park,Wind Direction,2025-12-11T20:00:00-07:00
 0.002,Sherwood Park,Nitric Oxide,2025-12-11T20:00:00-07:00
 0.009,Sherwood Park,Sulphur Dioxide,2025-12-11T20:00:00-07:00
 0.01,Sherwood Park,Nitrogen Dioxide,2025-12-11T20:00:00-07:00
 0.025,Sherwood Park,Ozone,2025-12-11T20:00:00-07:00
--22.0,Sherwood Park,Outdoor Temperature,2025-12-11T20:00:00-07:00
-2.0,Sherwood Park,,2025-12-11T20:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T20:00:00-07:00
+2.0,Sherwood Park,,2025-12-11T19:00:00-07:00
 0.012,Sherwood Park,Nitrogen Dioxide,2025-12-11T19:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T19:00:00-07:00
 0.014,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T19:00:00-07:00
 2.7,Sherwood Park,Total Hydrocarbons,2025-12-11T19:00:00-07:00
 316.0,Sherwood Park,Wind Direction,2025-12-11T19:00:00-07:00
 -22.0,Sherwood Park,Outdoor Temperature,2025-12-11T19:00:00-07:00
+11.0,Sherwood Park,Wind Speed,2025-12-11T19:00:00-07:00
 3.8,Sherwood Park,Fine Particulate Matter,2025-12-11T19:00:00-07:00
 0.002,Sherwood Park,Nitric Oxide,2025-12-11T19:00:00-07:00
 0.043,Sherwood Park,Sulphur Dioxide,2025-12-11T19:00:00-07:00
 0.022,Sherwood Park,Ozone,2025-12-11T19:00:00-07:00
-11.0,Sherwood Park,Wind Speed,2025-12-11T19:00:00-07:00
-2.0,Sherwood Park,,2025-12-11T19:00:00-07:00
-0.002,Sherwood Park,Nitric Oxide,2025-12-11T18:00:00-07:00
-0.023,Sherwood Park,Ozone,2025-12-11T18:00:00-07:00
+2.71,Sherwood Park,Total Hydrocarbons,2025-12-11T18:00:00-07:00
+306.0,Sherwood Park,Wind Direction,2025-12-11T18:00:00-07:00
+0.009,Sherwood Park,Sulphur Dioxide,2025-12-11T18:00:00-07:00
+0.012,Sherwood Park,Nitrogen Dioxide,2025-12-11T18:00:00-07:00
+0.014,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T18:00:00-07:00
+3.9,Sherwood Park,Fine Particulate Matter,2025-12-11T18:00:00-07:00
 -22.0,Sherwood Park,Outdoor Temperature,2025-12-11T18:00:00-07:00
-2.0,Sherwood Park,,2025-12-11T18:00:00-07:00
+0.023,Sherwood Park,Ozone,2025-12-11T18:00:00-07:00
+0.002,Sherwood Park,Nitric Oxide,2025-12-11T18:00:00-07:00
 10.0,Sherwood Park,Wind Speed,2025-12-11T18:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T18:00:00-07:00
-3.9,Sherwood Park,Fine Particulate Matter,2025-12-11T18:00:00-07:00
-0.014,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T18:00:00-07:00
-0.012,Sherwood Park,Nitrogen Dioxide,2025-12-11T18:00:00-07:00
-0.009,Sherwood Park,Sulphur Dioxide,2025-12-11T18:00:00-07:00
-306.0,Sherwood Park,Wind Direction,2025-12-11T18:00:00-07:00
-2.71,Sherwood Park,Total Hydrocarbons,2025-12-11T18:00:00-07:00
-4.7,Sherwood Park,Fine Particulate Matter,2025-12-11T17:00:00-07:00
-0.019,Sherwood Park,Sulphur Dioxide,2025-12-11T17:00:00-07:00
-0.018,Sherwood Park,Nitrogen Dioxide,2025-12-11T17:00:00-07:00
--23.0,Sherwood Park,Outdoor Temperature,2025-12-11T17:00:00-07:00
-0.021,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T17:00:00-07:00
-0.018,Sherwood Park,Ozone,2025-12-11T17:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T17:00:00-07:00
-314.0,Sherwood Park,Wind Direction,2025-12-11T17:00:00-07:00
-2.72,Sherwood Park,Total Hydrocarbons,2025-12-11T17:00:00-07:00
-0.004,Sherwood Park,Nitric Oxide,2025-12-11T17:00:00-07:00
-2.0,Sherwood Park,,2025-12-11T17:00:00-07:00
+2.0,Sherwood Park,,2025-12-11T18:00:00-07:00
 9.0,Sherwood Park,Wind Speed,2025-12-11T17:00:00-07:00
-3.7,Sherwood Park,Fine Particulate Matter,2025-12-11T16:00:00-07:00
--22.0,Sherwood Park,Outdoor Temperature,2025-12-11T16:00:00-07:00
-0.015,Sherwood Park,Sulphur Dioxide,2025-12-11T16:00:00-07:00
-0.012,Sherwood Park,Nitrogen Dioxide,2025-12-11T16:00:00-07:00
-0.004,Sherwood Park,Nitric Oxide,2025-12-11T16:00:00-07:00
-0.016,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T16:00:00-07:00
-2.0,Sherwood Park,,2025-12-11T16:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T16:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T17:00:00-07:00
+0.018,Sherwood Park,Ozone,2025-12-11T17:00:00-07:00
+0.021,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T17:00:00-07:00
+-23.0,Sherwood Park,Outdoor Temperature,2025-12-11T17:00:00-07:00
+0.018,Sherwood Park,Nitrogen Dioxide,2025-12-11T17:00:00-07:00
+0.019,Sherwood Park,Sulphur Dioxide,2025-12-11T17:00:00-07:00
+4.7,Sherwood Park,Fine Particulate Matter,2025-12-11T17:00:00-07:00
+0.004,Sherwood Park,Nitric Oxide,2025-12-11T17:00:00-07:00
+2.72,Sherwood Park,Total Hydrocarbons,2025-12-11T17:00:00-07:00
+314.0,Sherwood Park,Wind Direction,2025-12-11T17:00:00-07:00
+2.0,Sherwood Park,,2025-12-11T17:00:00-07:00
 12.0,Sherwood Park,Wind Speed,2025-12-11T16:00:00-07:00
+0.016,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T16:00:00-07:00
+0.004,Sherwood Park,Nitric Oxide,2025-12-11T16:00:00-07:00
+0.012,Sherwood Park,Nitrogen Dioxide,2025-12-11T16:00:00-07:00
+0.015,Sherwood Park,Sulphur Dioxide,2025-12-11T16:00:00-07:00
+-22.0,Sherwood Park,Outdoor Temperature,2025-12-11T16:00:00-07:00
+3.7,Sherwood Park,Fine Particulate Matter,2025-12-11T16:00:00-07:00
 2.69,Sherwood Park,Total Hydrocarbons,2025-12-11T16:00:00-07:00
 306.0,Sherwood Park,Wind Direction,2025-12-11T16:00:00-07:00
 0.022,Sherwood Park,Ozone,2025-12-11T16:00:00-07:00
-308.0,Sherwood Park,Wind Direction,2025-12-11T15:00:00-07:00
-3.2,Sherwood Park,Fine Particulate Matter,2025-12-11T15:00:00-07:00
-0.026,Sherwood Park,Ozone,2025-12-11T15:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T16:00:00-07:00
+2.0,Sherwood Park,,2025-12-11T16:00:00-07:00
 0.003,Sherwood Park,Nitric Oxide,2025-12-11T15:00:00-07:00
-2.0,Sherwood Park,,2025-12-11T15:00:00-07:00
+0.026,Sherwood Park,Ozone,2025-12-11T15:00:00-07:00
 0.01,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T15:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T15:00:00-07:00
 2.67,Sherwood Park,Total Hydrocarbons,2025-12-11T15:00:00-07:00
+3.2,Sherwood Park,Fine Particulate Matter,2025-12-11T15:00:00-07:00
 -22.0,Sherwood Park,Outdoor Temperature,2025-12-11T15:00:00-07:00
 0.004,Sherwood Park,Sulphur Dioxide,2025-12-11T15:00:00-07:00
 0.007,Sherwood Park,Nitrogen Dioxide,2025-12-11T15:00:00-07:00
+308.0,Sherwood Park,Wind Direction,2025-12-11T15:00:00-07:00
+2.0,Sherwood Park,,2025-12-11T15:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T15:00:00-07:00
 15.0,Sherwood Park,Wind Speed,2025-12-11T15:00:00-07:00
 17.0,Sherwood Park,Wind Speed,2025-12-11T14:00:00-07:00
 2.0,Sherwood Park,,2025-12-11T14:00:00-07:00
@@ -353,15 +365,17 @@ Value,StationName,ParameterName,ReadingDate
 0.007,Sherwood Park,Nitrogen Dioxide,2025-12-11T14:00:00-07:00
 0.006,Sherwood Park,Sulphur Dioxide,2025-12-11T14:00:00-07:00
 3.3,Sherwood Park,Fine Particulate Matter,2025-12-11T14:00:00-07:00
+2.64,Sherwood Park,Total Hydrocarbons,2025-12-11T14:00:00-07:00
+309.0,Sherwood Park,Wind Direction,2025-12-11T14:00:00-07:00
+0.005,Sherwood Park,Nitric Oxide,2025-12-11T14:00:00-07:00
+0.026,Sherwood Park,Ozone,2025-12-11T14:00:00-07:00
 -22.0,Sherwood Park,Outdoor Temperature,2025-12-11T14:00:00-07:00
 0.012,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T14:00:00-07:00
-0.026,Sherwood Park,Ozone,2025-12-11T14:00:00-07:00
-0.005,Sherwood Park,Nitric Oxide,2025-12-11T14:00:00-07:00
-309.0,Sherwood Park,Wind Direction,2025-12-11T14:00:00-07:00
-2.64,Sherwood Park,Total Hydrocarbons,2025-12-11T14:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T13:00:00-07:00
-2.0,Sherwood Park,,2025-12-11T13:00:00-07:00
 15.0,Sherwood Park,Wind Speed,2025-12-11T13:00:00-07:00
+2.0,Sherwood Park,,2025-12-11T13:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T13:00:00-07:00
+0.012,Sherwood Park,Sulphur Dioxide,2025-12-11T13:00:00-07:00
+0.005,Sherwood Park,Nitric Oxide,2025-12-11T13:00:00-07:00
 2.64,Sherwood Park,Total Hydrocarbons,2025-12-11T13:00:00-07:00
 3.0,Sherwood Park,Fine Particulate Matter,2025-12-11T13:00:00-07:00
 309.0,Sherwood Park,Wind Direction,2025-12-11T13:00:00-07:00
@@ -369,8 +383,6 @@ Value,StationName,ParameterName,ReadingDate
 0.027,Sherwood Park,Ozone,2025-12-11T13:00:00-07:00
 -22.0,Sherwood Park,Outdoor Temperature,2025-12-11T13:00:00-07:00
 0.012,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T13:00:00-07:00
-0.005,Sherwood Park,Nitric Oxide,2025-12-11T13:00:00-07:00
-0.012,Sherwood Park,Sulphur Dioxide,2025-12-11T13:00:00-07:00
 2.7,Sherwood Park,Fine Particulate Matter,2025-12-11T12:00:00-07:00
 299.0,Sherwood Park,Wind Direction,2025-12-11T12:00:00-07:00
 0.027,Sherwood Park,Ozone,2025-12-11T12:00:00-07:00
@@ -378,87 +390,85 @@ Value,StationName,ParameterName,ReadingDate
 0.011,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T12:00:00-07:00
 0.011,Sherwood Park,Sulphur Dioxide,2025-12-11T12:00:00-07:00
 2.58,Sherwood Park,Total Hydrocarbons,2025-12-11T12:00:00-07:00
-17.0,Sherwood Park,Wind Speed,2025-12-11T12:00:00-07:00
 0.004,Sherwood Park,Nitric Oxide,2025-12-11T12:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T12:00:00-07:00
+17.0,Sherwood Park,Wind Speed,2025-12-11T12:00:00-07:00
 0.007,Sherwood Park,Nitrogen Dioxide,2025-12-11T12:00:00-07:00
 2.0,Sherwood Park,,2025-12-11T12:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T12:00:00-07:00
-2.0,Sherwood Park,,2025-12-11T11:00:00-07:00
-16.0,Sherwood Park,Wind Speed,2025-12-11T11:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-11T11:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T11:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-11T11:00:00-07:00
+2.0,Sherwood Park,,2025-12-11T11:00:00-07:00
 0.023,Sherwood Park,Ozone,2025-12-11T11:00:00-07:00
 2.58,Sherwood Park,Total Hydrocarbons,2025-12-11T11:00:00-07:00
 0.008,Sherwood Park,Nitrogen Dioxide,2025-12-11T11:00:00-07:00
-293.0,Sherwood Park,Wind Direction,2025-12-11T11:00:00-07:00
-0.004,Sherwood Park,Nitric Oxide,2025-12-11T11:00:00-07:00
--24.0,Sherwood Park,Outdoor Temperature,2025-12-11T11:00:00-07:00
-3.7,Sherwood Park,Fine Particulate Matter,2025-12-11T11:00:00-07:00
 0.012,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T11:00:00-07:00
-2.0,Sherwood Park,,2025-12-11T10:00:00-07:00
+3.7,Sherwood Park,Fine Particulate Matter,2025-12-11T11:00:00-07:00
+-24.0,Sherwood Park,Outdoor Temperature,2025-12-11T11:00:00-07:00
+0.004,Sherwood Park,Nitric Oxide,2025-12-11T11:00:00-07:00
+293.0,Sherwood Park,Wind Direction,2025-12-11T11:00:00-07:00
+16.0,Sherwood Park,Wind Speed,2025-12-11T11:00:00-07:00
+3.3,Sherwood Park,Fine Particulate Matter,2025-12-11T10:00:00-07:00
+0.009,Sherwood Park,Nitrogen Dioxide,2025-12-11T10:00:00-07:00
+0.022,Sherwood Park,Ozone,2025-12-11T10:00:00-07:00
+0.013,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T10:00:00-07:00
+0.007,Sherwood Park,Sulphur Dioxide,2025-12-11T10:00:00-07:00
+2.53,Sherwood Park,Total Hydrocarbons,2025-12-11T10:00:00-07:00
+310.0,Sherwood Park,Wind Direction,2025-12-11T10:00:00-07:00
+-24.0,Sherwood Park,Outdoor Temperature,2025-12-11T10:00:00-07:00
 0.004,Sherwood Park,Nitric Oxide,2025-12-11T10:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T10:00:00-07:00
-310.0,Sherwood Park,Wind Direction,2025-12-11T10:00:00-07:00
-0.007,Sherwood Park,Sulphur Dioxide,2025-12-11T10:00:00-07:00
-0.009,Sherwood Park,Nitrogen Dioxide,2025-12-11T10:00:00-07:00
-3.3,Sherwood Park,Fine Particulate Matter,2025-12-11T10:00:00-07:00
-0.022,Sherwood Park,Ozone,2025-12-11T10:00:00-07:00
 17.0,Sherwood Park,Wind Speed,2025-12-11T10:00:00-07:00
-0.013,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T10:00:00-07:00
-2.53,Sherwood Park,Total Hydrocarbons,2025-12-11T10:00:00-07:00
--24.0,Sherwood Park,Outdoor Temperature,2025-12-11T10:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T09:00:00-07:00
+2.0,Sherwood Park,,2025-12-11T10:00:00-07:00
+16.0,Sherwood Park,Wind Speed,2025-12-11T09:00:00-07:00
 4.4,Sherwood Park,Fine Particulate Matter,2025-12-11T09:00:00-07:00
+2.0,Sherwood Park,,2025-12-11T09:00:00-07:00
 0.02,Sherwood Park,Ozone,2025-12-11T09:00:00-07:00
 -24.0,Sherwood Park,Outdoor Temperature,2025-12-11T09:00:00-07:00
 0.014,Sherwood Park,Sulphur Dioxide,2025-12-11T09:00:00-07:00
 0.003,Sherwood Park,Nitric Oxide,2025-12-11T09:00:00-07:00
 0.013,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T09:00:00-07:00
-2.54,Sherwood Park,Total Hydrocarbons,2025-12-11T09:00:00-07:00
-0.011,Sherwood Park,Nitrogen Dioxide,2025-12-11T09:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T09:00:00-07:00
 312.0,Sherwood Park,Wind Direction,2025-12-11T09:00:00-07:00
-16.0,Sherwood Park,Wind Speed,2025-12-11T09:00:00-07:00
-2.0,Sherwood Park,,2025-12-11T09:00:00-07:00
-313.0,Sherwood Park,Wind Direction,2025-12-11T08:00:00-07:00
-4.0,Sherwood Park,Fine Particulate Matter,2025-12-11T08:00:00-07:00
-0.019,Sherwood Park,Ozone,2025-12-11T08:00:00-07:00
-0.003,Sherwood Park,Nitric Oxide,2025-12-11T08:00:00-07:00
-0.016,Sherwood Park,Sulphur Dioxide,2025-12-11T08:00:00-07:00
-0.011,Sherwood Park,Nitrogen Dioxide,2025-12-11T08:00:00-07:00
-2.53,Sherwood Park,Total Hydrocarbons,2025-12-11T08:00:00-07:00
--23.0,Sherwood Park,Outdoor Temperature,2025-12-11T08:00:00-07:00
+0.011,Sherwood Park,Nitrogen Dioxide,2025-12-11T09:00:00-07:00
+2.54,Sherwood Park,Total Hydrocarbons,2025-12-11T09:00:00-07:00
 0.013,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T08:00:00-07:00
+0.003,Sherwood Park,Nitric Oxide,2025-12-11T08:00:00-07:00
+0.019,Sherwood Park,Ozone,2025-12-11T08:00:00-07:00
+4.0,Sherwood Park,Fine Particulate Matter,2025-12-11T08:00:00-07:00
+313.0,Sherwood Park,Wind Direction,2025-12-11T08:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T08:00:00-07:00
 15.0,Sherwood Park,Wind Speed,2025-12-11T08:00:00-07:00
 2.0,Sherwood Park,,2025-12-11T08:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T08:00:00-07:00
-0.007,Sherwood Park,Sulphur Dioxide,2025-12-11T07:00:00-07:00
-3.8,Sherwood Park,Fine Particulate Matter,2025-12-11T07:00:00-07:00
-0.008,Sherwood Park,Nitrogen Dioxide,2025-12-11T07:00:00-07:00
-2.51,Sherwood Park,Total Hydrocarbons,2025-12-11T07:00:00-07:00
-0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T07:00:00-07:00
-309.0,Sherwood Park,Wind Direction,2025-12-11T07:00:00-07:00
-0.002,Sherwood Park,Nitric Oxide,2025-12-11T07:00:00-07:00
-0.021,Sherwood Park,Ozone,2025-12-11T07:00:00-07:00
--23.0,Sherwood Park,Outdoor Temperature,2025-12-11T07:00:00-07:00
+-23.0,Sherwood Park,Outdoor Temperature,2025-12-11T08:00:00-07:00
+2.53,Sherwood Park,Total Hydrocarbons,2025-12-11T08:00:00-07:00
+0.011,Sherwood Park,Nitrogen Dioxide,2025-12-11T08:00:00-07:00
+0.016,Sherwood Park,Sulphur Dioxide,2025-12-11T08:00:00-07:00
 17.0,Sherwood Park,Wind Speed,2025-12-11T07:00:00-07:00
 2.0,Sherwood Park,,2025-12-11T07:00:00-07:00
+-23.0,Sherwood Park,Outdoor Temperature,2025-12-11T07:00:00-07:00
+0.021,Sherwood Park,Ozone,2025-12-11T07:00:00-07:00
+0.002,Sherwood Park,Nitric Oxide,2025-12-11T07:00:00-07:00
+309.0,Sherwood Park,Wind Direction,2025-12-11T07:00:00-07:00
+0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T07:00:00-07:00
+2.51,Sherwood Park,Total Hydrocarbons,2025-12-11T07:00:00-07:00
+0.008,Sherwood Park,Nitrogen Dioxide,2025-12-11T07:00:00-07:00
+3.8,Sherwood Park,Fine Particulate Matter,2025-12-11T07:00:00-07:00
+0.007,Sherwood Park,Sulphur Dioxide,2025-12-11T07:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T07:00:00-07:00
-299.0,Sherwood Park,Wind Direction,2025-12-11T06:00:00-07:00
-2.47,Sherwood Park,Total Hydrocarbons,2025-12-11T06:00:00-07:00
 0.024,Sherwood Park,Ozone,2025-12-11T06:00:00-07:00
+2.47,Sherwood Park,Total Hydrocarbons,2025-12-11T06:00:00-07:00
+299.0,Sherwood Park,Wind Direction,2025-12-11T06:00:00-07:00
+2.0,Sherwood Park,,2025-12-11T06:00:00-07:00
 0.006,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T06:00:00-07:00
 -24.0,Sherwood Park,Outdoor Temperature,2025-12-11T06:00:00-07:00
 0.005,Sherwood Park,Nitrogen Dioxide,2025-12-11T06:00:00-07:00
 3.6,Sherwood Park,Fine Particulate Matter,2025-12-11T06:00:00-07:00
-15.0,Sherwood Park,Wind Speed,2025-12-11T06:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-11T06:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T06:00:00-07:00
 0.001,Sherwood Park,Nitric Oxide,2025-12-11T06:00:00-07:00
-2.0,Sherwood Park,,2025-12-11T06:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-11T05:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-11T05:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T05:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-11T06:00:00-07:00
+15.0,Sherwood Park,Wind Speed,2025-12-11T06:00:00-07:00
 2.0,Sherwood Park,,2025-12-11T05:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T05:00:00-07:00
 16.0,Sherwood Park,Wind Speed,2025-12-11T05:00:00-07:00
 0.025,Sherwood Park,Ozone,2025-12-11T05:00:00-07:00
 -24.0,Sherwood Park,Outdoor Temperature,2025-12-11T05:00:00-07:00
@@ -466,1480 +476,1470 @@ Value,StationName,ParameterName,ReadingDate
 0.004,Sherwood Park,Nitrogen Dioxide,2025-12-11T05:00:00-07:00
 3.5,Sherwood Park,Fine Particulate Matter,2025-12-11T05:00:00-07:00
 2.45,Sherwood Park,Total Hydrocarbons,2025-12-11T05:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-11T05:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-11T05:00:00-07:00
 0.005,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T05:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-11T04:00:00-07:00
-2.0,Sherwood Park,,2025-12-11T04:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T04:00:00-07:00
 0.0,Sherwood Park,Sulphur Dioxide,2025-12-11T04:00:00-07:00
-13.0,Sherwood Park,Wind Speed,2025-12-11T04:00:00-07:00
-0.004,Sherwood Park,Nitrogen Dioxide,2025-12-11T04:00:00-07:00
-0.005,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T04:00:00-07:00
-0.025,Sherwood Park,Ozone,2025-12-11T04:00:00-07:00
-2.43,Sherwood Park,Total Hydrocarbons,2025-12-11T04:00:00-07:00
-3.3,Sherwood Park,Fine Particulate Matter,2025-12-11T04:00:00-07:00
--23.0,Sherwood Park,Outdoor Temperature,2025-12-11T04:00:00-07:00
 273.0,Sherwood Park,Wind Direction,2025-12-11T04:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-11T03:00:00-07:00
+-23.0,Sherwood Park,Outdoor Temperature,2025-12-11T04:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-11T04:00:00-07:00
+3.3,Sherwood Park,Fine Particulate Matter,2025-12-11T04:00:00-07:00
+2.43,Sherwood Park,Total Hydrocarbons,2025-12-11T04:00:00-07:00
+0.025,Sherwood Park,Ozone,2025-12-11T04:00:00-07:00
+0.005,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T04:00:00-07:00
+0.004,Sherwood Park,Nitrogen Dioxide,2025-12-11T04:00:00-07:00
+2.0,Sherwood Park,,2025-12-11T04:00:00-07:00
+13.0,Sherwood Park,Wind Speed,2025-12-11T04:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T03:00:00-07:00
-2.0,Sherwood Park,,2025-12-11T03:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-11T03:00:00-07:00
-12.0,Sherwood Park,Wind Speed,2025-12-11T03:00:00-07:00
-0.004,Sherwood Park,Nitrogen Dioxide,2025-12-11T03:00:00-07:00
-0.005,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T03:00:00-07:00
-198.0,Sherwood Park,Wind Direction,2025-12-11T03:00:00-07:00
-0.025,Sherwood Park,Ozone,2025-12-11T03:00:00-07:00
-2.45,Sherwood Park,Total Hydrocarbons,2025-12-11T03:00:00-07:00
-3.6,Sherwood Park,Fine Particulate Matter,2025-12-11T03:00:00-07:00
 -23.0,Sherwood Park,Outdoor Temperature,2025-12-11T03:00:00-07:00
+3.6,Sherwood Park,Fine Particulate Matter,2025-12-11T03:00:00-07:00
+2.45,Sherwood Park,Total Hydrocarbons,2025-12-11T03:00:00-07:00
+0.025,Sherwood Park,Ozone,2025-12-11T03:00:00-07:00
+198.0,Sherwood Park,Wind Direction,2025-12-11T03:00:00-07:00
+0.005,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T03:00:00-07:00
+0.004,Sherwood Park,Nitrogen Dioxide,2025-12-11T03:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-11T03:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-11T03:00:00-07:00
+2.0,Sherwood Park,,2025-12-11T03:00:00-07:00
+12.0,Sherwood Park,Wind Speed,2025-12-11T03:00:00-07:00
+227.0,Sherwood Park,Wind Direction,2025-12-11T02:00:00-07:00
+-22.0,Sherwood Park,Outdoor Temperature,2025-12-11T02:00:00-07:00
+4.2,Sherwood Park,Fine Particulate Matter,2025-12-11T02:00:00-07:00
 10.0,Sherwood Park,Wind Speed,2025-12-11T02:00:00-07:00
+2.0,Sherwood Park,,2025-12-11T02:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-11T02:00:00-07:00
 ,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T02:00:00-07:00
 ,Sherwood Park,Sulphur Dioxide,2025-12-11T02:00:00-07:00
 ,Sherwood Park,Total Hydrocarbons,2025-12-11T02:00:00-07:00
 ,Sherwood Park,Nitrogen Dioxide,2025-12-11T02:00:00-07:00
 ,Sherwood Park,Ozone,2025-12-11T02:00:00-07:00
 ,Sherwood Park,Hydrogen Sulphide,2025-12-11T02:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-11T02:00:00-07:00
-227.0,Sherwood Park,Wind Direction,2025-12-11T02:00:00-07:00
--22.0,Sherwood Park,Outdoor Temperature,2025-12-11T02:00:00-07:00
-4.2,Sherwood Park,Fine Particulate Matter,2025-12-11T02:00:00-07:00
-2.0,Sherwood Park,,2025-12-11T02:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T01:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-11T01:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-11T01:00:00-07:00
-145.0,Sherwood Park,Wind Direction,2025-12-11T01:00:00-07:00
--21.0,Sherwood Park,Outdoor Temperature,2025-12-11T01:00:00-07:00
-0.005,Sherwood Park,Nitrogen Dioxide,2025-12-11T01:00:00-07:00
-0.006,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T01:00:00-07:00
-2.43,Sherwood Park,Total Hydrocarbons,2025-12-11T01:00:00-07:00
-4.5,Sherwood Park,Fine Particulate Matter,2025-12-11T01:00:00-07:00
-0.024,Sherwood Park,Ozone,2025-12-11T01:00:00-07:00
-8.0,Sherwood Park,Wind Speed,2025-12-11T01:00:00-07:00
 2.0,Sherwood Park,,2025-12-11T01:00:00-07:00
-2.44,Sherwood Park,Total Hydrocarbons,2025-12-11T00:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-11T00:00:00-07:00
-117.0,Sherwood Park,Wind Direction,2025-12-11T00:00:00-07:00
-0.005,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T00:00:00-07:00
-0.024,Sherwood Park,Ozone,2025-12-11T00:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T00:00:00-07:00
-5.1,Sherwood Park,Fine Particulate Matter,2025-12-11T00:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-11T00:00:00-07:00
-0.005,Sherwood Park,Nitrogen Dioxide,2025-12-11T00:00:00-07:00
-10.0,Sherwood Park,Wind Speed,2025-12-11T00:00:00-07:00
+8.0,Sherwood Park,Wind Speed,2025-12-11T01:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-11T01:00:00-07:00
+0.024,Sherwood Park,Ozone,2025-12-11T01:00:00-07:00
+4.5,Sherwood Park,Fine Particulate Matter,2025-12-11T01:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T01:00:00-07:00
+2.43,Sherwood Park,Total Hydrocarbons,2025-12-11T01:00:00-07:00
+0.006,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T01:00:00-07:00
+0.005,Sherwood Park,Nitrogen Dioxide,2025-12-11T01:00:00-07:00
+-21.0,Sherwood Park,Outdoor Temperature,2025-12-11T01:00:00-07:00
+145.0,Sherwood Park,Wind Direction,2025-12-11T01:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-11T01:00:00-07:00
 -20.0,Sherwood Park,Outdoor Temperature,2025-12-11T00:00:00-07:00
+10.0,Sherwood Park,Wind Speed,2025-12-11T00:00:00-07:00
+0.005,Sherwood Park,Nitrogen Dioxide,2025-12-11T00:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-11T00:00:00-07:00
+5.1,Sherwood Park,Fine Particulate Matter,2025-12-11T00:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-11T00:00:00-07:00
+0.024,Sherwood Park,Ozone,2025-12-11T00:00:00-07:00
+0.005,Sherwood Park,Total Oxides of Nitrogen,2025-12-11T00:00:00-07:00
+117.0,Sherwood Park,Wind Direction,2025-12-11T00:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-11T00:00:00-07:00
+2.44,Sherwood Park,Total Hydrocarbons,2025-12-11T00:00:00-07:00
 2.0,Sherwood Park,,2025-12-11T00:00:00-07:00
-0.021,Sherwood Park,Ozone,2025-12-10T23:00:00-07:00
 2.0,Sherwood Park,,2025-12-10T23:00:00-07:00
-0.007,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T23:00:00-07:00
--19.0,Sherwood Park,Outdoor Temperature,2025-12-10T23:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-10T23:00:00-07:00
-5.7,Sherwood Park,Fine Particulate Matter,2025-12-10T23:00:00-07:00
-10.0,Sherwood Park,Wind Speed,2025-12-10T23:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T23:00:00-07:00
 2.48,Sherwood Park,Total Hydrocarbons,2025-12-10T23:00:00-07:00
 210.0,Sherwood Park,Wind Direction,2025-12-10T23:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T23:00:00-07:00
+-19.0,Sherwood Park,Outdoor Temperature,2025-12-10T23:00:00-07:00
+0.007,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T23:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T23:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-10T23:00:00-07:00
+5.7,Sherwood Park,Fine Particulate Matter,2025-12-10T23:00:00-07:00
+0.021,Sherwood Park,Ozone,2025-12-10T23:00:00-07:00
+10.0,Sherwood Park,Wind Speed,2025-12-10T23:00:00-07:00
 0.006,Sherwood Park,Nitrogen Dioxide,2025-12-10T23:00:00-07:00
--18.0,Sherwood Park,Outdoor Temperature,2025-12-10T22:00:00-07:00
-5.6,Sherwood Park,Fine Particulate Matter,2025-12-10T22:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T22:00:00-07:00
-0.02,Sherwood Park,Ozone,2025-12-10T22:00:00-07:00
-0.008,Sherwood Park,Nitrogen Dioxide,2025-12-10T22:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T22:00:00-07:00
-8.0,Sherwood Park,Wind Speed,2025-12-10T22:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T23:00:00-07:00
 2.0,Sherwood Park,,2025-12-10T22:00:00-07:00
+2.47,Sherwood Park,Total Hydrocarbons,2025-12-10T22:00:00-07:00
+-18.0,Sherwood Park,Outdoor Temperature,2025-12-10T22:00:00-07:00
 0.01,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T22:00:00-07:00
 258.0,Sherwood Park,Wind Direction,2025-12-10T22:00:00-07:00
-2.47,Sherwood Park,Total Hydrocarbons,2025-12-10T22:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T22:00:00-07:00
+5.6,Sherwood Park,Fine Particulate Matter,2025-12-10T22:00:00-07:00
+8.0,Sherwood Park,Wind Speed,2025-12-10T22:00:00-07:00
 0.002,Sherwood Park,Nitric Oxide,2025-12-10T22:00:00-07:00
-0.007,Sherwood Park,Nitrogen Dioxide,2025-12-10T21:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T21:00:00-07:00
-2.0,Sherwood Park,,2025-12-10T21:00:00-07:00
-8.0,Sherwood Park,Wind Speed,2025-12-10T21:00:00-07:00
-0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T21:00:00-07:00
-287.0,Sherwood Park,Wind Direction,2025-12-10T21:00:00-07:00
-0.021,Sherwood Park,Ozone,2025-12-10T21:00:00-07:00
+0.008,Sherwood Park,Nitrogen Dioxide,2025-12-10T22:00:00-07:00
+0.02,Sherwood Park,Ozone,2025-12-10T22:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T22:00:00-07:00
 2.49,Sherwood Park,Total Hydrocarbons,2025-12-10T21:00:00-07:00
-0.002,Sherwood Park,Nitric Oxide,2025-12-10T21:00:00-07:00
 -18.0,Sherwood Park,Outdoor Temperature,2025-12-10T21:00:00-07:00
 0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T21:00:00-07:00
+287.0,Sherwood Park,Wind Direction,2025-12-10T21:00:00-07:00
+0.002,Sherwood Park,Nitric Oxide,2025-12-10T21:00:00-07:00
+0.007,Sherwood Park,Nitrogen Dioxide,2025-12-10T21:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T21:00:00-07:00
+0.021,Sherwood Park,Ozone,2025-12-10T21:00:00-07:00
+8.0,Sherwood Park,Wind Speed,2025-12-10T21:00:00-07:00
 6.0,Sherwood Park,Fine Particulate Matter,2025-12-10T21:00:00-07:00
+0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T21:00:00-07:00
+2.0,Sherwood Park,,2025-12-10T21:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T20:00:00-07:00
-11.0,Sherwood Park,Wind Speed,2025-12-10T20:00:00-07:00
-0.01,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T20:00:00-07:00
 0.02,Sherwood Park,Ozone,2025-12-10T20:00:00-07:00
+11.0,Sherwood Park,Wind Speed,2025-12-10T20:00:00-07:00
 0.008,Sherwood Park,Nitrogen Dioxide,2025-12-10T20:00:00-07:00
-2.49,Sherwood Park,Total Hydrocarbons,2025-12-10T20:00:00-07:00
-7.5,Sherwood Park,Fine Particulate Matter,2025-12-10T20:00:00-07:00
-294.0,Sherwood Park,Wind Direction,2025-12-10T20:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T20:00:00-07:00
-2.0,Sherwood Park,,2025-12-10T20:00:00-07:00
 0.001,Sherwood Park,Nitric Oxide,2025-12-10T20:00:00-07:00
+7.5,Sherwood Park,Fine Particulate Matter,2025-12-10T20:00:00-07:00
+0.01,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T20:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T20:00:00-07:00
 -17.0,Sherwood Park,Outdoor Temperature,2025-12-10T20:00:00-07:00
-12.0,Sherwood Park,Wind Speed,2025-12-10T19:00:00-07:00
-0.002,Sherwood Park,Nitric Oxide,2025-12-10T19:00:00-07:00
--17.0,Sherwood Park,Outdoor Temperature,2025-12-10T19:00:00-07:00
-2.0,Sherwood Park,,2025-12-10T19:00:00-07:00
-0.01,Sherwood Park,Sulphur Dioxide,2025-12-10T19:00:00-07:00
-314.0,Sherwood Park,Wind Direction,2025-12-10T19:00:00-07:00
-2.57,Sherwood Park,Total Hydrocarbons,2025-12-10T19:00:00-07:00
-7.6,Sherwood Park,Fine Particulate Matter,2025-12-10T19:00:00-07:00
-0.014,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T19:00:00-07:00
-0.017,Sherwood Park,Ozone,2025-12-10T19:00:00-07:00
+294.0,Sherwood Park,Wind Direction,2025-12-10T20:00:00-07:00
+2.0,Sherwood Park,,2025-12-10T20:00:00-07:00
+2.49,Sherwood Park,Total Hydrocarbons,2025-12-10T20:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T19:00:00-07:00
 0.012,Sherwood Park,Nitrogen Dioxide,2025-12-10T19:00:00-07:00
-2.0,Sherwood Park,,2025-12-10T18:00:00-07:00
+0.017,Sherwood Park,Ozone,2025-12-10T19:00:00-07:00
+0.002,Sherwood Park,Nitric Oxide,2025-12-10T19:00:00-07:00
+0.01,Sherwood Park,Sulphur Dioxide,2025-12-10T19:00:00-07:00
+12.0,Sherwood Park,Wind Speed,2025-12-10T19:00:00-07:00
+314.0,Sherwood Park,Wind Direction,2025-12-10T19:00:00-07:00
+7.6,Sherwood Park,Fine Particulate Matter,2025-12-10T19:00:00-07:00
+0.014,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T19:00:00-07:00
+-17.0,Sherwood Park,Outdoor Temperature,2025-12-10T19:00:00-07:00
+2.0,Sherwood Park,,2025-12-10T19:00:00-07:00
+2.57,Sherwood Park,Total Hydrocarbons,2025-12-10T19:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T18:00:00-07:00
+0.014,Sherwood Park,Ozone,2025-12-10T18:00:00-07:00
+0.003,Sherwood Park,Nitric Oxide,2025-12-10T18:00:00-07:00
+7.3,Sherwood Park,Fine Particulate Matter,2025-12-10T18:00:00-07:00
 -17.0,Sherwood Park,Outdoor Temperature,2025-12-10T18:00:00-07:00
+312.0,Sherwood Park,Wind Direction,2025-12-10T18:00:00-07:00
+2.0,Sherwood Park,,2025-12-10T18:00:00-07:00
+2.55,Sherwood Park,Total Hydrocarbons,2025-12-10T18:00:00-07:00
+0.016,Sherwood Park,Nitrogen Dioxide,2025-12-10T18:00:00-07:00
+0.01,Sherwood Park,Sulphur Dioxide,2025-12-10T18:00:00-07:00
 10.0,Sherwood Park,Wind Speed,2025-12-10T18:00:00-07:00
 0.018,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T18:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T18:00:00-07:00
-0.003,Sherwood Park,Nitric Oxide,2025-12-10T18:00:00-07:00
-0.016,Sherwood Park,Nitrogen Dioxide,2025-12-10T18:00:00-07:00
-2.55,Sherwood Park,Total Hydrocarbons,2025-12-10T18:00:00-07:00
-0.014,Sherwood Park,Ozone,2025-12-10T18:00:00-07:00
-0.01,Sherwood Park,Sulphur Dioxide,2025-12-10T18:00:00-07:00
-7.3,Sherwood Park,Fine Particulate Matter,2025-12-10T18:00:00-07:00
-312.0,Sherwood Park,Wind Direction,2025-12-10T18:00:00-07:00
-7.2,Sherwood Park,Fine Particulate Matter,2025-12-10T17:00:00-07:00
-247.0,Sherwood Park,Wind Direction,2025-12-10T17:00:00-07:00
-0.024,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T17:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T17:00:00-07:00
-0.011,Sherwood Park,Ozone,2025-12-10T17:00:00-07:00
-0.019,Sherwood Park,Nitrogen Dioxide,2025-12-10T17:00:00-07:00
-0.005,Sherwood Park,Nitric Oxide,2025-12-10T17:00:00-07:00
-2.55,Sherwood Park,Total Hydrocarbons,2025-12-10T17:00:00-07:00
-10.0,Sherwood Park,Wind Speed,2025-12-10T17:00:00-07:00
 -16.0,Sherwood Park,Outdoor Temperature,2025-12-10T17:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T17:00:00-07:00
+2.55,Sherwood Park,Total Hydrocarbons,2025-12-10T17:00:00-07:00
+0.005,Sherwood Park,Nitric Oxide,2025-12-10T17:00:00-07:00
+0.019,Sherwood Park,Nitrogen Dioxide,2025-12-10T17:00:00-07:00
+0.011,Sherwood Park,Ozone,2025-12-10T17:00:00-07:00
+0.024,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T17:00:00-07:00
+247.0,Sherwood Park,Wind Direction,2025-12-10T17:00:00-07:00
+7.2,Sherwood Park,Fine Particulate Matter,2025-12-10T17:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T17:00:00-07:00
+10.0,Sherwood Park,Wind Speed,2025-12-10T17:00:00-07:00
 2.0,Sherwood Park,,2025-12-10T17:00:00-07:00
-,Sherwood Park,Total Hydrocarbons,2025-12-10T16:00:00-07:00
-0.026,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T16:00:00-07:00
--15.0,Sherwood Park,Outdoor Temperature,2025-12-10T16:00:00-07:00
-251.0,Sherwood Park,Wind Direction,2025-12-10T16:00:00-07:00
-0.008,Sherwood Park,Nitric Oxide,2025-12-10T16:00:00-07:00
-2.0,Sherwood Park,,2025-12-10T16:00:00-07:00
+7.2,Sherwood Park,Fine Particulate Matter,2025-12-10T16:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T16:00:00-07:00
-10.0,Sherwood Park,Wind Speed,2025-12-10T16:00:00-07:00
-0.011,Sherwood Park,Ozone,2025-12-10T16:00:00-07:00
+0.008,Sherwood Park,Nitric Oxide,2025-12-10T16:00:00-07:00
+0.026,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T16:00:00-07:00
 0.019,Sherwood Park,Nitrogen Dioxide,2025-12-10T16:00:00-07:00
 0.002,Sherwood Park,Sulphur Dioxide,2025-12-10T16:00:00-07:00
-7.2,Sherwood Park,Fine Particulate Matter,2025-12-10T16:00:00-07:00
-8.0,Sherwood Park,Wind Speed,2025-12-10T15:00:00-07:00
-2.0,Sherwood Park,,2025-12-10T15:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T15:00:00-07:00
-0.025,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T15:00:00-07:00
-,Sherwood Park,Total Hydrocarbons,2025-12-10T15:00:00-07:00
+-15.0,Sherwood Park,Outdoor Temperature,2025-12-10T16:00:00-07:00
+2.0,Sherwood Park,,2025-12-10T16:00:00-07:00
+0.011,Sherwood Park,Ozone,2025-12-10T16:00:00-07:00
+10.0,Sherwood Park,Wind Speed,2025-12-10T16:00:00-07:00
+,Sherwood Park,Total Hydrocarbons,2025-12-10T16:00:00-07:00
+251.0,Sherwood Park,Wind Direction,2025-12-10T16:00:00-07:00
 0.013,Sherwood Park,Ozone,2025-12-10T15:00:00-07:00
-0.016,Sherwood Park,Nitrogen Dioxide,2025-12-10T15:00:00-07:00
 -13.0,Sherwood Park,Outdoor Temperature,2025-12-10T15:00:00-07:00
+0.025,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T15:00:00-07:00
 0.002,Sherwood Park,Sulphur Dioxide,2025-12-10T15:00:00-07:00
-279.0,Sherwood Park,Wind Direction,2025-12-10T15:00:00-07:00
+2.0,Sherwood Park,,2025-12-10T15:00:00-07:00
+8.0,Sherwood Park,Wind Speed,2025-12-10T15:00:00-07:00
+0.016,Sherwood Park,Nitrogen Dioxide,2025-12-10T15:00:00-07:00
+,Sherwood Park,Total Hydrocarbons,2025-12-10T15:00:00-07:00
 0.009,Sherwood Park,Nitric Oxide,2025-12-10T15:00:00-07:00
+279.0,Sherwood Park,Wind Direction,2025-12-10T15:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T15:00:00-07:00
 7.8,Sherwood Park,Fine Particulate Matter,2025-12-10T15:00:00-07:00
-0.011,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T14:00:00-07:00
-3.0,Sherwood Park,Wind Speed,2025-12-10T14:00:00-07:00
-,Sherwood Park,Total Hydrocarbons,2025-12-10T14:00:00-07:00
-0.007,Sherwood Park,Nitrogen Dioxide,2025-12-10T14:00:00-07:00
--12.0,Sherwood Park,Outdoor Temperature,2025-12-10T14:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T14:00:00-07:00
-0.004,Sherwood Park,Nitric Oxide,2025-12-10T14:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T14:00:00-07:00
-215.0,Sherwood Park,Wind Direction,2025-12-10T14:00:00-07:00
-7.2,Sherwood Park,Fine Particulate Matter,2025-12-10T14:00:00-07:00
-2.0,Sherwood Park,,2025-12-10T14:00:00-07:00
 0.021,Sherwood Park,Ozone,2025-12-10T14:00:00-07:00
-0.004,Sherwood Park,Nitrogen Dioxide,2025-12-10T13:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T13:00:00-07:00
-4.0,Sherwood Park,Wind Speed,2025-12-10T13:00:00-07:00
-5.8,Sherwood Park,Fine Particulate Matter,2025-12-10T13:00:00-07:00
+3.0,Sherwood Park,Wind Speed,2025-12-10T14:00:00-07:00
+0.007,Sherwood Park,Nitrogen Dioxide,2025-12-10T14:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T14:00:00-07:00
+7.2,Sherwood Park,Fine Particulate Matter,2025-12-10T14:00:00-07:00
+0.004,Sherwood Park,Nitric Oxide,2025-12-10T14:00:00-07:00
+0.011,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T14:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T14:00:00-07:00
+215.0,Sherwood Park,Wind Direction,2025-12-10T14:00:00-07:00
+2.0,Sherwood Park,,2025-12-10T14:00:00-07:00
+-12.0,Sherwood Park,Outdoor Temperature,2025-12-10T14:00:00-07:00
+,Sherwood Park,Total Hydrocarbons,2025-12-10T14:00:00-07:00
 0.008,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T13:00:00-07:00
--12.0,Sherwood Park,Outdoor Temperature,2025-12-10T13:00:00-07:00
-2.0,Sherwood Park,,2025-12-10T13:00:00-07:00
+5.8,Sherwood Park,Fine Particulate Matter,2025-12-10T13:00:00-07:00
+4.0,Sherwood Park,Wind Speed,2025-12-10T13:00:00-07:00
 0.023,Sherwood Park,Ozone,2025-12-10T13:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T13:00:00-07:00
-,Sherwood Park,Total Hydrocarbons,2025-12-10T13:00:00-07:00
-0.003,Sherwood Park,Nitric Oxide,2025-12-10T13:00:00-07:00
 171.0,Sherwood Park,Wind Direction,2025-12-10T13:00:00-07:00
-2.12,Sherwood Park,Total Hydrocarbons,2025-12-10T12:00:00-07:00
-5.1,Sherwood Park,Fine Particulate Matter,2025-12-10T12:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T12:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T12:00:00-07:00
-0.022,Sherwood Park,Ozone,2025-12-10T12:00:00-07:00
-4.0,Sherwood Park,Wind Speed,2025-12-10T12:00:00-07:00
+,Sherwood Park,Total Hydrocarbons,2025-12-10T13:00:00-07:00
+-12.0,Sherwood Park,Outdoor Temperature,2025-12-10T13:00:00-07:00
+0.004,Sherwood Park,Nitrogen Dioxide,2025-12-10T13:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T13:00:00-07:00
+2.0,Sherwood Park,,2025-12-10T13:00:00-07:00
+0.003,Sherwood Park,Nitric Oxide,2025-12-10T13:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T13:00:00-07:00
 156.0,Sherwood Park,Wind Direction,2025-12-10T12:00:00-07:00
-2.0,Sherwood Park,,2025-12-10T12:00:00-07:00
-0.005,Sherwood Park,Nitrogen Dioxide,2025-12-10T12:00:00-07:00
-0.007,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T12:00:00-07:00
-0.002,Sherwood Park,Nitric Oxide,2025-12-10T12:00:00-07:00
+2.12,Sherwood Park,Total Hydrocarbons,2025-12-10T12:00:00-07:00
 -15.0,Sherwood Park,Outdoor Temperature,2025-12-10T12:00:00-07:00
-0.004,Sherwood Park,Nitrogen Dioxide,2025-12-10T11:00:00-07:00
-0.024,Sherwood Park,Ozone,2025-12-10T11:00:00-07:00
-4.5,Sherwood Park,Fine Particulate Matter,2025-12-10T11:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T12:00:00-07:00
+0.005,Sherwood Park,Nitrogen Dioxide,2025-12-10T12:00:00-07:00
+0.002,Sherwood Park,Nitric Oxide,2025-12-10T12:00:00-07:00
+5.1,Sherwood Park,Fine Particulate Matter,2025-12-10T12:00:00-07:00
+0.007,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T12:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T12:00:00-07:00
+2.0,Sherwood Park,,2025-12-10T12:00:00-07:00
+4.0,Sherwood Park,Wind Speed,2025-12-10T12:00:00-07:00
+0.022,Sherwood Park,Ozone,2025-12-10T12:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T11:00:00-07:00
--16.0,Sherwood Park,Outdoor Temperature,2025-12-10T11:00:00-07:00
-6.0,Sherwood Park,Wind Speed,2025-12-10T11:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T11:00:00-07:00
+4.5,Sherwood Park,Fine Particulate Matter,2025-12-10T11:00:00-07:00
 0.002,Sherwood Park,Nitric Oxide,2025-12-10T11:00:00-07:00
-131.0,Sherwood Park,Wind Direction,2025-12-10T11:00:00-07:00
-2.0,Sherwood Park,,2025-12-10T11:00:00-07:00
+6.0,Sherwood Park,Wind Speed,2025-12-10T11:00:00-07:00
 0.006,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T11:00:00-07:00
+131.0,Sherwood Park,Wind Direction,2025-12-10T11:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T11:00:00-07:00
+0.004,Sherwood Park,Nitrogen Dioxide,2025-12-10T11:00:00-07:00
 2.11,Sherwood Park,Total Hydrocarbons,2025-12-10T11:00:00-07:00
-4.6,Sherwood Park,Fine Particulate Matter,2025-12-10T10:00:00-07:00
-0.005,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T10:00:00-07:00
-6.0,Sherwood Park,Wind Speed,2025-12-10T10:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T10:00:00-07:00
-114.0,Sherwood Park,Wind Direction,2025-12-10T10:00:00-07:00
+2.0,Sherwood Park,,2025-12-10T11:00:00-07:00
+-16.0,Sherwood Park,Outdoor Temperature,2025-12-10T11:00:00-07:00
+0.024,Sherwood Park,Ozone,2025-12-10T11:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T10:00:00-07:00
-2.0,Sherwood Park,,2025-12-10T10:00:00-07:00
+4.6,Sherwood Park,Fine Particulate Matter,2025-12-10T10:00:00-07:00
+6.0,Sherwood Park,Wind Speed,2025-12-10T10:00:00-07:00
+0.005,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T10:00:00-07:00
 0.001,Sherwood Park,Nitric Oxide,2025-12-10T10:00:00-07:00
--17.0,Sherwood Park,Outdoor Temperature,2025-12-10T10:00:00-07:00
+114.0,Sherwood Park,Wind Direction,2025-12-10T10:00:00-07:00
 0.023,Sherwood Park,Ozone,2025-12-10T10:00:00-07:00
-0.004,Sherwood Park,Nitrogen Dioxide,2025-12-10T10:00:00-07:00
 2.12,Sherwood Park,Total Hydrocarbons,2025-12-10T10:00:00-07:00
-5.7,Sherwood Park,Fine Particulate Matter,2025-12-10T09:00:00-07:00
-0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T09:00:00-07:00
-2.15,Sherwood Park,Total Hydrocarbons,2025-12-10T09:00:00-07:00
-4.0,Sherwood Park,Wind Speed,2025-12-10T09:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T09:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T09:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T10:00:00-07:00
+-17.0,Sherwood Park,Outdoor Temperature,2025-12-10T10:00:00-07:00
+0.004,Sherwood Park,Nitrogen Dioxide,2025-12-10T10:00:00-07:00
+2.0,Sherwood Park,,2025-12-10T10:00:00-07:00
 0.018,Sherwood Park,Ozone,2025-12-10T09:00:00-07:00
-2.0,Sherwood Park,,2025-12-10T09:00:00-07:00
-0.002,Sherwood Park,Nitric Oxide,2025-12-10T09:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T09:00:00-07:00
+0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T09:00:00-07:00
 0.008,Sherwood Park,Nitrogen Dioxide,2025-12-10T09:00:00-07:00
+4.0,Sherwood Park,Wind Speed,2025-12-10T09:00:00-07:00
+0.002,Sherwood Park,Nitric Oxide,2025-12-10T09:00:00-07:00
+2.0,Sherwood Park,,2025-12-10T09:00:00-07:00
 109.0,Sherwood Park,Wind Direction,2025-12-10T09:00:00-07:00
 -17.0,Sherwood Park,Outdoor Temperature,2025-12-10T09:00:00-07:00
-0.005,Sherwood Park,Nitrogen Dioxide,2025-12-10T08:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T09:00:00-07:00
+2.15,Sherwood Park,Total Hydrocarbons,2025-12-10T09:00:00-07:00
+5.7,Sherwood Park,Fine Particulate Matter,2025-12-10T09:00:00-07:00
 0.02,Sherwood Park,Ozone,2025-12-10T08:00:00-07:00
-6.2,Sherwood Park,Fine Particulate Matter,2025-12-10T08:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T08:00:00-07:00
-7.0,Sherwood Park,Wind Speed,2025-12-10T08:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T08:00:00-07:00
 0.005,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T08:00:00-07:00
--17.0,Sherwood Park,Outdoor Temperature,2025-12-10T08:00:00-07:00
 0.001,Sherwood Park,Nitric Oxide,2025-12-10T08:00:00-07:00
-2.13,Sherwood Park,Total Hydrocarbons,2025-12-10T08:00:00-07:00
-2.0,Sherwood Park,,2025-12-10T08:00:00-07:00
+-17.0,Sherwood Park,Outdoor Temperature,2025-12-10T08:00:00-07:00
+6.2,Sherwood Park,Fine Particulate Matter,2025-12-10T08:00:00-07:00
 117.0,Sherwood Park,Wind Direction,2025-12-10T08:00:00-07:00
-0.004,Sherwood Park,Nitrogen Dioxide,2025-12-10T07:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T07:00:00-07:00
-9.0,Sherwood Park,Wind Speed,2025-12-10T07:00:00-07:00
+2.0,Sherwood Park,,2025-12-10T08:00:00-07:00
+7.0,Sherwood Park,Wind Speed,2025-12-10T08:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T08:00:00-07:00
+0.005,Sherwood Park,Nitrogen Dioxide,2025-12-10T08:00:00-07:00
+2.13,Sherwood Park,Total Hydrocarbons,2025-12-10T08:00:00-07:00
 0.02,Sherwood Park,Ozone,2025-12-10T07:00:00-07:00
+0.004,Sherwood Park,Nitrogen Dioxide,2025-12-10T07:00:00-07:00
+9.0,Sherwood Park,Wind Speed,2025-12-10T07:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T07:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T07:00:00-07:00
--17.0,Sherwood Park,Outdoor Temperature,2025-12-10T07:00:00-07:00
+2.0,Sherwood Park,,2025-12-10T07:00:00-07:00
 0.0,Sherwood Park,Nitric Oxide,2025-12-10T07:00:00-07:00
+-17.0,Sherwood Park,Outdoor Temperature,2025-12-10T07:00:00-07:00
 0.004,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T07:00:00-07:00
 2.13,Sherwood Park,Total Hydrocarbons,2025-12-10T07:00:00-07:00
-6.6,Sherwood Park,Fine Particulate Matter,2025-12-10T07:00:00-07:00
 115.0,Sherwood Park,Wind Direction,2025-12-10T07:00:00-07:00
-2.0,Sherwood Park,,2025-12-10T07:00:00-07:00
+6.6,Sherwood Park,Fine Particulate Matter,2025-12-10T07:00:00-07:00
+2.14,Sherwood Park,Total Hydrocarbons,2025-12-10T06:00:00-07:00
+0.004,Sherwood Park,Nitrogen Dioxide,2025-12-10T06:00:00-07:00
 0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T06:00:00-07:00
 6.3,Sherwood Park,Fine Particulate Matter,2025-12-10T06:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T06:00:00-07:00
+0.004,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T06:00:00-07:00
+9.0,Sherwood Park,Wind Speed,2025-12-10T06:00:00-07:00
 -17.0,Sherwood Park,Outdoor Temperature,2025-12-10T06:00:00-07:00
 2.0,Sherwood Park,,2025-12-10T06:00:00-07:00
 0.021,Sherwood Park,Ozone,2025-12-10T06:00:00-07:00
-0.004,Sherwood Park,Nitrogen Dioxide,2025-12-10T06:00:00-07:00
-9.0,Sherwood Park,Wind Speed,2025-12-10T06:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T06:00:00-07:00
-115.0,Sherwood Park,Wind Direction,2025-12-10T06:00:00-07:00
 0.0,Sherwood Park,Nitric Oxide,2025-12-10T06:00:00-07:00
-0.004,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T06:00:00-07:00
-2.14,Sherwood Park,Total Hydrocarbons,2025-12-10T06:00:00-07:00
-0.02,Sherwood Park,Ozone,2025-12-10T05:00:00-07:00
-2.0,Sherwood Park,,2025-12-10T05:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T05:00:00-07:00
+115.0,Sherwood Park,Wind Direction,2025-12-10T06:00:00-07:00
 0.004,Sherwood Park,Nitrogen Dioxide,2025-12-10T05:00:00-07:00
-2.16,Sherwood Park,Total Hydrocarbons,2025-12-10T05:00:00-07:00
+0.02,Sherwood Park,Ozone,2025-12-10T05:00:00-07:00
+0.005,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T05:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T05:00:00-07:00
+0.0,Sherwood Park,Nitric Oxide,2025-12-10T05:00:00-07:00
+120.0,Sherwood Park,Wind Direction,2025-12-10T05:00:00-07:00
 -17.0,Sherwood Park,Outdoor Temperature,2025-12-10T05:00:00-07:00
 10.0,Sherwood Park,Wind Speed,2025-12-10T05:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T05:00:00-07:00
-0.005,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T05:00:00-07:00
+2.0,Sherwood Park,,2025-12-10T05:00:00-07:00
+2.16,Sherwood Park,Total Hydrocarbons,2025-12-10T05:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T05:00:00-07:00
 6.4,Sherwood Park,Fine Particulate Matter,2025-12-10T05:00:00-07:00
-120.0,Sherwood Park,Wind Direction,2025-12-10T05:00:00-07:00
-0.0,Sherwood Park,Nitric Oxide,2025-12-10T05:00:00-07:00
 6.3,Sherwood Park,Fine Particulate Matter,2025-12-10T04:00:00-07:00
-0.02,Sherwood Park,Ozone,2025-12-10T04:00:00-07:00
-0.004,Sherwood Park,Nitrogen Dioxide,2025-12-10T04:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T04:00:00-07:00
-118.0,Sherwood Park,Wind Direction,2025-12-10T04:00:00-07:00
-9.0,Sherwood Park,Wind Speed,2025-12-10T04:00:00-07:00
-2.0,Sherwood Park,,2025-12-10T04:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T04:00:00-07:00
--18.0,Sherwood Park,Outdoor Temperature,2025-12-10T04:00:00-07:00
-0.004,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T04:00:00-07:00
 0.0,Sherwood Park,Nitric Oxide,2025-12-10T04:00:00-07:00
+9.0,Sherwood Park,Wind Speed,2025-12-10T04:00:00-07:00
+-18.0,Sherwood Park,Outdoor Temperature,2025-12-10T04:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T04:00:00-07:00
+0.004,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T04:00:00-07:00
+0.004,Sherwood Park,Nitrogen Dioxide,2025-12-10T04:00:00-07:00
+118.0,Sherwood Park,Wind Direction,2025-12-10T04:00:00-07:00
+2.0,Sherwood Park,,2025-12-10T04:00:00-07:00
 2.21,Sherwood Park,Total Hydrocarbons,2025-12-10T04:00:00-07:00
-116.0,Sherwood Park,Wind Direction,2025-12-10T03:00:00-07:00
-2.0,Sherwood Park,,2025-12-10T03:00:00-07:00
-2.23,Sherwood Park,Total Hydrocarbons,2025-12-10T03:00:00-07:00
+0.02,Sherwood Park,Ozone,2025-12-10T04:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T04:00:00-07:00
 0.0,Sherwood Park,Nitric Oxide,2025-12-10T03:00:00-07:00
-0.004,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T03:00:00-07:00
 -18.0,Sherwood Park,Outdoor Temperature,2025-12-10T03:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T03:00:00-07:00
-5.7,Sherwood Park,Fine Particulate Matter,2025-12-10T03:00:00-07:00
+2.0,Sherwood Park,,2025-12-10T03:00:00-07:00
 9.0,Sherwood Park,Wind Speed,2025-12-10T03:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T03:00:00-07:00
 0.004,Sherwood Park,Nitrogen Dioxide,2025-12-10T03:00:00-07:00
+116.0,Sherwood Park,Wind Direction,2025-12-10T03:00:00-07:00
 0.02,Sherwood Park,Ozone,2025-12-10T03:00:00-07:00
-2.0,Sherwood Park,,2025-12-10T02:00:00-07:00
-2.22,Sherwood Park,Total Hydrocarbons,2025-12-10T02:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T02:00:00-07:00
-0.0,Sherwood Park,Nitric Oxide,2025-12-10T02:00:00-07:00
-114.0,Sherwood Park,Wind Direction,2025-12-10T02:00:00-07:00
-,Sherwood Park,Nitrogen Dioxide,2025-12-10T02:00:00-07:00
-0.02,Sherwood Park,Ozone,2025-12-10T02:00:00-07:00
--18.0,Sherwood Park,Outdoor Temperature,2025-12-10T02:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T02:00:00-07:00
-5.1,Sherwood Park,Fine Particulate Matter,2025-12-10T02:00:00-07:00
-8.0,Sherwood Park,Wind Speed,2025-12-10T02:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T03:00:00-07:00
+2.23,Sherwood Park,Total Hydrocarbons,2025-12-10T03:00:00-07:00
+5.7,Sherwood Park,Fine Particulate Matter,2025-12-10T03:00:00-07:00
+0.004,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T03:00:00-07:00
 ,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T02:00:00-07:00
-0.006,Sherwood Park,Nitrogen Dioxide,2025-12-10T01:00:00-07:00
+5.1,Sherwood Park,Fine Particulate Matter,2025-12-10T02:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T02:00:00-07:00
+0.02,Sherwood Park,Ozone,2025-12-10T02:00:00-07:00
+,Sherwood Park,Nitrogen Dioxide,2025-12-10T02:00:00-07:00
+114.0,Sherwood Park,Wind Direction,2025-12-10T02:00:00-07:00
+0.0,Sherwood Park,Nitric Oxide,2025-12-10T02:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T02:00:00-07:00
+2.22,Sherwood Park,Total Hydrocarbons,2025-12-10T02:00:00-07:00
+2.0,Sherwood Park,,2025-12-10T02:00:00-07:00
+8.0,Sherwood Park,Wind Speed,2025-12-10T02:00:00-07:00
+-18.0,Sherwood Park,Outdoor Temperature,2025-12-10T02:00:00-07:00
+2.0,Sherwood Park,,2025-12-10T01:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T01:00:00-07:00
+122.0,Sherwood Park,Wind Direction,2025-12-10T01:00:00-07:00
 6.0,Sherwood Park,Wind Speed,2025-12-10T01:00:00-07:00
+0.0,Sherwood Park,Nitric Oxide,2025-12-10T01:00:00-07:00
 5.4,Sherwood Park,Fine Particulate Matter,2025-12-10T01:00:00-07:00
+-17.0,Sherwood Park,Outdoor Temperature,2025-12-10T01:00:00-07:00
+0.006,Sherwood Park,Nitrogen Dioxide,2025-12-10T01:00:00-07:00
+0.006,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T01:00:00-07:00
+2.25,Sherwood Park,Total Hydrocarbons,2025-12-10T01:00:00-07:00
 0.019,Sherwood Park,Ozone,2025-12-10T01:00:00-07:00
 ,Sherwood Park,Sulphur Dioxide,2025-12-10T01:00:00-07:00
-2.25,Sherwood Park,Total Hydrocarbons,2025-12-10T01:00:00-07:00
-2.0,Sherwood Park,,2025-12-10T01:00:00-07:00
-0.0,Sherwood Park,Nitric Oxide,2025-12-10T01:00:00-07:00
-0.006,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T01:00:00-07:00
--17.0,Sherwood Park,Outdoor Temperature,2025-12-10T01:00:00-07:00
-122.0,Sherwood Park,Wind Direction,2025-12-10T01:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T00:00:00-07:00
-0.0,Sherwood Park,Nitric Oxide,2025-12-10T00:00:00-07:00
--18.0,Sherwood Park,Outdoor Temperature,2025-12-10T00:00:00-07:00
-122.0,Sherwood Park,Wind Direction,2025-12-10T00:00:00-07:00
-4.6,Sherwood Park,Fine Particulate Matter,2025-12-10T00:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T00:00:00-07:00
 2.0,Sherwood Park,,2025-12-10T00:00:00-07:00
 0.007,Sherwood Park,Total Oxides of Nitrogen,2025-12-10T00:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-10T00:00:00-07:00
+-18.0,Sherwood Park,Outdoor Temperature,2025-12-10T00:00:00-07:00
 6.0,Sherwood Park,Wind Speed,2025-12-10T00:00:00-07:00
+0.0,Sherwood Park,Nitric Oxide,2025-12-10T00:00:00-07:00
 2.27,Sherwood Park,Total Hydrocarbons,2025-12-10T00:00:00-07:00
-0.019,Sherwood Park,Ozone,2025-12-10T00:00:00-07:00
+4.6,Sherwood Park,Fine Particulate Matter,2025-12-10T00:00:00-07:00
 0.007,Sherwood Park,Nitrogen Dioxide,2025-12-10T00:00:00-07:00
-2.0,Sherwood Park,,2025-12-09T23:00:00-07:00
-2.26,Sherwood Park,Total Hydrocarbons,2025-12-09T23:00:00-07:00
-125.0,Sherwood Park,Wind Direction,2025-12-09T23:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T23:00:00-07:00
--18.0,Sherwood Park,Outdoor Temperature,2025-12-09T23:00:00-07:00
+0.019,Sherwood Park,Ozone,2025-12-10T00:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-10T00:00:00-07:00
+122.0,Sherwood Park,Wind Direction,2025-12-10T00:00:00-07:00
 4.1,Sherwood Park,Fine Particulate Matter,2025-12-09T23:00:00-07:00
+125.0,Sherwood Park,Wind Direction,2025-12-09T23:00:00-07:00
+0.0,Sherwood Park,Nitric Oxide,2025-12-09T23:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T23:00:00-07:00
+2.0,Sherwood Park,,2025-12-09T23:00:00-07:00
+0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T23:00:00-07:00
+2.26,Sherwood Park,Total Hydrocarbons,2025-12-09T23:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-09T23:00:00-07:00
+-18.0,Sherwood Park,Outdoor Temperature,2025-12-09T23:00:00-07:00
 0.019,Sherwood Park,Ozone,2025-12-09T23:00:00-07:00
 5.0,Sherwood Park,Wind Speed,2025-12-09T23:00:00-07:00
 0.009,Sherwood Park,Nitrogen Dioxide,2025-12-09T23:00:00-07:00
-0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T23:00:00-07:00
-0.0,Sherwood Park,Nitric Oxide,2025-12-09T23:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-09T23:00:00-07:00
+-19.0,Sherwood Park,Outdoor Temperature,2025-12-09T22:00:00-07:00
+0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T22:00:00-07:00
+,Sherwood Park,,2025-12-09T22:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T22:00:00-07:00
+2.28,Sherwood Park,Total Hydrocarbons,2025-12-09T22:00:00-07:00
+0.009,Sherwood Park,Nitrogen Dioxide,2025-12-09T22:00:00-07:00
 0.0,Sherwood Park,Sulphur Dioxide,2025-12-09T22:00:00-07:00
 0.0,Sherwood Park,Nitric Oxide,2025-12-09T22:00:00-07:00
-0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T22:00:00-07:00
-3.6,Sherwood Park,Fine Particulate Matter,2025-12-09T22:00:00-07:00
 111.0,Sherwood Park,Wind Direction,2025-12-09T22:00:00-07:00
-2.28,Sherwood Park,Total Hydrocarbons,2025-12-09T22:00:00-07:00
-1.0,Sherwood Park,Wind Speed,2025-12-09T22:00:00-07:00
+3.6,Sherwood Park,Fine Particulate Matter,2025-12-09T22:00:00-07:00
 0.02,Sherwood Park,Ozone,2025-12-09T22:00:00-07:00
--19.0,Sherwood Park,Outdoor Temperature,2025-12-09T22:00:00-07:00
-0.009,Sherwood Park,Nitrogen Dioxide,2025-12-09T22:00:00-07:00
-,Sherwood Park,,2025-12-09T22:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-09T21:00:00-07:00
-0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T21:00:00-07:00
-3.4,Sherwood Park,Fine Particulate Matter,2025-12-09T21:00:00-07:00
-69.0,Sherwood Park,Wind Direction,2025-12-09T21:00:00-07:00
+1.0,Sherwood Park,Wind Speed,2025-12-09T22:00:00-07:00
+,Sherwood Park,Ozone,2025-12-09T21:00:00-07:00
 2.27,Sherwood Park,Total Hydrocarbons,2025-12-09T21:00:00-07:00
+-19.0,Sherwood Park,Outdoor Temperature,2025-12-09T21:00:00-07:00
+0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T21:00:00-07:00
+,Sherwood Park,,2025-12-09T21:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T21:00:00-07:00
 0.0,Sherwood Park,Sulphur Dioxide,2025-12-09T21:00:00-07:00
+69.0,Sherwood Park,Wind Direction,2025-12-09T21:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-09T21:00:00-07:00
 0.008,Sherwood Park,Nitrogen Dioxide,2025-12-09T21:00:00-07:00
+3.4,Sherwood Park,Fine Particulate Matter,2025-12-09T21:00:00-07:00
 2.0,Sherwood Park,Wind Speed,2025-12-09T21:00:00-07:00
--19.0,Sherwood Park,Outdoor Temperature,2025-12-09T21:00:00-07:00
-,Sherwood Park,Ozone,2025-12-09T21:00:00-07:00
-,Sherwood Park,,2025-12-09T21:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-09T20:00:00-07:00
-0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T20:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-09T20:00:00-07:00
-,Sherwood Park,Ozone,2025-12-09T20:00:00-07:00
-6.0,Sherwood Park,Wind Speed,2025-12-09T20:00:00-07:00
-2.3,Sherwood Park,Total Hydrocarbons,2025-12-09T20:00:00-07:00
-0.008,Sherwood Park,Nitrogen Dioxide,2025-12-09T20:00:00-07:00
--18.0,Sherwood Park,Outdoor Temperature,2025-12-09T20:00:00-07:00
+,Sherwood Park,,2025-12-09T20:00:00-07:00
 79.0,Sherwood Park,Wind Direction,2025-12-09T20:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T20:00:00-07:00
-,Sherwood Park,,2025-12-09T20:00:00-07:00
+0.008,Sherwood Park,Nitrogen Dioxide,2025-12-09T20:00:00-07:00
+6.0,Sherwood Park,Wind Speed,2025-12-09T20:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-09T20:00:00-07:00
+0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T20:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-09T20:00:00-07:00
 3.8,Sherwood Park,Fine Particulate Matter,2025-12-09T20:00:00-07:00
-,Sherwood Park,Ozone,2025-12-09T19:00:00-07:00
+2.3,Sherwood Park,Total Hydrocarbons,2025-12-09T20:00:00-07:00
+,Sherwood Park,Ozone,2025-12-09T20:00:00-07:00
+-18.0,Sherwood Park,Outdoor Temperature,2025-12-09T20:00:00-07:00
 2.28,Sherwood Park,Total Hydrocarbons,2025-12-09T19:00:00-07:00
-0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T19:00:00-07:00
--18.0,Sherwood Park,Outdoor Temperature,2025-12-09T19:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-09T19:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T19:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-09T19:00:00-07:00
-3.9,Sherwood Park,Fine Particulate Matter,2025-12-09T19:00:00-07:00
-5.0,Sherwood Park,Wind Speed,2025-12-09T19:00:00-07:00
-,Sherwood Park,,2025-12-09T19:00:00-07:00
 86.0,Sherwood Park,Wind Direction,2025-12-09T19:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-09T19:00:00-07:00
+5.0,Sherwood Park,Wind Speed,2025-12-09T19:00:00-07:00
+0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T19:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-09T19:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T19:00:00-07:00
+,Sherwood Park,,2025-12-09T19:00:00-07:00
+3.9,Sherwood Park,Fine Particulate Matter,2025-12-09T19:00:00-07:00
 0.008,Sherwood Park,Nitrogen Dioxide,2025-12-09T19:00:00-07:00
-2.29,Sherwood Park,Total Hydrocarbons,2025-12-09T18:00:00-07:00
-,Sherwood Park,Ozone,2025-12-09T18:00:00-07:00
--18.0,Sherwood Park,Outdoor Temperature,2025-12-09T18:00:00-07:00
-6.0,Sherwood Park,Wind Speed,2025-12-09T18:00:00-07:00
-0.013,Sherwood Park,Nitrogen Dioxide,2025-12-09T18:00:00-07:00
-,Sherwood Park,,2025-12-09T18:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-09T18:00:00-07:00
+,Sherwood Park,Ozone,2025-12-09T19:00:00-07:00
+-18.0,Sherwood Park,Outdoor Temperature,2025-12-09T19:00:00-07:00
 0.015,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T18:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T18:00:00-07:00
-4.5,Sherwood Park,Fine Particulate Matter,2025-12-09T18:00:00-07:00
 73.0,Sherwood Park,Wind Direction,2025-12-09T18:00:00-07:00
+-18.0,Sherwood Park,Outdoor Temperature,2025-12-09T18:00:00-07:00
+,Sherwood Park,,2025-12-09T18:00:00-07:00
+0.013,Sherwood Park,Nitrogen Dioxide,2025-12-09T18:00:00-07:00
+4.5,Sherwood Park,Fine Particulate Matter,2025-12-09T18:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T18:00:00-07:00
+6.0,Sherwood Park,Wind Speed,2025-12-09T18:00:00-07:00
+2.29,Sherwood Park,Total Hydrocarbons,2025-12-09T18:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-09T18:00:00-07:00
+,Sherwood Park,Ozone,2025-12-09T18:00:00-07:00
 0.003,Sherwood Park,Nitric Oxide,2025-12-09T18:00:00-07:00
-,Sherwood Park,Nitrogen Dioxide,2025-12-09T17:00:00-07:00
-,Sherwood Park,Ozone,2025-12-09T17:00:00-07:00
-134.0,Sherwood Park,Wind Direction,2025-12-09T17:00:00-07:00
-2.31,Sherwood Park,Total Hydrocarbons,2025-12-09T17:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-09T17:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T17:00:00-07:00
--17.0,Sherwood Park,Outdoor Temperature,2025-12-09T17:00:00-07:00
-,Sherwood Park,,2025-12-09T17:00:00-07:00
-8.0,Sherwood Park,Wind Speed,2025-12-09T17:00:00-07:00
-,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T17:00:00-07:00
 5.1,Sherwood Park,Fine Particulate Matter,2025-12-09T17:00:00-07:00
+8.0,Sherwood Park,Wind Speed,2025-12-09T17:00:00-07:00
+,Sherwood Park,Ozone,2025-12-09T17:00:00-07:00
+2.31,Sherwood Park,Total Hydrocarbons,2025-12-09T17:00:00-07:00
+,Sherwood Park,Nitrogen Dioxide,2025-12-09T17:00:00-07:00
+-17.0,Sherwood Park,Outdoor Temperature,2025-12-09T17:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T17:00:00-07:00
+,Sherwood Park,,2025-12-09T17:00:00-07:00
 ,Sherwood Park,Nitric Oxide,2025-12-09T17:00:00-07:00
-2.29,Sherwood Park,Total Hydrocarbons,2025-12-09T16:00:00-07:00
+,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T17:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-09T17:00:00-07:00
+134.0,Sherwood Park,Wind Direction,2025-12-09T17:00:00-07:00
+9.0,Sherwood Park,Wind Speed,2025-12-09T16:00:00-07:00
 0.017,Sherwood Park,Ozone,2025-12-09T16:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-09T16:00:00-07:00
+2.29,Sherwood Park,Total Hydrocarbons,2025-12-09T16:00:00-07:00
 ,Sherwood Park,Nitrogen Dioxide,2025-12-09T16:00:00-07:00
-256.0,Sherwood Park,Wind Direction,2025-12-09T16:00:00-07:00
-,Sherwood Park,,2025-12-09T16:00:00-07:00
-,Sherwood Park,Nitric Oxide,2025-12-09T16:00:00-07:00
 ,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T16:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T16:00:00-07:00
-9.0,Sherwood Park,Wind Speed,2025-12-09T16:00:00-07:00
+,Sherwood Park,Nitric Oxide,2025-12-09T16:00:00-07:00
 6.0,Sherwood Park,Fine Particulate Matter,2025-12-09T16:00:00-07:00
+,Sherwood Park,,2025-12-09T16:00:00-07:00
+256.0,Sherwood Park,Wind Direction,2025-12-09T16:00:00-07:00
 -17.0,Sherwood Park,Outdoor Temperature,2025-12-09T16:00:00-07:00
-,Sherwood Park,Nitric Oxide,2025-12-09T15:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-09T16:00:00-07:00
+2.26,Sherwood Park,Total Hydrocarbons,2025-12-09T15:00:00-07:00
+,Sherwood Park,,2025-12-09T15:00:00-07:00
+282.0,Sherwood Park,Wind Direction,2025-12-09T15:00:00-07:00
 ,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T15:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T15:00:00-07:00
-,Sherwood Park,,2025-12-09T15:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-09T15:00:00-07:00
-282.0,Sherwood Park,Wind Direction,2025-12-09T15:00:00-07:00
-,Sherwood Park,Nitrogen Dioxide,2025-12-09T15:00:00-07:00
-2.26,Sherwood Park,Total Hydrocarbons,2025-12-09T15:00:00-07:00
-9.0,Sherwood Park,Wind Speed,2025-12-09T15:00:00-07:00
-0.019,Sherwood Park,Ozone,2025-12-09T15:00:00-07:00
-5.2,Sherwood Park,Fine Particulate Matter,2025-12-09T15:00:00-07:00
 -16.0,Sherwood Park,Outdoor Temperature,2025-12-09T15:00:00-07:00
-,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T14:00:00-07:00
-,Sherwood Park,Nitric Oxide,2025-12-09T14:00:00-07:00
-,Sherwood Park,Nitrogen Dioxide,2025-12-09T14:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-09T14:00:00-07:00
+,Sherwood Park,Nitric Oxide,2025-12-09T15:00:00-07:00
+,Sherwood Park,Nitrogen Dioxide,2025-12-09T15:00:00-07:00
+0.019,Sherwood Park,Ozone,2025-12-09T15:00:00-07:00
+9.0,Sherwood Park,Wind Speed,2025-12-09T15:00:00-07:00
+5.2,Sherwood Park,Fine Particulate Matter,2025-12-09T15:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-09T15:00:00-07:00
 294.0,Sherwood Park,Wind Direction,2025-12-09T14:00:00-07:00
-5.0,Sherwood Park,Fine Particulate Matter,2025-12-09T14:00:00-07:00
+,Sherwood Park,Nitric Oxide,2025-12-09T14:00:00-07:00
+,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T14:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T14:00:00-07:00
-2.26,Sherwood Park,Total Hydrocarbons,2025-12-09T14:00:00-07:00
-10.0,Sherwood Park,Wind Speed,2025-12-09T14:00:00-07:00
 0.019,Sherwood Park,Ozone,2025-12-09T14:00:00-07:00
 -16.0,Sherwood Park,Outdoor Temperature,2025-12-09T14:00:00-07:00
 ,Sherwood Park,,2025-12-09T14:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T13:00:00-07:00
-2.0,Sherwood Park,,2025-12-09T13:00:00-07:00
+,Sherwood Park,Nitrogen Dioxide,2025-12-09T14:00:00-07:00
+10.0,Sherwood Park,Wind Speed,2025-12-09T14:00:00-07:00
+2.26,Sherwood Park,Total Hydrocarbons,2025-12-09T14:00:00-07:00
+5.0,Sherwood Park,Fine Particulate Matter,2025-12-09T14:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-09T14:00:00-07:00
 0.002,Sherwood Park,Sulphur Dioxide,2025-12-09T13:00:00-07:00
 0.019,Sherwood Park,Ozone,2025-12-09T13:00:00-07:00
--16.0,Sherwood Park,Outdoor Temperature,2025-12-09T13:00:00-07:00
-11.0,Sherwood Park,Wind Speed,2025-12-09T13:00:00-07:00
-,Sherwood Park,Nitrogen Dioxide,2025-12-09T13:00:00-07:00
-2.25,Sherwood Park,Total Hydrocarbons,2025-12-09T13:00:00-07:00
+2.0,Sherwood Park,,2025-12-09T13:00:00-07:00
 295.0,Sherwood Park,Wind Direction,2025-12-09T13:00:00-07:00
-,Sherwood Park,Nitric Oxide,2025-12-09T13:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T13:00:00-07:00
 5.4,Sherwood Park,Fine Particulate Matter,2025-12-09T13:00:00-07:00
+,Sherwood Park,Nitrogen Dioxide,2025-12-09T13:00:00-07:00
+11.0,Sherwood Park,Wind Speed,2025-12-09T13:00:00-07:00
+,Sherwood Park,Nitric Oxide,2025-12-09T13:00:00-07:00
 ,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T13:00:00-07:00
+-16.0,Sherwood Park,Outdoor Temperature,2025-12-09T13:00:00-07:00
+2.25,Sherwood Park,Total Hydrocarbons,2025-12-09T13:00:00-07:00
 0.0,Sherwood Park,Sulphur Dioxide,2025-12-09T12:00:00-07:00
--16.0,Sherwood Park,Outdoor Temperature,2025-12-09T12:00:00-07:00
-2.24,Sherwood Park,Total Hydrocarbons,2025-12-09T12:00:00-07:00
-12.0,Sherwood Park,Wind Speed,2025-12-09T12:00:00-07:00
-0.019,Sherwood Park,Ozone,2025-12-09T12:00:00-07:00
+2.0,Sherwood Park,,2025-12-09T12:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T12:00:00-07:00
 280.0,Sherwood Park,Wind Direction,2025-12-09T12:00:00-07:00
+0.019,Sherwood Park,Ozone,2025-12-09T12:00:00-07:00
 6.5,Sherwood Park,Fine Particulate Matter,2025-12-09T12:00:00-07:00
+12.0,Sherwood Park,Wind Speed,2025-12-09T12:00:00-07:00
+-16.0,Sherwood Park,Outdoor Temperature,2025-12-09T12:00:00-07:00
 0.006,Sherwood Park,Nitrogen Dioxide,2025-12-09T12:00:00-07:00
 0.011,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T12:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T12:00:00-07:00
 0.004,Sherwood Park,Nitric Oxide,2025-12-09T12:00:00-07:00
-2.0,Sherwood Park,,2025-12-09T12:00:00-07:00
-12.0,Sherwood Park,Wind Speed,2025-12-09T11:00:00-07:00
--16.0,Sherwood Park,Outdoor Temperature,2025-12-09T11:00:00-07:00
-6.4,Sherwood Park,Fine Particulate Matter,2025-12-09T11:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-09T11:00:00-07:00
-2.0,Sherwood Park,,2025-12-09T11:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T11:00:00-07:00
-0.004,Sherwood Park,Nitric Oxide,2025-12-09T11:00:00-07:00
-0.011,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T11:00:00-07:00
+2.24,Sherwood Park,Total Hydrocarbons,2025-12-09T12:00:00-07:00
 0.017,Sherwood Park,Ozone,2025-12-09T11:00:00-07:00
-266.0,Sherwood Park,Wind Direction,2025-12-09T11:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T11:00:00-07:00
+6.4,Sherwood Park,Fine Particulate Matter,2025-12-09T11:00:00-07:00
+-16.0,Sherwood Park,Outdoor Temperature,2025-12-09T11:00:00-07:00
+0.004,Sherwood Park,Nitric Oxide,2025-12-09T11:00:00-07:00
 2.22,Sherwood Park,Total Hydrocarbons,2025-12-09T11:00:00-07:00
+0.011,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T11:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-09T11:00:00-07:00
+12.0,Sherwood Park,Wind Speed,2025-12-09T11:00:00-07:00
 0.007,Sherwood Park,Nitrogen Dioxide,2025-12-09T11:00:00-07:00
-0.011,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T10:00:00-07:00
+266.0,Sherwood Park,Wind Direction,2025-12-09T11:00:00-07:00
+2.0,Sherwood Park,,2025-12-09T11:00:00-07:00
 0.003,Sherwood Park,Nitric Oxide,2025-12-09T10:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T10:00:00-07:00
-0.015,Sherwood Park,Ozone,2025-12-09T10:00:00-07:00
-2.0,Sherwood Park,,2025-12-09T10:00:00-07:00
 2.22,Sherwood Park,Total Hydrocarbons,2025-12-09T10:00:00-07:00
 -16.0,Sherwood Park,Outdoor Temperature,2025-12-09T10:00:00-07:00
-12.0,Sherwood Park,Wind Speed,2025-12-09T10:00:00-07:00
-266.0,Sherwood Park,Wind Direction,2025-12-09T10:00:00-07:00
-0.008,Sherwood Park,Nitrogen Dioxide,2025-12-09T10:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-09T10:00:00-07:00
+0.011,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T10:00:00-07:00
 5.1,Sherwood Park,Fine Particulate Matter,2025-12-09T10:00:00-07:00
+12.0,Sherwood Park,Wind Speed,2025-12-09T10:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T10:00:00-07:00
+0.008,Sherwood Park,Nitrogen Dioxide,2025-12-09T10:00:00-07:00
+266.0,Sherwood Park,Wind Direction,2025-12-09T10:00:00-07:00
+0.015,Sherwood Park,Ozone,2025-12-09T10:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-09T10:00:00-07:00
+2.0,Sherwood Park,,2025-12-09T10:00:00-07:00
+0.011,Sherwood Park,Ozone,2025-12-09T09:00:00-07:00
+0.014,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T09:00:00-07:00
 5.4,Sherwood Park,Fine Particulate Matter,2025-12-09T09:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T09:00:00-07:00
-291.0,Sherwood Park,Wind Direction,2025-12-09T09:00:00-07:00
-2.0,Sherwood Park,,2025-12-09T09:00:00-07:00
 -15.0,Sherwood Park,Outdoor Temperature,2025-12-09T09:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T09:00:00-07:00
+2.22,Sherwood Park,Total Hydrocarbons,2025-12-09T09:00:00-07:00
 0.001,Sherwood Park,Sulphur Dioxide,2025-12-09T09:00:00-07:00
+2.0,Sherwood Park,,2025-12-09T09:00:00-07:00
+0.01,Sherwood Park,Nitrogen Dioxide,2025-12-09T09:00:00-07:00
+291.0,Sherwood Park,Wind Direction,2025-12-09T09:00:00-07:00
 0.004,Sherwood Park,Nitric Oxide,2025-12-09T09:00:00-07:00
 12.0,Sherwood Park,Wind Speed,2025-12-09T09:00:00-07:00
-0.014,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T09:00:00-07:00
-0.01,Sherwood Park,Nitrogen Dioxide,2025-12-09T09:00:00-07:00
-0.011,Sherwood Park,Ozone,2025-12-09T09:00:00-07:00
-2.22,Sherwood Park,Total Hydrocarbons,2025-12-09T09:00:00-07:00
--14.0,Sherwood Park,Outdoor Temperature,2025-12-09T08:00:00-07:00
-2.0,Sherwood Park,,2025-12-09T08:00:00-07:00
+0.01,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T08:00:00-07:00
+0.008,Sherwood Park,Nitrogen Dioxide,2025-12-09T08:00:00-07:00
 0.002,Sherwood Park,Nitric Oxide,2025-12-09T08:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T08:00:00-07:00
+2.0,Sherwood Park,,2025-12-09T08:00:00-07:00
+286.0,Sherwood Park,Wind Direction,2025-12-09T08:00:00-07:00
+2.18,Sherwood Park,Total Hydrocarbons,2025-12-09T08:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-09T08:00:00-07:00
 13.0,Sherwood Park,Wind Speed,2025-12-09T08:00:00-07:00
 5.6,Sherwood Park,Fine Particulate Matter,2025-12-09T08:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T08:00:00-07:00
-0.008,Sherwood Park,Nitrogen Dioxide,2025-12-09T08:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-09T08:00:00-07:00
-286.0,Sherwood Park,Wind Direction,2025-12-09T08:00:00-07:00
+-14.0,Sherwood Park,Outdoor Temperature,2025-12-09T08:00:00-07:00
 0.013,Sherwood Park,Ozone,2025-12-09T08:00:00-07:00
-0.01,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T08:00:00-07:00
-2.18,Sherwood Park,Total Hydrocarbons,2025-12-09T08:00:00-07:00
--13.0,Sherwood Park,Outdoor Temperature,2025-12-09T07:00:00-07:00
-6.2,Sherwood Park,Fine Particulate Matter,2025-12-09T07:00:00-07:00
-0.002,Sherwood Park,Nitric Oxide,2025-12-09T07:00:00-07:00
-291.0,Sherwood Park,Wind Direction,2025-12-09T07:00:00-07:00
-14.0,Sherwood Park,Wind Speed,2025-12-09T07:00:00-07:00
-2.0,Sherwood Park,,2025-12-09T07:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T07:00:00-07:00
-0.004,Sherwood Park,Sulphur Dioxide,2025-12-09T07:00:00-07:00
 2.18,Sherwood Park,Total Hydrocarbons,2025-12-09T07:00:00-07:00
-0.007,Sherwood Park,Nitrogen Dioxide,2025-12-09T07:00:00-07:00
+0.004,Sherwood Park,Sulphur Dioxide,2025-12-09T07:00:00-07:00
 0.015,Sherwood Park,Ozone,2025-12-09T07:00:00-07:00
+0.007,Sherwood Park,Nitrogen Dioxide,2025-12-09T07:00:00-07:00
+2.0,Sherwood Park,,2025-12-09T07:00:00-07:00
+14.0,Sherwood Park,Wind Speed,2025-12-09T07:00:00-07:00
+291.0,Sherwood Park,Wind Direction,2025-12-09T07:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T07:00:00-07:00
+0.002,Sherwood Park,Nitric Oxide,2025-12-09T07:00:00-07:00
+6.2,Sherwood Park,Fine Particulate Matter,2025-12-09T07:00:00-07:00
+-13.0,Sherwood Park,Outdoor Temperature,2025-12-09T07:00:00-07:00
 0.008,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T07:00:00-07:00
-0.002,Sherwood Park,Nitric Oxide,2025-12-09T06:00:00-07:00
-13.0,Sherwood Park,Wind Speed,2025-12-09T06:00:00-07:00
-6.1,Sherwood Park,Fine Particulate Matter,2025-12-09T06:00:00-07:00
-0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T06:00:00-07:00
-0.015,Sherwood Park,Ozone,2025-12-09T06:00:00-07:00
-2.0,Sherwood Park,,2025-12-09T06:00:00-07:00
-2.15,Sherwood Park,Total Hydrocarbons,2025-12-09T06:00:00-07:00
-308.0,Sherwood Park,Wind Direction,2025-12-09T06:00:00-07:00
 0.003,Sherwood Park,Sulphur Dioxide,2025-12-09T06:00:00-07:00
--13.0,Sherwood Park,Outdoor Temperature,2025-12-09T06:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T06:00:00-07:00
+-13.0,Sherwood Park,Outdoor Temperature,2025-12-09T06:00:00-07:00
+2.15,Sherwood Park,Total Hydrocarbons,2025-12-09T06:00:00-07:00
 0.008,Sherwood Park,Nitrogen Dioxide,2025-12-09T06:00:00-07:00
+0.002,Sherwood Park,Nitric Oxide,2025-12-09T06:00:00-07:00
+2.0,Sherwood Park,,2025-12-09T06:00:00-07:00
+0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T06:00:00-07:00
+308.0,Sherwood Park,Wind Direction,2025-12-09T06:00:00-07:00
+0.015,Sherwood Park,Ozone,2025-12-09T06:00:00-07:00
+6.1,Sherwood Park,Fine Particulate Matter,2025-12-09T06:00:00-07:00
+13.0,Sherwood Park,Wind Speed,2025-12-09T06:00:00-07:00
 2.16,Sherwood Park,Total Hydrocarbons,2025-12-09T05:00:00-07:00
-0.016,Sherwood Park,Ozone,2025-12-09T05:00:00-07:00
-269.0,Sherwood Park,Wind Direction,2025-12-09T05:00:00-07:00
 2.0,Sherwood Park,,2025-12-09T05:00:00-07:00
-0.007,Sherwood Park,Nitrogen Dioxide,2025-12-09T05:00:00-07:00
-6.5,Sherwood Park,Fine Particulate Matter,2025-12-09T05:00:00-07:00
 0.008,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T05:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-09T05:00:00-07:00
-0.004,Sherwood Park,Sulphur Dioxide,2025-12-09T05:00:00-07:00
-11.0,Sherwood Park,Wind Speed,2025-12-09T05:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T05:00:00-07:00
+269.0,Sherwood Park,Wind Direction,2025-12-09T05:00:00-07:00
+0.004,Sherwood Park,Sulphur Dioxide,2025-12-09T05:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-09T05:00:00-07:00
+0.007,Sherwood Park,Nitrogen Dioxide,2025-12-09T05:00:00-07:00
 -13.0,Sherwood Park,Outdoor Temperature,2025-12-09T05:00:00-07:00
+0.016,Sherwood Park,Ozone,2025-12-09T05:00:00-07:00
+6.5,Sherwood Park,Fine Particulate Matter,2025-12-09T05:00:00-07:00
+11.0,Sherwood Park,Wind Speed,2025-12-09T05:00:00-07:00
 0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T04:00:00-07:00
-0.015,Sherwood Park,Ozone,2025-12-09T04:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T04:00:00-07:00
-2.17,Sherwood Park,Total Hydrocarbons,2025-12-09T04:00:00-07:00
-0.014,Sherwood Park,Sulphur Dioxide,2025-12-09T04:00:00-07:00
-0.008,Sherwood Park,Nitrogen Dioxide,2025-12-09T04:00:00-07:00
-12.0,Sherwood Park,Wind Speed,2025-12-09T04:00:00-07:00
-2.0,Sherwood Park,,2025-12-09T04:00:00-07:00
 10.7,Sherwood Park,Fine Particulate Matter,2025-12-09T04:00:00-07:00
 300.0,Sherwood Park,Wind Direction,2025-12-09T04:00:00-07:00
--13.0,Sherwood Park,Outdoor Temperature,2025-12-09T04:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T04:00:00-07:00
 0.002,Sherwood Park,Nitric Oxide,2025-12-09T04:00:00-07:00
-0.016,Sherwood Park,Ozone,2025-12-09T03:00:00-07:00
-2.18,Sherwood Park,Total Hydrocarbons,2025-12-09T03:00:00-07:00
-309.0,Sherwood Park,Wind Direction,2025-12-09T03:00:00-07:00
-0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T03:00:00-07:00
-13.5,Sherwood Park,Fine Particulate Matter,2025-12-09T03:00:00-07:00
+2.0,Sherwood Park,,2025-12-09T04:00:00-07:00
+2.17,Sherwood Park,Total Hydrocarbons,2025-12-09T04:00:00-07:00
+0.008,Sherwood Park,Nitrogen Dioxide,2025-12-09T04:00:00-07:00
+0.014,Sherwood Park,Sulphur Dioxide,2025-12-09T04:00:00-07:00
+0.015,Sherwood Park,Ozone,2025-12-09T04:00:00-07:00
+12.0,Sherwood Park,Wind Speed,2025-12-09T04:00:00-07:00
+-13.0,Sherwood Park,Outdoor Temperature,2025-12-09T04:00:00-07:00
 0.008,Sherwood Park,Nitrogen Dioxide,2025-12-09T03:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T03:00:00-07:00
+309.0,Sherwood Park,Wind Direction,2025-12-09T03:00:00-07:00
+13.5,Sherwood Park,Fine Particulate Matter,2025-12-09T03:00:00-07:00
+0.016,Sherwood Park,Ozone,2025-12-09T03:00:00-07:00
 11.0,Sherwood Park,Wind Speed,2025-12-09T03:00:00-07:00
 -13.0,Sherwood Park,Outdoor Temperature,2025-12-09T03:00:00-07:00
 2.0,Sherwood Park,,2025-12-09T03:00:00-07:00
 0.002,Sherwood Park,Nitric Oxide,2025-12-09T03:00:00-07:00
+0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T03:00:00-07:00
+2.18,Sherwood Park,Total Hydrocarbons,2025-12-09T03:00:00-07:00
 0.006,Sherwood Park,Sulphur Dioxide,2025-12-09T03:00:00-07:00
-3.0,Sherwood Park,,2025-12-09T02:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T02:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-09T02:00:00-07:00
 ,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T02:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-09T02:00:00-07:00
 14.9,Sherwood Park,Fine Particulate Matter,2025-12-09T02:00:00-07:00
 313.0,Sherwood Park,Wind Direction,2025-12-09T02:00:00-07:00
-,Sherwood Park,Nitrogen Dioxide,2025-12-09T02:00:00-07:00
-13.0,Sherwood Park,Wind Speed,2025-12-09T02:00:00-07:00
-0.017,Sherwood Park,Ozone,2025-12-09T02:00:00-07:00
--12.0,Sherwood Park,Outdoor Temperature,2025-12-09T02:00:00-07:00
-,Sherwood Park,Sulphur Dioxide,2025-12-09T02:00:00-07:00
 2.15,Sherwood Park,Total Hydrocarbons,2025-12-09T02:00:00-07:00
-0.002,Sherwood Park,Nitric Oxide,2025-12-09T01:00:00-07:00
+,Sherwood Park,Sulphur Dioxide,2025-12-09T02:00:00-07:00
+-12.0,Sherwood Park,Outdoor Temperature,2025-12-09T02:00:00-07:00
+0.017,Sherwood Park,Ozone,2025-12-09T02:00:00-07:00
+13.0,Sherwood Park,Wind Speed,2025-12-09T02:00:00-07:00
+,Sherwood Park,Nitrogen Dioxide,2025-12-09T02:00:00-07:00
+3.0,Sherwood Park,,2025-12-09T02:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T02:00:00-07:00
+-10.0,Sherwood Park,Outdoor Temperature,2025-12-09T01:00:00-07:00
+0.007,Sherwood Park,Ozone,2025-12-09T01:00:00-07:00
+14.0,Sherwood Park,Wind Speed,2025-12-09T01:00:00-07:00
+0.016,Sherwood Park,Nitrogen Dioxide,2025-12-09T01:00:00-07:00
 0.003,Sherwood Park,Sulphur Dioxide,2025-12-09T01:00:00-07:00
+2.29,Sherwood Park,Total Hydrocarbons,2025-12-09T01:00:00-07:00
 3.0,Sherwood Park,,2025-12-09T01:00:00-07:00
 21.5,Sherwood Park,Fine Particulate Matter,2025-12-09T01:00:00-07:00
-14.0,Sherwood Park,Wind Speed,2025-12-09T01:00:00-07:00
-0.007,Sherwood Park,Ozone,2025-12-09T01:00:00-07:00
-0.016,Sherwood Park,Nitrogen Dioxide,2025-12-09T01:00:00-07:00
+0.002,Sherwood Park,Nitric Oxide,2025-12-09T01:00:00-07:00
 310.0,Sherwood Park,Wind Direction,2025-12-09T01:00:00-07:00
 0.017,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T01:00:00-07:00
-2.29,Sherwood Park,Total Hydrocarbons,2025-12-09T01:00:00-07:00
--10.0,Sherwood Park,Outdoor Temperature,2025-12-09T01:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T01:00:00-07:00
--9.0,Sherwood Park,Outdoor Temperature,2025-12-09T00:00:00-07:00
-0.011,Sherwood Park,Ozone,2025-12-09T00:00:00-07:00
 2.21,Sherwood Park,Total Hydrocarbons,2025-12-09T00:00:00-07:00
-0.011,Sherwood Park,Nitrogen Dioxide,2025-12-09T00:00:00-07:00
-0.012,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T00:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T00:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-09T00:00:00-07:00
-3.0,Sherwood Park,,2025-12-09T00:00:00-07:00
 19.5,Sherwood Park,Fine Particulate Matter,2025-12-09T00:00:00-07:00
-5.0,Sherwood Park,Wind Speed,2025-12-09T00:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-09T00:00:00-07:00
 0.0,Sherwood Park,Sulphur Dioxide,2025-12-09T00:00:00-07:00
+3.0,Sherwood Park,,2025-12-09T00:00:00-07:00
 216.0,Sherwood Park,Wind Direction,2025-12-09T00:00:00-07:00
-2.34,Sherwood Park,Total Hydrocarbons,2025-12-08T23:00:00-07:00
-0.006,Sherwood Park,Ozone,2025-12-08T23:00:00-07:00
-6.0,Sherwood Park,Wind Speed,2025-12-08T23:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-08T23:00:00-07:00
-0.024,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T23:00:00-07:00
-19.1,Sherwood Park,Fine Particulate Matter,2025-12-08T23:00:00-07:00
-3.0,Sherwood Park,,2025-12-08T23:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-08T23:00:00-07:00
--10.0,Sherwood Park,Outdoor Temperature,2025-12-08T23:00:00-07:00
+5.0,Sherwood Park,Wind Speed,2025-12-09T00:00:00-07:00
+0.011,Sherwood Park,Nitrogen Dioxide,2025-12-09T00:00:00-07:00
+0.011,Sherwood Park,Ozone,2025-12-09T00:00:00-07:00
+-9.0,Sherwood Park,Outdoor Temperature,2025-12-09T00:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-09T00:00:00-07:00
+0.012,Sherwood Park,Total Oxides of Nitrogen,2025-12-09T00:00:00-07:00
 68.0,Sherwood Park,Wind Direction,2025-12-08T23:00:00-07:00
-0.019,Sherwood Park,Nitrogen Dioxide,2025-12-08T23:00:00-07:00
+6.0,Sherwood Park,Wind Speed,2025-12-08T23:00:00-07:00
+-10.0,Sherwood Park,Outdoor Temperature,2025-12-08T23:00:00-07:00
 0.005,Sherwood Park,Nitric Oxide,2025-12-08T23:00:00-07:00
-3.0,Sherwood Park,,2025-12-08T22:00:00-07:00
-0.002,Sherwood Park,Ozone,2025-12-08T22:00:00-07:00
+0.019,Sherwood Park,Nitrogen Dioxide,2025-12-08T23:00:00-07:00
+0.006,Sherwood Park,Ozone,2025-12-08T23:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-08T23:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-08T23:00:00-07:00
+3.0,Sherwood Park,,2025-12-08T23:00:00-07:00
+19.1,Sherwood Park,Fine Particulate Matter,2025-12-08T23:00:00-07:00
+0.024,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T23:00:00-07:00
+2.34,Sherwood Park,Total Hydrocarbons,2025-12-08T23:00:00-07:00
+3.0,Sherwood Park,Wind Speed,2025-12-08T22:00:00-07:00
+167.0,Sherwood Park,Wind Direction,2025-12-08T22:00:00-07:00
+0.008,Sherwood Park,Nitric Oxide,2025-12-08T22:00:00-07:00
 0.023,Sherwood Park,Nitrogen Dioxide,2025-12-08T22:00:00-07:00
 -10.0,Sherwood Park,Outdoor Temperature,2025-12-08T22:00:00-07:00
-18.7,Sherwood Park,Fine Particulate Matter,2025-12-08T22:00:00-07:00
-167.0,Sherwood Park,Wind Direction,2025-12-08T22:00:00-07:00
-0.031,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T22:00:00-07:00
-3.13,Sherwood Park,Total Hydrocarbons,2025-12-08T22:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-08T22:00:00-07:00
 0.001,Sherwood Park,Sulphur Dioxide,2025-12-08T22:00:00-07:00
-0.008,Sherwood Park,Nitric Oxide,2025-12-08T22:00:00-07:00
-3.0,Sherwood Park,Wind Speed,2025-12-08T22:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-08T22:00:00-07:00
+0.002,Sherwood Park,Ozone,2025-12-08T22:00:00-07:00
+0.031,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T22:00:00-07:00
+18.7,Sherwood Park,Fine Particulate Matter,2025-12-08T22:00:00-07:00
+3.0,Sherwood Park,,2025-12-08T22:00:00-07:00
+3.13,Sherwood Park,Total Hydrocarbons,2025-12-08T22:00:00-07:00
+-10.0,Sherwood Park,Outdoor Temperature,2025-12-08T21:00:00-07:00
+0.013,Sherwood Park,Ozone,2025-12-08T21:00:00-07:00
+0.011,Sherwood Park,Nitrogen Dioxide,2025-12-08T21:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-08T21:00:00-07:00
+20.5,Sherwood Park,Fine Particulate Matter,2025-12-08T21:00:00-07:00
+0.011,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T21:00:00-07:00
+2.22,Sherwood Park,Total Hydrocarbons,2025-12-08T21:00:00-07:00
+3.0,Sherwood Park,,2025-12-08T21:00:00-07:00
 187.0,Sherwood Park,Wind Direction,2025-12-08T21:00:00-07:00
 2.0,Sherwood Park,Wind Speed,2025-12-08T21:00:00-07:00
-2.22,Sherwood Park,Total Hydrocarbons,2025-12-08T21:00:00-07:00
-20.5,Sherwood Park,Fine Particulate Matter,2025-12-08T21:00:00-07:00
 0.0,Sherwood Park,Sulphur Dioxide,2025-12-08T21:00:00-07:00
 0.001,Sherwood Park,Nitric Oxide,2025-12-08T21:00:00-07:00
-0.011,Sherwood Park,Nitrogen Dioxide,2025-12-08T21:00:00-07:00
-0.011,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T21:00:00-07:00
-3.0,Sherwood Park,,2025-12-08T21:00:00-07:00
--10.0,Sherwood Park,Outdoor Temperature,2025-12-08T21:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-08T21:00:00-07:00
-0.013,Sherwood Park,Ozone,2025-12-08T21:00:00-07:00
-20.6,Sherwood Park,Fine Particulate Matter,2025-12-08T20:00:00-07:00
-0.014,Sherwood Park,Ozone,2025-12-08T20:00:00-07:00
-0.01,Sherwood Park,Nitrogen Dioxide,2025-12-08T20:00:00-07:00
-2.18,Sherwood Park,Total Hydrocarbons,2025-12-08T20:00:00-07:00
-4.0,Sherwood Park,Wind Speed,2025-12-08T20:00:00-07:00
-0.01,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T20:00:00-07:00
-3.0,Sherwood Park,,2025-12-08T20:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-08T20:00:00-07:00
 106.0,Sherwood Park,Wind Direction,2025-12-08T20:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-08T20:00:00-07:00
--10.0,Sherwood Park,Outdoor Temperature,2025-12-08T20:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-08T20:00:00-07:00
-0.014,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T19:00:00-07:00
-23.0,Sherwood Park,Fine Particulate Matter,2025-12-08T19:00:00-07:00
-0.011,Sherwood Park,Ozone,2025-12-08T19:00:00-07:00
-5.0,Sherwood Park,Wind Speed,2025-12-08T19:00:00-07:00
-3.0,Sherwood Park,,2025-12-08T19:00:00-07:00
-98.0,Sherwood Park,Wind Direction,2025-12-08T19:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-08T19:00:00-07:00
-2.2,Sherwood Park,Total Hydrocarbons,2025-12-08T19:00:00-07:00
--10.0,Sherwood Park,Outdoor Temperature,2025-12-08T19:00:00-07:00
+2.18,Sherwood Park,Total Hydrocarbons,2025-12-08T20:00:00-07:00
+-10.0,Sherwood Park,Outdoor Temperature,2025-12-08T20:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-08T20:00:00-07:00
+0.01,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T20:00:00-07:00
+0.01,Sherwood Park,Nitrogen Dioxide,2025-12-08T20:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-08T20:00:00-07:00
+0.014,Sherwood Park,Ozone,2025-12-08T20:00:00-07:00
+4.0,Sherwood Park,Wind Speed,2025-12-08T20:00:00-07:00
+20.6,Sherwood Park,Fine Particulate Matter,2025-12-08T20:00:00-07:00
+3.0,Sherwood Park,,2025-12-08T20:00:00-07:00
 0.001,Sherwood Park,Nitric Oxide,2025-12-08T19:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-08T19:00:00-07:00
+5.0,Sherwood Park,Wind Speed,2025-12-08T19:00:00-07:00
+23.0,Sherwood Park,Fine Particulate Matter,2025-12-08T19:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-08T19:00:00-07:00
 0.013,Sherwood Park,Nitrogen Dioxide,2025-12-08T19:00:00-07:00
-0.032,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T18:00:00-07:00
-0.021,Sherwood Park,Nitrogen Dioxide,2025-12-08T18:00:00-07:00
-25.0,Sherwood Park,Fine Particulate Matter,2025-12-08T18:00:00-07:00
--10.0,Sherwood Park,Outdoor Temperature,2025-12-08T18:00:00-07:00
+0.011,Sherwood Park,Ozone,2025-12-08T19:00:00-07:00
+0.014,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T19:00:00-07:00
+98.0,Sherwood Park,Wind Direction,2025-12-08T19:00:00-07:00
+2.2,Sherwood Park,Total Hydrocarbons,2025-12-08T19:00:00-07:00
+3.0,Sherwood Park,,2025-12-08T19:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-08T19:00:00-07:00
+-10.0,Sherwood Park,Outdoor Temperature,2025-12-08T19:00:00-07:00
 0.011,Sherwood Park,Nitric Oxide,2025-12-08T18:00:00-07:00
-80.0,Sherwood Park,Wind Direction,2025-12-08T18:00:00-07:00
-4.0,Sherwood Park,Wind Speed,2025-12-08T18:00:00-07:00
-,Sherwood Park,Sulphur Dioxide,2025-12-08T18:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-08T18:00:00-07:00
 0.005,Sherwood Park,Ozone,2025-12-08T18:00:00-07:00
-2.27,Sherwood Park,Total Hydrocarbons,2025-12-08T18:00:00-07:00
+4.0,Sherwood Park,Wind Speed,2025-12-08T18:00:00-07:00
+0.032,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T18:00:00-07:00
+25.0,Sherwood Park,Fine Particulate Matter,2025-12-08T18:00:00-07:00
+0.021,Sherwood Park,Nitrogen Dioxide,2025-12-08T18:00:00-07:00
+-10.0,Sherwood Park,Outdoor Temperature,2025-12-08T18:00:00-07:00
+80.0,Sherwood Park,Wind Direction,2025-12-08T18:00:00-07:00
+,Sherwood Park,Sulphur Dioxide,2025-12-08T18:00:00-07:00
 3.0,Sherwood Park,,2025-12-08T18:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-08T18:00:00-07:00
+2.27,Sherwood Park,Total Hydrocarbons,2025-12-08T18:00:00-07:00
+0.042,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T17:00:00-07:00
 0.016,Sherwood Park,Nitric Oxide,2025-12-08T17:00:00-07:00
-42.0,Sherwood Park,Wind Direction,2025-12-08T17:00:00-07:00
-,Sherwood Park,Sulphur Dioxide,2025-12-08T17:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-08T17:00:00-07:00
 -10.0,Sherwood Park,Outdoor Temperature,2025-12-08T17:00:00-07:00
 4.0,Sherwood Park,Wind Speed,2025-12-08T17:00:00-07:00
-26.8,Sherwood Park,Fine Particulate Matter,2025-12-08T17:00:00-07:00
-0.042,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T17:00:00-07:00
+42.0,Sherwood Park,Wind Direction,2025-12-08T17:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-08T17:00:00-07:00
 2.39,Sherwood Park,Total Hydrocarbons,2025-12-08T17:00:00-07:00
-0.002,Sherwood Park,Ozone,2025-12-08T17:00:00-07:00
+,Sherwood Park,Sulphur Dioxide,2025-12-08T17:00:00-07:00
 0.026,Sherwood Park,Nitrogen Dioxide,2025-12-08T17:00:00-07:00
+0.002,Sherwood Park,Ozone,2025-12-08T17:00:00-07:00
 3.0,Sherwood Park,,2025-12-08T17:00:00-07:00
-0.006,Sherwood Park,Ozone,2025-12-08T16:00:00-07:00
-0.014,Sherwood Park,Nitric Oxide,2025-12-08T16:00:00-07:00
+26.8,Sherwood Park,Fine Particulate Matter,2025-12-08T17:00:00-07:00
+60.0,Sherwood Park,Wind Direction,2025-12-08T16:00:00-07:00
+2.34,Sherwood Park,Total Hydrocarbons,2025-12-08T16:00:00-07:00
 -10.0,Sherwood Park,Outdoor Temperature,2025-12-08T16:00:00-07:00
 3.0,Sherwood Park,Wind Speed,2025-12-08T16:00:00-07:00
-23.7,Sherwood Park,Fine Particulate Matter,2025-12-08T16:00:00-07:00
-2.34,Sherwood Park,Total Hydrocarbons,2025-12-08T16:00:00-07:00
+,Sherwood Park,Sulphur Dioxide,2025-12-08T16:00:00-07:00
+,Sherwood Park,Hydrogen Sulphide,2025-12-08T16:00:00-07:00
 0.021,Sherwood Park,Nitrogen Dioxide,2025-12-08T16:00:00-07:00
+0.006,Sherwood Park,Ozone,2025-12-08T16:00:00-07:00
+0.014,Sherwood Park,Nitric Oxide,2025-12-08T16:00:00-07:00
 3.0,Sherwood Park,,2025-12-08T16:00:00-07:00
 0.035,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T16:00:00-07:00
-,Sherwood Park,Hydrogen Sulphide,2025-12-08T16:00:00-07:00
-,Sherwood Park,Sulphur Dioxide,2025-12-08T16:00:00-07:00
-60.0,Sherwood Park,Wind Direction,2025-12-08T16:00:00-07:00
-3.0,Sherwood Park,,2025-12-08T15:00:00-07:00
-0.024,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T15:00:00-07:00
-23.3,Sherwood Park,Fine Particulate Matter,2025-12-08T15:00:00-07:00
--9.0,Sherwood Park,Outdoor Temperature,2025-12-08T15:00:00-07:00
+23.7,Sherwood Park,Fine Particulate Matter,2025-12-08T16:00:00-07:00
+0.01,Sherwood Park,Nitric Oxide,2025-12-08T15:00:00-07:00
 2.33,Sherwood Park,Total Hydrocarbons,2025-12-08T15:00:00-07:00
+,Sherwood Park,Sulphur Dioxide,2025-12-08T15:00:00-07:00
+0.014,Sherwood Park,Nitrogen Dioxide,2025-12-08T15:00:00-07:00
 ,Sherwood Park,Hydrogen Sulphide,2025-12-08T15:00:00-07:00
 2.0,Sherwood Park,Wind Speed,2025-12-08T15:00:00-07:00
-,Sherwood Park,Sulphur Dioxide,2025-12-08T15:00:00-07:00
+-9.0,Sherwood Park,Outdoor Temperature,2025-12-08T15:00:00-07:00
 0.011,Sherwood Park,Ozone,2025-12-08T15:00:00-07:00
-0.01,Sherwood Park,Nitric Oxide,2025-12-08T15:00:00-07:00
+0.024,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T15:00:00-07:00
 84.0,Sherwood Park,Wind Direction,2025-12-08T15:00:00-07:00
-0.014,Sherwood Park,Nitrogen Dioxide,2025-12-08T15:00:00-07:00
-3.0,Sherwood Park,,2025-12-08T14:00:00-07:00
-0.025,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T14:00:00-07:00
-,Sherwood Park,Hydrogen Sulphide,2025-12-08T14:00:00-07:00
--8.0,Sherwood Park,Outdoor Temperature,2025-12-08T14:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-08T14:00:00-07:00
-96.0,Sherwood Park,Wind Direction,2025-12-08T14:00:00-07:00
-0.013,Sherwood Park,Nitrogen Dioxide,2025-12-08T14:00:00-07:00
-0.013,Sherwood Park,Ozone,2025-12-08T14:00:00-07:00
-5.0,Sherwood Park,Wind Speed,2025-12-08T14:00:00-07:00
+3.0,Sherwood Park,,2025-12-08T15:00:00-07:00
+23.3,Sherwood Park,Fine Particulate Matter,2025-12-08T15:00:00-07:00
 0.012,Sherwood Park,Nitric Oxide,2025-12-08T14:00:00-07:00
+0.013,Sherwood Park,Nitrogen Dioxide,2025-12-08T14:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-08T14:00:00-07:00
+-8.0,Sherwood Park,Outdoor Temperature,2025-12-08T14:00:00-07:00
+,Sherwood Park,Hydrogen Sulphide,2025-12-08T14:00:00-07:00
+96.0,Sherwood Park,Wind Direction,2025-12-08T14:00:00-07:00
+0.013,Sherwood Park,Ozone,2025-12-08T14:00:00-07:00
+3.0,Sherwood Park,,2025-12-08T14:00:00-07:00
 25.6,Sherwood Park,Fine Particulate Matter,2025-12-08T14:00:00-07:00
+5.0,Sherwood Park,Wind Speed,2025-12-08T14:00:00-07:00
+0.025,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T14:00:00-07:00
 2.33,Sherwood Park,Total Hydrocarbons,2025-12-08T14:00:00-07:00
-86.0,Sherwood Park,Wind Direction,2025-12-08T13:00:00-07:00
-0.011,Sherwood Park,Ozone,2025-12-08T13:00:00-07:00
-0.015,Sherwood Park,Nitric Oxide,2025-12-08T13:00:00-07:00
-6.0,Sherwood Park,Wind Speed,2025-12-08T13:00:00-07:00
-0.028,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T13:00:00-07:00
-0.014,Sherwood Park,Nitrogen Dioxide,2025-12-08T13:00:00-07:00
-,Sherwood Park,Hydrogen Sulphide,2025-12-08T13:00:00-07:00
 22.9,Sherwood Park,Fine Particulate Matter,2025-12-08T13:00:00-07:00
--9.0,Sherwood Park,Outdoor Temperature,2025-12-08T13:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-08T13:00:00-07:00
-2.4,Sherwood Park,Total Hydrocarbons,2025-12-08T13:00:00-07:00
 3.0,Sherwood Park,,2025-12-08T13:00:00-07:00
-136.0,Sherwood Park,Wind Direction,2025-12-08T12:00:00-07:00
+0.011,Sherwood Park,Ozone,2025-12-08T13:00:00-07:00
+,Sherwood Park,Hydrogen Sulphide,2025-12-08T13:00:00-07:00
+0.028,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T13:00:00-07:00
+86.0,Sherwood Park,Wind Direction,2025-12-08T13:00:00-07:00
+0.014,Sherwood Park,Nitrogen Dioxide,2025-12-08T13:00:00-07:00
+0.015,Sherwood Park,Nitric Oxide,2025-12-08T13:00:00-07:00
+2.4,Sherwood Park,Total Hydrocarbons,2025-12-08T13:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-08T13:00:00-07:00
+6.0,Sherwood Park,Wind Speed,2025-12-08T13:00:00-07:00
+-9.0,Sherwood Park,Outdoor Temperature,2025-12-08T13:00:00-07:00
 0.035,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T12:00:00-07:00
+2.65,Sherwood Park,Total Hydrocarbons,2025-12-08T12:00:00-07:00
+0.008,Sherwood Park,Ozone,2025-12-08T12:00:00-07:00
+22.7,Sherwood Park,Fine Particulate Matter,2025-12-08T12:00:00-07:00
+3.0,Sherwood Park,,2025-12-08T12:00:00-07:00
 0.016,Sherwood Park,Nitrogen Dioxide,2025-12-08T12:00:00-07:00
 ,Sherwood Park,Hydrogen Sulphide,2025-12-08T12:00:00-07:00
-22.7,Sherwood Park,Fine Particulate Matter,2025-12-08T12:00:00-07:00
-2.65,Sherwood Park,Total Hydrocarbons,2025-12-08T12:00:00-07:00
-3.0,Sherwood Park,,2025-12-08T12:00:00-07:00
-0.008,Sherwood Park,Ozone,2025-12-08T12:00:00-07:00
--9.0,Sherwood Park,Outdoor Temperature,2025-12-08T12:00:00-07:00
+136.0,Sherwood Park,Wind Direction,2025-12-08T12:00:00-07:00
 0.001,Sherwood Park,Sulphur Dioxide,2025-12-08T12:00:00-07:00
 0.019,Sherwood Park,Nitric Oxide,2025-12-08T12:00:00-07:00
+-9.0,Sherwood Park,Outdoor Temperature,2025-12-08T12:00:00-07:00
 7.0,Sherwood Park,Wind Speed,2025-12-08T12:00:00-07:00
-2.34,Sherwood Park,Total Hydrocarbons,2025-12-08T11:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-08T11:00:00-07:00
-102.0,Sherwood Park,Wind Direction,2025-12-08T11:00:00-07:00
-0.007,Sherwood Park,Ozone,2025-12-08T11:00:00-07:00
-0.013,Sherwood Park,Nitric Oxide,2025-12-08T11:00:00-07:00
-0.029,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T11:00:00-07:00
 20.1,Sherwood Park,Fine Particulate Matter,2025-12-08T11:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-08T11:00:00-07:00
--9.0,Sherwood Park,Outdoor Temperature,2025-12-08T11:00:00-07:00
+0.007,Sherwood Park,Ozone,2025-12-08T11:00:00-07:00
 3.0,Sherwood Park,,2025-12-08T11:00:00-07:00
 0.016,Sherwood Park,Nitrogen Dioxide,2025-12-08T11:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-08T11:00:00-07:00
+2.34,Sherwood Park,Total Hydrocarbons,2025-12-08T11:00:00-07:00
+102.0,Sherwood Park,Wind Direction,2025-12-08T11:00:00-07:00
+0.029,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T11:00:00-07:00
+0.013,Sherwood Park,Nitric Oxide,2025-12-08T11:00:00-07:00
+-9.0,Sherwood Park,Outdoor Temperature,2025-12-08T11:00:00-07:00
 5.0,Sherwood Park,Wind Speed,2025-12-08T11:00:00-07:00
-123.0,Sherwood Park,Wind Direction,2025-12-08T10:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-08T10:00:00-07:00
-5.0,Sherwood Park,Wind Speed,2025-12-08T10:00:00-07:00
-0.003,Sherwood Park,Ozone,2025-12-08T10:00:00-07:00
-0.018,Sherwood Park,Nitric Oxide,2025-12-08T10:00:00-07:00
-0.038,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T10:00:00-07:00
-3.0,Sherwood Park,,2025-12-08T10:00:00-07:00
-0.02,Sherwood Park,Nitrogen Dioxide,2025-12-08T10:00:00-07:00
-0.001,Sherwood Park,Sulphur Dioxide,2025-12-08T10:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-08T11:00:00-07:00
 -9.0,Sherwood Park,Outdoor Temperature,2025-12-08T10:00:00-07:00
+0.02,Sherwood Park,Nitrogen Dioxide,2025-12-08T10:00:00-07:00
+5.0,Sherwood Park,Wind Speed,2025-12-08T10:00:00-07:00
+123.0,Sherwood Park,Wind Direction,2025-12-08T10:00:00-07:00
+0.001,Sherwood Park,Sulphur Dioxide,2025-12-08T10:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-08T10:00:00-07:00
+0.018,Sherwood Park,Nitric Oxide,2025-12-08T10:00:00-07:00
+3.0,Sherwood Park,,2025-12-08T10:00:00-07:00
+0.038,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T10:00:00-07:00
+0.003,Sherwood Park,Ozone,2025-12-08T10:00:00-07:00
 19.4,Sherwood Park,Fine Particulate Matter,2025-12-08T10:00:00-07:00
 2.43,Sherwood Park,Total Hydrocarbons,2025-12-08T10:00:00-07:00
-0.032,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T09:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-08T09:00:00-07:00
-0.011,Sherwood Park,Nitric Oxide,2025-12-08T09:00:00-07:00
-2.37,Sherwood Park,Total Hydrocarbons,2025-12-08T09:00:00-07:00
-4.0,Sherwood Park,Wind Speed,2025-12-08T09:00:00-07:00
 0.021,Sherwood Park,Nitrogen Dioxide,2025-12-08T09:00:00-07:00
-18.3,Sherwood Park,Fine Particulate Matter,2025-12-08T09:00:00-07:00
-0.004,Sherwood Park,Ozone,2025-12-08T09:00:00-07:00
-124.0,Sherwood Park,Wind Direction,2025-12-08T09:00:00-07:00
 3.0,Sherwood Park,,2025-12-08T09:00:00-07:00
 0.001,Sherwood Park,Hydrogen Sulphide,2025-12-08T09:00:00-07:00
+18.3,Sherwood Park,Fine Particulate Matter,2025-12-08T09:00:00-07:00
+124.0,Sherwood Park,Wind Direction,2025-12-08T09:00:00-07:00
+0.032,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T09:00:00-07:00
 -9.0,Sherwood Park,Outdoor Temperature,2025-12-08T09:00:00-07:00
+0.004,Sherwood Park,Ozone,2025-12-08T09:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-08T09:00:00-07:00
+4.0,Sherwood Park,Wind Speed,2025-12-08T09:00:00-07:00
+0.011,Sherwood Park,Nitric Oxide,2025-12-08T09:00:00-07:00
+2.37,Sherwood Park,Total Hydrocarbons,2025-12-08T09:00:00-07:00
 0.032,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T08:00:00-07:00
-0.01,Sherwood Park,Nitric Oxide,2025-12-08T08:00:00-07:00
-2.37,Sherwood Park,Total Hydrocarbons,2025-12-08T08:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-08T08:00:00-07:00
-0.021,Sherwood Park,Nitrogen Dioxide,2025-12-08T08:00:00-07:00
--10.0,Sherwood Park,Outdoor Temperature,2025-12-08T08:00:00-07:00
 116.0,Sherwood Park,Wind Direction,2025-12-08T08:00:00-07:00
-4.0,Sherwood Park,Wind Speed,2025-12-08T08:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-08T08:00:00-07:00
+19.2,Sherwood Park,Fine Particulate Matter,2025-12-08T08:00:00-07:00
+-10.0,Sherwood Park,Outdoor Temperature,2025-12-08T08:00:00-07:00
 0.001,Sherwood Park,Hydrogen Sulphide,2025-12-08T08:00:00-07:00
 3.0,Sherwood Park,,2025-12-08T08:00:00-07:00
 0.001,Sherwood Park,Ozone,2025-12-08T08:00:00-07:00
-19.2,Sherwood Park,Fine Particulate Matter,2025-12-08T08:00:00-07:00
+0.01,Sherwood Park,Nitric Oxide,2025-12-08T08:00:00-07:00
+4.0,Sherwood Park,Wind Speed,2025-12-08T08:00:00-07:00
+0.021,Sherwood Park,Nitrogen Dioxide,2025-12-08T08:00:00-07:00
+2.37,Sherwood Park,Total Hydrocarbons,2025-12-08T08:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-08T07:00:00-07:00
+0.026,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T07:00:00-07:00
+0.002,Sherwood Park,Ozone,2025-12-08T07:00:00-07:00
+19.2,Sherwood Park,Fine Particulate Matter,2025-12-08T07:00:00-07:00
+3.0,Sherwood Park,,2025-12-08T07:00:00-07:00
+3.0,Sherwood Park,Wind Speed,2025-12-08T07:00:00-07:00
+0.021,Sherwood Park,Nitrogen Dioxide,2025-12-08T07:00:00-07:00
 0.005,Sherwood Park,Nitric Oxide,2025-12-08T07:00:00-07:00
 0.001,Sherwood Park,Hydrogen Sulphide,2025-12-08T07:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-08T07:00:00-07:00
-0.002,Sherwood Park,Ozone,2025-12-08T07:00:00-07:00
-3.0,Sherwood Park,,2025-12-08T07:00:00-07:00
-131.0,Sherwood Park,Wind Direction,2025-12-08T07:00:00-07:00
 2.34,Sherwood Park,Total Hydrocarbons,2025-12-08T07:00:00-07:00
-0.021,Sherwood Park,Nitrogen Dioxide,2025-12-08T07:00:00-07:00
-0.026,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T07:00:00-07:00
-19.2,Sherwood Park,Fine Particulate Matter,2025-12-08T07:00:00-07:00
-3.0,Sherwood Park,Wind Speed,2025-12-08T07:00:00-07:00
+131.0,Sherwood Park,Wind Direction,2025-12-08T07:00:00-07:00
 -10.0,Sherwood Park,Outdoor Temperature,2025-12-08T07:00:00-07:00
-0.024,Sherwood Park,Nitrogen Dioxide,2025-12-08T06:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-08T06:00:00-07:00
-0.031,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T06:00:00-07:00
-2.35,Sherwood Park,Total Hydrocarbons,2025-12-08T06:00:00-07:00
-0.007,Sherwood Park,Nitric Oxide,2025-12-08T06:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-08T06:00:00-07:00
-4.0,Sherwood Park,Wind Speed,2025-12-08T06:00:00-07:00
-142.0,Sherwood Park,Wind Direction,2025-12-08T06:00:00-07:00
 3.0,Sherwood Park,,2025-12-08T06:00:00-07:00
-0.001,Sherwood Park,Ozone,2025-12-08T06:00:00-07:00
--11.0,Sherwood Park,Outdoor Temperature,2025-12-08T06:00:00-07:00
+0.024,Sherwood Park,Nitrogen Dioxide,2025-12-08T06:00:00-07:00
 18.8,Sherwood Park,Fine Particulate Matter,2025-12-08T06:00:00-07:00
+0.001,Sherwood Park,Ozone,2025-12-08T06:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-08T06:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-08T06:00:00-07:00
+142.0,Sherwood Park,Wind Direction,2025-12-08T06:00:00-07:00
+0.031,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T06:00:00-07:00
+0.007,Sherwood Park,Nitric Oxide,2025-12-08T06:00:00-07:00
+-11.0,Sherwood Park,Outdoor Temperature,2025-12-08T06:00:00-07:00
+2.35,Sherwood Park,Total Hydrocarbons,2025-12-08T06:00:00-07:00
+4.0,Sherwood Park,Wind Speed,2025-12-08T06:00:00-07:00
+3.0,Sherwood Park,,2025-12-08T05:00:00-07:00
+17.8,Sherwood Park,Fine Particulate Matter,2025-12-08T05:00:00-07:00
 0.036,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T05:00:00-07:00
 2.0,Sherwood Park,Wind Speed,2025-12-08T05:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-08T05:00:00-07:00
 0.025,Sherwood Park,Nitrogen Dioxide,2025-12-08T05:00:00-07:00
-2.38,Sherwood Park,Total Hydrocarbons,2025-12-08T05:00:00-07:00
-190.0,Sherwood Park,Wind Direction,2025-12-08T05:00:00-07:00
--11.0,Sherwood Park,Outdoor Temperature,2025-12-08T05:00:00-07:00
-17.8,Sherwood Park,Fine Particulate Matter,2025-12-08T05:00:00-07:00
-0.011,Sherwood Park,Nitric Oxide,2025-12-08T05:00:00-07:00
-3.0,Sherwood Park,,2025-12-08T05:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-08T05:00:00-07:00
 0.001,Sherwood Park,Ozone,2025-12-08T05:00:00-07:00
-0.011,Sherwood Park,Nitric Oxide,2025-12-08T04:00:00-07:00
-195.0,Sherwood Park,Wind Direction,2025-12-08T04:00:00-07:00
--12.0,Sherwood Park,Outdoor Temperature,2025-12-08T04:00:00-07:00
-0.026,Sherwood Park,Nitrogen Dioxide,2025-12-08T04:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-08T05:00:00-07:00
+190.0,Sherwood Park,Wind Direction,2025-12-08T05:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-08T05:00:00-07:00
+-11.0,Sherwood Park,Outdoor Temperature,2025-12-08T05:00:00-07:00
+0.011,Sherwood Park,Nitric Oxide,2025-12-08T05:00:00-07:00
+2.38,Sherwood Park,Total Hydrocarbons,2025-12-08T05:00:00-07:00
 14.9,Sherwood Park,Fine Particulate Matter,2025-12-08T04:00:00-07:00
-3.0,Sherwood Park,,2025-12-08T04:00:00-07:00
-0.002,Sherwood Park,Ozone,2025-12-08T04:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-08T04:00:00-07:00
 3.0,Sherwood Park,Wind Speed,2025-12-08T04:00:00-07:00
+3.0,Sherwood Park,,2025-12-08T04:00:00-07:00
 0.001,Sherwood Park,Hydrogen Sulphide,2025-12-08T04:00:00-07:00
-0.037,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T04:00:00-07:00
+195.0,Sherwood Park,Wind Direction,2025-12-08T04:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-08T04:00:00-07:00
+0.011,Sherwood Park,Nitric Oxide,2025-12-08T04:00:00-07:00
 2.37,Sherwood Park,Total Hydrocarbons,2025-12-08T04:00:00-07:00
-0.007,Sherwood Park,Nitric Oxide,2025-12-08T03:00:00-07:00
--12.0,Sherwood Park,Outdoor Temperature,2025-12-08T03:00:00-07:00
-14.9,Sherwood Park,Fine Particulate Matter,2025-12-08T03:00:00-07:00
+0.002,Sherwood Park,Ozone,2025-12-08T04:00:00-07:00
+0.026,Sherwood Park,Nitrogen Dioxide,2025-12-08T04:00:00-07:00
+-12.0,Sherwood Park,Outdoor Temperature,2025-12-08T04:00:00-07:00
+0.037,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T04:00:00-07:00
 0.002,Sherwood Park,Ozone,2025-12-08T03:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-08T03:00:00-07:00
+0.026,Sherwood Park,Nitrogen Dioxide,2025-12-08T03:00:00-07:00
+-12.0,Sherwood Park,Outdoor Temperature,2025-12-08T03:00:00-07:00
+209.0,Sherwood Park,Wind Direction,2025-12-08T03:00:00-07:00
 0.033,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T03:00:00-07:00
+14.9,Sherwood Park,Fine Particulate Matter,2025-12-08T03:00:00-07:00
+0.007,Sherwood Park,Nitric Oxide,2025-12-08T03:00:00-07:00
 2.45,Sherwood Park,Total Hydrocarbons,2025-12-08T03:00:00-07:00
 0.0,Sherwood Park,Sulphur Dioxide,2025-12-08T03:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-08T03:00:00-07:00
 3.0,Sherwood Park,,2025-12-08T03:00:00-07:00
-0.026,Sherwood Park,Nitrogen Dioxide,2025-12-08T03:00:00-07:00
-209.0,Sherwood Park,Wind Direction,2025-12-08T03:00:00-07:00
 3.0,Sherwood Park,Wind Speed,2025-12-08T03:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-08T02:00:00-07:00
-2.0,Sherwood Park,,2025-12-08T02:00:00-07:00
-,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T02:00:00-07:00
-,Sherwood Park,Nitrogen Dioxide,2025-12-08T02:00:00-07:00
-,Sherwood Park,Sulphur Dioxide,2025-12-08T02:00:00-07:00
-11.2,Sherwood Park,Fine Particulate Matter,2025-12-08T02:00:00-07:00
 221.0,Sherwood Park,Wind Direction,2025-12-08T02:00:00-07:00
-2.0,Sherwood Park,Wind Speed,2025-12-08T02:00:00-07:00
-0.004,Sherwood Park,Nitric Oxide,2025-12-08T02:00:00-07:00
--12.0,Sherwood Park,Outdoor Temperature,2025-12-08T02:00:00-07:00
 0.004,Sherwood Park,Ozone,2025-12-08T02:00:00-07:00
+0.004,Sherwood Park,Nitric Oxide,2025-12-08T02:00:00-07:00
+,Sherwood Park,Sulphur Dioxide,2025-12-08T02:00:00-07:00
+,Sherwood Park,Nitrogen Dioxide,2025-12-08T02:00:00-07:00
+,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T02:00:00-07:00
+2.0,Sherwood Park,,2025-12-08T02:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-08T02:00:00-07:00
+2.0,Sherwood Park,Wind Speed,2025-12-08T02:00:00-07:00
 2.36,Sherwood Park,Total Hydrocarbons,2025-12-08T02:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-08T01:00:00-07:00
-0.002,Sherwood Park,Nitric Oxide,2025-12-08T01:00:00-07:00
-9.0,Sherwood Park,Fine Particulate Matter,2025-12-08T01:00:00-07:00
+11.2,Sherwood Park,Fine Particulate Matter,2025-12-08T02:00:00-07:00
+-12.0,Sherwood Park,Outdoor Temperature,2025-12-08T02:00:00-07:00
 4.0,Sherwood Park,Wind Speed,2025-12-08T01:00:00-07:00
-221.0,Sherwood Park,Wind Direction,2025-12-08T01:00:00-07:00
--12.0,Sherwood Park,Outdoor Temperature,2025-12-08T01:00:00-07:00
-2.24,Sherwood Park,Total Hydrocarbons,2025-12-08T01:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-08T01:00:00-07:00
 0.018,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T01:00:00-07:00
-0.011,Sherwood Park,Ozone,2025-12-08T01:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-08T01:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-08T01:00:00-07:00
+2.24,Sherwood Park,Total Hydrocarbons,2025-12-08T01:00:00-07:00
 2.0,Sherwood Park,,2025-12-08T01:00:00-07:00
+9.0,Sherwood Park,Fine Particulate Matter,2025-12-08T01:00:00-07:00
+-12.0,Sherwood Park,Outdoor Temperature,2025-12-08T01:00:00-07:00
+0.002,Sherwood Park,Nitric Oxide,2025-12-08T01:00:00-07:00
+221.0,Sherwood Park,Wind Direction,2025-12-08T01:00:00-07:00
 0.016,Sherwood Park,Nitrogen Dioxide,2025-12-08T01:00:00-07:00
+0.011,Sherwood Park,Ozone,2025-12-08T01:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-08T00:00:00-07:00
 3.0,Sherwood Park,Wind Speed,2025-12-08T00:00:00-07:00
-2.22,Sherwood Park,Total Hydrocarbons,2025-12-08T00:00:00-07:00
--11.0,Sherwood Park,Outdoor Temperature,2025-12-08T00:00:00-07:00
-214.0,Sherwood Park,Wind Direction,2025-12-08T00:00:00-07:00
+8.9,Sherwood Park,Fine Particulate Matter,2025-12-08T00:00:00-07:00
 0.0,Sherwood Park,Sulphur Dioxide,2025-12-08T00:00:00-07:00
+2.22,Sherwood Park,Total Hydrocarbons,2025-12-08T00:00:00-07:00
+3.0,Sherwood Park,,2025-12-08T00:00:00-07:00
 0.016,Sherwood Park,Ozone,2025-12-08T00:00:00-07:00
 0.002,Sherwood Park,Nitric Oxide,2025-12-08T00:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-08T00:00:00-07:00
-0.012,Sherwood Park,Nitrogen Dioxide,2025-12-08T00:00:00-07:00
-8.9,Sherwood Park,Fine Particulate Matter,2025-12-08T00:00:00-07:00
-3.0,Sherwood Park,,2025-12-08T00:00:00-07:00
+-11.0,Sherwood Park,Outdoor Temperature,2025-12-08T00:00:00-07:00
 0.014,Sherwood Park,Total Oxides of Nitrogen,2025-12-08T00:00:00-07:00
-3.0,Sherwood Park,Wind Speed,2025-12-07T23:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T23:00:00-07:00
-2.2,Sherwood Park,Total Hydrocarbons,2025-12-07T23:00:00-07:00
-9.7,Sherwood Park,Fine Particulate Matter,2025-12-07T23:00:00-07:00
-0.019,Sherwood Park,Ozone,2025-12-07T23:00:00-07:00
-0.013,Sherwood Park,Nitrogen Dioxide,2025-12-07T23:00:00-07:00
-0.023,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T23:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T23:00:00-07:00
+214.0,Sherwood Park,Wind Direction,2025-12-08T00:00:00-07:00
+0.012,Sherwood Park,Nitrogen Dioxide,2025-12-08T00:00:00-07:00
 0.009,Sherwood Park,Nitric Oxide,2025-12-07T23:00:00-07:00
--11.0,Sherwood Park,Outdoor Temperature,2025-12-07T23:00:00-07:00
-3.0,Sherwood Park,,2025-12-07T23:00:00-07:00
 181.0,Sherwood Park,Wind Direction,2025-12-07T23:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T22:00:00-07:00
-3.0,Sherwood Park,,2025-12-07T22:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T22:00:00-07:00
-3.0,Sherwood Park,Wind Speed,2025-12-07T22:00:00-07:00
--11.0,Sherwood Park,Outdoor Temperature,2025-12-07T22:00:00-07:00
-0.019,Sherwood Park,Ozone,2025-12-07T22:00:00-07:00
-0.014,Sherwood Park,Nitrogen Dioxide,2025-12-07T22:00:00-07:00
+2.2,Sherwood Park,Total Hydrocarbons,2025-12-07T23:00:00-07:00
+0.019,Sherwood Park,Ozone,2025-12-07T23:00:00-07:00
+0.023,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T23:00:00-07:00
+0.013,Sherwood Park,Nitrogen Dioxide,2025-12-07T23:00:00-07:00
+-11.0,Sherwood Park,Outdoor Temperature,2025-12-07T23:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T23:00:00-07:00
+3.0,Sherwood Park,Wind Speed,2025-12-07T23:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T23:00:00-07:00
+9.7,Sherwood Park,Fine Particulate Matter,2025-12-07T23:00:00-07:00
+3.0,Sherwood Park,,2025-12-07T23:00:00-07:00
 0.025,Sherwood Park,Nitric Oxide,2025-12-07T22:00:00-07:00
-2.21,Sherwood Park,Total Hydrocarbons,2025-12-07T22:00:00-07:00
-12.7,Sherwood Park,Fine Particulate Matter,2025-12-07T22:00:00-07:00
-0.039,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T22:00:00-07:00
 145.0,Sherwood Park,Wind Direction,2025-12-07T22:00:00-07:00
-2.17,Sherwood Park,Total Hydrocarbons,2025-12-07T21:00:00-07:00
+0.014,Sherwood Park,Nitrogen Dioxide,2025-12-07T22:00:00-07:00
+2.21,Sherwood Park,Total Hydrocarbons,2025-12-07T22:00:00-07:00
+0.019,Sherwood Park,Ozone,2025-12-07T22:00:00-07:00
+0.039,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T22:00:00-07:00
+3.0,Sherwood Park,,2025-12-07T22:00:00-07:00
+-11.0,Sherwood Park,Outdoor Temperature,2025-12-07T22:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T22:00:00-07:00
+3.0,Sherwood Park,Wind Speed,2025-12-07T22:00:00-07:00
+12.7,Sherwood Park,Fine Particulate Matter,2025-12-07T22:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T22:00:00-07:00
 139.0,Sherwood Park,Wind Direction,2025-12-07T21:00:00-07:00
-9.9,Sherwood Park,Fine Particulate Matter,2025-12-07T21:00:00-07:00
+2.17,Sherwood Park,Total Hydrocarbons,2025-12-07T21:00:00-07:00
 -11.0,Sherwood Park,Outdoor Temperature,2025-12-07T21:00:00-07:00
+3.0,Sherwood Park,Wind Speed,2025-12-07T21:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T21:00:00-07:00
+9.9,Sherwood Park,Fine Particulate Matter,2025-12-07T21:00:00-07:00
+0.016,Sherwood Park,Nitrogen Dioxide,2025-12-07T21:00:00-07:00
 0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T21:00:00-07:00
 2.0,Sherwood Park,,2025-12-07T21:00:00-07:00
-3.0,Sherwood Park,Wind Speed,2025-12-07T21:00:00-07:00
-0.02,Sherwood Park,Nitric Oxide,2025-12-07T21:00:00-07:00
 0.018,Sherwood Park,Ozone,2025-12-07T21:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T21:00:00-07:00
-0.016,Sherwood Park,Nitrogen Dioxide,2025-12-07T21:00:00-07:00
 0.035,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T21:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T20:00:00-07:00
+0.02,Sherwood Park,Nitric Oxide,2025-12-07T21:00:00-07:00
+9.7,Sherwood Park,Fine Particulate Matter,2025-12-07T20:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T20:00:00-07:00
+7.0,Sherwood Park,Wind Speed,2025-12-07T20:00:00-07:00
+0.009,Sherwood Park,Nitrogen Dioxide,2025-12-07T20:00:00-07:00
 2.0,Sherwood Park,,2025-12-07T20:00:00-07:00
-127.0,Sherwood Park,Wind Direction,2025-12-07T20:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T20:00:00-07:00
+0.021,Sherwood Park,Ozone,2025-12-07T20:00:00-07:00
 -12.0,Sherwood Park,Outdoor Temperature,2025-12-07T20:00:00-07:00
 0.018,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T20:00:00-07:00
-7.0,Sherwood Park,Wind Speed,2025-12-07T20:00:00-07:00
-0.009,Sherwood Park,Nitric Oxide,2025-12-07T20:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T20:00:00-07:00
-9.7,Sherwood Park,Fine Particulate Matter,2025-12-07T20:00:00-07:00
-0.021,Sherwood Park,Ozone,2025-12-07T20:00:00-07:00
 2.17,Sherwood Park,Total Hydrocarbons,2025-12-07T20:00:00-07:00
-0.009,Sherwood Park,Nitrogen Dioxide,2025-12-07T20:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T19:00:00-07:00
-119.0,Sherwood Park,Wind Direction,2025-12-07T19:00:00-07:00
-0.005,Sherwood Park,Nitrogen Dioxide,2025-12-07T19:00:00-07:00
-2.16,Sherwood Park,Total Hydrocarbons,2025-12-07T19:00:00-07:00
-10.7,Sherwood Park,Fine Particulate Matter,2025-12-07T19:00:00-07:00
-0.0,Sherwood Park,Nitric Oxide,2025-12-07T19:00:00-07:00
+0.009,Sherwood Park,Nitric Oxide,2025-12-07T20:00:00-07:00
+127.0,Sherwood Park,Wind Direction,2025-12-07T20:00:00-07:00
 7.0,Sherwood Park,Wind Speed,2025-12-07T19:00:00-07:00
--12.0,Sherwood Park,Outdoor Temperature,2025-12-07T19:00:00-07:00
-0.022,Sherwood Park,Ozone,2025-12-07T19:00:00-07:00
-0.006,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T19:00:00-07:00
 2.0,Sherwood Park,,2025-12-07T19:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T19:00:00-07:00
+0.005,Sherwood Park,Nitrogen Dioxide,2025-12-07T19:00:00-07:00
+119.0,Sherwood Park,Wind Direction,2025-12-07T19:00:00-07:00
+0.022,Sherwood Park,Ozone,2025-12-07T19:00:00-07:00
+-12.0,Sherwood Park,Outdoor Temperature,2025-12-07T19:00:00-07:00
+0.006,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T19:00:00-07:00
 0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T19:00:00-07:00
+0.0,Sherwood Park,Nitric Oxide,2025-12-07T19:00:00-07:00
+10.7,Sherwood Park,Fine Particulate Matter,2025-12-07T19:00:00-07:00
+2.16,Sherwood Park,Total Hydrocarbons,2025-12-07T19:00:00-07:00
+115.0,Sherwood Park,Wind Direction,2025-12-07T18:00:00-07:00
+0.007,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T18:00:00-07:00
+2.19,Sherwood Park,Total Hydrocarbons,2025-12-07T18:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T18:00:00-07:00
+0.007,Sherwood Park,Nitrogen Dioxide,2025-12-07T18:00:00-07:00
 0.021,Sherwood Park,Ozone,2025-12-07T18:00:00-07:00
 0.001,Sherwood Park,Nitric Oxide,2025-12-07T18:00:00-07:00
-0.007,Sherwood Park,Nitrogen Dioxide,2025-12-07T18:00:00-07:00
 12.2,Sherwood Park,Fine Particulate Matter,2025-12-07T18:00:00-07:00
-7.0,Sherwood Park,Wind Speed,2025-12-07T18:00:00-07:00
-115.0,Sherwood Park,Wind Direction,2025-12-07T18:00:00-07:00
-2.0,Sherwood Park,,2025-12-07T18:00:00-07:00
-0.007,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T18:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T18:00:00-07:00
 -11.0,Sherwood Park,Outdoor Temperature,2025-12-07T18:00:00-07:00
-2.19,Sherwood Park,Total Hydrocarbons,2025-12-07T18:00:00-07:00
 0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T18:00:00-07:00
-12.2,Sherwood Park,Fine Particulate Matter,2025-12-07T17:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-07T17:00:00-07:00
-0.008,Sherwood Park,Nitrogen Dioxide,2025-12-07T17:00:00-07:00
+7.0,Sherwood Park,Wind Speed,2025-12-07T18:00:00-07:00
+2.0,Sherwood Park,,2025-12-07T18:00:00-07:00
 6.0,Sherwood Park,Wind Speed,2025-12-07T17:00:00-07:00
-0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T17:00:00-07:00
-2.0,Sherwood Park,,2025-12-07T17:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T17:00:00-07:00
 0.019,Sherwood Park,Ozone,2025-12-07T17:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T17:00:00-07:00
 2.19,Sherwood Park,Total Hydrocarbons,2025-12-07T17:00:00-07:00
--10.0,Sherwood Park,Outdoor Temperature,2025-12-07T17:00:00-07:00
+12.2,Sherwood Park,Fine Particulate Matter,2025-12-07T17:00:00-07:00
+2.0,Sherwood Park,,2025-12-07T17:00:00-07:00
 117.0,Sherwood Park,Wind Direction,2025-12-07T17:00:00-07:00
+0.008,Sherwood Park,Nitrogen Dioxide,2025-12-07T17:00:00-07:00
 0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T17:00:00-07:00
-0.008,Sherwood Park,Nitrogen Dioxide,2025-12-07T16:00:00-07:00
-0.01,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T16:00:00-07:00
-117.0,Sherwood Park,Wind Direction,2025-12-07T16:00:00-07:00
-5.0,Sherwood Park,Wind Speed,2025-12-07T16:00:00-07:00
--9.0,Sherwood Park,Outdoor Temperature,2025-12-07T16:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T16:00:00-07:00
+0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T17:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-07T17:00:00-07:00
+-10.0,Sherwood Park,Outdoor Temperature,2025-12-07T17:00:00-07:00
 0.018,Sherwood Park,Ozone,2025-12-07T16:00:00-07:00
-0.002,Sherwood Park,Nitric Oxide,2025-12-07T16:00:00-07:00
-2.24,Sherwood Park,Total Hydrocarbons,2025-12-07T16:00:00-07:00
+-9.0,Sherwood Park,Outdoor Temperature,2025-12-07T16:00:00-07:00
 0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T16:00:00-07:00
 2.0,Sherwood Park,,2025-12-07T16:00:00-07:00
+0.002,Sherwood Park,Nitric Oxide,2025-12-07T16:00:00-07:00
+117.0,Sherwood Park,Wind Direction,2025-12-07T16:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T16:00:00-07:00
 10.1,Sherwood Park,Fine Particulate Matter,2025-12-07T16:00:00-07:00
-0.018,Sherwood Park,Ozone,2025-12-07T15:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T15:00:00-07:00
+0.008,Sherwood Park,Nitrogen Dioxide,2025-12-07T16:00:00-07:00
+5.0,Sherwood Park,Wind Speed,2025-12-07T16:00:00-07:00
+0.01,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T16:00:00-07:00
+2.24,Sherwood Park,Total Hydrocarbons,2025-12-07T16:00:00-07:00
 -9.0,Sherwood Park,Outdoor Temperature,2025-12-07T15:00:00-07:00
-2.24,Sherwood Park,Total Hydrocarbons,2025-12-07T15:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T15:00:00-07:00
-5.0,Sherwood Park,Wind Speed,2025-12-07T15:00:00-07:00
-2.0,Sherwood Park,,2025-12-07T15:00:00-07:00
-128.0,Sherwood Park,Wind Direction,2025-12-07T15:00:00-07:00
-0.01,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T15:00:00-07:00
-0.007,Sherwood Park,Nitrogen Dioxide,2025-12-07T15:00:00-07:00
-10.6,Sherwood Park,Fine Particulate Matter,2025-12-07T15:00:00-07:00
 0.003,Sherwood Park,Nitric Oxide,2025-12-07T15:00:00-07:00
-0.02,Sherwood Park,Ozone,2025-12-07T14:00:00-07:00
-0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T14:00:00-07:00
-0.003,Sherwood Park,Nitric Oxide,2025-12-07T14:00:00-07:00
--10.0,Sherwood Park,Outdoor Temperature,2025-12-07T14:00:00-07:00
-2.0,Sherwood Park,,2025-12-07T14:00:00-07:00
-0.006,Sherwood Park,Nitrogen Dioxide,2025-12-07T14:00:00-07:00
+2.0,Sherwood Park,,2025-12-07T15:00:00-07:00
+0.01,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T15:00:00-07:00
+10.6,Sherwood Park,Fine Particulate Matter,2025-12-07T15:00:00-07:00
+128.0,Sherwood Park,Wind Direction,2025-12-07T15:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T15:00:00-07:00
+0.007,Sherwood Park,Nitrogen Dioxide,2025-12-07T15:00:00-07:00
+5.0,Sherwood Park,Wind Speed,2025-12-07T15:00:00-07:00
+2.24,Sherwood Park,Total Hydrocarbons,2025-12-07T15:00:00-07:00
+0.018,Sherwood Park,Ozone,2025-12-07T15:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T15:00:00-07:00
 10.5,Sherwood Park,Fine Particulate Matter,2025-12-07T14:00:00-07:00
-133.0,Sherwood Park,Wind Direction,2025-12-07T14:00:00-07:00
+0.02,Sherwood Park,Ozone,2025-12-07T14:00:00-07:00
 5.0,Sherwood Park,Wind Speed,2025-12-07T14:00:00-07:00
+2.0,Sherwood Park,,2025-12-07T14:00:00-07:00
 0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T14:00:00-07:00
+0.006,Sherwood Park,Nitrogen Dioxide,2025-12-07T14:00:00-07:00
+-10.0,Sherwood Park,Outdoor Temperature,2025-12-07T14:00:00-07:00
 2.23,Sherwood Park,Total Hydrocarbons,2025-12-07T14:00:00-07:00
+0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T14:00:00-07:00
+133.0,Sherwood Park,Wind Direction,2025-12-07T14:00:00-07:00
+0.003,Sherwood Park,Nitric Oxide,2025-12-07T14:00:00-07:00
 0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T14:00:00-07:00
-10.5,Sherwood Park,Fine Particulate Matter,2025-12-07T13:00:00-07:00
 117.0,Sherwood Park,Wind Direction,2025-12-07T13:00:00-07:00
-0.004,Sherwood Park,Nitric Oxide,2025-12-07T13:00:00-07:00
-4.0,Sherwood Park,Wind Speed,2025-12-07T13:00:00-07:00
-2.0,Sherwood Park,,2025-12-07T13:00:00-07:00
 0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T13:00:00-07:00
-0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T13:00:00-07:00
--9.0,Sherwood Park,Outdoor Temperature,2025-12-07T13:00:00-07:00
-0.022,Sherwood Park,Ozone,2025-12-07T13:00:00-07:00
-2.25,Sherwood Park,Total Hydrocarbons,2025-12-07T13:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T13:00:00-07:00
+10.5,Sherwood Park,Fine Particulate Matter,2025-12-07T13:00:00-07:00
 0.005,Sherwood Park,Nitrogen Dioxide,2025-12-07T13:00:00-07:00
-125.0,Sherwood Park,Wind Direction,2025-12-07T12:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T12:00:00-07:00
-0.013,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T12:00:00-07:00
-2.0,Sherwood Park,,2025-12-07T12:00:00-07:00
-11.3,Sherwood Park,Fine Particulate Matter,2025-12-07T12:00:00-07:00
-0.005,Sherwood Park,Nitric Oxide,2025-12-07T12:00:00-07:00
+0.022,Sherwood Park,Ozone,2025-12-07T13:00:00-07:00
+-9.0,Sherwood Park,Outdoor Temperature,2025-12-07T13:00:00-07:00
+2.0,Sherwood Park,,2025-12-07T13:00:00-07:00
+0.009,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T13:00:00-07:00
+0.004,Sherwood Park,Nitric Oxide,2025-12-07T13:00:00-07:00
+2.25,Sherwood Park,Total Hydrocarbons,2025-12-07T13:00:00-07:00
+4.0,Sherwood Park,Wind Speed,2025-12-07T13:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T13:00:00-07:00
 -12.0,Sherwood Park,Outdoor Temperature,2025-12-07T12:00:00-07:00
 0.02,Sherwood Park,Ozone,2025-12-07T12:00:00-07:00
-2.27,Sherwood Park,Total Hydrocarbons,2025-12-07T12:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T12:00:00-07:00
+0.005,Sherwood Park,Nitric Oxide,2025-12-07T12:00:00-07:00
+2.0,Sherwood Park,,2025-12-07T12:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T12:00:00-07:00
+0.013,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T12:00:00-07:00
 0.008,Sherwood Park,Nitrogen Dioxide,2025-12-07T12:00:00-07:00
 4.0,Sherwood Park,Wind Speed,2025-12-07T12:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T12:00:00-07:00
-9.8,Sherwood Park,Fine Particulate Matter,2025-12-07T11:00:00-07:00
-4.0,Sherwood Park,Wind Speed,2025-12-07T11:00:00-07:00
-136.0,Sherwood Park,Wind Direction,2025-12-07T11:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T11:00:00-07:00
--15.0,Sherwood Park,Outdoor Temperature,2025-12-07T11:00:00-07:00
-2.0,Sherwood Park,,2025-12-07T11:00:00-07:00
+125.0,Sherwood Park,Wind Direction,2025-12-07T12:00:00-07:00
+11.3,Sherwood Park,Fine Particulate Matter,2025-12-07T12:00:00-07:00
+2.27,Sherwood Park,Total Hydrocarbons,2025-12-07T12:00:00-07:00
 2.34,Sherwood Park,Total Hydrocarbons,2025-12-07T11:00:00-07:00
+2.0,Sherwood Park,,2025-12-07T11:00:00-07:00
+4.0,Sherwood Park,Wind Speed,2025-12-07T11:00:00-07:00
 0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T11:00:00-07:00
+136.0,Sherwood Park,Wind Direction,2025-12-07T11:00:00-07:00
+-15.0,Sherwood Park,Outdoor Temperature,2025-12-07T11:00:00-07:00
 0.018,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T11:00:00-07:00
+9.8,Sherwood Park,Fine Particulate Matter,2025-12-07T11:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T11:00:00-07:00
+0.017,Sherwood Park,Ozone,2025-12-07T11:00:00-07:00
 0.011,Sherwood Park,Nitrogen Dioxide,2025-12-07T11:00:00-07:00
 0.006,Sherwood Park,Nitric Oxide,2025-12-07T11:00:00-07:00
-0.017,Sherwood Park,Ozone,2025-12-07T11:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T10:00:00-07:00
-0.01,Sherwood Park,Nitric Oxide,2025-12-07T10:00:00-07:00
-154.0,Sherwood Park,Wind Direction,2025-12-07T10:00:00-07:00
-0.011,Sherwood Park,Ozone,2025-12-07T10:00:00-07:00
-8.2,Sherwood Park,Fine Particulate Matter,2025-12-07T10:00:00-07:00
 3.0,Sherwood Park,,2025-12-07T10:00:00-07:00
-0.03,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T10:00:00-07:00
-4.0,Sherwood Park,Wind Speed,2025-12-07T10:00:00-07:00
-0.02,Sherwood Park,Nitrogen Dioxide,2025-12-07T10:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T10:00:00-07:00
+154.0,Sherwood Park,Wind Direction,2025-12-07T10:00:00-07:00
+8.2,Sherwood Park,Fine Particulate Matter,2025-12-07T10:00:00-07:00
+0.011,Sherwood Park,Ozone,2025-12-07T10:00:00-07:00
 -18.0,Sherwood Park,Outdoor Temperature,2025-12-07T10:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T10:00:00-07:00
+0.01,Sherwood Park,Nitric Oxide,2025-12-07T10:00:00-07:00
 2.37,Sherwood Park,Total Hydrocarbons,2025-12-07T10:00:00-07:00
-2.0,Sherwood Park,,2025-12-07T09:00:00-07:00
-0.025,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T09:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T10:00:00-07:00
+0.03,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T10:00:00-07:00
+0.02,Sherwood Park,Nitrogen Dioxide,2025-12-07T10:00:00-07:00
+4.0,Sherwood Park,Wind Speed,2025-12-07T10:00:00-07:00
 0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T09:00:00-07:00
-6.9,Sherwood Park,Fine Particulate Matter,2025-12-07T09:00:00-07:00
-5.0,Sherwood Park,Wind Speed,2025-12-07T09:00:00-07:00
-0.021,Sherwood Park,Nitrogen Dioxide,2025-12-07T09:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T09:00:00-07:00
-0.004,Sherwood Park,Nitric Oxide,2025-12-07T09:00:00-07:00
--19.0,Sherwood Park,Outdoor Temperature,2025-12-07T09:00:00-07:00
 2.32,Sherwood Park,Total Hydrocarbons,2025-12-07T09:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T09:00:00-07:00
+-19.0,Sherwood Park,Outdoor Temperature,2025-12-07T09:00:00-07:00
+0.004,Sherwood Park,Nitric Oxide,2025-12-07T09:00:00-07:00
+6.9,Sherwood Park,Fine Particulate Matter,2025-12-07T09:00:00-07:00
+0.025,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T09:00:00-07:00
 151.0,Sherwood Park,Wind Direction,2025-12-07T09:00:00-07:00
+0.021,Sherwood Park,Nitrogen Dioxide,2025-12-07T09:00:00-07:00
+2.0,Sherwood Park,,2025-12-07T09:00:00-07:00
 0.009,Sherwood Park,Ozone,2025-12-07T09:00:00-07:00
--19.0,Sherwood Park,Outdoor Temperature,2025-12-07T08:00:00-07:00
-4.0,Sherwood Park,Wind Speed,2025-12-07T08:00:00-07:00
-143.0,Sherwood Park,Wind Direction,2025-12-07T08:00:00-07:00
+5.0,Sherwood Park,Wind Speed,2025-12-07T09:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T08:00:00-07:00
 5.4,Sherwood Park,Fine Particulate Matter,2025-12-07T08:00:00-07:00
 0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T08:00:00-07:00
-0.003,Sherwood Park,Nitric Oxide,2025-12-07T08:00:00-07:00
-0.009,Sherwood Park,Ozone,2025-12-07T08:00:00-07:00
-2.0,Sherwood Park,,2025-12-07T08:00:00-07:00
 0.024,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T08:00:00-07:00
-0.022,Sherwood Park,Nitrogen Dioxide,2025-12-07T08:00:00-07:00
 2.29,Sherwood Park,Total Hydrocarbons,2025-12-07T08:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T08:00:00-07:00
-2.0,Sherwood Park,,2025-12-07T07:00:00-07:00
+2.0,Sherwood Park,,2025-12-07T08:00:00-07:00
+-19.0,Sherwood Park,Outdoor Temperature,2025-12-07T08:00:00-07:00
+4.0,Sherwood Park,Wind Speed,2025-12-07T08:00:00-07:00
+0.003,Sherwood Park,Nitric Oxide,2025-12-07T08:00:00-07:00
+143.0,Sherwood Park,Wind Direction,2025-12-07T08:00:00-07:00
+0.022,Sherwood Park,Nitrogen Dioxide,2025-12-07T08:00:00-07:00
+0.009,Sherwood Park,Ozone,2025-12-07T08:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T07:00:00-07:00
 5.0,Sherwood Park,Fine Particulate Matter,2025-12-07T07:00:00-07:00
-3.0,Sherwood Park,Wind Speed,2025-12-07T07:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-07T07:00:00-07:00
--18.0,Sherwood Park,Outdoor Temperature,2025-12-07T07:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T07:00:00-07:00
 0.016,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T07:00:00-07:00
-0.015,Sherwood Park,Nitrogen Dioxide,2025-12-07T07:00:00-07:00
 0.015,Sherwood Park,Ozone,2025-12-07T07:00:00-07:00
 139.0,Sherwood Park,Wind Direction,2025-12-07T07:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T07:00:00-07:00
 2.26,Sherwood Park,Total Hydrocarbons,2025-12-07T07:00:00-07:00
-2.0,Sherwood Park,Wind Speed,2025-12-07T06:00:00-07:00
-2.0,Sherwood Park,,2025-12-07T06:00:00-07:00
+2.0,Sherwood Park,,2025-12-07T07:00:00-07:00
+0.015,Sherwood Park,Nitrogen Dioxide,2025-12-07T07:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-07T07:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T07:00:00-07:00
+-18.0,Sherwood Park,Outdoor Temperature,2025-12-07T07:00:00-07:00
+3.0,Sherwood Park,Wind Speed,2025-12-07T07:00:00-07:00
 0.011,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T06:00:00-07:00
--18.0,Sherwood Park,Outdoor Temperature,2025-12-07T06:00:00-07:00
-0.019,Sherwood Park,Ozone,2025-12-07T06:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T06:00:00-07:00
 2.23,Sherwood Park,Total Hydrocarbons,2025-12-07T06:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T06:00:00-07:00
-163.0,Sherwood Park,Wind Direction,2025-12-07T06:00:00-07:00
 0.001,Sherwood Park,Nitric Oxide,2025-12-07T06:00:00-07:00
+2.0,Sherwood Park,,2025-12-07T06:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T06:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T06:00:00-07:00
 0.011,Sherwood Park,Nitrogen Dioxide,2025-12-07T06:00:00-07:00
 4.3,Sherwood Park,Fine Particulate Matter,2025-12-07T06:00:00-07:00
-0.024,Sherwood Park,Ozone,2025-12-07T05:00:00-07:00
-2.19,Sherwood Park,Total Hydrocarbons,2025-12-07T05:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T05:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T05:00:00-07:00
-4.4,Sherwood Park,Fine Particulate Matter,2025-12-07T05:00:00-07:00
-0.007,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T05:00:00-07:00
-159.0,Sherwood Park,Wind Direction,2025-12-07T05:00:00-07:00
+-18.0,Sherwood Park,Outdoor Temperature,2025-12-07T06:00:00-07:00
+163.0,Sherwood Park,Wind Direction,2025-12-07T06:00:00-07:00
+2.0,Sherwood Park,Wind Speed,2025-12-07T06:00:00-07:00
+0.019,Sherwood Park,Ozone,2025-12-07T06:00:00-07:00
 0.006,Sherwood Park,Nitrogen Dioxide,2025-12-07T05:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-07T05:00:00-07:00
-2.0,Sherwood Park,,2025-12-07T05:00:00-07:00
 3.0,Sherwood Park,Wind Speed,2025-12-07T05:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T05:00:00-07:00
+0.007,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T05:00:00-07:00
 -16.0,Sherwood Park,Outdoor Temperature,2025-12-07T05:00:00-07:00
-2.17,Sherwood Park,Total Hydrocarbons,2025-12-07T04:00:00-07:00
+0.024,Sherwood Park,Ozone,2025-12-07T05:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T05:00:00-07:00
+2.0,Sherwood Park,,2025-12-07T05:00:00-07:00
+2.19,Sherwood Park,Total Hydrocarbons,2025-12-07T05:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-07T05:00:00-07:00
+159.0,Sherwood Park,Wind Direction,2025-12-07T05:00:00-07:00
+4.4,Sherwood Park,Fine Particulate Matter,2025-12-07T05:00:00-07:00
+0.006,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T04:00:00-07:00
+0.027,Sherwood Park,Ozone,2025-12-07T04:00:00-07:00
 191.0,Sherwood Park,Wind Direction,2025-12-07T04:00:00-07:00
 0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T04:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T04:00:00-07:00
-6.0,Sherwood Park,Wind Speed,2025-12-07T04:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-07T04:00:00-07:00
-3.4,Sherwood Park,Fine Particulate Matter,2025-12-07T04:00:00-07:00
-0.006,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T04:00:00-07:00
--16.0,Sherwood Park,Outdoor Temperature,2025-12-07T04:00:00-07:00
-2.0,Sherwood Park,,2025-12-07T04:00:00-07:00
-0.027,Sherwood Park,Ozone,2025-12-07T04:00:00-07:00
 0.005,Sherwood Park,Nitrogen Dioxide,2025-12-07T04:00:00-07:00
-3.3,Sherwood Park,Fine Particulate Matter,2025-12-07T03:00:00-07:00
-0.004,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T03:00:00-07:00
-0.004,Sherwood Park,Nitrogen Dioxide,2025-12-07T03:00:00-07:00
-169.0,Sherwood Park,Wind Direction,2025-12-07T03:00:00-07:00
--16.0,Sherwood Park,Outdoor Temperature,2025-12-07T03:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T04:00:00-07:00
+2.17,Sherwood Park,Total Hydrocarbons,2025-12-07T04:00:00-07:00
+3.4,Sherwood Park,Fine Particulate Matter,2025-12-07T04:00:00-07:00
+-16.0,Sherwood Park,Outdoor Temperature,2025-12-07T04:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-07T04:00:00-07:00
+2.0,Sherwood Park,,2025-12-07T04:00:00-07:00
+6.0,Sherwood Park,Wind Speed,2025-12-07T04:00:00-07:00
 0.0,Sherwood Park,Nitric Oxide,2025-12-07T03:00:00-07:00
 2.0,Sherwood Park,,2025-12-07T03:00:00-07:00
-5.0,Sherwood Park,Wind Speed,2025-12-07T03:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-07T03:00:00-07:00
+169.0,Sherwood Park,Wind Direction,2025-12-07T03:00:00-07:00
 2.17,Sherwood Park,Total Hydrocarbons,2025-12-07T03:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T03:00:00-07:00
+3.3,Sherwood Park,Fine Particulate Matter,2025-12-07T03:00:00-07:00
+-16.0,Sherwood Park,Outdoor Temperature,2025-12-07T03:00:00-07:00
 0.028,Sherwood Park,Ozone,2025-12-07T03:00:00-07:00
+5.0,Sherwood Park,Wind Speed,2025-12-07T03:00:00-07:00
+0.004,Sherwood Park,Nitrogen Dioxide,2025-12-07T03:00:00-07:00
+0.004,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T03:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T03:00:00-07:00
 0.0,Sherwood Park,Nitric Oxide,2025-12-07T02:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T02:00:00-07:00
-3.0,Sherwood Park,Fine Particulate Matter,2025-12-07T02:00:00-07:00
+148.0,Sherwood Park,Wind Direction,2025-12-07T02:00:00-07:00
 2.16,Sherwood Park,Total Hydrocarbons,2025-12-07T02:00:00-07:00
+-17.0,Sherwood Park,Outdoor Temperature,2025-12-07T02:00:00-07:00
+8.0,Sherwood Park,Wind Speed,2025-12-07T02:00:00-07:00
+0.029,Sherwood Park,Ozone,2025-12-07T02:00:00-07:00
+3.0,Sherwood Park,Fine Particulate Matter,2025-12-07T02:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T02:00:00-07:00
+2.0,Sherwood Park,,2025-12-07T02:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T02:00:00-07:00
 ,Sherwood Park,Nitrogen Dioxide,2025-12-07T02:00:00-07:00
 ,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T02:00:00-07:00
-2.0,Sherwood Park,,2025-12-07T02:00:00-07:00
-148.0,Sherwood Park,Wind Direction,2025-12-07T02:00:00-07:00
-0.029,Sherwood Park,Ozone,2025-12-07T02:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T02:00:00-07:00
-8.0,Sherwood Park,Wind Speed,2025-12-07T02:00:00-07:00
--17.0,Sherwood Park,Outdoor Temperature,2025-12-07T02:00:00-07:00
-2.8,Sherwood Park,Fine Particulate Matter,2025-12-07T01:00:00-07:00
--17.0,Sherwood Park,Outdoor Temperature,2025-12-07T01:00:00-07:00
+148.0,Sherwood Park,Wind Direction,2025-12-07T01:00:00-07:00
+2.15,Sherwood Park,Total Hydrocarbons,2025-12-07T01:00:00-07:00
 0.002,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T01:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T01:00:00-07:00
 9.0,Sherwood Park,Wind Speed,2025-12-07T01:00:00-07:00
 0.002,Sherwood Park,Nitrogen Dioxide,2025-12-07T01:00:00-07:00
-148.0,Sherwood Park,Wind Direction,2025-12-07T01:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-07T01:00:00-07:00
-0.0,Sherwood Park,Nitric Oxide,2025-12-07T01:00:00-07:00
-0.031,Sherwood Park,Ozone,2025-12-07T01:00:00-07:00
-2.0,Sherwood Park,,2025-12-07T01:00:00-07:00
-2.15,Sherwood Park,Total Hydrocarbons,2025-12-07T01:00:00-07:00
 0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T01:00:00-07:00
-0.002,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T00:00:00-07:00
-140.0,Sherwood Park,Wind Direction,2025-12-07T00:00:00-07:00
--17.0,Sherwood Park,Outdoor Temperature,2025-12-07T00:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T00:00:00-07:00
-0.0,Sherwood Park,Nitric Oxide,2025-12-07T00:00:00-07:00
-2.0,Sherwood Park,,2025-12-07T00:00:00-07:00
+-17.0,Sherwood Park,Outdoor Temperature,2025-12-07T01:00:00-07:00
+0.031,Sherwood Park,Ozone,2025-12-07T01:00:00-07:00
+2.8,Sherwood Park,Fine Particulate Matter,2025-12-07T01:00:00-07:00
+0.0,Sherwood Park,Nitric Oxide,2025-12-07T01:00:00-07:00
+2.0,Sherwood Park,,2025-12-07T01:00:00-07:00
 0.031,Sherwood Park,Ozone,2025-12-07T00:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-07T00:00:00-07:00
-2.16,Sherwood Park,Total Hydrocarbons,2025-12-07T00:00:00-07:00
-11.0,Sherwood Park,Wind Speed,2025-12-07T00:00:00-07:00
-0.002,Sherwood Park,Nitrogen Dioxide,2025-12-07T00:00:00-07:00
 3.1,Sherwood Park,Fine Particulate Matter,2025-12-07T00:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-06T23:00:00-07:00
-0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T23:00:00-07:00
-2.0,Sherwood Park,,2025-12-06T23:00:00-07:00
-131.0,Sherwood Park,Wind Direction,2025-12-06T23:00:00-07:00
-2.16,Sherwood Park,Total Hydrocarbons,2025-12-06T23:00:00-07:00
-0.0,Sherwood Park,Nitric Oxide,2025-12-06T23:00:00-07:00
-10.0,Sherwood Park,Wind Speed,2025-12-06T23:00:00-07:00
+-17.0,Sherwood Park,Outdoor Temperature,2025-12-07T00:00:00-07:00
+0.0,Sherwood Park,Nitric Oxide,2025-12-07T00:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-07T00:00:00-07:00
+0.002,Sherwood Park,Nitrogen Dioxide,2025-12-07T00:00:00-07:00
+2.0,Sherwood Park,,2025-12-07T00:00:00-07:00
+2.16,Sherwood Park,Total Hydrocarbons,2025-12-07T00:00:00-07:00
+0.002,Sherwood Park,Total Oxides of Nitrogen,2025-12-07T00:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-07T00:00:00-07:00
+11.0,Sherwood Park,Wind Speed,2025-12-07T00:00:00-07:00
+140.0,Sherwood Park,Wind Direction,2025-12-07T00:00:00-07:00
 -17.0,Sherwood Park,Outdoor Temperature,2025-12-06T23:00:00-07:00
 0.002,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T23:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-06T23:00:00-07:00
+0.032,Sherwood Park,Ozone,2025-12-06T23:00:00-07:00
 3.3,Sherwood Park,Fine Particulate Matter,2025-12-06T23:00:00-07:00
 0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T23:00:00-07:00
-0.032,Sherwood Park,Ozone,2025-12-06T23:00:00-07:00
-3.0,Sherwood Park,Fine Particulate Matter,2025-12-06T22:00:00-07:00
-8.0,Sherwood Park,Wind Speed,2025-12-06T22:00:00-07:00
-2.0,Sherwood Park,,2025-12-06T22:00:00-07:00
-132.0,Sherwood Park,Wind Direction,2025-12-06T22:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T22:00:00-07:00
--17.0,Sherwood Park,Outdoor Temperature,2025-12-06T22:00:00-07:00
+2.0,Sherwood Park,,2025-12-06T23:00:00-07:00
+10.0,Sherwood Park,Wind Speed,2025-12-06T23:00:00-07:00
+0.0,Sherwood Park,Nitric Oxide,2025-12-06T23:00:00-07:00
+0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T23:00:00-07:00
+131.0,Sherwood Park,Wind Direction,2025-12-06T23:00:00-07:00
+2.16,Sherwood Park,Total Hydrocarbons,2025-12-06T23:00:00-07:00
 0.002,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T22:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T22:00:00-07:00
+8.0,Sherwood Park,Wind Speed,2025-12-06T22:00:00-07:00
+3.0,Sherwood Park,Fine Particulate Matter,2025-12-06T22:00:00-07:00
+-17.0,Sherwood Park,Outdoor Temperature,2025-12-06T22:00:00-07:00
 2.16,Sherwood Park,Total Hydrocarbons,2025-12-06T22:00:00-07:00
+2.0,Sherwood Park,,2025-12-06T22:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T22:00:00-07:00
+132.0,Sherwood Park,Wind Direction,2025-12-06T22:00:00-07:00
 0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T22:00:00-07:00
 0.0,Sherwood Park,Nitric Oxide,2025-12-06T22:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T22:00:00-07:00
 0.031,Sherwood Park,Ozone,2025-12-06T22:00:00-07:00
-0.032,Sherwood Park,Ozone,2025-12-06T21:00:00-07:00
 7.0,Sherwood Park,Wind Speed,2025-12-06T21:00:00-07:00
-2.15,Sherwood Park,Total Hydrocarbons,2025-12-06T21:00:00-07:00
-136.0,Sherwood Park,Wind Direction,2025-12-06T21:00:00-07:00
-0.002,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T21:00:00-07:00
 2.0,Sherwood Park,,2025-12-06T21:00:00-07:00
-3.0,Sherwood Park,Fine Particulate Matter,2025-12-06T21:00:00-07:00
-0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T21:00:00-07:00
 0.0,Sherwood Park,Nitric Oxide,2025-12-06T21:00:00-07:00
+2.15,Sherwood Park,Total Hydrocarbons,2025-12-06T21:00:00-07:00
+0.002,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T21:00:00-07:00
+0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T21:00:00-07:00
+0.032,Sherwood Park,Ozone,2025-12-06T21:00:00-07:00
 0.0,Sherwood Park,Hydrogen Sulphide,2025-12-06T21:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T21:00:00-07:00
+136.0,Sherwood Park,Wind Direction,2025-12-06T21:00:00-07:00
 -17.0,Sherwood Park,Outdoor Temperature,2025-12-06T21:00:00-07:00
-9.0,Sherwood Park,Wind Speed,2025-12-06T20:00:00-07:00
+3.0,Sherwood Park,Fine Particulate Matter,2025-12-06T21:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T21:00:00-07:00
 -16.0,Sherwood Park,Outdoor Temperature,2025-12-06T20:00:00-07:00
 0.002,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T20:00:00-07:00
-2.0,Sherwood Park,,2025-12-06T20:00:00-07:00
-0.032,Sherwood Park,Ozone,2025-12-06T20:00:00-07:00
-3.0,Sherwood Park,Fine Particulate Matter,2025-12-06T20:00:00-07:00
-2.16,Sherwood Park,Total Hydrocarbons,2025-12-06T20:00:00-07:00
-0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T20:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-06T20:00:00-07:00
-0.0,Sherwood Park,Nitric Oxide,2025-12-06T20:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T20:00:00-07:00
 129.0,Sherwood Park,Wind Direction,2025-12-06T20:00:00-07:00
-0.032,Sherwood Park,Ozone,2025-12-06T19:00:00-07:00
-0.002,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T19:00:00-07:00
-0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T19:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-06T19:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T19:00:00-07:00
-0.0,Sherwood Park,Nitric Oxide,2025-12-06T19:00:00-07:00
-133.0,Sherwood Park,Wind Direction,2025-12-06T19:00:00-07:00
+2.16,Sherwood Park,Total Hydrocarbons,2025-12-06T20:00:00-07:00
+0.0,Sherwood Park,Nitric Oxide,2025-12-06T20:00:00-07:00
+2.0,Sherwood Park,,2025-12-06T20:00:00-07:00
+9.0,Sherwood Park,Wind Speed,2025-12-06T20:00:00-07:00
+0.032,Sherwood Park,Ozone,2025-12-06T20:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T20:00:00-07:00
+3.0,Sherwood Park,Fine Particulate Matter,2025-12-06T20:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-06T20:00:00-07:00
+0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T20:00:00-07:00
 3.1,Sherwood Park,Fine Particulate Matter,2025-12-06T19:00:00-07:00
-2.15,Sherwood Park,Total Hydrocarbons,2025-12-06T19:00:00-07:00
+0.002,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T19:00:00-07:00
 2.0,Sherwood Park,,2025-12-06T19:00:00-07:00
--17.0,Sherwood Park,Outdoor Temperature,2025-12-06T19:00:00-07:00
 11.0,Sherwood Park,Wind Speed,2025-12-06T19:00:00-07:00
-0.031,Sherwood Park,Ozone,2025-12-06T18:00:00-07:00
-0.0,Sherwood Park,Hydrogen Sulphide,2025-12-06T18:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T18:00:00-07:00
-0.0,Sherwood Park,Nitric Oxide,2025-12-06T18:00:00-07:00
-0.003,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T18:00:00-07:00
+133.0,Sherwood Park,Wind Direction,2025-12-06T19:00:00-07:00
+0.032,Sherwood Park,Ozone,2025-12-06T19:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T19:00:00-07:00
+2.15,Sherwood Park,Total Hydrocarbons,2025-12-06T19:00:00-07:00
+-17.0,Sherwood Park,Outdoor Temperature,2025-12-06T19:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-06T19:00:00-07:00
+0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T19:00:00-07:00
+0.0,Sherwood Park,Nitric Oxide,2025-12-06T19:00:00-07:00
 3.3,Sherwood Park,Fine Particulate Matter,2025-12-06T18:00:00-07:00
-2.0,Sherwood Park,,2025-12-06T18:00:00-07:00
-2.14,Sherwood Park,Total Hydrocarbons,2025-12-06T18:00:00-07:00
--17.0,Sherwood Park,Outdoor Temperature,2025-12-06T18:00:00-07:00
+0.003,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T18:00:00-07:00
 10.0,Sherwood Park,Wind Speed,2025-12-06T18:00:00-07:00
-125.0,Sherwood Park,Wind Direction,2025-12-06T18:00:00-07:00
+2.14,Sherwood Park,Total Hydrocarbons,2025-12-06T18:00:00-07:00
+2.0,Sherwood Park,,2025-12-06T18:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T18:00:00-07:00
+0.0,Sherwood Park,Hydrogen Sulphide,2025-12-06T18:00:00-07:00
+-17.0,Sherwood Park,Outdoor Temperature,2025-12-06T18:00:00-07:00
 0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T18:00:00-07:00
-0.0,Sherwood Park,Nitric Oxide,2025-12-06T17:00:00-07:00
-119.0,Sherwood Park,Wind Direction,2025-12-06T17:00:00-07:00
--17.0,Sherwood Park,Outdoor Temperature,2025-12-06T17:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T17:00:00-07:00
-0.004,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T17:00:00-07:00
-2.15,Sherwood Park,Total Hydrocarbons,2025-12-06T17:00:00-07:00
-0.03,Sherwood Park,Ozone,2025-12-06T17:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T17:00:00-07:00
+0.031,Sherwood Park,Ozone,2025-12-06T18:00:00-07:00
+125.0,Sherwood Park,Wind Direction,2025-12-06T18:00:00-07:00
+0.0,Sherwood Park,Nitric Oxide,2025-12-06T18:00:00-07:00
 0.003,Sherwood Park,Nitrogen Dioxide,2025-12-06T17:00:00-07:00
 3.4,Sherwood Park,Fine Particulate Matter,2025-12-06T17:00:00-07:00
 2.0,Sherwood Park,,2025-12-06T17:00:00-07:00
 9.0,Sherwood Park,Wind Speed,2025-12-06T17:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T17:00:00-07:00
+0.03,Sherwood Park,Ozone,2025-12-06T17:00:00-07:00
+119.0,Sherwood Park,Wind Direction,2025-12-06T17:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T17:00:00-07:00
+2.15,Sherwood Park,Total Hydrocarbons,2025-12-06T17:00:00-07:00
+0.0,Sherwood Park,Nitric Oxide,2025-12-06T17:00:00-07:00
+-17.0,Sherwood Park,Outdoor Temperature,2025-12-06T17:00:00-07:00
+0.004,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T17:00:00-07:00
 0.001,Sherwood Park,Nitric Oxide,2025-12-06T16:00:00-07:00
 2.14,Sherwood Park,Total Hydrocarbons,2025-12-06T16:00:00-07:00
--17.0,Sherwood Park,Outdoor Temperature,2025-12-06T16:00:00-07:00
-3.2,Sherwood Park,Fine Particulate Matter,2025-12-06T16:00:00-07:00
-0.003,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T16:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T16:00:00-07:00
-0.03,Sherwood Park,Ozone,2025-12-06T16:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T16:00:00-07:00
-0.003,Sherwood Park,Nitrogen Dioxide,2025-12-06T16:00:00-07:00
-9.0,Sherwood Park,Wind Speed,2025-12-06T16:00:00-07:00
-2.0,Sherwood Park,,2025-12-06T16:00:00-07:00
 119.0,Sherwood Park,Wind Direction,2025-12-06T16:00:00-07:00
--16.0,Sherwood Park,Outdoor Temperature,2025-12-06T15:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T15:00:00-07:00
-2.0,Sherwood Park,,2025-12-06T15:00:00-07:00
-2.9,Sherwood Park,Fine Particulate Matter,2025-12-06T15:00:00-07:00
+9.0,Sherwood Park,Wind Speed,2025-12-06T16:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T16:00:00-07:00
+0.03,Sherwood Park,Ozone,2025-12-06T16:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T16:00:00-07:00
+-17.0,Sherwood Park,Outdoor Temperature,2025-12-06T16:00:00-07:00
+2.0,Sherwood Park,,2025-12-06T16:00:00-07:00
+0.003,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T16:00:00-07:00
+3.2,Sherwood Park,Fine Particulate Matter,2025-12-06T16:00:00-07:00
+0.003,Sherwood Park,Nitrogen Dioxide,2025-12-06T16:00:00-07:00
 0.001,Sherwood Park,Nitric Oxide,2025-12-06T15:00:00-07:00
-0.031,Sherwood Park,Ozone,2025-12-06T15:00:00-07:00
-9.0,Sherwood Park,Wind Speed,2025-12-06T15:00:00-07:00
-119.0,Sherwood Park,Wind Direction,2025-12-06T15:00:00-07:00
-0.004,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T15:00:00-07:00
 0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T15:00:00-07:00
+2.9,Sherwood Park,Fine Particulate Matter,2025-12-06T15:00:00-07:00
 2.13,Sherwood Park,Total Hydrocarbons,2025-12-06T15:00:00-07:00
 0.003,Sherwood Park,Nitrogen Dioxide,2025-12-06T15:00:00-07:00
-10.0,Sherwood Park,Wind Speed,2025-12-06T14:00:00-07:00
-123.0,Sherwood Park,Wind Direction,2025-12-06T14:00:00-07:00
-0.032,Sherwood Park,Ozone,2025-12-06T14:00:00-07:00
+-16.0,Sherwood Park,Outdoor Temperature,2025-12-06T15:00:00-07:00
+0.004,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T15:00:00-07:00
+9.0,Sherwood Park,Wind Speed,2025-12-06T15:00:00-07:00
+2.0,Sherwood Park,,2025-12-06T15:00:00-07:00
+0.031,Sherwood Park,Ozone,2025-12-06T15:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T15:00:00-07:00
+119.0,Sherwood Park,Wind Direction,2025-12-06T15:00:00-07:00
+0.003,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T14:00:00-07:00
 2.8,Sherwood Park,Fine Particulate Matter,2025-12-06T14:00:00-07:00
-0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T14:00:00-07:00
 0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T14:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T14:00:00-07:00
+0.032,Sherwood Park,Ozone,2025-12-06T14:00:00-07:00
+0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T14:00:00-07:00
+10.0,Sherwood Park,Wind Speed,2025-12-06T14:00:00-07:00
 -16.0,Sherwood Park,Outdoor Temperature,2025-12-06T14:00:00-07:00
 0.001,Sherwood Park,Nitric Oxide,2025-12-06T14:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T14:00:00-07:00
-0.003,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T14:00:00-07:00
 2.0,Sherwood Park,,2025-12-06T14:00:00-07:00
+123.0,Sherwood Park,Wind Direction,2025-12-06T14:00:00-07:00
 2.13,Sherwood Park,Total Hydrocarbons,2025-12-06T14:00:00-07:00
-10.0,Sherwood Park,Wind Speed,2025-12-06T13:00:00-07:00
-0.032,Sherwood Park,Ozone,2025-12-06T13:00:00-07:00
 2.9,Sherwood Park,Fine Particulate Matter,2025-12-06T13:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T13:00:00-07:00
-135.0,Sherwood Park,Wind Direction,2025-12-06T13:00:00-07:00
+0.032,Sherwood Park,Ozone,2025-12-06T13:00:00-07:00
 2.0,Sherwood Park,,2025-12-06T13:00:00-07:00
-2.14,Sherwood Park,Total Hydrocarbons,2025-12-06T13:00:00-07:00
-0.003,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T13:00:00-07:00
--16.0,Sherwood Park,Outdoor Temperature,2025-12-06T13:00:00-07:00
 0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T13:00:00-07:00
+2.14,Sherwood Park,Total Hydrocarbons,2025-12-06T13:00:00-07:00
+10.0,Sherwood Park,Wind Speed,2025-12-06T13:00:00-07:00
 0.001,Sherwood Park,Nitric Oxide,2025-12-06T13:00:00-07:00
+-16.0,Sherwood Park,Outdoor Temperature,2025-12-06T13:00:00-07:00
 0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T13:00:00-07:00
-138.0,Sherwood Park,Wind Direction,2025-12-06T12:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T12:00:00-07:00
-0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T12:00:00-07:00
-0.033,Sherwood Park,Ozone,2025-12-06T12:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-06T12:00:00-07:00
-2.0,Sherwood Park,,2025-12-06T12:00:00-07:00
-11.0,Sherwood Park,Wind Speed,2025-12-06T12:00:00-07:00
-0.002,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T12:00:00-07:00
+135.0,Sherwood Park,Wind Direction,2025-12-06T13:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T13:00:00-07:00
+0.003,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T13:00:00-07:00
 -16.0,Sherwood Park,Outdoor Temperature,2025-12-06T12:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T12:00:00-07:00
-3.0,Sherwood Park,Fine Particulate Matter,2025-12-06T12:00:00-07:00
 2.16,Sherwood Park,Total Hydrocarbons,2025-12-06T12:00:00-07:00
-2.15,Sherwood Park,Total Hydrocarbons,2025-12-06T11:00:00-07:00
-0.001,Sherwood Park,Nitric Oxide,2025-12-06T11:00:00-07:00
-0.003,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T11:00:00-07:00
--17.0,Sherwood Park,Outdoor Temperature,2025-12-06T11:00:00-07:00
-2.0,Sherwood Park,,2025-12-06T11:00:00-07:00
-3.0,Sherwood Park,Fine Particulate Matter,2025-12-06T11:00:00-07:00
-10.0,Sherwood Park,Wind Speed,2025-12-06T11:00:00-07:00
-0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T11:00:00-07:00
-0.033,Sherwood Park,Ozone,2025-12-06T11:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T11:00:00-07:00
+3.0,Sherwood Park,Fine Particulate Matter,2025-12-06T12:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-06T12:00:00-07:00
+0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T12:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T12:00:00-07:00
+0.033,Sherwood Park,Ozone,2025-12-06T12:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T12:00:00-07:00
+0.002,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T12:00:00-07:00
+138.0,Sherwood Park,Wind Direction,2025-12-06T12:00:00-07:00
+11.0,Sherwood Park,Wind Speed,2025-12-06T12:00:00-07:00
+2.0,Sherwood Park,,2025-12-06T12:00:00-07:00
 135.0,Sherwood Park,Wind Direction,2025-12-06T11:00:00-07:00
+10.0,Sherwood Park,Wind Speed,2025-12-06T11:00:00-07:00
+0.033,Sherwood Park,Ozone,2025-12-06T11:00:00-07:00
+3.0,Sherwood Park,Fine Particulate Matter,2025-12-06T11:00:00-07:00
 0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T11:00:00-07:00
-126.0,Sherwood Park,Wind Direction,2025-12-06T10:00:00-07:00
--18.0,Sherwood Park,Outdoor Temperature,2025-12-06T10:00:00-07:00
+2.0,Sherwood Park,,2025-12-06T11:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T11:00:00-07:00
+0.003,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T11:00:00-07:00
+0.001,Sherwood Park,Nitric Oxide,2025-12-06T11:00:00-07:00
+0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T11:00:00-07:00
+2.15,Sherwood Park,Total Hydrocarbons,2025-12-06T11:00:00-07:00
+-17.0,Sherwood Park,Outdoor Temperature,2025-12-06T11:00:00-07:00
 0.0,Sherwood Park,Nitric Oxide,2025-12-06T10:00:00-07:00
-0.032,Sherwood Park,Ozone,2025-12-06T10:00:00-07:00
-0.003,Sherwood Park,Nitrogen Dioxide,2025-12-06T10:00:00-07:00
-8.0,Sherwood Park,Wind Speed,2025-12-06T10:00:00-07:00
-2.0,Sherwood Park,,2025-12-06T10:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T10:00:00-07:00
-2.16,Sherwood Park,Total Hydrocarbons,2025-12-06T10:00:00-07:00
-3.0,Sherwood Park,Fine Particulate Matter,2025-12-06T10:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T10:00:00-07:00
 0.003,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T10:00:00-07:00
-0.003,Sherwood Park,Nitrogen Dioxide,2025-12-06T09:00:00-07:00
-2.17,Sherwood Park,Total Hydrocarbons,2025-12-06T09:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T09:00:00-07:00
-0.003,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T09:00:00-07:00
--18.0,Sherwood Park,Outdoor Temperature,2025-12-06T09:00:00-07:00
-0.032,Sherwood Park,Ozone,2025-12-06T09:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T10:00:00-07:00
+0.032,Sherwood Park,Ozone,2025-12-06T10:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T10:00:00-07:00
+0.003,Sherwood Park,Nitrogen Dioxide,2025-12-06T10:00:00-07:00
+2.0,Sherwood Park,,2025-12-06T10:00:00-07:00
+3.0,Sherwood Park,Fine Particulate Matter,2025-12-06T10:00:00-07:00
+-18.0,Sherwood Park,Outdoor Temperature,2025-12-06T10:00:00-07:00
+2.16,Sherwood Park,Total Hydrocarbons,2025-12-06T10:00:00-07:00
+8.0,Sherwood Park,Wind Speed,2025-12-06T10:00:00-07:00
+126.0,Sherwood Park,Wind Direction,2025-12-06T10:00:00-07:00
 3.2,Sherwood Park,Fine Particulate Matter,2025-12-06T09:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T09:00:00-07:00
-2.0,Sherwood Park,,2025-12-06T09:00:00-07:00
+0.003,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T09:00:00-07:00
+2.17,Sherwood Park,Total Hydrocarbons,2025-12-06T09:00:00-07:00
 7.0,Sherwood Park,Wind Speed,2025-12-06T09:00:00-07:00
-0.0,Sherwood Park,Nitric Oxide,2025-12-06T09:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T09:00:00-07:00
 130.0,Sherwood Park,Wind Direction,2025-12-06T09:00:00-07:00
-2.0,Sherwood Park,,2025-12-06T08:00:00-07:00
-2.9,Sherwood Park,Fine Particulate Matter,2025-12-06T08:00:00-07:00
--19.0,Sherwood Park,Outdoor Temperature,2025-12-06T08:00:00-07:00
-125.0,Sherwood Park,Wind Direction,2025-12-06T08:00:00-07:00
-0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T08:00:00-07:00
+0.032,Sherwood Park,Ozone,2025-12-06T09:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T09:00:00-07:00
+0.003,Sherwood Park,Nitrogen Dioxide,2025-12-06T09:00:00-07:00
+0.0,Sherwood Park,Nitric Oxide,2025-12-06T09:00:00-07:00
+-18.0,Sherwood Park,Outdoor Temperature,2025-12-06T09:00:00-07:00
+2.0,Sherwood Park,,2025-12-06T09:00:00-07:00
 0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T08:00:00-07:00
-0.032,Sherwood Park,Ozone,2025-12-06T08:00:00-07:00
+125.0,Sherwood Park,Wind Direction,2025-12-06T08:00:00-07:00
 7.0,Sherwood Park,Wind Speed,2025-12-06T08:00:00-07:00
-2.17,Sherwood Park,Total Hydrocarbons,2025-12-06T08:00:00-07:00
+0.032,Sherwood Park,Ozone,2025-12-06T08:00:00-07:00
 0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T08:00:00-07:00
-0.0,Sherwood Park,Nitric Oxide,2025-12-06T08:00:00-07:00
+-19.0,Sherwood Park,Outdoor Temperature,2025-12-06T08:00:00-07:00
+2.9,Sherwood Park,Fine Particulate Matter,2025-12-06T08:00:00-07:00
 0.002,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T08:00:00-07:00
-6.0,Sherwood Park,Wind Speed,2025-12-06T07:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T07:00:00-07:00
-3.1,Sherwood Park,Fine Particulate Matter,2025-12-06T07:00:00-07:00
-0.002,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T07:00:00-07:00
-0.031,Sherwood Park,Ozone,2025-12-06T07:00:00-07:00
+0.0,Sherwood Park,Nitric Oxide,2025-12-06T08:00:00-07:00
+2.17,Sherwood Park,Total Hydrocarbons,2025-12-06T08:00:00-07:00
+2.0,Sherwood Park,,2025-12-06T08:00:00-07:00
+0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T08:00:00-07:00
 119.0,Sherwood Park,Wind Direction,2025-12-06T07:00:00-07:00
+3.1,Sherwood Park,Fine Particulate Matter,2025-12-06T07:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T07:00:00-07:00
+0.002,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T07:00:00-07:00
 2.18,Sherwood Park,Total Hydrocarbons,2025-12-06T07:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T07:00:00-07:00
 2.0,Sherwood Park,,2025-12-06T07:00:00-07:00
 0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T07:00:00-07:00
--18.0,Sherwood Park,Outdoor Temperature,2025-12-06T07:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T07:00:00-07:00
 0.0,Sherwood Park,Nitric Oxide,2025-12-06T07:00:00-07:00
-0.002,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T06:00:00-07:00
-118.0,Sherwood Park,Wind Direction,2025-12-06T06:00:00-07:00
-2.0,Sherwood Park,,2025-12-06T06:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T06:00:00-07:00
-7.0,Sherwood Park,Wind Speed,2025-12-06T06:00:00-07:00
-0.03,Sherwood Park,Ozone,2025-12-06T06:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T06:00:00-07:00
-3.2,Sherwood Park,Fine Particulate Matter,2025-12-06T06:00:00-07:00
-0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T06:00:00-07:00
+0.031,Sherwood Park,Ozone,2025-12-06T07:00:00-07:00
+6.0,Sherwood Park,Wind Speed,2025-12-06T07:00:00-07:00
+-18.0,Sherwood Park,Outdoor Temperature,2025-12-06T07:00:00-07:00
 -18.0,Sherwood Park,Outdoor Temperature,2025-12-06T06:00:00-07:00
+0.03,Sherwood Park,Ozone,2025-12-06T06:00:00-07:00
+118.0,Sherwood Park,Wind Direction,2025-12-06T06:00:00-07:00
+7.0,Sherwood Park,Wind Speed,2025-12-06T06:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T06:00:00-07:00
+0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T06:00:00-07:00
 0.0,Sherwood Park,Nitric Oxide,2025-12-06T06:00:00-07:00
 2.17,Sherwood Park,Total Hydrocarbons,2025-12-06T06:00:00-07:00
-9.0,Sherwood Park,Wind Speed,2025-12-06T05:00:00-07:00
--18.0,Sherwood Park,Outdoor Temperature,2025-12-06T05:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T05:00:00-07:00
-116.0,Sherwood Park,Wind Direction,2025-12-06T05:00:00-07:00
-3.4,Sherwood Park,Fine Particulate Matter,2025-12-06T05:00:00-07:00
-2.17,Sherwood Park,Total Hydrocarbons,2025-12-06T05:00:00-07:00
+3.2,Sherwood Park,Fine Particulate Matter,2025-12-06T06:00:00-07:00
+2.0,Sherwood Park,,2025-12-06T06:00:00-07:00
+0.002,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T06:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T06:00:00-07:00
 0.03,Sherwood Park,Ozone,2025-12-06T05:00:00-07:00
-0.0,Sherwood Park,Nitric Oxide,2025-12-06T05:00:00-07:00
 0.002,Sherwood Park,Nitrogen Dioxide,2025-12-06T05:00:00-07:00
-0.002,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T05:00:00-07:00
+0.0,Sherwood Park,Nitric Oxide,2025-12-06T05:00:00-07:00
+116.0,Sherwood Park,Wind Direction,2025-12-06T05:00:00-07:00
 2.0,Sherwood Park,,2025-12-06T05:00:00-07:00
 0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T05:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T04:00:00-07:00
-3.7,Sherwood Park,Fine Particulate Matter,2025-12-06T04:00:00-07:00
-0.027,Sherwood Park,Ozone,2025-12-06T04:00:00-07:00
-8.0,Sherwood Park,Wind Speed,2025-12-06T04:00:00-07:00
-2.23,Sherwood Park,Total Hydrocarbons,2025-12-06T04:00:00-07:00
-0.004,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T04:00:00-07:00
-112.0,Sherwood Park,Wind Direction,2025-12-06T04:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T04:00:00-07:00
+2.17,Sherwood Park,Total Hydrocarbons,2025-12-06T05:00:00-07:00
+9.0,Sherwood Park,Wind Speed,2025-12-06T05:00:00-07:00
+0.002,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T05:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T05:00:00-07:00
+3.4,Sherwood Park,Fine Particulate Matter,2025-12-06T05:00:00-07:00
+-18.0,Sherwood Park,Outdoor Temperature,2025-12-06T05:00:00-07:00
 0.0,Sherwood Park,Nitric Oxide,2025-12-06T04:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T04:00:00-07:00
+3.7,Sherwood Park,Fine Particulate Matter,2025-12-06T04:00:00-07:00
+0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T04:00:00-07:00
+0.004,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T04:00:00-07:00
+8.0,Sherwood Park,Wind Speed,2025-12-06T04:00:00-07:00
 -18.0,Sherwood Park,Outdoor Temperature,2025-12-06T04:00:00-07:00
+112.0,Sherwood Park,Wind Direction,2025-12-06T04:00:00-07:00
+2.23,Sherwood Park,Total Hydrocarbons,2025-12-06T04:00:00-07:00
 2.0,Sherwood Park,,2025-12-06T04:00:00-07:00
+0.027,Sherwood Park,Ozone,2025-12-06T04:00:00-07:00
 0.004,Sherwood Park,Nitrogen Dioxide,2025-12-06T04:00:00-07:00
-105.0,Sherwood Park,Wind Direction,2025-12-06T03:00:00-07:00
-0.004,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T03:00:00-07:00
-6.0,Sherwood Park,Wind Speed,2025-12-06T03:00:00-07:00
-0.004,Sherwood Park,Nitrogen Dioxide,2025-12-06T03:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T03:00:00-07:00
--18.0,Sherwood Park,Outdoor Temperature,2025-12-06T03:00:00-07:00
-2.0,Sherwood Park,,2025-12-06T03:00:00-07:00
-0.026,Sherwood Park,Ozone,2025-12-06T03:00:00-07:00
-0.0,Sherwood Park,Nitric Oxide,2025-12-06T03:00:00-07:00
 3.7,Sherwood Park,Fine Particulate Matter,2025-12-06T03:00:00-07:00
+-18.0,Sherwood Park,Outdoor Temperature,2025-12-06T03:00:00-07:00
 2.19,Sherwood Park,Total Hydrocarbons,2025-12-06T03:00:00-07:00
+0.026,Sherwood Park,Ozone,2025-12-06T03:00:00-07:00
 0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T03:00:00-07:00
-90.0,Sherwood Park,Wind Direction,2025-12-06T02:00:00-07:00
-0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T02:00:00-07:00
--18.0,Sherwood Park,Outdoor Temperature,2025-12-06T02:00:00-07:00
-,Sherwood Park,Nitrogen Dioxide,2025-12-06T02:00:00-07:00
-0.026,Sherwood Park,Ozone,2025-12-06T02:00:00-07:00
-4.0,Sherwood Park,Wind Speed,2025-12-06T02:00:00-07:00
-2.0,Sherwood Park,,2025-12-06T02:00:00-07:00
-0.0,Sherwood Park,Nitric Oxide,2025-12-06T02:00:00-07:00
-,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T02:00:00-07:00
-3.5,Sherwood Park,Fine Particulate Matter,2025-12-06T02:00:00-07:00
-0.001,Sherwood Park,Hydrogen Sulphide,2025-12-06T02:00:00-07:00
-2.16,Sherwood Park,Total Hydrocarbons,2025-12-06T02:00:00-07:00
+105.0,Sherwood Park,Wind Direction,2025-12-06T03:00:00-07:00
+6.0,Sherwood Park,Wind Speed,2025-12-06T03:00:00-07:00
+0.0,Sherwood Park,Nitric Oxide,2025-12-06T03:00:00-07:00
+0.0,Sherwood Park,Sulphur Dioxide,2025-12-06T03:00:00-07:00
+0.004,Sherwood Park,Total Oxides of Nitrogen,2025-12-06T03:00:00-07:00
+2.0,Sherwood Park,,2025-12-06T03:00:00-07:00
+0.004,Sherwood Park,Nitrogen Dioxide,2025-12-06T03:00:00-07:00
