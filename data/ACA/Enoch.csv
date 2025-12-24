@@ -1,34 +1,44 @@
 Value,StationName,ParameterName,ReadingDate
-,Enoch,Nitric Oxide,2025-12-24T02:00:00-07:00
-,Enoch,Ozone,2025-12-24T02:00:00-07:00
-,Enoch,Relative Humidity,2025-12-24T02:00:00-07:00
-,Enoch,Fine Particulate Matter,2025-12-24T02:00:00-07:00
-,Enoch,Wind Speed,2025-12-24T02:00:00-07:00
-,Enoch,Nitrogen Dioxide,2025-12-24T02:00:00-07:00
-,Enoch,Outdoor Temperature,2025-12-24T02:00:00-07:00
-,Enoch,Wind Direction,2025-12-24T02:00:00-07:00
+,Enoch,Wind Speed,2025-12-24T03:00:00-07:00
+,Enoch,Fine Particulate Matter,2025-12-24T03:00:00-07:00
+,Enoch,Outdoor Temperature,2025-12-24T03:00:00-07:00
+,Enoch,Nitric Oxide,2025-12-24T03:00:00-07:00
+,Enoch,Relative Humidity,2025-12-24T03:00:00-07:00
+,Enoch,Ozone,2025-12-24T03:00:00-07:00
+,Enoch,Nitrogen Dioxide,2025-12-24T03:00:00-07:00
+,Enoch,Wind Direction,2025-12-24T03:00:00-07:00
+,Enoch,Total Oxides of Nitrogen,2025-12-24T03:00:00-07:00
+2.0,Enoch,,2025-12-24T03:00:00-07:00
+0.0,Enoch,Nitric Oxide,2025-12-24T02:00:00-07:00
+0.013,Enoch,Ozone,2025-12-24T02:00:00-07:00
+72.2,Enoch,Relative Humidity,2025-12-24T02:00:00-07:00
+3.8,Enoch,Fine Particulate Matter,2025-12-24T02:00:00-07:00
+8.0,Enoch,Wind Speed,2025-12-24T02:00:00-07:00
+0.011,Enoch,Nitrogen Dioxide,2025-12-24T02:00:00-07:00
+-23.8,Enoch,Outdoor Temperature,2025-12-24T02:00:00-07:00
+17.0,Enoch,Wind Direction,2025-12-24T02:00:00-07:00
 2.0,Enoch,,2025-12-24T02:00:00-07:00
-,Enoch,Total Oxides of Nitrogen,2025-12-24T02:00:00-07:00
-2.0,Enoch,,2025-12-24T01:00:00-07:00
-0.009,Enoch,Nitrogen Dioxide,2025-12-24T01:00:00-07:00
-0.009,Enoch,Total Oxides of Nitrogen,2025-12-24T01:00:00-07:00
-0.0,Enoch,Nitric Oxide,2025-12-24T01:00:00-07:00
-8.5,Enoch,Wind Speed,2025-12-24T01:00:00-07:00
-71.6,Enoch,Relative Humidity,2025-12-24T01:00:00-07:00
-4.1,Enoch,Fine Particulate Matter,2025-12-24T01:00:00-07:00
-23.0,Enoch,Wind Direction,2025-12-24T01:00:00-07:00
-0.016,Enoch,Ozone,2025-12-24T01:00:00-07:00
+0.011,Enoch,Total Oxides of Nitrogen,2025-12-24T02:00:00-07:00
 -24.1,Enoch,Outdoor Temperature,2025-12-24T01:00:00-07:00
+0.016,Enoch,Ozone,2025-12-24T01:00:00-07:00
+23.0,Enoch,Wind Direction,2025-12-24T01:00:00-07:00
+4.1,Enoch,Fine Particulate Matter,2025-12-24T01:00:00-07:00
+71.6,Enoch,Relative Humidity,2025-12-24T01:00:00-07:00
+8.5,Enoch,Wind Speed,2025-12-24T01:00:00-07:00
+0.0,Enoch,Nitric Oxide,2025-12-24T01:00:00-07:00
+0.009,Enoch,Total Oxides of Nitrogen,2025-12-24T01:00:00-07:00
+0.009,Enoch,Nitrogen Dioxide,2025-12-24T01:00:00-07:00
+2.0,Enoch,,2025-12-24T01:00:00-07:00
+71.5,Enoch,Relative Humidity,2025-12-24T00:00:00-07:00
+0.008,Enoch,Total Oxides of Nitrogen,2025-12-24T00:00:00-07:00
+10.8,Enoch,Wind Speed,2025-12-24T00:00:00-07:00
+-24.7,Enoch,Outdoor Temperature,2025-12-24T00:00:00-07:00
+0.0,Enoch,Nitric Oxide,2025-12-24T00:00:00-07:00
+0.008,Enoch,Nitrogen Dioxide,2025-12-24T00:00:00-07:00
 2.0,Enoch,,2025-12-24T00:00:00-07:00
 0.016,Enoch,Ozone,2025-12-24T00:00:00-07:00
 16.0,Enoch,Wind Direction,2025-12-24T00:00:00-07:00
 5.1,Enoch,Fine Particulate Matter,2025-12-24T00:00:00-07:00
-0.008,Enoch,Nitrogen Dioxide,2025-12-24T00:00:00-07:00
-0.0,Enoch,Nitric Oxide,2025-12-24T00:00:00-07:00
--24.7,Enoch,Outdoor Temperature,2025-12-24T00:00:00-07:00
-10.8,Enoch,Wind Speed,2025-12-24T00:00:00-07:00
-0.008,Enoch,Total Oxides of Nitrogen,2025-12-24T00:00:00-07:00
-71.5,Enoch,Relative Humidity,2025-12-24T00:00:00-07:00
 73.7,Enoch,Relative Humidity,2025-12-23T23:00:00-07:00
 0.019,Enoch,Nitrogen Dioxide,2025-12-23T23:00:00-07:00
 2.0,Enoch,,2025-12-23T23:00:00-07:00
@@ -39,16 +49,16 @@ Value,StationName,ParameterName,ReadingDate
 0.003,Enoch,Nitric Oxide,2025-12-23T23:00:00-07:00
 0.008,Enoch,Ozone,2025-12-23T23:00:00-07:00
 8.8,Enoch,Wind Speed,2025-12-23T23:00:00-07:00
-0.005,Enoch,Nitric Oxide,2025-12-23T22:00:00-07:00
--25.2,Enoch,Outdoor Temperature,2025-12-23T22:00:00-07:00
-0.029,Enoch,Total Oxides of Nitrogen,2025-12-23T22:00:00-07:00
-3.7,Enoch,Wind Speed,2025-12-23T22:00:00-07:00
-76.8,Enoch,Relative Humidity,2025-12-23T22:00:00-07:00
-8.8,Enoch,Fine Particulate Matter,2025-12-23T22:00:00-07:00
-339.0,Enoch,Wind Direction,2025-12-23T22:00:00-07:00
-0.004,Enoch,Ozone,2025-12-23T22:00:00-07:00
-0.024,Enoch,Nitrogen Dioxide,2025-12-23T22:00:00-07:00
 2.0,Enoch,,2025-12-23T22:00:00-07:00
+0.024,Enoch,Nitrogen Dioxide,2025-12-23T22:00:00-07:00
+0.004,Enoch,Ozone,2025-12-23T22:00:00-07:00
+339.0,Enoch,Wind Direction,2025-12-23T22:00:00-07:00
+8.8,Enoch,Fine Particulate Matter,2025-12-23T22:00:00-07:00
+76.8,Enoch,Relative Humidity,2025-12-23T22:00:00-07:00
+3.7,Enoch,Wind Speed,2025-12-23T22:00:00-07:00
+0.029,Enoch,Total Oxides of Nitrogen,2025-12-23T22:00:00-07:00
+-25.2,Enoch,Outdoor Temperature,2025-12-23T22:00:00-07:00
+0.005,Enoch,Nitric Oxide,2025-12-23T22:00:00-07:00
 2.0,Enoch,,2025-12-23T21:00:00-07:00
 0.002,Enoch,Nitric Oxide,2025-12-23T21:00:00-07:00
 0.021,Enoch,Nitrogen Dioxide,2025-12-23T21:00:00-07:00
@@ -59,46 +69,46 @@ Value,StationName,ParameterName,ReadingDate
 0.022,Enoch,Total Oxides of Nitrogen,2025-12-23T21:00:00-07:00
 0.8,Enoch,Wind Speed,2025-12-23T21:00:00-07:00
 76.8,Enoch,Relative Humidity,2025-12-23T21:00:00-07:00
-74.7,Enoch,Relative Humidity,2025-12-23T20:00:00-07:00
-0.018,Enoch,Total Oxides of Nitrogen,2025-12-23T20:00:00-07:00
--25.3,Enoch,Outdoor Temperature,2025-12-23T20:00:00-07:00
-2.5,Enoch,Wind Speed,2025-12-23T20:00:00-07:00
-0.002,Enoch,Nitric Oxide,2025-12-23T20:00:00-07:00
-7.4,Enoch,Fine Particulate Matter,2025-12-23T20:00:00-07:00
-216.0,Enoch,Wind Direction,2025-12-23T20:00:00-07:00
-0.016,Enoch,Nitrogen Dioxide,2025-12-23T20:00:00-07:00
-0.01,Enoch,Ozone,2025-12-23T20:00:00-07:00
 2.0,Enoch,,2025-12-23T20:00:00-07:00
+0.01,Enoch,Ozone,2025-12-23T20:00:00-07:00
+0.016,Enoch,Nitrogen Dioxide,2025-12-23T20:00:00-07:00
+216.0,Enoch,Wind Direction,2025-12-23T20:00:00-07:00
+7.4,Enoch,Fine Particulate Matter,2025-12-23T20:00:00-07:00
+0.002,Enoch,Nitric Oxide,2025-12-23T20:00:00-07:00
+2.5,Enoch,Wind Speed,2025-12-23T20:00:00-07:00
+-25.3,Enoch,Outdoor Temperature,2025-12-23T20:00:00-07:00
+0.018,Enoch,Total Oxides of Nitrogen,2025-12-23T20:00:00-07:00
+74.7,Enoch,Relative Humidity,2025-12-23T20:00:00-07:00
 3.0,Enoch,,2025-12-23T19:00:00-07:00
 0.021,Enoch,Nitrogen Dioxide,2025-12-23T19:00:00-07:00
 75.2,Enoch,Relative Humidity,2025-12-23T19:00:00-07:00
 314.0,Enoch,Wind Direction,2025-12-23T19:00:00-07:00
 7.4,Enoch,Fine Particulate Matter,2025-12-23T19:00:00-07:00
-0.007,Enoch,Ozone,2025-12-23T19:00:00-07:00
--24.6,Enoch,Outdoor Temperature,2025-12-23T19:00:00-07:00
-0.028,Enoch,Total Oxides of Nitrogen,2025-12-23T19:00:00-07:00
-5.3,Enoch,Wind Speed,2025-12-23T19:00:00-07:00
 0.007,Enoch,Nitric Oxide,2025-12-23T19:00:00-07:00
-3.0,Enoch,,2025-12-23T18:00:00-07:00
-72.7,Enoch,Relative Humidity,2025-12-23T18:00:00-07:00
-346.0,Enoch,Wind Direction,2025-12-23T18:00:00-07:00
-7.4,Enoch,Fine Particulate Matter,2025-12-23T18:00:00-07:00
-2.9,Enoch,Wind Speed,2025-12-23T18:00:00-07:00
-0.028,Enoch,Nitrogen Dioxide,2025-12-23T18:00:00-07:00
-0.001,Enoch,Ozone,2025-12-23T18:00:00-07:00
-0.01,Enoch,Nitric Oxide,2025-12-23T18:00:00-07:00
-0.038,Enoch,Total Oxides of Nitrogen,2025-12-23T18:00:00-07:00
+5.3,Enoch,Wind Speed,2025-12-23T19:00:00-07:00
+0.028,Enoch,Total Oxides of Nitrogen,2025-12-23T19:00:00-07:00
+-24.6,Enoch,Outdoor Temperature,2025-12-23T19:00:00-07:00
+0.007,Enoch,Ozone,2025-12-23T19:00:00-07:00
 -23.8,Enoch,Outdoor Temperature,2025-12-23T18:00:00-07:00
-2.0,Enoch,,2025-12-23T17:00:00-07:00
-4.8,Enoch,Wind Speed,2025-12-23T17:00:00-07:00
-70.8,Enoch,Relative Humidity,2025-12-23T17:00:00-07:00
-2.0,Enoch,Wind Direction,2025-12-23T17:00:00-07:00
-7.5,Enoch,Fine Particulate Matter,2025-12-23T17:00:00-07:00
--23.2,Enoch,Outdoor Temperature,2025-12-23T17:00:00-07:00
-0.008,Enoch,Ozone,2025-12-23T17:00:00-07:00
-0.002,Enoch,Nitric Oxide,2025-12-23T17:00:00-07:00
-0.022,Enoch,Total Oxides of Nitrogen,2025-12-23T17:00:00-07:00
+0.038,Enoch,Total Oxides of Nitrogen,2025-12-23T18:00:00-07:00
+0.01,Enoch,Nitric Oxide,2025-12-23T18:00:00-07:00
+0.001,Enoch,Ozone,2025-12-23T18:00:00-07:00
+0.028,Enoch,Nitrogen Dioxide,2025-12-23T18:00:00-07:00
+2.9,Enoch,Wind Speed,2025-12-23T18:00:00-07:00
+7.4,Enoch,Fine Particulate Matter,2025-12-23T18:00:00-07:00
+346.0,Enoch,Wind Direction,2025-12-23T18:00:00-07:00
+72.7,Enoch,Relative Humidity,2025-12-23T18:00:00-07:00
+3.0,Enoch,,2025-12-23T18:00:00-07:00
 0.02,Enoch,Nitrogen Dioxide,2025-12-23T17:00:00-07:00
+0.022,Enoch,Total Oxides of Nitrogen,2025-12-23T17:00:00-07:00
+0.002,Enoch,Nitric Oxide,2025-12-23T17:00:00-07:00
+0.008,Enoch,Ozone,2025-12-23T17:00:00-07:00
+-23.2,Enoch,Outdoor Temperature,2025-12-23T17:00:00-07:00
+7.5,Enoch,Fine Particulate Matter,2025-12-23T17:00:00-07:00
+2.0,Enoch,Wind Direction,2025-12-23T17:00:00-07:00
+70.8,Enoch,Relative Humidity,2025-12-23T17:00:00-07:00
+4.8,Enoch,Wind Speed,2025-12-23T17:00:00-07:00
+2.0,Enoch,,2025-12-23T17:00:00-07:00
 2.0,Enoch,,2025-12-23T16:00:00-07:00
 0.012,Enoch,Ozone,2025-12-23T16:00:00-07:00
 335.0,Enoch,Wind Direction,2025-12-23T16:00:00-07:00
@@ -119,36 +129,36 @@ Value,StationName,ParameterName,ReadingDate
 0.01,Enoch,Nitrogen Dioxide,2025-12-23T15:00:00-07:00
 0.017,Enoch,Total Oxides of Nitrogen,2025-12-23T15:00:00-07:00
 59.2,Enoch,Relative Humidity,2025-12-23T15:00:00-07:00
-0.009,Enoch,Nitrogen Dioxide,2025-12-23T14:00:00-07:00
-0.017,Enoch,Total Oxides of Nitrogen,2025-12-23T14:00:00-07:00
--20.6,Enoch,Outdoor Temperature,2025-12-23T14:00:00-07:00
-7.5,Enoch,Wind Speed,2025-12-23T14:00:00-07:00
-60.8,Enoch,Relative Humidity,2025-12-23T14:00:00-07:00
-10.5,Enoch,Fine Particulate Matter,2025-12-23T14:00:00-07:00
-290.0,Enoch,Wind Direction,2025-12-23T14:00:00-07:00
-0.018,Enoch,Ozone,2025-12-23T14:00:00-07:00
-0.008,Enoch,Nitric Oxide,2025-12-23T14:00:00-07:00
 2.0,Enoch,,2025-12-23T14:00:00-07:00
-2.0,Enoch,,2025-12-23T13:00:00-07:00
-0.02,Enoch,Total Oxides of Nitrogen,2025-12-23T13:00:00-07:00
-0.01,Enoch,Nitrogen Dioxide,2025-12-23T13:00:00-07:00
-283.0,Enoch,Wind Direction,2025-12-23T13:00:00-07:00
-10.3,Enoch,Fine Particulate Matter,2025-12-23T13:00:00-07:00
-63.6,Enoch,Relative Humidity,2025-12-23T13:00:00-07:00
-0.011,Enoch,Nitric Oxide,2025-12-23T13:00:00-07:00
--21.5,Enoch,Outdoor Temperature,2025-12-23T13:00:00-07:00
-0.017,Enoch,Ozone,2025-12-23T13:00:00-07:00
+0.008,Enoch,Nitric Oxide,2025-12-23T14:00:00-07:00
+0.018,Enoch,Ozone,2025-12-23T14:00:00-07:00
+290.0,Enoch,Wind Direction,2025-12-23T14:00:00-07:00
+10.5,Enoch,Fine Particulate Matter,2025-12-23T14:00:00-07:00
+60.8,Enoch,Relative Humidity,2025-12-23T14:00:00-07:00
+7.5,Enoch,Wind Speed,2025-12-23T14:00:00-07:00
+-20.6,Enoch,Outdoor Temperature,2025-12-23T14:00:00-07:00
+0.017,Enoch,Total Oxides of Nitrogen,2025-12-23T14:00:00-07:00
+0.009,Enoch,Nitrogen Dioxide,2025-12-23T14:00:00-07:00
 8.5,Enoch,Wind Speed,2025-12-23T13:00:00-07:00
-0.015,Enoch,Ozone,2025-12-23T12:00:00-07:00
--22.4,Enoch,Outdoor Temperature,2025-12-23T12:00:00-07:00
-0.012,Enoch,Nitrogen Dioxide,2025-12-23T12:00:00-07:00
-66.7,Enoch,Relative Humidity,2025-12-23T12:00:00-07:00
-0.024,Enoch,Total Oxides of Nitrogen,2025-12-23T12:00:00-07:00
-0.012,Enoch,Nitric Oxide,2025-12-23T12:00:00-07:00
-265.0,Enoch,Wind Direction,2025-12-23T12:00:00-07:00
-9.1,Enoch,Fine Particulate Matter,2025-12-23T12:00:00-07:00
-8.9,Enoch,Wind Speed,2025-12-23T12:00:00-07:00
+0.017,Enoch,Ozone,2025-12-23T13:00:00-07:00
+-21.5,Enoch,Outdoor Temperature,2025-12-23T13:00:00-07:00
+0.011,Enoch,Nitric Oxide,2025-12-23T13:00:00-07:00
+63.6,Enoch,Relative Humidity,2025-12-23T13:00:00-07:00
+10.3,Enoch,Fine Particulate Matter,2025-12-23T13:00:00-07:00
+283.0,Enoch,Wind Direction,2025-12-23T13:00:00-07:00
+0.01,Enoch,Nitrogen Dioxide,2025-12-23T13:00:00-07:00
+0.02,Enoch,Total Oxides of Nitrogen,2025-12-23T13:00:00-07:00
+2.0,Enoch,,2025-12-23T13:00:00-07:00
 2.0,Enoch,,2025-12-23T12:00:00-07:00
+8.9,Enoch,Wind Speed,2025-12-23T12:00:00-07:00
+9.1,Enoch,Fine Particulate Matter,2025-12-23T12:00:00-07:00
+265.0,Enoch,Wind Direction,2025-12-23T12:00:00-07:00
+0.012,Enoch,Nitric Oxide,2025-12-23T12:00:00-07:00
+0.024,Enoch,Total Oxides of Nitrogen,2025-12-23T12:00:00-07:00
+66.7,Enoch,Relative Humidity,2025-12-23T12:00:00-07:00
+0.012,Enoch,Nitrogen Dioxide,2025-12-23T12:00:00-07:00
+-22.4,Enoch,Outdoor Temperature,2025-12-23T12:00:00-07:00
+0.015,Enoch,Ozone,2025-12-23T12:00:00-07:00
 2.0,Enoch,,2025-12-23T11:00:00-07:00
 69.4,Enoch,Relative Humidity,2025-12-23T11:00:00-07:00
 0.015,Enoch,Nitrogen Dioxide,2025-12-23T11:00:00-07:00
@@ -169,6 +179,7 @@ Value,StationName,ParameterName,ReadingDate
 76.2,Enoch,Relative Humidity,2025-12-23T10:00:00-07:00
 -24.6,Enoch,Outdoor Temperature,2025-12-23T10:00:00-07:00
 3.2,Enoch,Wind Speed,2025-12-23T10:00:00-07:00
+2.0,Enoch,,2025-12-23T09:00:00-07:00
 0.028,Enoch,Total Oxides of Nitrogen,2025-12-23T09:00:00-07:00
 0.021,Enoch,Nitrogen Dioxide,2025-12-23T09:00:00-07:00
 2.2,Enoch,Wind Speed,2025-12-23T09:00:00-07:00
@@ -178,7 +189,6 @@ Value,StationName,ParameterName,ReadingDate
 289.0,Enoch,Wind Direction,2025-12-23T09:00:00-07:00
 76.1,Enoch,Relative Humidity,2025-12-23T09:00:00-07:00
 0.007,Enoch,Nitric Oxide,2025-12-23T09:00:00-07:00
-2.0,Enoch,,2025-12-23T09:00:00-07:00
 0.01,Enoch,Ozone,2025-12-23T08:00:00-07:00
 -24.1,Enoch,Outdoor Temperature,2025-12-23T08:00:00-07:00
 74.9,Enoch,Relative Humidity,2025-12-23T08:00:00-07:00
@@ -199,46 +209,46 @@ Value,StationName,ParameterName,ReadingDate
 3.9,Enoch,Wind Speed,2025-12-23T07:00:00-07:00
 -23.4,Enoch,Outdoor Temperature,2025-12-23T07:00:00-07:00
 73.5,Enoch,Relative Humidity,2025-12-23T07:00:00-07:00
-6.5,Enoch,Wind Speed,2025-12-23T06:00:00-07:00
-0.004,Enoch,Total Oxides of Nitrogen,2025-12-23T06:00:00-07:00
-72.9,Enoch,Relative Humidity,2025-12-23T06:00:00-07:00
-0.023,Enoch,Ozone,2025-12-23T06:00:00-07:00
--22.8,Enoch,Outdoor Temperature,2025-12-23T06:00:00-07:00
-7.8,Enoch,Fine Particulate Matter,2025-12-23T06:00:00-07:00
-128.0,Enoch,Wind Direction,2025-12-23T06:00:00-07:00
-0.0,Enoch,Nitric Oxide,2025-12-23T06:00:00-07:00
-0.004,Enoch,Nitrogen Dioxide,2025-12-23T06:00:00-07:00
 2.0,Enoch,,2025-12-23T06:00:00-07:00
-2.0,Enoch,,2025-12-23T05:00:00-07:00
-70.9,Enoch,Relative Humidity,2025-12-23T05:00:00-07:00
-0.0,Enoch,Nitric Oxide,2025-12-23T05:00:00-07:00
-130.0,Enoch,Wind Direction,2025-12-23T05:00:00-07:00
-8.0,Enoch,Fine Particulate Matter,2025-12-23T05:00:00-07:00
--22.0,Enoch,Outdoor Temperature,2025-12-23T05:00:00-07:00
-8.2,Enoch,Wind Speed,2025-12-23T05:00:00-07:00
-0.003,Enoch,Nitrogen Dioxide,2025-12-23T05:00:00-07:00
-0.003,Enoch,Total Oxides of Nitrogen,2025-12-23T05:00:00-07:00
+0.004,Enoch,Nitrogen Dioxide,2025-12-23T06:00:00-07:00
+0.0,Enoch,Nitric Oxide,2025-12-23T06:00:00-07:00
+128.0,Enoch,Wind Direction,2025-12-23T06:00:00-07:00
+7.8,Enoch,Fine Particulate Matter,2025-12-23T06:00:00-07:00
+-22.8,Enoch,Outdoor Temperature,2025-12-23T06:00:00-07:00
+0.023,Enoch,Ozone,2025-12-23T06:00:00-07:00
+72.9,Enoch,Relative Humidity,2025-12-23T06:00:00-07:00
+0.004,Enoch,Total Oxides of Nitrogen,2025-12-23T06:00:00-07:00
+6.5,Enoch,Wind Speed,2025-12-23T06:00:00-07:00
 0.024,Enoch,Ozone,2025-12-23T05:00:00-07:00
+0.003,Enoch,Total Oxides of Nitrogen,2025-12-23T05:00:00-07:00
+0.003,Enoch,Nitrogen Dioxide,2025-12-23T05:00:00-07:00
+8.2,Enoch,Wind Speed,2025-12-23T05:00:00-07:00
+-22.0,Enoch,Outdoor Temperature,2025-12-23T05:00:00-07:00
+8.0,Enoch,Fine Particulate Matter,2025-12-23T05:00:00-07:00
+130.0,Enoch,Wind Direction,2025-12-23T05:00:00-07:00
+0.0,Enoch,Nitric Oxide,2025-12-23T05:00:00-07:00
+70.9,Enoch,Relative Humidity,2025-12-23T05:00:00-07:00
+2.0,Enoch,,2025-12-23T05:00:00-07:00
 2.0,Enoch,,2025-12-23T04:00:00-07:00
 ,Enoch,Nitrogen Dioxide,2025-12-23T04:00:00-07:00
 ,Enoch,Nitric Oxide,2025-12-23T04:00:00-07:00
 121.0,Enoch,Wind Direction,2025-12-23T04:00:00-07:00
 7.5,Enoch,Fine Particulate Matter,2025-12-23T04:00:00-07:00
-10.0,Enoch,Wind Speed,2025-12-23T04:00:00-07:00
-71.2,Enoch,Relative Humidity,2025-12-23T04:00:00-07:00
--21.5,Enoch,Outdoor Temperature,2025-12-23T04:00:00-07:00
-,Enoch,Total Oxides of Nitrogen,2025-12-23T04:00:00-07:00
 ,Enoch,Ozone,2025-12-23T04:00:00-07:00
-2.0,Enoch,,2025-12-23T03:00:00-07:00
-0.003,Enoch,Nitrogen Dioxide,2025-12-23T03:00:00-07:00
-0.0,Enoch,Nitric Oxide,2025-12-23T03:00:00-07:00
-121.0,Enoch,Wind Direction,2025-12-23T03:00:00-07:00
-6.9,Enoch,Fine Particulate Matter,2025-12-23T03:00:00-07:00
-0.003,Enoch,Total Oxides of Nitrogen,2025-12-23T03:00:00-07:00
-10.7,Enoch,Wind Speed,2025-12-23T03:00:00-07:00
-0.025,Enoch,Ozone,2025-12-23T03:00:00-07:00
--21.5,Enoch,Outdoor Temperature,2025-12-23T03:00:00-07:00
+,Enoch,Total Oxides of Nitrogen,2025-12-23T04:00:00-07:00
+-21.5,Enoch,Outdoor Temperature,2025-12-23T04:00:00-07:00
+71.2,Enoch,Relative Humidity,2025-12-23T04:00:00-07:00
+10.0,Enoch,Wind Speed,2025-12-23T04:00:00-07:00
 72.2,Enoch,Relative Humidity,2025-12-23T03:00:00-07:00
+-21.5,Enoch,Outdoor Temperature,2025-12-23T03:00:00-07:00
+0.025,Enoch,Ozone,2025-12-23T03:00:00-07:00
+10.7,Enoch,Wind Speed,2025-12-23T03:00:00-07:00
+0.003,Enoch,Total Oxides of Nitrogen,2025-12-23T03:00:00-07:00
+6.9,Enoch,Fine Particulate Matter,2025-12-23T03:00:00-07:00
+121.0,Enoch,Wind Direction,2025-12-23T03:00:00-07:00
+0.0,Enoch,Nitric Oxide,2025-12-23T03:00:00-07:00
+0.003,Enoch,Nitrogen Dioxide,2025-12-23T03:00:00-07:00
+2.0,Enoch,,2025-12-23T03:00:00-07:00
 2.0,Enoch,,2025-12-23T02:00:00-07:00
 0.0,Enoch,Nitric Oxide,2025-12-23T02:00:00-07:00
 112.0,Enoch,Wind Direction,2025-12-23T02:00:00-07:00
@@ -410,8 +420,8 @@ Value,StationName,ParameterName,ReadingDate
 0.003,Enoch,Nitric Oxide,2025-12-22T10:00:00-07:00
 2.0,Enoch,,2025-12-22T10:00:00-07:00
 2.0,Enoch,,2025-12-22T09:00:00-07:00
-0.008,Enoch,Total Oxides of Nitrogen,2025-12-22T09:00:00-07:00
 0.002,Enoch,Nitric Oxide,2025-12-22T09:00:00-07:00
+0.008,Enoch,Total Oxides of Nitrogen,2025-12-22T09:00:00-07:00
 0.026,Enoch,Ozone,2025-12-22T09:00:00-07:00
 -21.5,Enoch,Outdoor Temperature,2025-12-22T09:00:00-07:00
 7.4,Enoch,Wind Speed,2025-12-22T09:00:00-07:00
@@ -429,23 +439,23 @@ Value,StationName,ParameterName,ReadingDate
 76.8,Enoch,Relative Humidity,2025-12-22T08:00:00-07:00
 2.2,Enoch,Fine Particulate Matter,2025-12-22T08:00:00-07:00
 331.0,Enoch,Wind Direction,2025-12-22T08:00:00-07:00
-327.0,Enoch,Wind Direction,2025-12-22T07:00:00-07:00
-2.3,Enoch,Fine Particulate Matter,2025-12-22T07:00:00-07:00
-77.0,Enoch,Relative Humidity,2025-12-22T07:00:00-07:00
-0.005,Enoch,Nitrogen Dioxide,2025-12-22T07:00:00-07:00
-0.001,Enoch,Nitric Oxide,2025-12-22T07:00:00-07:00
-8.3,Enoch,Wind Speed,2025-12-22T07:00:00-07:00
--21.8,Enoch,Outdoor Temperature,2025-12-22T07:00:00-07:00
-0.026,Enoch,Ozone,2025-12-22T07:00:00-07:00
-0.006,Enoch,Total Oxides of Nitrogen,2025-12-22T07:00:00-07:00
 2.0,Enoch,,2025-12-22T07:00:00-07:00
-0.005,Enoch,Nitrogen Dioxide,2025-12-22T06:00:00-07:00
-8.7,Enoch,Wind Speed,2025-12-22T06:00:00-07:00
--21.9,Enoch,Outdoor Temperature,2025-12-22T06:00:00-07:00
-0.026,Enoch,Ozone,2025-12-22T06:00:00-07:00
-0.005,Enoch,Total Oxides of Nitrogen,2025-12-22T06:00:00-07:00
-0.0,Enoch,Nitric Oxide,2025-12-22T06:00:00-07:00
+0.006,Enoch,Total Oxides of Nitrogen,2025-12-22T07:00:00-07:00
+0.026,Enoch,Ozone,2025-12-22T07:00:00-07:00
+-21.8,Enoch,Outdoor Temperature,2025-12-22T07:00:00-07:00
+8.3,Enoch,Wind Speed,2025-12-22T07:00:00-07:00
+0.001,Enoch,Nitric Oxide,2025-12-22T07:00:00-07:00
+0.005,Enoch,Nitrogen Dioxide,2025-12-22T07:00:00-07:00
+77.0,Enoch,Relative Humidity,2025-12-22T07:00:00-07:00
+2.3,Enoch,Fine Particulate Matter,2025-12-22T07:00:00-07:00
+327.0,Enoch,Wind Direction,2025-12-22T07:00:00-07:00
 2.0,Enoch,,2025-12-22T06:00:00-07:00
+0.0,Enoch,Nitric Oxide,2025-12-22T06:00:00-07:00
+0.005,Enoch,Total Oxides of Nitrogen,2025-12-22T06:00:00-07:00
+0.026,Enoch,Ozone,2025-12-22T06:00:00-07:00
+-21.9,Enoch,Outdoor Temperature,2025-12-22T06:00:00-07:00
+8.7,Enoch,Wind Speed,2025-12-22T06:00:00-07:00
+0.005,Enoch,Nitrogen Dioxide,2025-12-22T06:00:00-07:00
 76.8,Enoch,Relative Humidity,2025-12-22T06:00:00-07:00
 3.0,Enoch,Fine Particulate Matter,2025-12-22T06:00:00-07:00
 339.0,Enoch,Wind Direction,2025-12-22T06:00:00-07:00
@@ -459,48 +469,49 @@ Value,StationName,ParameterName,ReadingDate
 76.6,Enoch,Relative Humidity,2025-12-22T05:00:00-07:00
 3.4,Enoch,Fine Particulate Matter,2025-12-22T05:00:00-07:00
 351.0,Enoch,Wind Direction,2025-12-22T05:00:00-07:00
-0.0,Enoch,Wind Direction,2025-12-22T04:00:00-07:00
-3.1,Enoch,Fine Particulate Matter,2025-12-22T04:00:00-07:00
-76.4,Enoch,Relative Humidity,2025-12-22T04:00:00-07:00
-,Enoch,Nitrogen Dioxide,2025-12-22T04:00:00-07:00
-,Enoch,Ozone,2025-12-22T04:00:00-07:00
 2.0,Enoch,,2025-12-22T04:00:00-07:00
 -22.0,Enoch,Outdoor Temperature,2025-12-22T04:00:00-07:00
 6.9,Enoch,Wind Speed,2025-12-22T04:00:00-07:00
 ,Enoch,Total Oxides of Nitrogen,2025-12-22T04:00:00-07:00
 ,Enoch,Nitric Oxide,2025-12-22T04:00:00-07:00
-0.0,Enoch,Nitric Oxide,2025-12-22T03:00:00-07:00
-16.0,Enoch,Wind Direction,2025-12-22T03:00:00-07:00
-3.2,Enoch,Fine Particulate Matter,2025-12-22T03:00:00-07:00
-75.0,Enoch,Relative Humidity,2025-12-22T03:00:00-07:00
-0.012,Enoch,Nitrogen Dioxide,2025-12-22T03:00:00-07:00
-6.0,Enoch,Wind Speed,2025-12-22T03:00:00-07:00
--22.1,Enoch,Outdoor Temperature,2025-12-22T03:00:00-07:00
-0.02,Enoch,Ozone,2025-12-22T03:00:00-07:00
-0.012,Enoch,Total Oxides of Nitrogen,2025-12-22T03:00:00-07:00
+,Enoch,Ozone,2025-12-22T04:00:00-07:00
+,Enoch,Nitrogen Dioxide,2025-12-22T04:00:00-07:00
+76.4,Enoch,Relative Humidity,2025-12-22T04:00:00-07:00
+3.1,Enoch,Fine Particulate Matter,2025-12-22T04:00:00-07:00
+0.0,Enoch,Wind Direction,2025-12-22T04:00:00-07:00
 2.0,Enoch,,2025-12-22T03:00:00-07:00
-0.0,Enoch,Nitric Oxide,2025-12-22T02:00:00-07:00
-18.0,Enoch,Wind Direction,2025-12-22T02:00:00-07:00
-2.5,Enoch,Fine Particulate Matter,2025-12-22T02:00:00-07:00
-72.9,Enoch,Relative Humidity,2025-12-22T02:00:00-07:00
-0.012,Enoch,Nitrogen Dioxide,2025-12-22T02:00:00-07:00
--22.2,Enoch,Outdoor Temperature,2025-12-22T02:00:00-07:00
-0.021,Enoch,Ozone,2025-12-22T02:00:00-07:00
-6.7,Enoch,Wind Speed,2025-12-22T02:00:00-07:00
-0.012,Enoch,Total Oxides of Nitrogen,2025-12-22T02:00:00-07:00
+0.012,Enoch,Total Oxides of Nitrogen,2025-12-22T03:00:00-07:00
+0.02,Enoch,Ozone,2025-12-22T03:00:00-07:00
+-22.1,Enoch,Outdoor Temperature,2025-12-22T03:00:00-07:00
+6.0,Enoch,Wind Speed,2025-12-22T03:00:00-07:00
+0.012,Enoch,Nitrogen Dioxide,2025-12-22T03:00:00-07:00
+75.0,Enoch,Relative Humidity,2025-12-22T03:00:00-07:00
+3.2,Enoch,Fine Particulate Matter,2025-12-22T03:00:00-07:00
+16.0,Enoch,Wind Direction,2025-12-22T03:00:00-07:00
+0.0,Enoch,Nitric Oxide,2025-12-22T03:00:00-07:00
 2.0,Enoch,,2025-12-22T02:00:00-07:00
-0.012,Enoch,Total Oxides of Nitrogen,2025-12-22T01:00:00-07:00
-0.021,Enoch,Ozone,2025-12-22T01:00:00-07:00
--22.1,Enoch,Outdoor Temperature,2025-12-22T01:00:00-07:00
-4.7,Enoch,Wind Speed,2025-12-22T01:00:00-07:00
-0.012,Enoch,Nitrogen Dioxide,2025-12-22T01:00:00-07:00
-72.5,Enoch,Relative Humidity,2025-12-22T01:00:00-07:00
-2.0,Enoch,Fine Particulate Matter,2025-12-22T01:00:00-07:00
-35.0,Enoch,Wind Direction,2025-12-22T01:00:00-07:00
+0.012,Enoch,Total Oxides of Nitrogen,2025-12-22T02:00:00-07:00
+6.7,Enoch,Wind Speed,2025-12-22T02:00:00-07:00
+0.021,Enoch,Ozone,2025-12-22T02:00:00-07:00
+-22.2,Enoch,Outdoor Temperature,2025-12-22T02:00:00-07:00
+0.012,Enoch,Nitrogen Dioxide,2025-12-22T02:00:00-07:00
+72.9,Enoch,Relative Humidity,2025-12-22T02:00:00-07:00
+2.5,Enoch,Fine Particulate Matter,2025-12-22T02:00:00-07:00
+18.0,Enoch,Wind Direction,2025-12-22T02:00:00-07:00
+0.0,Enoch,Nitric Oxide,2025-12-22T02:00:00-07:00
 0.0,Enoch,Nitric Oxide,2025-12-22T01:00:00-07:00
+35.0,Enoch,Wind Direction,2025-12-22T01:00:00-07:00
+2.0,Enoch,Fine Particulate Matter,2025-12-22T01:00:00-07:00
+72.5,Enoch,Relative Humidity,2025-12-22T01:00:00-07:00
+0.012,Enoch,Nitrogen Dioxide,2025-12-22T01:00:00-07:00
+4.7,Enoch,Wind Speed,2025-12-22T01:00:00-07:00
+-22.1,Enoch,Outdoor Temperature,2025-12-22T01:00:00-07:00
+0.021,Enoch,Ozone,2025-12-22T01:00:00-07:00
+0.012,Enoch,Total Oxides of Nitrogen,2025-12-22T01:00:00-07:00
 2.0,Enoch,,2025-12-22T01:00:00-07:00
-2.0,Enoch,,2025-12-22T00:00:00-07:00
+0.0,Enoch,Nitric Oxide,2025-12-22T00:00:00-07:00
 -22.1,Enoch,Outdoor Temperature,2025-12-22T00:00:00-07:00
+2.0,Enoch,,2025-12-22T00:00:00-07:00
 5.4,Enoch,Wind Speed,2025-12-22T00:00:00-07:00
 0.023,Enoch,Ozone,2025-12-22T00:00:00-07:00
 72.0,Enoch,Relative Humidity,2025-12-22T00:00:00-07:00
@@ -508,7 +519,6 @@ Value,StationName,ParameterName,ReadingDate
 2.4,Enoch,Fine Particulate Matter,2025-12-22T00:00:00-07:00
 67.0,Enoch,Wind Direction,2025-12-22T00:00:00-07:00
 0.01,Enoch,Total Oxides of Nitrogen,2025-12-22T00:00:00-07:00
-0.0,Enoch,Nitric Oxide,2025-12-22T00:00:00-07:00
 3.7,Enoch,Fine Particulate Matter,2025-12-21T23:00:00-07:00
 44.0,Enoch,Wind Direction,2025-12-21T23:00:00-07:00
 0.019,Enoch,Total Oxides of Nitrogen,2025-12-21T23:00:00-07:00
@@ -539,87 +549,86 @@ Value,StationName,ParameterName,ReadingDate
 44.0,Enoch,Wind Direction,2025-12-21T21:00:00-07:00
 4.0,Enoch,Fine Particulate Matter,2025-12-21T21:00:00-07:00
 5.8,Enoch,Wind Speed,2025-12-21T21:00:00-07:00
-7.1,Enoch,Fine Particulate Matter,2025-12-21T20:00:00-07:00
-19.0,Enoch,Wind Direction,2025-12-21T20:00:00-07:00
-0.023,Enoch,Total Oxides of Nitrogen,2025-12-21T20:00:00-07:00
-6.9,Enoch,Wind Speed,2025-12-21T20:00:00-07:00
-0.009,Enoch,Ozone,2025-12-21T20:00:00-07:00
-74.3,Enoch,Relative Humidity,2025-12-21T20:00:00-07:00
-0.023,Enoch,Nitrogen Dioxide,2025-12-21T20:00:00-07:00
-0.0,Enoch,Nitric Oxide,2025-12-21T20:00:00-07:00
--22.1,Enoch,Outdoor Temperature,2025-12-21T20:00:00-07:00
 3.0,Enoch,,2025-12-21T20:00:00-07:00
-3.0,Enoch,,2025-12-21T19:00:00-07:00
--22.0,Enoch,Outdoor Temperature,2025-12-21T19:00:00-07:00
-0.0,Enoch,Nitric Oxide,2025-12-21T19:00:00-07:00
-0.022,Enoch,Nitrogen Dioxide,2025-12-21T19:00:00-07:00
-74.4,Enoch,Relative Humidity,2025-12-21T19:00:00-07:00
-0.01,Enoch,Ozone,2025-12-21T19:00:00-07:00
-6.8,Enoch,Wind Speed,2025-12-21T19:00:00-07:00
-0.022,Enoch,Total Oxides of Nitrogen,2025-12-21T19:00:00-07:00
-9.0,Enoch,Wind Direction,2025-12-21T19:00:00-07:00
+-22.1,Enoch,Outdoor Temperature,2025-12-21T20:00:00-07:00
+0.0,Enoch,Nitric Oxide,2025-12-21T20:00:00-07:00
+0.023,Enoch,Nitrogen Dioxide,2025-12-21T20:00:00-07:00
+74.3,Enoch,Relative Humidity,2025-12-21T20:00:00-07:00
+0.009,Enoch,Ozone,2025-12-21T20:00:00-07:00
+6.9,Enoch,Wind Speed,2025-12-21T20:00:00-07:00
+0.023,Enoch,Total Oxides of Nitrogen,2025-12-21T20:00:00-07:00
+19.0,Enoch,Wind Direction,2025-12-21T20:00:00-07:00
+7.1,Enoch,Fine Particulate Matter,2025-12-21T20:00:00-07:00
 11.2,Enoch,Fine Particulate Matter,2025-12-21T19:00:00-07:00
-3.0,Enoch,,2025-12-21T18:00:00-07:00
--22.0,Enoch,Outdoor Temperature,2025-12-21T18:00:00-07:00
-0.0,Enoch,Nitric Oxide,2025-12-21T18:00:00-07:00
-0.02,Enoch,Nitrogen Dioxide,2025-12-21T18:00:00-07:00
-74.0,Enoch,Relative Humidity,2025-12-21T18:00:00-07:00
-0.011,Enoch,Ozone,2025-12-21T18:00:00-07:00
-6.6,Enoch,Wind Speed,2025-12-21T18:00:00-07:00
-0.02,Enoch,Total Oxides of Nitrogen,2025-12-21T18:00:00-07:00
-16.0,Enoch,Wind Direction,2025-12-21T18:00:00-07:00
+9.0,Enoch,Wind Direction,2025-12-21T19:00:00-07:00
+0.022,Enoch,Total Oxides of Nitrogen,2025-12-21T19:00:00-07:00
+6.8,Enoch,Wind Speed,2025-12-21T19:00:00-07:00
+0.01,Enoch,Ozone,2025-12-21T19:00:00-07:00
+74.4,Enoch,Relative Humidity,2025-12-21T19:00:00-07:00
+0.022,Enoch,Nitrogen Dioxide,2025-12-21T19:00:00-07:00
+0.0,Enoch,Nitric Oxide,2025-12-21T19:00:00-07:00
+-22.0,Enoch,Outdoor Temperature,2025-12-21T19:00:00-07:00
+3.0,Enoch,,2025-12-21T19:00:00-07:00
 12.4,Enoch,Fine Particulate Matter,2025-12-21T18:00:00-07:00
-3.0,Enoch,,2025-12-21T17:00:00-07:00
--22.5,Enoch,Outdoor Temperature,2025-12-21T17:00:00-07:00
-0.02,Enoch,Nitrogen Dioxide,2025-12-21T17:00:00-07:00
-0.001,Enoch,Nitric Oxide,2025-12-21T17:00:00-07:00
-73.7,Enoch,Relative Humidity,2025-12-21T17:00:00-07:00
-0.012,Enoch,Ozone,2025-12-21T17:00:00-07:00
-6.3,Enoch,Wind Speed,2025-12-21T17:00:00-07:00
-0.021,Enoch,Total Oxides of Nitrogen,2025-12-21T17:00:00-07:00
-6.0,Enoch,Wind Direction,2025-12-21T17:00:00-07:00
+16.0,Enoch,Wind Direction,2025-12-21T18:00:00-07:00
+0.02,Enoch,Total Oxides of Nitrogen,2025-12-21T18:00:00-07:00
+6.6,Enoch,Wind Speed,2025-12-21T18:00:00-07:00
+0.011,Enoch,Ozone,2025-12-21T18:00:00-07:00
+74.0,Enoch,Relative Humidity,2025-12-21T18:00:00-07:00
+0.02,Enoch,Nitrogen Dioxide,2025-12-21T18:00:00-07:00
+0.0,Enoch,Nitric Oxide,2025-12-21T18:00:00-07:00
+-22.0,Enoch,Outdoor Temperature,2025-12-21T18:00:00-07:00
+3.0,Enoch,,2025-12-21T18:00:00-07:00
 16.0,Enoch,Fine Particulate Matter,2025-12-21T17:00:00-07:00
-3.0,Enoch,,2025-12-21T16:00:00-07:00
--22.6,Enoch,Outdoor Temperature,2025-12-21T16:00:00-07:00
-0.018,Enoch,Ozone,2025-12-21T16:00:00-07:00
-0.014,Enoch,Nitrogen Dioxide,2025-12-21T16:00:00-07:00
-70.8,Enoch,Relative Humidity,2025-12-21T16:00:00-07:00
-6.3,Enoch,Wind Speed,2025-12-21T16:00:00-07:00
-0.017,Enoch,Total Oxides of Nitrogen,2025-12-21T16:00:00-07:00
-357.0,Enoch,Wind Direction,2025-12-21T16:00:00-07:00
-8.9,Enoch,Fine Particulate Matter,2025-12-21T16:00:00-07:00
+6.0,Enoch,Wind Direction,2025-12-21T17:00:00-07:00
+0.021,Enoch,Total Oxides of Nitrogen,2025-12-21T17:00:00-07:00
+6.3,Enoch,Wind Speed,2025-12-21T17:00:00-07:00
+0.012,Enoch,Ozone,2025-12-21T17:00:00-07:00
+73.7,Enoch,Relative Humidity,2025-12-21T17:00:00-07:00
+0.001,Enoch,Nitric Oxide,2025-12-21T17:00:00-07:00
+0.02,Enoch,Nitrogen Dioxide,2025-12-21T17:00:00-07:00
+-22.5,Enoch,Outdoor Temperature,2025-12-21T17:00:00-07:00
+3.0,Enoch,,2025-12-21T17:00:00-07:00
 0.003,Enoch,Nitric Oxide,2025-12-21T16:00:00-07:00
-7.5,Enoch,Wind Speed,2025-12-21T15:00:00-07:00
-11.6,Enoch,Fine Particulate Matter,2025-12-21T15:00:00-07:00
-358.0,Enoch,Wind Direction,2025-12-21T15:00:00-07:00
-0.016,Enoch,Total Oxides of Nitrogen,2025-12-21T15:00:00-07:00
-0.005,Enoch,Nitric Oxide,2025-12-21T15:00:00-07:00
-0.011,Enoch,Nitrogen Dioxide,2025-12-21T15:00:00-07:00
-0.02,Enoch,Ozone,2025-12-21T15:00:00-07:00
-69.3,Enoch,Relative Humidity,2025-12-21T15:00:00-07:00
--22.1,Enoch,Outdoor Temperature,2025-12-21T15:00:00-07:00
+8.9,Enoch,Fine Particulate Matter,2025-12-21T16:00:00-07:00
+357.0,Enoch,Wind Direction,2025-12-21T16:00:00-07:00
+0.017,Enoch,Total Oxides of Nitrogen,2025-12-21T16:00:00-07:00
+6.3,Enoch,Wind Speed,2025-12-21T16:00:00-07:00
+70.8,Enoch,Relative Humidity,2025-12-21T16:00:00-07:00
+0.014,Enoch,Nitrogen Dioxide,2025-12-21T16:00:00-07:00
+0.018,Enoch,Ozone,2025-12-21T16:00:00-07:00
+-22.6,Enoch,Outdoor Temperature,2025-12-21T16:00:00-07:00
+3.0,Enoch,,2025-12-21T16:00:00-07:00
 2.0,Enoch,,2025-12-21T15:00:00-07:00
-2.0,Enoch,,2025-12-21T14:00:00-07:00
--21.8,Enoch,Outdoor Temperature,2025-12-21T14:00:00-07:00
-7.6,Enoch,Wind Speed,2025-12-21T14:00:00-07:00
-0.022,Enoch,Ozone,2025-12-21T14:00:00-07:00
-0.007,Enoch,Nitrogen Dioxide,2025-12-21T14:00:00-07:00
-0.004,Enoch,Nitric Oxide,2025-12-21T14:00:00-07:00
-67.2,Enoch,Relative Humidity,2025-12-21T14:00:00-07:00
-0.011,Enoch,Total Oxides of Nitrogen,2025-12-21T14:00:00-07:00
-1.0,Enoch,Wind Direction,2025-12-21T14:00:00-07:00
+-22.1,Enoch,Outdoor Temperature,2025-12-21T15:00:00-07:00
+69.3,Enoch,Relative Humidity,2025-12-21T15:00:00-07:00
+0.02,Enoch,Ozone,2025-12-21T15:00:00-07:00
+0.011,Enoch,Nitrogen Dioxide,2025-12-21T15:00:00-07:00
+0.005,Enoch,Nitric Oxide,2025-12-21T15:00:00-07:00
+0.016,Enoch,Total Oxides of Nitrogen,2025-12-21T15:00:00-07:00
+358.0,Enoch,Wind Direction,2025-12-21T15:00:00-07:00
+11.6,Enoch,Fine Particulate Matter,2025-12-21T15:00:00-07:00
+7.5,Enoch,Wind Speed,2025-12-21T15:00:00-07:00
 16.1,Enoch,Fine Particulate Matter,2025-12-21T14:00:00-07:00
-13.8,Enoch,Fine Particulate Matter,2025-12-21T13:00:00-07:00
-1.0,Enoch,Wind Direction,2025-12-21T13:00:00-07:00
-0.011,Enoch,Total Oxides of Nitrogen,2025-12-21T13:00:00-07:00
-7.9,Enoch,Wind Speed,2025-12-21T13:00:00-07:00
-0.004,Enoch,Nitric Oxide,2025-12-21T13:00:00-07:00
-0.007,Enoch,Nitrogen Dioxide,2025-12-21T13:00:00-07:00
-0.022,Enoch,Ozone,2025-12-21T13:00:00-07:00
-65.0,Enoch,Relative Humidity,2025-12-21T13:00:00-07:00
--21.3,Enoch,Outdoor Temperature,2025-12-21T13:00:00-07:00
+1.0,Enoch,Wind Direction,2025-12-21T14:00:00-07:00
+0.011,Enoch,Total Oxides of Nitrogen,2025-12-21T14:00:00-07:00
+67.2,Enoch,Relative Humidity,2025-12-21T14:00:00-07:00
+0.004,Enoch,Nitric Oxide,2025-12-21T14:00:00-07:00
+0.007,Enoch,Nitrogen Dioxide,2025-12-21T14:00:00-07:00
+0.022,Enoch,Ozone,2025-12-21T14:00:00-07:00
+7.6,Enoch,Wind Speed,2025-12-21T14:00:00-07:00
+-21.8,Enoch,Outdoor Temperature,2025-12-21T14:00:00-07:00
+2.0,Enoch,,2025-12-21T14:00:00-07:00
 2.0,Enoch,,2025-12-21T13:00:00-07:00
-2.0,Enoch,,2025-12-21T12:00:00-07:00
+-21.3,Enoch,Outdoor Temperature,2025-12-21T13:00:00-07:00
+65.0,Enoch,Relative Humidity,2025-12-21T13:00:00-07:00
+0.022,Enoch,Ozone,2025-12-21T13:00:00-07:00
+0.007,Enoch,Nitrogen Dioxide,2025-12-21T13:00:00-07:00
+0.004,Enoch,Nitric Oxide,2025-12-21T13:00:00-07:00
+7.9,Enoch,Wind Speed,2025-12-21T13:00:00-07:00
+0.011,Enoch,Total Oxides of Nitrogen,2025-12-21T13:00:00-07:00
+1.0,Enoch,Wind Direction,2025-12-21T13:00:00-07:00
+13.8,Enoch,Fine Particulate Matter,2025-12-21T13:00:00-07:00
 -21.1,Enoch,Outdoor Temperature,2025-12-21T12:00:00-07:00
 0.006,Enoch,Nitrogen Dioxide,2025-12-21T12:00:00-07:00
 0.004,Enoch,Nitric Oxide,2025-12-21T12:00:00-07:00
@@ -629,16 +638,17 @@ Value,StationName,ParameterName,ReadingDate
 354.0,Enoch,Wind Direction,2025-12-21T12:00:00-07:00
 12.1,Enoch,Fine Particulate Matter,2025-12-21T12:00:00-07:00
 5.9,Enoch,Wind Speed,2025-12-21T12:00:00-07:00
-0.003,Enoch,Nitric Oxide,2025-12-21T11:00:00-07:00
-13.1,Enoch,Fine Particulate Matter,2025-12-21T11:00:00-07:00
-341.0,Enoch,Wind Direction,2025-12-21T11:00:00-07:00
-0.011,Enoch,Total Oxides of Nitrogen,2025-12-21T11:00:00-07:00
-7.5,Enoch,Wind Speed,2025-12-21T11:00:00-07:00
-0.02,Enoch,Ozone,2025-12-21T11:00:00-07:00
-70.7,Enoch,Relative Humidity,2025-12-21T11:00:00-07:00
-0.008,Enoch,Nitrogen Dioxide,2025-12-21T11:00:00-07:00
--21.9,Enoch,Outdoor Temperature,2025-12-21T11:00:00-07:00
+2.0,Enoch,,2025-12-21T12:00:00-07:00
 2.0,Enoch,,2025-12-21T11:00:00-07:00
+-21.9,Enoch,Outdoor Temperature,2025-12-21T11:00:00-07:00
+0.008,Enoch,Nitrogen Dioxide,2025-12-21T11:00:00-07:00
+70.7,Enoch,Relative Humidity,2025-12-21T11:00:00-07:00
+0.02,Enoch,Ozone,2025-12-21T11:00:00-07:00
+7.5,Enoch,Wind Speed,2025-12-21T11:00:00-07:00
+0.011,Enoch,Total Oxides of Nitrogen,2025-12-21T11:00:00-07:00
+341.0,Enoch,Wind Direction,2025-12-21T11:00:00-07:00
+13.1,Enoch,Fine Particulate Matter,2025-12-21T11:00:00-07:00
+0.003,Enoch,Nitric Oxide,2025-12-21T11:00:00-07:00
 2.0,Enoch,,2025-12-21T10:00:00-07:00
 -22.6,Enoch,Outdoor Temperature,2025-12-21T10:00:00-07:00
 0.01,Enoch,Nitrogen Dioxide,2025-12-21T10:00:00-07:00
@@ -679,21 +689,21 @@ Value,StationName,ParameterName,ReadingDate
 0.012,Enoch,Total Oxides of Nitrogen,2025-12-21T07:00:00-07:00
 341.0,Enoch,Wind Direction,2025-12-21T07:00:00-07:00
 10.4,Enoch,Fine Particulate Matter,2025-12-21T07:00:00-07:00
-11.0,Enoch,Fine Particulate Matter,2025-12-21T06:00:00-07:00
-336.0,Enoch,Wind Direction,2025-12-21T06:00:00-07:00
-0.01,Enoch,Total Oxides of Nitrogen,2025-12-21T06:00:00-07:00
-5.9,Enoch,Wind Speed,2025-12-21T06:00:00-07:00
-0.018,Enoch,Ozone,2025-12-21T06:00:00-07:00
-73.6,Enoch,Relative Humidity,2025-12-21T06:00:00-07:00
-0.01,Enoch,Nitrogen Dioxide,2025-12-21T06:00:00-07:00
-0.0,Enoch,Nitric Oxide,2025-12-21T06:00:00-07:00
--23.1,Enoch,Outdoor Temperature,2025-12-21T06:00:00-07:00
 2.0,Enoch,,2025-12-21T06:00:00-07:00
+-23.1,Enoch,Outdoor Temperature,2025-12-21T06:00:00-07:00
+0.0,Enoch,Nitric Oxide,2025-12-21T06:00:00-07:00
+0.01,Enoch,Nitrogen Dioxide,2025-12-21T06:00:00-07:00
+73.6,Enoch,Relative Humidity,2025-12-21T06:00:00-07:00
+0.018,Enoch,Ozone,2025-12-21T06:00:00-07:00
+0.01,Enoch,Total Oxides of Nitrogen,2025-12-21T06:00:00-07:00
+336.0,Enoch,Wind Direction,2025-12-21T06:00:00-07:00
+11.0,Enoch,Fine Particulate Matter,2025-12-21T06:00:00-07:00
+5.9,Enoch,Wind Speed,2025-12-21T06:00:00-07:00
 3.0,Enoch,,2025-12-21T05:00:00-07:00
 -23.1,Enoch,Outdoor Temperature,2025-12-21T05:00:00-07:00
 0.0,Enoch,Nitric Oxide,2025-12-21T05:00:00-07:00
-74.0,Enoch,Relative Humidity,2025-12-21T05:00:00-07:00
 7.6,Enoch,Wind Speed,2025-12-21T05:00:00-07:00
+74.0,Enoch,Relative Humidity,2025-12-21T05:00:00-07:00
 0.016,Enoch,Ozone,2025-12-21T05:00:00-07:00
 0.013,Enoch,Nitrogen Dioxide,2025-12-21T05:00:00-07:00
 0.013,Enoch,Total Oxides of Nitrogen,2025-12-21T05:00:00-07:00
@@ -719,36 +729,36 @@ Value,StationName,ParameterName,ReadingDate
 0.027,Enoch,Total Oxides of Nitrogen,2025-12-21T03:00:00-07:00
 349.0,Enoch,Wind Direction,2025-12-21T03:00:00-07:00
 8.2,Enoch,Fine Particulate Matter,2025-12-21T03:00:00-07:00
+6.9,Enoch,Fine Particulate Matter,2025-12-21T02:00:00-07:00
 3.0,Enoch,,2025-12-21T02:00:00-07:00
 -22.5,Enoch,Outdoor Temperature,2025-12-21T02:00:00-07:00
 0.0,Enoch,Nitric Oxide,2025-12-21T02:00:00-07:00
 0.025,Enoch,Nitrogen Dioxide,2025-12-21T02:00:00-07:00
 71.8,Enoch,Relative Humidity,2025-12-21T02:00:00-07:00
-0.007,Enoch,Ozone,2025-12-21T02:00:00-07:00
-4.2,Enoch,Wind Speed,2025-12-21T02:00:00-07:00
-0.025,Enoch,Total Oxides of Nitrogen,2025-12-21T02:00:00-07:00
 11.0,Enoch,Wind Direction,2025-12-21T02:00:00-07:00
-6.9,Enoch,Fine Particulate Matter,2025-12-21T02:00:00-07:00
+0.025,Enoch,Total Oxides of Nitrogen,2025-12-21T02:00:00-07:00
+4.2,Enoch,Wind Speed,2025-12-21T02:00:00-07:00
+0.007,Enoch,Ozone,2025-12-21T02:00:00-07:00
 3.0,Enoch,,2025-12-21T01:00:00-07:00
 -22.8,Enoch,Outdoor Temperature,2025-12-21T01:00:00-07:00
 0.03,Enoch,Nitrogen Dioxide,2025-12-21T01:00:00-07:00
 0.001,Enoch,Nitric Oxide,2025-12-21T01:00:00-07:00
 73.2,Enoch,Relative Humidity,2025-12-21T01:00:00-07:00
 0.004,Enoch,Ozone,2025-12-21T01:00:00-07:00
-2.3,Enoch,Wind Speed,2025-12-21T01:00:00-07:00
-0.032,Enoch,Total Oxides of Nitrogen,2025-12-21T01:00:00-07:00
-48.0,Enoch,Wind Direction,2025-12-21T01:00:00-07:00
 6.5,Enoch,Fine Particulate Matter,2025-12-21T01:00:00-07:00
-2.0,Enoch,,2025-12-21T00:00:00-07:00
-41.0,Enoch,Wind Direction,2025-12-21T00:00:00-07:00
-5.4,Enoch,Fine Particulate Matter,2025-12-21T00:00:00-07:00
-0.01,Enoch,Ozone,2025-12-21T00:00:00-07:00
-71.9,Enoch,Relative Humidity,2025-12-21T00:00:00-07:00
-0.002,Enoch,Nitric Oxide,2025-12-21T00:00:00-07:00
-5.2,Enoch,Wind Speed,2025-12-21T00:00:00-07:00
--23.2,Enoch,Outdoor Temperature,2025-12-21T00:00:00-07:00
-0.025,Enoch,Total Oxides of Nitrogen,2025-12-21T00:00:00-07:00
+48.0,Enoch,Wind Direction,2025-12-21T01:00:00-07:00
+0.032,Enoch,Total Oxides of Nitrogen,2025-12-21T01:00:00-07:00
+2.3,Enoch,Wind Speed,2025-12-21T01:00:00-07:00
 0.023,Enoch,Nitrogen Dioxide,2025-12-21T00:00:00-07:00
+0.025,Enoch,Total Oxides of Nitrogen,2025-12-21T00:00:00-07:00
+-23.2,Enoch,Outdoor Temperature,2025-12-21T00:00:00-07:00
+5.2,Enoch,Wind Speed,2025-12-21T00:00:00-07:00
+0.002,Enoch,Nitric Oxide,2025-12-21T00:00:00-07:00
+71.9,Enoch,Relative Humidity,2025-12-21T00:00:00-07:00
+0.01,Enoch,Ozone,2025-12-21T00:00:00-07:00
+5.4,Enoch,Fine Particulate Matter,2025-12-21T00:00:00-07:00
+41.0,Enoch,Wind Direction,2025-12-21T00:00:00-07:00
+2.0,Enoch,,2025-12-21T00:00:00-07:00
 2.0,Enoch,,2025-12-20T23:00:00-07:00
 -23.4,Enoch,Outdoor Temperature,2025-12-20T23:00:00-07:00
 0.0,Enoch,Nitric Oxide,2025-12-20T23:00:00-07:00
@@ -759,36 +769,36 @@ Value,StationName,ParameterName,ReadingDate
 3.9,Enoch,Fine Particulate Matter,2025-12-20T23:00:00-07:00
 68.0,Enoch,Wind Direction,2025-12-20T23:00:00-07:00
 0.022,Enoch,Ozone,2025-12-20T23:00:00-07:00
-0.0,Enoch,Nitric Oxide,2025-12-20T22:00:00-07:00
-105.0,Enoch,Wind Direction,2025-12-20T22:00:00-07:00
-0.024,Enoch,Ozone,2025-12-20T22:00:00-07:00
-3.9,Enoch,Fine Particulate Matter,2025-12-20T22:00:00-07:00
-68.7,Enoch,Relative Humidity,2025-12-20T22:00:00-07:00
 3.9,Enoch,Wind Speed,2025-12-20T22:00:00-07:00
-0.008,Enoch,Total Oxides of Nitrogen,2025-12-20T22:00:00-07:00
-0.008,Enoch,Nitrogen Dioxide,2025-12-20T22:00:00-07:00
--22.9,Enoch,Outdoor Temperature,2025-12-20T22:00:00-07:00
+68.7,Enoch,Relative Humidity,2025-12-20T22:00:00-07:00
+3.9,Enoch,Fine Particulate Matter,2025-12-20T22:00:00-07:00
+0.024,Enoch,Ozone,2025-12-20T22:00:00-07:00
+105.0,Enoch,Wind Direction,2025-12-20T22:00:00-07:00
+0.0,Enoch,Nitric Oxide,2025-12-20T22:00:00-07:00
 2.0,Enoch,,2025-12-20T22:00:00-07:00
-2.0,Enoch,,2025-12-20T21:00:00-07:00
--22.8,Enoch,Outdoor Temperature,2025-12-20T21:00:00-07:00
-0.006,Enoch,Nitrogen Dioxide,2025-12-20T21:00:00-07:00
-67.5,Enoch,Relative Humidity,2025-12-20T21:00:00-07:00
-0.026,Enoch,Ozone,2025-12-20T21:00:00-07:00
-0.006,Enoch,Total Oxides of Nitrogen,2025-12-20T21:00:00-07:00
-112.0,Enoch,Wind Direction,2025-12-20T21:00:00-07:00
-3.9,Enoch,Fine Particulate Matter,2025-12-20T21:00:00-07:00
-0.0,Enoch,Nitric Oxide,2025-12-20T21:00:00-07:00
+-22.9,Enoch,Outdoor Temperature,2025-12-20T22:00:00-07:00
+0.008,Enoch,Nitrogen Dioxide,2025-12-20T22:00:00-07:00
+0.008,Enoch,Total Oxides of Nitrogen,2025-12-20T22:00:00-07:00
 5.3,Enoch,Wind Speed,2025-12-20T21:00:00-07:00
-2.0,Enoch,,2025-12-20T20:00:00-07:00
--22.5,Enoch,Outdoor Temperature,2025-12-20T20:00:00-07:00
-0.0,Enoch,Nitric Oxide,2025-12-20T20:00:00-07:00
-0.007,Enoch,Nitrogen Dioxide,2025-12-20T20:00:00-07:00
+0.0,Enoch,Nitric Oxide,2025-12-20T21:00:00-07:00
+3.9,Enoch,Fine Particulate Matter,2025-12-20T21:00:00-07:00
+112.0,Enoch,Wind Direction,2025-12-20T21:00:00-07:00
+0.006,Enoch,Total Oxides of Nitrogen,2025-12-20T21:00:00-07:00
+0.026,Enoch,Ozone,2025-12-20T21:00:00-07:00
+67.5,Enoch,Relative Humidity,2025-12-20T21:00:00-07:00
+0.006,Enoch,Nitrogen Dioxide,2025-12-20T21:00:00-07:00
+-22.8,Enoch,Outdoor Temperature,2025-12-20T21:00:00-07:00
+2.0,Enoch,,2025-12-20T21:00:00-07:00
 0.008,Enoch,Total Oxides of Nitrogen,2025-12-20T20:00:00-07:00
 5.3,Enoch,Wind Speed,2025-12-20T20:00:00-07:00
 66.8,Enoch,Relative Humidity,2025-12-20T20:00:00-07:00
 4.4,Enoch,Fine Particulate Matter,2025-12-20T20:00:00-07:00
 0.025,Enoch,Ozone,2025-12-20T20:00:00-07:00
 123.0,Enoch,Wind Direction,2025-12-20T20:00:00-07:00
+0.007,Enoch,Nitrogen Dioxide,2025-12-20T20:00:00-07:00
+0.0,Enoch,Nitric Oxide,2025-12-20T20:00:00-07:00
+-22.5,Enoch,Outdoor Temperature,2025-12-20T20:00:00-07:00
+2.0,Enoch,,2025-12-20T20:00:00-07:00
 2.0,Enoch,,2025-12-20T19:00:00-07:00
 0.013,Enoch,Nitrogen Dioxide,2025-12-20T19:00:00-07:00
 0.013,Enoch,Total Oxides of Nitrogen,2025-12-20T19:00:00-07:00
@@ -799,16 +809,16 @@ Value,StationName,ParameterName,ReadingDate
 0.02,Enoch,Ozone,2025-12-20T19:00:00-07:00
 5.3,Enoch,Fine Particulate Matter,2025-12-20T19:00:00-07:00
 133.0,Enoch,Wind Direction,2025-12-20T19:00:00-07:00
+2.0,Enoch,,2025-12-20T18:00:00-07:00
+3.2,Enoch,Wind Speed,2025-12-20T18:00:00-07:00
+0.014,Enoch,Nitrogen Dioxide,2025-12-20T18:00:00-07:00
+0.014,Enoch,Total Oxides of Nitrogen,2025-12-20T18:00:00-07:00
 -23.4,Enoch,Outdoor Temperature,2025-12-20T18:00:00-07:00
 0.001,Enoch,Nitric Oxide,2025-12-20T18:00:00-07:00
 69.8,Enoch,Relative Humidity,2025-12-20T18:00:00-07:00
 0.019,Enoch,Ozone,2025-12-20T18:00:00-07:00
 5.9,Enoch,Fine Particulate Matter,2025-12-20T18:00:00-07:00
 104.0,Enoch,Wind Direction,2025-12-20T18:00:00-07:00
-0.014,Enoch,Total Oxides of Nitrogen,2025-12-20T18:00:00-07:00
-0.014,Enoch,Nitrogen Dioxide,2025-12-20T18:00:00-07:00
-3.2,Enoch,Wind Speed,2025-12-20T18:00:00-07:00
-2.0,Enoch,,2025-12-20T18:00:00-07:00
 2.0,Enoch,,2025-12-20T17:00:00-07:00
 0.01,Enoch,Nitrogen Dioxide,2025-12-20T17:00:00-07:00
 0.01,Enoch,Total Oxides of Nitrogen,2025-12-20T17:00:00-07:00
@@ -819,16 +829,16 @@ Value,StationName,ParameterName,ReadingDate
 0.022,Enoch,Ozone,2025-12-20T17:00:00-07:00
 4.8,Enoch,Fine Particulate Matter,2025-12-20T17:00:00-07:00
 91.0,Enoch,Wind Direction,2025-12-20T17:00:00-07:00
-2.0,Enoch,,2025-12-20T16:00:00-07:00
-0.008,Enoch,Nitrogen Dioxide,2025-12-20T16:00:00-07:00
-0.009,Enoch,Total Oxides of Nitrogen,2025-12-20T16:00:00-07:00
-5.7,Enoch,Wind Speed,2025-12-20T16:00:00-07:00
 -21.5,Enoch,Outdoor Temperature,2025-12-20T16:00:00-07:00
 0.001,Enoch,Nitric Oxide,2025-12-20T16:00:00-07:00
 60.1,Enoch,Relative Humidity,2025-12-20T16:00:00-07:00
 6.1,Enoch,Fine Particulate Matter,2025-12-20T16:00:00-07:00
 104.0,Enoch,Wind Direction,2025-12-20T16:00:00-07:00
 0.025,Enoch,Ozone,2025-12-20T16:00:00-07:00
+5.7,Enoch,Wind Speed,2025-12-20T16:00:00-07:00
+0.009,Enoch,Total Oxides of Nitrogen,2025-12-20T16:00:00-07:00
+0.008,Enoch,Nitrogen Dioxide,2025-12-20T16:00:00-07:00
+2.0,Enoch,,2025-12-20T16:00:00-07:00
 2.0,Enoch,,2025-12-20T15:00:00-07:00
 0.006,Enoch,Nitrogen Dioxide,2025-12-20T15:00:00-07:00
 0.008,Enoch,Total Oxides of Nitrogen,2025-12-20T15:00:00-07:00
@@ -839,32 +849,32 @@ Value,StationName,ParameterName,ReadingDate
 8.2,Enoch,Fine Particulate Matter,2025-12-20T15:00:00-07:00
 112.0,Enoch,Wind Direction,2025-12-20T15:00:00-07:00
 0.026,Enoch,Ozone,2025-12-20T15:00:00-07:00
-0.003,Enoch,Nitric Oxide,2025-12-20T14:00:00-07:00
-120.0,Enoch,Wind Direction,2025-12-20T14:00:00-07:00
-7.5,Enoch,Fine Particulate Matter,2025-12-20T14:00:00-07:00
-0.027,Enoch,Ozone,2025-12-20T14:00:00-07:00
-57.1,Enoch,Relative Humidity,2025-12-20T14:00:00-07:00
--21.0,Enoch,Outdoor Temperature,2025-12-20T14:00:00-07:00
-6.8,Enoch,Wind Speed,2025-12-20T14:00:00-07:00
-0.008,Enoch,Total Oxides of Nitrogen,2025-12-20T14:00:00-07:00
-0.006,Enoch,Nitrogen Dioxide,2025-12-20T14:00:00-07:00
 2.0,Enoch,,2025-12-20T14:00:00-07:00
-2.0,Enoch,,2025-12-20T13:00:00-07:00
-0.008,Enoch,Nitrogen Dioxide,2025-12-20T13:00:00-07:00
-0.013,Enoch,Total Oxides of Nitrogen,2025-12-20T13:00:00-07:00
-6.7,Enoch,Wind Speed,2025-12-20T13:00:00-07:00
--21.9,Enoch,Outdoor Temperature,2025-12-20T13:00:00-07:00
-60.4,Enoch,Relative Humidity,2025-12-20T13:00:00-07:00
-0.005,Enoch,Nitric Oxide,2025-12-20T13:00:00-07:00
-8.7,Enoch,Fine Particulate Matter,2025-12-20T13:00:00-07:00
-130.0,Enoch,Wind Direction,2025-12-20T13:00:00-07:00
+0.006,Enoch,Nitrogen Dioxide,2025-12-20T14:00:00-07:00
+0.008,Enoch,Total Oxides of Nitrogen,2025-12-20T14:00:00-07:00
+6.8,Enoch,Wind Speed,2025-12-20T14:00:00-07:00
+-21.0,Enoch,Outdoor Temperature,2025-12-20T14:00:00-07:00
+57.1,Enoch,Relative Humidity,2025-12-20T14:00:00-07:00
+0.027,Enoch,Ozone,2025-12-20T14:00:00-07:00
+7.5,Enoch,Fine Particulate Matter,2025-12-20T14:00:00-07:00
+120.0,Enoch,Wind Direction,2025-12-20T14:00:00-07:00
+0.003,Enoch,Nitric Oxide,2025-12-20T14:00:00-07:00
 0.024,Enoch,Ozone,2025-12-20T13:00:00-07:00
-0.004,Enoch,Nitric Oxide,2025-12-20T12:00:00-07:00
--23.0,Enoch,Outdoor Temperature,2025-12-20T12:00:00-07:00
-5.5,Enoch,Wind Speed,2025-12-20T12:00:00-07:00
-0.011,Enoch,Total Oxides of Nitrogen,2025-12-20T12:00:00-07:00
-0.007,Enoch,Nitrogen Dioxide,2025-12-20T12:00:00-07:00
+130.0,Enoch,Wind Direction,2025-12-20T13:00:00-07:00
+8.7,Enoch,Fine Particulate Matter,2025-12-20T13:00:00-07:00
+0.005,Enoch,Nitric Oxide,2025-12-20T13:00:00-07:00
+60.4,Enoch,Relative Humidity,2025-12-20T13:00:00-07:00
+-21.9,Enoch,Outdoor Temperature,2025-12-20T13:00:00-07:00
+6.7,Enoch,Wind Speed,2025-12-20T13:00:00-07:00
+0.013,Enoch,Total Oxides of Nitrogen,2025-12-20T13:00:00-07:00
+0.008,Enoch,Nitrogen Dioxide,2025-12-20T13:00:00-07:00
+2.0,Enoch,,2025-12-20T13:00:00-07:00
 2.0,Enoch,,2025-12-20T12:00:00-07:00
+0.007,Enoch,Nitrogen Dioxide,2025-12-20T12:00:00-07:00
+0.011,Enoch,Total Oxides of Nitrogen,2025-12-20T12:00:00-07:00
+5.5,Enoch,Wind Speed,2025-12-20T12:00:00-07:00
+-23.0,Enoch,Outdoor Temperature,2025-12-20T12:00:00-07:00
+0.004,Enoch,Nitric Oxide,2025-12-20T12:00:00-07:00
 65.4,Enoch,Relative Humidity,2025-12-20T12:00:00-07:00
 10.1,Enoch,Fine Particulate Matter,2025-12-20T12:00:00-07:00
 134.0,Enoch,Wind Direction,2025-12-20T12:00:00-07:00
@@ -1559,16 +1569,16 @@ Value,StationName,ParameterName,ReadingDate
 0.022,Enoch,Ozone,2025-12-17T15:00:00-07:00
 0.007,Enoch,Total Oxides of Nitrogen,2025-12-17T15:00:00-07:00
 -19.8,Enoch,Outdoor Temperature,2025-12-17T15:00:00-07:00
-2.0,Enoch,,2025-12-17T14:00:00-07:00
-0.006,Enoch,Total Oxides of Nitrogen,2025-12-17T14:00:00-07:00
-22.5,Enoch,Wind Speed,2025-12-17T14:00:00-07:00
-2.0,Enoch,Fine Particulate Matter,2025-12-17T14:00:00-07:00
 0.021,Enoch,Ozone,2025-12-17T14:00:00-07:00
 -19.6,Enoch,Outdoor Temperature,2025-12-17T14:00:00-07:00
 0.004,Enoch,Nitrogen Dioxide,2025-12-17T14:00:00-07:00
 78.9,Enoch,Relative Humidity,2025-12-17T14:00:00-07:00
 348.0,Enoch,Wind Direction,2025-12-17T14:00:00-07:00
 0.002,Enoch,Nitric Oxide,2025-12-17T14:00:00-07:00
+2.0,Enoch,,2025-12-17T14:00:00-07:00
+0.006,Enoch,Total Oxides of Nitrogen,2025-12-17T14:00:00-07:00
+22.5,Enoch,Wind Speed,2025-12-17T14:00:00-07:00
+2.0,Enoch,Fine Particulate Matter,2025-12-17T14:00:00-07:00
 2.0,Enoch,,2025-12-17T13:00:00-07:00
 19.0,Enoch,Wind Speed,2025-12-17T13:00:00-07:00
 2.1,Enoch,Fine Particulate Matter,2025-12-17T13:00:00-07:00
@@ -1579,43 +1589,33 @@ Value,StationName,ParameterName,ReadingDate
 0.022,Enoch,Ozone,2025-12-17T13:00:00-07:00
 0.006,Enoch,Total Oxides of Nitrogen,2025-12-17T13:00:00-07:00
 -19.1,Enoch,Outdoor Temperature,2025-12-17T13:00:00-07:00
--17.2,Enoch,Outdoor Temperature,2025-12-17T12:00:00-07:00
-0.007,Enoch,Total Oxides of Nitrogen,2025-12-17T12:00:00-07:00
-0.021,Enoch,Ozone,2025-12-17T12:00:00-07:00
-78.9,Enoch,Relative Humidity,2025-12-17T12:00:00-07:00
-0.003,Enoch,Nitric Oxide,2025-12-17T12:00:00-07:00
-323.0,Enoch,Wind Direction,2025-12-17T12:00:00-07:00
-3.1,Enoch,Fine Particulate Matter,2025-12-17T12:00:00-07:00
-16.6,Enoch,Wind Speed,2025-12-17T12:00:00-07:00
-0.004,Enoch,Nitrogen Dioxide,2025-12-17T12:00:00-07:00
 2.0,Enoch,,2025-12-17T12:00:00-07:00
--16.7,Enoch,Outdoor Temperature,2025-12-17T11:00:00-07:00
-0.01,Enoch,Total Oxides of Nitrogen,2025-12-17T11:00:00-07:00
-0.002,Enoch,Nitric Oxide,2025-12-17T11:00:00-07:00
-0.008,Enoch,Nitrogen Dioxide,2025-12-17T11:00:00-07:00
-80.9,Enoch,Relative Humidity,2025-12-17T11:00:00-07:00
-346.0,Enoch,Wind Direction,2025-12-17T11:00:00-07:00
-3.8,Enoch,Fine Particulate Matter,2025-12-17T11:00:00-07:00
-16.1,Enoch,Wind Speed,2025-12-17T11:00:00-07:00
-0.018,Enoch,Ozone,2025-12-17T11:00:00-07:00
+0.004,Enoch,Nitrogen Dioxide,2025-12-17T12:00:00-07:00
+16.6,Enoch,Wind Speed,2025-12-17T12:00:00-07:00
+3.1,Enoch,Fine Particulate Matter,2025-12-17T12:00:00-07:00
+323.0,Enoch,Wind Direction,2025-12-17T12:00:00-07:00
+0.003,Enoch,Nitric Oxide,2025-12-17T12:00:00-07:00
+78.9,Enoch,Relative Humidity,2025-12-17T12:00:00-07:00
+0.021,Enoch,Ozone,2025-12-17T12:00:00-07:00
+0.007,Enoch,Total Oxides of Nitrogen,2025-12-17T12:00:00-07:00
+-17.2,Enoch,Outdoor Temperature,2025-12-17T12:00:00-07:00
 2.0,Enoch,,2025-12-17T11:00:00-07:00
-4.6,Enoch,Fine Particulate Matter,2025-12-17T10:00:00-07:00
-13.2,Enoch,Wind Speed,2025-12-17T10:00:00-07:00
-0.001,Enoch,Nitric Oxide,2025-12-17T10:00:00-07:00
+0.018,Enoch,Ozone,2025-12-17T11:00:00-07:00
+16.1,Enoch,Wind Speed,2025-12-17T11:00:00-07:00
+3.8,Enoch,Fine Particulate Matter,2025-12-17T11:00:00-07:00
+346.0,Enoch,Wind Direction,2025-12-17T11:00:00-07:00
+80.9,Enoch,Relative Humidity,2025-12-17T11:00:00-07:00
+0.008,Enoch,Nitrogen Dioxide,2025-12-17T11:00:00-07:00
+0.002,Enoch,Nitric Oxide,2025-12-17T11:00:00-07:00
+0.01,Enoch,Total Oxides of Nitrogen,2025-12-17T11:00:00-07:00
+-16.7,Enoch,Outdoor Temperature,2025-12-17T11:00:00-07:00
 2.0,Enoch,,2025-12-17T10:00:00-07:00
+0.001,Enoch,Nitric Oxide,2025-12-17T10:00:00-07:00
+0.012,Enoch,Total Oxides of Nitrogen,2025-12-17T10:00:00-07:00
+-16.9,Enoch,Outdoor Temperature,2025-12-17T10:00:00-07:00
+13.2,Enoch,Wind Speed,2025-12-17T10:00:00-07:00
+4.6,Enoch,Fine Particulate Matter,2025-12-17T10:00:00-07:00
 27.0,Enoch,Wind Direction,2025-12-17T10:00:00-07:00
 81.4,Enoch,Relative Humidity,2025-12-17T10:00:00-07:00
 0.011,Enoch,Nitrogen Dioxide,2025-12-17T10:00:00-07:00
 0.014,Enoch,Ozone,2025-12-17T10:00:00-07:00
-0.012,Enoch,Total Oxides of Nitrogen,2025-12-17T10:00:00-07:00
--16.9,Enoch,Outdoor Temperature,2025-12-17T10:00:00-07:00
-2.0,Enoch,,2025-12-17T09:00:00-07:00
-0.0,Enoch,Nitric Oxide,2025-12-17T09:00:00-07:00
-16.3,Enoch,Wind Speed,2025-12-17T09:00:00-07:00
-4.3,Enoch,Fine Particulate Matter,2025-12-17T09:00:00-07:00
-47.0,Enoch,Wind Direction,2025-12-17T09:00:00-07:00
-82.1,Enoch,Relative Humidity,2025-12-17T09:00:00-07:00
-0.009,Enoch,Nitrogen Dioxide,2025-12-17T09:00:00-07:00
-0.015,Enoch,Ozone,2025-12-17T09:00:00-07:00
-0.009,Enoch,Total Oxides of Nitrogen,2025-12-17T09:00:00-07:00
--16.9,Enoch,Outdoor Temperature,2025-12-17T09:00:00-07:00
