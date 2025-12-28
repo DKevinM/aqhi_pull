@@ -1,4 +1,15 @@
 Value,StationName,ParameterName,ReadingDate
+3.0,Edson,,2025-12-27T23:00:00-07:00
+72.4,Edson,Relative Humidity,2025-12-27T23:00:00-07:00
+0.025,Edson,Nitrogen Dioxide,2025-12-27T23:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2025-12-27T23:00:00-07:00
+0.026,Edson,Total Oxides of Nitrogen,2025-12-27T23:00:00-07:00
+1.9,Edson,Wind Speed,2025-12-27T23:00:00-07:00
+262.0,Edson,Wind Direction,2025-12-27T23:00:00-07:00
+5.3,Edson,Fine Particulate Matter,2025-12-27T23:00:00-07:00
+0.006,Edson,Ozone,2025-12-27T23:00:00-07:00
+0.002,Edson,Nitric Oxide,2025-12-27T23:00:00-07:00
+-29.5,Edson,Outdoor Temperature,2025-12-27T23:00:00-07:00
 3.0,Edson,,2025-12-27T22:00:00-07:00
 0.4,Edson,Wind Speed,2025-12-27T22:00:00-07:00
 73.0,Edson,Relative Humidity,2025-12-27T22:00:00-07:00
@@ -10,28 +21,28 @@ Value,StationName,ParameterName,ReadingDate
 -29.1,Edson,Outdoor Temperature,2025-12-27T22:00:00-07:00
 0.027,Edson,Total Oxides of Nitrogen,2025-12-27T22:00:00-07:00
 292.0,Edson,Wind Direction,2025-12-27T22:00:00-07:00
-3.0,Edson,,2025-12-27T21:00:00-07:00
--28.2,Edson,Outdoor Temperature,2025-12-27T21:00:00-07:00
-73.9,Edson,Relative Humidity,2025-12-27T21:00:00-07:00
-1.9,Edson,Wind Speed,2025-12-27T21:00:00-07:00
-258.0,Edson,Wind Direction,2025-12-27T21:00:00-07:00
-0.019,Edson,Nitrogen Dioxide,2025-12-27T21:00:00-07:00
-0.019,Edson,Total Oxides of Nitrogen,2025-12-27T21:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2025-12-27T21:00:00-07:00
-0.0,Edson,Nitric Oxide,2025-12-27T21:00:00-07:00
-4.2,Edson,Fine Particulate Matter,2025-12-27T21:00:00-07:00
 0.014,Edson,Ozone,2025-12-27T21:00:00-07:00
-0.008,Edson,Ozone,2025-12-27T20:00:00-07:00
--27.1,Edson,Outdoor Temperature,2025-12-27T20:00:00-07:00
-0.027,Edson,Nitrogen Dioxide,2025-12-27T20:00:00-07:00
-5.4,Edson,Fine Particulate Matter,2025-12-27T20:00:00-07:00
-0.004,Edson,Nitric Oxide,2025-12-27T20:00:00-07:00
-0.7,Edson,Wind Speed,2025-12-27T20:00:00-07:00
-74.7,Edson,Relative Humidity,2025-12-27T20:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2025-12-27T20:00:00-07:00
-0.031,Edson,Total Oxides of Nitrogen,2025-12-27T20:00:00-07:00
-265.0,Edson,Wind Direction,2025-12-27T20:00:00-07:00
+4.2,Edson,Fine Particulate Matter,2025-12-27T21:00:00-07:00
+0.0,Edson,Nitric Oxide,2025-12-27T21:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2025-12-27T21:00:00-07:00
+0.019,Edson,Total Oxides of Nitrogen,2025-12-27T21:00:00-07:00
+0.019,Edson,Nitrogen Dioxide,2025-12-27T21:00:00-07:00
+258.0,Edson,Wind Direction,2025-12-27T21:00:00-07:00
+1.9,Edson,Wind Speed,2025-12-27T21:00:00-07:00
+73.9,Edson,Relative Humidity,2025-12-27T21:00:00-07:00
+-28.2,Edson,Outdoor Temperature,2025-12-27T21:00:00-07:00
+3.0,Edson,,2025-12-27T21:00:00-07:00
 3.0,Edson,,2025-12-27T20:00:00-07:00
+265.0,Edson,Wind Direction,2025-12-27T20:00:00-07:00
+0.031,Edson,Total Oxides of Nitrogen,2025-12-27T20:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2025-12-27T20:00:00-07:00
+74.7,Edson,Relative Humidity,2025-12-27T20:00:00-07:00
+0.7,Edson,Wind Speed,2025-12-27T20:00:00-07:00
+0.004,Edson,Nitric Oxide,2025-12-27T20:00:00-07:00
+5.4,Edson,Fine Particulate Matter,2025-12-27T20:00:00-07:00
+0.027,Edson,Nitrogen Dioxide,2025-12-27T20:00:00-07:00
+-27.1,Edson,Outdoor Temperature,2025-12-27T20:00:00-07:00
+0.008,Edson,Ozone,2025-12-27T20:00:00-07:00
 3.0,Edson,,2025-12-27T19:00:00-07:00
 2.1,Edson,Wind Speed,2025-12-27T19:00:00-07:00
 269.0,Edson,Wind Direction,2025-12-27T19:00:00-07:00
@@ -59,12 +70,12 @@ Value,StationName,ParameterName,ReadingDate
 0.028,Edson,Ozone,2025-12-27T17:00:00-07:00
 0.008,Edson,Nitrogen Dioxide,2025-12-27T17:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2025-12-27T17:00:00-07:00
-0.009,Edson,Total Oxides of Nitrogen,2025-12-27T17:00:00-07:00
--21.5,Edson,Outdoor Temperature,2025-12-27T17:00:00-07:00
-3.4,Edson,Fine Particulate Matter,2025-12-27T17:00:00-07:00
-259.0,Edson,Wind Direction,2025-12-27T17:00:00-07:00
-0.0,Edson,Nitric Oxide,2025-12-27T17:00:00-07:00
 70.1,Edson,Relative Humidity,2025-12-27T17:00:00-07:00
+0.0,Edson,Nitric Oxide,2025-12-27T17:00:00-07:00
+259.0,Edson,Wind Direction,2025-12-27T17:00:00-07:00
+3.4,Edson,Fine Particulate Matter,2025-12-27T17:00:00-07:00
+-21.5,Edson,Outdoor Temperature,2025-12-27T17:00:00-07:00
+0.009,Edson,Total Oxides of Nitrogen,2025-12-27T17:00:00-07:00
 2.0,Edson,,2025-12-27T16:00:00-07:00
 260.0,Edson,Wind Direction,2025-12-27T16:00:00-07:00
 4.4,Edson,Wind Speed,2025-12-27T16:00:00-07:00
@@ -208,17 +219,17 @@ Value,StationName,ParameterName,ReadingDate
 2.1,Edson,Fine Particulate Matter,2025-12-27T04:00:00-07:00
 296.0,Edson,Wind Direction,2025-12-27T04:00:00-07:00
 ,Edson,Total Oxides of Nitrogen,2025-12-27T04:00:00-07:00
-301.0,Edson,Wind Direction,2025-12-27T03:00:00-07:00
-1.5,Edson,Fine Particulate Matter,2025-12-27T03:00:00-07:00
-0.001,Edson,Nitrogen Dioxide,2025-12-27T03:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2025-12-27T03:00:00-07:00
-0.001,Edson,Total Oxides of Nitrogen,2025-12-27T03:00:00-07:00
-0.033,Edson,Ozone,2025-12-27T03:00:00-07:00
--22.3,Edson,Outdoor Temperature,2025-12-27T03:00:00-07:00
-10.1,Edson,Wind Speed,2025-12-27T03:00:00-07:00
-84.1,Edson,Relative Humidity,2025-12-27T03:00:00-07:00
-0.0,Edson,Nitric Oxide,2025-12-27T03:00:00-07:00
 2.0,Edson,,2025-12-27T03:00:00-07:00
+0.0,Edson,Nitric Oxide,2025-12-27T03:00:00-07:00
+84.1,Edson,Relative Humidity,2025-12-27T03:00:00-07:00
+10.1,Edson,Wind Speed,2025-12-27T03:00:00-07:00
+-22.3,Edson,Outdoor Temperature,2025-12-27T03:00:00-07:00
+0.033,Edson,Ozone,2025-12-27T03:00:00-07:00
+0.001,Edson,Total Oxides of Nitrogen,2025-12-27T03:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2025-12-27T03:00:00-07:00
+0.001,Edson,Nitrogen Dioxide,2025-12-27T03:00:00-07:00
+1.5,Edson,Fine Particulate Matter,2025-12-27T03:00:00-07:00
+301.0,Edson,Wind Direction,2025-12-27T03:00:00-07:00
 2.0,Edson,,2025-12-27T02:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2025-12-27T02:00:00-07:00
 0.001,Edson,Nitrogen Dioxide,2025-12-27T02:00:00-07:00
@@ -659,17 +670,20 @@ Value,StationName,ParameterName,ReadingDate
 12.0,Edson,Fine Particulate Matter,2025-12-25T11:00:00-07:00
 -26.0,Edson,Outdoor Temperature,2025-12-25T11:00:00-07:00
 248.0,Edson,Wind Direction,2025-12-25T11:00:00-07:00
-2.0,Edson,,2025-12-25T10:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2025-12-25T10:00:00-07:00
-0.009,Edson,Nitric Oxide,2025-12-25T10:00:00-07:00
-0.016,Edson,Nitrogen Dioxide,2025-12-25T10:00:00-07:00
-0.025,Edson,Total Oxides of Nitrogen,2025-12-25T10:00:00-07:00
-0.007,Edson,Ozone,2025-12-25T10:00:00-07:00
-72.5,Edson,Relative Humidity,2025-12-25T10:00:00-07:00
-5.4,Edson,Wind Speed,2025-12-25T10:00:00-07:00
-15.1,Edson,Fine Particulate Matter,2025-12-25T10:00:00-07:00
--28.1,Edson,Outdoor Temperature,2025-12-25T10:00:00-07:00
 265.0,Edson,Wind Direction,2025-12-25T10:00:00-07:00
+-28.1,Edson,Outdoor Temperature,2025-12-25T10:00:00-07:00
+15.1,Edson,Fine Particulate Matter,2025-12-25T10:00:00-07:00
+5.4,Edson,Wind Speed,2025-12-25T10:00:00-07:00
+72.5,Edson,Relative Humidity,2025-12-25T10:00:00-07:00
+0.007,Edson,Ozone,2025-12-25T10:00:00-07:00
+0.025,Edson,Total Oxides of Nitrogen,2025-12-25T10:00:00-07:00
+0.016,Edson,Nitrogen Dioxide,2025-12-25T10:00:00-07:00
+0.009,Edson,Nitric Oxide,2025-12-25T10:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2025-12-25T10:00:00-07:00
+2.0,Edson,,2025-12-25T10:00:00-07:00
+2.0,Edson,,2025-12-25T09:00:00-07:00
+3.5,Edson,Wind Speed,2025-12-25T09:00:00-07:00
+12.7,Edson,Fine Particulate Matter,2025-12-25T09:00:00-07:00
 -28.6,Edson,Outdoor Temperature,2025-12-25T09:00:00-07:00
 259.0,Edson,Wind Direction,2025-12-25T09:00:00-07:00
 0.007,Edson,Nitric Oxide,2025-12-25T09:00:00-07:00
@@ -678,9 +692,9 @@ Value,StationName,ParameterName,ReadingDate
 0.003,Edson,Ozone,2025-12-25T09:00:00-07:00
 72.5,Edson,Relative Humidity,2025-12-25T09:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2025-12-25T09:00:00-07:00
-12.7,Edson,Fine Particulate Matter,2025-12-25T09:00:00-07:00
-3.5,Edson,Wind Speed,2025-12-25T09:00:00-07:00
-2.0,Edson,,2025-12-25T09:00:00-07:00
+2.0,Edson,,2025-12-25T08:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2025-12-25T08:00:00-07:00
+0.001,Edson,Nitric Oxide,2025-12-25T08:00:00-07:00
 244.0,Edson,Wind Direction,2025-12-25T08:00:00-07:00
 -28.4,Edson,Outdoor Temperature,2025-12-25T08:00:00-07:00
 9.8,Edson,Fine Particulate Matter,2025-12-25T08:00:00-07:00
@@ -689,15 +703,12 @@ Value,StationName,ParameterName,ReadingDate
 0.019,Edson,Total Oxides of Nitrogen,2025-12-25T08:00:00-07:00
 0.018,Edson,Nitrogen Dioxide,2025-12-25T08:00:00-07:00
 0.004,Edson,Ozone,2025-12-25T08:00:00-07:00
-0.001,Edson,Nitric Oxide,2025-12-25T08:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2025-12-25T08:00:00-07:00
-2.0,Edson,,2025-12-25T08:00:00-07:00
-0.008,Edson,Ozone,2025-12-25T07:00:00-07:00
-0.016,Edson,Total Oxides of Nitrogen,2025-12-25T07:00:00-07:00
-0.014,Edson,Nitrogen Dioxide,2025-12-25T07:00:00-07:00
-0.002,Edson,Nitric Oxide,2025-12-25T07:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2025-12-25T07:00:00-07:00
 2.0,Edson,,2025-12-25T07:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2025-12-25T07:00:00-07:00
+0.002,Edson,Nitric Oxide,2025-12-25T07:00:00-07:00
+0.014,Edson,Nitrogen Dioxide,2025-12-25T07:00:00-07:00
+0.016,Edson,Total Oxides of Nitrogen,2025-12-25T07:00:00-07:00
+0.008,Edson,Ozone,2025-12-25T07:00:00-07:00
 73.0,Edson,Relative Humidity,2025-12-25T07:00:00-07:00
 5.5,Edson,Wind Speed,2025-12-25T07:00:00-07:00
 9.9,Edson,Fine Particulate Matter,2025-12-25T07:00:00-07:00
@@ -714,17 +725,17 @@ Value,StationName,ParameterName,ReadingDate
 10.8,Edson,Fine Particulate Matter,2025-12-25T06:00:00-07:00
 -27.7,Edson,Outdoor Temperature,2025-12-25T06:00:00-07:00
 256.0,Edson,Wind Direction,2025-12-25T06:00:00-07:00
-2.0,Edson,,2025-12-25T05:00:00-07:00
-0.009,Edson,Nitrogen Dioxide,2025-12-25T05:00:00-07:00
-0.009,Edson,Total Oxides of Nitrogen,2025-12-25T05:00:00-07:00
-0.014,Edson,Ozone,2025-12-25T05:00:00-07:00
-73.4,Edson,Relative Humidity,2025-12-25T05:00:00-07:00
-4.7,Edson,Wind Speed,2025-12-25T05:00:00-07:00
-9.5,Edson,Fine Particulate Matter,2025-12-25T05:00:00-07:00
--27.4,Edson,Outdoor Temperature,2025-12-25T05:00:00-07:00
-270.0,Edson,Wind Direction,2025-12-25T05:00:00-07:00
-0.0,Edson,Nitric Oxide,2025-12-25T05:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2025-12-25T05:00:00-07:00
+0.0,Edson,Nitric Oxide,2025-12-25T05:00:00-07:00
+270.0,Edson,Wind Direction,2025-12-25T05:00:00-07:00
+-27.4,Edson,Outdoor Temperature,2025-12-25T05:00:00-07:00
+9.5,Edson,Fine Particulate Matter,2025-12-25T05:00:00-07:00
+4.7,Edson,Wind Speed,2025-12-25T05:00:00-07:00
+73.4,Edson,Relative Humidity,2025-12-25T05:00:00-07:00
+0.014,Edson,Ozone,2025-12-25T05:00:00-07:00
+0.009,Edson,Total Oxides of Nitrogen,2025-12-25T05:00:00-07:00
+0.009,Edson,Nitrogen Dioxide,2025-12-25T05:00:00-07:00
+2.0,Edson,,2025-12-25T05:00:00-07:00
 2.0,Edson,,2025-12-25T04:00:00-07:00
 ,Edson,Total Oxides of Nitrogen,2025-12-25T04:00:00-07:00
 ,Edson,Nitrogen Dioxide,2025-12-25T04:00:00-07:00
@@ -734,19 +745,19 @@ Value,StationName,ParameterName,ReadingDate
 73.9,Edson,Relative Humidity,2025-12-25T04:00:00-07:00
 4.2,Edson,Wind Speed,2025-12-25T04:00:00-07:00
 8.3,Edson,Fine Particulate Matter,2025-12-25T04:00:00-07:00
--26.7,Edson,Outdoor Temperature,2025-12-25T04:00:00-07:00
 303.0,Edson,Wind Direction,2025-12-25T04:00:00-07:00
-2.0,Edson,,2025-12-25T03:00:00-07:00
-0.0,Edson,Nitric Oxide,2025-12-25T03:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2025-12-25T03:00:00-07:00
-0.004,Edson,Total Oxides of Nitrogen,2025-12-25T03:00:00-07:00
-0.004,Edson,Nitrogen Dioxide,2025-12-25T03:00:00-07:00
-0.019,Edson,Ozone,2025-12-25T03:00:00-07:00
-74.4,Edson,Relative Humidity,2025-12-25T03:00:00-07:00
-5.7,Edson,Wind Speed,2025-12-25T03:00:00-07:00
-8.2,Edson,Fine Particulate Matter,2025-12-25T03:00:00-07:00
--26.1,Edson,Outdoor Temperature,2025-12-25T03:00:00-07:00
+-26.7,Edson,Outdoor Temperature,2025-12-25T04:00:00-07:00
 342.0,Edson,Wind Direction,2025-12-25T03:00:00-07:00
+-26.1,Edson,Outdoor Temperature,2025-12-25T03:00:00-07:00
+8.2,Edson,Fine Particulate Matter,2025-12-25T03:00:00-07:00
+5.7,Edson,Wind Speed,2025-12-25T03:00:00-07:00
+74.4,Edson,Relative Humidity,2025-12-25T03:00:00-07:00
+0.019,Edson,Ozone,2025-12-25T03:00:00-07:00
+0.004,Edson,Nitrogen Dioxide,2025-12-25T03:00:00-07:00
+0.004,Edson,Total Oxides of Nitrogen,2025-12-25T03:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2025-12-25T03:00:00-07:00
+0.0,Edson,Nitric Oxide,2025-12-25T03:00:00-07:00
+2.0,Edson,,2025-12-25T03:00:00-07:00
 2.0,Edson,,2025-12-25T02:00:00-07:00
 0.0,Edson,Nitric Oxide,2025-12-25T02:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2025-12-25T02:00:00-07:00
@@ -780,17 +791,17 @@ Value,StationName,ParameterName,ReadingDate
 7.4,Edson,Wind Speed,2025-12-25T00:00:00-07:00
 75.1,Edson,Relative Humidity,2025-12-25T00:00:00-07:00
 0.001,Edson,Sulphur Dioxide,2025-12-25T00:00:00-07:00
-8.1,Edson,Fine Particulate Matter,2025-12-24T23:00:00-07:00
-0.0,Edson,Nitric Oxide,2025-12-24T23:00:00-07:00
-0.006,Edson,Total Oxides of Nitrogen,2025-12-24T23:00:00-07:00
-0.006,Edson,Nitrogen Dioxide,2025-12-24T23:00:00-07:00
-66.0,Edson,Wind Direction,2025-12-24T23:00:00-07:00
-0.001,Edson,Sulphur Dioxide,2025-12-24T23:00:00-07:00
-75.4,Edson,Relative Humidity,2025-12-24T23:00:00-07:00
-9.3,Edson,Wind Speed,2025-12-24T23:00:00-07:00
-0.018,Edson,Ozone,2025-12-24T23:00:00-07:00
--24.4,Edson,Outdoor Temperature,2025-12-24T23:00:00-07:00
 2.0,Edson,,2025-12-24T23:00:00-07:00
+-24.4,Edson,Outdoor Temperature,2025-12-24T23:00:00-07:00
+0.018,Edson,Ozone,2025-12-24T23:00:00-07:00
+9.3,Edson,Wind Speed,2025-12-24T23:00:00-07:00
+75.4,Edson,Relative Humidity,2025-12-24T23:00:00-07:00
+0.001,Edson,Sulphur Dioxide,2025-12-24T23:00:00-07:00
+66.0,Edson,Wind Direction,2025-12-24T23:00:00-07:00
+0.006,Edson,Nitrogen Dioxide,2025-12-24T23:00:00-07:00
+0.006,Edson,Total Oxides of Nitrogen,2025-12-24T23:00:00-07:00
+0.0,Edson,Nitric Oxide,2025-12-24T23:00:00-07:00
+8.1,Edson,Fine Particulate Matter,2025-12-24T23:00:00-07:00
 0.0,Edson,Nitric Oxide,2025-12-24T22:00:00-07:00
 7.1,Edson,Fine Particulate Matter,2025-12-24T22:00:00-07:00
 0.006,Edson,Total Oxides of Nitrogen,2025-12-24T22:00:00-07:00
@@ -868,83 +879,83 @@ Value,StationName,ParameterName,ReadingDate
 6.8,Edson,Fine Particulate Matter,2025-12-24T16:00:00-07:00
 0.0,Edson,Nitric Oxide,2025-12-24T16:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2025-12-24T16:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2025-12-24T15:00:00-07:00
-8.6,Edson,Fine Particulate Matter,2025-12-24T15:00:00-07:00
-11.4,Edson,Wind Speed,2025-12-24T15:00:00-07:00
-0.021,Edson,Ozone,2025-12-24T15:00:00-07:00
-0.004,Edson,Total Oxides of Nitrogen,2025-12-24T15:00:00-07:00
-0.001,Edson,Nitric Oxide,2025-12-24T15:00:00-07:00
-62.0,Edson,Wind Direction,2025-12-24T15:00:00-07:00
-75.2,Edson,Relative Humidity,2025-12-24T15:00:00-07:00
-0.003,Edson,Nitrogen Dioxide,2025-12-24T15:00:00-07:00
--23.5,Edson,Outdoor Temperature,2025-12-24T15:00:00-07:00
 2.0,Edson,,2025-12-24T15:00:00-07:00
-2.0,Edson,,2025-12-24T14:00:00-07:00
--23.5,Edson,Outdoor Temperature,2025-12-24T14:00:00-07:00
-0.003,Edson,Nitrogen Dioxide,2025-12-24T14:00:00-07:00
-74.7,Edson,Relative Humidity,2025-12-24T14:00:00-07:00
-56.0,Edson,Wind Direction,2025-12-24T14:00:00-07:00
+-23.5,Edson,Outdoor Temperature,2025-12-24T15:00:00-07:00
+0.003,Edson,Nitrogen Dioxide,2025-12-24T15:00:00-07:00
+75.2,Edson,Relative Humidity,2025-12-24T15:00:00-07:00
+62.0,Edson,Wind Direction,2025-12-24T15:00:00-07:00
+0.001,Edson,Nitric Oxide,2025-12-24T15:00:00-07:00
+0.004,Edson,Total Oxides of Nitrogen,2025-12-24T15:00:00-07:00
+0.021,Edson,Ozone,2025-12-24T15:00:00-07:00
+11.4,Edson,Wind Speed,2025-12-24T15:00:00-07:00
+8.6,Edson,Fine Particulate Matter,2025-12-24T15:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2025-12-24T15:00:00-07:00
 0.001,Edson,Nitric Oxide,2025-12-24T14:00:00-07:00
+56.0,Edson,Wind Direction,2025-12-24T14:00:00-07:00
+74.7,Edson,Relative Humidity,2025-12-24T14:00:00-07:00
+0.003,Edson,Nitrogen Dioxide,2025-12-24T14:00:00-07:00
+-23.5,Edson,Outdoor Temperature,2025-12-24T14:00:00-07:00
+2.0,Edson,,2025-12-24T14:00:00-07:00
 0.004,Edson,Total Oxides of Nitrogen,2025-12-24T14:00:00-07:00
 0.02,Edson,Ozone,2025-12-24T14:00:00-07:00
 10.6,Edson,Wind Speed,2025-12-24T14:00:00-07:00
 9.6,Edson,Fine Particulate Matter,2025-12-24T14:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2025-12-24T14:00:00-07:00
-2.0,Edson,,2025-12-24T13:00:00-07:00
--23.5,Edson,Outdoor Temperature,2025-12-24T13:00:00-07:00
-74.1,Edson,Relative Humidity,2025-12-24T13:00:00-07:00
-61.0,Edson,Wind Direction,2025-12-24T13:00:00-07:00
-0.004,Edson,Nitrogen Dioxide,2025-12-24T13:00:00-07:00
-0.001,Edson,Nitric Oxide,2025-12-24T13:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2025-12-24T13:00:00-07:00
 9.7,Edson,Fine Particulate Matter,2025-12-24T13:00:00-07:00
 10.6,Edson,Wind Speed,2025-12-24T13:00:00-07:00
 0.019,Edson,Ozone,2025-12-24T13:00:00-07:00
 0.005,Edson,Total Oxides of Nitrogen,2025-12-24T13:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2025-12-24T12:00:00-07:00
-8.9,Edson,Fine Particulate Matter,2025-12-24T12:00:00-07:00
-0.004,Edson,Nitrogen Dioxide,2025-12-24T12:00:00-07:00
-49.0,Edson,Wind Direction,2025-12-24T12:00:00-07:00
-72.9,Edson,Relative Humidity,2025-12-24T12:00:00-07:00
-9.5,Edson,Wind Speed,2025-12-24T12:00:00-07:00
-0.018,Edson,Ozone,2025-12-24T12:00:00-07:00
-0.005,Edson,Total Oxides of Nitrogen,2025-12-24T12:00:00-07:00
-0.001,Edson,Nitric Oxide,2025-12-24T12:00:00-07:00
--23.6,Edson,Outdoor Temperature,2025-12-24T12:00:00-07:00
+0.001,Edson,Nitric Oxide,2025-12-24T13:00:00-07:00
+0.004,Edson,Nitrogen Dioxide,2025-12-24T13:00:00-07:00
+61.0,Edson,Wind Direction,2025-12-24T13:00:00-07:00
+74.1,Edson,Relative Humidity,2025-12-24T13:00:00-07:00
+-23.5,Edson,Outdoor Temperature,2025-12-24T13:00:00-07:00
+2.0,Edson,,2025-12-24T13:00:00-07:00
 2.0,Edson,,2025-12-24T12:00:00-07:00
-0.001,Edson,Nitric Oxide,2025-12-24T11:00:00-07:00
-0.006,Edson,Total Oxides of Nitrogen,2025-12-24T11:00:00-07:00
-0.017,Edson,Ozone,2025-12-24T11:00:00-07:00
-9.4,Edson,Wind Speed,2025-12-24T11:00:00-07:00
+-23.6,Edson,Outdoor Temperature,2025-12-24T12:00:00-07:00
+0.001,Edson,Nitric Oxide,2025-12-24T12:00:00-07:00
+0.005,Edson,Total Oxides of Nitrogen,2025-12-24T12:00:00-07:00
+0.018,Edson,Ozone,2025-12-24T12:00:00-07:00
+9.5,Edson,Wind Speed,2025-12-24T12:00:00-07:00
+72.9,Edson,Relative Humidity,2025-12-24T12:00:00-07:00
+49.0,Edson,Wind Direction,2025-12-24T12:00:00-07:00
+0.004,Edson,Nitrogen Dioxide,2025-12-24T12:00:00-07:00
+8.9,Edson,Fine Particulate Matter,2025-12-24T12:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2025-12-24T12:00:00-07:00
 -23.9,Edson,Outdoor Temperature,2025-12-24T11:00:00-07:00
-2.0,Edson,,2025-12-24T11:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2025-12-24T11:00:00-07:00
 10.1,Edson,Fine Particulate Matter,2025-12-24T11:00:00-07:00
 0.005,Edson,Nitrogen Dioxide,2025-12-24T11:00:00-07:00
 46.0,Edson,Wind Direction,2025-12-24T11:00:00-07:00
 73.4,Edson,Relative Humidity,2025-12-24T11:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2025-12-24T10:00:00-07:00
-10.7,Edson,Fine Particulate Matter,2025-12-24T10:00:00-07:00
-74.5,Edson,Relative Humidity,2025-12-24T10:00:00-07:00
-0.007,Edson,Total Oxides of Nitrogen,2025-12-24T10:00:00-07:00
-0.001,Edson,Nitric Oxide,2025-12-24T10:00:00-07:00
+9.4,Edson,Wind Speed,2025-12-24T11:00:00-07:00
+0.017,Edson,Ozone,2025-12-24T11:00:00-07:00
+0.006,Edson,Total Oxides of Nitrogen,2025-12-24T11:00:00-07:00
+0.001,Edson,Nitric Oxide,2025-12-24T11:00:00-07:00
+2.0,Edson,,2025-12-24T11:00:00-07:00
 0.006,Edson,Nitrogen Dioxide,2025-12-24T10:00:00-07:00
 47.0,Edson,Wind Direction,2025-12-24T10:00:00-07:00
 -24.2,Edson,Outdoor Temperature,2025-12-24T10:00:00-07:00
 10.8,Edson,Wind Speed,2025-12-24T10:00:00-07:00
 0.016,Edson,Ozone,2025-12-24T10:00:00-07:00
 2.0,Edson,,2025-12-24T10:00:00-07:00
+0.001,Edson,Nitric Oxide,2025-12-24T10:00:00-07:00
+0.007,Edson,Total Oxides of Nitrogen,2025-12-24T10:00:00-07:00
+74.5,Edson,Relative Humidity,2025-12-24T10:00:00-07:00
+10.7,Edson,Fine Particulate Matter,2025-12-24T10:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2025-12-24T10:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2025-12-24T09:00:00-07:00
+11.2,Edson,Fine Particulate Matter,2025-12-24T09:00:00-07:00
+0.0,Edson,Nitric Oxide,2025-12-24T09:00:00-07:00
+0.006,Edson,Nitrogen Dioxide,2025-12-24T09:00:00-07:00
+51.0,Edson,Wind Direction,2025-12-24T09:00:00-07:00
 75.3,Edson,Relative Humidity,2025-12-24T09:00:00-07:00
 10.1,Edson,Wind Speed,2025-12-24T09:00:00-07:00
 0.016,Edson,Ozone,2025-12-24T09:00:00-07:00
 0.007,Edson,Total Oxides of Nitrogen,2025-12-24T09:00:00-07:00
 -24.4,Edson,Outdoor Temperature,2025-12-24T09:00:00-07:00
 2.0,Edson,,2025-12-24T09:00:00-07:00
-51.0,Edson,Wind Direction,2025-12-24T09:00:00-07:00
-0.006,Edson,Nitrogen Dioxide,2025-12-24T09:00:00-07:00
-0.0,Edson,Nitric Oxide,2025-12-24T09:00:00-07:00
-11.2,Edson,Fine Particulate Matter,2025-12-24T09:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2025-12-24T09:00:00-07:00
 3.0,Edson,,2025-12-24T08:00:00-07:00
 10.1,Edson,Wind Speed,2025-12-24T08:00:00-07:00
 -24.2,Edson,Outdoor Temperature,2025-12-24T08:00:00-07:00
@@ -967,94 +978,94 @@ Value,StationName,ParameterName,ReadingDate
 27.7,Edson,Fine Particulate Matter,2025-12-24T07:00:00-07:00
 0.0,Edson,Nitric Oxide,2025-12-24T07:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2025-12-24T07:00:00-07:00
-74.0,Edson,Relative Humidity,2025-12-24T06:00:00-07:00
--23.8,Edson,Outdoor Temperature,2025-12-24T06:00:00-07:00
-4.8,Edson,Wind Speed,2025-12-24T06:00:00-07:00
 3.0,Edson,,2025-12-24T06:00:00-07:00
+4.8,Edson,Wind Speed,2025-12-24T06:00:00-07:00
+-23.8,Edson,Outdoor Temperature,2025-12-24T06:00:00-07:00
+74.0,Edson,Relative Humidity,2025-12-24T06:00:00-07:00
 45.0,Edson,Wind Direction,2025-12-24T06:00:00-07:00
 0.008,Edson,Nitrogen Dioxide,2025-12-24T06:00:00-07:00
+0.014,Edson,Ozone,2025-12-24T06:00:00-07:00
+0.0,Edson,Nitric Oxide,2025-12-24T06:00:00-07:00
+27.2,Edson,Fine Particulate Matter,2025-12-24T06:00:00-07:00
 0.008,Edson,Total Oxides of Nitrogen,2025-12-24T06:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2025-12-24T06:00:00-07:00
-27.2,Edson,Fine Particulate Matter,2025-12-24T06:00:00-07:00
-0.0,Edson,Nitric Oxide,2025-12-24T06:00:00-07:00
-0.014,Edson,Ozone,2025-12-24T06:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2025-12-24T05:00:00-07:00
-0.0,Edson,Nitric Oxide,2025-12-24T05:00:00-07:00
-19.3,Edson,Fine Particulate Matter,2025-12-24T05:00:00-07:00
-0.011,Edson,Nitrogen Dioxide,2025-12-24T05:00:00-07:00
-35.0,Edson,Wind Direction,2025-12-24T05:00:00-07:00
-74.7,Edson,Relative Humidity,2025-12-24T05:00:00-07:00
-4.9,Edson,Wind Speed,2025-12-24T05:00:00-07:00
-0.011,Edson,Ozone,2025-12-24T05:00:00-07:00
-0.011,Edson,Total Oxides of Nitrogen,2025-12-24T05:00:00-07:00
--23.9,Edson,Outdoor Temperature,2025-12-24T05:00:00-07:00
 3.0,Edson,,2025-12-24T05:00:00-07:00
+-23.9,Edson,Outdoor Temperature,2025-12-24T05:00:00-07:00
+0.011,Edson,Total Oxides of Nitrogen,2025-12-24T05:00:00-07:00
+0.011,Edson,Ozone,2025-12-24T05:00:00-07:00
+4.9,Edson,Wind Speed,2025-12-24T05:00:00-07:00
+74.7,Edson,Relative Humidity,2025-12-24T05:00:00-07:00
+35.0,Edson,Wind Direction,2025-12-24T05:00:00-07:00
+0.011,Edson,Nitrogen Dioxide,2025-12-24T05:00:00-07:00
+19.3,Edson,Fine Particulate Matter,2025-12-24T05:00:00-07:00
+0.0,Edson,Nitric Oxide,2025-12-24T05:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2025-12-24T05:00:00-07:00
+3.0,Edson,,2025-12-24T04:00:00-07:00
+,Edson,Ozone,2025-12-24T04:00:00-07:00
+1.2,Edson,Wind Speed,2025-12-24T04:00:00-07:00
+-24.0,Edson,Outdoor Temperature,2025-12-24T04:00:00-07:00
+74.9,Edson,Relative Humidity,2025-12-24T04:00:00-07:00
+,Edson,Sulphur Dioxide,2025-12-24T04:00:00-07:00
+174.0,Edson,Wind Direction,2025-12-24T04:00:00-07:00
+,Edson,Nitrogen Dioxide,2025-12-24T04:00:00-07:00
 ,Edson,Nitric Oxide,2025-12-24T04:00:00-07:00
 ,Edson,Total Oxides of Nitrogen,2025-12-24T04:00:00-07:00
 23.6,Edson,Fine Particulate Matter,2025-12-24T04:00:00-07:00
-,Edson,Nitrogen Dioxide,2025-12-24T04:00:00-07:00
-174.0,Edson,Wind Direction,2025-12-24T04:00:00-07:00
-,Edson,Sulphur Dioxide,2025-12-24T04:00:00-07:00
-74.9,Edson,Relative Humidity,2025-12-24T04:00:00-07:00
--24.0,Edson,Outdoor Temperature,2025-12-24T04:00:00-07:00
-1.2,Edson,Wind Speed,2025-12-24T04:00:00-07:00
-,Edson,Ozone,2025-12-24T04:00:00-07:00
-3.0,Edson,,2025-12-24T04:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2025-12-24T03:00:00-07:00
-0.0,Edson,Nitric Oxide,2025-12-24T03:00:00-07:00
-26.1,Edson,Fine Particulate Matter,2025-12-24T03:00:00-07:00
-0.013,Edson,Nitrogen Dioxide,2025-12-24T03:00:00-07:00
-221.0,Edson,Wind Direction,2025-12-24T03:00:00-07:00
-75.0,Edson,Relative Humidity,2025-12-24T03:00:00-07:00
--24.6,Edson,Outdoor Temperature,2025-12-24T03:00:00-07:00
-1.6,Edson,Wind Speed,2025-12-24T03:00:00-07:00
-0.009,Edson,Ozone,2025-12-24T03:00:00-07:00
-0.013,Edson,Total Oxides of Nitrogen,2025-12-24T03:00:00-07:00
 3.0,Edson,,2025-12-24T03:00:00-07:00
+0.013,Edson,Total Oxides of Nitrogen,2025-12-24T03:00:00-07:00
+0.009,Edson,Ozone,2025-12-24T03:00:00-07:00
+1.6,Edson,Wind Speed,2025-12-24T03:00:00-07:00
+-24.6,Edson,Outdoor Temperature,2025-12-24T03:00:00-07:00
+75.0,Edson,Relative Humidity,2025-12-24T03:00:00-07:00
+221.0,Edson,Wind Direction,2025-12-24T03:00:00-07:00
+0.013,Edson,Nitrogen Dioxide,2025-12-24T03:00:00-07:00
+26.1,Edson,Fine Particulate Matter,2025-12-24T03:00:00-07:00
+0.0,Edson,Nitric Oxide,2025-12-24T03:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2025-12-24T03:00:00-07:00
 2.0,Edson,,2025-12-24T02:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2025-12-24T02:00:00-07:00
-23.9,Edson,Fine Particulate Matter,2025-12-24T02:00:00-07:00
-0.017,Edson,Total Oxides of Nitrogen,2025-12-24T02:00:00-07:00
-0.001,Edson,Nitric Oxide,2025-12-24T02:00:00-07:00
-0.016,Edson,Nitrogen Dioxide,2025-12-24T02:00:00-07:00
-249.0,Edson,Wind Direction,2025-12-24T02:00:00-07:00
-75.1,Edson,Relative Humidity,2025-12-24T02:00:00-07:00
-0.006,Edson,Ozone,2025-12-24T02:00:00-07:00
--25.1,Edson,Outdoor Temperature,2025-12-24T02:00:00-07:00
 0.7,Edson,Wind Speed,2025-12-24T02:00:00-07:00
-2.0,Edson,,2025-12-24T01:00:00-07:00
-187.0,Edson,Wind Direction,2025-12-24T01:00:00-07:00
-0.003,Edson,Nitric Oxide,2025-12-24T01:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2025-12-24T01:00:00-07:00
-75.4,Edson,Relative Humidity,2025-12-24T01:00:00-07:00
-0.017,Edson,Total Oxides of Nitrogen,2025-12-24T01:00:00-07:00
-19.5,Edson,Fine Particulate Matter,2025-12-24T01:00:00-07:00
-0.014,Edson,Nitrogen Dioxide,2025-12-24T01:00:00-07:00
-0.008,Edson,Ozone,2025-12-24T01:00:00-07:00
--25.5,Edson,Outdoor Temperature,2025-12-24T01:00:00-07:00
+-25.1,Edson,Outdoor Temperature,2025-12-24T02:00:00-07:00
+0.006,Edson,Ozone,2025-12-24T02:00:00-07:00
+75.1,Edson,Relative Humidity,2025-12-24T02:00:00-07:00
+249.0,Edson,Wind Direction,2025-12-24T02:00:00-07:00
+0.016,Edson,Nitrogen Dioxide,2025-12-24T02:00:00-07:00
+0.001,Edson,Nitric Oxide,2025-12-24T02:00:00-07:00
+0.017,Edson,Total Oxides of Nitrogen,2025-12-24T02:00:00-07:00
+23.9,Edson,Fine Particulate Matter,2025-12-24T02:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2025-12-24T02:00:00-07:00
 0.6,Edson,Wind Speed,2025-12-24T01:00:00-07:00
-0.007,Edson,Nitrogen Dioxide,2025-12-24T00:00:00-07:00
-14.5,Edson,Fine Particulate Matter,2025-12-24T00:00:00-07:00
-0.007,Edson,Total Oxides of Nitrogen,2025-12-24T00:00:00-07:00
-0.0,Edson,Nitric Oxide,2025-12-24T00:00:00-07:00
-19.0,Edson,Wind Direction,2025-12-24T00:00:00-07:00
-73.4,Edson,Relative Humidity,2025-12-24T00:00:00-07:00
+-25.5,Edson,Outdoor Temperature,2025-12-24T01:00:00-07:00
+0.008,Edson,Ozone,2025-12-24T01:00:00-07:00
+0.014,Edson,Nitrogen Dioxide,2025-12-24T01:00:00-07:00
+19.5,Edson,Fine Particulate Matter,2025-12-24T01:00:00-07:00
+0.017,Edson,Total Oxides of Nitrogen,2025-12-24T01:00:00-07:00
+75.4,Edson,Relative Humidity,2025-12-24T01:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2025-12-24T01:00:00-07:00
+0.003,Edson,Nitric Oxide,2025-12-24T01:00:00-07:00
+187.0,Edson,Wind Direction,2025-12-24T01:00:00-07:00
+2.0,Edson,,2025-12-24T01:00:00-07:00
 2.0,Edson,,2025-12-24T00:00:00-07:00
 0.017,Edson,Ozone,2025-12-24T00:00:00-07:00
+73.4,Edson,Relative Humidity,2025-12-24T00:00:00-07:00
+19.0,Edson,Wind Direction,2025-12-24T00:00:00-07:00
+0.0,Edson,Nitric Oxide,2025-12-24T00:00:00-07:00
+0.007,Edson,Total Oxides of Nitrogen,2025-12-24T00:00:00-07:00
+14.5,Edson,Fine Particulate Matter,2025-12-24T00:00:00-07:00
+0.007,Edson,Nitrogen Dioxide,2025-12-24T00:00:00-07:00
 7.4,Edson,Wind Speed,2025-12-24T00:00:00-07:00
 -24.1,Edson,Outdoor Temperature,2025-12-24T00:00:00-07:00
 0.001,Edson,Sulphur Dioxide,2025-12-24T00:00:00-07:00
-2.0,Edson,,2025-12-23T23:00:00-07:00
-7.8,Edson,Wind Speed,2025-12-23T23:00:00-07:00
--24.3,Edson,Outdoor Temperature,2025-12-23T23:00:00-07:00
-0.017,Edson,Ozone,2025-12-23T23:00:00-07:00
-73.2,Edson,Relative Humidity,2025-12-23T23:00:00-07:00
-0.007,Edson,Total Oxides of Nitrogen,2025-12-23T23:00:00-07:00
-0.007,Edson,Nitrogen Dioxide,2025-12-23T23:00:00-07:00
-0.0,Edson,Nitric Oxide,2025-12-23T23:00:00-07:00
-16.4,Edson,Fine Particulate Matter,2025-12-23T23:00:00-07:00
-30.0,Edson,Wind Direction,2025-12-23T23:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2025-12-23T23:00:00-07:00
+30.0,Edson,Wind Direction,2025-12-23T23:00:00-07:00
+16.4,Edson,Fine Particulate Matter,2025-12-23T23:00:00-07:00
+0.0,Edson,Nitric Oxide,2025-12-23T23:00:00-07:00
+0.007,Edson,Nitrogen Dioxide,2025-12-23T23:00:00-07:00
+0.007,Edson,Total Oxides of Nitrogen,2025-12-23T23:00:00-07:00
+73.2,Edson,Relative Humidity,2025-12-23T23:00:00-07:00
+0.017,Edson,Ozone,2025-12-23T23:00:00-07:00
+-24.3,Edson,Outdoor Temperature,2025-12-23T23:00:00-07:00
+7.8,Edson,Wind Speed,2025-12-23T23:00:00-07:00
+2.0,Edson,,2025-12-23T23:00:00-07:00
 2.0,Edson,,2025-12-23T22:00:00-07:00
 11.2,Edson,Wind Speed,2025-12-23T22:00:00-07:00
 -23.4,Edson,Outdoor Temperature,2025-12-23T22:00:00-07:00
@@ -1477,12 +1488,12 @@ Value,StationName,ParameterName,ReadingDate
 2.0,Edson,,2025-12-22T08:00:00-07:00
 -23.5,Edson,Outdoor Temperature,2025-12-22T08:00:00-07:00
 3.9,Edson,Fine Particulate Matter,2025-12-22T08:00:00-07:00
-0.003,Edson,Total Oxides of Nitrogen,2025-12-22T08:00:00-07:00
-0.001,Edson,Sulphur Dioxide,2025-12-22T08:00:00-07:00
 71.0,Edson,Relative Humidity,2025-12-22T08:00:00-07:00
 0.0,Edson,Nitric Oxide,2025-12-22T08:00:00-07:00
 2.1,Edson,Wind Speed,2025-12-22T08:00:00-07:00
 0.025,Edson,Ozone,2025-12-22T08:00:00-07:00
+0.001,Edson,Sulphur Dioxide,2025-12-22T08:00:00-07:00
+0.003,Edson,Total Oxides of Nitrogen,2025-12-22T08:00:00-07:00
 0.003,Edson,Nitrogen Dioxide,2025-12-22T08:00:00-07:00
 351.0,Edson,Wind Direction,2025-12-22T07:00:00-07:00
 2.0,Edson,,2025-12-22T07:00:00-07:00
@@ -1495,7 +1506,6 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Edson,Nitric Oxide,2025-12-22T07:00:00-07:00
 71.4,Edson,Relative Humidity,2025-12-22T07:00:00-07:00
 0.003,Edson,Nitrogen Dioxide,2025-12-22T07:00:00-07:00
-344.0,Edson,Wind Direction,2025-12-22T06:00:00-07:00
 0.003,Edson,Nitrogen Dioxide,2025-12-22T06:00:00-07:00
 71.4,Edson,Relative Humidity,2025-12-22T06:00:00-07:00
 0.0,Edson,Nitric Oxide,2025-12-22T06:00:00-07:00
@@ -1506,28 +1516,31 @@ Value,StationName,ParameterName,ReadingDate
 -23.0,Edson,Outdoor Temperature,2025-12-22T06:00:00-07:00
 0.002,Edson,Sulphur Dioxide,2025-12-22T06:00:00-07:00
 2.0,Edson,,2025-12-22T06:00:00-07:00
-71.0,Edson,Relative Humidity,2025-12-22T05:00:00-07:00
-0.0,Edson,Nitric Oxide,2025-12-22T05:00:00-07:00
-0.002,Edson,Total Oxides of Nitrogen,2025-12-22T05:00:00-07:00
-4.4,Edson,Wind Speed,2025-12-22T05:00:00-07:00
-0.027,Edson,Ozone,2025-12-22T05:00:00-07:00
-2.0,Edson,,2025-12-22T05:00:00-07:00
-350.0,Edson,Wind Direction,2025-12-22T05:00:00-07:00
--22.8,Edson,Outdoor Temperature,2025-12-22T05:00:00-07:00
-3.9,Edson,Fine Particulate Matter,2025-12-22T05:00:00-07:00
-0.002,Edson,Nitrogen Dioxide,2025-12-22T05:00:00-07:00
+344.0,Edson,Wind Direction,2025-12-22T06:00:00-07:00
 0.001,Edson,Sulphur Dioxide,2025-12-22T05:00:00-07:00
-9.0,Edson,Wind Direction,2025-12-22T04:00:00-07:00
-2.0,Edson,,2025-12-22T04:00:00-07:00
-,Edson,Total Oxides of Nitrogen,2025-12-22T04:00:00-07:00
--23.0,Edson,Outdoor Temperature,2025-12-22T04:00:00-07:00
-,Edson,Nitrogen Dioxide,2025-12-22T04:00:00-07:00
-,Edson,Nitric Oxide,2025-12-22T04:00:00-07:00
-4.2,Edson,Fine Particulate Matter,2025-12-22T04:00:00-07:00
-,Edson,Sulphur Dioxide,2025-12-22T04:00:00-07:00
-,Edson,Ozone,2025-12-22T04:00:00-07:00
-5.8,Edson,Wind Speed,2025-12-22T04:00:00-07:00
+0.002,Edson,Nitrogen Dioxide,2025-12-22T05:00:00-07:00
+3.9,Edson,Fine Particulate Matter,2025-12-22T05:00:00-07:00
+-22.8,Edson,Outdoor Temperature,2025-12-22T05:00:00-07:00
+350.0,Edson,Wind Direction,2025-12-22T05:00:00-07:00
+2.0,Edson,,2025-12-22T05:00:00-07:00
+0.027,Edson,Ozone,2025-12-22T05:00:00-07:00
+4.4,Edson,Wind Speed,2025-12-22T05:00:00-07:00
+0.002,Edson,Total Oxides of Nitrogen,2025-12-22T05:00:00-07:00
+0.0,Edson,Nitric Oxide,2025-12-22T05:00:00-07:00
+71.0,Edson,Relative Humidity,2025-12-22T05:00:00-07:00
 70.3,Edson,Relative Humidity,2025-12-22T04:00:00-07:00
+5.8,Edson,Wind Speed,2025-12-22T04:00:00-07:00
+,Edson,Ozone,2025-12-22T04:00:00-07:00
+,Edson,Sulphur Dioxide,2025-12-22T04:00:00-07:00
+4.2,Edson,Fine Particulate Matter,2025-12-22T04:00:00-07:00
+,Edson,Nitric Oxide,2025-12-22T04:00:00-07:00
+,Edson,Nitrogen Dioxide,2025-12-22T04:00:00-07:00
+-23.0,Edson,Outdoor Temperature,2025-12-22T04:00:00-07:00
+,Edson,Total Oxides of Nitrogen,2025-12-22T04:00:00-07:00
+2.0,Edson,,2025-12-22T04:00:00-07:00
+9.0,Edson,Wind Direction,2025-12-22T04:00:00-07:00
+14.0,Edson,Wind Direction,2025-12-22T03:00:00-07:00
+2.0,Edson,,2025-12-22T03:00:00-07:00
 3.7,Edson,Fine Particulate Matter,2025-12-22T03:00:00-07:00
 0.002,Edson,Nitrogen Dioxide,2025-12-22T03:00:00-07:00
 -23.2,Edson,Outdoor Temperature,2025-12-22T03:00:00-07:00
@@ -1537,10 +1550,8 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Edson,Nitric Oxide,2025-12-22T03:00:00-07:00
 70.9,Edson,Relative Humidity,2025-12-22T03:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2025-12-22T03:00:00-07:00
-2.0,Edson,,2025-12-22T03:00:00-07:00
-14.0,Edson,Wind Direction,2025-12-22T03:00:00-07:00
-9.0,Edson,Wind Direction,2025-12-22T02:00:00-07:00
 2.0,Edson,,2025-12-22T02:00:00-07:00
+9.0,Edson,Wind Direction,2025-12-22T02:00:00-07:00
 8.5,Edson,Wind Speed,2025-12-22T02:00:00-07:00
 -23.1,Edson,Outdoor Temperature,2025-12-22T02:00:00-07:00
 71.1,Edson,Relative Humidity,2025-12-22T02:00:00-07:00
@@ -1548,52 +1559,52 @@ Value,StationName,ParameterName,ReadingDate
 0.029,Edson,Ozone,2025-12-22T02:00:00-07:00
 0.001,Edson,Total Oxides of Nitrogen,2025-12-22T02:00:00-07:00
 0.002,Edson,Nitrogen Dioxide,2025-12-22T02:00:00-07:00
-0.0,Edson,Nitric Oxide,2025-12-22T02:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2025-12-22T02:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2025-12-22T01:00:00-07:00
-72.7,Edson,Relative Humidity,2025-12-22T01:00:00-07:00
-0.0,Edson,Nitric Oxide,2025-12-22T01:00:00-07:00
-0.002,Edson,Total Oxides of Nitrogen,2025-12-22T01:00:00-07:00
-8.1,Edson,Wind Speed,2025-12-22T01:00:00-07:00
-0.028,Edson,Ozone,2025-12-22T01:00:00-07:00
-3.5,Edson,Fine Particulate Matter,2025-12-22T01:00:00-07:00
-2.0,Edson,,2025-12-22T01:00:00-07:00
+0.0,Edson,Nitric Oxide,2025-12-22T02:00:00-07:00
 17.0,Edson,Wind Direction,2025-12-22T01:00:00-07:00
 0.002,Edson,Nitrogen Dioxide,2025-12-22T01:00:00-07:00
 -23.0,Edson,Outdoor Temperature,2025-12-22T01:00:00-07:00
-0.029,Edson,Ozone,2025-12-22T00:00:00-07:00
--22.8,Edson,Outdoor Temperature,2025-12-22T00:00:00-07:00
-8.0,Edson,Wind Speed,2025-12-22T00:00:00-07:00
-0.002,Edson,Nitrogen Dioxide,2025-12-22T00:00:00-07:00
-2.0,Edson,,2025-12-22T00:00:00-07:00
+2.0,Edson,,2025-12-22T01:00:00-07:00
+3.5,Edson,Fine Particulate Matter,2025-12-22T01:00:00-07:00
+0.028,Edson,Ozone,2025-12-22T01:00:00-07:00
+8.1,Edson,Wind Speed,2025-12-22T01:00:00-07:00
+0.002,Edson,Total Oxides of Nitrogen,2025-12-22T01:00:00-07:00
+0.0,Edson,Nitric Oxide,2025-12-22T01:00:00-07:00
+72.7,Edson,Relative Humidity,2025-12-22T01:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2025-12-22T01:00:00-07:00
 3.5,Edson,Fine Particulate Matter,2025-12-22T00:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2025-12-22T00:00:00-07:00
 72.4,Edson,Relative Humidity,2025-12-22T00:00:00-07:00
 0.0,Edson,Nitric Oxide,2025-12-22T00:00:00-07:00
 0.002,Edson,Total Oxides of Nitrogen,2025-12-22T00:00:00-07:00
 23.0,Edson,Wind Direction,2025-12-22T00:00:00-07:00
-3.3,Edson,Fine Particulate Matter,2025-12-21T23:00:00-07:00
-0.002,Edson,Total Oxides of Nitrogen,2025-12-21T23:00:00-07:00
-18.0,Edson,Wind Direction,2025-12-21T23:00:00-07:00
--22.7,Edson,Outdoor Temperature,2025-12-21T23:00:00-07:00
-0.0,Edson,Nitric Oxide,2025-12-21T23:00:00-07:00
-0.029,Edson,Ozone,2025-12-21T23:00:00-07:00
-9.4,Edson,Wind Speed,2025-12-21T23:00:00-07:00
-0.002,Edson,Nitrogen Dioxide,2025-12-21T23:00:00-07:00
-71.8,Edson,Relative Humidity,2025-12-21T23:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2025-12-21T23:00:00-07:00
+2.0,Edson,,2025-12-22T00:00:00-07:00
+0.002,Edson,Nitrogen Dioxide,2025-12-22T00:00:00-07:00
+8.0,Edson,Wind Speed,2025-12-22T00:00:00-07:00
+-22.8,Edson,Outdoor Temperature,2025-12-22T00:00:00-07:00
+0.029,Edson,Ozone,2025-12-22T00:00:00-07:00
 2.0,Edson,,2025-12-21T23:00:00-07:00
-2.0,Edson,,2025-12-21T22:00:00-07:00
-8.9,Edson,Wind Speed,2025-12-21T22:00:00-07:00
-0.029,Edson,Ozone,2025-12-21T22:00:00-07:00
--22.4,Edson,Outdoor Temperature,2025-12-21T22:00:00-07:00
-0.0,Edson,Nitric Oxide,2025-12-21T22:00:00-07:00
-72.6,Edson,Relative Humidity,2025-12-21T22:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2025-12-21T22:00:00-07:00
-0.003,Edson,Nitrogen Dioxide,2025-12-21T22:00:00-07:00
-15.0,Edson,Wind Direction,2025-12-21T22:00:00-07:00
-3.2,Edson,Fine Particulate Matter,2025-12-21T22:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2025-12-21T23:00:00-07:00
+71.8,Edson,Relative Humidity,2025-12-21T23:00:00-07:00
+0.002,Edson,Nitrogen Dioxide,2025-12-21T23:00:00-07:00
+9.4,Edson,Wind Speed,2025-12-21T23:00:00-07:00
+0.029,Edson,Ozone,2025-12-21T23:00:00-07:00
+0.0,Edson,Nitric Oxide,2025-12-21T23:00:00-07:00
+-22.7,Edson,Outdoor Temperature,2025-12-21T23:00:00-07:00
+18.0,Edson,Wind Direction,2025-12-21T23:00:00-07:00
+0.002,Edson,Total Oxides of Nitrogen,2025-12-21T23:00:00-07:00
+3.3,Edson,Fine Particulate Matter,2025-12-21T23:00:00-07:00
 0.002,Edson,Total Oxides of Nitrogen,2025-12-21T22:00:00-07:00
+3.2,Edson,Fine Particulate Matter,2025-12-21T22:00:00-07:00
+15.0,Edson,Wind Direction,2025-12-21T22:00:00-07:00
+0.003,Edson,Nitrogen Dioxide,2025-12-21T22:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2025-12-21T22:00:00-07:00
+72.6,Edson,Relative Humidity,2025-12-21T22:00:00-07:00
+0.0,Edson,Nitric Oxide,2025-12-21T22:00:00-07:00
+-22.4,Edson,Outdoor Temperature,2025-12-21T22:00:00-07:00
+0.029,Edson,Ozone,2025-12-21T22:00:00-07:00
+8.9,Edson,Wind Speed,2025-12-21T22:00:00-07:00
+2.0,Edson,,2025-12-21T22:00:00-07:00
 2.0,Edson,,2025-12-21T21:00:00-07:00
 73.8,Edson,Relative Humidity,2025-12-21T21:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2025-12-21T21:00:00-07:00
@@ -1627,27 +1638,27 @@ Value,StationName,ParameterName,ReadingDate
 5.2,Edson,Fine Particulate Matter,2025-12-21T19:00:00-07:00
 23.0,Edson,Wind Direction,2025-12-21T19:00:00-07:00
 0.002,Edson,Total Oxides of Nitrogen,2025-12-21T19:00:00-07:00
-2.0,Edson,,2025-12-21T18:00:00-07:00
-0.002,Edson,Nitrogen Dioxide,2025-12-21T18:00:00-07:00
-0.002,Edson,Sulphur Dioxide,2025-12-21T18:00:00-07:00
-9.8,Edson,Wind Speed,2025-12-21T18:00:00-07:00
-0.03,Edson,Ozone,2025-12-21T18:00:00-07:00
--21.4,Edson,Outdoor Temperature,2025-12-21T18:00:00-07:00
-0.0,Edson,Nitric Oxide,2025-12-21T18:00:00-07:00
-73.6,Edson,Relative Humidity,2025-12-21T18:00:00-07:00
-5.1,Edson,Fine Particulate Matter,2025-12-21T18:00:00-07:00
-24.0,Edson,Wind Direction,2025-12-21T18:00:00-07:00
 0.002,Edson,Total Oxides of Nitrogen,2025-12-21T18:00:00-07:00
-2.0,Edson,,2025-12-21T17:00:00-07:00
-9.7,Edson,Wind Speed,2025-12-21T17:00:00-07:00
-0.002,Edson,Nitrogen Dioxide,2025-12-21T17:00:00-07:00
-0.002,Edson,Sulphur Dioxide,2025-12-21T17:00:00-07:00
-0.031,Edson,Ozone,2025-12-21T17:00:00-07:00
--21.0,Edson,Outdoor Temperature,2025-12-21T17:00:00-07:00
-0.0,Edson,Nitric Oxide,2025-12-21T17:00:00-07:00
-72.7,Edson,Relative Humidity,2025-12-21T17:00:00-07:00
-5.1,Edson,Fine Particulate Matter,2025-12-21T17:00:00-07:00
+24.0,Edson,Wind Direction,2025-12-21T18:00:00-07:00
+5.1,Edson,Fine Particulate Matter,2025-12-21T18:00:00-07:00
+73.6,Edson,Relative Humidity,2025-12-21T18:00:00-07:00
+0.0,Edson,Nitric Oxide,2025-12-21T18:00:00-07:00
+-21.4,Edson,Outdoor Temperature,2025-12-21T18:00:00-07:00
+0.03,Edson,Ozone,2025-12-21T18:00:00-07:00
+9.8,Edson,Wind Speed,2025-12-21T18:00:00-07:00
+0.002,Edson,Sulphur Dioxide,2025-12-21T18:00:00-07:00
+0.002,Edson,Nitrogen Dioxide,2025-12-21T18:00:00-07:00
+2.0,Edson,,2025-12-21T18:00:00-07:00
 26.0,Edson,Wind Direction,2025-12-21T17:00:00-07:00
+5.1,Edson,Fine Particulate Matter,2025-12-21T17:00:00-07:00
+72.7,Edson,Relative Humidity,2025-12-21T17:00:00-07:00
+0.0,Edson,Nitric Oxide,2025-12-21T17:00:00-07:00
+-21.0,Edson,Outdoor Temperature,2025-12-21T17:00:00-07:00
+0.031,Edson,Ozone,2025-12-21T17:00:00-07:00
+0.002,Edson,Sulphur Dioxide,2025-12-21T17:00:00-07:00
+0.002,Edson,Nitrogen Dioxide,2025-12-21T17:00:00-07:00
+9.7,Edson,Wind Speed,2025-12-21T17:00:00-07:00
+2.0,Edson,,2025-12-21T17:00:00-07:00
 0.002,Edson,Total Oxides of Nitrogen,2025-12-21T17:00:00-07:00
 2.0,Edson,,2025-12-21T16:00:00-07:00
 0.002,Edson,Sulphur Dioxide,2025-12-21T16:00:00-07:00
@@ -1715,17 +1726,17 @@ Value,StationName,ParameterName,ReadingDate
 11.1,Edson,Fine Particulate Matter,2025-12-21T11:00:00-07:00
 28.0,Edson,Wind Direction,2025-12-21T11:00:00-07:00
 0.006,Edson,Total Oxides of Nitrogen,2025-12-21T11:00:00-07:00
-0.01,Edson,Total Oxides of Nitrogen,2025-12-21T10:00:00-07:00
-50.0,Edson,Wind Direction,2025-12-21T10:00:00-07:00
-9.9,Edson,Fine Particulate Matter,2025-12-21T10:00:00-07:00
-75.7,Edson,Relative Humidity,2025-12-21T10:00:00-07:00
-0.001,Edson,Sulphur Dioxide,2025-12-21T10:00:00-07:00
--20.6,Edson,Outdoor Temperature,2025-12-21T10:00:00-07:00
-0.017,Edson,Ozone,2025-12-21T10:00:00-07:00
-0.001,Edson,Nitric Oxide,2025-12-21T10:00:00-07:00
-0.009,Edson,Nitrogen Dioxide,2025-12-21T10:00:00-07:00
-3.5,Edson,Wind Speed,2025-12-21T10:00:00-07:00
 2.0,Edson,,2025-12-21T10:00:00-07:00
+3.5,Edson,Wind Speed,2025-12-21T10:00:00-07:00
+0.009,Edson,Nitrogen Dioxide,2025-12-21T10:00:00-07:00
+0.001,Edson,Nitric Oxide,2025-12-21T10:00:00-07:00
+0.017,Edson,Ozone,2025-12-21T10:00:00-07:00
+-20.6,Edson,Outdoor Temperature,2025-12-21T10:00:00-07:00
+0.001,Edson,Sulphur Dioxide,2025-12-21T10:00:00-07:00
+75.7,Edson,Relative Humidity,2025-12-21T10:00:00-07:00
+9.9,Edson,Fine Particulate Matter,2025-12-21T10:00:00-07:00
+50.0,Edson,Wind Direction,2025-12-21T10:00:00-07:00
+0.01,Edson,Total Oxides of Nitrogen,2025-12-21T10:00:00-07:00
 2.0,Edson,,2025-12-21T09:00:00-07:00
 1.3,Edson,Wind Speed,2025-12-21T09:00:00-07:00
 0.011,Edson,Nitrogen Dioxide,2025-12-21T09:00:00-07:00
@@ -1770,14 +1781,3 @@ Value,StationName,ParameterName,ReadingDate
 0.016,Edson,Nitrogen Dioxide,2025-12-21T06:00:00-07:00
 260.0,Edson,Wind Direction,2025-12-21T06:00:00-07:00
 0.016,Edson,Total Oxides of Nitrogen,2025-12-21T06:00:00-07:00
-2.0,Edson,,2025-12-21T05:00:00-07:00
-1.0,Edson,Wind Speed,2025-12-21T05:00:00-07:00
-0.015,Edson,Ozone,2025-12-21T05:00:00-07:00
--21.9,Edson,Outdoor Temperature,2025-12-21T05:00:00-07:00
-0.0,Edson,Nitric Oxide,2025-12-21T05:00:00-07:00
-9.3,Edson,Fine Particulate Matter,2025-12-21T05:00:00-07:00
-0.014,Edson,Nitrogen Dioxide,2025-12-21T05:00:00-07:00
-75.7,Edson,Relative Humidity,2025-12-21T05:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2025-12-21T05:00:00-07:00
-244.0,Edson,Wind Direction,2025-12-21T05:00:00-07:00
-0.014,Edson,Total Oxides of Nitrogen,2025-12-21T05:00:00-07:00
