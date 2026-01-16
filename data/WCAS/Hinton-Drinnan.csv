@@ -701,25 +701,19 @@ Value,StationName,ParameterName,ReadingDate
 10.6,Hinton-Drinnan,Outdoor Temperature,2026-01-14T09:00:00-07:00
 0.0,Hinton-Drinnan,Nitric Oxide,2026-01-14T09:00:00-07:00
 0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-14T09:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-14T08:00:00-07:00
-0.0,Hinton-Drinnan,Nitric Oxide,2026-01-14T08:00:00-07:00
-10.0,Hinton-Drinnan,Outdoor Temperature,2026-01-14T08:00:00-07:00
-0.03,Hinton-Drinnan,Ozone,2026-01-14T08:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-14T08:00:00-07:00
-4.6,Hinton-Drinnan,Wind Speed,2026-01-14T08:00:00-07:00
-3.7,Hinton-Drinnan,Fine Particulate Matter,2026-01-14T08:00:00-07:00
-31.1,Hinton-Drinnan,Relative Humidity,2026-01-14T08:00:00-07:00
-0.009,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-14T08:00:00-07:00
-0.009,Hinton-Drinnan,Nitrogen Dioxide,2026-01-14T08:00:00-07:00
-0.003,Hinton-Drinnan,Sulphur Dioxide,2026-01-14T08:00:00-07:00
-266.0,Hinton-Drinnan,Wind Direction,2026-01-14T08:00:00-07:00
 2.0,Hinton-Drinnan,,2026-01-14T08:00:00-07:00
-2.0,Hinton-Drinnan,,2026-01-14T07:00:00-07:00
-10.2,Hinton-Drinnan,Outdoor Temperature,2026-01-14T07:00:00-07:00
-234.0,Hinton-Drinnan,Wind Direction,2026-01-14T07:00:00-07:00
-0.005,Hinton-Drinnan,Nitrogen Dioxide,2026-01-14T07:00:00-07:00
-0.005,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-14T07:00:00-07:00
-31.0,Hinton-Drinnan,Relative Humidity,2026-01-14T07:00:00-07:00
+266.0,Hinton-Drinnan,Wind Direction,2026-01-14T08:00:00-07:00
+0.003,Hinton-Drinnan,Sulphur Dioxide,2026-01-14T08:00:00-07:00
+0.009,Hinton-Drinnan,Nitrogen Dioxide,2026-01-14T08:00:00-07:00
+0.009,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-14T08:00:00-07:00
+31.1,Hinton-Drinnan,Relative Humidity,2026-01-14T08:00:00-07:00
+3.7,Hinton-Drinnan,Fine Particulate Matter,2026-01-14T08:00:00-07:00
+4.6,Hinton-Drinnan,Wind Speed,2026-01-14T08:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-14T08:00:00-07:00
+0.03,Hinton-Drinnan,Ozone,2026-01-14T08:00:00-07:00
+10.0,Hinton-Drinnan,Outdoor Temperature,2026-01-14T08:00:00-07:00
+0.0,Hinton-Drinnan,Nitric Oxide,2026-01-14T08:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-14T08:00:00-07:00
 0.0,Hinton-Drinnan,Nitric Oxide,2026-01-14T07:00:00-07:00
 0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-14T07:00:00-07:00
 0.033,Hinton-Drinnan,Ozone,2026-01-14T07:00:00-07:00
@@ -727,12 +721,18 @@ Value,StationName,ParameterName,ReadingDate
 0.001,Hinton-Drinnan,Sulphur Dioxide,2026-01-14T07:00:00-07:00
 6.5,Hinton-Drinnan,Wind Speed,2026-01-14T07:00:00-07:00
 3.7,Hinton-Drinnan,Fine Particulate Matter,2026-01-14T07:00:00-07:00
-2.0,Hinton-Drinnan,,2026-01-14T06:00:00-07:00
-10.8,Hinton-Drinnan,Outdoor Temperature,2026-01-14T06:00:00-07:00
-230.0,Hinton-Drinnan,Wind Direction,2026-01-14T06:00:00-07:00
-29.5,Hinton-Drinnan,Relative Humidity,2026-01-14T06:00:00-07:00
-0.002,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-14T06:00:00-07:00
+31.0,Hinton-Drinnan,Relative Humidity,2026-01-14T07:00:00-07:00
+0.005,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-14T07:00:00-07:00
+0.005,Hinton-Drinnan,Nitrogen Dioxide,2026-01-14T07:00:00-07:00
+234.0,Hinton-Drinnan,Wind Direction,2026-01-14T07:00:00-07:00
+10.2,Hinton-Drinnan,Outdoor Temperature,2026-01-14T07:00:00-07:00
+2.0,Hinton-Drinnan,,2026-01-14T07:00:00-07:00
 0.002,Hinton-Drinnan,Nitrogen Dioxide,2026-01-14T06:00:00-07:00
+0.002,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-14T06:00:00-07:00
+29.5,Hinton-Drinnan,Relative Humidity,2026-01-14T06:00:00-07:00
+230.0,Hinton-Drinnan,Wind Direction,2026-01-14T06:00:00-07:00
+10.8,Hinton-Drinnan,Outdoor Temperature,2026-01-14T06:00:00-07:00
+2.0,Hinton-Drinnan,,2026-01-14T06:00:00-07:00
 1.1,Hinton-Drinnan,Fine Particulate Matter,2026-01-14T06:00:00-07:00
 10.9,Hinton-Drinnan,Wind Speed,2026-01-14T06:00:00-07:00
 0.001,Hinton-Drinnan,Sulphur Dioxide,2026-01-14T06:00:00-07:00
@@ -740,32 +740,32 @@ Value,StationName,ParameterName,ReadingDate
 0.037,Hinton-Drinnan,Ozone,2026-01-14T06:00:00-07:00
 0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-14T06:00:00-07:00
 0.0,Hinton-Drinnan,Nitric Oxide,2026-01-14T06:00:00-07:00
-2.0,Hinton-Drinnan,,2026-01-14T05:00:00-07:00
-0.036,Hinton-Drinnan,Ozone,2026-01-14T05:00:00-07:00
-239.0,Hinton-Drinnan,Wind Direction,2026-01-14T05:00:00-07:00
-32.8,Hinton-Drinnan,Relative Humidity,2026-01-14T05:00:00-07:00
-0.002,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-14T05:00:00-07:00
-0.002,Hinton-Drinnan,Nitrogen Dioxide,2026-01-14T05:00:00-07:00
-1.5,Hinton-Drinnan,Fine Particulate Matter,2026-01-14T05:00:00-07:00
-6.6,Hinton-Drinnan,Wind Speed,2026-01-14T05:00:00-07:00
-0.001,Hinton-Drinnan,Sulphur Dioxide,2026-01-14T05:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-14T05:00:00-07:00
-0.0,Hinton-Drinnan,Nitric Oxide,2026-01-14T05:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-14T05:00:00-07:00
 10.1,Hinton-Drinnan,Outdoor Temperature,2026-01-14T05:00:00-07:00
-10.0,Hinton-Drinnan,Outdoor Temperature,2026-01-14T04:00:00-07:00
-,Hinton-Drinnan,Ozone,2026-01-14T04:00:00-07:00
-,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-14T04:00:00-07:00
-,Hinton-Drinnan,Nitric Oxide,2026-01-14T04:00:00-07:00
-,Hinton-Drinnan,Nitrogen Dioxide,2026-01-14T04:00:00-07:00
-,Hinton-Drinnan,Sulphur Dioxide,2026-01-14T04:00:00-07:00
-,Hinton-Drinnan,Total Reduced Sulphur,2026-01-14T04:00:00-07:00
-,Hinton-Drinnan,Hydrogen Sulphide,2026-01-14T04:00:00-07:00
-5.7,Hinton-Drinnan,Wind Speed,2026-01-14T04:00:00-07:00
-3.0,Hinton-Drinnan,Fine Particulate Matter,2026-01-14T04:00:00-07:00
-34.5,Hinton-Drinnan,Relative Humidity,2026-01-14T04:00:00-07:00
-239.0,Hinton-Drinnan,Wind Direction,2026-01-14T04:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-14T05:00:00-07:00
+0.0,Hinton-Drinnan,Nitric Oxide,2026-01-14T05:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-14T05:00:00-07:00
+0.001,Hinton-Drinnan,Sulphur Dioxide,2026-01-14T05:00:00-07:00
+6.6,Hinton-Drinnan,Wind Speed,2026-01-14T05:00:00-07:00
+1.5,Hinton-Drinnan,Fine Particulate Matter,2026-01-14T05:00:00-07:00
+0.002,Hinton-Drinnan,Nitrogen Dioxide,2026-01-14T05:00:00-07:00
+0.002,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-14T05:00:00-07:00
+32.8,Hinton-Drinnan,Relative Humidity,2026-01-14T05:00:00-07:00
+239.0,Hinton-Drinnan,Wind Direction,2026-01-14T05:00:00-07:00
+0.036,Hinton-Drinnan,Ozone,2026-01-14T05:00:00-07:00
+2.0,Hinton-Drinnan,,2026-01-14T05:00:00-07:00
 2.0,Hinton-Drinnan,,2026-01-14T04:00:00-07:00
+239.0,Hinton-Drinnan,Wind Direction,2026-01-14T04:00:00-07:00
+34.5,Hinton-Drinnan,Relative Humidity,2026-01-14T04:00:00-07:00
+3.0,Hinton-Drinnan,Fine Particulate Matter,2026-01-14T04:00:00-07:00
+5.7,Hinton-Drinnan,Wind Speed,2026-01-14T04:00:00-07:00
+,Hinton-Drinnan,Hydrogen Sulphide,2026-01-14T04:00:00-07:00
+,Hinton-Drinnan,Total Reduced Sulphur,2026-01-14T04:00:00-07:00
+,Hinton-Drinnan,Sulphur Dioxide,2026-01-14T04:00:00-07:00
+,Hinton-Drinnan,Nitrogen Dioxide,2026-01-14T04:00:00-07:00
+,Hinton-Drinnan,Nitric Oxide,2026-01-14T04:00:00-07:00
+,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-14T04:00:00-07:00
+,Hinton-Drinnan,Ozone,2026-01-14T04:00:00-07:00
+10.0,Hinton-Drinnan,Outdoor Temperature,2026-01-14T04:00:00-07:00
 2.0,Hinton-Drinnan,,2026-01-14T03:00:00-07:00
 10.4,Hinton-Drinnan,Outdoor Temperature,2026-01-14T03:00:00-07:00
 227.0,Hinton-Drinnan,Wind Direction,2026-01-14T03:00:00-07:00
@@ -776,9 +776,9 @@ Value,StationName,ParameterName,ReadingDate
 36.6,Hinton-Drinnan,Relative Humidity,2026-01-14T03:00:00-07:00
 3.5,Hinton-Drinnan,Fine Particulate Matter,2026-01-14T03:00:00-07:00
 8.3,Hinton-Drinnan,Wind Speed,2026-01-14T03:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-14T03:00:00-07:00
-0.029,Hinton-Drinnan,Ozone,2026-01-14T03:00:00-07:00
 0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-14T03:00:00-07:00
+0.029,Hinton-Drinnan,Ozone,2026-01-14T03:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-14T03:00:00-07:00
 2.0,Hinton-Drinnan,,2026-01-14T02:00:00-07:00
 230.0,Hinton-Drinnan,Wind Direction,2026-01-14T02:00:00-07:00
 0.003,Hinton-Drinnan,Sulphur Dioxide,2026-01-14T02:00:00-07:00
@@ -896,19 +896,19 @@ Value,StationName,ParameterName,ReadingDate
 0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-13T18:00:00-07:00
 0.001,Hinton-Drinnan,Sulphur Dioxide,2026-01-13T18:00:00-07:00
 0.007,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-13T18:00:00-07:00
-2.0,Hinton-Drinnan,,2026-01-13T17:00:00-07:00
-9.2,Hinton-Drinnan,Outdoor Temperature,2026-01-13T17:00:00-07:00
-48.8,Hinton-Drinnan,Relative Humidity,2026-01-13T17:00:00-07:00
-0.031,Hinton-Drinnan,Ozone,2026-01-13T17:00:00-07:00
-222.0,Hinton-Drinnan,Wind Direction,2026-01-13T17:00:00-07:00
-7.6,Hinton-Drinnan,Wind Speed,2026-01-13T17:00:00-07:00
-2.1,Hinton-Drinnan,Fine Particulate Matter,2026-01-13T17:00:00-07:00
-0.0,Hinton-Drinnan,Nitric Oxide,2026-01-13T17:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-13T17:00:00-07:00
-0.006,Hinton-Drinnan,Nitrogen Dioxide,2026-01-13T17:00:00-07:00
-0.006,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-13T17:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-13T17:00:00-07:00
 0.001,Hinton-Drinnan,Sulphur Dioxide,2026-01-13T17:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-13T17:00:00-07:00
+0.006,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-13T17:00:00-07:00
+0.006,Hinton-Drinnan,Nitrogen Dioxide,2026-01-13T17:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-13T17:00:00-07:00
+0.0,Hinton-Drinnan,Nitric Oxide,2026-01-13T17:00:00-07:00
+2.1,Hinton-Drinnan,Fine Particulate Matter,2026-01-13T17:00:00-07:00
+7.6,Hinton-Drinnan,Wind Speed,2026-01-13T17:00:00-07:00
+222.0,Hinton-Drinnan,Wind Direction,2026-01-13T17:00:00-07:00
+0.031,Hinton-Drinnan,Ozone,2026-01-13T17:00:00-07:00
+48.8,Hinton-Drinnan,Relative Humidity,2026-01-13T17:00:00-07:00
+9.2,Hinton-Drinnan,Outdoor Temperature,2026-01-13T17:00:00-07:00
+2.0,Hinton-Drinnan,,2026-01-13T17:00:00-07:00
 2.0,Hinton-Drinnan,,2026-01-13T16:00:00-07:00
 0.007,Hinton-Drinnan,Nitrogen Dioxide,2026-01-13T16:00:00-07:00
 0.008,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-13T16:00:00-07:00
@@ -1000,7 +1000,6 @@ Value,StationName,ParameterName,ReadingDate
 0.003,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-13T10:00:00-07:00
 0.003,Hinton-Drinnan,Nitrogen Dioxide,2026-01-13T10:00:00-07:00
 2.0,Hinton-Drinnan,,2026-01-13T10:00:00-07:00
-2.0,Hinton-Drinnan,,2026-01-13T09:00:00-07:00
 0.007,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-13T09:00:00-07:00
 0.002,Hinton-Drinnan,Sulphur Dioxide,2026-01-13T09:00:00-07:00
 0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-13T09:00:00-07:00
@@ -1013,25 +1012,22 @@ Value,StationName,ParameterName,ReadingDate
 51.3,Hinton-Drinnan,Relative Humidity,2026-01-13T09:00:00-07:00
 6.6,Hinton-Drinnan,Outdoor Temperature,2026-01-13T09:00:00-07:00
 0.007,Hinton-Drinnan,Nitrogen Dioxide,2026-01-13T09:00:00-07:00
+2.0,Hinton-Drinnan,,2026-01-13T09:00:00-07:00
 0.002,Hinton-Drinnan,Sulphur Dioxide,2026-01-13T08:00:00-07:00
 0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-13T08:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-13T08:00:00-07:00
-0.0,Hinton-Drinnan,Nitric Oxide,2026-01-13T08:00:00-07:00
-1.6,Hinton-Drinnan,Fine Particulate Matter,2026-01-13T08:00:00-07:00
-4.6,Hinton-Drinnan,Wind Speed,2026-01-13T08:00:00-07:00
-0.005,Hinton-Drinnan,Nitrogen Dioxide,2026-01-13T08:00:00-07:00
-260.0,Hinton-Drinnan,Wind Direction,2026-01-13T08:00:00-07:00
-0.005,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-13T08:00:00-07:00
-0.033,Hinton-Drinnan,Ozone,2026-01-13T08:00:00-07:00
-51.5,Hinton-Drinnan,Relative Humidity,2026-01-13T08:00:00-07:00
-6.4,Hinton-Drinnan,Outdoor Temperature,2026-01-13T08:00:00-07:00
 2.0,Hinton-Drinnan,,2026-01-13T08:00:00-07:00
-0.002,Hinton-Drinnan,Sulphur Dioxide,2026-01-13T07:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-13T07:00:00-07:00
-0.001,Hinton-Drinnan,Nitric Oxide,2026-01-13T07:00:00-07:00
-0.006,Hinton-Drinnan,Nitrogen Dioxide,2026-01-13T07:00:00-07:00
-2.0,Hinton-Drinnan,,2026-01-13T07:00:00-07:00
+6.4,Hinton-Drinnan,Outdoor Temperature,2026-01-13T08:00:00-07:00
+51.5,Hinton-Drinnan,Relative Humidity,2026-01-13T08:00:00-07:00
+0.033,Hinton-Drinnan,Ozone,2026-01-13T08:00:00-07:00
+0.005,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-13T08:00:00-07:00
+260.0,Hinton-Drinnan,Wind Direction,2026-01-13T08:00:00-07:00
+0.005,Hinton-Drinnan,Nitrogen Dioxide,2026-01-13T08:00:00-07:00
+4.6,Hinton-Drinnan,Wind Speed,2026-01-13T08:00:00-07:00
+1.6,Hinton-Drinnan,Fine Particulate Matter,2026-01-13T08:00:00-07:00
+0.0,Hinton-Drinnan,Nitric Oxide,2026-01-13T08:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-13T08:00:00-07:00
 0.008,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-13T07:00:00-07:00
+2.0,Hinton-Drinnan,,2026-01-13T07:00:00-07:00
 7.2,Hinton-Drinnan,Outdoor Temperature,2026-01-13T07:00:00-07:00
 46.7,Hinton-Drinnan,Relative Humidity,2026-01-13T07:00:00-07:00
 0.033,Hinton-Drinnan,Ozone,2026-01-13T07:00:00-07:00
@@ -1039,58 +1035,62 @@ Value,StationName,ParameterName,ReadingDate
 8.7,Hinton-Drinnan,Wind Speed,2026-01-13T07:00:00-07:00
 2.1,Hinton-Drinnan,Fine Particulate Matter,2026-01-13T07:00:00-07:00
 0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-13T07:00:00-07:00
-0.002,Hinton-Drinnan,Nitric Oxide,2026-01-13T06:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-13T06:00:00-07:00
-0.001,Hinton-Drinnan,Total Reduced Sulphur,2026-01-13T06:00:00-07:00
-4.9,Hinton-Drinnan,Fine Particulate Matter,2026-01-13T06:00:00-07:00
-5.9,Hinton-Drinnan,Wind Speed,2026-01-13T06:00:00-07:00
-0.013,Hinton-Drinnan,Nitrogen Dioxide,2026-01-13T06:00:00-07:00
-235.0,Hinton-Drinnan,Wind Direction,2026-01-13T06:00:00-07:00
-0.004,Hinton-Drinnan,Sulphur Dioxide,2026-01-13T06:00:00-07:00
-0.015,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-13T06:00:00-07:00
-0.026,Hinton-Drinnan,Ozone,2026-01-13T06:00:00-07:00
-49.4,Hinton-Drinnan,Relative Humidity,2026-01-13T06:00:00-07:00
-6.8,Hinton-Drinnan,Outdoor Temperature,2026-01-13T06:00:00-07:00
+0.006,Hinton-Drinnan,Nitrogen Dioxide,2026-01-13T07:00:00-07:00
+0.001,Hinton-Drinnan,Nitric Oxide,2026-01-13T07:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-13T07:00:00-07:00
+0.002,Hinton-Drinnan,Sulphur Dioxide,2026-01-13T07:00:00-07:00
 2.0,Hinton-Drinnan,,2026-01-13T06:00:00-07:00
+6.8,Hinton-Drinnan,Outdoor Temperature,2026-01-13T06:00:00-07:00
+49.4,Hinton-Drinnan,Relative Humidity,2026-01-13T06:00:00-07:00
+0.026,Hinton-Drinnan,Ozone,2026-01-13T06:00:00-07:00
+0.015,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-13T06:00:00-07:00
+0.004,Hinton-Drinnan,Sulphur Dioxide,2026-01-13T06:00:00-07:00
+235.0,Hinton-Drinnan,Wind Direction,2026-01-13T06:00:00-07:00
+0.013,Hinton-Drinnan,Nitrogen Dioxide,2026-01-13T06:00:00-07:00
+5.9,Hinton-Drinnan,Wind Speed,2026-01-13T06:00:00-07:00
+4.9,Hinton-Drinnan,Fine Particulate Matter,2026-01-13T06:00:00-07:00
+0.001,Hinton-Drinnan,Total Reduced Sulphur,2026-01-13T06:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-13T06:00:00-07:00
+0.002,Hinton-Drinnan,Nitric Oxide,2026-01-13T06:00:00-07:00
+0.004,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-13T05:00:00-07:00
+0.034,Hinton-Drinnan,Ozone,2026-01-13T05:00:00-07:00
 52.1,Hinton-Drinnan,Relative Humidity,2026-01-13T05:00:00-07:00
 6.2,Hinton-Drinnan,Outdoor Temperature,2026-01-13T05:00:00-07:00
 0.001,Hinton-Drinnan,Sulphur Dioxide,2026-01-13T05:00:00-07:00
 0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-13T05:00:00-07:00
-0.001,Hinton-Drinnan,Nitric Oxide,2026-01-13T05:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-13T05:00:00-07:00
-1.9,Hinton-Drinnan,Fine Particulate Matter,2026-01-13T05:00:00-07:00
-4.2,Hinton-Drinnan,Wind Speed,2026-01-13T05:00:00-07:00
-0.004,Hinton-Drinnan,Nitrogen Dioxide,2026-01-13T05:00:00-07:00
-245.0,Hinton-Drinnan,Wind Direction,2026-01-13T05:00:00-07:00
 2.0,Hinton-Drinnan,,2026-01-13T05:00:00-07:00
-0.034,Hinton-Drinnan,Ozone,2026-01-13T05:00:00-07:00
-0.004,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-13T05:00:00-07:00
-2.0,Hinton-Drinnan,,2026-01-13T04:00:00-07:00
-5.7,Hinton-Drinnan,Outdoor Temperature,2026-01-13T04:00:00-07:00
-55.6,Hinton-Drinnan,Relative Humidity,2026-01-13T04:00:00-07:00
-,Hinton-Drinnan,Total Reduced Sulphur,2026-01-13T04:00:00-07:00
-,Hinton-Drinnan,Sulphur Dioxide,2026-01-13T04:00:00-07:00
-,Hinton-Drinnan,Hydrogen Sulphide,2026-01-13T04:00:00-07:00
-,Hinton-Drinnan,Ozone,2026-01-13T04:00:00-07:00
-,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-13T04:00:00-07:00
+245.0,Hinton-Drinnan,Wind Direction,2026-01-13T05:00:00-07:00
+0.004,Hinton-Drinnan,Nitrogen Dioxide,2026-01-13T05:00:00-07:00
+4.2,Hinton-Drinnan,Wind Speed,2026-01-13T05:00:00-07:00
+1.9,Hinton-Drinnan,Fine Particulate Matter,2026-01-13T05:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-13T05:00:00-07:00
+0.001,Hinton-Drinnan,Nitric Oxide,2026-01-13T05:00:00-07:00
 ,Hinton-Drinnan,Nitric Oxide,2026-01-13T04:00:00-07:00
+,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-13T04:00:00-07:00
+,Hinton-Drinnan,Ozone,2026-01-13T04:00:00-07:00
+,Hinton-Drinnan,Hydrogen Sulphide,2026-01-13T04:00:00-07:00
+,Hinton-Drinnan,Sulphur Dioxide,2026-01-13T04:00:00-07:00
+,Hinton-Drinnan,Total Reduced Sulphur,2026-01-13T04:00:00-07:00
+55.6,Hinton-Drinnan,Relative Humidity,2026-01-13T04:00:00-07:00
+5.7,Hinton-Drinnan,Outdoor Temperature,2026-01-13T04:00:00-07:00
+2.0,Hinton-Drinnan,,2026-01-13T04:00:00-07:00
 2.1,Hinton-Drinnan,Fine Particulate Matter,2026-01-13T04:00:00-07:00
 4.8,Hinton-Drinnan,Wind Speed,2026-01-13T04:00:00-07:00
 ,Hinton-Drinnan,Nitrogen Dioxide,2026-01-13T04:00:00-07:00
 249.0,Hinton-Drinnan,Wind Direction,2026-01-13T04:00:00-07:00
-0.031,Hinton-Drinnan,Ozone,2026-01-13T03:00:00-07:00
-0.004,Hinton-Drinnan,Sulphur Dioxide,2026-01-13T03:00:00-07:00
-253.0,Hinton-Drinnan,Wind Direction,2026-01-13T03:00:00-07:00
-0.005,Hinton-Drinnan,Nitrogen Dioxide,2026-01-13T03:00:00-07:00
-5.6,Hinton-Drinnan,Wind Speed,2026-01-13T03:00:00-07:00
-1.9,Hinton-Drinnan,Fine Particulate Matter,2026-01-13T03:00:00-07:00
-0.0,Hinton-Drinnan,Nitric Oxide,2026-01-13T03:00:00-07:00
 0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-13T03:00:00-07:00
-0.006,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-13T03:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-13T03:00:00-07:00
+0.0,Hinton-Drinnan,Nitric Oxide,2026-01-13T03:00:00-07:00
+1.9,Hinton-Drinnan,Fine Particulate Matter,2026-01-13T03:00:00-07:00
+5.6,Hinton-Drinnan,Wind Speed,2026-01-13T03:00:00-07:00
+0.005,Hinton-Drinnan,Nitrogen Dioxide,2026-01-13T03:00:00-07:00
+253.0,Hinton-Drinnan,Wind Direction,2026-01-13T03:00:00-07:00
+0.004,Hinton-Drinnan,Sulphur Dioxide,2026-01-13T03:00:00-07:00
+0.031,Hinton-Drinnan,Ozone,2026-01-13T03:00:00-07:00
 55.1,Hinton-Drinnan,Relative Humidity,2026-01-13T03:00:00-07:00
 6.3,Hinton-Drinnan,Outdoor Temperature,2026-01-13T03:00:00-07:00
 2.0,Hinton-Drinnan,,2026-01-13T03:00:00-07:00
+0.006,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-13T03:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-13T03:00:00-07:00
 2.0,Hinton-Drinnan,,2026-01-13T02:00:00-07:00
 0.0,Hinton-Drinnan,Nitric Oxide,2026-01-13T02:00:00-07:00
 0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-13T02:00:00-07:00
@@ -1112,9 +1112,9 @@ Value,StationName,ParameterName,ReadingDate
 2.1,Hinton-Drinnan,Wind Speed,2026-01-13T01:00:00-07:00
 10.2,Hinton-Drinnan,Fine Particulate Matter,2026-01-13T01:00:00-07:00
 0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-13T01:00:00-07:00
-0.001,Hinton-Drinnan,Sulphur Dioxide,2026-01-13T01:00:00-07:00
-0.003,Hinton-Drinnan,Nitric Oxide,2026-01-13T01:00:00-07:00
 1.3,Hinton-Drinnan,Outdoor Temperature,2026-01-13T01:00:00-07:00
+0.003,Hinton-Drinnan,Nitric Oxide,2026-01-13T01:00:00-07:00
+0.001,Hinton-Drinnan,Sulphur Dioxide,2026-01-13T01:00:00-07:00
 0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-13T01:00:00-07:00
 2.0,Hinton-Drinnan,,2026-01-13T01:00:00-07:00
 0.011,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-13T00:00:00-07:00
@@ -1611,58 +1611,58 @@ Value,StationName,ParameterName,ReadingDate
 0.006,Hinton-Drinnan,Sulphur Dioxide,2026-01-11T11:00:00-07:00
 41.9,Hinton-Drinnan,Relative Humidity,2026-01-11T11:00:00-07:00
 0.001,Hinton-Drinnan,Nitric Oxide,2026-01-11T11:00:00-07:00
-4.0,Hinton-Drinnan,Fine Particulate Matter,2026-01-11T10:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-11T10:00:00-07:00
-5.0,Hinton-Drinnan,Outdoor Temperature,2026-01-11T10:00:00-07:00
-7.2,Hinton-Drinnan,Wind Speed,2026-01-11T10:00:00-07:00
-254.0,Hinton-Drinnan,Wind Direction,2026-01-11T10:00:00-07:00
-3.0,Hinton-Drinnan,,2026-01-11T10:00:00-07:00
-0.009,Hinton-Drinnan,Nitrogen Dioxide,2026-01-11T10:00:00-07:00
-0.01,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-11T10:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-11T10:00:00-07:00
-0.006,Hinton-Drinnan,Sulphur Dioxide,2026-01-11T10:00:00-07:00
-0.031,Hinton-Drinnan,Ozone,2026-01-11T10:00:00-07:00
-42.6,Hinton-Drinnan,Relative Humidity,2026-01-11T10:00:00-07:00
 0.001,Hinton-Drinnan,Nitric Oxide,2026-01-11T10:00:00-07:00
-42.9,Hinton-Drinnan,Relative Humidity,2026-01-11T09:00:00-07:00
-0.031,Hinton-Drinnan,Ozone,2026-01-11T09:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-11T09:00:00-07:00
-0.0,Hinton-Drinnan,Nitric Oxide,2026-01-11T09:00:00-07:00
-0.009,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-11T09:00:00-07:00
-0.005,Hinton-Drinnan,Sulphur Dioxide,2026-01-11T09:00:00-07:00
-0.008,Hinton-Drinnan,Nitrogen Dioxide,2026-01-11T09:00:00-07:00
-4.6,Hinton-Drinnan,Outdoor Temperature,2026-01-11T09:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-11T09:00:00-07:00
-6.1,Hinton-Drinnan,Wind Speed,2026-01-11T09:00:00-07:00
-250.0,Hinton-Drinnan,Wind Direction,2026-01-11T09:00:00-07:00
-2.0,Hinton-Drinnan,,2026-01-11T09:00:00-07:00
+42.6,Hinton-Drinnan,Relative Humidity,2026-01-11T10:00:00-07:00
+0.031,Hinton-Drinnan,Ozone,2026-01-11T10:00:00-07:00
+0.006,Hinton-Drinnan,Sulphur Dioxide,2026-01-11T10:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-11T10:00:00-07:00
+0.01,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-11T10:00:00-07:00
+0.009,Hinton-Drinnan,Nitrogen Dioxide,2026-01-11T10:00:00-07:00
+3.0,Hinton-Drinnan,,2026-01-11T10:00:00-07:00
+254.0,Hinton-Drinnan,Wind Direction,2026-01-11T10:00:00-07:00
+7.2,Hinton-Drinnan,Wind Speed,2026-01-11T10:00:00-07:00
+5.0,Hinton-Drinnan,Outdoor Temperature,2026-01-11T10:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-11T10:00:00-07:00
+4.0,Hinton-Drinnan,Fine Particulate Matter,2026-01-11T10:00:00-07:00
 3.6,Hinton-Drinnan,Fine Particulate Matter,2026-01-11T09:00:00-07:00
+2.0,Hinton-Drinnan,,2026-01-11T09:00:00-07:00
+250.0,Hinton-Drinnan,Wind Direction,2026-01-11T09:00:00-07:00
+6.1,Hinton-Drinnan,Wind Speed,2026-01-11T09:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-11T09:00:00-07:00
+4.6,Hinton-Drinnan,Outdoor Temperature,2026-01-11T09:00:00-07:00
+0.008,Hinton-Drinnan,Nitrogen Dioxide,2026-01-11T09:00:00-07:00
+0.005,Hinton-Drinnan,Sulphur Dioxide,2026-01-11T09:00:00-07:00
+0.009,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-11T09:00:00-07:00
+0.0,Hinton-Drinnan,Nitric Oxide,2026-01-11T09:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-11T09:00:00-07:00
+0.031,Hinton-Drinnan,Ozone,2026-01-11T09:00:00-07:00
+42.9,Hinton-Drinnan,Relative Humidity,2026-01-11T09:00:00-07:00
 3.9,Hinton-Drinnan,Fine Particulate Matter,2026-01-11T08:00:00-07:00
 3.0,Hinton-Drinnan,,2026-01-11T08:00:00-07:00
 239.0,Hinton-Drinnan,Wind Direction,2026-01-11T08:00:00-07:00
-41.5,Hinton-Drinnan,Relative Humidity,2026-01-11T08:00:00-07:00
-0.005,Hinton-Drinnan,Sulphur Dioxide,2026-01-11T08:00:00-07:00
-0.008,Hinton-Drinnan,Nitrogen Dioxide,2026-01-11T08:00:00-07:00
-0.0,Hinton-Drinnan,Nitric Oxide,2026-01-11T08:00:00-07:00
-0.008,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-11T08:00:00-07:00
-4.8,Hinton-Drinnan,Outdoor Temperature,2026-01-11T08:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-11T08:00:00-07:00
-0.001,Hinton-Drinnan,Total Reduced Sulphur,2026-01-11T08:00:00-07:00
-0.032,Hinton-Drinnan,Ozone,2026-01-11T08:00:00-07:00
 9.9,Hinton-Drinnan,Wind Speed,2026-01-11T08:00:00-07:00
-40.7,Hinton-Drinnan,Relative Humidity,2026-01-11T07:00:00-07:00
-0.006,Hinton-Drinnan,Sulphur Dioxide,2026-01-11T07:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-11T07:00:00-07:00
-0.0,Hinton-Drinnan,Nitric Oxide,2026-01-11T07:00:00-07:00
-0.007,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-11T07:00:00-07:00
-0.006,Hinton-Drinnan,Nitrogen Dioxide,2026-01-11T07:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-11T07:00:00-07:00
-0.034,Hinton-Drinnan,Ozone,2026-01-11T07:00:00-07:00
-4.8,Hinton-Drinnan,Outdoor Temperature,2026-01-11T07:00:00-07:00
-13.6,Hinton-Drinnan,Wind Speed,2026-01-11T07:00:00-07:00
-238.0,Hinton-Drinnan,Wind Direction,2026-01-11T07:00:00-07:00
-3.0,Hinton-Drinnan,,2026-01-11T07:00:00-07:00
+0.032,Hinton-Drinnan,Ozone,2026-01-11T08:00:00-07:00
+0.001,Hinton-Drinnan,Total Reduced Sulphur,2026-01-11T08:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-11T08:00:00-07:00
+4.8,Hinton-Drinnan,Outdoor Temperature,2026-01-11T08:00:00-07:00
+0.008,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-11T08:00:00-07:00
+0.0,Hinton-Drinnan,Nitric Oxide,2026-01-11T08:00:00-07:00
+0.008,Hinton-Drinnan,Nitrogen Dioxide,2026-01-11T08:00:00-07:00
+0.005,Hinton-Drinnan,Sulphur Dioxide,2026-01-11T08:00:00-07:00
+41.5,Hinton-Drinnan,Relative Humidity,2026-01-11T08:00:00-07:00
 4.9,Hinton-Drinnan,Fine Particulate Matter,2026-01-11T07:00:00-07:00
+3.0,Hinton-Drinnan,,2026-01-11T07:00:00-07:00
+238.0,Hinton-Drinnan,Wind Direction,2026-01-11T07:00:00-07:00
+13.6,Hinton-Drinnan,Wind Speed,2026-01-11T07:00:00-07:00
+4.8,Hinton-Drinnan,Outdoor Temperature,2026-01-11T07:00:00-07:00
+0.034,Hinton-Drinnan,Ozone,2026-01-11T07:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-11T07:00:00-07:00
+0.006,Hinton-Drinnan,Nitrogen Dioxide,2026-01-11T07:00:00-07:00
+0.007,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-11T07:00:00-07:00
+0.0,Hinton-Drinnan,Nitric Oxide,2026-01-11T07:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-11T07:00:00-07:00
+0.006,Hinton-Drinnan,Sulphur Dioxide,2026-01-11T07:00:00-07:00
+40.7,Hinton-Drinnan,Relative Humidity,2026-01-11T07:00:00-07:00
 7.4,Hinton-Drinnan,Fine Particulate Matter,2026-01-11T06:00:00-07:00
 3.0,Hinton-Drinnan,,2026-01-11T06:00:00-07:00
 245.0,Hinton-Drinnan,Wind Direction,2026-01-11T06:00:00-07:00
@@ -1699,22 +1699,22 @@ Value,StationName,ParameterName,ReadingDate
 ,Hinton-Drinnan,Nitric Oxide,2026-01-11T04:00:00-07:00
 ,Hinton-Drinnan,Sulphur Dioxide,2026-01-11T04:00:00-07:00
 ,Hinton-Drinnan,Nitrogen Dioxide,2026-01-11T04:00:00-07:00
-,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-11T04:00:00-07:00
-,Hinton-Drinnan,Hydrogen Sulphide,2026-01-11T04:00:00-07:00
 ,Hinton-Drinnan,Total Reduced Sulphur,2026-01-11T04:00:00-07:00
-2.0,Hinton-Drinnan,Fine Particulate Matter,2026-01-11T03:00:00-07:00
-2.0,Hinton-Drinnan,,2026-01-11T03:00:00-07:00
-234.0,Hinton-Drinnan,Wind Direction,2026-01-11T03:00:00-07:00
-11.5,Hinton-Drinnan,Wind Speed,2026-01-11T03:00:00-07:00
-4.5,Hinton-Drinnan,Outdoor Temperature,2026-01-11T03:00:00-07:00
-0.035,Hinton-Drinnan,Ozone,2026-01-11T03:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-11T03:00:00-07:00
-0.005,Hinton-Drinnan,Nitrogen Dioxide,2026-01-11T03:00:00-07:00
-0.004,Hinton-Drinnan,Sulphur Dioxide,2026-01-11T03:00:00-07:00
-0.005,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-11T03:00:00-07:00
-0.0,Hinton-Drinnan,Nitric Oxide,2026-01-11T03:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-11T03:00:00-07:00
+,Hinton-Drinnan,Hydrogen Sulphide,2026-01-11T04:00:00-07:00
+,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-11T04:00:00-07:00
 42.1,Hinton-Drinnan,Relative Humidity,2026-01-11T03:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-11T03:00:00-07:00
+0.0,Hinton-Drinnan,Nitric Oxide,2026-01-11T03:00:00-07:00
+0.005,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-11T03:00:00-07:00
+0.004,Hinton-Drinnan,Sulphur Dioxide,2026-01-11T03:00:00-07:00
+0.005,Hinton-Drinnan,Nitrogen Dioxide,2026-01-11T03:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-11T03:00:00-07:00
+0.035,Hinton-Drinnan,Ozone,2026-01-11T03:00:00-07:00
+4.5,Hinton-Drinnan,Outdoor Temperature,2026-01-11T03:00:00-07:00
+11.5,Hinton-Drinnan,Wind Speed,2026-01-11T03:00:00-07:00
+234.0,Hinton-Drinnan,Wind Direction,2026-01-11T03:00:00-07:00
+2.0,Hinton-Drinnan,,2026-01-11T03:00:00-07:00
+2.0,Hinton-Drinnan,Fine Particulate Matter,2026-01-11T03:00:00-07:00
 2.0,Hinton-Drinnan,,2026-01-11T02:00:00-07:00
 3.1,Hinton-Drinnan,Fine Particulate Matter,2026-01-11T02:00:00-07:00
 0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-11T02:00:00-07:00
@@ -1780,58 +1780,58 @@ Value,StationName,ParameterName,ReadingDate
 2.5,Hinton-Drinnan,Outdoor Temperature,2026-01-10T22:00:00-07:00
 0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-10T22:00:00-07:00
 61.6,Hinton-Drinnan,Relative Humidity,2026-01-10T22:00:00-07:00
-0.0,Hinton-Drinnan,Nitric Oxide,2026-01-10T21:00:00-07:00
-0.002,Hinton-Drinnan,Sulphur Dioxide,2026-01-10T21:00:00-07:00
-2.9,Hinton-Drinnan,Outdoor Temperature,2026-01-10T21:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-10T21:00:00-07:00
-0.004,Hinton-Drinnan,Nitrogen Dioxide,2026-01-10T21:00:00-07:00
-263.0,Hinton-Drinnan,Wind Direction,2026-01-10T21:00:00-07:00
-0.0,Hinton-Drinnan,Hydrogen Sulphide,2026-01-10T21:00:00-07:00
-0.004,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-10T21:00:00-07:00
-0.035,Hinton-Drinnan,Ozone,2026-01-10T21:00:00-07:00
-60.4,Hinton-Drinnan,Relative Humidity,2026-01-10T21:00:00-07:00
 1.6,Hinton-Drinnan,Fine Particulate Matter,2026-01-10T21:00:00-07:00
 2.0,Hinton-Drinnan,,2026-01-10T21:00:00-07:00
 2.3,Hinton-Drinnan,Wind Speed,2026-01-10T21:00:00-07:00
-1.4,Hinton-Drinnan,Fine Particulate Matter,2026-01-10T20:00:00-07:00
-2.0,Hinton-Drinnan,,2026-01-10T20:00:00-07:00
-3.3,Hinton-Drinnan,Wind Speed,2026-01-10T20:00:00-07:00
-0.038,Hinton-Drinnan,Ozone,2026-01-10T20:00:00-07:00
-284.0,Hinton-Drinnan,Wind Direction,2026-01-10T20:00:00-07:00
-0.0,Hinton-Drinnan,Hydrogen Sulphide,2026-01-10T20:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-10T20:00:00-07:00
-0.001,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-10T20:00:00-07:00
-0.001,Hinton-Drinnan,Nitrogen Dioxide,2026-01-10T20:00:00-07:00
-0.001,Hinton-Drinnan,Sulphur Dioxide,2026-01-10T20:00:00-07:00
-59.7,Hinton-Drinnan,Relative Humidity,2026-01-10T20:00:00-07:00
-3.1,Hinton-Drinnan,Outdoor Temperature,2026-01-10T20:00:00-07:00
+60.4,Hinton-Drinnan,Relative Humidity,2026-01-10T21:00:00-07:00
+0.035,Hinton-Drinnan,Ozone,2026-01-10T21:00:00-07:00
+0.004,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-10T21:00:00-07:00
+0.0,Hinton-Drinnan,Hydrogen Sulphide,2026-01-10T21:00:00-07:00
+263.0,Hinton-Drinnan,Wind Direction,2026-01-10T21:00:00-07:00
+0.004,Hinton-Drinnan,Nitrogen Dioxide,2026-01-10T21:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-10T21:00:00-07:00
+0.0,Hinton-Drinnan,Nitric Oxide,2026-01-10T21:00:00-07:00
+0.002,Hinton-Drinnan,Sulphur Dioxide,2026-01-10T21:00:00-07:00
+2.9,Hinton-Drinnan,Outdoor Temperature,2026-01-10T21:00:00-07:00
 0.0,Hinton-Drinnan,Nitric Oxide,2026-01-10T20:00:00-07:00
-4.0,Hinton-Drinnan,Outdoor Temperature,2026-01-10T19:00:00-07:00
-53.6,Hinton-Drinnan,Relative Humidity,2026-01-10T19:00:00-07:00
-0.001,Hinton-Drinnan,Sulphur Dioxide,2026-01-10T19:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-10T19:00:00-07:00
-0.002,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-10T19:00:00-07:00
-0.0,Hinton-Drinnan,Nitric Oxide,2026-01-10T19:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-10T19:00:00-07:00
-0.003,Hinton-Drinnan,Nitrogen Dioxide,2026-01-10T19:00:00-07:00
-0.038,Hinton-Drinnan,Ozone,2026-01-10T19:00:00-07:00
-276.0,Hinton-Drinnan,Wind Direction,2026-01-10T19:00:00-07:00
-3.9,Hinton-Drinnan,Wind Speed,2026-01-10T19:00:00-07:00
-2.0,Hinton-Drinnan,,2026-01-10T19:00:00-07:00
+3.1,Hinton-Drinnan,Outdoor Temperature,2026-01-10T20:00:00-07:00
+59.7,Hinton-Drinnan,Relative Humidity,2026-01-10T20:00:00-07:00
+0.001,Hinton-Drinnan,Sulphur Dioxide,2026-01-10T20:00:00-07:00
+0.001,Hinton-Drinnan,Nitrogen Dioxide,2026-01-10T20:00:00-07:00
+0.001,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-10T20:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-10T20:00:00-07:00
+0.0,Hinton-Drinnan,Hydrogen Sulphide,2026-01-10T20:00:00-07:00
+284.0,Hinton-Drinnan,Wind Direction,2026-01-10T20:00:00-07:00
+0.038,Hinton-Drinnan,Ozone,2026-01-10T20:00:00-07:00
+3.3,Hinton-Drinnan,Wind Speed,2026-01-10T20:00:00-07:00
+2.0,Hinton-Drinnan,,2026-01-10T20:00:00-07:00
+1.4,Hinton-Drinnan,Fine Particulate Matter,2026-01-10T20:00:00-07:00
 2.2,Hinton-Drinnan,Fine Particulate Matter,2026-01-10T19:00:00-07:00
-2.0,Hinton-Drinnan,Fine Particulate Matter,2026-01-10T18:00:00-07:00
-2.0,Hinton-Drinnan,,2026-01-10T18:00:00-07:00
-4.2,Hinton-Drinnan,Wind Speed,2026-01-10T18:00:00-07:00
-0.037,Hinton-Drinnan,Ozone,2026-01-10T18:00:00-07:00
-249.0,Hinton-Drinnan,Wind Direction,2026-01-10T18:00:00-07:00
-0.004,Hinton-Drinnan,Nitrogen Dioxide,2026-01-10T18:00:00-07:00
-0.004,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-10T18:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-10T18:00:00-07:00
-0.0,Hinton-Drinnan,Nitric Oxide,2026-01-10T18:00:00-07:00
-0.002,Hinton-Drinnan,Sulphur Dioxide,2026-01-10T18:00:00-07:00
-5.0,Hinton-Drinnan,Outdoor Temperature,2026-01-10T18:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-10T18:00:00-07:00
+2.0,Hinton-Drinnan,,2026-01-10T19:00:00-07:00
+3.9,Hinton-Drinnan,Wind Speed,2026-01-10T19:00:00-07:00
+276.0,Hinton-Drinnan,Wind Direction,2026-01-10T19:00:00-07:00
+0.038,Hinton-Drinnan,Ozone,2026-01-10T19:00:00-07:00
+0.003,Hinton-Drinnan,Nitrogen Dioxide,2026-01-10T19:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-10T19:00:00-07:00
+0.0,Hinton-Drinnan,Nitric Oxide,2026-01-10T19:00:00-07:00
+0.002,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-10T19:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-10T19:00:00-07:00
+0.001,Hinton-Drinnan,Sulphur Dioxide,2026-01-10T19:00:00-07:00
+53.6,Hinton-Drinnan,Relative Humidity,2026-01-10T19:00:00-07:00
+4.0,Hinton-Drinnan,Outdoor Temperature,2026-01-10T19:00:00-07:00
 47.7,Hinton-Drinnan,Relative Humidity,2026-01-10T18:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-10T18:00:00-07:00
+5.0,Hinton-Drinnan,Outdoor Temperature,2026-01-10T18:00:00-07:00
+0.002,Hinton-Drinnan,Sulphur Dioxide,2026-01-10T18:00:00-07:00
+0.0,Hinton-Drinnan,Nitric Oxide,2026-01-10T18:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-10T18:00:00-07:00
+0.004,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-10T18:00:00-07:00
+0.004,Hinton-Drinnan,Nitrogen Dioxide,2026-01-10T18:00:00-07:00
+249.0,Hinton-Drinnan,Wind Direction,2026-01-10T18:00:00-07:00
+0.037,Hinton-Drinnan,Ozone,2026-01-10T18:00:00-07:00
+4.2,Hinton-Drinnan,Wind Speed,2026-01-10T18:00:00-07:00
+2.0,Hinton-Drinnan,,2026-01-10T18:00:00-07:00
+2.0,Hinton-Drinnan,Fine Particulate Matter,2026-01-10T18:00:00-07:00
 1.1,Hinton-Drinnan,Fine Particulate Matter,2026-01-10T17:00:00-07:00
 2.0,Hinton-Drinnan,,2026-01-10T17:00:00-07:00
 4.4,Hinton-Drinnan,Wind Speed,2026-01-10T17:00:00-07:00
@@ -1845,7 +1845,6 @@ Value,StationName,ParameterName,ReadingDate
 47.3,Hinton-Drinnan,Relative Humidity,2026-01-10T17:00:00-07:00
 0.0,Hinton-Drinnan,Nitrogen Dioxide,2026-01-10T17:00:00-07:00
 0.0,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-10T17:00:00-07:00
-2.3,Hinton-Drinnan,Fine Particulate Matter,2026-01-10T16:00:00-07:00
 6.8,Hinton-Drinnan,Outdoor Temperature,2026-01-10T16:00:00-07:00
 40.8,Hinton-Drinnan,Relative Humidity,2026-01-10T16:00:00-07:00
 0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-10T16:00:00-07:00
@@ -1858,6 +1857,7 @@ Value,StationName,ParameterName,ReadingDate
 260.0,Hinton-Drinnan,Wind Direction,2026-01-10T16:00:00-07:00
 6.2,Hinton-Drinnan,Wind Speed,2026-01-10T16:00:00-07:00
 2.0,Hinton-Drinnan,,2026-01-10T16:00:00-07:00
+2.3,Hinton-Drinnan,Fine Particulate Matter,2026-01-10T16:00:00-07:00
 34.1,Hinton-Drinnan,Relative Humidity,2026-01-10T15:00:00-07:00
 0.001,Hinton-Drinnan,Sulphur Dioxide,2026-01-10T15:00:00-07:00
 8.3,Hinton-Drinnan,Outdoor Temperature,2026-01-10T15:00:00-07:00
@@ -1871,19 +1871,19 @@ Value,StationName,ParameterName,ReadingDate
 2.1,Hinton-Drinnan,Fine Particulate Matter,2026-01-10T15:00:00-07:00
 13.9,Hinton-Drinnan,Wind Speed,2026-01-10T15:00:00-07:00
 2.0,Hinton-Drinnan,,2026-01-10T15:00:00-07:00
-3.0,Hinton-Drinnan,,2026-01-10T14:00:00-07:00
-1.7,Hinton-Drinnan,Fine Particulate Matter,2026-01-10T14:00:00-07:00
-11.6,Hinton-Drinnan,Wind Speed,2026-01-10T14:00:00-07:00
-227.0,Hinton-Drinnan,Wind Direction,2026-01-10T14:00:00-07:00
-0.042,Hinton-Drinnan,Ozone,2026-01-10T14:00:00-07:00
-0.003,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-10T14:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-10T14:00:00-07:00
-0.0,Hinton-Drinnan,Nitric Oxide,2026-01-10T14:00:00-07:00
-0.002,Hinton-Drinnan,Nitrogen Dioxide,2026-01-10T14:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-10T14:00:00-07:00
-0.001,Hinton-Drinnan,Sulphur Dioxide,2026-01-10T14:00:00-07:00
-31.5,Hinton-Drinnan,Relative Humidity,2026-01-10T14:00:00-07:00
 9.2,Hinton-Drinnan,Outdoor Temperature,2026-01-10T14:00:00-07:00
+31.5,Hinton-Drinnan,Relative Humidity,2026-01-10T14:00:00-07:00
+0.001,Hinton-Drinnan,Sulphur Dioxide,2026-01-10T14:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-10T14:00:00-07:00
+0.002,Hinton-Drinnan,Nitrogen Dioxide,2026-01-10T14:00:00-07:00
+0.0,Hinton-Drinnan,Nitric Oxide,2026-01-10T14:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-10T14:00:00-07:00
+0.003,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-10T14:00:00-07:00
+0.042,Hinton-Drinnan,Ozone,2026-01-10T14:00:00-07:00
+227.0,Hinton-Drinnan,Wind Direction,2026-01-10T14:00:00-07:00
+11.6,Hinton-Drinnan,Wind Speed,2026-01-10T14:00:00-07:00
+1.7,Hinton-Drinnan,Fine Particulate Matter,2026-01-10T14:00:00-07:00
+3.0,Hinton-Drinnan,,2026-01-10T14:00:00-07:00
 3.0,Hinton-Drinnan,,2026-01-10T13:00:00-07:00
 2.0,Hinton-Drinnan,Fine Particulate Matter,2026-01-10T13:00:00-07:00
 4.3,Hinton-Drinnan,Wind Speed,2026-01-10T13:00:00-07:00
@@ -2020,13 +2020,13 @@ Value,StationName,ParameterName,ReadingDate
 234.0,Hinton-Drinnan,Wind Direction,2026-01-10T03:00:00-07:00
 0.0,Hinton-Drinnan,Hydrogen Sulphide,2026-01-10T03:00:00-07:00
 0.042,Hinton-Drinnan,Ozone,2026-01-10T03:00:00-07:00
-0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-10T03:00:00-07:00
-0.0,Hinton-Drinnan,Sulphur Dioxide,2026-01-10T03:00:00-07:00
-0.0,Hinton-Drinnan,Nitric Oxide,2026-01-10T03:00:00-07:00
-0.001,Hinton-Drinnan,Nitrogen Dioxide,2026-01-10T03:00:00-07:00
-33.4,Hinton-Drinnan,Relative Humidity,2026-01-10T03:00:00-07:00
-6.4,Hinton-Drinnan,Outdoor Temperature,2026-01-10T03:00:00-07:00
 0.0,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-10T03:00:00-07:00
+6.4,Hinton-Drinnan,Outdoor Temperature,2026-01-10T03:00:00-07:00
+33.4,Hinton-Drinnan,Relative Humidity,2026-01-10T03:00:00-07:00
+0.001,Hinton-Drinnan,Nitrogen Dioxide,2026-01-10T03:00:00-07:00
+0.0,Hinton-Drinnan,Nitric Oxide,2026-01-10T03:00:00-07:00
+0.0,Hinton-Drinnan,Sulphur Dioxide,2026-01-10T03:00:00-07:00
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-01-10T03:00:00-07:00
 2.0,Hinton-Drinnan,,2026-01-10T02:00:00-07:00
 2.0,Hinton-Drinnan,Fine Particulate Matter,2026-01-10T02:00:00-07:00
 18.3,Hinton-Drinnan,Wind Speed,2026-01-10T02:00:00-07:00
@@ -2040,9 +2040,9 @@ Value,StationName,ParameterName,ReadingDate
 0.001,Hinton-Drinnan,Nitrogen Dioxide,2026-01-10T02:00:00-07:00
 34.4,Hinton-Drinnan,Relative Humidity,2026-01-10T02:00:00-07:00
 0.001,Hinton-Drinnan,Sulphur Dioxide,2026-01-10T02:00:00-07:00
-2.0,Hinton-Drinnan,Fine Particulate Matter,2026-01-10T01:00:00-07:00
-18.4,Hinton-Drinnan,Wind Speed,2026-01-10T01:00:00-07:00
 0.041,Hinton-Drinnan,Ozone,2026-01-10T01:00:00-07:00
+18.4,Hinton-Drinnan,Wind Speed,2026-01-10T01:00:00-07:00
+2.0,Hinton-Drinnan,Fine Particulate Matter,2026-01-10T01:00:00-07:00
 2.0,Hinton-Drinnan,,2026-01-10T01:00:00-07:00
 0.0,Hinton-Drinnan,Nitric Oxide,2026-01-10T01:00:00-07:00
 5.8,Hinton-Drinnan,Outdoor Temperature,2026-01-10T01:00:00-07:00
@@ -2066,42 +2066,29 @@ Value,StationName,ParameterName,ReadingDate
 0.037,Hinton-Drinnan,Ozone,2026-01-10T00:00:00-07:00
 0.0,Hinton-Drinnan,Nitric Oxide,2026-01-10T00:00:00-07:00
 0.0,Hinton-Drinnan,Hydrogen Sulphide,2026-01-10T00:00:00-07:00
-3.0,Hinton-Drinnan,,2026-01-09T23:00:00-07:00
-4.2,Hinton-Drinnan,Fine Particulate Matter,2026-01-09T23:00:00-07:00
-13.7,Hinton-Drinnan,Wind Speed,2026-01-09T23:00:00-07:00
-41.0,Hinton-Drinnan,Relative Humidity,2026-01-09T23:00:00-07:00
-0.008,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-09T23:00:00-07:00
-0.033,Hinton-Drinnan,Ozone,2026-01-09T23:00:00-07:00
-0.008,Hinton-Drinnan,Nitrogen Dioxide,2026-01-09T23:00:00-07:00
-0.005,Hinton-Drinnan,Sulphur Dioxide,2026-01-09T23:00:00-07:00
-0.001,Hinton-Drinnan,Total Reduced Sulphur,2026-01-09T23:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-09T23:00:00-07:00
-0.001,Hinton-Drinnan,Nitric Oxide,2026-01-09T23:00:00-07:00
-242.0,Hinton-Drinnan,Wind Direction,2026-01-09T23:00:00-07:00
 5.0,Hinton-Drinnan,Outdoor Temperature,2026-01-09T23:00:00-07:00
-3.0,Hinton-Drinnan,,2026-01-09T22:00:00-07:00
-5.8,Hinton-Drinnan,Fine Particulate Matter,2026-01-09T22:00:00-07:00
-11.0,Hinton-Drinnan,Wind Speed,2026-01-09T22:00:00-07:00
+242.0,Hinton-Drinnan,Wind Direction,2026-01-09T23:00:00-07:00
+0.001,Hinton-Drinnan,Nitric Oxide,2026-01-09T23:00:00-07:00
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-09T23:00:00-07:00
+0.001,Hinton-Drinnan,Total Reduced Sulphur,2026-01-09T23:00:00-07:00
+0.005,Hinton-Drinnan,Sulphur Dioxide,2026-01-09T23:00:00-07:00
+0.008,Hinton-Drinnan,Nitrogen Dioxide,2026-01-09T23:00:00-07:00
+0.033,Hinton-Drinnan,Ozone,2026-01-09T23:00:00-07:00
+0.008,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-09T23:00:00-07:00
+41.0,Hinton-Drinnan,Relative Humidity,2026-01-09T23:00:00-07:00
+13.7,Hinton-Drinnan,Wind Speed,2026-01-09T23:00:00-07:00
+4.2,Hinton-Drinnan,Fine Particulate Matter,2026-01-09T23:00:00-07:00
+3.0,Hinton-Drinnan,,2026-01-09T23:00:00-07:00
+0.011,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-09T22:00:00-07:00
+0.0,Hinton-Drinnan,Hydrogen Sulphide,2026-01-09T22:00:00-07:00
+0.031,Hinton-Drinnan,Ozone,2026-01-09T22:00:00-07:00
 249.0,Hinton-Drinnan,Wind Direction,2026-01-09T22:00:00-07:00
+11.0,Hinton-Drinnan,Wind Speed,2026-01-09T22:00:00-07:00
+5.8,Hinton-Drinnan,Fine Particulate Matter,2026-01-09T22:00:00-07:00
+3.0,Hinton-Drinnan,,2026-01-09T22:00:00-07:00
 42.8,Hinton-Drinnan,Relative Humidity,2026-01-09T22:00:00-07:00
 0.01,Hinton-Drinnan,Nitrogen Dioxide,2026-01-09T22:00:00-07:00
-0.031,Hinton-Drinnan,Ozone,2026-01-09T22:00:00-07:00
-0.0,Hinton-Drinnan,Hydrogen Sulphide,2026-01-09T22:00:00-07:00
-0.011,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-09T22:00:00-07:00
 0.001,Hinton-Drinnan,Nitric Oxide,2026-01-09T22:00:00-07:00
 0.001,Hinton-Drinnan,Total Reduced Sulphur,2026-01-09T22:00:00-07:00
 4.6,Hinton-Drinnan,Outdoor Temperature,2026-01-09T22:00:00-07:00
 0.006,Hinton-Drinnan,Sulphur Dioxide,2026-01-09T22:00:00-07:00
-4.5,Hinton-Drinnan,Outdoor Temperature,2026-01-09T21:00:00-07:00
-0.001,Hinton-Drinnan,Nitric Oxide,2026-01-09T21:00:00-07:00
-0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-01-09T21:00:00-07:00
-0.001,Hinton-Drinnan,Total Reduced Sulphur,2026-01-09T21:00:00-07:00
-240.0,Hinton-Drinnan,Wind Direction,2026-01-09T21:00:00-07:00
-0.006,Hinton-Drinnan,Sulphur Dioxide,2026-01-09T21:00:00-07:00
-0.01,Hinton-Drinnan,Nitrogen Dioxide,2026-01-09T21:00:00-07:00
-0.031,Hinton-Drinnan,Ozone,2026-01-09T21:00:00-07:00
-0.011,Hinton-Drinnan,Total Oxides of Nitrogen,2026-01-09T21:00:00-07:00
-41.7,Hinton-Drinnan,Relative Humidity,2026-01-09T21:00:00-07:00
-12.0,Hinton-Drinnan,Wind Speed,2026-01-09T21:00:00-07:00
-5.4,Hinton-Drinnan,Fine Particulate Matter,2026-01-09T21:00:00-07:00
-3.0,Hinton-Drinnan,,2026-01-09T21:00:00-07:00
