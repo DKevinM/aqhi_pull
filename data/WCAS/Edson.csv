@@ -1,4 +1,15 @@
 Value,StationName,ParameterName,ReadingDate
+3.0,Edson,,2026-01-16T19:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2026-01-16T19:00:00-07:00
+260.0,Edson,Wind Direction,2026-01-16T19:00:00-07:00
+0.012,Edson,Nitrogen Dioxide,2026-01-16T19:00:00-07:00
+-1.7,Edson,Outdoor Temperature,2026-01-16T19:00:00-07:00
+0.0,Edson,Nitric Oxide,2026-01-16T19:00:00-07:00
+2.5,Edson,Wind Speed,2026-01-16T19:00:00-07:00
+0.01,Edson,Total Oxides of Nitrogen,2026-01-16T19:00:00-07:00
+3.3,Edson,Fine Particulate Matter,2026-01-16T19:00:00-07:00
+0.027,Edson,Ozone,2026-01-16T19:00:00-07:00
+47.3,Edson,Relative Humidity,2026-01-16T19:00:00-07:00
 3.0,Edson,,2026-01-16T18:00:00-07:00
 0.019,Edson,Nitrogen Dioxide,2026-01-16T18:00:00-07:00
 0.017,Edson,Total Oxides of Nitrogen,2026-01-16T18:00:00-07:00
@@ -32,11 +43,11 @@ Value,StationName,ParameterName,ReadingDate
 2.8,Edson,Fine Particulate Matter,2026-01-16T16:00:00-07:00
 0.0,Edson,Nitric Oxide,2026-01-16T16:00:00-07:00
 0.03,Edson,Ozone,2026-01-16T16:00:00-07:00
-6.3,Edson,Wind Speed,2026-01-16T15:00:00-07:00
-3.1,Edson,Outdoor Temperature,2026-01-16T15:00:00-07:00
-,Edson,Fine Particulate Matter,2026-01-16T15:00:00-07:00
-,Edson,Nitric Oxide,2026-01-16T15:00:00-07:00
 ,Edson,Total Oxides of Nitrogen,2026-01-16T15:00:00-07:00
+,Edson,Nitric Oxide,2026-01-16T15:00:00-07:00
+,Edson,Fine Particulate Matter,2026-01-16T15:00:00-07:00
+3.1,Edson,Outdoor Temperature,2026-01-16T15:00:00-07:00
+6.3,Edson,Wind Speed,2026-01-16T15:00:00-07:00
 ,Edson,Nitrogen Dioxide,2026-01-16T15:00:00-07:00
 ,Edson,Sulphur Dioxide,2026-01-16T15:00:00-07:00
 168.0,Edson,Wind Direction,2026-01-16T15:00:00-07:00
@@ -715,49 +726,49 @@ Value,StationName,ParameterName,ReadingDate
 0.017,Edson,Ozone,2026-01-14T02:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2026-01-14T02:00:00-07:00
 2.0,Edson,,2026-01-14T01:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2026-01-14T01:00:00-07:00
-0.028,Edson,Ozone,2026-01-14T01:00:00-07:00
-0.001,Edson,Nitric Oxide,2026-01-14T01:00:00-07:00
-9.5,Edson,Wind Speed,2026-01-14T01:00:00-07:00
-4.9,Edson,Fine Particulate Matter,2026-01-14T01:00:00-07:00
-65.9,Edson,Relative Humidity,2026-01-14T01:00:00-07:00
-0.008,Edson,Total Oxides of Nitrogen,2026-01-14T01:00:00-07:00
-0.007,Edson,Nitrogen Dioxide,2026-01-14T01:00:00-07:00
-279.0,Edson,Wind Direction,2026-01-14T01:00:00-07:00
 3.8,Edson,Outdoor Temperature,2026-01-14T01:00:00-07:00
-2.2,Edson,Outdoor Temperature,2026-01-14T00:00:00-07:00
-72.3,Edson,Relative Humidity,2026-01-14T00:00:00-07:00
-274.0,Edson,Wind Direction,2026-01-14T00:00:00-07:00
-5.8,Edson,Wind Speed,2026-01-14T00:00:00-07:00
-4.0,Edson,Fine Particulate Matter,2026-01-14T00:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2026-01-14T00:00:00-07:00
+279.0,Edson,Wind Direction,2026-01-14T01:00:00-07:00
+0.007,Edson,Nitrogen Dioxide,2026-01-14T01:00:00-07:00
+0.008,Edson,Total Oxides of Nitrogen,2026-01-14T01:00:00-07:00
+65.9,Edson,Relative Humidity,2026-01-14T01:00:00-07:00
+4.9,Edson,Fine Particulate Matter,2026-01-14T01:00:00-07:00
+9.5,Edson,Wind Speed,2026-01-14T01:00:00-07:00
+0.001,Edson,Nitric Oxide,2026-01-14T01:00:00-07:00
+0.028,Edson,Ozone,2026-01-14T01:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2026-01-14T01:00:00-07:00
 2.0,Edson,,2026-01-14T00:00:00-07:00
 0.001,Edson,Nitric Oxide,2026-01-14T00:00:00-07:00
 0.007,Edson,Total Oxides of Nitrogen,2026-01-14T00:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2026-01-14T00:00:00-07:00
+4.0,Edson,Fine Particulate Matter,2026-01-14T00:00:00-07:00
+5.8,Edson,Wind Speed,2026-01-14T00:00:00-07:00
+274.0,Edson,Wind Direction,2026-01-14T00:00:00-07:00
+72.3,Edson,Relative Humidity,2026-01-14T00:00:00-07:00
+2.2,Edson,Outdoor Temperature,2026-01-14T00:00:00-07:00
 0.007,Edson,Nitrogen Dioxide,2026-01-14T00:00:00-07:00
 0.026,Edson,Ozone,2026-01-14T00:00:00-07:00
-4.8,Edson,Wind Speed,2026-01-13T23:00:00-07:00
-0.016,Edson,Nitrogen Dioxide,2026-01-13T23:00:00-07:00
-272.0,Edson,Wind Direction,2026-01-13T23:00:00-07:00
-0.017,Edson,Total Oxides of Nitrogen,2026-01-13T23:00:00-07:00
-2.7,Edson,Outdoor Temperature,2026-01-13T23:00:00-07:00
-0.019,Edson,Ozone,2026-01-13T23:00:00-07:00
-70.7,Edson,Relative Humidity,2026-01-13T23:00:00-07:00
-0.001,Edson,Nitric Oxide,2026-01-13T23:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2026-01-13T23:00:00-07:00
-2.0,Edson,,2026-01-13T23:00:00-07:00
 3.2,Edson,Fine Particulate Matter,2026-01-13T23:00:00-07:00
-1.7,Edson,Fine Particulate Matter,2026-01-13T22:00:00-07:00
-3.5,Edson,Wind Speed,2026-01-13T22:00:00-07:00
-0.008,Edson,Nitrogen Dioxide,2026-01-13T22:00:00-07:00
-258.0,Edson,Wind Direction,2026-01-13T22:00:00-07:00
-0.026,Edson,Ozone,2026-01-13T22:00:00-07:00
-70.7,Edson,Relative Humidity,2026-01-13T22:00:00-07:00
-3.3,Edson,Outdoor Temperature,2026-01-13T22:00:00-07:00
-0.008,Edson,Total Oxides of Nitrogen,2026-01-13T22:00:00-07:00
-0.001,Edson,Nitric Oxide,2026-01-13T22:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2026-01-13T22:00:00-07:00
+2.0,Edson,,2026-01-13T23:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2026-01-13T23:00:00-07:00
+0.001,Edson,Nitric Oxide,2026-01-13T23:00:00-07:00
+70.7,Edson,Relative Humidity,2026-01-13T23:00:00-07:00
+0.019,Edson,Ozone,2026-01-13T23:00:00-07:00
+2.7,Edson,Outdoor Temperature,2026-01-13T23:00:00-07:00
+0.017,Edson,Total Oxides of Nitrogen,2026-01-13T23:00:00-07:00
+272.0,Edson,Wind Direction,2026-01-13T23:00:00-07:00
+0.016,Edson,Nitrogen Dioxide,2026-01-13T23:00:00-07:00
+4.8,Edson,Wind Speed,2026-01-13T23:00:00-07:00
 2.0,Edson,,2026-01-13T22:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2026-01-13T22:00:00-07:00
+0.001,Edson,Nitric Oxide,2026-01-13T22:00:00-07:00
+0.008,Edson,Total Oxides of Nitrogen,2026-01-13T22:00:00-07:00
+3.3,Edson,Outdoor Temperature,2026-01-13T22:00:00-07:00
+70.7,Edson,Relative Humidity,2026-01-13T22:00:00-07:00
+0.026,Edson,Ozone,2026-01-13T22:00:00-07:00
+258.0,Edson,Wind Direction,2026-01-13T22:00:00-07:00
+0.008,Edson,Nitrogen Dioxide,2026-01-13T22:00:00-07:00
+3.5,Edson,Wind Speed,2026-01-13T22:00:00-07:00
+1.7,Edson,Fine Particulate Matter,2026-01-13T22:00:00-07:00
 3.8,Edson,Outdoor Temperature,2026-01-13T21:00:00-07:00
 0.001,Edson,Nitric Oxide,2026-01-13T21:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2026-01-13T21:00:00-07:00
@@ -769,20 +780,20 @@ Value,StationName,ParameterName,ReadingDate
 0.015,Edson,Nitrogen Dioxide,2026-01-13T21:00:00-07:00
 3.6,Edson,Wind Speed,2026-01-13T21:00:00-07:00
 3.4,Edson,Fine Particulate Matter,2026-01-13T21:00:00-07:00
-2.4,Edson,Fine Particulate Matter,2026-01-13T20:00:00-07:00
-2.5,Edson,Wind Speed,2026-01-13T20:00:00-07:00
-0.013,Edson,Nitrogen Dioxide,2026-01-13T20:00:00-07:00
-272.0,Edson,Wind Direction,2026-01-13T20:00:00-07:00
-0.014,Edson,Total Oxides of Nitrogen,2026-01-13T20:00:00-07:00
-62.8,Edson,Relative Humidity,2026-01-13T20:00:00-07:00
-5.2,Edson,Outdoor Temperature,2026-01-13T20:00:00-07:00
-0.024,Edson,Ozone,2026-01-13T20:00:00-07:00
-0.001,Edson,Nitric Oxide,2026-01-13T20:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2026-01-13T20:00:00-07:00
 3.0,Edson,,2026-01-13T20:00:00-07:00
-0.001,Edson,Nitric Oxide,2026-01-13T19:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2026-01-13T19:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2026-01-13T20:00:00-07:00
+0.001,Edson,Nitric Oxide,2026-01-13T20:00:00-07:00
+0.024,Edson,Ozone,2026-01-13T20:00:00-07:00
+5.2,Edson,Outdoor Temperature,2026-01-13T20:00:00-07:00
+62.8,Edson,Relative Humidity,2026-01-13T20:00:00-07:00
+0.014,Edson,Total Oxides of Nitrogen,2026-01-13T20:00:00-07:00
+272.0,Edson,Wind Direction,2026-01-13T20:00:00-07:00
+0.013,Edson,Nitrogen Dioxide,2026-01-13T20:00:00-07:00
+2.5,Edson,Wind Speed,2026-01-13T20:00:00-07:00
+2.4,Edson,Fine Particulate Matter,2026-01-13T20:00:00-07:00
 3.0,Edson,,2026-01-13T19:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2026-01-13T19:00:00-07:00
+0.001,Edson,Nitric Oxide,2026-01-13T19:00:00-07:00
 6.8,Edson,Outdoor Temperature,2026-01-13T19:00:00-07:00
 56.8,Edson,Relative Humidity,2026-01-13T19:00:00-07:00
 0.022,Edson,Ozone,2026-01-13T19:00:00-07:00
@@ -791,32 +802,28 @@ Value,StationName,ParameterName,ReadingDate
 0.018,Edson,Nitrogen Dioxide,2026-01-13T19:00:00-07:00
 3.7,Edson,Wind Speed,2026-01-13T19:00:00-07:00
 3.2,Edson,Fine Particulate Matter,2026-01-13T19:00:00-07:00
-3.0,Edson,,2026-01-13T18:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2026-01-13T18:00:00-07:00
 0.001,Edson,Nitric Oxide,2026-01-13T18:00:00-07:00
-7.3,Edson,Outdoor Temperature,2026-01-13T18:00:00-07:00
-53.9,Edson,Relative Humidity,2026-01-13T18:00:00-07:00
-0.021,Edson,Ozone,2026-01-13T18:00:00-07:00
-0.022,Edson,Total Oxides of Nitrogen,2026-01-13T18:00:00-07:00
-255.0,Edson,Wind Direction,2026-01-13T18:00:00-07:00
-0.02,Edson,Nitrogen Dioxide,2026-01-13T18:00:00-07:00
-3.1,Edson,Wind Speed,2026-01-13T18:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2026-01-13T18:00:00-07:00
+3.0,Edson,,2026-01-13T18:00:00-07:00
 2.3,Edson,Fine Particulate Matter,2026-01-13T18:00:00-07:00
+3.1,Edson,Wind Speed,2026-01-13T18:00:00-07:00
+0.02,Edson,Nitrogen Dioxide,2026-01-13T18:00:00-07:00
+255.0,Edson,Wind Direction,2026-01-13T18:00:00-07:00
+0.022,Edson,Total Oxides of Nitrogen,2026-01-13T18:00:00-07:00
+0.021,Edson,Ozone,2026-01-13T18:00:00-07:00
+53.9,Edson,Relative Humidity,2026-01-13T18:00:00-07:00
+7.3,Edson,Outdoor Temperature,2026-01-13T18:00:00-07:00
+1.5,Edson,Fine Particulate Matter,2026-01-13T17:00:00-07:00
+4.9,Edson,Wind Speed,2026-01-13T17:00:00-07:00
+0.01,Edson,Nitrogen Dioxide,2026-01-13T17:00:00-07:00
+259.0,Edson,Wind Direction,2026-01-13T17:00:00-07:00
+0.012,Edson,Total Oxides of Nitrogen,2026-01-13T17:00:00-07:00
+0.032,Edson,Ozone,2026-01-13T17:00:00-07:00
+48.6,Edson,Relative Humidity,2026-01-13T17:00:00-07:00
 8.2,Edson,Outdoor Temperature,2026-01-13T17:00:00-07:00
 0.001,Edson,Nitric Oxide,2026-01-13T17:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2026-01-13T17:00:00-07:00
 3.0,Edson,,2026-01-13T17:00:00-07:00
-48.6,Edson,Relative Humidity,2026-01-13T17:00:00-07:00
-0.032,Edson,Ozone,2026-01-13T17:00:00-07:00
-0.012,Edson,Total Oxides of Nitrogen,2026-01-13T17:00:00-07:00
-259.0,Edson,Wind Direction,2026-01-13T17:00:00-07:00
-0.01,Edson,Nitrogen Dioxide,2026-01-13T17:00:00-07:00
-4.9,Edson,Wind Speed,2026-01-13T17:00:00-07:00
-1.5,Edson,Fine Particulate Matter,2026-01-13T17:00:00-07:00
-3.0,Edson,,2026-01-13T16:00:00-07:00
-0.006,Edson,Total Oxides of Nitrogen,2026-01-13T16:00:00-07:00
-0.002,Edson,Nitric Oxide,2026-01-13T16:00:00-07:00
-8.9,Edson,Outdoor Temperature,2026-01-13T16:00:00-07:00
 45.6,Edson,Relative Humidity,2026-01-13T16:00:00-07:00
 0.038,Edson,Ozone,2026-01-13T16:00:00-07:00
 264.0,Edson,Wind Direction,2026-01-13T16:00:00-07:00
@@ -824,6 +831,10 @@ Value,StationName,ParameterName,ReadingDate
 2.5,Edson,Wind Speed,2026-01-13T16:00:00-07:00
 1.0,Edson,Fine Particulate Matter,2026-01-13T16:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2026-01-13T16:00:00-07:00
+3.0,Edson,,2026-01-13T16:00:00-07:00
+0.006,Edson,Total Oxides of Nitrogen,2026-01-13T16:00:00-07:00
+0.002,Edson,Nitric Oxide,2026-01-13T16:00:00-07:00
+8.9,Edson,Outdoor Temperature,2026-01-13T16:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2026-01-13T15:00:00-07:00
 3.6,Edson,Fine Particulate Matter,2026-01-13T15:00:00-07:00
 8.3,Edson,Wind Speed,2026-01-13T15:00:00-07:00
@@ -842,15 +853,15 @@ Value,StationName,ParameterName,ReadingDate
 241.0,Edson,Wind Direction,2026-01-13T14:00:00-07:00
 0.041,Edson,Ozone,2026-01-13T14:00:00-07:00
 38.2,Edson,Relative Humidity,2026-01-13T14:00:00-07:00
-2.0,Edson,,2026-01-13T14:00:00-07:00
-0.006,Edson,Total Oxides of Nitrogen,2026-01-13T14:00:00-07:00
-0.002,Edson,Nitric Oxide,2026-01-13T14:00:00-07:00
 10.7,Edson,Outdoor Temperature,2026-01-13T14:00:00-07:00
+0.002,Edson,Nitric Oxide,2026-01-13T14:00:00-07:00
+0.006,Edson,Total Oxides of Nitrogen,2026-01-13T14:00:00-07:00
+2.0,Edson,,2026-01-13T14:00:00-07:00
+0.002,Edson,Nitric Oxide,2026-01-13T13:00:00-07:00
+0.002,Edson,Nitrogen Dioxide,2026-01-13T13:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2026-01-13T13:00:00-07:00
 2.0,Edson,,2026-01-13T13:00:00-07:00
 0.5,Edson,Fine Particulate Matter,2026-01-13T13:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2026-01-13T13:00:00-07:00
-0.002,Edson,Nitrogen Dioxide,2026-01-13T13:00:00-07:00
-0.002,Edson,Nitric Oxide,2026-01-13T13:00:00-07:00
 0.003,Edson,Total Oxides of Nitrogen,2026-01-13T13:00:00-07:00
 10.3,Edson,Outdoor Temperature,2026-01-13T13:00:00-07:00
 39.3,Edson,Relative Humidity,2026-01-13T13:00:00-07:00
@@ -904,14 +915,17 @@ Value,StationName,ParameterName,ReadingDate
 3.3,Edson,Wind Speed,2026-01-13T08:00:00-07:00
 1.1,Edson,Fine Particulate Matter,2026-01-13T08:00:00-07:00
 3.0,Edson,,2026-01-13T08:00:00-07:00
-0.027,Edson,Nitrogen Dioxide,2026-01-13T08:00:00-07:00
-268.0,Edson,Wind Direction,2026-01-13T08:00:00-07:00
-0.004,Edson,Nitric Oxide,2026-01-13T08:00:00-07:00
-0.031,Edson,Total Oxides of Nitrogen,2026-01-13T08:00:00-07:00
-0.012,Edson,Ozone,2026-01-13T08:00:00-07:00
-72.6,Edson,Relative Humidity,2026-01-13T08:00:00-07:00
-2.3,Edson,Outdoor Temperature,2026-01-13T08:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2026-01-13T08:00:00-07:00
+2.3,Edson,Outdoor Temperature,2026-01-13T08:00:00-07:00
+72.6,Edson,Relative Humidity,2026-01-13T08:00:00-07:00
+0.012,Edson,Ozone,2026-01-13T08:00:00-07:00
+0.031,Edson,Total Oxides of Nitrogen,2026-01-13T08:00:00-07:00
+0.004,Edson,Nitric Oxide,2026-01-13T08:00:00-07:00
+268.0,Edson,Wind Direction,2026-01-13T08:00:00-07:00
+0.027,Edson,Nitrogen Dioxide,2026-01-13T08:00:00-07:00
+5.1,Edson,Wind Speed,2026-01-13T07:00:00-07:00
+2.0,Edson,Fine Particulate Matter,2026-01-13T07:00:00-07:00
+2.0,Edson,,2026-01-13T07:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2026-01-13T07:00:00-07:00
 0.032,Edson,Nitrogen Dioxide,2026-01-13T07:00:00-07:00
 253.0,Edson,Wind Direction,2026-01-13T07:00:00-07:00
@@ -920,9 +934,6 @@ Value,StationName,ParameterName,ReadingDate
 0.009,Edson,Ozone,2026-01-13T07:00:00-07:00
 71.2,Edson,Relative Humidity,2026-01-13T07:00:00-07:00
 2.5,Edson,Outdoor Temperature,2026-01-13T07:00:00-07:00
-2.0,Edson,,2026-01-13T07:00:00-07:00
-2.0,Edson,Fine Particulate Matter,2026-01-13T07:00:00-07:00
-5.1,Edson,Wind Speed,2026-01-13T07:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2026-01-13T06:00:00-07:00
 246.0,Edson,Wind Direction,2026-01-13T06:00:00-07:00
 0.032,Edson,Ozone,2026-01-13T06:00:00-07:00
@@ -956,17 +967,17 @@ Value,StationName,ParameterName,ReadingDate
 293.0,Edson,Wind Direction,2026-01-13T04:00:00-07:00
 ,Edson,Nitrogen Dioxide,2026-01-13T04:00:00-07:00
 5.7,Edson,Wind Speed,2026-01-13T04:00:00-07:00
-7.4,Edson,Wind Speed,2026-01-13T03:00:00-07:00
-0.3,Edson,Fine Particulate Matter,2026-01-13T03:00:00-07:00
-2.0,Edson,,2026-01-13T03:00:00-07:00
-0.001,Edson,Nitric Oxide,2026-01-13T03:00:00-07:00
-0.002,Edson,Nitrogen Dioxide,2026-01-13T03:00:00-07:00
-0.003,Edson,Total Oxides of Nitrogen,2026-01-13T03:00:00-07:00
-6.8,Edson,Outdoor Temperature,2026-01-13T03:00:00-07:00
-52.3,Edson,Relative Humidity,2026-01-13T03:00:00-07:00
-0.039,Edson,Ozone,2026-01-13T03:00:00-07:00
-293.0,Edson,Wind Direction,2026-01-13T03:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2026-01-13T03:00:00-07:00
+293.0,Edson,Wind Direction,2026-01-13T03:00:00-07:00
+0.039,Edson,Ozone,2026-01-13T03:00:00-07:00
+52.3,Edson,Relative Humidity,2026-01-13T03:00:00-07:00
+6.8,Edson,Outdoor Temperature,2026-01-13T03:00:00-07:00
+0.003,Edson,Total Oxides of Nitrogen,2026-01-13T03:00:00-07:00
+0.002,Edson,Nitrogen Dioxide,2026-01-13T03:00:00-07:00
+0.001,Edson,Nitric Oxide,2026-01-13T03:00:00-07:00
+2.0,Edson,,2026-01-13T03:00:00-07:00
+0.3,Edson,Fine Particulate Matter,2026-01-13T03:00:00-07:00
+7.4,Edson,Wind Speed,2026-01-13T03:00:00-07:00
 2.0,Edson,,2026-01-13T02:00:00-07:00
 0.001,Edson,Nitric Oxide,2026-01-13T02:00:00-07:00
 0.002,Edson,Nitrogen Dioxide,2026-01-13T02:00:00-07:00
@@ -978,39 +989,39 @@ Value,StationName,ParameterName,ReadingDate
 4.3,Edson,Wind Speed,2026-01-13T02:00:00-07:00
 0.6,Edson,Fine Particulate Matter,2026-01-13T02:00:00-07:00
 0.0,Edson,Sulphur Dioxide,2026-01-13T02:00:00-07:00
-2.0,Edson,,2026-01-13T01:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2026-01-13T01:00:00-07:00
-0.7,Edson,Fine Particulate Matter,2026-01-13T01:00:00-07:00
-4.0,Edson,Wind Speed,2026-01-13T01:00:00-07:00
-263.0,Edson,Wind Direction,2026-01-13T01:00:00-07:00
-0.036,Edson,Ozone,2026-01-13T01:00:00-07:00
-59.2,Edson,Relative Humidity,2026-01-13T01:00:00-07:00
-5.4,Edson,Outdoor Temperature,2026-01-13T01:00:00-07:00
-0.002,Edson,Total Oxides of Nitrogen,2026-01-13T01:00:00-07:00
-0.002,Edson,Nitrogen Dioxide,2026-01-13T01:00:00-07:00
 0.001,Edson,Nitric Oxide,2026-01-13T01:00:00-07:00
-8.9,Edson,Wind Speed,2026-01-13T00:00:00-07:00
-0.001,Edson,Nitric Oxide,2026-01-13T00:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2026-01-13T00:00:00-07:00
-6.2,Edson,Outdoor Temperature,2026-01-13T00:00:00-07:00
-0.003,Edson,Total Oxides of Nitrogen,2026-01-13T00:00:00-07:00
-256.0,Edson,Wind Direction,2026-01-13T00:00:00-07:00
+0.002,Edson,Nitrogen Dioxide,2026-01-13T01:00:00-07:00
+0.002,Edson,Total Oxides of Nitrogen,2026-01-13T01:00:00-07:00
+5.4,Edson,Outdoor Temperature,2026-01-13T01:00:00-07:00
+59.2,Edson,Relative Humidity,2026-01-13T01:00:00-07:00
+0.036,Edson,Ozone,2026-01-13T01:00:00-07:00
+263.0,Edson,Wind Direction,2026-01-13T01:00:00-07:00
+4.0,Edson,Wind Speed,2026-01-13T01:00:00-07:00
+0.7,Edson,Fine Particulate Matter,2026-01-13T01:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2026-01-13T01:00:00-07:00
+2.0,Edson,,2026-01-13T01:00:00-07:00
 2.0,Edson,,2026-01-13T00:00:00-07:00
 1.0,Edson,Fine Particulate Matter,2026-01-13T00:00:00-07:00
 0.037,Edson,Ozone,2026-01-13T00:00:00-07:00
 54.6,Edson,Relative Humidity,2026-01-13T00:00:00-07:00
 0.002,Edson,Nitrogen Dioxide,2026-01-13T00:00:00-07:00
-8.4,Edson,Wind Speed,2026-01-12T23:00:00-07:00
-0.8,Edson,Fine Particulate Matter,2026-01-12T23:00:00-07:00
-2.0,Edson,,2026-01-12T23:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2026-01-12T23:00:00-07:00
-0.001,Edson,Nitric Oxide,2026-01-12T23:00:00-07:00
-54.7,Edson,Relative Humidity,2026-01-12T23:00:00-07:00
-6.1,Edson,Outdoor Temperature,2026-01-12T23:00:00-07:00
-259.0,Edson,Wind Direction,2026-01-12T23:00:00-07:00
-0.004,Edson,Total Oxides of Nitrogen,2026-01-12T23:00:00-07:00
-0.037,Edson,Ozone,2026-01-12T23:00:00-07:00
+256.0,Edson,Wind Direction,2026-01-13T00:00:00-07:00
+0.003,Edson,Total Oxides of Nitrogen,2026-01-13T00:00:00-07:00
+6.2,Edson,Outdoor Temperature,2026-01-13T00:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2026-01-13T00:00:00-07:00
+0.001,Edson,Nitric Oxide,2026-01-13T00:00:00-07:00
+8.9,Edson,Wind Speed,2026-01-13T00:00:00-07:00
 0.003,Edson,Nitrogen Dioxide,2026-01-12T23:00:00-07:00
+0.037,Edson,Ozone,2026-01-12T23:00:00-07:00
+0.004,Edson,Total Oxides of Nitrogen,2026-01-12T23:00:00-07:00
+259.0,Edson,Wind Direction,2026-01-12T23:00:00-07:00
+6.1,Edson,Outdoor Temperature,2026-01-12T23:00:00-07:00
+54.7,Edson,Relative Humidity,2026-01-12T23:00:00-07:00
+0.001,Edson,Nitric Oxide,2026-01-12T23:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2026-01-12T23:00:00-07:00
+2.0,Edson,,2026-01-12T23:00:00-07:00
+0.8,Edson,Fine Particulate Matter,2026-01-12T23:00:00-07:00
+8.4,Edson,Wind Speed,2026-01-12T23:00:00-07:00
 2.0,Edson,,2026-01-12T22:00:00-07:00
 0.037,Edson,Ozone,2026-01-12T22:00:00-07:00
 1.4,Edson,Fine Particulate Matter,2026-01-12T22:00:00-07:00
@@ -1022,28 +1033,28 @@ Value,StationName,ParameterName,ReadingDate
 54.6,Edson,Relative Humidity,2026-01-12T22:00:00-07:00
 12.7,Edson,Wind Speed,2026-01-12T22:00:00-07:00
 253.0,Edson,Wind Direction,2026-01-12T22:00:00-07:00
-258.0,Edson,Wind Direction,2026-01-12T21:00:00-07:00
-9.9,Edson,Wind Speed,2026-01-12T21:00:00-07:00
-54.3,Edson,Relative Humidity,2026-01-12T21:00:00-07:00
-0.003,Edson,Nitrogen Dioxide,2026-01-12T21:00:00-07:00
-5.9,Edson,Outdoor Temperature,2026-01-12T21:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2026-01-12T21:00:00-07:00
-0.001,Edson,Nitric Oxide,2026-01-12T21:00:00-07:00
-0.004,Edson,Total Oxides of Nitrogen,2026-01-12T21:00:00-07:00
-1.0,Edson,Fine Particulate Matter,2026-01-12T21:00:00-07:00
-0.039,Edson,Ozone,2026-01-12T21:00:00-07:00
 2.0,Edson,,2026-01-12T21:00:00-07:00
-2.0,Edson,,2026-01-12T20:00:00-07:00
-0.038,Edson,Ozone,2026-01-12T20:00:00-07:00
-1.5,Edson,Fine Particulate Matter,2026-01-12T20:00:00-07:00
-0.004,Edson,Nitrogen Dioxide,2026-01-12T20:00:00-07:00
-0.004,Edson,Total Oxides of Nitrogen,2026-01-12T20:00:00-07:00
-0.001,Edson,Nitric Oxide,2026-01-12T20:00:00-07:00
-0.0,Edson,Sulphur Dioxide,2026-01-12T20:00:00-07:00
-5.7,Edson,Outdoor Temperature,2026-01-12T20:00:00-07:00
-55.2,Edson,Relative Humidity,2026-01-12T20:00:00-07:00
-10.6,Edson,Wind Speed,2026-01-12T20:00:00-07:00
+0.039,Edson,Ozone,2026-01-12T21:00:00-07:00
+1.0,Edson,Fine Particulate Matter,2026-01-12T21:00:00-07:00
+0.004,Edson,Total Oxides of Nitrogen,2026-01-12T21:00:00-07:00
+0.001,Edson,Nitric Oxide,2026-01-12T21:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2026-01-12T21:00:00-07:00
+5.9,Edson,Outdoor Temperature,2026-01-12T21:00:00-07:00
+0.003,Edson,Nitrogen Dioxide,2026-01-12T21:00:00-07:00
+54.3,Edson,Relative Humidity,2026-01-12T21:00:00-07:00
+9.9,Edson,Wind Speed,2026-01-12T21:00:00-07:00
+258.0,Edson,Wind Direction,2026-01-12T21:00:00-07:00
 253.0,Edson,Wind Direction,2026-01-12T20:00:00-07:00
+10.6,Edson,Wind Speed,2026-01-12T20:00:00-07:00
+55.2,Edson,Relative Humidity,2026-01-12T20:00:00-07:00
+5.7,Edson,Outdoor Temperature,2026-01-12T20:00:00-07:00
+0.0,Edson,Sulphur Dioxide,2026-01-12T20:00:00-07:00
+0.001,Edson,Nitric Oxide,2026-01-12T20:00:00-07:00
+0.004,Edson,Total Oxides of Nitrogen,2026-01-12T20:00:00-07:00
+0.004,Edson,Nitrogen Dioxide,2026-01-12T20:00:00-07:00
+1.5,Edson,Fine Particulate Matter,2026-01-12T20:00:00-07:00
+0.038,Edson,Ozone,2026-01-12T20:00:00-07:00
+2.0,Edson,,2026-01-12T20:00:00-07:00
 2.0,Edson,,2026-01-12T19:00:00-07:00
 0.038,Edson,Ozone,2026-01-12T19:00:00-07:00
 1.0,Edson,Fine Particulate Matter,2026-01-12T19:00:00-07:00
