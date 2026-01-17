@@ -1,4 +1,15 @@
 Value,StationName,ParameterName,ReadingDate
+2.0,Genesee,,2026-01-16T23:00:00-07:00
+-6.5,Genesee,Outdoor Temperature,2026-01-16T23:00:00-07:00
+80.5,Genesee,Relative Humidity,2026-01-16T23:00:00-07:00
+0.034,Genesee,Ozone,2026-01-16T23:00:00-07:00
+5.1,Genesee,Fine Particulate Matter,2026-01-16T23:00:00-07:00
+0.001,Genesee,Total Oxides of Nitrogen,2026-01-16T23:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-16T23:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-16T23:00:00-07:00
+10.1,Genesee,Wind Speed,2026-01-16T23:00:00-07:00
+0.002,Genesee,Nitrogen Dioxide,2026-01-16T23:00:00-07:00
+141.0,Genesee,Wind Direction,2026-01-16T23:00:00-07:00
 2.0,Genesee,,2026-01-16T22:00:00-07:00
 10.3,Genesee,Wind Speed,2026-01-16T22:00:00-07:00
 77.4,Genesee,Relative Humidity,2026-01-16T22:00:00-07:00
@@ -10,28 +21,28 @@ Value,StationName,ParameterName,ReadingDate
 0.003,Genesee,Nitrogen Dioxide,2026-01-16T22:00:00-07:00
 0.0,Genesee,Nitric Oxide,2026-01-16T22:00:00-07:00
 0.003,Genesee,Total Oxides of Nitrogen,2026-01-16T22:00:00-07:00
-2.0,Genesee,,2026-01-16T21:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-16T21:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-16T21:00:00-07:00
-75.3,Genesee,Relative Humidity,2026-01-16T21:00:00-07:00
--5.9,Genesee,Outdoor Temperature,2026-01-16T21:00:00-07:00
-0.031,Genesee,Ozone,2026-01-16T21:00:00-07:00
-7.1,Genesee,Fine Particulate Matter,2026-01-16T21:00:00-07:00
-107.0,Genesee,Wind Direction,2026-01-16T21:00:00-07:00
-0.004,Genesee,Nitrogen Dioxide,2026-01-16T21:00:00-07:00
-8.2,Genesee,Wind Speed,2026-01-16T21:00:00-07:00
 0.004,Genesee,Total Oxides of Nitrogen,2026-01-16T21:00:00-07:00
-0.004,Genesee,Total Oxides of Nitrogen,2026-01-16T20:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-16T20:00:00-07:00
-71.2,Genesee,Relative Humidity,2026-01-16T20:00:00-07:00
-7.1,Genesee,Fine Particulate Matter,2026-01-16T20:00:00-07:00
-6.4,Genesee,Wind Speed,2026-01-16T20:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-16T20:00:00-07:00
-0.005,Genesee,Nitrogen Dioxide,2026-01-16T20:00:00-07:00
--5.4,Genesee,Outdoor Temperature,2026-01-16T20:00:00-07:00
-112.0,Genesee,Wind Direction,2026-01-16T20:00:00-07:00
-0.032,Genesee,Ozone,2026-01-16T20:00:00-07:00
+8.2,Genesee,Wind Speed,2026-01-16T21:00:00-07:00
+0.004,Genesee,Nitrogen Dioxide,2026-01-16T21:00:00-07:00
+107.0,Genesee,Wind Direction,2026-01-16T21:00:00-07:00
+7.1,Genesee,Fine Particulate Matter,2026-01-16T21:00:00-07:00
+0.031,Genesee,Ozone,2026-01-16T21:00:00-07:00
+-5.9,Genesee,Outdoor Temperature,2026-01-16T21:00:00-07:00
+75.3,Genesee,Relative Humidity,2026-01-16T21:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-16T21:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-16T21:00:00-07:00
+2.0,Genesee,,2026-01-16T21:00:00-07:00
 2.0,Genesee,,2026-01-16T20:00:00-07:00
+0.032,Genesee,Ozone,2026-01-16T20:00:00-07:00
+112.0,Genesee,Wind Direction,2026-01-16T20:00:00-07:00
+-5.4,Genesee,Outdoor Temperature,2026-01-16T20:00:00-07:00
+0.005,Genesee,Nitrogen Dioxide,2026-01-16T20:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-16T20:00:00-07:00
+6.4,Genesee,Wind Speed,2026-01-16T20:00:00-07:00
+7.1,Genesee,Fine Particulate Matter,2026-01-16T20:00:00-07:00
+71.2,Genesee,Relative Humidity,2026-01-16T20:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-16T20:00:00-07:00
+0.004,Genesee,Total Oxides of Nitrogen,2026-01-16T20:00:00-07:00
 2.0,Genesee,,2026-01-16T19:00:00-07:00
 0.003,Genesee,Total Oxides of Nitrogen,2026-01-16T19:00:00-07:00
 68.5,Genesee,Relative Humidity,2026-01-16T19:00:00-07:00
@@ -59,12 +70,12 @@ Value,StationName,ParameterName,ReadingDate
 0.004,Genesee,Total Oxides of Nitrogen,2026-01-16T17:00:00-07:00
 0.0,Genesee,Nitric Oxide,2026-01-16T17:00:00-07:00
 4.8,Genesee,Wind Speed,2026-01-16T17:00:00-07:00
-162.0,Genesee,Wind Direction,2026-01-16T17:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-16T17:00:00-07:00
-0.037,Genesee,Ozone,2026-01-16T17:00:00-07:00
--3.0,Genesee,Outdoor Temperature,2026-01-16T17:00:00-07:00
-5.8,Genesee,Fine Particulate Matter,2026-01-16T17:00:00-07:00
 0.004,Genesee,Nitrogen Dioxide,2026-01-16T17:00:00-07:00
+5.8,Genesee,Fine Particulate Matter,2026-01-16T17:00:00-07:00
+-3.0,Genesee,Outdoor Temperature,2026-01-16T17:00:00-07:00
+0.037,Genesee,Ozone,2026-01-16T17:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-16T17:00:00-07:00
+162.0,Genesee,Wind Direction,2026-01-16T17:00:00-07:00
 221.0,Genesee,Wind Direction,2026-01-16T16:00:00-07:00
 2.5,Genesee,Wind Speed,2026-01-16T16:00:00-07:00
 -0.5,Genesee,Outdoor Temperature,2026-01-16T16:00:00-07:00
@@ -208,17 +219,17 @@ Value,StationName,ParameterName,ReadingDate
 -3.2,Genesee,Outdoor Temperature,2026-01-16T04:00:00-07:00
 300.0,Genesee,Wind Direction,2026-01-16T04:00:00-07:00
 ,Genesee,Nitric Oxide,2026-01-16T04:00:00-07:00
-0.0,Genesee,Total Oxides of Nitrogen,2026-01-16T03:00:00-07:00
-10.2,Genesee,Wind Speed,2026-01-16T03:00:00-07:00
-0.0,Genesee,Nitrogen Dioxide,2026-01-16T03:00:00-07:00
-2.0,Genesee,Fine Particulate Matter,2026-01-16T03:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-16T03:00:00-07:00
-58.9,Genesee,Relative Humidity,2026-01-16T03:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-16T03:00:00-07:00
-0.039,Genesee,Ozone,2026-01-16T03:00:00-07:00
-298.0,Genesee,Wind Direction,2026-01-16T03:00:00-07:00
--3.6,Genesee,Outdoor Temperature,2026-01-16T03:00:00-07:00
 2.0,Genesee,,2026-01-16T03:00:00-07:00
+-3.6,Genesee,Outdoor Temperature,2026-01-16T03:00:00-07:00
+298.0,Genesee,Wind Direction,2026-01-16T03:00:00-07:00
+0.039,Genesee,Ozone,2026-01-16T03:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-16T03:00:00-07:00
+58.9,Genesee,Relative Humidity,2026-01-16T03:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-16T03:00:00-07:00
+2.0,Genesee,Fine Particulate Matter,2026-01-16T03:00:00-07:00
+0.0,Genesee,Nitrogen Dioxide,2026-01-16T03:00:00-07:00
+10.2,Genesee,Wind Speed,2026-01-16T03:00:00-07:00
+0.0,Genesee,Total Oxides of Nitrogen,2026-01-16T03:00:00-07:00
 2.0,Genesee,,2026-01-16T02:00:00-07:00
 0.0,Genesee,Nitric Oxide,2026-01-16T02:00:00-07:00
 0.0,Genesee,Total Oxides of Nitrogen,2026-01-16T02:00:00-07:00
@@ -659,17 +670,17 @@ Value,StationName,ParameterName,ReadingDate
 5.4,Genesee,Fine Particulate Matter,2026-01-14T11:00:00-07:00
 19.5,Genesee,Wind Speed,2026-01-14T11:00:00-07:00
 0.034,Genesee,Ozone,2026-01-14T11:00:00-07:00
-2.0,Genesee,,2026-01-14T10:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-14T10:00:00-07:00
-6.1,Genesee,Outdoor Temperature,2026-01-14T10:00:00-07:00
-237.0,Genesee,Wind Direction,2026-01-14T10:00:00-07:00
-0.003,Genesee,Nitrogen Dioxide,2026-01-14T10:00:00-07:00
-0.003,Genesee,Total Oxides of Nitrogen,2026-01-14T10:00:00-07:00
-53.1,Genesee,Relative Humidity,2026-01-14T10:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-14T10:00:00-07:00
-4.2,Genesee,Fine Particulate Matter,2026-01-14T10:00:00-07:00
-18.3,Genesee,Wind Speed,2026-01-14T10:00:00-07:00
 0.034,Genesee,Ozone,2026-01-14T10:00:00-07:00
+18.3,Genesee,Wind Speed,2026-01-14T10:00:00-07:00
+4.2,Genesee,Fine Particulate Matter,2026-01-14T10:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-14T10:00:00-07:00
+53.1,Genesee,Relative Humidity,2026-01-14T10:00:00-07:00
+0.003,Genesee,Total Oxides of Nitrogen,2026-01-14T10:00:00-07:00
+0.003,Genesee,Nitrogen Dioxide,2026-01-14T10:00:00-07:00
+237.0,Genesee,Wind Direction,2026-01-14T10:00:00-07:00
+6.1,Genesee,Outdoor Temperature,2026-01-14T10:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-14T10:00:00-07:00
+2.0,Genesee,,2026-01-14T10:00:00-07:00
 2.0,Genesee,,2026-01-14T09:00:00-07:00
 0.0,Genesee,Nitric Oxide,2026-01-14T09:00:00-07:00
 4.9,Genesee,Outdoor Temperature,2026-01-14T09:00:00-07:00
@@ -714,17 +725,17 @@ Value,StationName,ParameterName,ReadingDate
 0.002,Genesee,Total Oxides of Nitrogen,2026-01-14T06:00:00-07:00
 0.002,Genesee,Sulphur Dioxide,2026-01-14T06:00:00-07:00
 5.5,Genesee,Fine Particulate Matter,2026-01-14T06:00:00-07:00
-2.0,Genesee,,2026-01-14T05:00:00-07:00
-0.028,Genesee,Ozone,2026-01-14T05:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-14T05:00:00-07:00
-5.3,Genesee,Outdoor Temperature,2026-01-14T05:00:00-07:00
-236.0,Genesee,Wind Direction,2026-01-14T05:00:00-07:00
-0.004,Genesee,Nitrogen Dioxide,2026-01-14T05:00:00-07:00
-0.004,Genesee,Total Oxides of Nitrogen,2026-01-14T05:00:00-07:00
-66.3,Genesee,Relative Humidity,2026-01-14T05:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-14T05:00:00-07:00
-6.2,Genesee,Fine Particulate Matter,2026-01-14T05:00:00-07:00
 15.4,Genesee,Wind Speed,2026-01-14T05:00:00-07:00
+6.2,Genesee,Fine Particulate Matter,2026-01-14T05:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-14T05:00:00-07:00
+66.3,Genesee,Relative Humidity,2026-01-14T05:00:00-07:00
+0.004,Genesee,Total Oxides of Nitrogen,2026-01-14T05:00:00-07:00
+0.004,Genesee,Nitrogen Dioxide,2026-01-14T05:00:00-07:00
+236.0,Genesee,Wind Direction,2026-01-14T05:00:00-07:00
+5.3,Genesee,Outdoor Temperature,2026-01-14T05:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-14T05:00:00-07:00
+0.028,Genesee,Ozone,2026-01-14T05:00:00-07:00
+2.0,Genesee,,2026-01-14T05:00:00-07:00
 2.0,Genesee,,2026-01-14T04:00:00-07:00
 5.8,Genesee,Outdoor Temperature,2026-01-14T04:00:00-07:00
 235.0,Genesee,Wind Direction,2026-01-14T04:00:00-07:00
@@ -733,20 +744,20 @@ Value,StationName,ParameterName,ReadingDate
 18.1,Genesee,Wind Speed,2026-01-14T04:00:00-07:00
 ,Genesee,Nitrogen Dioxide,2026-01-14T04:00:00-07:00
 ,Genesee,Total Oxides of Nitrogen,2026-01-14T04:00:00-07:00
-,Genesee,Nitric Oxide,2026-01-14T04:00:00-07:00
-,Genesee,Sulphur Dioxide,2026-01-14T04:00:00-07:00
 ,Genesee,Ozone,2026-01-14T04:00:00-07:00
-2.0,Genesee,,2026-01-14T03:00:00-07:00
-0.032,Genesee,Ozone,2026-01-14T03:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-14T03:00:00-07:00
-5.1,Genesee,Outdoor Temperature,2026-01-14T03:00:00-07:00
-225.0,Genesee,Wind Direction,2026-01-14T03:00:00-07:00
-0.003,Genesee,Nitrogen Dioxide,2026-01-14T03:00:00-07:00
-0.003,Genesee,Total Oxides of Nitrogen,2026-01-14T03:00:00-07:00
-64.4,Genesee,Relative Humidity,2026-01-14T03:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-14T03:00:00-07:00
-11.3,Genesee,Fine Particulate Matter,2026-01-14T03:00:00-07:00
+,Genesee,Sulphur Dioxide,2026-01-14T04:00:00-07:00
+,Genesee,Nitric Oxide,2026-01-14T04:00:00-07:00
 18.4,Genesee,Wind Speed,2026-01-14T03:00:00-07:00
+11.3,Genesee,Fine Particulate Matter,2026-01-14T03:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-14T03:00:00-07:00
+64.4,Genesee,Relative Humidity,2026-01-14T03:00:00-07:00
+0.003,Genesee,Total Oxides of Nitrogen,2026-01-14T03:00:00-07:00
+0.003,Genesee,Nitrogen Dioxide,2026-01-14T03:00:00-07:00
+225.0,Genesee,Wind Direction,2026-01-14T03:00:00-07:00
+5.1,Genesee,Outdoor Temperature,2026-01-14T03:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-14T03:00:00-07:00
+0.032,Genesee,Ozone,2026-01-14T03:00:00-07:00
+2.0,Genesee,,2026-01-14T03:00:00-07:00
 3.0,Genesee,,2026-01-14T02:00:00-07:00
 0.0,Genesee,Nitric Oxide,2026-01-14T02:00:00-07:00
 4.5,Genesee,Outdoor Temperature,2026-01-14T02:00:00-07:00
@@ -780,17 +791,17 @@ Value,StationName,ParameterName,ReadingDate
 0.003,Genesee,Total Oxides of Nitrogen,2026-01-14T00:00:00-07:00
 5.3,Genesee,Outdoor Temperature,2026-01-14T00:00:00-07:00
 67.6,Genesee,Relative Humidity,2026-01-14T00:00:00-07:00
-12.5,Genesee,Fine Particulate Matter,2026-01-13T23:00:00-07:00
-13.2,Genesee,Wind Speed,2026-01-13T23:00:00-07:00
-0.004,Genesee,Nitrogen Dioxide,2026-01-13T23:00:00-07:00
-227.0,Genesee,Wind Direction,2026-01-13T23:00:00-07:00
-0.032,Genesee,Ozone,2026-01-13T23:00:00-07:00
-68.4,Genesee,Relative Humidity,2026-01-13T23:00:00-07:00
-5.3,Genesee,Outdoor Temperature,2026-01-13T23:00:00-07:00
-0.003,Genesee,Total Oxides of Nitrogen,2026-01-13T23:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-13T23:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-13T23:00:00-07:00
 3.0,Genesee,,2026-01-13T23:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-13T23:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-13T23:00:00-07:00
+0.003,Genesee,Total Oxides of Nitrogen,2026-01-13T23:00:00-07:00
+5.3,Genesee,Outdoor Temperature,2026-01-13T23:00:00-07:00
+68.4,Genesee,Relative Humidity,2026-01-13T23:00:00-07:00
+0.032,Genesee,Ozone,2026-01-13T23:00:00-07:00
+227.0,Genesee,Wind Direction,2026-01-13T23:00:00-07:00
+0.004,Genesee,Nitrogen Dioxide,2026-01-13T23:00:00-07:00
+13.2,Genesee,Wind Speed,2026-01-13T23:00:00-07:00
+12.5,Genesee,Fine Particulate Matter,2026-01-13T23:00:00-07:00
 15.1,Genesee,Fine Particulate Matter,2026-01-13T22:00:00-07:00
 13.2,Genesee,Wind Speed,2026-01-13T22:00:00-07:00
 0.004,Genesee,Nitrogen Dioxide,2026-01-13T22:00:00-07:00
@@ -824,21 +835,21 @@ Value,StationName,ParameterName,ReadingDate
 207.0,Genesee,Wind Direction,2026-01-13T20:00:00-07:00
 8.5,Genesee,Wind Speed,2026-01-13T20:00:00-07:00
 14.9,Genesee,Fine Particulate Matter,2026-01-13T20:00:00-07:00
-3.0,Genesee,,2026-01-13T19:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-13T19:00:00-07:00
-0.006,Genesee,Nitrogen Dioxide,2026-01-13T19:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-13T19:00:00-07:00
-5.6,Genesee,Outdoor Temperature,2026-01-13T19:00:00-07:00
-60.7,Genesee,Relative Humidity,2026-01-13T19:00:00-07:00
-0.035,Genesee,Ozone,2026-01-13T19:00:00-07:00
-0.005,Genesee,Total Oxides of Nitrogen,2026-01-13T19:00:00-07:00
-192.0,Genesee,Wind Direction,2026-01-13T19:00:00-07:00
-5.5,Genesee,Wind Speed,2026-01-13T19:00:00-07:00
 8.5,Genesee,Fine Particulate Matter,2026-01-13T19:00:00-07:00
-3.0,Genesee,,2026-01-13T18:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-13T18:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-13T18:00:00-07:00
+5.5,Genesee,Wind Speed,2026-01-13T19:00:00-07:00
+192.0,Genesee,Wind Direction,2026-01-13T19:00:00-07:00
+0.005,Genesee,Total Oxides of Nitrogen,2026-01-13T19:00:00-07:00
+0.035,Genesee,Ozone,2026-01-13T19:00:00-07:00
+60.7,Genesee,Relative Humidity,2026-01-13T19:00:00-07:00
+5.6,Genesee,Outdoor Temperature,2026-01-13T19:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-13T19:00:00-07:00
+0.006,Genesee,Nitrogen Dioxide,2026-01-13T19:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-13T19:00:00-07:00
+3.0,Genesee,,2026-01-13T19:00:00-07:00
 6.9,Genesee,Outdoor Temperature,2026-01-13T18:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-13T18:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-13T18:00:00-07:00
+3.0,Genesee,,2026-01-13T18:00:00-07:00
 57.1,Genesee,Relative Humidity,2026-01-13T18:00:00-07:00
 0.036,Genesee,Ozone,2026-01-13T18:00:00-07:00
 0.005,Genesee,Total Oxides of Nitrogen,2026-01-13T18:00:00-07:00
@@ -846,18 +857,17 @@ Value,StationName,ParameterName,ReadingDate
 0.005,Genesee,Nitrogen Dioxide,2026-01-13T18:00:00-07:00
 5.7,Genesee,Wind Speed,2026-01-13T18:00:00-07:00
 7.4,Genesee,Fine Particulate Matter,2026-01-13T18:00:00-07:00
+6.6,Genesee,Fine Particulate Matter,2026-01-13T17:00:00-07:00
+10.0,Genesee,Wind Speed,2026-01-13T17:00:00-07:00
+0.005,Genesee,Nitrogen Dioxide,2026-01-13T17:00:00-07:00
+221.0,Genesee,Wind Direction,2026-01-13T17:00:00-07:00
+0.005,Genesee,Total Oxides of Nitrogen,2026-01-13T17:00:00-07:00
+0.038,Genesee,Ozone,2026-01-13T17:00:00-07:00
+52.5,Genesee,Relative Humidity,2026-01-13T17:00:00-07:00
 8.0,Genesee,Outdoor Temperature,2026-01-13T17:00:00-07:00
 0.002,Genesee,Sulphur Dioxide,2026-01-13T17:00:00-07:00
 0.0,Genesee,Nitric Oxide,2026-01-13T17:00:00-07:00
 3.0,Genesee,,2026-01-13T17:00:00-07:00
-52.5,Genesee,Relative Humidity,2026-01-13T17:00:00-07:00
-0.038,Genesee,Ozone,2026-01-13T17:00:00-07:00
-0.005,Genesee,Total Oxides of Nitrogen,2026-01-13T17:00:00-07:00
-221.0,Genesee,Wind Direction,2026-01-13T17:00:00-07:00
-0.005,Genesee,Nitrogen Dioxide,2026-01-13T17:00:00-07:00
-10.0,Genesee,Wind Speed,2026-01-13T17:00:00-07:00
-6.6,Genesee,Fine Particulate Matter,2026-01-13T17:00:00-07:00
-3.0,Genesee,,2026-01-13T16:00:00-07:00
 0.002,Genesee,Sulphur Dioxide,2026-01-13T16:00:00-07:00
 0.003,Genesee,Nitrogen Dioxide,2026-01-13T16:00:00-07:00
 0.003,Genesee,Total Oxides of Nitrogen,2026-01-13T16:00:00-07:00
@@ -868,21 +878,18 @@ Value,StationName,ParameterName,ReadingDate
 7.9,Genesee,Wind Speed,2026-01-13T16:00:00-07:00
 5.4,Genesee,Fine Particulate Matter,2026-01-13T16:00:00-07:00
 0.0,Genesee,Nitric Oxide,2026-01-13T16:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-13T15:00:00-07:00
-7.2,Genesee,Fine Particulate Matter,2026-01-13T15:00:00-07:00
-8.8,Genesee,Wind Speed,2026-01-13T15:00:00-07:00
-213.0,Genesee,Wind Direction,2026-01-13T15:00:00-07:00
-0.039,Genesee,Ozone,2026-01-13T15:00:00-07:00
-55.5,Genesee,Relative Humidity,2026-01-13T15:00:00-07:00
-7.6,Genesee,Outdoor Temperature,2026-01-13T15:00:00-07:00
-0.003,Genesee,Total Oxides of Nitrogen,2026-01-13T15:00:00-07:00
-0.003,Genesee,Nitrogen Dioxide,2026-01-13T15:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-13T15:00:00-07:00
+3.0,Genesee,,2026-01-13T16:00:00-07:00
 3.0,Genesee,,2026-01-13T15:00:00-07:00
-3.0,Genesee,,2026-01-13T14:00:00-07:00
-0.001,Genesee,Nitric Oxide,2026-01-13T14:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-13T14:00:00-07:00
-0.003,Genesee,Nitrogen Dioxide,2026-01-13T14:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-13T15:00:00-07:00
+0.003,Genesee,Nitrogen Dioxide,2026-01-13T15:00:00-07:00
+0.003,Genesee,Total Oxides of Nitrogen,2026-01-13T15:00:00-07:00
+7.6,Genesee,Outdoor Temperature,2026-01-13T15:00:00-07:00
+55.5,Genesee,Relative Humidity,2026-01-13T15:00:00-07:00
+0.039,Genesee,Ozone,2026-01-13T15:00:00-07:00
+213.0,Genesee,Wind Direction,2026-01-13T15:00:00-07:00
+8.8,Genesee,Wind Speed,2026-01-13T15:00:00-07:00
+7.2,Genesee,Fine Particulate Matter,2026-01-13T15:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-13T15:00:00-07:00
 0.003,Genesee,Total Oxides of Nitrogen,2026-01-13T14:00:00-07:00
 7.9,Genesee,Outdoor Temperature,2026-01-13T14:00:00-07:00
 56.9,Genesee,Relative Humidity,2026-01-13T14:00:00-07:00
@@ -890,17 +897,21 @@ Value,StationName,ParameterName,ReadingDate
 244.0,Genesee,Wind Direction,2026-01-13T14:00:00-07:00
 7.2,Genesee,Wind Speed,2026-01-13T14:00:00-07:00
 8.3,Genesee,Fine Particulate Matter,2026-01-13T14:00:00-07:00
+3.0,Genesee,,2026-01-13T14:00:00-07:00
+0.001,Genesee,Nitric Oxide,2026-01-13T14:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-13T14:00:00-07:00
+0.003,Genesee,Nitrogen Dioxide,2026-01-13T14:00:00-07:00
 3.0,Genesee,,2026-01-13T13:00:00-07:00
 0.0,Genesee,Nitric Oxide,2026-01-13T13:00:00-07:00
 0.002,Genesee,Sulphur Dioxide,2026-01-13T13:00:00-07:00
 0.002,Genesee,Nitrogen Dioxide,2026-01-13T13:00:00-07:00
 0.003,Genesee,Total Oxides of Nitrogen,2026-01-13T13:00:00-07:00
-7.6,Genesee,Fine Particulate Matter,2026-01-13T13:00:00-07:00
-8.9,Genesee,Wind Speed,2026-01-13T13:00:00-07:00
-241.0,Genesee,Wind Direction,2026-01-13T13:00:00-07:00
-0.038,Genesee,Ozone,2026-01-13T13:00:00-07:00
-60.2,Genesee,Relative Humidity,2026-01-13T13:00:00-07:00
 7.5,Genesee,Outdoor Temperature,2026-01-13T13:00:00-07:00
+60.2,Genesee,Relative Humidity,2026-01-13T13:00:00-07:00
+0.038,Genesee,Ozone,2026-01-13T13:00:00-07:00
+241.0,Genesee,Wind Direction,2026-01-13T13:00:00-07:00
+8.9,Genesee,Wind Speed,2026-01-13T13:00:00-07:00
+7.6,Genesee,Fine Particulate Matter,2026-01-13T13:00:00-07:00
 0.0,Genesee,Nitric Oxide,2026-01-13T12:00:00-07:00
 10.7,Genesee,Wind Speed,2026-01-13T12:00:00-07:00
 226.0,Genesee,Wind Direction,2026-01-13T12:00:00-07:00
@@ -909,20 +920,23 @@ Value,StationName,ParameterName,ReadingDate
 7.4,Genesee,Outdoor Temperature,2026-01-13T12:00:00-07:00
 0.002,Genesee,Nitrogen Dioxide,2026-01-13T12:00:00-07:00
 0.002,Genesee,Sulphur Dioxide,2026-01-13T12:00:00-07:00
-0.002,Genesee,Total Oxides of Nitrogen,2026-01-13T12:00:00-07:00
-9.2,Genesee,Fine Particulate Matter,2026-01-13T12:00:00-07:00
 3.0,Genesee,,2026-01-13T12:00:00-07:00
+9.2,Genesee,Fine Particulate Matter,2026-01-13T12:00:00-07:00
+0.002,Genesee,Total Oxides of Nitrogen,2026-01-13T12:00:00-07:00
 3.0,Genesee,,2026-01-13T11:00:00-07:00
 12.3,Genesee,Fine Particulate Matter,2026-01-13T11:00:00-07:00
 0.0,Genesee,Nitric Oxide,2026-01-13T11:00:00-07:00
 0.002,Genesee,Nitrogen Dioxide,2026-01-13T11:00:00-07:00
-15.6,Genesee,Wind Speed,2026-01-13T11:00:00-07:00
-260.0,Genesee,Wind Direction,2026-01-13T11:00:00-07:00
-0.038,Genesee,Ozone,2026-01-13T11:00:00-07:00
-57.5,Genesee,Relative Humidity,2026-01-13T11:00:00-07:00
-8.4,Genesee,Outdoor Temperature,2026-01-13T11:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-13T11:00:00-07:00
 0.002,Genesee,Total Oxides of Nitrogen,2026-01-13T11:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-13T11:00:00-07:00
+8.4,Genesee,Outdoor Temperature,2026-01-13T11:00:00-07:00
+57.5,Genesee,Relative Humidity,2026-01-13T11:00:00-07:00
+0.038,Genesee,Ozone,2026-01-13T11:00:00-07:00
+260.0,Genesee,Wind Direction,2026-01-13T11:00:00-07:00
+15.6,Genesee,Wind Speed,2026-01-13T11:00:00-07:00
+8.7,Genesee,Fine Particulate Matter,2026-01-13T10:00:00-07:00
+16.2,Genesee,Wind Speed,2026-01-13T10:00:00-07:00
+2.0,Genesee,,2026-01-13T10:00:00-07:00
 0.0,Genesee,Nitric Oxide,2026-01-13T10:00:00-07:00
 258.0,Genesee,Wind Direction,2026-01-13T10:00:00-07:00
 0.038,Genesee,Ozone,2026-01-13T10:00:00-07:00
@@ -931,130 +945,127 @@ Value,StationName,ParameterName,ReadingDate
 0.002,Genesee,Sulphur Dioxide,2026-01-13T10:00:00-07:00
 0.001,Genesee,Total Oxides of Nitrogen,2026-01-13T10:00:00-07:00
 0.001,Genesee,Nitrogen Dioxide,2026-01-13T10:00:00-07:00
-8.7,Genesee,Fine Particulate Matter,2026-01-13T10:00:00-07:00
-16.2,Genesee,Wind Speed,2026-01-13T10:00:00-07:00
-2.0,Genesee,,2026-01-13T10:00:00-07:00
-0.003,Genesee,Nitrogen Dioxide,2026-01-13T09:00:00-07:00
-8.4,Genesee,Outdoor Temperature,2026-01-13T09:00:00-07:00
-58.2,Genesee,Relative Humidity,2026-01-13T09:00:00-07:00
-0.037,Genesee,Ozone,2026-01-13T09:00:00-07:00
-260.0,Genesee,Wind Direction,2026-01-13T09:00:00-07:00
-17.6,Genesee,Wind Speed,2026-01-13T09:00:00-07:00
-5.3,Genesee,Fine Particulate Matter,2026-01-13T09:00:00-07:00
 0.0,Genesee,Nitric Oxide,2026-01-13T09:00:00-07:00
-2.0,Genesee,,2026-01-13T09:00:00-07:00
-0.002,Genesee,Total Oxides of Nitrogen,2026-01-13T09:00:00-07:00
+5.3,Genesee,Fine Particulate Matter,2026-01-13T09:00:00-07:00
+17.6,Genesee,Wind Speed,2026-01-13T09:00:00-07:00
+260.0,Genesee,Wind Direction,2026-01-13T09:00:00-07:00
+0.037,Genesee,Ozone,2026-01-13T09:00:00-07:00
+58.2,Genesee,Relative Humidity,2026-01-13T09:00:00-07:00
+8.4,Genesee,Outdoor Temperature,2026-01-13T09:00:00-07:00
+0.003,Genesee,Nitrogen Dioxide,2026-01-13T09:00:00-07:00
 0.002,Genesee,Sulphur Dioxide,2026-01-13T09:00:00-07:00
-8.2,Genesee,Fine Particulate Matter,2026-01-13T08:00:00-07:00
-16.1,Genesee,Wind Speed,2026-01-13T08:00:00-07:00
-264.0,Genesee,Wind Direction,2026-01-13T08:00:00-07:00
-0.038,Genesee,Ozone,2026-01-13T08:00:00-07:00
-56.3,Genesee,Relative Humidity,2026-01-13T08:00:00-07:00
-8.5,Genesee,Outdoor Temperature,2026-01-13T08:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-13T08:00:00-07:00
-0.002,Genesee,Nitrogen Dioxide,2026-01-13T08:00:00-07:00
-0.001,Genesee,Total Oxides of Nitrogen,2026-01-13T08:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-13T08:00:00-07:00
+0.002,Genesee,Total Oxides of Nitrogen,2026-01-13T09:00:00-07:00
+2.0,Genesee,,2026-01-13T09:00:00-07:00
 2.0,Genesee,,2026-01-13T08:00:00-07:00
-57.8,Genesee,Relative Humidity,2026-01-13T07:00:00-07:00
-8.3,Genesee,Outdoor Temperature,2026-01-13T07:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-13T07:00:00-07:00
-0.001,Genesee,Total Oxides of Nitrogen,2026-01-13T07:00:00-07:00
-0.001,Genesee,Nitrogen Dioxide,2026-01-13T07:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-13T08:00:00-07:00
+0.001,Genesee,Total Oxides of Nitrogen,2026-01-13T08:00:00-07:00
+0.002,Genesee,Nitrogen Dioxide,2026-01-13T08:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-13T08:00:00-07:00
+8.5,Genesee,Outdoor Temperature,2026-01-13T08:00:00-07:00
+56.3,Genesee,Relative Humidity,2026-01-13T08:00:00-07:00
+0.038,Genesee,Ozone,2026-01-13T08:00:00-07:00
+264.0,Genesee,Wind Direction,2026-01-13T08:00:00-07:00
+16.1,Genesee,Wind Speed,2026-01-13T08:00:00-07:00
+8.2,Genesee,Fine Particulate Matter,2026-01-13T08:00:00-07:00
 2.0,Genesee,,2026-01-13T07:00:00-07:00
+0.001,Genesee,Nitrogen Dioxide,2026-01-13T07:00:00-07:00
+0.001,Genesee,Total Oxides of Nitrogen,2026-01-13T07:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-13T07:00:00-07:00
+8.3,Genesee,Outdoor Temperature,2026-01-13T07:00:00-07:00
+57.8,Genesee,Relative Humidity,2026-01-13T07:00:00-07:00
 0.037,Genesee,Ozone,2026-01-13T07:00:00-07:00
 258.0,Genesee,Wind Direction,2026-01-13T07:00:00-07:00
 16.6,Genesee,Wind Speed,2026-01-13T07:00:00-07:00
 5.0,Genesee,Fine Particulate Matter,2026-01-13T07:00:00-07:00
 0.0,Genesee,Nitric Oxide,2026-01-13T07:00:00-07:00
+54.5,Genesee,Relative Humidity,2026-01-13T06:00:00-07:00
+9.5,Genesee,Outdoor Temperature,2026-01-13T06:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-13T06:00:00-07:00
 0.001,Genesee,Total Oxides of Nitrogen,2026-01-13T06:00:00-07:00
+0.036,Genesee,Ozone,2026-01-13T06:00:00-07:00
+263.0,Genesee,Wind Direction,2026-01-13T06:00:00-07:00
+19.3,Genesee,Wind Speed,2026-01-13T06:00:00-07:00
+4.7,Genesee,Fine Particulate Matter,2026-01-13T06:00:00-07:00
 0.001,Genesee,Nitrogen Dioxide,2026-01-13T06:00:00-07:00
 0.0,Genesee,Nitric Oxide,2026-01-13T06:00:00-07:00
 2.0,Genesee,,2026-01-13T06:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-13T06:00:00-07:00
-9.5,Genesee,Outdoor Temperature,2026-01-13T06:00:00-07:00
-54.5,Genesee,Relative Humidity,2026-01-13T06:00:00-07:00
-4.7,Genesee,Fine Particulate Matter,2026-01-13T06:00:00-07:00
-19.3,Genesee,Wind Speed,2026-01-13T06:00:00-07:00
-263.0,Genesee,Wind Direction,2026-01-13T06:00:00-07:00
-0.036,Genesee,Ozone,2026-01-13T06:00:00-07:00
-6.0,Genesee,Fine Particulate Matter,2026-01-13T05:00:00-07:00
-20.4,Genesee,Wind Speed,2026-01-13T05:00:00-07:00
-259.0,Genesee,Wind Direction,2026-01-13T05:00:00-07:00
-0.036,Genesee,Ozone,2026-01-13T05:00:00-07:00
-54.8,Genesee,Relative Humidity,2026-01-13T05:00:00-07:00
-10.0,Genesee,Outdoor Temperature,2026-01-13T05:00:00-07:00
 0.002,Genesee,Sulphur Dioxide,2026-01-13T05:00:00-07:00
 0.001,Genesee,Total Oxides of Nitrogen,2026-01-13T05:00:00-07:00
 0.001,Genesee,Nitrogen Dioxide,2026-01-13T05:00:00-07:00
 0.0,Genesee,Nitric Oxide,2026-01-13T05:00:00-07:00
 3.0,Genesee,,2026-01-13T05:00:00-07:00
+10.0,Genesee,Outdoor Temperature,2026-01-13T05:00:00-07:00
+54.8,Genesee,Relative Humidity,2026-01-13T05:00:00-07:00
+0.036,Genesee,Ozone,2026-01-13T05:00:00-07:00
+259.0,Genesee,Wind Direction,2026-01-13T05:00:00-07:00
+20.4,Genesee,Wind Speed,2026-01-13T05:00:00-07:00
+6.0,Genesee,Fine Particulate Matter,2026-01-13T05:00:00-07:00
+3.0,Genesee,,2026-01-13T04:00:00-07:00
+9.3,Genesee,Outdoor Temperature,2026-01-13T04:00:00-07:00
+56.0,Genesee,Relative Humidity,2026-01-13T04:00:00-07:00
+,Genesee,Sulphur Dioxide,2026-01-13T04:00:00-07:00
+,Genesee,Ozone,2026-01-13T04:00:00-07:00
+,Genesee,Total Oxides of Nitrogen,2026-01-13T04:00:00-07:00
+,Genesee,Nitric Oxide,2026-01-13T04:00:00-07:00
 257.0,Genesee,Wind Direction,2026-01-13T04:00:00-07:00
 ,Genesee,Nitrogen Dioxide,2026-01-13T04:00:00-07:00
 20.6,Genesee,Wind Speed,2026-01-13T04:00:00-07:00
 14.8,Genesee,Fine Particulate Matter,2026-01-13T04:00:00-07:00
-,Genesee,Nitric Oxide,2026-01-13T04:00:00-07:00
-,Genesee,Total Oxides of Nitrogen,2026-01-13T04:00:00-07:00
-,Genesee,Ozone,2026-01-13T04:00:00-07:00
-,Genesee,Sulphur Dioxide,2026-01-13T04:00:00-07:00
-56.0,Genesee,Relative Humidity,2026-01-13T04:00:00-07:00
-9.3,Genesee,Outdoor Temperature,2026-01-13T04:00:00-07:00
-3.0,Genesee,,2026-01-13T04:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-13T03:00:00-07:00
-16.3,Genesee,Fine Particulate Matter,2026-01-13T03:00:00-07:00
-19.8,Genesee,Wind Speed,2026-01-13T03:00:00-07:00
-259.0,Genesee,Wind Direction,2026-01-13T03:00:00-07:00
-0.036,Genesee,Ozone,2026-01-13T03:00:00-07:00
-53.8,Genesee,Relative Humidity,2026-01-13T03:00:00-07:00
-9.9,Genesee,Outdoor Temperature,2026-01-13T03:00:00-07:00
-0.002,Genesee,Nitrogen Dioxide,2026-01-13T03:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-13T03:00:00-07:00
-0.001,Genesee,Total Oxides of Nitrogen,2026-01-13T03:00:00-07:00
 3.0,Genesee,,2026-01-13T03:00:00-07:00
+0.001,Genesee,Total Oxides of Nitrogen,2026-01-13T03:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-13T03:00:00-07:00
+0.002,Genesee,Nitrogen Dioxide,2026-01-13T03:00:00-07:00
+9.9,Genesee,Outdoor Temperature,2026-01-13T03:00:00-07:00
+53.8,Genesee,Relative Humidity,2026-01-13T03:00:00-07:00
+0.036,Genesee,Ozone,2026-01-13T03:00:00-07:00
+259.0,Genesee,Wind Direction,2026-01-13T03:00:00-07:00
+19.8,Genesee,Wind Speed,2026-01-13T03:00:00-07:00
+16.3,Genesee,Fine Particulate Matter,2026-01-13T03:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-13T03:00:00-07:00
+3.0,Genesee,,2026-01-13T02:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-13T02:00:00-07:00
+0.001,Genesee,Total Oxides of Nitrogen,2026-01-13T02:00:00-07:00
+0.002,Genesee,Nitrogen Dioxide,2026-01-13T02:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-13T02:00:00-07:00
+8.0,Genesee,Outdoor Temperature,2026-01-13T02:00:00-07:00
+57.4,Genesee,Relative Humidity,2026-01-13T02:00:00-07:00
+0.036,Genesee,Ozone,2026-01-13T02:00:00-07:00
 18.4,Genesee,Fine Particulate Matter,2026-01-13T02:00:00-07:00
 17.7,Genesee,Wind Speed,2026-01-13T02:00:00-07:00
 254.0,Genesee,Wind Direction,2026-01-13T02:00:00-07:00
-0.036,Genesee,Ozone,2026-01-13T02:00:00-07:00
-57.4,Genesee,Relative Humidity,2026-01-13T02:00:00-07:00
-8.0,Genesee,Outdoor Temperature,2026-01-13T02:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-13T02:00:00-07:00
-0.002,Genesee,Nitrogen Dioxide,2026-01-13T02:00:00-07:00
-0.001,Genesee,Total Oxides of Nitrogen,2026-01-13T02:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-13T02:00:00-07:00
-3.0,Genesee,,2026-01-13T02:00:00-07:00
 3.0,Genesee,,2026-01-13T01:00:00-07:00
-16.9,Genesee,Fine Particulate Matter,2026-01-13T01:00:00-07:00
-23.2,Genesee,Wind Speed,2026-01-13T01:00:00-07:00
-253.0,Genesee,Wind Direction,2026-01-13T01:00:00-07:00
-0.037,Genesee,Ozone,2026-01-13T01:00:00-07:00
-53.8,Genesee,Relative Humidity,2026-01-13T01:00:00-07:00
-8.7,Genesee,Outdoor Temperature,2026-01-13T01:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-13T01:00:00-07:00
-0.001,Genesee,Total Oxides of Nitrogen,2026-01-13T01:00:00-07:00
-0.001,Genesee,Nitrogen Dioxide,2026-01-13T01:00:00-07:00
 0.0,Genesee,Nitric Oxide,2026-01-13T01:00:00-07:00
-0.001,Genesee,Nitrogen Dioxide,2026-01-13T00:00:00-07:00
-0.001,Genesee,Total Oxides of Nitrogen,2026-01-13T00:00:00-07:00
-0.036,Genesee,Ozone,2026-01-13T00:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-13T00:00:00-07:00
-8.8,Genesee,Outdoor Temperature,2026-01-13T00:00:00-07:00
-255.0,Genesee,Wind Direction,2026-01-13T00:00:00-07:00
+0.001,Genesee,Nitrogen Dioxide,2026-01-13T01:00:00-07:00
+0.001,Genesee,Total Oxides of Nitrogen,2026-01-13T01:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-13T01:00:00-07:00
+8.7,Genesee,Outdoor Temperature,2026-01-13T01:00:00-07:00
+53.8,Genesee,Relative Humidity,2026-01-13T01:00:00-07:00
+0.037,Genesee,Ozone,2026-01-13T01:00:00-07:00
+253.0,Genesee,Wind Direction,2026-01-13T01:00:00-07:00
+23.2,Genesee,Wind Speed,2026-01-13T01:00:00-07:00
+16.9,Genesee,Fine Particulate Matter,2026-01-13T01:00:00-07:00
 2.0,Genesee,,2026-01-13T00:00:00-07:00
+255.0,Genesee,Wind Direction,2026-01-13T00:00:00-07:00
+8.8,Genesee,Outdoor Temperature,2026-01-13T00:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-13T00:00:00-07:00
+0.036,Genesee,Ozone,2026-01-13T00:00:00-07:00
+0.001,Genesee,Total Oxides of Nitrogen,2026-01-13T00:00:00-07:00
+0.001,Genesee,Nitrogen Dioxide,2026-01-13T00:00:00-07:00
 16.7,Genesee,Fine Particulate Matter,2026-01-13T00:00:00-07:00
 54.1,Genesee,Relative Humidity,2026-01-13T00:00:00-07:00
 0.002,Genesee,Sulphur Dioxide,2026-01-13T00:00:00-07:00
 19.0,Genesee,Wind Speed,2026-01-13T00:00:00-07:00
-8.7,Genesee,Fine Particulate Matter,2026-01-12T23:00:00-07:00
-3.0,Genesee,,2026-01-12T23:00:00-07:00
-0.001,Genesee,Nitrogen Dioxide,2026-01-12T23:00:00-07:00
-0.001,Genesee,Total Oxides of Nitrogen,2026-01-12T23:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-12T23:00:00-07:00
-57.1,Genesee,Relative Humidity,2026-01-12T23:00:00-07:00
-8.3,Genesee,Outdoor Temperature,2026-01-12T23:00:00-07:00
-255.0,Genesee,Wind Direction,2026-01-12T23:00:00-07:00
-15.1,Genesee,Wind Speed,2026-01-12T23:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-12T23:00:00-07:00
 0.036,Genesee,Ozone,2026-01-12T23:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-12T23:00:00-07:00
+15.1,Genesee,Wind Speed,2026-01-12T23:00:00-07:00
+255.0,Genesee,Wind Direction,2026-01-12T23:00:00-07:00
+8.3,Genesee,Outdoor Temperature,2026-01-12T23:00:00-07:00
+57.1,Genesee,Relative Humidity,2026-01-12T23:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-12T23:00:00-07:00
+0.001,Genesee,Total Oxides of Nitrogen,2026-01-12T23:00:00-07:00
+0.001,Genesee,Nitrogen Dioxide,2026-01-12T23:00:00-07:00
+3.0,Genesee,,2026-01-12T23:00:00-07:00
+8.7,Genesee,Fine Particulate Matter,2026-01-12T23:00:00-07:00
 4.0,Genesee,,2026-01-12T22:00:00-07:00
 0.037,Genesee,Ozone,2026-01-12T22:00:00-07:00
 6.8,Genesee,Fine Particulate Matter,2026-01-12T22:00:00-07:00
@@ -1099,50 +1110,50 @@ Value,StationName,ParameterName,ReadingDate
 25.0,Genesee,Wind Speed,2026-01-12T19:00:00-07:00
 259.0,Genesee,Wind Direction,2026-01-12T19:00:00-07:00
 45.0,Genesee,Relative Humidity,2026-01-12T19:00:00-07:00
-2.0,Genesee,,2026-01-12T18:00:00-07:00
-6.7,Genesee,Fine Particulate Matter,2026-01-12T18:00:00-07:00
-0.042,Genesee,Ozone,2026-01-12T18:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-12T18:00:00-07:00
-0.001,Genesee,Nitrogen Dioxide,2026-01-12T18:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-12T18:00:00-07:00
-0.0,Genesee,Total Oxides of Nitrogen,2026-01-12T18:00:00-07:00
-12.1,Genesee,Outdoor Temperature,2026-01-12T18:00:00-07:00
-28.8,Genesee,Wind Speed,2026-01-12T18:00:00-07:00
-261.0,Genesee,Wind Direction,2026-01-12T18:00:00-07:00
 41.4,Genesee,Relative Humidity,2026-01-12T18:00:00-07:00
-2.0,Genesee,,2026-01-12T17:00:00-07:00
-3.6,Genesee,Fine Particulate Matter,2026-01-12T17:00:00-07:00
-0.041,Genesee,Ozone,2026-01-12T17:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-12T17:00:00-07:00
-0.0,Genesee,Nitrogen Dioxide,2026-01-12T17:00:00-07:00
-0.0,Genesee,Total Oxides of Nitrogen,2026-01-12T17:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-12T17:00:00-07:00
-12.6,Genesee,Outdoor Temperature,2026-01-12T17:00:00-07:00
-24.9,Genesee,Wind Speed,2026-01-12T17:00:00-07:00
+261.0,Genesee,Wind Direction,2026-01-12T18:00:00-07:00
+28.8,Genesee,Wind Speed,2026-01-12T18:00:00-07:00
+12.1,Genesee,Outdoor Temperature,2026-01-12T18:00:00-07:00
+0.0,Genesee,Total Oxides of Nitrogen,2026-01-12T18:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-12T18:00:00-07:00
+0.001,Genesee,Nitrogen Dioxide,2026-01-12T18:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-12T18:00:00-07:00
+0.042,Genesee,Ozone,2026-01-12T18:00:00-07:00
+6.7,Genesee,Fine Particulate Matter,2026-01-12T18:00:00-07:00
+2.0,Genesee,,2026-01-12T18:00:00-07:00
 263.0,Genesee,Wind Direction,2026-01-12T17:00:00-07:00
+24.9,Genesee,Wind Speed,2026-01-12T17:00:00-07:00
+12.6,Genesee,Outdoor Temperature,2026-01-12T17:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-12T17:00:00-07:00
+0.0,Genesee,Total Oxides of Nitrogen,2026-01-12T17:00:00-07:00
+0.0,Genesee,Nitrogen Dioxide,2026-01-12T17:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-12T17:00:00-07:00
+0.041,Genesee,Ozone,2026-01-12T17:00:00-07:00
+3.6,Genesee,Fine Particulate Matter,2026-01-12T17:00:00-07:00
+2.0,Genesee,,2026-01-12T17:00:00-07:00
 39.6,Genesee,Relative Humidity,2026-01-12T17:00:00-07:00
-2.0,Genesee,,2026-01-12T16:00:00-07:00
-5.1,Genesee,Fine Particulate Matter,2026-01-12T16:00:00-07:00
-0.039,Genesee,Ozone,2026-01-12T16:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-12T16:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-12T16:00:00-07:00
-0.001,Genesee,Nitrogen Dioxide,2026-01-12T16:00:00-07:00
-0.001,Genesee,Total Oxides of Nitrogen,2026-01-12T16:00:00-07:00
-13.1,Genesee,Outdoor Temperature,2026-01-12T16:00:00-07:00
-26.7,Genesee,Wind Speed,2026-01-12T16:00:00-07:00
-263.0,Genesee,Wind Direction,2026-01-12T16:00:00-07:00
 38.2,Genesee,Relative Humidity,2026-01-12T16:00:00-07:00
-0.003,Genesee,Total Oxides of Nitrogen,2026-01-12T15:00:00-07:00
-0.003,Genesee,Nitrogen Dioxide,2026-01-12T15:00:00-07:00
-44.0,Genesee,Relative Humidity,2026-01-12T15:00:00-07:00
-252.0,Genesee,Wind Direction,2026-01-12T15:00:00-07:00
-23.0,Genesee,Wind Speed,2026-01-12T15:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-12T15:00:00-07:00
-11.1,Genesee,Outdoor Temperature,2026-01-12T15:00:00-07:00
-0.04,Genesee,Ozone,2026-01-12T15:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-12T15:00:00-07:00
-8.8,Genesee,Fine Particulate Matter,2026-01-12T15:00:00-07:00
+263.0,Genesee,Wind Direction,2026-01-12T16:00:00-07:00
+26.7,Genesee,Wind Speed,2026-01-12T16:00:00-07:00
+13.1,Genesee,Outdoor Temperature,2026-01-12T16:00:00-07:00
+0.001,Genesee,Total Oxides of Nitrogen,2026-01-12T16:00:00-07:00
+0.001,Genesee,Nitrogen Dioxide,2026-01-12T16:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-12T16:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-12T16:00:00-07:00
+0.039,Genesee,Ozone,2026-01-12T16:00:00-07:00
+5.1,Genesee,Fine Particulate Matter,2026-01-12T16:00:00-07:00
+2.0,Genesee,,2026-01-12T16:00:00-07:00
 2.0,Genesee,,2026-01-12T15:00:00-07:00
+8.8,Genesee,Fine Particulate Matter,2026-01-12T15:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-12T15:00:00-07:00
+0.04,Genesee,Ozone,2026-01-12T15:00:00-07:00
+11.1,Genesee,Outdoor Temperature,2026-01-12T15:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-12T15:00:00-07:00
+23.0,Genesee,Wind Speed,2026-01-12T15:00:00-07:00
+252.0,Genesee,Wind Direction,2026-01-12T15:00:00-07:00
+44.0,Genesee,Relative Humidity,2026-01-12T15:00:00-07:00
+0.003,Genesee,Nitrogen Dioxide,2026-01-12T15:00:00-07:00
+0.003,Genesee,Total Oxides of Nitrogen,2026-01-12T15:00:00-07:00
 2.0,Genesee,,2026-01-12T14:00:00-07:00
 3.1,Genesee,Fine Particulate Matter,2026-01-12T14:00:00-07:00
 0.037,Genesee,Ozone,2026-01-12T14:00:00-07:00
@@ -1176,28 +1187,28 @@ Value,StationName,ParameterName,ReadingDate
 8.7,Genesee,Outdoor Temperature,2026-01-12T12:00:00-07:00
 231.0,Genesee,Wind Direction,2026-01-12T12:00:00-07:00
 54.5,Genesee,Relative Humidity,2026-01-12T12:00:00-07:00
-0.002,Genesee,Total Oxides of Nitrogen,2026-01-12T11:00:00-07:00
-14.2,Genesee,Wind Speed,2026-01-12T11:00:00-07:00
-5.3,Genesee,Fine Particulate Matter,2026-01-12T11:00:00-07:00
-2.0,Genesee,,2026-01-12T11:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-12T11:00:00-07:00
-0.002,Genesee,Nitrogen Dioxide,2026-01-12T11:00:00-07:00
-0.036,Genesee,Ozone,2026-01-12T11:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-12T11:00:00-07:00
-7.2,Genesee,Outdoor Temperature,2026-01-12T11:00:00-07:00
-228.0,Genesee,Wind Direction,2026-01-12T11:00:00-07:00
 58.7,Genesee,Relative Humidity,2026-01-12T11:00:00-07:00
-0.003,Genesee,Nitrogen Dioxide,2026-01-12T10:00:00-07:00
-0.003,Genesee,Total Oxides of Nitrogen,2026-01-12T10:00:00-07:00
-57.7,Genesee,Relative Humidity,2026-01-12T10:00:00-07:00
-238.0,Genesee,Wind Direction,2026-01-12T10:00:00-07:00
-14.0,Genesee,Wind Speed,2026-01-12T10:00:00-07:00
-7.4,Genesee,Outdoor Temperature,2026-01-12T10:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-12T10:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-12T10:00:00-07:00
-0.035,Genesee,Ozone,2026-01-12T10:00:00-07:00
-2.7,Genesee,Fine Particulate Matter,2026-01-12T10:00:00-07:00
+228.0,Genesee,Wind Direction,2026-01-12T11:00:00-07:00
+7.2,Genesee,Outdoor Temperature,2026-01-12T11:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-12T11:00:00-07:00
+0.036,Genesee,Ozone,2026-01-12T11:00:00-07:00
+0.002,Genesee,Nitrogen Dioxide,2026-01-12T11:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-12T11:00:00-07:00
+2.0,Genesee,,2026-01-12T11:00:00-07:00
+5.3,Genesee,Fine Particulate Matter,2026-01-12T11:00:00-07:00
+14.2,Genesee,Wind Speed,2026-01-12T11:00:00-07:00
+0.002,Genesee,Total Oxides of Nitrogen,2026-01-12T11:00:00-07:00
 2.0,Genesee,,2026-01-12T10:00:00-07:00
+2.7,Genesee,Fine Particulate Matter,2026-01-12T10:00:00-07:00
+0.035,Genesee,Ozone,2026-01-12T10:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-12T10:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-12T10:00:00-07:00
+7.4,Genesee,Outdoor Temperature,2026-01-12T10:00:00-07:00
+14.0,Genesee,Wind Speed,2026-01-12T10:00:00-07:00
+238.0,Genesee,Wind Direction,2026-01-12T10:00:00-07:00
+57.7,Genesee,Relative Humidity,2026-01-12T10:00:00-07:00
+0.003,Genesee,Total Oxides of Nitrogen,2026-01-12T10:00:00-07:00
+0.003,Genesee,Nitrogen Dioxide,2026-01-12T10:00:00-07:00
 2.0,Genesee,,2026-01-12T09:00:00-07:00
 2.4,Genesee,Fine Particulate Matter,2026-01-12T09:00:00-07:00
 0.036,Genesee,Ozone,2026-01-12T09:00:00-07:00
@@ -1207,10 +1218,8 @@ Value,StationName,ParameterName,ReadingDate
 0.002,Genesee,Nitrogen Dioxide,2026-01-12T09:00:00-07:00
 8.3,Genesee,Outdoor Temperature,2026-01-12T09:00:00-07:00
 23.0,Genesee,Wind Speed,2026-01-12T09:00:00-07:00
-56.9,Genesee,Relative Humidity,2026-01-12T09:00:00-07:00
 219.0,Genesee,Wind Direction,2026-01-12T09:00:00-07:00
-56.2,Genesee,Relative Humidity,2026-01-12T08:00:00-07:00
-219.0,Genesee,Wind Direction,2026-01-12T08:00:00-07:00
+56.9,Genesee,Relative Humidity,2026-01-12T09:00:00-07:00
 22.2,Genesee,Wind Speed,2026-01-12T08:00:00-07:00
 7.5,Genesee,Outdoor Temperature,2026-01-12T08:00:00-07:00
 0.0,Genesee,Nitric Oxide,2026-01-12T08:00:00-07:00
@@ -1220,6 +1229,8 @@ Value,StationName,ParameterName,ReadingDate
 2.7,Genesee,Fine Particulate Matter,2026-01-12T08:00:00-07:00
 0.037,Genesee,Ozone,2026-01-12T08:00:00-07:00
 2.0,Genesee,,2026-01-12T08:00:00-07:00
+219.0,Genesee,Wind Direction,2026-01-12T08:00:00-07:00
+56.2,Genesee,Relative Humidity,2026-01-12T08:00:00-07:00
 2.0,Genesee,,2026-01-12T07:00:00-07:00
 3.1,Genesee,Fine Particulate Matter,2026-01-12T07:00:00-07:00
 0.037,Genesee,Ozone,2026-01-12T07:00:00-07:00
@@ -1231,28 +1242,28 @@ Value,StationName,ParameterName,ReadingDate
 12.3,Genesee,Wind Speed,2026-01-12T07:00:00-07:00
 222.0,Genesee,Wind Direction,2026-01-12T07:00:00-07:00
 61.2,Genesee,Relative Humidity,2026-01-12T07:00:00-07:00
-2.0,Genesee,,2026-01-12T06:00:00-07:00
-0.035,Genesee,Ozone,2026-01-12T06:00:00-07:00
-3.1,Genesee,Fine Particulate Matter,2026-01-12T06:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-12T06:00:00-07:00
-0.002,Genesee,Total Oxides of Nitrogen,2026-01-12T06:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-12T06:00:00-07:00
-0.002,Genesee,Nitrogen Dioxide,2026-01-12T06:00:00-07:00
-5.4,Genesee,Outdoor Temperature,2026-01-12T06:00:00-07:00
-10.5,Genesee,Wind Speed,2026-01-12T06:00:00-07:00
-250.0,Genesee,Wind Direction,2026-01-12T06:00:00-07:00
 56.7,Genesee,Relative Humidity,2026-01-12T06:00:00-07:00
-53.3,Genesee,Relative Humidity,2026-01-12T05:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-12T05:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-12T05:00:00-07:00
-6.5,Genesee,Outdoor Temperature,2026-01-12T05:00:00-07:00
-11.2,Genesee,Wind Speed,2026-01-12T05:00:00-07:00
-238.0,Genesee,Wind Direction,2026-01-12T05:00:00-07:00
-0.001,Genesee,Total Oxides of Nitrogen,2026-01-12T05:00:00-07:00
-0.001,Genesee,Nitrogen Dioxide,2026-01-12T05:00:00-07:00
-3.1,Genesee,Fine Particulate Matter,2026-01-12T05:00:00-07:00
-0.038,Genesee,Ozone,2026-01-12T05:00:00-07:00
+250.0,Genesee,Wind Direction,2026-01-12T06:00:00-07:00
+10.5,Genesee,Wind Speed,2026-01-12T06:00:00-07:00
+5.4,Genesee,Outdoor Temperature,2026-01-12T06:00:00-07:00
+0.002,Genesee,Nitrogen Dioxide,2026-01-12T06:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-12T06:00:00-07:00
+0.002,Genesee,Total Oxides of Nitrogen,2026-01-12T06:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-12T06:00:00-07:00
+3.1,Genesee,Fine Particulate Matter,2026-01-12T06:00:00-07:00
+0.035,Genesee,Ozone,2026-01-12T06:00:00-07:00
+2.0,Genesee,,2026-01-12T06:00:00-07:00
 2.0,Genesee,,2026-01-12T05:00:00-07:00
+0.038,Genesee,Ozone,2026-01-12T05:00:00-07:00
+3.1,Genesee,Fine Particulate Matter,2026-01-12T05:00:00-07:00
+0.001,Genesee,Nitrogen Dioxide,2026-01-12T05:00:00-07:00
+0.001,Genesee,Total Oxides of Nitrogen,2026-01-12T05:00:00-07:00
+238.0,Genesee,Wind Direction,2026-01-12T05:00:00-07:00
+11.2,Genesee,Wind Speed,2026-01-12T05:00:00-07:00
+6.5,Genesee,Outdoor Temperature,2026-01-12T05:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-12T05:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-12T05:00:00-07:00
+53.3,Genesee,Relative Humidity,2026-01-12T05:00:00-07:00
 2.0,Genesee,,2026-01-12T04:00:00-07:00
 3.1,Genesee,Fine Particulate Matter,2026-01-12T04:00:00-07:00
 ,Genesee,Nitrogen Dioxide,2026-01-12T04:00:00-07:00
@@ -1515,8 +1526,8 @@ Value,StationName,ParameterName,ReadingDate
 0.04,Genesee,Ozone,2026-01-11T05:00:00-07:00
 0.0,Genesee,Nitric Oxide,2026-01-11T05:00:00-07:00
 57.5,Genesee,Relative Humidity,2026-01-11T05:00:00-07:00
-2.0,Genesee,,2026-01-11T05:00:00-07:00
 3.0,Genesee,Fine Particulate Matter,2026-01-11T05:00:00-07:00
+2.0,Genesee,,2026-01-11T05:00:00-07:00
 ,Genesee,Total Oxides of Nitrogen,2026-01-11T04:00:00-07:00
 ,Genesee,Nitrogen Dioxide,2026-01-11T04:00:00-07:00
 ,Genesee,Sulphur Dioxide,2026-01-11T04:00:00-07:00
@@ -1539,10 +1550,10 @@ Value,StationName,ParameterName,ReadingDate
 0.002,Genesee,Sulphur Dioxide,2026-01-11T03:00:00-07:00
 0.04,Genesee,Ozone,2026-01-11T03:00:00-07:00
 58.9,Genesee,Relative Humidity,2026-01-11T03:00:00-07:00
-2.3,Genesee,Fine Particulate Matter,2026-01-11T02:00:00-07:00
-2.3,Genesee,Outdoor Temperature,2026-01-11T02:00:00-07:00
-0.042,Genesee,Ozone,2026-01-11T02:00:00-07:00
 0.0,Genesee,Nitric Oxide,2026-01-11T02:00:00-07:00
+0.042,Genesee,Ozone,2026-01-11T02:00:00-07:00
+2.3,Genesee,Outdoor Temperature,2026-01-11T02:00:00-07:00
+2.3,Genesee,Fine Particulate Matter,2026-01-11T02:00:00-07:00
 0.0,Genesee,Total Oxides of Nitrogen,2026-01-11T02:00:00-07:00
 0.002,Genesee,Sulphur Dioxide,2026-01-11T02:00:00-07:00
 57.4,Genesee,Relative Humidity,2026-01-11T02:00:00-07:00
@@ -1561,28 +1572,28 @@ Value,StationName,ParameterName,ReadingDate
 0.002,Genesee,Sulphur Dioxide,2026-01-11T01:00:00-07:00
 0.0,Genesee,Nitric Oxide,2026-01-11T01:00:00-07:00
 55.7,Genesee,Relative Humidity,2026-01-11T01:00:00-07:00
-218.0,Genesee,Wind Direction,2026-01-11T00:00:00-07:00
-2.6,Genesee,Fine Particulate Matter,2026-01-11T00:00:00-07:00
-2.0,Genesee,,2026-01-11T00:00:00-07:00
-15.3,Genesee,Wind Speed,2026-01-11T00:00:00-07:00
-0.04,Genesee,Ozone,2026-01-11T00:00:00-07:00
-0.003,Genesee,Nitrogen Dioxide,2026-01-11T00:00:00-07:00
-0.003,Genesee,Total Oxides of Nitrogen,2026-01-11T00:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-11T00:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-11T00:00:00-07:00
-5.2,Genesee,Outdoor Temperature,2026-01-11T00:00:00-07:00
 57.9,Genesee,Relative Humidity,2026-01-11T00:00:00-07:00
-3.1,Genesee,Fine Particulate Matter,2026-01-10T23:00:00-07:00
-2.0,Genesee,,2026-01-10T23:00:00-07:00
-17.2,Genesee,Wind Speed,2026-01-10T23:00:00-07:00
-55.3,Genesee,Relative Humidity,2026-01-10T23:00:00-07:00
-0.001,Genesee,Total Oxides of Nitrogen,2026-01-10T23:00:00-07:00
-0.042,Genesee,Ozone,2026-01-10T23:00:00-07:00
-0.002,Genesee,Nitrogen Dioxide,2026-01-10T23:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-10T23:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-10T23:00:00-07:00
-6.4,Genesee,Outdoor Temperature,2026-01-10T23:00:00-07:00
+5.2,Genesee,Outdoor Temperature,2026-01-11T00:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-11T00:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-11T00:00:00-07:00
+0.003,Genesee,Total Oxides of Nitrogen,2026-01-11T00:00:00-07:00
+0.003,Genesee,Nitrogen Dioxide,2026-01-11T00:00:00-07:00
+0.04,Genesee,Ozone,2026-01-11T00:00:00-07:00
+15.3,Genesee,Wind Speed,2026-01-11T00:00:00-07:00
+2.0,Genesee,,2026-01-11T00:00:00-07:00
+2.6,Genesee,Fine Particulate Matter,2026-01-11T00:00:00-07:00
+218.0,Genesee,Wind Direction,2026-01-11T00:00:00-07:00
 222.0,Genesee,Wind Direction,2026-01-10T23:00:00-07:00
+6.4,Genesee,Outdoor Temperature,2026-01-10T23:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-10T23:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-10T23:00:00-07:00
+0.002,Genesee,Nitrogen Dioxide,2026-01-10T23:00:00-07:00
+0.042,Genesee,Ozone,2026-01-10T23:00:00-07:00
+0.001,Genesee,Total Oxides of Nitrogen,2026-01-10T23:00:00-07:00
+55.3,Genesee,Relative Humidity,2026-01-10T23:00:00-07:00
+17.2,Genesee,Wind Speed,2026-01-10T23:00:00-07:00
+2.0,Genesee,,2026-01-10T23:00:00-07:00
+3.1,Genesee,Fine Particulate Matter,2026-01-10T23:00:00-07:00
 2.0,Genesee,,2026-01-10T22:00:00-07:00
 16.4,Genesee,Wind Speed,2026-01-10T22:00:00-07:00
 3.0,Genesee,Fine Particulate Matter,2026-01-10T22:00:00-07:00
@@ -1594,28 +1605,28 @@ Value,StationName,ParameterName,ReadingDate
 0.001,Genesee,Nitrogen Dioxide,2026-01-10T22:00:00-07:00
 51.2,Genesee,Relative Humidity,2026-01-10T22:00:00-07:00
 230.0,Genesee,Wind Direction,2026-01-10T22:00:00-07:00
-228.0,Genesee,Wind Direction,2026-01-10T21:00:00-07:00
-7.9,Genesee,Outdoor Temperature,2026-01-10T21:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-10T21:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-10T21:00:00-07:00
-0.043,Genesee,Ozone,2026-01-10T21:00:00-07:00
-0.001,Genesee,Nitrogen Dioxide,2026-01-10T21:00:00-07:00
-0.001,Genesee,Total Oxides of Nitrogen,2026-01-10T21:00:00-07:00
-21.3,Genesee,Wind Speed,2026-01-10T21:00:00-07:00
-45.5,Genesee,Relative Humidity,2026-01-10T21:00:00-07:00
-2.5,Genesee,Fine Particulate Matter,2026-01-10T21:00:00-07:00
 3.0,Genesee,,2026-01-10T21:00:00-07:00
-3.0,Genesee,,2026-01-10T20:00:00-07:00
-21.2,Genesee,Wind Speed,2026-01-10T20:00:00-07:00
-2.3,Genesee,Fine Particulate Matter,2026-01-10T20:00:00-07:00
-0.043,Genesee,Ozone,2026-01-10T20:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-10T20:00:00-07:00
-7.4,Genesee,Outdoor Temperature,2026-01-10T20:00:00-07:00
-0.001,Genesee,Nitrogen Dioxide,2026-01-10T20:00:00-07:00
-48.8,Genesee,Relative Humidity,2026-01-10T20:00:00-07:00
-0.0,Genesee,Total Oxides of Nitrogen,2026-01-10T20:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-10T20:00:00-07:00
+2.5,Genesee,Fine Particulate Matter,2026-01-10T21:00:00-07:00
+45.5,Genesee,Relative Humidity,2026-01-10T21:00:00-07:00
+21.3,Genesee,Wind Speed,2026-01-10T21:00:00-07:00
+0.001,Genesee,Total Oxides of Nitrogen,2026-01-10T21:00:00-07:00
+0.001,Genesee,Nitrogen Dioxide,2026-01-10T21:00:00-07:00
+0.043,Genesee,Ozone,2026-01-10T21:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-10T21:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-10T21:00:00-07:00
+7.9,Genesee,Outdoor Temperature,2026-01-10T21:00:00-07:00
+228.0,Genesee,Wind Direction,2026-01-10T21:00:00-07:00
 221.0,Genesee,Wind Direction,2026-01-10T20:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-10T20:00:00-07:00
+0.0,Genesee,Total Oxides of Nitrogen,2026-01-10T20:00:00-07:00
+48.8,Genesee,Relative Humidity,2026-01-10T20:00:00-07:00
+0.001,Genesee,Nitrogen Dioxide,2026-01-10T20:00:00-07:00
+7.4,Genesee,Outdoor Temperature,2026-01-10T20:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-10T20:00:00-07:00
+0.043,Genesee,Ozone,2026-01-10T20:00:00-07:00
+2.3,Genesee,Fine Particulate Matter,2026-01-10T20:00:00-07:00
+21.2,Genesee,Wind Speed,2026-01-10T20:00:00-07:00
+3.0,Genesee,,2026-01-10T20:00:00-07:00
 3.0,Genesee,,2026-01-10T19:00:00-07:00
 21.9,Genesee,Wind Speed,2026-01-10T19:00:00-07:00
 6.4,Genesee,Fine Particulate Matter,2026-01-10T19:00:00-07:00
@@ -1627,39 +1638,39 @@ Value,StationName,ParameterName,ReadingDate
 0.001,Genesee,Total Oxides of Nitrogen,2026-01-10T19:00:00-07:00
 47.5,Genesee,Relative Humidity,2026-01-10T19:00:00-07:00
 221.0,Genesee,Wind Direction,2026-01-10T19:00:00-07:00
-217.0,Genesee,Wind Direction,2026-01-10T18:00:00-07:00
-48.5,Genesee,Relative Humidity,2026-01-10T18:00:00-07:00
-0.001,Genesee,Total Oxides of Nitrogen,2026-01-10T18:00:00-07:00
-6.4,Genesee,Outdoor Temperature,2026-01-10T18:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-10T18:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-10T18:00:00-07:00
-0.002,Genesee,Nitrogen Dioxide,2026-01-10T18:00:00-07:00
-0.043,Genesee,Ozone,2026-01-10T18:00:00-07:00
-21.0,Genesee,Wind Speed,2026-01-10T18:00:00-07:00
-2.9,Genesee,Fine Particulate Matter,2026-01-10T18:00:00-07:00
 3.0,Genesee,,2026-01-10T18:00:00-07:00
-7.6,Genesee,Outdoor Temperature,2026-01-10T17:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-10T17:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-10T17:00:00-07:00
-0.044,Genesee,Ozone,2026-01-10T17:00:00-07:00
-9.8,Genesee,Wind Speed,2026-01-10T17:00:00-07:00
-2.9,Genesee,Fine Particulate Matter,2026-01-10T17:00:00-07:00
+2.9,Genesee,Fine Particulate Matter,2026-01-10T18:00:00-07:00
+21.0,Genesee,Wind Speed,2026-01-10T18:00:00-07:00
+0.043,Genesee,Ozone,2026-01-10T18:00:00-07:00
+0.002,Genesee,Nitrogen Dioxide,2026-01-10T18:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-10T18:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-10T18:00:00-07:00
+6.4,Genesee,Outdoor Temperature,2026-01-10T18:00:00-07:00
+0.001,Genesee,Total Oxides of Nitrogen,2026-01-10T18:00:00-07:00
+48.5,Genesee,Relative Humidity,2026-01-10T18:00:00-07:00
+217.0,Genesee,Wind Direction,2026-01-10T18:00:00-07:00
 3.0,Genesee,,2026-01-10T17:00:00-07:00
+2.9,Genesee,Fine Particulate Matter,2026-01-10T17:00:00-07:00
+9.8,Genesee,Wind Speed,2026-01-10T17:00:00-07:00
+0.044,Genesee,Ozone,2026-01-10T17:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-10T17:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-10T17:00:00-07:00
+7.6,Genesee,Outdoor Temperature,2026-01-10T17:00:00-07:00
 0.001,Genesee,Total Oxides of Nitrogen,2026-01-10T17:00:00-07:00
 0.001,Genesee,Nitrogen Dioxide,2026-01-10T17:00:00-07:00
 44.6,Genesee,Relative Humidity,2026-01-10T17:00:00-07:00
 226.0,Genesee,Wind Direction,2026-01-10T17:00:00-07:00
-216.0,Genesee,Wind Direction,2026-01-10T16:00:00-07:00
-51.3,Genesee,Relative Humidity,2026-01-10T16:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-10T16:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-10T16:00:00-07:00
-0.002,Genesee,Total Oxides of Nitrogen,2026-01-10T16:00:00-07:00
-0.002,Genesee,Nitrogen Dioxide,2026-01-10T16:00:00-07:00
-7.3,Genesee,Outdoor Temperature,2026-01-10T16:00:00-07:00
-0.043,Genesee,Ozone,2026-01-10T16:00:00-07:00
-12.5,Genesee,Wind Speed,2026-01-10T16:00:00-07:00
-3.5,Genesee,Fine Particulate Matter,2026-01-10T16:00:00-07:00
 3.0,Genesee,,2026-01-10T16:00:00-07:00
+3.5,Genesee,Fine Particulate Matter,2026-01-10T16:00:00-07:00
+12.5,Genesee,Wind Speed,2026-01-10T16:00:00-07:00
+0.043,Genesee,Ozone,2026-01-10T16:00:00-07:00
+7.3,Genesee,Outdoor Temperature,2026-01-10T16:00:00-07:00
+0.002,Genesee,Nitrogen Dioxide,2026-01-10T16:00:00-07:00
+0.002,Genesee,Total Oxides of Nitrogen,2026-01-10T16:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-10T16:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-10T16:00:00-07:00
+51.3,Genesee,Relative Humidity,2026-01-10T16:00:00-07:00
+216.0,Genesee,Wind Direction,2026-01-10T16:00:00-07:00
 3.0,Genesee,,2026-01-10T15:00:00-07:00
 4.5,Genesee,Fine Particulate Matter,2026-01-10T15:00:00-07:00
 9.4,Genesee,Wind Speed,2026-01-10T15:00:00-07:00
@@ -1726,58 +1737,47 @@ Value,StationName,ParameterName,ReadingDate
 0.001,Genesee,Nitrogen Dioxide,2026-01-10T10:00:00-07:00
 51.8,Genesee,Relative Humidity,2026-01-10T10:00:00-07:00
 221.0,Genesee,Wind Direction,2026-01-10T10:00:00-07:00
-3.4,Genesee,Fine Particulate Matter,2026-01-10T09:00:00-07:00
-2.0,Genesee,,2026-01-10T09:00:00-07:00
-18.0,Genesee,Wind Speed,2026-01-10T09:00:00-07:00
-0.041,Genesee,Ozone,2026-01-10T09:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-10T09:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-10T09:00:00-07:00
-5.5,Genesee,Outdoor Temperature,2026-01-10T09:00:00-07:00
-0.001,Genesee,Total Oxides of Nitrogen,2026-01-10T09:00:00-07:00
-0.001,Genesee,Nitrogen Dioxide,2026-01-10T09:00:00-07:00
-52.8,Genesee,Relative Humidity,2026-01-10T09:00:00-07:00
 222.0,Genesee,Wind Direction,2026-01-10T09:00:00-07:00
-3.6,Genesee,Fine Particulate Matter,2026-01-10T08:00:00-07:00
-2.0,Genesee,,2026-01-10T08:00:00-07:00
-15.5,Genesee,Wind Speed,2026-01-10T08:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-10T08:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-10T08:00:00-07:00
-0.04,Genesee,Ozone,2026-01-10T08:00:00-07:00
+52.8,Genesee,Relative Humidity,2026-01-10T09:00:00-07:00
+0.001,Genesee,Nitrogen Dioxide,2026-01-10T09:00:00-07:00
+0.001,Genesee,Total Oxides of Nitrogen,2026-01-10T09:00:00-07:00
+5.5,Genesee,Outdoor Temperature,2026-01-10T09:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-10T09:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-10T09:00:00-07:00
+0.041,Genesee,Ozone,2026-01-10T09:00:00-07:00
+18.0,Genesee,Wind Speed,2026-01-10T09:00:00-07:00
+2.0,Genesee,,2026-01-10T09:00:00-07:00
+3.4,Genesee,Fine Particulate Matter,2026-01-10T09:00:00-07:00
 4.6,Genesee,Outdoor Temperature,2026-01-10T08:00:00-07:00
+0.04,Genesee,Ozone,2026-01-10T08:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-10T08:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-10T08:00:00-07:00
+15.5,Genesee,Wind Speed,2026-01-10T08:00:00-07:00
+2.0,Genesee,,2026-01-10T08:00:00-07:00
+3.6,Genesee,Fine Particulate Matter,2026-01-10T08:00:00-07:00
 0.001,Genesee,Total Oxides of Nitrogen,2026-01-10T08:00:00-07:00
 0.001,Genesee,Nitrogen Dioxide,2026-01-10T08:00:00-07:00
 52.9,Genesee,Relative Humidity,2026-01-10T08:00:00-07:00
 224.0,Genesee,Wind Direction,2026-01-10T08:00:00-07:00
-4.0,Genesee,Fine Particulate Matter,2026-01-10T07:00:00-07:00
-2.0,Genesee,,2026-01-10T07:00:00-07:00
-13.4,Genesee,Wind Speed,2026-01-10T07:00:00-07:00
-0.039,Genesee,Ozone,2026-01-10T07:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-10T07:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-10T07:00:00-07:00
-4.3,Genesee,Outdoor Temperature,2026-01-10T07:00:00-07:00
-0.001,Genesee,Total Oxides of Nitrogen,2026-01-10T07:00:00-07:00
-0.001,Genesee,Nitrogen Dioxide,2026-01-10T07:00:00-07:00
-57.0,Genesee,Relative Humidity,2026-01-10T07:00:00-07:00
 221.0,Genesee,Wind Direction,2026-01-10T07:00:00-07:00
-222.0,Genesee,Wind Direction,2026-01-10T06:00:00-07:00
-57.4,Genesee,Relative Humidity,2026-01-10T06:00:00-07:00
-0.001,Genesee,Total Oxides of Nitrogen,2026-01-10T06:00:00-07:00
-4.5,Genesee,Outdoor Temperature,2026-01-10T06:00:00-07:00
-0.002,Genesee,Nitrogen Dioxide,2026-01-10T06:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-10T06:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-10T06:00:00-07:00
-14.8,Genesee,Wind Speed,2026-01-10T06:00:00-07:00
-0.038,Genesee,Ozone,2026-01-10T06:00:00-07:00
-2.0,Genesee,,2026-01-10T06:00:00-07:00
+57.0,Genesee,Relative Humidity,2026-01-10T07:00:00-07:00
+0.001,Genesee,Nitrogen Dioxide,2026-01-10T07:00:00-07:00
+0.001,Genesee,Total Oxides of Nitrogen,2026-01-10T07:00:00-07:00
+4.3,Genesee,Outdoor Temperature,2026-01-10T07:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-10T07:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-10T07:00:00-07:00
+0.039,Genesee,Ozone,2026-01-10T07:00:00-07:00
+13.4,Genesee,Wind Speed,2026-01-10T07:00:00-07:00
+2.0,Genesee,,2026-01-10T07:00:00-07:00
+4.0,Genesee,Fine Particulate Matter,2026-01-10T07:00:00-07:00
 4.3,Genesee,Fine Particulate Matter,2026-01-10T06:00:00-07:00
-5.3,Genesee,Fine Particulate Matter,2026-01-10T05:00:00-07:00
-2.0,Genesee,,2026-01-10T05:00:00-07:00
-0.035,Genesee,Ozone,2026-01-10T05:00:00-07:00
-224.0,Genesee,Wind Direction,2026-01-10T05:00:00-07:00
-13.8,Genesee,Wind Speed,2026-01-10T05:00:00-07:00
-0.002,Genesee,Nitrogen Dioxide,2026-01-10T05:00:00-07:00
-0.002,Genesee,Total Oxides of Nitrogen,2026-01-10T05:00:00-07:00
-0.002,Genesee,Sulphur Dioxide,2026-01-10T05:00:00-07:00
-0.0,Genesee,Nitric Oxide,2026-01-10T05:00:00-07:00
-58.9,Genesee,Relative Humidity,2026-01-10T05:00:00-07:00
-3.3,Genesee,Outdoor Temperature,2026-01-10T05:00:00-07:00
+2.0,Genesee,,2026-01-10T06:00:00-07:00
+0.038,Genesee,Ozone,2026-01-10T06:00:00-07:00
+14.8,Genesee,Wind Speed,2026-01-10T06:00:00-07:00
+0.002,Genesee,Sulphur Dioxide,2026-01-10T06:00:00-07:00
+0.0,Genesee,Nitric Oxide,2026-01-10T06:00:00-07:00
+0.002,Genesee,Nitrogen Dioxide,2026-01-10T06:00:00-07:00
+4.5,Genesee,Outdoor Temperature,2026-01-10T06:00:00-07:00
+0.001,Genesee,Total Oxides of Nitrogen,2026-01-10T06:00:00-07:00
+57.4,Genesee,Relative Humidity,2026-01-10T06:00:00-07:00
+222.0,Genesee,Wind Direction,2026-01-10T06:00:00-07:00
