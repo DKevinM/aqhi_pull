@@ -1,4 +1,18 @@
 Value,StationName,ParameterName,ReadingDate
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-07T07:00:00-07:00
+,Edmonton McCauley,Wind Direction,2026-02-07T07:00:00-07:00
+,Edmonton McCauley,Nitric Oxide,2026-02-07T07:00:00-07:00
+,Edmonton McCauley,Carbon Monoxide,2026-02-07T07:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-07T07:00:00-07:00
+,Edmonton McCauley,Nitrogen Dioxide,2026-02-07T07:00:00-07:00
+,Edmonton McCauley,,2026-02-07T07:00:00-07:00
+,Edmonton McCauley,Wind Speed,2026-02-07T07:00:00-07:00
+,Edmonton McCauley,Relative Humidity,2026-02-07T07:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-07T07:00:00-07:00
+,Edmonton McCauley,Ozone,2026-02-07T07:00:00-07:00
+,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-07T07:00:00-07:00
+,Edmonton McCauley,Fine Particulate Matter,2026-02-07T07:00:00-07:00
+,Edmonton McCauley,Outdoor Temperature,2026-02-07T07:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-07T06:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-07T06:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-07T06:00:00-07:00
@@ -11,23 +25,22 @@ Value,StationName,ParameterName,ReadingDate
 0.036,Edmonton McCauley,Nitrogen Dioxide,2026-02-07T06:00:00-07:00
 0.3,Edmonton McCauley,Carbon Monoxide,2026-02-07T06:00:00-07:00
 0.001,Edmonton McCauley,Ozone,2026-02-07T06:00:00-07:00
-4.0,Edmonton McCauley,,2026-02-07T06:00:00-07:00
 0.049,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-07T06:00:00-07:00
-0.0,Edmonton McCauley,Outdoor Temperature,2026-02-07T05:00:00-07:00
-112.0,Edmonton McCauley,Wind Direction,2026-02-07T05:00:00-07:00
-2.6,Edmonton McCauley,Wind Speed,2026-02-07T05:00:00-07:00
-,Edmonton McCauley,Carbon Monoxide,2026-02-07T05:00:00-07:00
-,Edmonton McCauley,Ozone,2026-02-07T05:00:00-07:00
-62.3,Edmonton McCauley,Relative Humidity,2026-02-07T05:00:00-07:00
-,Edmonton McCauley,Nitrogen Dioxide,2026-02-07T05:00:00-07:00
-,Edmonton McCauley,Nitric Oxide,2026-02-07T05:00:00-07:00
-,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-07T05:00:00-07:00
-11.0,Edmonton McCauley,Fine Particulate Matter,2026-02-07T05:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-07T05:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-07T05:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-07T05:00:00-07:00
+4.0,Edmonton McCauley,,2026-02-07T06:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-07T05:00:00-07:00
-0.3,Edmonton McCauley,Carbon Monoxide,2026-02-07T04:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-07T05:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-07T05:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-07T05:00:00-07:00
+11.0,Edmonton McCauley,Fine Particulate Matter,2026-02-07T05:00:00-07:00
+,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-07T05:00:00-07:00
+,Edmonton McCauley,Nitric Oxide,2026-02-07T05:00:00-07:00
+,Edmonton McCauley,Nitrogen Dioxide,2026-02-07T05:00:00-07:00
+62.3,Edmonton McCauley,Relative Humidity,2026-02-07T05:00:00-07:00
+,Edmonton McCauley,Ozone,2026-02-07T05:00:00-07:00
+,Edmonton McCauley,Carbon Monoxide,2026-02-07T05:00:00-07:00
+2.6,Edmonton McCauley,Wind Speed,2026-02-07T05:00:00-07:00
+112.0,Edmonton McCauley,Wind Direction,2026-02-07T05:00:00-07:00
+0.0,Edmonton McCauley,Outdoor Temperature,2026-02-07T05:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-07T04:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-07T04:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-07T04:00:00-07:00
@@ -37,6 +50,7 @@ Value,StationName,ParameterName,ReadingDate
 0.9,Edmonton McCauley,Outdoor Temperature,2026-02-07T04:00:00-07:00
 0.034,Edmonton McCauley,Nitrogen Dioxide,2026-02-07T04:00:00-07:00
 2.7,Edmonton McCauley,Wind Speed,2026-02-07T04:00:00-07:00
+0.3,Edmonton McCauley,Carbon Monoxide,2026-02-07T04:00:00-07:00
 0.001,Edmonton McCauley,Ozone,2026-02-07T04:00:00-07:00
 11.4,Edmonton McCauley,Fine Particulate Matter,2026-02-07T04:00:00-07:00
 58.3,Edmonton McCauley,Relative Humidity,2026-02-07T04:00:00-07:00
@@ -55,12 +69,12 @@ Value,StationName,ParameterName,ReadingDate
 0.002,Edmonton McCauley,Nitric Oxide,2026-02-07T03:00:00-07:00
 0.2,Edmonton McCauley,Carbon Monoxide,2026-02-07T03:00:00-07:00
 283.0,Edmonton McCauley,Wind Direction,2026-02-07T03:00:00-07:00
-3.0,Edmonton McCauley,,2026-02-07T02:00:00-07:00
-0.004,Edmonton McCauley,Ozone,2026-02-07T02:00:00-07:00
-57.1,Edmonton McCauley,Relative Humidity,2026-02-07T02:00:00-07:00
-3.0,Edmonton McCauley,Wind Speed,2026-02-07T02:00:00-07:00
-1.8,Edmonton McCauley,Outdoor Temperature,2026-02-07T02:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-07T02:00:00-07:00
+1.8,Edmonton McCauley,Outdoor Temperature,2026-02-07T02:00:00-07:00
+3.0,Edmonton McCauley,Wind Speed,2026-02-07T02:00:00-07:00
+57.1,Edmonton McCauley,Relative Humidity,2026-02-07T02:00:00-07:00
+0.004,Edmonton McCauley,Ozone,2026-02-07T02:00:00-07:00
+3.0,Edmonton McCauley,,2026-02-07T02:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-07T02:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-07T02:00:00-07:00
 0.4,Edmonton McCauley,Carbon Monoxide,2026-02-07T02:00:00-07:00
@@ -69,38 +83,38 @@ Value,StationName,ParameterName,ReadingDate
 0.041,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-07T02:00:00-07:00
 255.0,Edmonton McCauley,Wind Direction,2026-02-07T02:00:00-07:00
 0.029,Edmonton McCauley,Nitrogen Dioxide,2026-02-07T02:00:00-07:00
+3.0,Edmonton McCauley,,2026-02-07T01:00:00-07:00
+12.2,Edmonton McCauley,Fine Particulate Matter,2026-02-07T01:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-07T01:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-07T01:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-07T01:00:00-07:00
+44.6,Edmonton McCauley,Relative Humidity,2026-02-07T01:00:00-07:00
 272.0,Edmonton McCauley,Wind Direction,2026-02-07T01:00:00-07:00
 0.026,Edmonton McCauley,Nitrogen Dioxide,2026-02-07T01:00:00-07:00
 0.029,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-07T01:00:00-07:00
-0.012,Edmonton McCauley,Ozone,2026-02-07T01:00:00-07:00
-0.3,Edmonton McCauley,Carbon Monoxide,2026-02-07T01:00:00-07:00
-4.2,Edmonton McCauley,Outdoor Temperature,2026-02-07T01:00:00-07:00
-0.003,Edmonton McCauley,Nitric Oxide,2026-02-07T01:00:00-07:00
 6.2,Edmonton McCauley,Wind Speed,2026-02-07T01:00:00-07:00
-44.6,Edmonton McCauley,Relative Humidity,2026-02-07T01:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-07T01:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-07T01:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-07T01:00:00-07:00
-12.2,Edmonton McCauley,Fine Particulate Matter,2026-02-07T01:00:00-07:00
-3.0,Edmonton McCauley,,2026-02-07T01:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-07T00:00:00-07:00
-12.2,Edmonton McCauley,Fine Particulate Matter,2026-02-07T00:00:00-07:00
-5.6,Edmonton McCauley,Wind Speed,2026-02-07T00:00:00-07:00
-0.006,Edmonton McCauley,Nitric Oxide,2026-02-07T00:00:00-07:00
-0.007,Edmonton McCauley,Ozone,2026-02-07T00:00:00-07:00
+0.003,Edmonton McCauley,Nitric Oxide,2026-02-07T01:00:00-07:00
+4.2,Edmonton McCauley,Outdoor Temperature,2026-02-07T01:00:00-07:00
+0.3,Edmonton McCauley,Carbon Monoxide,2026-02-07T01:00:00-07:00
+0.012,Edmonton McCauley,Ozone,2026-02-07T01:00:00-07:00
+44.1,Edmonton McCauley,Relative Humidity,2026-02-07T00:00:00-07:00
+282.0,Edmonton McCauley,Wind Direction,2026-02-07T00:00:00-07:00
+0.032,Edmonton McCauley,Nitrogen Dioxide,2026-02-07T00:00:00-07:00
+0.038,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-07T00:00:00-07:00
+0.3,Edmonton McCauley,Carbon Monoxide,2026-02-07T00:00:00-07:00
+4.7,Edmonton McCauley,Outdoor Temperature,2026-02-07T00:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-07T00:00:00-07:00
+0.007,Edmonton McCauley,Ozone,2026-02-07T00:00:00-07:00
+0.006,Edmonton McCauley,Nitric Oxide,2026-02-07T00:00:00-07:00
+5.6,Edmonton McCauley,Wind Speed,2026-02-07T00:00:00-07:00
+12.2,Edmonton McCauley,Fine Particulate Matter,2026-02-07T00:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-07T00:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-07T00:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-07T00:00:00-07:00
-4.7,Edmonton McCauley,Outdoor Temperature,2026-02-07T00:00:00-07:00
-0.3,Edmonton McCauley,Carbon Monoxide,2026-02-07T00:00:00-07:00
-0.038,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-07T00:00:00-07:00
-0.032,Edmonton McCauley,Nitrogen Dioxide,2026-02-07T00:00:00-07:00
-282.0,Edmonton McCauley,Wind Direction,2026-02-07T00:00:00-07:00
-44.1,Edmonton McCauley,Relative Humidity,2026-02-07T00:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-06T23:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-06T23:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-06T23:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-06T23:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-06T23:00:00-07:00
 5.6,Edmonton McCauley,Outdoor Temperature,2026-02-06T23:00:00-07:00
 277.0,Edmonton McCauley,Wind Direction,2026-02-06T23:00:00-07:00
 11.8,Edmonton McCauley,Fine Particulate Matter,2026-02-06T23:00:00-07:00
@@ -181,34 +195,34 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton McCauley,Methane,2026-02-06T18:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-06T18:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-06T18:00:00-07:00
-3.0,Edmonton McCauley,,2026-02-06T17:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-06T17:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-06T17:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-06T17:00:00-07:00
-55.3,Edmonton McCauley,Relative Humidity,2026-02-06T17:00:00-07:00
-0.034,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-06T17:00:00-07:00
-11.7,Edmonton McCauley,Fine Particulate Matter,2026-02-06T17:00:00-07:00
-0.025,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T17:00:00-07:00
-0.3,Edmonton McCauley,Carbon Monoxide,2026-02-06T17:00:00-07:00
-209.0,Edmonton McCauley,Wind Direction,2026-02-06T17:00:00-07:00
-5.2,Edmonton McCauley,Outdoor Temperature,2026-02-06T17:00:00-07:00
-5.6,Edmonton McCauley,Wind Speed,2026-02-06T17:00:00-07:00
-0.008,Edmonton McCauley,Ozone,2026-02-06T17:00:00-07:00
 0.009,Edmonton McCauley,Nitric Oxide,2026-02-06T17:00:00-07:00
-0.006,Edmonton McCauley,Nitric Oxide,2026-02-06T16:00:00-07:00
-52.6,Edmonton McCauley,Relative Humidity,2026-02-06T16:00:00-07:00
-10.3,Edmonton McCauley,Fine Particulate Matter,2026-02-06T16:00:00-07:00
-175.0,Edmonton McCauley,Wind Direction,2026-02-06T16:00:00-07:00
-0.3,Edmonton McCauley,Carbon Monoxide,2026-02-06T16:00:00-07:00
-5.7,Edmonton McCauley,Wind Speed,2026-02-06T16:00:00-07:00
-0.015,Edmonton McCauley,Ozone,2026-02-06T16:00:00-07:00
-0.023,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-06T16:00:00-07:00
-0.017,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T16:00:00-07:00
-5.6,Edmonton McCauley,Outdoor Temperature,2026-02-06T16:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-06T16:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-06T16:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-06T16:00:00-07:00
+0.008,Edmonton McCauley,Ozone,2026-02-06T17:00:00-07:00
+5.6,Edmonton McCauley,Wind Speed,2026-02-06T17:00:00-07:00
+5.2,Edmonton McCauley,Outdoor Temperature,2026-02-06T17:00:00-07:00
+209.0,Edmonton McCauley,Wind Direction,2026-02-06T17:00:00-07:00
+0.3,Edmonton McCauley,Carbon Monoxide,2026-02-06T17:00:00-07:00
+0.025,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T17:00:00-07:00
+11.7,Edmonton McCauley,Fine Particulate Matter,2026-02-06T17:00:00-07:00
+0.034,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-06T17:00:00-07:00
+55.3,Edmonton McCauley,Relative Humidity,2026-02-06T17:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-06T17:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-06T17:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-06T17:00:00-07:00
+3.0,Edmonton McCauley,,2026-02-06T17:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-06T16:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-06T16:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-06T16:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-06T16:00:00-07:00
+5.6,Edmonton McCauley,Outdoor Temperature,2026-02-06T16:00:00-07:00
+0.017,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T16:00:00-07:00
+0.023,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-06T16:00:00-07:00
+0.015,Edmonton McCauley,Ozone,2026-02-06T16:00:00-07:00
+5.7,Edmonton McCauley,Wind Speed,2026-02-06T16:00:00-07:00
+0.3,Edmonton McCauley,Carbon Monoxide,2026-02-06T16:00:00-07:00
+175.0,Edmonton McCauley,Wind Direction,2026-02-06T16:00:00-07:00
+10.3,Edmonton McCauley,Fine Particulate Matter,2026-02-06T16:00:00-07:00
+52.6,Edmonton McCauley,Relative Humidity,2026-02-06T16:00:00-07:00
+0.006,Edmonton McCauley,Nitric Oxide,2026-02-06T16:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-06T15:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-06T15:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-06T15:00:00-07:00
@@ -219,13 +233,10 @@ Value,StationName,ParameterName,ReadingDate
 0.2,Edmonton McCauley,Carbon Monoxide,2026-02-06T15:00:00-07:00
 7.4,Edmonton McCauley,Wind Speed,2026-02-06T15:00:00-07:00
 156.0,Edmonton McCauley,Wind Direction,2026-02-06T15:00:00-07:00
-10.9,Edmonton McCauley,Fine Particulate Matter,2026-02-06T15:00:00-07:00
-0.015,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T15:00:00-07:00
-0.007,Edmonton McCauley,Nitric Oxide,2026-02-06T15:00:00-07:00
 6.1,Edmonton McCauley,Outdoor Temperature,2026-02-06T15:00:00-07:00
-0.018,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T14:00:00-07:00
-0.011,Edmonton McCauley,Nitric Oxide,2026-02-06T14:00:00-07:00
-12.5,Edmonton McCauley,Fine Particulate Matter,2026-02-06T14:00:00-07:00
+0.007,Edmonton McCauley,Nitric Oxide,2026-02-06T15:00:00-07:00
+0.015,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T15:00:00-07:00
+10.9,Edmonton McCauley,Fine Particulate Matter,2026-02-06T15:00:00-07:00
 52.5,Edmonton McCauley,Relative Humidity,2026-02-06T14:00:00-07:00
 155.0,Edmonton McCauley,Wind Direction,2026-02-06T14:00:00-07:00
 0.029,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-06T14:00:00-07:00
@@ -237,6 +248,9 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton McCauley,Methane,2026-02-06T14:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-06T14:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-06T14:00:00-07:00
+12.5,Edmonton McCauley,Fine Particulate Matter,2026-02-06T14:00:00-07:00
+0.011,Edmonton McCauley,Nitric Oxide,2026-02-06T14:00:00-07:00
+0.018,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T14:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-06T13:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-06T13:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-06T13:00:00-07:00
@@ -251,76 +265,76 @@ Value,StationName,ParameterName,ReadingDate
 56.5,Edmonton McCauley,Relative Humidity,2026-02-06T13:00:00-07:00
 5.2,Edmonton McCauley,Outdoor Temperature,2026-02-06T13:00:00-07:00
 0.019,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T13:00:00-07:00
-0.022,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T12:00:00-07:00
-8.2,Edmonton McCauley,Wind Speed,2026-02-06T12:00:00-07:00
-0.021,Edmonton McCauley,Nitric Oxide,2026-02-06T12:00:00-07:00
-0.012,Edmonton McCauley,Ozone,2026-02-06T12:00:00-07:00
-4.0,Edmonton McCauley,Outdoor Temperature,2026-02-06T12:00:00-07:00
-0.3,Edmonton McCauley,Carbon Monoxide,2026-02-06T12:00:00-07:00
-149.0,Edmonton McCauley,Wind Direction,2026-02-06T12:00:00-07:00
-16.7,Edmonton McCauley,Fine Particulate Matter,2026-02-06T12:00:00-07:00
-0.043,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-06T12:00:00-07:00
-61.7,Edmonton McCauley,Relative Humidity,2026-02-06T12:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-06T12:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-06T12:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-06T12:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-06T12:00:00-07:00
-3.0,Edmonton McCauley,,2026-02-06T11:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-06T11:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-06T11:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-06T11:00:00-07:00
-10.0,Edmonton McCauley,Fine Particulate Matter,2026-02-06T11:00:00-07:00
-0.019,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T11:00:00-07:00
-0.01,Edmonton McCauley,Ozone,2026-02-06T11:00:00-07:00
-0.035,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-06T11:00:00-07:00
-0.015,Edmonton McCauley,Nitric Oxide,2026-02-06T11:00:00-07:00
-70.2,Edmonton McCauley,Relative Humidity,2026-02-06T11:00:00-07:00
-5.3,Edmonton McCauley,Wind Speed,2026-02-06T11:00:00-07:00
-144.0,Edmonton McCauley,Wind Direction,2026-02-06T11:00:00-07:00
-2.5,Edmonton McCauley,Outdoor Temperature,2026-02-06T11:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-06T12:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-06T12:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-06T12:00:00-07:00
+61.7,Edmonton McCauley,Relative Humidity,2026-02-06T12:00:00-07:00
+0.043,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-06T12:00:00-07:00
+16.7,Edmonton McCauley,Fine Particulate Matter,2026-02-06T12:00:00-07:00
+149.0,Edmonton McCauley,Wind Direction,2026-02-06T12:00:00-07:00
+0.3,Edmonton McCauley,Carbon Monoxide,2026-02-06T12:00:00-07:00
+4.0,Edmonton McCauley,Outdoor Temperature,2026-02-06T12:00:00-07:00
+0.012,Edmonton McCauley,Ozone,2026-02-06T12:00:00-07:00
+0.021,Edmonton McCauley,Nitric Oxide,2026-02-06T12:00:00-07:00
+8.2,Edmonton McCauley,Wind Speed,2026-02-06T12:00:00-07:00
+0.022,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T12:00:00-07:00
 0.2,Edmonton McCauley,Carbon Monoxide,2026-02-06T11:00:00-07:00
-9.9,Edmonton McCauley,Fine Particulate Matter,2026-02-06T10:00:00-07:00
-0.2,Edmonton McCauley,Carbon Monoxide,2026-02-06T10:00:00-07:00
-0.009,Edmonton McCauley,Ozone,2026-02-06T10:00:00-07:00
-0.021,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T10:00:00-07:00
-6.9,Edmonton McCauley,Wind Speed,2026-02-06T10:00:00-07:00
-0.01,Edmonton McCauley,Nitric Oxide,2026-02-06T10:00:00-07:00
-156.0,Edmonton McCauley,Wind Direction,2026-02-06T10:00:00-07:00
-1.7,Edmonton McCauley,Outdoor Temperature,2026-02-06T10:00:00-07:00
-77.9,Edmonton McCauley,Relative Humidity,2026-02-06T10:00:00-07:00
-0.031,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-06T10:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-06T10:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-06T10:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-06T10:00:00-07:00
+2.5,Edmonton McCauley,Outdoor Temperature,2026-02-06T11:00:00-07:00
+144.0,Edmonton McCauley,Wind Direction,2026-02-06T11:00:00-07:00
+5.3,Edmonton McCauley,Wind Speed,2026-02-06T11:00:00-07:00
+70.2,Edmonton McCauley,Relative Humidity,2026-02-06T11:00:00-07:00
+0.015,Edmonton McCauley,Nitric Oxide,2026-02-06T11:00:00-07:00
+0.035,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-06T11:00:00-07:00
+0.01,Edmonton McCauley,Ozone,2026-02-06T11:00:00-07:00
+0.019,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T11:00:00-07:00
+10.0,Edmonton McCauley,Fine Particulate Matter,2026-02-06T11:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-06T11:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-06T11:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-06T11:00:00-07:00
+3.0,Edmonton McCauley,,2026-02-06T11:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-06T10:00:00-07:00
-3.0,Edmonton McCauley,,2026-02-06T09:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-06T09:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-06T09:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-06T09:00:00-07:00
-0.2,Edmonton McCauley,Carbon Monoxide,2026-02-06T09:00:00-07:00
-0.006,Edmonton McCauley,Ozone,2026-02-06T09:00:00-07:00
-1.3,Edmonton McCauley,Outdoor Temperature,2026-02-06T09:00:00-07:00
-0.03,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-06T09:00:00-07:00
-8.9,Edmonton McCauley,Fine Particulate Matter,2026-02-06T09:00:00-07:00
-0.005,Edmonton McCauley,Nitric Oxide,2026-02-06T09:00:00-07:00
-154.0,Edmonton McCauley,Wind Direction,2026-02-06T09:00:00-07:00
-0.025,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T09:00:00-07:00
-82.8,Edmonton McCauley,Relative Humidity,2026-02-06T09:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-06T10:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-06T10:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-06T10:00:00-07:00
+0.031,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-06T10:00:00-07:00
+77.9,Edmonton McCauley,Relative Humidity,2026-02-06T10:00:00-07:00
+1.7,Edmonton McCauley,Outdoor Temperature,2026-02-06T10:00:00-07:00
+156.0,Edmonton McCauley,Wind Direction,2026-02-06T10:00:00-07:00
+0.01,Edmonton McCauley,Nitric Oxide,2026-02-06T10:00:00-07:00
+6.9,Edmonton McCauley,Wind Speed,2026-02-06T10:00:00-07:00
+0.021,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T10:00:00-07:00
+0.009,Edmonton McCauley,Ozone,2026-02-06T10:00:00-07:00
+0.2,Edmonton McCauley,Carbon Monoxide,2026-02-06T10:00:00-07:00
+9.9,Edmonton McCauley,Fine Particulate Matter,2026-02-06T10:00:00-07:00
 8.2,Edmonton McCauley,Wind Speed,2026-02-06T09:00:00-07:00
-0.019,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-06T08:00:00-07:00
-0.001,Edmonton McCauley,Nitric Oxide,2026-02-06T08:00:00-07:00
-7.1,Edmonton McCauley,Fine Particulate Matter,2026-02-06T08:00:00-07:00
-0.018,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T08:00:00-07:00
-0.2,Edmonton McCauley,Carbon Monoxide,2026-02-06T08:00:00-07:00
-2.0,Edmonton McCauley,Outdoor Temperature,2026-02-06T08:00:00-07:00
-4.9,Edmonton McCauley,Wind Speed,2026-02-06T08:00:00-07:00
-0.012,Edmonton McCauley,Ozone,2026-02-06T08:00:00-07:00
-170.0,Edmonton McCauley,Wind Direction,2026-02-06T08:00:00-07:00
-75.3,Edmonton McCauley,Relative Humidity,2026-02-06T08:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-06T08:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-06T08:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-06T08:00:00-07:00
+82.8,Edmonton McCauley,Relative Humidity,2026-02-06T09:00:00-07:00
+0.025,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T09:00:00-07:00
+154.0,Edmonton McCauley,Wind Direction,2026-02-06T09:00:00-07:00
+0.005,Edmonton McCauley,Nitric Oxide,2026-02-06T09:00:00-07:00
+8.9,Edmonton McCauley,Fine Particulate Matter,2026-02-06T09:00:00-07:00
+0.03,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-06T09:00:00-07:00
+1.3,Edmonton McCauley,Outdoor Temperature,2026-02-06T09:00:00-07:00
+0.006,Edmonton McCauley,Ozone,2026-02-06T09:00:00-07:00
+0.2,Edmonton McCauley,Carbon Monoxide,2026-02-06T09:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-06T09:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-06T09:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-06T09:00:00-07:00
+3.0,Edmonton McCauley,,2026-02-06T09:00:00-07:00
 2.0,Edmonton McCauley,,2026-02-06T08:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-06T08:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-06T08:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-06T08:00:00-07:00
+75.3,Edmonton McCauley,Relative Humidity,2026-02-06T08:00:00-07:00
+170.0,Edmonton McCauley,Wind Direction,2026-02-06T08:00:00-07:00
+0.012,Edmonton McCauley,Ozone,2026-02-06T08:00:00-07:00
+4.9,Edmonton McCauley,Wind Speed,2026-02-06T08:00:00-07:00
+2.0,Edmonton McCauley,Outdoor Temperature,2026-02-06T08:00:00-07:00
+0.2,Edmonton McCauley,Carbon Monoxide,2026-02-06T08:00:00-07:00
+0.018,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T08:00:00-07:00
+7.1,Edmonton McCauley,Fine Particulate Matter,2026-02-06T08:00:00-07:00
+0.001,Edmonton McCauley,Nitric Oxide,2026-02-06T08:00:00-07:00
+0.019,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-06T08:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-06T07:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-06T07:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-06T07:00:00-07:00
@@ -335,6 +349,7 @@ Value,StationName,ParameterName,ReadingDate
 2.7,Edmonton McCauley,Outdoor Temperature,2026-02-06T07:00:00-07:00
 0.016,Edmonton McCauley,Ozone,2026-02-06T07:00:00-07:00
 2.0,Edmonton McCauley,,2026-02-06T07:00:00-07:00
+0.01,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T06:00:00-07:00
 0.021,Edmonton McCauley,Ozone,2026-02-06T06:00:00-07:00
 3.4,Edmonton McCauley,Outdoor Temperature,2026-02-06T06:00:00-07:00
 66.4,Edmonton McCauley,Relative Humidity,2026-02-06T06:00:00-07:00
@@ -343,7 +358,6 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton McCauley,Methane,2026-02-06T06:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-06T06:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-06T06:00:00-07:00
-0.01,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T06:00:00-07:00
 0.1,Edmonton McCauley,Carbon Monoxide,2026-02-06T06:00:00-07:00
 6.2,Edmonton McCauley,Fine Particulate Matter,2026-02-06T06:00:00-07:00
 172.0,Edmonton McCauley,Wind Direction,2026-02-06T06:00:00-07:00
@@ -391,11 +405,11 @@ Value,StationName,ParameterName,ReadingDate
 4.1,Edmonton McCauley,Outdoor Temperature,2026-02-06T03:00:00-07:00
 0.013,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T03:00:00-07:00
 0.0,Edmonton McCauley,Nitric Oxide,2026-02-06T03:00:00-07:00
+4.4,Edmonton McCauley,Outdoor Temperature,2026-02-06T02:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-06T02:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-06T02:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-06T02:00:00-07:00
 2.0,Edmonton McCauley,,2026-02-06T02:00:00-07:00
-4.4,Edmonton McCauley,Outdoor Temperature,2026-02-06T02:00:00-07:00
 0.0,Edmonton McCauley,Nitric Oxide,2026-02-06T02:00:00-07:00
 8.5,Edmonton McCauley,Fine Particulate Matter,2026-02-06T02:00:00-07:00
 0.1,Edmonton McCauley,Carbon Monoxide,2026-02-06T02:00:00-07:00
@@ -412,13 +426,13 @@ Value,StationName,ParameterName,ReadingDate
 0.011,Edmonton McCauley,Nitrogen Dioxide,2026-02-06T01:00:00-07:00
 0.023,Edmonton McCauley,Ozone,2026-02-06T01:00:00-07:00
 63.7,Edmonton McCauley,Relative Humidity,2026-02-06T01:00:00-07:00
+5.5,Edmonton McCauley,Outdoor Temperature,2026-02-06T01:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-06T01:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-06T01:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-06T01:00:00-07:00
 7.3,Edmonton McCauley,Fine Particulate Matter,2026-02-06T01:00:00-07:00
 179.0,Edmonton McCauley,Wind Direction,2026-02-06T01:00:00-07:00
 6.6,Edmonton McCauley,Wind Speed,2026-02-06T01:00:00-07:00
-5.5,Edmonton McCauley,Outdoor Temperature,2026-02-06T01:00:00-07:00
 4.9,Edmonton McCauley,Fine Particulate Matter,2026-02-06T00:00:00-07:00
 166.0,Edmonton McCauley,Wind Direction,2026-02-06T00:00:00-07:00
 5.5,Edmonton McCauley,Outdoor Temperature,2026-02-06T00:00:00-07:00
@@ -458,9 +472,9 @@ Value,StationName,ParameterName,ReadingDate
 0.03,Edmonton McCauley,Nitrogen Dioxide,2026-02-05T22:00:00-07:00
 0.032,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-05T22:00:00-07:00
 0.008,Edmonton McCauley,Ozone,2026-02-05T22:00:00-07:00
+60.3,Edmonton McCauley,Relative Humidity,2026-02-05T22:00:00-07:00
 6.0,Edmonton McCauley,Wind Speed,2026-02-05T22:00:00-07:00
 0.002,Edmonton McCauley,Nitric Oxide,2026-02-05T22:00:00-07:00
-60.3,Edmonton McCauley,Relative Humidity,2026-02-05T22:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-05T21:00:00-07:00
 0.036,Edmonton McCauley,Nitrogen Dioxide,2026-02-05T21:00:00-07:00
 0.4,Edmonton McCauley,Carbon Monoxide,2026-02-05T21:00:00-07:00
@@ -559,13 +573,13 @@ Value,StationName,ParameterName,ReadingDate
 0.008,Edmonton McCauley,Nitrogen Dioxide,2026-02-05T15:00:00-07:00
 0.002,Edmonton McCauley,Nitric Oxide,2026-02-05T15:00:00-07:00
 0.1,Edmonton McCauley,Carbon Monoxide,2026-02-05T15:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-05T14:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-05T14:00:00-07:00
-,Edmonton McCauley,Nitrogen Dioxide,2026-02-05T14:00:00-07:00
-,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-05T14:00:00-07:00
-,Edmonton McCauley,Carbon Monoxide,2026-02-05T14:00:00-07:00
-,Edmonton McCauley,Ozone,2026-02-05T14:00:00-07:00
 ,Edmonton McCauley,Nitric Oxide,2026-02-05T14:00:00-07:00
+,Edmonton McCauley,Ozone,2026-02-05T14:00:00-07:00
+,Edmonton McCauley,Carbon Monoxide,2026-02-05T14:00:00-07:00
+,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-05T14:00:00-07:00
+,Edmonton McCauley,Nitrogen Dioxide,2026-02-05T14:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-05T14:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-05T14:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-05T14:00:00-07:00
 ,Edmonton McCauley,,2026-02-05T14:00:00-07:00
 43.6,Edmonton McCauley,Relative Humidity,2026-02-05T14:00:00-07:00
@@ -671,6 +685,7 @@ Value,StationName,ParameterName,ReadingDate
 7.7,Edmonton McCauley,Fine Particulate Matter,2026-02-05T07:00:00-07:00
 9.9,Edmonton McCauley,Outdoor Temperature,2026-02-05T07:00:00-07:00
 285.0,Edmonton McCauley,Wind Direction,2026-02-05T07:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-05T06:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-05T06:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-05T06:00:00-07:00
 0.001,Edmonton McCauley,Nitric Oxide,2026-02-05T06:00:00-07:00
@@ -678,7 +693,6 @@ Value,StationName,ParameterName,ReadingDate
 35.9,Edmonton McCauley,Relative Humidity,2026-02-05T06:00:00-07:00
 282.0,Edmonton McCauley,Wind Direction,2026-02-05T06:00:00-07:00
 2.0,Edmonton McCauley,,2026-02-05T06:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-05T06:00:00-07:00
 9.7,Edmonton McCauley,Wind Speed,2026-02-05T06:00:00-07:00
 0.024,Edmonton McCauley,Ozone,2026-02-05T06:00:00-07:00
 0.4,Edmonton McCauley,Carbon Monoxide,2026-02-05T06:00:00-07:00
@@ -745,8 +759,9 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton McCauley,Methane,2026-02-05T01:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-05T01:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-05T01:00:00-07:00
-220.0,Edmonton McCauley,Wind Direction,2026-02-05T01:00:00-07:00
 11.3,Edmonton McCauley,Outdoor Temperature,2026-02-05T01:00:00-07:00
+220.0,Edmonton McCauley,Wind Direction,2026-02-05T01:00:00-07:00
+8.8,Edmonton McCauley,Wind Speed,2026-02-05T01:00:00-07:00
 30.4,Edmonton McCauley,Relative Humidity,2026-02-05T01:00:00-07:00
 0.026,Edmonton McCauley,Ozone,2026-02-05T01:00:00-07:00
 0.011,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-05T01:00:00-07:00
@@ -754,7 +769,6 @@ Value,StationName,ParameterName,ReadingDate
 6.0,Edmonton McCauley,Fine Particulate Matter,2026-02-05T01:00:00-07:00
 0.4,Edmonton McCauley,Carbon Monoxide,2026-02-05T01:00:00-07:00
 0.0,Edmonton McCauley,Nitric Oxide,2026-02-05T01:00:00-07:00
-8.8,Edmonton McCauley,Wind Speed,2026-02-05T01:00:00-07:00
 6.1,Edmonton McCauley,Wind Speed,2026-02-05T00:00:00-07:00
 6.5,Edmonton McCauley,Fine Particulate Matter,2026-02-05T00:00:00-07:00
 36.4,Edmonton McCauley,Relative Humidity,2026-02-05T00:00:00-07:00
@@ -811,62 +825,62 @@ Value,StationName,ParameterName,ReadingDate
 140.0,Edmonton McCauley,Wind Direction,2026-02-04T21:00:00-07:00
 0.047,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T21:00:00-07:00
 0.001,Edmonton McCauley,Ozone,2026-02-04T21:00:00-07:00
-4.0,Edmonton McCauley,,2026-02-04T20:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-04T20:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T20:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-04T20:00:00-07:00
-0.032,Edmonton McCauley,Nitric Oxide,2026-02-04T20:00:00-07:00
-1.0,Edmonton McCauley,Carbon Monoxide,2026-02-04T20:00:00-07:00
-0.077,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T20:00:00-07:00
-7.9,Edmonton McCauley,Outdoor Temperature,2026-02-04T20:00:00-07:00
-3.0,Edmonton McCauley,Wind Speed,2026-02-04T20:00:00-07:00
-13.0,Edmonton McCauley,Fine Particulate Matter,2026-02-04T20:00:00-07:00
-50.0,Edmonton McCauley,Relative Humidity,2026-02-04T20:00:00-07:00
-117.0,Edmonton McCauley,Wind Direction,2026-02-04T20:00:00-07:00
-0.045,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T20:00:00-07:00
 0.001,Edmonton McCauley,Ozone,2026-02-04T20:00:00-07:00
-0.001,Edmonton McCauley,Ozone,2026-02-04T19:00:00-07:00
-0.045,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T19:00:00-07:00
-126.0,Edmonton McCauley,Wind Direction,2026-02-04T19:00:00-07:00
-46.6,Edmonton McCauley,Relative Humidity,2026-02-04T19:00:00-07:00
-12.4,Edmonton McCauley,Fine Particulate Matter,2026-02-04T19:00:00-07:00
-3.1,Edmonton McCauley,Wind Speed,2026-02-04T19:00:00-07:00
-8.8,Edmonton McCauley,Outdoor Temperature,2026-02-04T19:00:00-07:00
-0.066,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T19:00:00-07:00
-0.9,Edmonton McCauley,Carbon Monoxide,2026-02-04T19:00:00-07:00
-0.021,Edmonton McCauley,Nitric Oxide,2026-02-04T19:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-04T19:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T19:00:00-07:00
+0.045,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T20:00:00-07:00
+117.0,Edmonton McCauley,Wind Direction,2026-02-04T20:00:00-07:00
+50.0,Edmonton McCauley,Relative Humidity,2026-02-04T20:00:00-07:00
+13.0,Edmonton McCauley,Fine Particulate Matter,2026-02-04T20:00:00-07:00
+3.0,Edmonton McCauley,Wind Speed,2026-02-04T20:00:00-07:00
+7.9,Edmonton McCauley,Outdoor Temperature,2026-02-04T20:00:00-07:00
+0.077,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T20:00:00-07:00
+1.0,Edmonton McCauley,Carbon Monoxide,2026-02-04T20:00:00-07:00
+0.032,Edmonton McCauley,Nitric Oxide,2026-02-04T20:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-04T20:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T20:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-04T20:00:00-07:00
+4.0,Edmonton McCauley,,2026-02-04T20:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-04T19:00:00-07:00
 4.0,Edmonton McCauley,,2026-02-04T19:00:00-07:00
-3.0,Edmonton McCauley,,2026-02-04T18:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-04T18:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T18:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-04T18:00:00-07:00
-0.004,Edmonton McCauley,Nitric Oxide,2026-02-04T18:00:00-07:00
-0.7,Edmonton McCauley,Carbon Monoxide,2026-02-04T18:00:00-07:00
-0.035,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T18:00:00-07:00
-10.7,Edmonton McCauley,Outdoor Temperature,2026-02-04T18:00:00-07:00
-3.6,Edmonton McCauley,Wind Speed,2026-02-04T18:00:00-07:00
-6.8,Edmonton McCauley,Fine Particulate Matter,2026-02-04T18:00:00-07:00
-39.1,Edmonton McCauley,Relative Humidity,2026-02-04T18:00:00-07:00
-177.0,Edmonton McCauley,Wind Direction,2026-02-04T18:00:00-07:00
-0.031,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T18:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T19:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-04T19:00:00-07:00
+0.021,Edmonton McCauley,Nitric Oxide,2026-02-04T19:00:00-07:00
+0.9,Edmonton McCauley,Carbon Monoxide,2026-02-04T19:00:00-07:00
+0.066,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T19:00:00-07:00
+8.8,Edmonton McCauley,Outdoor Temperature,2026-02-04T19:00:00-07:00
+3.1,Edmonton McCauley,Wind Speed,2026-02-04T19:00:00-07:00
+12.4,Edmonton McCauley,Fine Particulate Matter,2026-02-04T19:00:00-07:00
+46.6,Edmonton McCauley,Relative Humidity,2026-02-04T19:00:00-07:00
+126.0,Edmonton McCauley,Wind Direction,2026-02-04T19:00:00-07:00
+0.045,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T19:00:00-07:00
+0.001,Edmonton McCauley,Ozone,2026-02-04T19:00:00-07:00
 0.012,Edmonton McCauley,Ozone,2026-02-04T18:00:00-07:00
-0.02,Edmonton McCauley,Ozone,2026-02-04T17:00:00-07:00
-0.02,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T17:00:00-07:00
-250.0,Edmonton McCauley,Wind Direction,2026-02-04T17:00:00-07:00
-36.6,Edmonton McCauley,Relative Humidity,2026-02-04T17:00:00-07:00
-5.2,Edmonton McCauley,Fine Particulate Matter,2026-02-04T17:00:00-07:00
-6.0,Edmonton McCauley,Wind Speed,2026-02-04T17:00:00-07:00
-11.6,Edmonton McCauley,Outdoor Temperature,2026-02-04T17:00:00-07:00
-0.024,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T17:00:00-07:00
-0.6,Edmonton McCauley,Carbon Monoxide,2026-02-04T17:00:00-07:00
-0.004,Edmonton McCauley,Nitric Oxide,2026-02-04T17:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-04T17:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T17:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-04T17:00:00-07:00
+0.031,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T18:00:00-07:00
+177.0,Edmonton McCauley,Wind Direction,2026-02-04T18:00:00-07:00
+39.1,Edmonton McCauley,Relative Humidity,2026-02-04T18:00:00-07:00
+6.8,Edmonton McCauley,Fine Particulate Matter,2026-02-04T18:00:00-07:00
+3.6,Edmonton McCauley,Wind Speed,2026-02-04T18:00:00-07:00
+10.7,Edmonton McCauley,Outdoor Temperature,2026-02-04T18:00:00-07:00
+0.035,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T18:00:00-07:00
+0.7,Edmonton McCauley,Carbon Monoxide,2026-02-04T18:00:00-07:00
+0.004,Edmonton McCauley,Nitric Oxide,2026-02-04T18:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-04T18:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T18:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-04T18:00:00-07:00
+3.0,Edmonton McCauley,,2026-02-04T18:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-04T17:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-04T17:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T17:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-04T17:00:00-07:00
+0.004,Edmonton McCauley,Nitric Oxide,2026-02-04T17:00:00-07:00
+0.6,Edmonton McCauley,Carbon Monoxide,2026-02-04T17:00:00-07:00
+0.024,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T17:00:00-07:00
+11.6,Edmonton McCauley,Outdoor Temperature,2026-02-04T17:00:00-07:00
+6.0,Edmonton McCauley,Wind Speed,2026-02-04T17:00:00-07:00
+5.2,Edmonton McCauley,Fine Particulate Matter,2026-02-04T17:00:00-07:00
+36.6,Edmonton McCauley,Relative Humidity,2026-02-04T17:00:00-07:00
+250.0,Edmonton McCauley,Wind Direction,2026-02-04T17:00:00-07:00
+0.02,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T17:00:00-07:00
+0.02,Edmonton McCauley,Ozone,2026-02-04T17:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-04T16:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-04T16:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T16:00:00-07:00
@@ -887,14 +901,14 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-04T15:00:00-07:00
 0.008,Edmonton McCauley,Nitric Oxide,2026-02-04T15:00:00-07:00
 0.6,Edmonton McCauley,Carbon Monoxide,2026-02-04T15:00:00-07:00
+0.028,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T15:00:00-07:00
+11.3,Edmonton McCauley,Outdoor Temperature,2026-02-04T15:00:00-07:00
 0.019,Edmonton McCauley,Ozone,2026-02-04T15:00:00-07:00
 0.02,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T15:00:00-07:00
 208.0,Edmonton McCauley,Wind Direction,2026-02-04T15:00:00-07:00
 38.8,Edmonton McCauley,Relative Humidity,2026-02-04T15:00:00-07:00
 6.0,Edmonton McCauley,Fine Particulate Matter,2026-02-04T15:00:00-07:00
 2.7,Edmonton McCauley,Wind Speed,2026-02-04T15:00:00-07:00
-11.3,Edmonton McCauley,Outdoor Temperature,2026-02-04T15:00:00-07:00
-0.028,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T15:00:00-07:00
 0.023,Edmonton McCauley,Ozone,2026-02-04T14:00:00-07:00
 0.015,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T14:00:00-07:00
 199.0,Edmonton McCauley,Wind Direction,2026-02-04T14:00:00-07:00
@@ -912,7 +926,6 @@ Value,StationName,ParameterName,ReadingDate
 0.021,Edmonton McCauley,Ozone,2026-02-04T13:00:00-07:00
 0.017,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T13:00:00-07:00
 239.0,Edmonton McCauley,Wind Direction,2026-02-04T13:00:00-07:00
-40.0,Edmonton McCauley,Relative Humidity,2026-02-04T13:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-04T13:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-04T13:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T13:00:00-07:00
@@ -923,76 +936,77 @@ Value,StationName,ParameterName,ReadingDate
 10.7,Edmonton McCauley,Outdoor Temperature,2026-02-04T13:00:00-07:00
 6.1,Edmonton McCauley,Wind Speed,2026-02-04T13:00:00-07:00
 5.2,Edmonton McCauley,Fine Particulate Matter,2026-02-04T13:00:00-07:00
-3.0,Edmonton McCauley,,2026-02-04T12:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-04T12:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T12:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-04T12:00:00-07:00
-0.006,Edmonton McCauley,Nitric Oxide,2026-02-04T12:00:00-07:00
-0.5,Edmonton McCauley,Carbon Monoxide,2026-02-04T12:00:00-07:00
-0.022,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T12:00:00-07:00
-9.2,Edmonton McCauley,Outdoor Temperature,2026-02-04T12:00:00-07:00
-9.2,Edmonton McCauley,Wind Speed,2026-02-04T12:00:00-07:00
-4.5,Edmonton McCauley,Fine Particulate Matter,2026-02-04T12:00:00-07:00
-43.3,Edmonton McCauley,Relative Humidity,2026-02-04T12:00:00-07:00
-265.0,Edmonton McCauley,Wind Direction,2026-02-04T12:00:00-07:00
-0.016,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T12:00:00-07:00
+40.0,Edmonton McCauley,Relative Humidity,2026-02-04T13:00:00-07:00
 0.022,Edmonton McCauley,Ozone,2026-02-04T12:00:00-07:00
-0.023,Edmonton McCauley,Ozone,2026-02-04T11:00:00-07:00
-0.014,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T11:00:00-07:00
-254.0,Edmonton McCauley,Wind Direction,2026-02-04T11:00:00-07:00
-43.6,Edmonton McCauley,Relative Humidity,2026-02-04T11:00:00-07:00
-4.0,Edmonton McCauley,Fine Particulate Matter,2026-02-04T11:00:00-07:00
-12.7,Edmonton McCauley,Wind Speed,2026-02-04T11:00:00-07:00
-8.9,Edmonton McCauley,Outdoor Temperature,2026-02-04T11:00:00-07:00
-0.019,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T11:00:00-07:00
-0.4,Edmonton McCauley,Carbon Monoxide,2026-02-04T11:00:00-07:00
-0.005,Edmonton McCauley,Nitric Oxide,2026-02-04T11:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-04T11:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T11:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-04T11:00:00-07:00
+0.016,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T12:00:00-07:00
+265.0,Edmonton McCauley,Wind Direction,2026-02-04T12:00:00-07:00
+43.3,Edmonton McCauley,Relative Humidity,2026-02-04T12:00:00-07:00
+4.5,Edmonton McCauley,Fine Particulate Matter,2026-02-04T12:00:00-07:00
+9.2,Edmonton McCauley,Wind Speed,2026-02-04T12:00:00-07:00
+9.2,Edmonton McCauley,Outdoor Temperature,2026-02-04T12:00:00-07:00
+0.022,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T12:00:00-07:00
+0.5,Edmonton McCauley,Carbon Monoxide,2026-02-04T12:00:00-07:00
+0.006,Edmonton McCauley,Nitric Oxide,2026-02-04T12:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-04T12:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T12:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-04T12:00:00-07:00
+3.0,Edmonton McCauley,,2026-02-04T12:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-04T11:00:00-07:00
-3.0,Edmonton McCauley,,2026-02-04T10:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-04T10:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T10:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-04T10:00:00-07:00
-0.005,Edmonton McCauley,Nitric Oxide,2026-02-04T10:00:00-07:00
-0.5,Edmonton McCauley,Carbon Monoxide,2026-02-04T10:00:00-07:00
-0.021,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T10:00:00-07:00
-8.2,Edmonton McCauley,Outdoor Temperature,2026-02-04T10:00:00-07:00
-11.0,Edmonton McCauley,Wind Speed,2026-02-04T10:00:00-07:00
-4.8,Edmonton McCauley,Fine Particulate Matter,2026-02-04T10:00:00-07:00
-44.9,Edmonton McCauley,Relative Humidity,2026-02-04T10:00:00-07:00
-255.0,Edmonton McCauley,Wind Direction,2026-02-04T10:00:00-07:00
-0.016,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T10:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-04T11:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T11:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-04T11:00:00-07:00
+0.005,Edmonton McCauley,Nitric Oxide,2026-02-04T11:00:00-07:00
+0.4,Edmonton McCauley,Carbon Monoxide,2026-02-04T11:00:00-07:00
+0.019,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T11:00:00-07:00
+8.9,Edmonton McCauley,Outdoor Temperature,2026-02-04T11:00:00-07:00
+12.7,Edmonton McCauley,Wind Speed,2026-02-04T11:00:00-07:00
+4.0,Edmonton McCauley,Fine Particulate Matter,2026-02-04T11:00:00-07:00
+43.6,Edmonton McCauley,Relative Humidity,2026-02-04T11:00:00-07:00
+254.0,Edmonton McCauley,Wind Direction,2026-02-04T11:00:00-07:00
+0.014,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T11:00:00-07:00
+0.023,Edmonton McCauley,Ozone,2026-02-04T11:00:00-07:00
 0.022,Edmonton McCauley,Ozone,2026-02-04T10:00:00-07:00
-0.019,Edmonton McCauley,Ozone,2026-02-04T09:00:00-07:00
-0.018,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T09:00:00-07:00
-256.0,Edmonton McCauley,Wind Direction,2026-02-04T09:00:00-07:00
-7.7,Edmonton McCauley,Wind Speed,2026-02-04T09:00:00-07:00
-5.3,Edmonton McCauley,Fine Particulate Matter,2026-02-04T09:00:00-07:00
-47.6,Edmonton McCauley,Relative Humidity,2026-02-04T09:00:00-07:00
-6.7,Edmonton McCauley,Outdoor Temperature,2026-02-04T09:00:00-07:00
-0.02,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T09:00:00-07:00
-0.5,Edmonton McCauley,Carbon Monoxide,2026-02-04T09:00:00-07:00
-0.003,Edmonton McCauley,Nitric Oxide,2026-02-04T09:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-04T09:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T09:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-04T09:00:00-07:00
+0.016,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T10:00:00-07:00
+255.0,Edmonton McCauley,Wind Direction,2026-02-04T10:00:00-07:00
+44.9,Edmonton McCauley,Relative Humidity,2026-02-04T10:00:00-07:00
+4.8,Edmonton McCauley,Fine Particulate Matter,2026-02-04T10:00:00-07:00
+11.0,Edmonton McCauley,Wind Speed,2026-02-04T10:00:00-07:00
+8.2,Edmonton McCauley,Outdoor Temperature,2026-02-04T10:00:00-07:00
+0.021,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T10:00:00-07:00
+0.5,Edmonton McCauley,Carbon Monoxide,2026-02-04T10:00:00-07:00
+0.005,Edmonton McCauley,Nitric Oxide,2026-02-04T10:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-04T10:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T10:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-04T10:00:00-07:00
+3.0,Edmonton McCauley,,2026-02-04T10:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-04T09:00:00-07:00
-2.0,Edmonton McCauley,,2026-02-04T08:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-04T08:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T08:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-04T08:00:00-07:00
-0.5,Edmonton McCauley,Carbon Monoxide,2026-02-04T08:00:00-07:00
-0.015,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T08:00:00-07:00
-5.9,Edmonton McCauley,Outdoor Temperature,2026-02-04T08:00:00-07:00
-6.9,Edmonton McCauley,Wind Speed,2026-02-04T08:00:00-07:00
-0.001,Edmonton McCauley,Nitric Oxide,2026-02-04T08:00:00-07:00
-4.9,Edmonton McCauley,Fine Particulate Matter,2026-02-04T08:00:00-07:00
-47.9,Edmonton McCauley,Relative Humidity,2026-02-04T08:00:00-07:00
-246.0,Edmonton McCauley,Wind Direction,2026-02-04T08:00:00-07:00
-0.014,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T08:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-04T09:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T09:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-04T09:00:00-07:00
+0.003,Edmonton McCauley,Nitric Oxide,2026-02-04T09:00:00-07:00
+0.5,Edmonton McCauley,Carbon Monoxide,2026-02-04T09:00:00-07:00
+0.02,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T09:00:00-07:00
+6.7,Edmonton McCauley,Outdoor Temperature,2026-02-04T09:00:00-07:00
+7.7,Edmonton McCauley,Wind Speed,2026-02-04T09:00:00-07:00
+47.6,Edmonton McCauley,Relative Humidity,2026-02-04T09:00:00-07:00
+5.3,Edmonton McCauley,Fine Particulate Matter,2026-02-04T09:00:00-07:00
+256.0,Edmonton McCauley,Wind Direction,2026-02-04T09:00:00-07:00
+0.018,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T09:00:00-07:00
+0.019,Edmonton McCauley,Ozone,2026-02-04T09:00:00-07:00
 0.021,Edmonton McCauley,Ozone,2026-02-04T08:00:00-07:00
+0.014,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T08:00:00-07:00
+246.0,Edmonton McCauley,Wind Direction,2026-02-04T08:00:00-07:00
+47.9,Edmonton McCauley,Relative Humidity,2026-02-04T08:00:00-07:00
+4.9,Edmonton McCauley,Fine Particulate Matter,2026-02-04T08:00:00-07:00
+0.001,Edmonton McCauley,Nitric Oxide,2026-02-04T08:00:00-07:00
+6.9,Edmonton McCauley,Wind Speed,2026-02-04T08:00:00-07:00
+5.9,Edmonton McCauley,Outdoor Temperature,2026-02-04T08:00:00-07:00
+0.015,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T08:00:00-07:00
+0.5,Edmonton McCauley,Carbon Monoxide,2026-02-04T08:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-04T08:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T08:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-04T08:00:00-07:00
+2.0,Edmonton McCauley,,2026-02-04T08:00:00-07:00
 2.0,Edmonton McCauley,,2026-02-04T07:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-04T07:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T07:00:00-07:00
@@ -1007,15 +1021,15 @@ Value,StationName,ParameterName,ReadingDate
 0.007,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T07:00:00-07:00
 0.029,Edmonton McCauley,Ozone,2026-02-04T07:00:00-07:00
 0.0,Edmonton McCauley,Nitric Oxide,2026-02-04T07:00:00-07:00
-2.0,Edmonton McCauley,,2026-02-04T06:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-04T06:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T06:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-04T06:00:00-07:00
-0.5,Edmonton McCauley,Carbon Monoxide,2026-02-04T06:00:00-07:00
-0.016,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T06:00:00-07:00
-4.6,Edmonton McCauley,Outdoor Temperature,2026-02-04T06:00:00-07:00
-5.7,Edmonton McCauley,Wind Speed,2026-02-04T06:00:00-07:00
 0.001,Edmonton McCauley,Nitric Oxide,2026-02-04T06:00:00-07:00
+5.7,Edmonton McCauley,Wind Speed,2026-02-04T06:00:00-07:00
+4.6,Edmonton McCauley,Outdoor Temperature,2026-02-04T06:00:00-07:00
+0.016,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T06:00:00-07:00
+0.5,Edmonton McCauley,Carbon Monoxide,2026-02-04T06:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-04T06:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T06:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-04T06:00:00-07:00
+2.0,Edmonton McCauley,,2026-02-04T06:00:00-07:00
 5.9,Edmonton McCauley,Fine Particulate Matter,2026-02-04T06:00:00-07:00
 51.1,Edmonton McCauley,Relative Humidity,2026-02-04T06:00:00-07:00
 259.0,Edmonton McCauley,Wind Direction,2026-02-04T06:00:00-07:00
@@ -1035,26 +1049,26 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton McCauley,Nitric Oxide,2026-02-04T05:00:00-07:00
 ,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T05:00:00-07:00
 ,Edmonton McCauley,Ozone,2026-02-04T05:00:00-07:00
+2.0,Edmonton McCauley,,2026-02-04T04:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-04T04:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T04:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-04T04:00:00-07:00
+0.4,Edmonton McCauley,Carbon Monoxide,2026-02-04T04:00:00-07:00
+0.016,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T04:00:00-07:00
+3.3,Edmonton McCauley,Outdoor Temperature,2026-02-04T04:00:00-07:00
+5.5,Edmonton McCauley,Wind Speed,2026-02-04T04:00:00-07:00
+0.001,Edmonton McCauley,Nitric Oxide,2026-02-04T04:00:00-07:00
+4.7,Edmonton McCauley,Fine Particulate Matter,2026-02-04T04:00:00-07:00
+56.9,Edmonton McCauley,Relative Humidity,2026-02-04T04:00:00-07:00
 143.0,Edmonton McCauley,Wind Direction,2026-02-04T04:00:00-07:00
 0.016,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T04:00:00-07:00
 0.015,Edmonton McCauley,Ozone,2026-02-04T04:00:00-07:00
-56.9,Edmonton McCauley,Relative Humidity,2026-02-04T04:00:00-07:00
-4.7,Edmonton McCauley,Fine Particulate Matter,2026-02-04T04:00:00-07:00
-0.001,Edmonton McCauley,Nitric Oxide,2026-02-04T04:00:00-07:00
-5.5,Edmonton McCauley,Wind Speed,2026-02-04T04:00:00-07:00
-3.3,Edmonton McCauley,Outdoor Temperature,2026-02-04T04:00:00-07:00
-0.016,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T04:00:00-07:00
-0.4,Edmonton McCauley,Carbon Monoxide,2026-02-04T04:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-04T04:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T04:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-04T04:00:00-07:00
-2.0,Edmonton McCauley,,2026-02-04T04:00:00-07:00
-2.0,Edmonton McCauley,,2026-02-04T03:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-04T03:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T03:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-04T03:00:00-07:00
-0.4,Edmonton McCauley,Carbon Monoxide,2026-02-04T03:00:00-07:00
 0.017,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T03:00:00-07:00
+0.4,Edmonton McCauley,Carbon Monoxide,2026-02-04T03:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-04T03:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T03:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-04T03:00:00-07:00
+2.0,Edmonton McCauley,,2026-02-04T03:00:00-07:00
 3.2,Edmonton McCauley,Outdoor Temperature,2026-02-04T03:00:00-07:00
 7.0,Edmonton McCauley,Wind Speed,2026-02-04T03:00:00-07:00
 0.001,Edmonton McCauley,Nitric Oxide,2026-02-04T03:00:00-07:00
@@ -1077,12 +1091,6 @@ Value,StationName,ParameterName,ReadingDate
 185.0,Edmonton McCauley,Wind Direction,2026-02-04T02:00:00-07:00
 0.012,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T02:00:00-07:00
 0.019,Edmonton McCauley,Ozone,2026-02-04T02:00:00-07:00
-2.0,Edmonton McCauley,,2026-02-04T01:00:00-07:00
-0.4,Edmonton McCauley,Carbon Monoxide,2026-02-04T01:00:00-07:00
-0.01,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T01:00:00-07:00
-5.5,Edmonton McCauley,Fine Particulate Matter,2026-02-04T01:00:00-07:00
-10.1,Edmonton McCauley,Wind Speed,2026-02-04T01:00:00-07:00
-3.3,Edmonton McCauley,Outdoor Temperature,2026-02-04T01:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-04T01:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T01:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-04T01:00:00-07:00
@@ -1091,20 +1099,26 @@ Value,StationName,ParameterName,ReadingDate
 0.01,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T01:00:00-07:00
 178.0,Edmonton McCauley,Wind Direction,2026-02-04T01:00:00-07:00
 57.2,Edmonton McCauley,Relative Humidity,2026-02-04T01:00:00-07:00
-11.7,Edmonton McCauley,Wind Speed,2026-02-04T00:00:00-07:00
-0.01,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T00:00:00-07:00
-3.5,Edmonton McCauley,Outdoor Temperature,2026-02-04T00:00:00-07:00
-0.022,Edmonton McCauley,Ozone,2026-02-04T00:00:00-07:00
-174.0,Edmonton McCauley,Wind Direction,2026-02-04T00:00:00-07:00
-6.7,Edmonton McCauley,Fine Particulate Matter,2026-02-04T00:00:00-07:00
-2.0,Edmonton McCauley,,2026-02-04T00:00:00-07:00
+2.0,Edmonton McCauley,,2026-02-04T01:00:00-07:00
+0.4,Edmonton McCauley,Carbon Monoxide,2026-02-04T01:00:00-07:00
+0.01,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T01:00:00-07:00
+3.3,Edmonton McCauley,Outdoor Temperature,2026-02-04T01:00:00-07:00
+10.1,Edmonton McCauley,Wind Speed,2026-02-04T01:00:00-07:00
+5.5,Edmonton McCauley,Fine Particulate Matter,2026-02-04T01:00:00-07:00
 0.0,Edmonton McCauley,Nitric Oxide,2026-02-04T00:00:00-07:00
+2.0,Edmonton McCauley,,2026-02-04T00:00:00-07:00
+6.7,Edmonton McCauley,Fine Particulate Matter,2026-02-04T00:00:00-07:00
+174.0,Edmonton McCauley,Wind Direction,2026-02-04T00:00:00-07:00
+0.022,Edmonton McCauley,Ozone,2026-02-04T00:00:00-07:00
+3.5,Edmonton McCauley,Outdoor Temperature,2026-02-04T00:00:00-07:00
+0.01,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-04T00:00:00-07:00
+11.7,Edmonton McCauley,Wind Speed,2026-02-04T00:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-04T00:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-04T00:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-04T00:00:00-07:00
 0.01,Edmonton McCauley,Nitrogen Dioxide,2026-02-04T00:00:00-07:00
-57.1,Edmonton McCauley,Relative Humidity,2026-02-04T00:00:00-07:00
 0.4,Edmonton McCauley,Carbon Monoxide,2026-02-04T00:00:00-07:00
+57.1,Edmonton McCauley,Relative Humidity,2026-02-04T00:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-03T23:00:00-07:00
 9.2,Edmonton McCauley,Wind Speed,2026-02-03T23:00:00-07:00
 56.0,Edmonton McCauley,Relative Humidity,2026-02-03T23:00:00-07:00
@@ -1119,20 +1133,22 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T23:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-03T23:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-03T23:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-03T22:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-03T22:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T22:00:00-07:00
-0.0,Edmonton McCauley,Nitric Oxide,2026-02-03T22:00:00-07:00
-6.7,Edmonton McCauley,Fine Particulate Matter,2026-02-03T22:00:00-07:00
-162.0,Edmonton McCauley,Wind Direction,2026-02-03T22:00:00-07:00
-0.024,Edmonton McCauley,Ozone,2026-02-03T22:00:00-07:00
-4.0,Edmonton McCauley,Outdoor Temperature,2026-02-03T22:00:00-07:00
-0.011,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T22:00:00-07:00
-0.4,Edmonton McCauley,Carbon Monoxide,2026-02-03T22:00:00-07:00
-0.011,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T22:00:00-07:00
-55.8,Edmonton McCauley,Relative Humidity,2026-02-03T22:00:00-07:00
-9.4,Edmonton McCauley,Wind Speed,2026-02-03T22:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-03T22:00:00-07:00
+9.4,Edmonton McCauley,Wind Speed,2026-02-03T22:00:00-07:00
+55.8,Edmonton McCauley,Relative Humidity,2026-02-03T22:00:00-07:00
+0.011,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T22:00:00-07:00
+0.4,Edmonton McCauley,Carbon Monoxide,2026-02-03T22:00:00-07:00
+0.011,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T22:00:00-07:00
+4.0,Edmonton McCauley,Outdoor Temperature,2026-02-03T22:00:00-07:00
+0.024,Edmonton McCauley,Ozone,2026-02-03T22:00:00-07:00
+162.0,Edmonton McCauley,Wind Direction,2026-02-03T22:00:00-07:00
+6.7,Edmonton McCauley,Fine Particulate Matter,2026-02-03T22:00:00-07:00
+0.0,Edmonton McCauley,Nitric Oxide,2026-02-03T22:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T22:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-03T22:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-03T22:00:00-07:00
+3.0,Edmonton McCauley,,2026-02-03T21:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T21:00:00-07:00
 0.0,Edmonton McCauley,Nitric Oxide,2026-02-03T21:00:00-07:00
 9.3,Edmonton McCauley,Fine Particulate Matter,2026-02-03T21:00:00-07:00
 163.0,Edmonton McCauley,Wind Direction,2026-02-03T21:00:00-07:00
@@ -1145,78 +1161,76 @@ Value,StationName,ParameterName,ReadingDate
 7.8,Edmonton McCauley,Wind Speed,2026-02-03T21:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-03T21:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-03T21:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T21:00:00-07:00
-3.0,Edmonton McCauley,,2026-02-03T21:00:00-07:00
-3.0,Edmonton McCauley,,2026-02-03T20:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T20:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-03T20:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-03T20:00:00-07:00
-7.1,Edmonton McCauley,Wind Speed,2026-02-03T20:00:00-07:00
-54.7,Edmonton McCauley,Relative Humidity,2026-02-03T20:00:00-07:00
-0.013,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T20:00:00-07:00
-0.5,Edmonton McCauley,Carbon Monoxide,2026-02-03T20:00:00-07:00
-0.013,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T20:00:00-07:00
-3.9,Edmonton McCauley,Outdoor Temperature,2026-02-03T20:00:00-07:00
-0.024,Edmonton McCauley,Ozone,2026-02-03T20:00:00-07:00
-157.0,Edmonton McCauley,Wind Direction,2026-02-03T20:00:00-07:00
-0.0,Edmonton McCauley,Nitric Oxide,2026-02-03T20:00:00-07:00
 9.7,Edmonton McCauley,Fine Particulate Matter,2026-02-03T20:00:00-07:00
-7.2,Edmonton McCauley,Fine Particulate Matter,2026-02-03T19:00:00-07:00
-152.0,Edmonton McCauley,Wind Direction,2026-02-03T19:00:00-07:00
-0.017,Edmonton McCauley,Ozone,2026-02-03T19:00:00-07:00
-4.3,Edmonton McCauley,Outdoor Temperature,2026-02-03T19:00:00-07:00
-0.023,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T19:00:00-07:00
-0.5,Edmonton McCauley,Carbon Monoxide,2026-02-03T19:00:00-07:00
-0.022,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T19:00:00-07:00
-53.0,Edmonton McCauley,Relative Humidity,2026-02-03T19:00:00-07:00
-6.1,Edmonton McCauley,Wind Speed,2026-02-03T19:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-03T19:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-03T19:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T19:00:00-07:00
-3.0,Edmonton McCauley,,2026-02-03T19:00:00-07:00
+157.0,Edmonton McCauley,Wind Direction,2026-02-03T20:00:00-07:00
+0.024,Edmonton McCauley,Ozone,2026-02-03T20:00:00-07:00
+3.9,Edmonton McCauley,Outdoor Temperature,2026-02-03T20:00:00-07:00
+0.013,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T20:00:00-07:00
+0.5,Edmonton McCauley,Carbon Monoxide,2026-02-03T20:00:00-07:00
+0.013,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T20:00:00-07:00
+54.7,Edmonton McCauley,Relative Humidity,2026-02-03T20:00:00-07:00
+7.1,Edmonton McCauley,Wind Speed,2026-02-03T20:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-03T20:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-03T20:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T20:00:00-07:00
+3.0,Edmonton McCauley,,2026-02-03T20:00:00-07:00
+0.0,Edmonton McCauley,Nitric Oxide,2026-02-03T20:00:00-07:00
 0.0,Edmonton McCauley,Nitric Oxide,2026-02-03T19:00:00-07:00
-3.0,Edmonton McCauley,,2026-02-03T18:00:00-07:00
-0.026,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T18:00:00-07:00
-5.1,Edmonton McCauley,Outdoor Temperature,2026-02-03T18:00:00-07:00
-0.015,Edmonton McCauley,Ozone,2026-02-03T18:00:00-07:00
-152.0,Edmonton McCauley,Wind Direction,2026-02-03T18:00:00-07:00
-7.1,Edmonton McCauley,Fine Particulate Matter,2026-02-03T18:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T18:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-03T18:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-03T18:00:00-07:00
-0.001,Edmonton McCauley,Nitric Oxide,2026-02-03T18:00:00-07:00
-7.3,Edmonton McCauley,Wind Speed,2026-02-03T18:00:00-07:00
-52.4,Edmonton McCauley,Relative Humidity,2026-02-03T18:00:00-07:00
-0.024,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T18:00:00-07:00
+3.0,Edmonton McCauley,,2026-02-03T19:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T19:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-03T19:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-03T19:00:00-07:00
+6.1,Edmonton McCauley,Wind Speed,2026-02-03T19:00:00-07:00
+53.0,Edmonton McCauley,Relative Humidity,2026-02-03T19:00:00-07:00
+0.022,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T19:00:00-07:00
+0.5,Edmonton McCauley,Carbon Monoxide,2026-02-03T19:00:00-07:00
+0.023,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T19:00:00-07:00
+4.3,Edmonton McCauley,Outdoor Temperature,2026-02-03T19:00:00-07:00
+0.017,Edmonton McCauley,Ozone,2026-02-03T19:00:00-07:00
+152.0,Edmonton McCauley,Wind Direction,2026-02-03T19:00:00-07:00
+7.2,Edmonton McCauley,Fine Particulate Matter,2026-02-03T19:00:00-07:00
 0.6,Edmonton McCauley,Carbon Monoxide,2026-02-03T18:00:00-07:00
-5.4,Edmonton McCauley,Fine Particulate Matter,2026-02-03T17:00:00-07:00
-168.0,Edmonton McCauley,Wind Direction,2026-02-03T17:00:00-07:00
-0.016,Edmonton McCauley,Ozone,2026-02-03T17:00:00-07:00
-6.1,Edmonton McCauley,Outdoor Temperature,2026-02-03T17:00:00-07:00
-0.028,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T17:00:00-07:00
-0.6,Edmonton McCauley,Carbon Monoxide,2026-02-03T17:00:00-07:00
-0.025,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T17:00:00-07:00
-49.2,Edmonton McCauley,Relative Humidity,2026-02-03T17:00:00-07:00
-7.0,Edmonton McCauley,Wind Speed,2026-02-03T17:00:00-07:00
-0.004,Edmonton McCauley,Nitric Oxide,2026-02-03T17:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-03T17:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-03T17:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T17:00:00-07:00
+0.024,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T18:00:00-07:00
+52.4,Edmonton McCauley,Relative Humidity,2026-02-03T18:00:00-07:00
+7.3,Edmonton McCauley,Wind Speed,2026-02-03T18:00:00-07:00
+0.001,Edmonton McCauley,Nitric Oxide,2026-02-03T18:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-03T18:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-03T18:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T18:00:00-07:00
+7.1,Edmonton McCauley,Fine Particulate Matter,2026-02-03T18:00:00-07:00
+152.0,Edmonton McCauley,Wind Direction,2026-02-03T18:00:00-07:00
+0.015,Edmonton McCauley,Ozone,2026-02-03T18:00:00-07:00
+5.1,Edmonton McCauley,Outdoor Temperature,2026-02-03T18:00:00-07:00
+0.026,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T18:00:00-07:00
+3.0,Edmonton McCauley,,2026-02-03T18:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-03T17:00:00-07:00
-3.0,Edmonton McCauley,,2026-02-03T16:00:00-07:00
-0.017,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T16:00:00-07:00
-6.9,Edmonton McCauley,Outdoor Temperature,2026-02-03T16:00:00-07:00
-0.024,Edmonton McCauley,Ozone,2026-02-03T16:00:00-07:00
-184.0,Edmonton McCauley,Wind Direction,2026-02-03T16:00:00-07:00
-3.3,Edmonton McCauley,Fine Particulate Matter,2026-02-03T16:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T16:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-03T16:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-03T16:00:00-07:00
-5.9,Edmonton McCauley,Wind Speed,2026-02-03T16:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T17:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-03T17:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-03T17:00:00-07:00
+0.004,Edmonton McCauley,Nitric Oxide,2026-02-03T17:00:00-07:00
+7.0,Edmonton McCauley,Wind Speed,2026-02-03T17:00:00-07:00
+49.2,Edmonton McCauley,Relative Humidity,2026-02-03T17:00:00-07:00
+0.025,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T17:00:00-07:00
+0.6,Edmonton McCauley,Carbon Monoxide,2026-02-03T17:00:00-07:00
+0.028,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T17:00:00-07:00
+6.1,Edmonton McCauley,Outdoor Temperature,2026-02-03T17:00:00-07:00
+0.016,Edmonton McCauley,Ozone,2026-02-03T17:00:00-07:00
+168.0,Edmonton McCauley,Wind Direction,2026-02-03T17:00:00-07:00
+5.4,Edmonton McCauley,Fine Particulate Matter,2026-02-03T17:00:00-07:00
 45.0,Edmonton McCauley,Relative Humidity,2026-02-03T16:00:00-07:00
 0.014,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T16:00:00-07:00
 0.003,Edmonton McCauley,Nitric Oxide,2026-02-03T16:00:00-07:00
 0.5,Edmonton McCauley,Carbon Monoxide,2026-02-03T16:00:00-07:00
+5.9,Edmonton McCauley,Wind Speed,2026-02-03T16:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-03T16:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-03T16:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T16:00:00-07:00
+3.3,Edmonton McCauley,Fine Particulate Matter,2026-02-03T16:00:00-07:00
+184.0,Edmonton McCauley,Wind Direction,2026-02-03T16:00:00-07:00
+3.0,Edmonton McCauley,,2026-02-03T16:00:00-07:00
+0.017,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T16:00:00-07:00
+6.9,Edmonton McCauley,Outdoor Temperature,2026-02-03T16:00:00-07:00
+0.024,Edmonton McCauley,Ozone,2026-02-03T16:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-03T15:00:00-07:00
 0.016,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T15:00:00-07:00
 7.5,Edmonton McCauley,Outdoor Temperature,2026-02-03T15:00:00-07:00
@@ -1231,15 +1245,15 @@ Value,StationName,ParameterName,ReadingDate
 43.5,Edmonton McCauley,Relative Humidity,2026-02-03T15:00:00-07:00
 0.012,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T15:00:00-07:00
 0.5,Edmonton McCauley,Carbon Monoxide,2026-02-03T15:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-03T14:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-03T14:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T14:00:00-07:00
-13.2,Edmonton McCauley,Fine Particulate Matter,2026-02-03T14:00:00-07:00
-157.0,Edmonton McCauley,Wind Direction,2026-02-03T14:00:00-07:00
-0.018,Edmonton McCauley,Ozone,2026-02-03T14:00:00-07:00
-5.9,Edmonton McCauley,Outdoor Temperature,2026-02-03T14:00:00-07:00
-0.034,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T14:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-03T14:00:00-07:00
+0.034,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T14:00:00-07:00
+5.9,Edmonton McCauley,Outdoor Temperature,2026-02-03T14:00:00-07:00
+0.018,Edmonton McCauley,Ozone,2026-02-03T14:00:00-07:00
+157.0,Edmonton McCauley,Wind Direction,2026-02-03T14:00:00-07:00
+13.2,Edmonton McCauley,Fine Particulate Matter,2026-02-03T14:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T14:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-03T14:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-03T14:00:00-07:00
 5.2,Edmonton McCauley,Wind Speed,2026-02-03T14:00:00-07:00
 51.2,Edmonton McCauley,Relative Humidity,2026-02-03T14:00:00-07:00
 0.021,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T14:00:00-07:00
@@ -1273,48 +1287,48 @@ Value,StationName,ParameterName,ReadingDate
 0.015,Edmonton McCauley,Ozone,2026-02-03T12:00:00-07:00
 148.0,Edmonton McCauley,Wind Direction,2026-02-03T12:00:00-07:00
 8.7,Edmonton McCauley,Fine Particulate Matter,2026-02-03T12:00:00-07:00
-4.0,Edmonton McCauley,,2026-02-03T11:00:00-07:00
-0.06,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T11:00:00-07:00
-3.7,Edmonton McCauley,Outdoor Temperature,2026-02-03T11:00:00-07:00
-0.009,Edmonton McCauley,Ozone,2026-02-03T11:00:00-07:00
-253.0,Edmonton McCauley,Wind Direction,2026-02-03T11:00:00-07:00
-8.8,Edmonton McCauley,Fine Particulate Matter,2026-02-03T11:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T11:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-03T11:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-03T11:00:00-07:00
-2.8,Edmonton McCauley,Wind Speed,2026-02-03T11:00:00-07:00
-62.6,Edmonton McCauley,Relative Humidity,2026-02-03T11:00:00-07:00
-0.031,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T11:00:00-07:00
-0.029,Edmonton McCauley,Nitric Oxide,2026-02-03T11:00:00-07:00
 0.6,Edmonton McCauley,Carbon Monoxide,2026-02-03T11:00:00-07:00
-0.7,Edmonton McCauley,Carbon Monoxide,2026-02-03T10:00:00-07:00
-0.035,Edmonton McCauley,Nitric Oxide,2026-02-03T10:00:00-07:00
-0.039,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T10:00:00-07:00
-71.2,Edmonton McCauley,Relative Humidity,2026-02-03T10:00:00-07:00
-4.0,Edmonton McCauley,Wind Speed,2026-02-03T10:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-03T10:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-03T10:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T10:00:00-07:00
-10.3,Edmonton McCauley,Fine Particulate Matter,2026-02-03T10:00:00-07:00
-282.0,Edmonton McCauley,Wind Direction,2026-02-03T10:00:00-07:00
-0.004,Edmonton McCauley,Ozone,2026-02-03T10:00:00-07:00
-2.3,Edmonton McCauley,Outdoor Temperature,2026-02-03T10:00:00-07:00
-0.074,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T10:00:00-07:00
+0.029,Edmonton McCauley,Nitric Oxide,2026-02-03T11:00:00-07:00
+0.031,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T11:00:00-07:00
+62.6,Edmonton McCauley,Relative Humidity,2026-02-03T11:00:00-07:00
+2.8,Edmonton McCauley,Wind Speed,2026-02-03T11:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-03T11:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-03T11:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T11:00:00-07:00
+8.8,Edmonton McCauley,Fine Particulate Matter,2026-02-03T11:00:00-07:00
+253.0,Edmonton McCauley,Wind Direction,2026-02-03T11:00:00-07:00
+0.009,Edmonton McCauley,Ozone,2026-02-03T11:00:00-07:00
+3.7,Edmonton McCauley,Outdoor Temperature,2026-02-03T11:00:00-07:00
+0.06,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T11:00:00-07:00
+4.0,Edmonton McCauley,,2026-02-03T11:00:00-07:00
 4.0,Edmonton McCauley,,2026-02-03T10:00:00-07:00
-3.0,Edmonton McCauley,,2026-02-03T09:00:00-07:00
-0.049,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T09:00:00-07:00
-2.0,Edmonton McCauley,Outdoor Temperature,2026-02-03T09:00:00-07:00
-0.005,Edmonton McCauley,Ozone,2026-02-03T09:00:00-07:00
-277.0,Edmonton McCauley,Wind Direction,2026-02-03T09:00:00-07:00
-8.0,Edmonton McCauley,Fine Particulate Matter,2026-02-03T09:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T09:00:00-07:00
-73.5,Edmonton McCauley,Relative Humidity,2026-02-03T09:00:00-07:00
-6.6,Edmonton McCauley,Wind Speed,2026-02-03T09:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-03T09:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-03T09:00:00-07:00
-0.035,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T09:00:00-07:00
-0.014,Edmonton McCauley,Nitric Oxide,2026-02-03T09:00:00-07:00
+0.074,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T10:00:00-07:00
+2.3,Edmonton McCauley,Outdoor Temperature,2026-02-03T10:00:00-07:00
+0.004,Edmonton McCauley,Ozone,2026-02-03T10:00:00-07:00
+282.0,Edmonton McCauley,Wind Direction,2026-02-03T10:00:00-07:00
+10.3,Edmonton McCauley,Fine Particulate Matter,2026-02-03T10:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T10:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-03T10:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-03T10:00:00-07:00
+4.0,Edmonton McCauley,Wind Speed,2026-02-03T10:00:00-07:00
+71.2,Edmonton McCauley,Relative Humidity,2026-02-03T10:00:00-07:00
+0.039,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T10:00:00-07:00
+0.035,Edmonton McCauley,Nitric Oxide,2026-02-03T10:00:00-07:00
+0.7,Edmonton McCauley,Carbon Monoxide,2026-02-03T10:00:00-07:00
 0.6,Edmonton McCauley,Carbon Monoxide,2026-02-03T09:00:00-07:00
+0.014,Edmonton McCauley,Nitric Oxide,2026-02-03T09:00:00-07:00
+0.035,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T09:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-03T09:00:00-07:00
+6.6,Edmonton McCauley,Wind Speed,2026-02-03T09:00:00-07:00
+73.5,Edmonton McCauley,Relative Humidity,2026-02-03T09:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-03T09:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T09:00:00-07:00
+8.0,Edmonton McCauley,Fine Particulate Matter,2026-02-03T09:00:00-07:00
+277.0,Edmonton McCauley,Wind Direction,2026-02-03T09:00:00-07:00
+0.005,Edmonton McCauley,Ozone,2026-02-03T09:00:00-07:00
+2.0,Edmonton McCauley,Outdoor Temperature,2026-02-03T09:00:00-07:00
+0.049,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T09:00:00-07:00
+3.0,Edmonton McCauley,,2026-02-03T09:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-03T08:00:00-07:00
 0.028,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T08:00:00-07:00
 2.5,Edmonton McCauley,Outdoor Temperature,2026-02-03T08:00:00-07:00
@@ -1329,26 +1343,20 @@ Value,StationName,ParameterName,ReadingDate
 0.025,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T08:00:00-07:00
 0.003,Edmonton McCauley,Nitric Oxide,2026-02-03T08:00:00-07:00
 0.5,Edmonton McCauley,Carbon Monoxide,2026-02-03T08:00:00-07:00
-7.1,Edmonton McCauley,Fine Particulate Matter,2026-02-03T07:00:00-07:00
-268.0,Edmonton McCauley,Wind Direction,2026-02-03T07:00:00-07:00
-0.019,Edmonton McCauley,Ozone,2026-02-03T07:00:00-07:00
-3.2,Edmonton McCauley,Outdoor Temperature,2026-02-03T07:00:00-07:00
-0.02,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T07:00:00-07:00
-0.5,Edmonton McCauley,Carbon Monoxide,2026-02-03T07:00:00-07:00
-0.002,Edmonton McCauley,Nitric Oxide,2026-02-03T07:00:00-07:00
-0.019,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T07:00:00-07:00
-70.1,Edmonton McCauley,Relative Humidity,2026-02-03T07:00:00-07:00
-7.8,Edmonton McCauley,Wind Speed,2026-02-03T07:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-03T07:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-03T07:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T07:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-03T07:00:00-07:00
-8.0,Edmonton McCauley,Fine Particulate Matter,2026-02-03T06:00:00-07:00
-269.0,Edmonton McCauley,Wind Direction,2026-02-03T06:00:00-07:00
-0.023,Edmonton McCauley,Ozone,2026-02-03T06:00:00-07:00
-3.6,Edmonton McCauley,Outdoor Temperature,2026-02-03T06:00:00-07:00
-0.017,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T06:00:00-07:00
-0.4,Edmonton McCauley,Carbon Monoxide,2026-02-03T06:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T07:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-03T07:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-03T07:00:00-07:00
+7.8,Edmonton McCauley,Wind Speed,2026-02-03T07:00:00-07:00
+70.1,Edmonton McCauley,Relative Humidity,2026-02-03T07:00:00-07:00
+0.019,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T07:00:00-07:00
+0.002,Edmonton McCauley,Nitric Oxide,2026-02-03T07:00:00-07:00
+0.5,Edmonton McCauley,Carbon Monoxide,2026-02-03T07:00:00-07:00
+0.02,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T07:00:00-07:00
+3.2,Edmonton McCauley,Outdoor Temperature,2026-02-03T07:00:00-07:00
+0.019,Edmonton McCauley,Ozone,2026-02-03T07:00:00-07:00
+268.0,Edmonton McCauley,Wind Direction,2026-02-03T07:00:00-07:00
+7.1,Edmonton McCauley,Fine Particulate Matter,2026-02-03T07:00:00-07:00
 0.015,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T06:00:00-07:00
 70.9,Edmonton McCauley,Relative Humidity,2026-02-03T06:00:00-07:00
 7.2,Edmonton McCauley,Wind Speed,2026-02-03T06:00:00-07:00
@@ -1357,13 +1365,12 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-03T06:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T06:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-03T06:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-03T05:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-03T05:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T05:00:00-07:00
-,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T05:00:00-07:00
-,Edmonton McCauley,Nitric Oxide,2026-02-03T05:00:00-07:00
-,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T05:00:00-07:00
-,Edmonton McCauley,Carbon Monoxide,2026-02-03T05:00:00-07:00
+0.4,Edmonton McCauley,Carbon Monoxide,2026-02-03T06:00:00-07:00
+0.017,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T06:00:00-07:00
+3.6,Edmonton McCauley,Outdoor Temperature,2026-02-03T06:00:00-07:00
+0.023,Edmonton McCauley,Ozone,2026-02-03T06:00:00-07:00
+269.0,Edmonton McCauley,Wind Direction,2026-02-03T06:00:00-07:00
+8.0,Edmonton McCauley,Fine Particulate Matter,2026-02-03T06:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-03T05:00:00-07:00
 4.2,Edmonton McCauley,Outdoor Temperature,2026-02-03T05:00:00-07:00
 266.0,Edmonton McCauley,Wind Direction,2026-02-03T05:00:00-07:00
@@ -1371,20 +1378,27 @@ Value,StationName,ParameterName,ReadingDate
 8.0,Edmonton McCauley,Wind Speed,2026-02-03T05:00:00-07:00
 69.9,Edmonton McCauley,Relative Humidity,2026-02-03T05:00:00-07:00
 ,Edmonton McCauley,Ozone,2026-02-03T05:00:00-07:00
-3.0,Edmonton McCauley,,2026-02-03T04:00:00-07:00
-0.015,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T04:00:00-07:00
-4.3,Edmonton McCauley,Outdoor Temperature,2026-02-03T04:00:00-07:00
-0.026,Edmonton McCauley,Ozone,2026-02-03T04:00:00-07:00
-276.0,Edmonton McCauley,Wind Direction,2026-02-03T04:00:00-07:00
-5.5,Edmonton McCauley,Fine Particulate Matter,2026-02-03T04:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T04:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-03T04:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-03T04:00:00-07:00
-0.001,Edmonton McCauley,Nitric Oxide,2026-02-03T04:00:00-07:00
-8.0,Edmonton McCauley,Wind Speed,2026-02-03T04:00:00-07:00
-73.1,Edmonton McCauley,Relative Humidity,2026-02-03T04:00:00-07:00
-0.014,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T04:00:00-07:00
+,Edmonton McCauley,Carbon Monoxide,2026-02-03T05:00:00-07:00
+,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T05:00:00-07:00
+,Edmonton McCauley,Nitric Oxide,2026-02-03T05:00:00-07:00
+,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T05:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T05:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-03T05:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-03T05:00:00-07:00
 0.4,Edmonton McCauley,Carbon Monoxide,2026-02-03T04:00:00-07:00
+0.014,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T04:00:00-07:00
+73.1,Edmonton McCauley,Relative Humidity,2026-02-03T04:00:00-07:00
+8.0,Edmonton McCauley,Wind Speed,2026-02-03T04:00:00-07:00
+0.001,Edmonton McCauley,Nitric Oxide,2026-02-03T04:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-03T04:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-03T04:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T04:00:00-07:00
+5.5,Edmonton McCauley,Fine Particulate Matter,2026-02-03T04:00:00-07:00
+276.0,Edmonton McCauley,Wind Direction,2026-02-03T04:00:00-07:00
+0.026,Edmonton McCauley,Ozone,2026-02-03T04:00:00-07:00
+4.3,Edmonton McCauley,Outdoor Temperature,2026-02-03T04:00:00-07:00
+0.015,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T04:00:00-07:00
+3.0,Edmonton McCauley,,2026-02-03T04:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-03T03:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T03:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-03T03:00:00-07:00
@@ -1399,10 +1413,10 @@ Value,StationName,ParameterName,ReadingDate
 0.025,Edmonton McCauley,Ozone,2026-02-03T03:00:00-07:00
 276.0,Edmonton McCauley,Wind Direction,2026-02-03T03:00:00-07:00
 5.7,Edmonton McCauley,Fine Particulate Matter,2026-02-03T03:00:00-07:00
+0.022,Edmonton McCauley,Ozone,2026-02-03T02:00:00-07:00
 4.7,Edmonton McCauley,Outdoor Temperature,2026-02-03T02:00:00-07:00
 0.02,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T02:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-03T02:00:00-07:00
-0.022,Edmonton McCauley,Ozone,2026-02-03T02:00:00-07:00
 275.0,Edmonton McCauley,Wind Direction,2026-02-03T02:00:00-07:00
 6.7,Edmonton McCauley,Fine Particulate Matter,2026-02-03T02:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T02:00:00-07:00
@@ -1416,10 +1430,10 @@ Value,StationName,ParameterName,ReadingDate
 3.0,Edmonton McCauley,,2026-02-03T01:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-03T01:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-03T01:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-03T01:00:00-07:00
 0.026,Edmonton McCauley,Ozone,2026-02-03T01:00:00-07:00
 5.4,Edmonton McCauley,Outdoor Temperature,2026-02-03T01:00:00-07:00
 0.016,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-03T01:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-03T01:00:00-07:00
 0.4,Edmonton McCauley,Carbon Monoxide,2026-02-03T01:00:00-07:00
 0.015,Edmonton McCauley,Nitrogen Dioxide,2026-02-03T01:00:00-07:00
 63.6,Edmonton McCauley,Relative Humidity,2026-02-03T01:00:00-07:00
@@ -1525,20 +1539,20 @@ Value,StationName,ParameterName,ReadingDate
 4.8,Edmonton McCauley,Outdoor Temperature,2026-02-02T18:00:00-07:00
 0.05,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-02T18:00:00-07:00
 0.7,Edmonton McCauley,Carbon Monoxide,2026-02-02T18:00:00-07:00
-0.8,Edmonton McCauley,Carbon Monoxide,2026-02-02T17:00:00-07:00
-0.047,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-02T17:00:00-07:00
-5.7,Edmonton McCauley,Outdoor Temperature,2026-02-02T17:00:00-07:00
-0.015,Edmonton McCauley,Nitric Oxide,2026-02-02T17:00:00-07:00
-0.007,Edmonton McCauley,Ozone,2026-02-02T17:00:00-07:00
-0.032,Edmonton McCauley,Nitrogen Dioxide,2026-02-02T17:00:00-07:00
-155.0,Edmonton McCauley,Wind Direction,2026-02-02T17:00:00-07:00
-3.0,Edmonton McCauley,Wind Speed,2026-02-02T17:00:00-07:00
-10.3,Edmonton McCauley,Fine Particulate Matter,2026-02-02T17:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-02T17:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-02T17:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-02T17:00:00-07:00
-49.8,Edmonton McCauley,Relative Humidity,2026-02-02T17:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-02T17:00:00-07:00
+49.8,Edmonton McCauley,Relative Humidity,2026-02-02T17:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-02T17:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-02T17:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-02T17:00:00-07:00
+10.3,Edmonton McCauley,Fine Particulate Matter,2026-02-02T17:00:00-07:00
+3.0,Edmonton McCauley,Wind Speed,2026-02-02T17:00:00-07:00
+155.0,Edmonton McCauley,Wind Direction,2026-02-02T17:00:00-07:00
+0.032,Edmonton McCauley,Nitrogen Dioxide,2026-02-02T17:00:00-07:00
+0.007,Edmonton McCauley,Ozone,2026-02-02T17:00:00-07:00
+0.015,Edmonton McCauley,Nitric Oxide,2026-02-02T17:00:00-07:00
+5.7,Edmonton McCauley,Outdoor Temperature,2026-02-02T17:00:00-07:00
+0.047,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-02T17:00:00-07:00
+0.8,Edmonton McCauley,Carbon Monoxide,2026-02-02T17:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-02T16:00:00-07:00
 40.1,Edmonton McCauley,Relative Humidity,2026-02-02T16:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-02T16:00:00-07:00
@@ -1563,38 +1577,38 @@ Value,StationName,ParameterName,ReadingDate
 248.0,Edmonton McCauley,Wind Direction,2026-02-02T15:00:00-07:00
 0.014,Edmonton McCauley,Nitrogen Dioxide,2026-02-02T15:00:00-07:00
 0.006,Edmonton McCauley,Nitric Oxide,2026-02-02T15:00:00-07:00
-0.025,Edmonton McCauley,Ozone,2026-02-02T15:00:00-07:00
-0.5,Edmonton McCauley,Carbon Monoxide,2026-02-02T15:00:00-07:00
-0.02,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-02T15:00:00-07:00
 7.3,Edmonton McCauley,Outdoor Temperature,2026-02-02T15:00:00-07:00
-0.01,Edmonton McCauley,Nitric Oxide,2026-02-02T14:00:00-07:00
-0.019,Edmonton McCauley,Ozone,2026-02-02T14:00:00-07:00
-0.027,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-02T14:00:00-07:00
-5.8,Edmonton McCauley,Outdoor Temperature,2026-02-02T14:00:00-07:00
-0.5,Edmonton McCauley,Carbon Monoxide,2026-02-02T14:00:00-07:00
-0.017,Edmonton McCauley,Nitrogen Dioxide,2026-02-02T14:00:00-07:00
-214.0,Edmonton McCauley,Wind Direction,2026-02-02T14:00:00-07:00
-3.7,Edmonton McCauley,Wind Speed,2026-02-02T14:00:00-07:00
-9.0,Edmonton McCauley,Fine Particulate Matter,2026-02-02T14:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-02T14:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-02T14:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-02T14:00:00-07:00
-46.6,Edmonton McCauley,Relative Humidity,2026-02-02T14:00:00-07:00
+0.02,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-02T15:00:00-07:00
+0.5,Edmonton McCauley,Carbon Monoxide,2026-02-02T15:00:00-07:00
+0.025,Edmonton McCauley,Ozone,2026-02-02T15:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-02T14:00:00-07:00
+46.6,Edmonton McCauley,Relative Humidity,2026-02-02T14:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-02T14:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-02T14:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-02T14:00:00-07:00
+9.0,Edmonton McCauley,Fine Particulate Matter,2026-02-02T14:00:00-07:00
+3.7,Edmonton McCauley,Wind Speed,2026-02-02T14:00:00-07:00
+214.0,Edmonton McCauley,Wind Direction,2026-02-02T14:00:00-07:00
+0.017,Edmonton McCauley,Nitrogen Dioxide,2026-02-02T14:00:00-07:00
+0.5,Edmonton McCauley,Carbon Monoxide,2026-02-02T14:00:00-07:00
+5.8,Edmonton McCauley,Outdoor Temperature,2026-02-02T14:00:00-07:00
+0.027,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-02T14:00:00-07:00
+0.019,Edmonton McCauley,Ozone,2026-02-02T14:00:00-07:00
+0.01,Edmonton McCauley,Nitric Oxide,2026-02-02T14:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-02T13:00:00-07:00
 0.014,Edmonton McCauley,Ozone,2026-02-02T13:00:00-07:00
-57.6,Edmonton McCauley,Relative Humidity,2026-02-02T13:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-02T13:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-02T13:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-02T13:00:00-07:00
-10.6,Edmonton McCauley,Fine Particulate Matter,2026-02-02T13:00:00-07:00
-2.8,Edmonton McCauley,Wind Speed,2026-02-02T13:00:00-07:00
-180.0,Edmonton McCauley,Wind Direction,2026-02-02T13:00:00-07:00
-0.02,Edmonton McCauley,Nitrogen Dioxide,2026-02-02T13:00:00-07:00
-4.2,Edmonton McCauley,Outdoor Temperature,2026-02-02T13:00:00-07:00
-0.036,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-02T13:00:00-07:00
-0.6,Edmonton McCauley,Carbon Monoxide,2026-02-02T13:00:00-07:00
 0.015,Edmonton McCauley,Nitric Oxide,2026-02-02T13:00:00-07:00
+0.6,Edmonton McCauley,Carbon Monoxide,2026-02-02T13:00:00-07:00
+0.036,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-02T13:00:00-07:00
+4.2,Edmonton McCauley,Outdoor Temperature,2026-02-02T13:00:00-07:00
+0.02,Edmonton McCauley,Nitrogen Dioxide,2026-02-02T13:00:00-07:00
+180.0,Edmonton McCauley,Wind Direction,2026-02-02T13:00:00-07:00
+2.8,Edmonton McCauley,Wind Speed,2026-02-02T13:00:00-07:00
+10.6,Edmonton McCauley,Fine Particulate Matter,2026-02-02T13:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-02T13:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-02T13:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-02T13:00:00-07:00
+57.6,Edmonton McCauley,Relative Humidity,2026-02-02T13:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-02T12:00:00-07:00
 65.9,Edmonton McCauley,Relative Humidity,2026-02-02T12:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-02T12:00:00-07:00
@@ -1669,20 +1683,16 @@ Value,StationName,ParameterName,ReadingDate
 100.0,Edmonton McCauley,Relative Humidity,2026-02-02T07:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-02T07:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-02T07:00:00-07:00
-0.5,Edmonton McCauley,Carbon Monoxide,2026-02-02T07:00:00-07:00
-0.016,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-02T07:00:00-07:00
-0.5,Edmonton McCauley,Outdoor Temperature,2026-02-02T07:00:00-07:00
-0.002,Edmonton McCauley,Nitric Oxide,2026-02-02T07:00:00-07:00
-0.01,Edmonton McCauley,Ozone,2026-02-02T07:00:00-07:00
-0.014,Edmonton McCauley,Nitrogen Dioxide,2026-02-02T07:00:00-07:00
-252.0,Edmonton McCauley,Wind Direction,2026-02-02T07:00:00-07:00
-4.8,Edmonton McCauley,Wind Speed,2026-02-02T07:00:00-07:00
-15.2,Edmonton McCauley,Fine Particulate Matter,2026-02-02T07:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-02T07:00:00-07:00
-0.014,Edmonton McCauley,Ozone,2026-02-02T06:00:00-07:00
-0.011,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-02T06:00:00-07:00
-0.7,Edmonton McCauley,Outdoor Temperature,2026-02-02T06:00:00-07:00
-0.009,Edmonton McCauley,Nitrogen Dioxide,2026-02-02T06:00:00-07:00
+15.2,Edmonton McCauley,Fine Particulate Matter,2026-02-02T07:00:00-07:00
+4.8,Edmonton McCauley,Wind Speed,2026-02-02T07:00:00-07:00
+252.0,Edmonton McCauley,Wind Direction,2026-02-02T07:00:00-07:00
+0.014,Edmonton McCauley,Nitrogen Dioxide,2026-02-02T07:00:00-07:00
+0.01,Edmonton McCauley,Ozone,2026-02-02T07:00:00-07:00
+0.002,Edmonton McCauley,Nitric Oxide,2026-02-02T07:00:00-07:00
+0.5,Edmonton McCauley,Outdoor Temperature,2026-02-02T07:00:00-07:00
+0.016,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-02T07:00:00-07:00
+0.5,Edmonton McCauley,Carbon Monoxide,2026-02-02T07:00:00-07:00
 0.4,Edmonton McCauley,Carbon Monoxide,2026-02-02T06:00:00-07:00
 256.0,Edmonton McCauley,Wind Direction,2026-02-02T06:00:00-07:00
 6.4,Edmonton McCauley,Wind Speed,2026-02-02T06:00:00-07:00
@@ -1693,11 +1703,10 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton McCauley,Methane,2026-02-02T06:00:00-07:00
 100.0,Edmonton McCauley,Relative Humidity,2026-02-02T06:00:00-07:00
 2.0,Edmonton McCauley,,2026-02-02T06:00:00-07:00
-,Edmonton McCauley,Nitric Oxide,2026-02-02T05:00:00-07:00
-,Edmonton McCauley,Ozone,2026-02-02T05:00:00-07:00
--0.3,Edmonton McCauley,Outdoor Temperature,2026-02-02T05:00:00-07:00
-,Edmonton McCauley,Nitrogen Dioxide,2026-02-02T05:00:00-07:00
-,Edmonton McCauley,Carbon Monoxide,2026-02-02T05:00:00-07:00
+0.009,Edmonton McCauley,Nitrogen Dioxide,2026-02-02T06:00:00-07:00
+0.7,Edmonton McCauley,Outdoor Temperature,2026-02-02T06:00:00-07:00
+0.011,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-02T06:00:00-07:00
+0.014,Edmonton McCauley,Ozone,2026-02-02T06:00:00-07:00
 2.0,Edmonton McCauley,,2026-02-02T05:00:00-07:00
 100.0,Edmonton McCauley,Relative Humidity,2026-02-02T05:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-02T05:00:00-07:00
@@ -1707,20 +1716,25 @@ Value,StationName,ParameterName,ReadingDate
 4.5,Edmonton McCauley,Wind Speed,2026-02-02T05:00:00-07:00
 259.0,Edmonton McCauley,Wind Direction,2026-02-02T05:00:00-07:00
 ,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-02T05:00:00-07:00
-2.0,Edmonton McCauley,,2026-02-02T04:00:00-07:00
-99.9,Edmonton McCauley,Relative Humidity,2026-02-02T04:00:00-07:00
-0.001,Edmonton McCauley,Nitric Oxide,2026-02-02T04:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-02T04:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-02T04:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-02T04:00:00-07:00
-18.3,Edmonton McCauley,Fine Particulate Matter,2026-02-02T04:00:00-07:00
-2.7,Edmonton McCauley,Wind Speed,2026-02-02T04:00:00-07:00
-152.0,Edmonton McCauley,Wind Direction,2026-02-02T04:00:00-07:00
-0.013,Edmonton McCauley,Nitrogen Dioxide,2026-02-02T04:00:00-07:00
-0.5,Edmonton McCauley,Carbon Monoxide,2026-02-02T04:00:00-07:00
-0.014,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-02T04:00:00-07:00
+,Edmonton McCauley,Carbon Monoxide,2026-02-02T05:00:00-07:00
+,Edmonton McCauley,Nitrogen Dioxide,2026-02-02T05:00:00-07:00
+-0.3,Edmonton McCauley,Outdoor Temperature,2026-02-02T05:00:00-07:00
+,Edmonton McCauley,Ozone,2026-02-02T05:00:00-07:00
+,Edmonton McCauley,Nitric Oxide,2026-02-02T05:00:00-07:00
 -1.0,Edmonton McCauley,Outdoor Temperature,2026-02-02T04:00:00-07:00
+0.014,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-02T04:00:00-07:00
+0.5,Edmonton McCauley,Carbon Monoxide,2026-02-02T04:00:00-07:00
 0.01,Edmonton McCauley,Ozone,2026-02-02T04:00:00-07:00
+0.013,Edmonton McCauley,Nitrogen Dioxide,2026-02-02T04:00:00-07:00
+152.0,Edmonton McCauley,Wind Direction,2026-02-02T04:00:00-07:00
+2.7,Edmonton McCauley,Wind Speed,2026-02-02T04:00:00-07:00
+18.3,Edmonton McCauley,Fine Particulate Matter,2026-02-02T04:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-02T04:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-02T04:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-02T04:00:00-07:00
+0.001,Edmonton McCauley,Nitric Oxide,2026-02-02T04:00:00-07:00
+99.9,Edmonton McCauley,Relative Humidity,2026-02-02T04:00:00-07:00
+2.0,Edmonton McCauley,,2026-02-02T04:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-02T03:00:00-07:00
 99.9,Edmonton McCauley,Relative Humidity,2026-02-02T03:00:00-07:00
 0.001,Edmonton McCauley,Nitric Oxide,2026-02-02T03:00:00-07:00
@@ -1735,9 +1749,9 @@ Value,StationName,ParameterName,ReadingDate
 -1.5,Edmonton McCauley,Outdoor Temperature,2026-02-02T03:00:00-07:00
 0.01,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-02T03:00:00-07:00
 0.014,Edmonton McCauley,Ozone,2026-02-02T03:00:00-07:00
-4.3,Edmonton McCauley,Wind Speed,2026-02-02T02:00:00-07:00
-99.9,Edmonton McCauley,Relative Humidity,2026-02-02T02:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-02T02:00:00-07:00
+99.9,Edmonton McCauley,Relative Humidity,2026-02-02T02:00:00-07:00
+4.3,Edmonton McCauley,Wind Speed,2026-02-02T02:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-02T02:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-02T02:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-02T02:00:00-07:00
@@ -1751,11 +1765,11 @@ Value,StationName,ParameterName,ReadingDate
 0.01,Edmonton McCauley,Ozone,2026-02-02T02:00:00-07:00
 3.0,Edmonton McCauley,,2026-02-02T01:00:00-07:00
 99.9,Edmonton McCauley,Relative Humidity,2026-02-02T01:00:00-07:00
+21.4,Edmonton McCauley,Fine Particulate Matter,2026-02-02T01:00:00-07:00
 0.4,Edmonton McCauley,Carbon Monoxide,2026-02-02T01:00:00-07:00
 165.0,Edmonton McCauley,Wind Direction,2026-02-02T01:00:00-07:00
 5.2,Edmonton McCauley,Wind Speed,2026-02-02T01:00:00-07:00
 0.001,Edmonton McCauley,Nitric Oxide,2026-02-02T01:00:00-07:00
-21.4,Edmonton McCauley,Fine Particulate Matter,2026-02-02T01:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-02T01:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-02T01:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-02T01:00:00-07:00
@@ -1981,11 +1995,11 @@ Value,StationName,ParameterName,ReadingDate
 0.004,Edmonton McCauley,Nitric Oxide,2026-02-01T09:00:00-07:00
 10.5,Edmonton McCauley,Wind Speed,2026-02-01T09:00:00-07:00
 99.9,Edmonton McCauley,Relative Humidity,2026-02-01T09:00:00-07:00
+0.021,Edmonton McCauley,Ozone,2026-02-01T09:00:00-07:00
 7.1,Edmonton McCauley,Fine Particulate Matter,2026-02-01T09:00:00-07:00
 0.4,Edmonton McCauley,Carbon Monoxide,2026-02-01T09:00:00-07:00
 0.006,Edmonton McCauley,Nitrogen Dioxide,2026-02-01T09:00:00-07:00
 0.01,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-01T09:00:00-07:00
-0.021,Edmonton McCauley,Ozone,2026-02-01T09:00:00-07:00
 -4.8,Edmonton McCauley,Outdoor Temperature,2026-02-01T09:00:00-07:00
 -4.8,Edmonton McCauley,Outdoor Temperature,2026-02-01T08:00:00-07:00
 0.022,Edmonton McCauley,Ozone,2026-02-01T08:00:00-07:00
@@ -2015,49 +2029,48 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-01T07:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-01T07:00:00-07:00
 -4.5,Edmonton McCauley,Outdoor Temperature,2026-02-01T07:00:00-07:00
-2.0,Edmonton McCauley,,2026-02-01T06:00:00-07:00
-107.0,Edmonton McCauley,Wind Direction,2026-02-01T06:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-01T06:00:00-07:00
-0.018,Edmonton McCauley,Ozone,2026-02-01T06:00:00-07:00
-0.001,Edmonton McCauley,Nitric Oxide,2026-02-01T06:00:00-07:00
-5.6,Edmonton McCauley,Wind Speed,2026-02-01T06:00:00-07:00
-99.9,Edmonton McCauley,Relative Humidity,2026-02-01T06:00:00-07:00
-10.9,Edmonton McCauley,Fine Particulate Matter,2026-02-01T06:00:00-07:00
 0.009,Edmonton McCauley,Nitrogen Dioxide,2026-02-01T06:00:00-07:00
+10.9,Edmonton McCauley,Fine Particulate Matter,2026-02-01T06:00:00-07:00
+99.9,Edmonton McCauley,Relative Humidity,2026-02-01T06:00:00-07:00
+5.6,Edmonton McCauley,Wind Speed,2026-02-01T06:00:00-07:00
+0.001,Edmonton McCauley,Nitric Oxide,2026-02-01T06:00:00-07:00
+0.018,Edmonton McCauley,Ozone,2026-02-01T06:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-01T06:00:00-07:00
+107.0,Edmonton McCauley,Wind Direction,2026-02-01T06:00:00-07:00
+2.0,Edmonton McCauley,,2026-02-01T06:00:00-07:00
 0.009,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-01T06:00:00-07:00
 0.4,Edmonton McCauley,Carbon Monoxide,2026-02-01T06:00:00-07:00
 -4.4,Edmonton McCauley,Outdoor Temperature,2026-02-01T06:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-01T06:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-01T06:00:00-07:00
-2.0,Edmonton McCauley,,2026-02-01T05:00:00-07:00
-,Edmonton McCauley,Ozone,2026-02-01T05:00:00-07:00
-66.0,Edmonton McCauley,Wind Direction,2026-02-01T05:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-01T05:00:00-07:00
-,Edmonton McCauley,Carbon Monoxide,2026-02-01T05:00:00-07:00
-,Edmonton McCauley,Nitric Oxide,2026-02-01T05:00:00-07:00
-,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-01T05:00:00-07:00
-,Edmonton McCauley,Nitrogen Dioxide,2026-02-01T05:00:00-07:00
-4.3,Edmonton McCauley,Wind Speed,2026-02-01T05:00:00-07:00
-99.9,Edmonton McCauley,Relative Humidity,2026-02-01T05:00:00-07:00
-12.7,Edmonton McCauley,Fine Particulate Matter,2026-02-01T05:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-01T05:00:00-07:00
--4.8,Edmonton McCauley,Outdoor Temperature,2026-02-01T05:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-01T05:00:00-07:00
+-4.8,Edmonton McCauley,Outdoor Temperature,2026-02-01T05:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-01T05:00:00-07:00
+12.7,Edmonton McCauley,Fine Particulate Matter,2026-02-01T05:00:00-07:00
+99.9,Edmonton McCauley,Relative Humidity,2026-02-01T05:00:00-07:00
+4.3,Edmonton McCauley,Wind Speed,2026-02-01T05:00:00-07:00
+,Edmonton McCauley,Nitrogen Dioxide,2026-02-01T05:00:00-07:00
+,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-01T05:00:00-07:00
+,Edmonton McCauley,Nitric Oxide,2026-02-01T05:00:00-07:00
+,Edmonton McCauley,Carbon Monoxide,2026-02-01T05:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-01T05:00:00-07:00
+66.0,Edmonton McCauley,Wind Direction,2026-02-01T05:00:00-07:00
+,Edmonton McCauley,Ozone,2026-02-01T05:00:00-07:00
+2.0,Edmonton McCauley,,2026-02-01T05:00:00-07:00
+2.0,Edmonton McCauley,,2026-02-01T04:00:00-07:00
+65.0,Edmonton McCauley,Wind Direction,2026-02-01T04:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-01T04:00:00-07:00
+99.9,Edmonton McCauley,Relative Humidity,2026-02-01T04:00:00-07:00
+13.2,Edmonton McCauley,Fine Particulate Matter,2026-02-01T04:00:00-07:00
+0.001,Edmonton McCauley,Nitric Oxide,2026-02-01T04:00:00-07:00
+4.3,Edmonton McCauley,Wind Speed,2026-02-01T04:00:00-07:00
+0.012,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-01T04:00:00-07:00
+0.5,Edmonton McCauley,Carbon Monoxide,2026-02-01T04:00:00-07:00
 0.011,Edmonton McCauley,Nitrogen Dioxide,2026-02-01T04:00:00-07:00
 0.017,Edmonton McCauley,Ozone,2026-02-01T04:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-01T04:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-01T04:00:00-07:00
 -5.1,Edmonton McCauley,Outdoor Temperature,2026-02-01T04:00:00-07:00
-0.5,Edmonton McCauley,Carbon Monoxide,2026-02-01T04:00:00-07:00
-0.012,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-01T04:00:00-07:00
-4.3,Edmonton McCauley,Wind Speed,2026-02-01T04:00:00-07:00
-0.001,Edmonton McCauley,Nitric Oxide,2026-02-01T04:00:00-07:00
-13.2,Edmonton McCauley,Fine Particulate Matter,2026-02-01T04:00:00-07:00
-99.9,Edmonton McCauley,Relative Humidity,2026-02-01T04:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-01T04:00:00-07:00
-65.0,Edmonton McCauley,Wind Direction,2026-02-01T04:00:00-07:00
-2.0,Edmonton McCauley,,2026-02-01T04:00:00-07:00
-2.0,Edmonton McCauley,,2026-02-01T03:00:00-07:00
 61.0,Edmonton McCauley,Wind Direction,2026-02-01T03:00:00-07:00
 ,Edmonton McCauley,Methane,2026-02-01T03:00:00-07:00
 0.001,Edmonton McCauley,Nitric Oxide,2026-02-01T03:00:00-07:00
@@ -2071,10 +2084,11 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-01T03:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-01T03:00:00-07:00
 -5.1,Edmonton McCauley,Outdoor Temperature,2026-02-01T03:00:00-07:00
-2.0,Edmonton McCauley,,2026-02-01T02:00:00-07:00
-66.0,Edmonton McCauley,Wind Direction,2026-02-01T02:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-01T02:00:00-07:00
+2.0,Edmonton McCauley,,2026-02-01T03:00:00-07:00
 0.001,Edmonton McCauley,Nitric Oxide,2026-02-01T02:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-01T02:00:00-07:00
+66.0,Edmonton McCauley,Wind Direction,2026-02-01T02:00:00-07:00
+2.0,Edmonton McCauley,,2026-02-01T02:00:00-07:00
 5.4,Edmonton McCauley,Wind Speed,2026-02-01T02:00:00-07:00
 99.9,Edmonton McCauley,Relative Humidity,2026-02-01T02:00:00-07:00
 15.9,Edmonton McCauley,Fine Particulate Matter,2026-02-01T02:00:00-07:00
@@ -2085,48 +2099,48 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton McCauley,Total Hydrocarbons,2026-02-01T02:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-01T02:00:00-07:00
 -5.0,Edmonton McCauley,Outdoor Temperature,2026-02-01T02:00:00-07:00
-2.0,Edmonton McCauley,,2026-02-01T01:00:00-07:00
-72.0,Edmonton McCauley,Wind Direction,2026-02-01T01:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-01T01:00:00-07:00
-0.008,Edmonton McCauley,Nitrogen Dioxide,2026-02-01T01:00:00-07:00
-0.02,Edmonton McCauley,Ozone,2026-02-01T01:00:00-07:00
-0.001,Edmonton McCauley,Nitric Oxide,2026-02-01T01:00:00-07:00
 5.4,Edmonton McCauley,Wind Speed,2026-02-01T01:00:00-07:00
--5.0,Edmonton McCauley,Outdoor Temperature,2026-02-01T01:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-01T01:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-01T01:00:00-07:00
-0.5,Edmonton McCauley,Carbon Monoxide,2026-02-01T01:00:00-07:00
-0.009,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-01T01:00:00-07:00
-15.8,Edmonton McCauley,Fine Particulate Matter,2026-02-01T01:00:00-07:00
+0.001,Edmonton McCauley,Nitric Oxide,2026-02-01T01:00:00-07:00
+0.02,Edmonton McCauley,Ozone,2026-02-01T01:00:00-07:00
+0.008,Edmonton McCauley,Nitrogen Dioxide,2026-02-01T01:00:00-07:00
 99.9,Edmonton McCauley,Relative Humidity,2026-02-01T01:00:00-07:00
-0.4,Edmonton McCauley,Carbon Monoxide,2026-02-01T00:00:00-07:00
-0.019,Edmonton McCauley,Ozone,2026-02-01T00:00:00-07:00
-,Edmonton McCauley,Methane,2026-02-01T00:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-02-01T00:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-01T00:00:00-07:00
--4.7,Edmonton McCauley,Outdoor Temperature,2026-02-01T00:00:00-07:00
+15.8,Edmonton McCauley,Fine Particulate Matter,2026-02-01T01:00:00-07:00
+0.009,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-01T01:00:00-07:00
+0.5,Edmonton McCauley,Carbon Monoxide,2026-02-01T01:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-01T01:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-01T01:00:00-07:00
+-5.0,Edmonton McCauley,Outdoor Temperature,2026-02-01T01:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-01T01:00:00-07:00
+72.0,Edmonton McCauley,Wind Direction,2026-02-01T01:00:00-07:00
+2.0,Edmonton McCauley,,2026-02-01T01:00:00-07:00
 2.0,Edmonton McCauley,,2026-02-01T00:00:00-07:00
 64.0,Edmonton McCauley,Wind Direction,2026-02-01T00:00:00-07:00
 0.008,Edmonton McCauley,Nitrogen Dioxide,2026-02-01T00:00:00-07:00
 0.001,Edmonton McCauley,Nitric Oxide,2026-02-01T00:00:00-07:00
 6.5,Edmonton McCauley,Wind Speed,2026-02-01T00:00:00-07:00
 99.9,Edmonton McCauley,Relative Humidity,2026-02-01T00:00:00-07:00
+-4.7,Edmonton McCauley,Outdoor Temperature,2026-02-01T00:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-02-01T00:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-02-01T00:00:00-07:00
+,Edmonton McCauley,Methane,2026-02-01T00:00:00-07:00
+0.019,Edmonton McCauley,Ozone,2026-02-01T00:00:00-07:00
+0.4,Edmonton McCauley,Carbon Monoxide,2026-02-01T00:00:00-07:00
 17.8,Edmonton McCauley,Fine Particulate Matter,2026-02-01T00:00:00-07:00
 0.009,Edmonton McCauley,Total Oxides of Nitrogen,2026-02-01T00:00:00-07:00
-2.0,Edmonton McCauley,,2026-01-31T23:00:00-07:00
-68.0,Edmonton McCauley,Wind Direction,2026-01-31T23:00:00-07:00
-0.4,Edmonton McCauley,Carbon Monoxide,2026-01-31T23:00:00-07:00
-0.008,Edmonton McCauley,Total Oxides of Nitrogen,2026-01-31T23:00:00-07:00
-99.9,Edmonton McCauley,Relative Humidity,2026-01-31T23:00:00-07:00
-0.007,Edmonton McCauley,Nitrogen Dioxide,2026-01-31T23:00:00-07:00
-6.9,Edmonton McCauley,Wind Speed,2026-01-31T23:00:00-07:00
-11.5,Edmonton McCauley,Fine Particulate Matter,2026-01-31T23:00:00-07:00
-0.001,Edmonton McCauley,Nitric Oxide,2026-01-31T23:00:00-07:00
-0.019,Edmonton McCauley,Ozone,2026-01-31T23:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-01-31T23:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-01-31T23:00:00-07:00
-,Edmonton McCauley,Methane,2026-01-31T23:00:00-07:00
 -3.6,Edmonton McCauley,Outdoor Temperature,2026-01-31T23:00:00-07:00
+,Edmonton McCauley,Methane,2026-01-31T23:00:00-07:00
+,Edmonton McCauley,Total Hydrocarbons,2026-01-31T23:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-01-31T23:00:00-07:00
+0.019,Edmonton McCauley,Ozone,2026-01-31T23:00:00-07:00
+0.001,Edmonton McCauley,Nitric Oxide,2026-01-31T23:00:00-07:00
+11.5,Edmonton McCauley,Fine Particulate Matter,2026-01-31T23:00:00-07:00
+6.9,Edmonton McCauley,Wind Speed,2026-01-31T23:00:00-07:00
+0.007,Edmonton McCauley,Nitrogen Dioxide,2026-01-31T23:00:00-07:00
+99.9,Edmonton McCauley,Relative Humidity,2026-01-31T23:00:00-07:00
+0.008,Edmonton McCauley,Total Oxides of Nitrogen,2026-01-31T23:00:00-07:00
+0.4,Edmonton McCauley,Carbon Monoxide,2026-01-31T23:00:00-07:00
+68.0,Edmonton McCauley,Wind Direction,2026-01-31T23:00:00-07:00
+2.0,Edmonton McCauley,,2026-01-31T23:00:00-07:00
 2.0,Edmonton McCauley,,2026-01-31T22:00:00-07:00
 58.0,Edmonton McCauley,Wind Direction,2026-01-31T22:00:00-07:00
 0.007,Edmonton McCauley,Total Oxides of Nitrogen,2026-01-31T22:00:00-07:00
@@ -2137,10 +2151,10 @@ Value,StationName,ParameterName,ReadingDate
 7.1,Edmonton McCauley,Wind Speed,2026-01-31T22:00:00-07:00
 100.0,Edmonton McCauley,Relative Humidity,2026-01-31T22:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-01-31T22:00:00-07:00
--3.0,Edmonton McCauley,Outdoor Temperature,2026-01-31T22:00:00-07:00
-0.018,Edmonton McCauley,Ozone,2026-01-31T22:00:00-07:00
-,Edmonton McCauley,Methane,2026-01-31T22:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-01-31T22:00:00-07:00
+,Edmonton McCauley,Methane,2026-01-31T22:00:00-07:00
+0.018,Edmonton McCauley,Ozone,2026-01-31T22:00:00-07:00
+-3.0,Edmonton McCauley,Outdoor Temperature,2026-01-31T22:00:00-07:00
 2.0,Edmonton McCauley,,2026-01-31T21:00:00-07:00
 39.0,Edmonton McCauley,Wind Direction,2026-01-31T21:00:00-07:00
 0.007,Edmonton McCauley,Total Oxides of Nitrogen,2026-01-31T21:00:00-07:00
@@ -2156,8 +2170,8 @@ Value,StationName,ParameterName,ReadingDate
 0.018,Edmonton McCauley,Ozone,2026-01-31T21:00:00-07:00
 -2.0,Edmonton McCauley,Outdoor Temperature,2026-01-31T21:00:00-07:00
 ,Edmonton McCauley,Methane,2026-01-31T20:00:00-07:00
--0.9,Edmonton McCauley,Outdoor Temperature,2026-01-31T20:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-01-31T20:00:00-07:00
+-0.9,Edmonton McCauley,Outdoor Temperature,2026-01-31T20:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-01-31T20:00:00-07:00
 0.4,Edmonton McCauley,Carbon Monoxide,2026-01-31T20:00:00-07:00
 0.009,Edmonton McCauley,Total Oxides of Nitrogen,2026-01-31T20:00:00-07:00
@@ -2183,26 +2197,20 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton McCauley,Methane,2026-01-31T19:00:00-07:00
 0.017,Edmonton McCauley,Ozone,2026-01-31T19:00:00-07:00
 1.0,Edmonton McCauley,Outdoor Temperature,2026-01-31T19:00:00-07:00
-3.0,Edmonton McCauley,,2026-01-31T18:00:00-07:00
-320.0,Edmonton McCauley,Wind Direction,2026-01-31T18:00:00-07:00
-6.0,Edmonton McCauley,Wind Speed,2026-01-31T18:00:00-07:00
-58.6,Edmonton McCauley,Relative Humidity,2026-01-31T18:00:00-07:00
-7.0,Edmonton McCauley,Fine Particulate Matter,2026-01-31T18:00:00-07:00
-0.001,Edmonton McCauley,Nitric Oxide,2026-01-31T18:00:00-07:00
-0.018,Edmonton McCauley,Nitrogen Dioxide,2026-01-31T18:00:00-07:00
-0.019,Edmonton McCauley,Total Oxides of Nitrogen,2026-01-31T18:00:00-07:00
 0.5,Edmonton McCauley,Carbon Monoxide,2026-01-31T18:00:00-07:00
 ,Edmonton McCauley,Non-methane Hydrocarbons,2026-01-31T18:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-01-31T18:00:00-07:00
 ,Edmonton McCauley,Methane,2026-01-31T18:00:00-07:00
 0.021,Edmonton McCauley,Ozone,2026-01-31T18:00:00-07:00
 4.5,Edmonton McCauley,Outdoor Temperature,2026-01-31T18:00:00-07:00
-2.0,Edmonton McCauley,,2026-01-31T17:00:00-07:00
-293.0,Edmonton McCauley,Wind Direction,2026-01-31T17:00:00-07:00
-0.4,Edmonton McCauley,Carbon Monoxide,2026-01-31T17:00:00-07:00
-0.002,Edmonton McCauley,Nitric Oxide,2026-01-31T17:00:00-07:00
-0.013,Edmonton McCauley,Total Oxides of Nitrogen,2026-01-31T17:00:00-07:00
-0.011,Edmonton McCauley,Nitrogen Dioxide,2026-01-31T17:00:00-07:00
+0.019,Edmonton McCauley,Total Oxides of Nitrogen,2026-01-31T18:00:00-07:00
+0.018,Edmonton McCauley,Nitrogen Dioxide,2026-01-31T18:00:00-07:00
+0.001,Edmonton McCauley,Nitric Oxide,2026-01-31T18:00:00-07:00
+7.0,Edmonton McCauley,Fine Particulate Matter,2026-01-31T18:00:00-07:00
+58.6,Edmonton McCauley,Relative Humidity,2026-01-31T18:00:00-07:00
+6.0,Edmonton McCauley,Wind Speed,2026-01-31T18:00:00-07:00
+320.0,Edmonton McCauley,Wind Direction,2026-01-31T18:00:00-07:00
+3.0,Edmonton McCauley,,2026-01-31T18:00:00-07:00
 5.6,Edmonton McCauley,Outdoor Temperature,2026-01-31T17:00:00-07:00
 ,Edmonton McCauley,Methane,2026-01-31T17:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-01-31T17:00:00-07:00
@@ -2211,6 +2219,12 @@ Value,StationName,ParameterName,ReadingDate
 8.1,Edmonton McCauley,Wind Speed,2026-01-31T17:00:00-07:00
 4.2,Edmonton McCauley,Fine Particulate Matter,2026-01-31T17:00:00-07:00
 53.9,Edmonton McCauley,Relative Humidity,2026-01-31T17:00:00-07:00
+0.011,Edmonton McCauley,Nitrogen Dioxide,2026-01-31T17:00:00-07:00
+0.013,Edmonton McCauley,Total Oxides of Nitrogen,2026-01-31T17:00:00-07:00
+0.002,Edmonton McCauley,Nitric Oxide,2026-01-31T17:00:00-07:00
+0.4,Edmonton McCauley,Carbon Monoxide,2026-01-31T17:00:00-07:00
+293.0,Edmonton McCauley,Wind Direction,2026-01-31T17:00:00-07:00
+2.0,Edmonton McCauley,,2026-01-31T17:00:00-07:00
 6.4,Edmonton McCauley,Outdoor Temperature,2026-01-31T16:00:00-07:00
 ,Edmonton McCauley,Methane,2026-01-31T16:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-01-31T16:00:00-07:00
@@ -2225,10 +2239,9 @@ Value,StationName,ParameterName,ReadingDate
 287.0,Edmonton McCauley,Wind Direction,2026-01-31T16:00:00-07:00
 0.03,Edmonton McCauley,Ozone,2026-01-31T16:00:00-07:00
 2.0,Edmonton McCauley,,2026-01-31T16:00:00-07:00
-6.6,Edmonton McCauley,Outdoor Temperature,2026-01-31T15:00:00-07:00
-,Edmonton McCauley,Methane,2026-01-31T15:00:00-07:00
 ,Edmonton McCauley,Total Hydrocarbons,2026-01-31T15:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-01-31T15:00:00-07:00
+,Edmonton McCauley,Methane,2026-01-31T15:00:00-07:00
+6.6,Edmonton McCauley,Outdoor Temperature,2026-01-31T15:00:00-07:00
 2.0,Edmonton McCauley,,2026-01-31T15:00:00-07:00
 284.0,Edmonton McCauley,Wind Direction,2026-01-31T15:00:00-07:00
 0.03,Edmonton McCauley,Ozone,2026-01-31T15:00:00-07:00
@@ -2239,6 +2252,7 @@ Value,StationName,ParameterName,ReadingDate
 0.007,Edmonton McCauley,Nitrogen Dioxide,2026-01-31T15:00:00-07:00
 3.3,Edmonton McCauley,Fine Particulate Matter,2026-01-31T15:00:00-07:00
 11.1,Edmonton McCauley,Wind Speed,2026-01-31T15:00:00-07:00
+,Edmonton McCauley,Non-methane Hydrocarbons,2026-01-31T15:00:00-07:00
 2.0,Edmonton McCauley,,2026-01-31T14:00:00-07:00
 282.0,Edmonton McCauley,Wind Direction,2026-01-31T14:00:00-07:00
 0.4,Edmonton McCauley,Carbon Monoxide,2026-01-31T14:00:00-07:00
@@ -2253,17 +2267,3 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton McCauley,Methane,2026-01-31T14:00:00-07:00
 0.029,Edmonton McCauley,Ozone,2026-01-31T14:00:00-07:00
 6.5,Edmonton McCauley,Outdoor Temperature,2026-01-31T14:00:00-07:00
-2.0,Edmonton McCauley,,2026-01-31T13:00:00-07:00
-288.0,Edmonton McCauley,Wind Direction,2026-01-31T13:00:00-07:00
-0.4,Edmonton McCauley,Carbon Monoxide,2026-01-31T13:00:00-07:00
-0.003,Edmonton McCauley,Nitric Oxide,2026-01-31T13:00:00-07:00
-0.011,Edmonton McCauley,Total Oxides of Nitrogen,2026-01-31T13:00:00-07:00
-0.008,Edmonton McCauley,Nitrogen Dioxide,2026-01-31T13:00:00-07:00
-54.9,Edmonton McCauley,Relative Humidity,2026-01-31T13:00:00-07:00
-3.8,Edmonton McCauley,Fine Particulate Matter,2026-01-31T13:00:00-07:00
-9.8,Edmonton McCauley,Wind Speed,2026-01-31T13:00:00-07:00
-,Edmonton McCauley,Non-methane Hydrocarbons,2026-01-31T13:00:00-07:00
-,Edmonton McCauley,Total Hydrocarbons,2026-01-31T13:00:00-07:00
-,Edmonton McCauley,Methane,2026-01-31T13:00:00-07:00
-0.028,Edmonton McCauley,Ozone,2026-01-31T13:00:00-07:00
-5.9,Edmonton McCauley,Outdoor Temperature,2026-01-31T13:00:00-07:00
