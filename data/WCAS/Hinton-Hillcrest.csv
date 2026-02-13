@@ -911,8 +911,8 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T19:00:00-07:00
 0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T19:00:00-07:00
 0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-09T19:00:00-07:00
-2.0,Hinton-Hillcrest,,2026-02-09T18:00:00-07:00
 222.0,Hinton-Hillcrest,Wind Direction,2026-02-09T18:00:00-07:00
+2.0,Hinton-Hillcrest,,2026-02-09T18:00:00-07:00
 2.4,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T18:00:00-07:00
 0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T18:00:00-07:00
 0.042,Hinton-Hillcrest,Ozone,2026-02-09T18:00:00-07:00
@@ -923,8 +923,8 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T18:00:00-07:00
 0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T18:00:00-07:00
 0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-09T18:00:00-07:00
-221.0,Hinton-Hillcrest,Wind Direction,2026-02-09T17:00:00-07:00
 2.0,Hinton-Hillcrest,,2026-02-09T17:00:00-07:00
+221.0,Hinton-Hillcrest,Wind Direction,2026-02-09T17:00:00-07:00
 0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T17:00:00-07:00
 0.6,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T17:00:00-07:00
 3.5,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T17:00:00-07:00
@@ -957,68 +957,69 @@ Value,StationName,ParameterName,ReadingDate
 0.6,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T15:00:00-07:00
 0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T15:00:00-07:00
 0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T15:00:00-07:00
-222.0,Hinton-Hillcrest,Wind Direction,2026-02-09T15:00:00-07:00
 2.0,Hinton-Hillcrest,,2026-02-09T15:00:00-07:00
-2.0,Hinton-Hillcrest,,2026-02-09T14:00:00-07:00
-223.0,Hinton-Hillcrest,Wind Direction,2026-02-09T14:00:00-07:00
-0.6,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T14:00:00-07:00
-3.0,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T14:00:00-07:00
-0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T14:00:00-07:00
-0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T14:00:00-07:00
-0.042,Hinton-Hillcrest,Ozone,2026-02-09T14:00:00-07:00
-34.7,Hinton-Hillcrest,Relative Humidity,2026-02-09T14:00:00-07:00
-16.3,Hinton-Hillcrest,Wind Speed,2026-02-09T14:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T14:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T14:00:00-07:00
+222.0,Hinton-Hillcrest,Wind Direction,2026-02-09T15:00:00-07:00
 0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-09T14:00:00-07:00
-2.0,Hinton-Hillcrest,,2026-02-09T13:00:00-07:00
-228.0,Hinton-Hillcrest,Wind Direction,2026-02-09T13:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T14:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T14:00:00-07:00
+16.3,Hinton-Hillcrest,Wind Speed,2026-02-09T14:00:00-07:00
+34.7,Hinton-Hillcrest,Relative Humidity,2026-02-09T14:00:00-07:00
+0.042,Hinton-Hillcrest,Ozone,2026-02-09T14:00:00-07:00
+0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T14:00:00-07:00
+0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T14:00:00-07:00
+3.0,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T14:00:00-07:00
+0.6,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T14:00:00-07:00
+223.0,Hinton-Hillcrest,Wind Direction,2026-02-09T14:00:00-07:00
+2.0,Hinton-Hillcrest,,2026-02-09T14:00:00-07:00
 1.1,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T13:00:00-07:00
 2.6,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T13:00:00-07:00
 0.002,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T13:00:00-07:00
-0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-09T13:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T13:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T13:00:00-07:00
-10.9,Hinton-Hillcrest,Wind Speed,2026-02-09T13:00:00-07:00
-38.4,Hinton-Hillcrest,Relative Humidity,2026-02-09T13:00:00-07:00
-0.039,Hinton-Hillcrest,Ozone,2026-02-09T13:00:00-07:00
 0.002,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T13:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T12:00:00-07:00
-0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-09T12:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T12:00:00-07:00
-11.2,Hinton-Hillcrest,Wind Speed,2026-02-09T12:00:00-07:00
-49.9,Hinton-Hillcrest,Relative Humidity,2026-02-09T12:00:00-07:00
-0.036,Hinton-Hillcrest,Ozone,2026-02-09T12:00:00-07:00
-0.002,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T12:00:00-07:00
-0.002,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T12:00:00-07:00
--0.4,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T12:00:00-07:00
-1.6,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T12:00:00-07:00
-198.0,Hinton-Hillcrest,Wind Direction,2026-02-09T12:00:00-07:00
+0.039,Hinton-Hillcrest,Ozone,2026-02-09T13:00:00-07:00
+38.4,Hinton-Hillcrest,Relative Humidity,2026-02-09T13:00:00-07:00
+10.9,Hinton-Hillcrest,Wind Speed,2026-02-09T13:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T13:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T13:00:00-07:00
+0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-09T13:00:00-07:00
+2.0,Hinton-Hillcrest,,2026-02-09T13:00:00-07:00
+228.0,Hinton-Hillcrest,Wind Direction,2026-02-09T13:00:00-07:00
 2.0,Hinton-Hillcrest,,2026-02-09T12:00:00-07:00
-2.0,Hinton-Hillcrest,,2026-02-09T11:00:00-07:00
-206.0,Hinton-Hillcrest,Wind Direction,2026-02-09T11:00:00-07:00
-0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-09T11:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T11:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T11:00:00-07:00
-1.7,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T11:00:00-07:00
-14.7,Hinton-Hillcrest,Wind Speed,2026-02-09T11:00:00-07:00
-53.7,Hinton-Hillcrest,Relative Humidity,2026-02-09T11:00:00-07:00
-0.036,Hinton-Hillcrest,Ozone,2026-02-09T11:00:00-07:00
-0.002,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T11:00:00-07:00
-0.002,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T11:00:00-07:00
+198.0,Hinton-Hillcrest,Wind Direction,2026-02-09T12:00:00-07:00
+1.6,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T12:00:00-07:00
+-0.4,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T12:00:00-07:00
+0.002,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T12:00:00-07:00
+0.002,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T12:00:00-07:00
+0.036,Hinton-Hillcrest,Ozone,2026-02-09T12:00:00-07:00
+49.9,Hinton-Hillcrest,Relative Humidity,2026-02-09T12:00:00-07:00
+11.2,Hinton-Hillcrest,Wind Speed,2026-02-09T12:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T12:00:00-07:00
+0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-09T12:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T12:00:00-07:00
 -1.5,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T11:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T10:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T10:00:00-07:00
-2.2,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T10:00:00-07:00
-10.7,Hinton-Hillcrest,Wind Speed,2026-02-09T10:00:00-07:00
-56.2,Hinton-Hillcrest,Relative Humidity,2026-02-09T10:00:00-07:00
-0.036,Hinton-Hillcrest,Ozone,2026-02-09T10:00:00-07:00
-0.002,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T10:00:00-07:00
-0.002,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T10:00:00-07:00
--2.1,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T10:00:00-07:00
-203.0,Hinton-Hillcrest,Wind Direction,2026-02-09T10:00:00-07:00
+0.002,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T11:00:00-07:00
+0.002,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T11:00:00-07:00
+0.036,Hinton-Hillcrest,Ozone,2026-02-09T11:00:00-07:00
+53.7,Hinton-Hillcrest,Relative Humidity,2026-02-09T11:00:00-07:00
+14.7,Hinton-Hillcrest,Wind Speed,2026-02-09T11:00:00-07:00
+1.7,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T11:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T11:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T11:00:00-07:00
+0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-09T11:00:00-07:00
+206.0,Hinton-Hillcrest,Wind Direction,2026-02-09T11:00:00-07:00
+2.0,Hinton-Hillcrest,,2026-02-09T11:00:00-07:00
 2.0,Hinton-Hillcrest,,2026-02-09T10:00:00-07:00
+203.0,Hinton-Hillcrest,Wind Direction,2026-02-09T10:00:00-07:00
+-2.1,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T10:00:00-07:00
+0.002,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T10:00:00-07:00
+0.002,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T10:00:00-07:00
+0.036,Hinton-Hillcrest,Ozone,2026-02-09T10:00:00-07:00
+56.2,Hinton-Hillcrest,Relative Humidity,2026-02-09T10:00:00-07:00
+10.7,Hinton-Hillcrest,Wind Speed,2026-02-09T10:00:00-07:00
+2.2,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T10:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T10:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T10:00:00-07:00
 0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-09T10:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T09:00:00-07:00
 2.0,Hinton-Hillcrest,,2026-02-09T09:00:00-07:00
 191.0,Hinton-Hillcrest,Wind Direction,2026-02-09T09:00:00-07:00
 -2.5,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T09:00:00-07:00
@@ -1030,18 +1031,17 @@ Value,StationName,ParameterName,ReadingDate
 6.3,Hinton-Hillcrest,Wind Speed,2026-02-09T09:00:00-07:00
 1.6,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T09:00:00-07:00
 0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T09:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T09:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T08:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T08:00:00-07:00
-1.1,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T08:00:00-07:00
-13.2,Hinton-Hillcrest,Wind Speed,2026-02-09T08:00:00-07:00
-58.4,Hinton-Hillcrest,Relative Humidity,2026-02-09T08:00:00-07:00
-0.037,Hinton-Hillcrest,Ozone,2026-02-09T08:00:00-07:00
-0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T08:00:00-07:00
-0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T08:00:00-07:00
--2.4,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T08:00:00-07:00
-194.0,Hinton-Hillcrest,Wind Direction,2026-02-09T08:00:00-07:00
 2.0,Hinton-Hillcrest,,2026-02-09T08:00:00-07:00
+194.0,Hinton-Hillcrest,Wind Direction,2026-02-09T08:00:00-07:00
+-2.4,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T08:00:00-07:00
+0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T08:00:00-07:00
+0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T08:00:00-07:00
+0.037,Hinton-Hillcrest,Ozone,2026-02-09T08:00:00-07:00
+58.4,Hinton-Hillcrest,Relative Humidity,2026-02-09T08:00:00-07:00
+13.2,Hinton-Hillcrest,Wind Speed,2026-02-09T08:00:00-07:00
+1.1,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T08:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T08:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T08:00:00-07:00
 0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-09T08:00:00-07:00
 2.0,Hinton-Hillcrest,,2026-02-09T07:00:00-07:00
 185.0,Hinton-Hillcrest,Wind Direction,2026-02-09T07:00:00-07:00
@@ -1059,26 +1059,26 @@ Value,StationName,ParameterName,ReadingDate
 190.0,Hinton-Hillcrest,Wind Direction,2026-02-09T06:00:00-07:00
 1.3,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T06:00:00-07:00
 -1.7,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T06:00:00-07:00
-0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-09T06:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T06:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T06:00:00-07:00
-13.1,Hinton-Hillcrest,Wind Speed,2026-02-09T06:00:00-07:00
-56.0,Hinton-Hillcrest,Relative Humidity,2026-02-09T06:00:00-07:00
-0.037,Hinton-Hillcrest,Ozone,2026-02-09T06:00:00-07:00
-0.002,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T06:00:00-07:00
 0.002,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T06:00:00-07:00
+0.002,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T06:00:00-07:00
+0.037,Hinton-Hillcrest,Ozone,2026-02-09T06:00:00-07:00
+56.0,Hinton-Hillcrest,Relative Humidity,2026-02-09T06:00:00-07:00
+13.1,Hinton-Hillcrest,Wind Speed,2026-02-09T06:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T06:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T06:00:00-07:00
+0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-09T06:00:00-07:00
+2.0,Hinton-Hillcrest,,2026-02-09T05:00:00-07:00
+204.0,Hinton-Hillcrest,Wind Direction,2026-02-09T05:00:00-07:00
+1.5,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T05:00:00-07:00
+-0.7,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T05:00:00-07:00
+0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T05:00:00-07:00
+0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T05:00:00-07:00
+0.038,Hinton-Hillcrest,Ozone,2026-02-09T05:00:00-07:00
+52.1,Hinton-Hillcrest,Relative Humidity,2026-02-09T05:00:00-07:00
+13.6,Hinton-Hillcrest,Wind Speed,2026-02-09T05:00:00-07:00
 0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T05:00:00-07:00
 0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T05:00:00-07:00
 0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-09T05:00:00-07:00
-13.6,Hinton-Hillcrest,Wind Speed,2026-02-09T05:00:00-07:00
-52.1,Hinton-Hillcrest,Relative Humidity,2026-02-09T05:00:00-07:00
-0.038,Hinton-Hillcrest,Ozone,2026-02-09T05:00:00-07:00
-0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T05:00:00-07:00
-0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T05:00:00-07:00
--0.7,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T05:00:00-07:00
-1.5,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T05:00:00-07:00
-204.0,Hinton-Hillcrest,Wind Direction,2026-02-09T05:00:00-07:00
-2.0,Hinton-Hillcrest,,2026-02-09T05:00:00-07:00
 2.0,Hinton-Hillcrest,,2026-02-09T04:00:00-07:00
 206.0,Hinton-Hillcrest,Wind Direction,2026-02-09T04:00:00-07:00
 16.2,Hinton-Hillcrest,Wind Speed,2026-02-09T04:00:00-07:00
@@ -1096,73 +1096,73 @@ Value,StationName,ParameterName,ReadingDate
 0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T03:00:00-07:00
 0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T03:00:00-07:00
 1.0,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T03:00:00-07:00
-0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-09T03:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T03:00:00-07:00
-49.9,Hinton-Hillcrest,Relative Humidity,2026-02-09T03:00:00-07:00
 -0.4,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T03:00:00-07:00
 15.1,Hinton-Hillcrest,Wind Speed,2026-02-09T03:00:00-07:00
 ,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T03:00:00-07:00
 0.04,Hinton-Hillcrest,Ozone,2026-02-09T03:00:00-07:00
-0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T02:00:00-07:00
-0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T02:00:00-07:00
-0.3,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T02:00:00-07:00
-0.7,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T02:00:00-07:00
-14.6,Hinton-Hillcrest,Wind Speed,2026-02-09T02:00:00-07:00
-45.3,Hinton-Hillcrest,Relative Humidity,2026-02-09T02:00:00-07:00
-217.0,Hinton-Hillcrest,Wind Direction,2026-02-09T02:00:00-07:00
+49.9,Hinton-Hillcrest,Relative Humidity,2026-02-09T03:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T03:00:00-07:00
+0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-09T03:00:00-07:00
 2.0,Hinton-Hillcrest,,2026-02-09T02:00:00-07:00
-0.041,Hinton-Hillcrest,Ozone,2026-02-09T02:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T02:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T02:00:00-07:00
+217.0,Hinton-Hillcrest,Wind Direction,2026-02-09T02:00:00-07:00
+45.3,Hinton-Hillcrest,Relative Humidity,2026-02-09T02:00:00-07:00
+14.6,Hinton-Hillcrest,Wind Speed,2026-02-09T02:00:00-07:00
+0.3,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T02:00:00-07:00
 0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-09T02:00:00-07:00
-2.0,Hinton-Hillcrest,,2026-02-09T01:00:00-07:00
-227.0,Hinton-Hillcrest,Wind Direction,2026-02-09T01:00:00-07:00
-0.6,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T01:00:00-07:00
-0.9,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T01:00:00-07:00
-0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T01:00:00-07:00
-0.042,Hinton-Hillcrest,Ozone,2026-02-09T01:00:00-07:00
-41.8,Hinton-Hillcrest,Relative Humidity,2026-02-09T01:00:00-07:00
-16.0,Hinton-Hillcrest,Wind Speed,2026-02-09T01:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T01:00:00-07:00
-0.0,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T01:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T01:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T02:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T02:00:00-07:00
+0.041,Hinton-Hillcrest,Ozone,2026-02-09T02:00:00-07:00
+0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T02:00:00-07:00
+0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T02:00:00-07:00
+0.7,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T02:00:00-07:00
 0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-09T01:00:00-07:00
-0.042,Hinton-Hillcrest,Ozone,2026-02-09T00:00:00-07:00
-0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-09T00:00:00-07:00
-41.3,Hinton-Hillcrest,Relative Humidity,2026-02-09T00:00:00-07:00
-0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T00:00:00-07:00
-214.0,Hinton-Hillcrest,Wind Direction,2026-02-09T00:00:00-07:00
-0.4,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T00:00:00-07:00
-0.9,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T00:00:00-07:00
-13.0,Hinton-Hillcrest,Wind Speed,2026-02-09T00:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T00:00:00-07:00
-0.0,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T00:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T01:00:00-07:00
+0.0,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T01:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T01:00:00-07:00
+16.0,Hinton-Hillcrest,Wind Speed,2026-02-09T01:00:00-07:00
+41.8,Hinton-Hillcrest,Relative Humidity,2026-02-09T01:00:00-07:00
+0.042,Hinton-Hillcrest,Ozone,2026-02-09T01:00:00-07:00
+0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T01:00:00-07:00
+0.9,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T01:00:00-07:00
+0.6,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T01:00:00-07:00
+227.0,Hinton-Hillcrest,Wind Direction,2026-02-09T01:00:00-07:00
+2.0,Hinton-Hillcrest,,2026-02-09T01:00:00-07:00
 0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-09T00:00:00-07:00
+0.0,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-09T00:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-09T00:00:00-07:00
+13.0,Hinton-Hillcrest,Wind Speed,2026-02-09T00:00:00-07:00
+0.9,Hinton-Hillcrest,Outdoor Temperature,2026-02-09T00:00:00-07:00
+0.4,Hinton-Hillcrest,Fine Particulate Matter,2026-02-09T00:00:00-07:00
+214.0,Hinton-Hillcrest,Wind Direction,2026-02-09T00:00:00-07:00
+0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-09T00:00:00-07:00
+41.3,Hinton-Hillcrest,Relative Humidity,2026-02-09T00:00:00-07:00
+0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-09T00:00:00-07:00
+0.042,Hinton-Hillcrest,Ozone,2026-02-09T00:00:00-07:00
 2.0,Hinton-Hillcrest,,2026-02-09T00:00:00-07:00
-14.7,Hinton-Hillcrest,Wind Speed,2026-02-08T23:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-08T23:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-08T23:00:00-07:00
-0.042,Hinton-Hillcrest,Ozone,2026-02-08T23:00:00-07:00
-0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-08T23:00:00-07:00
-0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-08T23:00:00-07:00
-41.3,Hinton-Hillcrest,Relative Humidity,2026-02-08T23:00:00-07:00
-0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-08T23:00:00-07:00
-2.0,Hinton-Hillcrest,,2026-02-08T23:00:00-07:00
-0.9,Hinton-Hillcrest,Fine Particulate Matter,2026-02-08T23:00:00-07:00
-214.0,Hinton-Hillcrest,Wind Direction,2026-02-08T23:00:00-07:00
 1.1,Hinton-Hillcrest,Outdoor Temperature,2026-02-08T23:00:00-07:00
-2.0,Hinton-Hillcrest,,2026-02-08T22:00:00-07:00
-222.0,Hinton-Hillcrest,Wind Direction,2026-02-08T22:00:00-07:00
-1.2,Hinton-Hillcrest,Outdoor Temperature,2026-02-08T22:00:00-07:00
-2.2,Hinton-Hillcrest,Fine Particulate Matter,2026-02-08T22:00:00-07:00
-0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-08T22:00:00-07:00
-0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-08T22:00:00-07:00
-0.042,Hinton-Hillcrest,Ozone,2026-02-08T22:00:00-07:00
-41.0,Hinton-Hillcrest,Relative Humidity,2026-02-08T22:00:00-07:00
-0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-08T22:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-08T22:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-08T22:00:00-07:00
+214.0,Hinton-Hillcrest,Wind Direction,2026-02-08T23:00:00-07:00
+0.9,Hinton-Hillcrest,Fine Particulate Matter,2026-02-08T23:00:00-07:00
+2.0,Hinton-Hillcrest,,2026-02-08T23:00:00-07:00
+0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-08T23:00:00-07:00
+41.3,Hinton-Hillcrest,Relative Humidity,2026-02-08T23:00:00-07:00
+0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-08T23:00:00-07:00
+0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-08T23:00:00-07:00
+0.042,Hinton-Hillcrest,Ozone,2026-02-08T23:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-08T23:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-08T23:00:00-07:00
+14.7,Hinton-Hillcrest,Wind Speed,2026-02-08T23:00:00-07:00
 13.0,Hinton-Hillcrest,Wind Speed,2026-02-08T22:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-08T22:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-08T22:00:00-07:00
+0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-08T22:00:00-07:00
+41.0,Hinton-Hillcrest,Relative Humidity,2026-02-08T22:00:00-07:00
+0.042,Hinton-Hillcrest,Ozone,2026-02-08T22:00:00-07:00
+0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-08T22:00:00-07:00
+0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-08T22:00:00-07:00
+2.2,Hinton-Hillcrest,Fine Particulate Matter,2026-02-08T22:00:00-07:00
+1.2,Hinton-Hillcrest,Outdoor Temperature,2026-02-08T22:00:00-07:00
+222.0,Hinton-Hillcrest,Wind Direction,2026-02-08T22:00:00-07:00
+2.0,Hinton-Hillcrest,,2026-02-08T22:00:00-07:00
 2.0,Hinton-Hillcrest,,2026-02-08T21:00:00-07:00
 2.0,Hinton-Hillcrest,Fine Particulate Matter,2026-02-08T21:00:00-07:00
 219.0,Hinton-Hillcrest,Wind Direction,2026-02-08T21:00:00-07:00
@@ -1175,42 +1175,42 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-08T21:00:00-07:00
 0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-08T21:00:00-07:00
 12.7,Hinton-Hillcrest,Wind Speed,2026-02-08T21:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-08T20:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-08T20:00:00-07:00
-15.1,Hinton-Hillcrest,Wind Speed,2026-02-08T20:00:00-07:00
-1.2,Hinton-Hillcrest,Fine Particulate Matter,2026-02-08T20:00:00-07:00
-0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-08T20:00:00-07:00
-0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-08T20:00:00-07:00
-0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-08T20:00:00-07:00
-0.042,Hinton-Hillcrest,Ozone,2026-02-08T20:00:00-07:00
-39.5,Hinton-Hillcrest,Relative Humidity,2026-02-08T20:00:00-07:00
-215.0,Hinton-Hillcrest,Wind Direction,2026-02-08T20:00:00-07:00
-1.6,Hinton-Hillcrest,Outdoor Temperature,2026-02-08T20:00:00-07:00
 2.0,Hinton-Hillcrest,,2026-02-08T20:00:00-07:00
-2.0,Hinton-Hillcrest,,2026-02-08T19:00:00-07:00
-0.5,Hinton-Hillcrest,Fine Particulate Matter,2026-02-08T19:00:00-07:00
-225.0,Hinton-Hillcrest,Wind Direction,2026-02-08T19:00:00-07:00
-2.2,Hinton-Hillcrest,Outdoor Temperature,2026-02-08T19:00:00-07:00
-0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-08T19:00:00-07:00
-0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-08T19:00:00-07:00
-37.3,Hinton-Hillcrest,Relative Humidity,2026-02-08T19:00:00-07:00
-0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-08T19:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-08T19:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-08T19:00:00-07:00
-0.042,Hinton-Hillcrest,Ozone,2026-02-08T19:00:00-07:00
+1.6,Hinton-Hillcrest,Outdoor Temperature,2026-02-08T20:00:00-07:00
+215.0,Hinton-Hillcrest,Wind Direction,2026-02-08T20:00:00-07:00
+39.5,Hinton-Hillcrest,Relative Humidity,2026-02-08T20:00:00-07:00
+0.042,Hinton-Hillcrest,Ozone,2026-02-08T20:00:00-07:00
+0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-08T20:00:00-07:00
+0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-08T20:00:00-07:00
+0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-08T20:00:00-07:00
+1.2,Hinton-Hillcrest,Fine Particulate Matter,2026-02-08T20:00:00-07:00
+15.1,Hinton-Hillcrest,Wind Speed,2026-02-08T20:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-08T20:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-08T20:00:00-07:00
 15.2,Hinton-Hillcrest,Wind Speed,2026-02-08T19:00:00-07:00
-15.5,Hinton-Hillcrest,Wind Speed,2026-02-08T18:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-08T18:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-08T18:00:00-07:00
-0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-08T18:00:00-07:00
-33.1,Hinton-Hillcrest,Relative Humidity,2026-02-08T18:00:00-07:00
-0.043,Hinton-Hillcrest,Ozone,2026-02-08T18:00:00-07:00
-0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-08T18:00:00-07:00
-0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-08T18:00:00-07:00
-3.3,Hinton-Hillcrest,Outdoor Temperature,2026-02-08T18:00:00-07:00
-224.0,Hinton-Hillcrest,Wind Direction,2026-02-08T18:00:00-07:00
-0.5,Hinton-Hillcrest,Fine Particulate Matter,2026-02-08T18:00:00-07:00
+0.042,Hinton-Hillcrest,Ozone,2026-02-08T19:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-08T19:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-08T19:00:00-07:00
+0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-08T19:00:00-07:00
+37.3,Hinton-Hillcrest,Relative Humidity,2026-02-08T19:00:00-07:00
+0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-08T19:00:00-07:00
+0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-08T19:00:00-07:00
+2.2,Hinton-Hillcrest,Outdoor Temperature,2026-02-08T19:00:00-07:00
+225.0,Hinton-Hillcrest,Wind Direction,2026-02-08T19:00:00-07:00
+0.5,Hinton-Hillcrest,Fine Particulate Matter,2026-02-08T19:00:00-07:00
+2.0,Hinton-Hillcrest,,2026-02-08T19:00:00-07:00
 2.0,Hinton-Hillcrest,,2026-02-08T18:00:00-07:00
+0.5,Hinton-Hillcrest,Fine Particulate Matter,2026-02-08T18:00:00-07:00
+224.0,Hinton-Hillcrest,Wind Direction,2026-02-08T18:00:00-07:00
+3.3,Hinton-Hillcrest,Outdoor Temperature,2026-02-08T18:00:00-07:00
+0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-08T18:00:00-07:00
+0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-08T18:00:00-07:00
+0.043,Hinton-Hillcrest,Ozone,2026-02-08T18:00:00-07:00
+33.1,Hinton-Hillcrest,Relative Humidity,2026-02-08T18:00:00-07:00
+0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-08T18:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-08T18:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-08T18:00:00-07:00
+15.5,Hinton-Hillcrest,Wind Speed,2026-02-08T18:00:00-07:00
 2.0,Hinton-Hillcrest,,2026-02-08T17:00:00-07:00
 0.6,Hinton-Hillcrest,Fine Particulate Matter,2026-02-08T17:00:00-07:00
 224.0,Hinton-Hillcrest,Wind Direction,2026-02-08T17:00:00-07:00
@@ -1715,11 +1715,6 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-07T00:00:00-07:00
 205.0,Hinton-Hillcrest,Wind Direction,2026-02-07T00:00:00-07:00
 29.1,Hinton-Hillcrest,Relative Humidity,2026-02-07T00:00:00-07:00
-0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-06T23:00:00-07:00
-201.0,Hinton-Hillcrest,Wind Direction,2026-02-06T23:00:00-07:00
-2.1,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T23:00:00-07:00
-0.043,Hinton-Hillcrest,Ozone,2026-02-06T23:00:00-07:00
-2.0,Hinton-Hillcrest,,2026-02-06T23:00:00-07:00
 7.9,Hinton-Hillcrest,Outdoor Temperature,2026-02-06T23:00:00-07:00
 15.8,Hinton-Hillcrest,Wind Speed,2026-02-06T23:00:00-07:00
 0.0,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T23:00:00-07:00
@@ -1727,42 +1722,47 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T23:00:00-07:00
 0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T23:00:00-07:00
 0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-06T23:00:00-07:00
-2.0,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T22:00:00-07:00
-8.3,Hinton-Hillcrest,Outdoor Temperature,2026-02-06T22:00:00-07:00
-0.043,Hinton-Hillcrest,Ozone,2026-02-06T22:00:00-07:00
-14.3,Hinton-Hillcrest,Wind Speed,2026-02-06T22:00:00-07:00
-26.6,Hinton-Hillcrest,Relative Humidity,2026-02-06T22:00:00-07:00
-0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-06T22:00:00-07:00
-199.0,Hinton-Hillcrest,Wind Direction,2026-02-06T22:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T22:00:00-07:00
-0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-06T22:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T22:00:00-07:00
-0.0,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T22:00:00-07:00
+0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-06T23:00:00-07:00
+201.0,Hinton-Hillcrest,Wind Direction,2026-02-06T23:00:00-07:00
+2.1,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T23:00:00-07:00
+0.043,Hinton-Hillcrest,Ozone,2026-02-06T23:00:00-07:00
+2.0,Hinton-Hillcrest,,2026-02-06T23:00:00-07:00
 2.0,Hinton-Hillcrest,,2026-02-06T22:00:00-07:00
-0.043,Hinton-Hillcrest,Ozone,2026-02-06T21:00:00-07:00
-2.0,Hinton-Hillcrest,,2026-02-06T21:00:00-07:00
-1.7,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T21:00:00-07:00
-189.0,Hinton-Hillcrest,Wind Direction,2026-02-06T21:00:00-07:00
-0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T21:00:00-07:00
-0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-06T21:00:00-07:00
-26.4,Hinton-Hillcrest,Relative Humidity,2026-02-06T21:00:00-07:00
-8.5,Hinton-Hillcrest,Outdoor Temperature,2026-02-06T21:00:00-07:00
-14.2,Hinton-Hillcrest,Wind Speed,2026-02-06T21:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T21:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T21:00:00-07:00
+0.0,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T22:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T22:00:00-07:00
+0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-06T22:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T22:00:00-07:00
+199.0,Hinton-Hillcrest,Wind Direction,2026-02-06T22:00:00-07:00
+0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-06T22:00:00-07:00
+26.6,Hinton-Hillcrest,Relative Humidity,2026-02-06T22:00:00-07:00
+14.3,Hinton-Hillcrest,Wind Speed,2026-02-06T22:00:00-07:00
+0.043,Hinton-Hillcrest,Ozone,2026-02-06T22:00:00-07:00
+8.3,Hinton-Hillcrest,Outdoor Temperature,2026-02-06T22:00:00-07:00
+2.0,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T22:00:00-07:00
 0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-06T21:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T20:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T20:00:00-07:00
-0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-06T20:00:00-07:00
-11.6,Hinton-Hillcrest,Wind Speed,2026-02-06T20:00:00-07:00
-8.7,Hinton-Hillcrest,Outdoor Temperature,2026-02-06T20:00:00-07:00
-26.8,Hinton-Hillcrest,Relative Humidity,2026-02-06T20:00:00-07:00
-1.8,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T20:00:00-07:00
-0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-06T20:00:00-07:00
-0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T20:00:00-07:00
-200.0,Hinton-Hillcrest,Wind Direction,2026-02-06T20:00:00-07:00
-0.042,Hinton-Hillcrest,Ozone,2026-02-06T20:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T21:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T21:00:00-07:00
+14.2,Hinton-Hillcrest,Wind Speed,2026-02-06T21:00:00-07:00
+8.5,Hinton-Hillcrest,Outdoor Temperature,2026-02-06T21:00:00-07:00
+26.4,Hinton-Hillcrest,Relative Humidity,2026-02-06T21:00:00-07:00
+0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-06T21:00:00-07:00
+0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T21:00:00-07:00
+189.0,Hinton-Hillcrest,Wind Direction,2026-02-06T21:00:00-07:00
+1.7,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T21:00:00-07:00
+2.0,Hinton-Hillcrest,,2026-02-06T21:00:00-07:00
+0.043,Hinton-Hillcrest,Ozone,2026-02-06T21:00:00-07:00
 2.0,Hinton-Hillcrest,,2026-02-06T20:00:00-07:00
+0.042,Hinton-Hillcrest,Ozone,2026-02-06T20:00:00-07:00
+200.0,Hinton-Hillcrest,Wind Direction,2026-02-06T20:00:00-07:00
+0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T20:00:00-07:00
+0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-06T20:00:00-07:00
+1.8,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T20:00:00-07:00
+26.8,Hinton-Hillcrest,Relative Humidity,2026-02-06T20:00:00-07:00
+8.7,Hinton-Hillcrest,Outdoor Temperature,2026-02-06T20:00:00-07:00
+11.6,Hinton-Hillcrest,Wind Speed,2026-02-06T20:00:00-07:00
+0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-06T20:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T20:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T20:00:00-07:00
 0.044,Hinton-Hillcrest,Ozone,2026-02-06T19:00:00-07:00
 2.0,Hinton-Hillcrest,,2026-02-06T19:00:00-07:00
 2.0,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T19:00:00-07:00
@@ -1787,6 +1787,11 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-06T18:00:00-07:00
 0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T18:00:00-07:00
 0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T18:00:00-07:00
+3.0,Hinton-Hillcrest,,2026-02-06T17:00:00-07:00
+0.045,Hinton-Hillcrest,Ozone,2026-02-06T17:00:00-07:00
+2.0,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T17:00:00-07:00
+223.0,Hinton-Hillcrest,Wind Direction,2026-02-06T17:00:00-07:00
+0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-06T17:00:00-07:00
 0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-06T17:00:00-07:00
 0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T17:00:00-07:00
 0.0,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T17:00:00-07:00
@@ -1794,23 +1799,18 @@ Value,StationName,ParameterName,ReadingDate
 22.3,Hinton-Hillcrest,Wind Speed,2026-02-06T17:00:00-07:00
 12.1,Hinton-Hillcrest,Outdoor Temperature,2026-02-06T17:00:00-07:00
 20.8,Hinton-Hillcrest,Relative Humidity,2026-02-06T17:00:00-07:00
-0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-06T17:00:00-07:00
-223.0,Hinton-Hillcrest,Wind Direction,2026-02-06T17:00:00-07:00
-2.0,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T17:00:00-07:00
-0.045,Hinton-Hillcrest,Ozone,2026-02-06T17:00:00-07:00
-3.0,Hinton-Hillcrest,,2026-02-06T17:00:00-07:00
-0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-06T16:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T16:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T16:00:00-07:00
-0.0,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T16:00:00-07:00
-12.3,Hinton-Hillcrest,Outdoor Temperature,2026-02-06T16:00:00-07:00
-20.2,Hinton-Hillcrest,Relative Humidity,2026-02-06T16:00:00-07:00
-20.4,Hinton-Hillcrest,Wind Speed,2026-02-06T16:00:00-07:00
 3.0,Hinton-Hillcrest,,2026-02-06T16:00:00-07:00
 0.045,Hinton-Hillcrest,Ozone,2026-02-06T16:00:00-07:00
 2.3,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T16:00:00-07:00
 228.0,Hinton-Hillcrest,Wind Direction,2026-02-06T16:00:00-07:00
 0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-06T16:00:00-07:00
+20.4,Hinton-Hillcrest,Wind Speed,2026-02-06T16:00:00-07:00
+20.2,Hinton-Hillcrest,Relative Humidity,2026-02-06T16:00:00-07:00
+12.3,Hinton-Hillcrest,Outdoor Temperature,2026-02-06T16:00:00-07:00
+0.0,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T16:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T16:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T16:00:00-07:00
+0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-06T16:00:00-07:00
 3.0,Hinton-Hillcrest,,2026-02-06T15:00:00-07:00
 0.045,Hinton-Hillcrest,Ozone,2026-02-06T15:00:00-07:00
 2.0,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T15:00:00-07:00
@@ -1823,18 +1823,18 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T15:00:00-07:00
 0.0,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T15:00:00-07:00
 0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T15:00:00-07:00
-0.0,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-06T14:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T14:00:00-07:00
-0.0,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T14:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T14:00:00-07:00
-12.5,Hinton-Hillcrest,Outdoor Temperature,2026-02-06T14:00:00-07:00
-18.6,Hinton-Hillcrest,Relative Humidity,2026-02-06T14:00:00-07:00
-0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-06T14:00:00-07:00
-25.1,Hinton-Hillcrest,Wind Speed,2026-02-06T14:00:00-07:00
-231.0,Hinton-Hillcrest,Wind Direction,2026-02-06T14:00:00-07:00
-3.3,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T14:00:00-07:00
-3.0,Hinton-Hillcrest,,2026-02-06T14:00:00-07:00
 0.046,Hinton-Hillcrest,Ozone,2026-02-06T14:00:00-07:00
+3.0,Hinton-Hillcrest,,2026-02-06T14:00:00-07:00
+3.3,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T14:00:00-07:00
+231.0,Hinton-Hillcrest,Wind Direction,2026-02-06T14:00:00-07:00
+25.1,Hinton-Hillcrest,Wind Speed,2026-02-06T14:00:00-07:00
+0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-06T14:00:00-07:00
+18.6,Hinton-Hillcrest,Relative Humidity,2026-02-06T14:00:00-07:00
+12.5,Hinton-Hillcrest,Outdoor Temperature,2026-02-06T14:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T14:00:00-07:00
+0.0,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T14:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T14:00:00-07:00
+0.0,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-06T14:00:00-07:00
 0.045,Hinton-Hillcrest,Ozone,2026-02-06T13:00:00-07:00
 2.0,Hinton-Hillcrest,,2026-02-06T13:00:00-07:00
 2.0,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T13:00:00-07:00
@@ -1847,33 +1847,32 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T13:00:00-07:00
 0.0,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T13:00:00-07:00
 0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T13:00:00-07:00
-0.043,Hinton-Hillcrest,Ozone,2026-02-06T12:00:00-07:00
-2.0,Hinton-Hillcrest,,2026-02-06T12:00:00-07:00
-20.7,Hinton-Hillcrest,Wind Speed,2026-02-06T12:00:00-07:00
-0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T12:00:00-07:00
-0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-06T12:00:00-07:00
-196.0,Hinton-Hillcrest,Wind Direction,2026-02-06T12:00:00-07:00
-2.4,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T12:00:00-07:00
-26.4,Hinton-Hillcrest,Relative Humidity,2026-02-06T12:00:00-07:00
-7.5,Hinton-Hillcrest,Outdoor Temperature,2026-02-06T12:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T12:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T12:00:00-07:00
 0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-06T12:00:00-07:00
-0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-06T11:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T12:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T12:00:00-07:00
+7.5,Hinton-Hillcrest,Outdoor Temperature,2026-02-06T12:00:00-07:00
+26.4,Hinton-Hillcrest,Relative Humidity,2026-02-06T12:00:00-07:00
+2.4,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T12:00:00-07:00
+196.0,Hinton-Hillcrest,Wind Direction,2026-02-06T12:00:00-07:00
+0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-06T12:00:00-07:00
+0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T12:00:00-07:00
+20.7,Hinton-Hillcrest,Wind Speed,2026-02-06T12:00:00-07:00
+2.0,Hinton-Hillcrest,,2026-02-06T12:00:00-07:00
+0.043,Hinton-Hillcrest,Ozone,2026-02-06T12:00:00-07:00
+0.04,Hinton-Hillcrest,Ozone,2026-02-06T11:00:00-07:00
+2.0,Hinton-Hillcrest,,2026-02-06T11:00:00-07:00
+14.0,Hinton-Hillcrest,Wind Speed,2026-02-06T11:00:00-07:00
+0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T11:00:00-07:00
+0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-06T11:00:00-07:00
 0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T11:00:00-07:00
+0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-06T11:00:00-07:00
 0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T11:00:00-07:00
 4.9,Hinton-Hillcrest,Outdoor Temperature,2026-02-06T11:00:00-07:00
 33.3,Hinton-Hillcrest,Relative Humidity,2026-02-06T11:00:00-07:00
 2.6,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T11:00:00-07:00
 207.0,Hinton-Hillcrest,Wind Direction,2026-02-06T11:00:00-07:00
-0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-06T11:00:00-07:00
-0.04,Hinton-Hillcrest,Ozone,2026-02-06T11:00:00-07:00
-2.0,Hinton-Hillcrest,,2026-02-06T11:00:00-07:00
-14.0,Hinton-Hillcrest,Wind Speed,2026-02-06T11:00:00-07:00
-0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T11:00:00-07:00
 218.0,Hinton-Hillcrest,Wind Direction,2026-02-06T10:00:00-07:00
 2.0,Hinton-Hillcrest,,2026-02-06T10:00:00-07:00
-0.039,Hinton-Hillcrest,Ozone,2026-02-06T10:00:00-07:00
 0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T10:00:00-07:00
 0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-06T10:00:00-07:00
 2.8,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T10:00:00-07:00
@@ -1883,30 +1882,34 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T10:00:00-07:00
 18.7,Hinton-Hillcrest,Wind Speed,2026-02-06T10:00:00-07:00
 0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-06T10:00:00-07:00
+0.039,Hinton-Hillcrest,Ozone,2026-02-06T10:00:00-07:00
 2.0,Hinton-Hillcrest,,2026-02-06T09:00:00-07:00
 0.038,Hinton-Hillcrest,Ozone,2026-02-06T09:00:00-07:00
 222.0,Hinton-Hillcrest,Wind Direction,2026-02-06T09:00:00-07:00
 0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T09:00:00-07:00
 0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-06T09:00:00-07:00
-2.5,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T09:00:00-07:00
-43.7,Hinton-Hillcrest,Relative Humidity,2026-02-06T09:00:00-07:00
-2.5,Hinton-Hillcrest,Outdoor Temperature,2026-02-06T09:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T09:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T09:00:00-07:00
-19.0,Hinton-Hillcrest,Wind Speed,2026-02-06T09:00:00-07:00
 0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-06T09:00:00-07:00
-2.0,Hinton-Hillcrest,,2026-02-06T08:00:00-07:00
-0.037,Hinton-Hillcrest,Ozone,2026-02-06T08:00:00-07:00
-238.0,Hinton-Hillcrest,Wind Direction,2026-02-06T08:00:00-07:00
-0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T08:00:00-07:00
-0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-06T08:00:00-07:00
-2.5,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T08:00:00-07:00
-44.6,Hinton-Hillcrest,Relative Humidity,2026-02-06T08:00:00-07:00
-0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-06T08:00:00-07:00
-2.7,Hinton-Hillcrest,Outdoor Temperature,2026-02-06T08:00:00-07:00
-13.8,Hinton-Hillcrest,Wind Speed,2026-02-06T08:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T08:00:00-07:00
+19.0,Hinton-Hillcrest,Wind Speed,2026-02-06T09:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T09:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T09:00:00-07:00
+2.5,Hinton-Hillcrest,Outdoor Temperature,2026-02-06T09:00:00-07:00
+43.7,Hinton-Hillcrest,Relative Humidity,2026-02-06T09:00:00-07:00
+2.5,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T09:00:00-07:00
 0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T08:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T08:00:00-07:00
+13.8,Hinton-Hillcrest,Wind Speed,2026-02-06T08:00:00-07:00
+2.7,Hinton-Hillcrest,Outdoor Temperature,2026-02-06T08:00:00-07:00
+0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-06T08:00:00-07:00
+44.6,Hinton-Hillcrest,Relative Humidity,2026-02-06T08:00:00-07:00
+2.5,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T08:00:00-07:00
+0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-06T08:00:00-07:00
+0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T08:00:00-07:00
+238.0,Hinton-Hillcrest,Wind Direction,2026-02-06T08:00:00-07:00
+0.037,Hinton-Hillcrest,Ozone,2026-02-06T08:00:00-07:00
+2.0,Hinton-Hillcrest,,2026-02-06T08:00:00-07:00
+0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T07:00:00-07:00
+0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T07:00:00-07:00
+14.3,Hinton-Hillcrest,Wind Speed,2026-02-06T07:00:00-07:00
 0.036,Hinton-Hillcrest,Ozone,2026-02-06T07:00:00-07:00
 2.0,Hinton-Hillcrest,,2026-02-06T07:00:00-07:00
 228.0,Hinton-Hillcrest,Wind Direction,2026-02-06T07:00:00-07:00
@@ -1916,9 +1919,6 @@ Value,StationName,ParameterName,ReadingDate
 46.2,Hinton-Hillcrest,Relative Humidity,2026-02-06T07:00:00-07:00
 0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-06T07:00:00-07:00
 2.8,Hinton-Hillcrest,Outdoor Temperature,2026-02-06T07:00:00-07:00
-14.3,Hinton-Hillcrest,Wind Speed,2026-02-06T07:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T07:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T07:00:00-07:00
 0.035,Hinton-Hillcrest,Ozone,2026-02-06T06:00:00-07:00
 2.0,Hinton-Hillcrest,,2026-02-06T06:00:00-07:00
 202.0,Hinton-Hillcrest,Wind Direction,2026-02-06T06:00:00-07:00
@@ -1931,15 +1931,3 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T06:00:00-07:00
 0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T06:00:00-07:00
 0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-06T06:00:00-07:00
-0.035,Hinton-Hillcrest,Ozone,2026-02-06T05:00:00-07:00
-2.0,Hinton-Hillcrest,,2026-02-06T05:00:00-07:00
-0.0,Hinton-Hillcrest,Nitric Oxide,2026-02-06T05:00:00-07:00
-1.6,Hinton-Hillcrest,Fine Particulate Matter,2026-02-06T05:00:00-07:00
-204.0,Hinton-Hillcrest,Wind Direction,2026-02-06T05:00:00-07:00
-0.001,Hinton-Hillcrest,Total Oxides of Nitrogen,2026-02-06T05:00:00-07:00
-0.001,Hinton-Hillcrest,Nitrogen Dioxide,2026-02-06T05:00:00-07:00
-45.8,Hinton-Hillcrest,Relative Humidity,2026-02-06T05:00:00-07:00
-3.6,Hinton-Hillcrest,Outdoor Temperature,2026-02-06T05:00:00-07:00
-0.0,Hinton-Hillcrest,Total Reduced Sulphur,2026-02-06T05:00:00-07:00
-15.2,Hinton-Hillcrest,Wind Speed,2026-02-06T05:00:00-07:00
-0.0,Hinton-Hillcrest,Sulphur Dioxide,2026-02-06T05:00:00-07:00

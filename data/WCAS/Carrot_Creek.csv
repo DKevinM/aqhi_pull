@@ -503,7 +503,7 @@ Value,StationName,ParameterName,ReadingDate
 ,Carrot Creek,Ozone,2026-02-10T15:00:00-07:00
 ,Carrot Creek,Sulphur Dioxide,2026-02-10T15:00:00-07:00
 181.0,Carrot Creek,Wind Direction,2026-02-10T15:00:00-07:00
-168.0,Carrot Creek,Wind Direction,2026-02-10T14:00:00-07:00
+0.4,Carrot Creek,Wind Speed,2026-02-10T14:00:00-07:00
 ,Carrot Creek,Sulphur Dioxide,2026-02-10T14:00:00-07:00
 ,Carrot Creek,Ozone,2026-02-10T14:00:00-07:00
 ,Carrot Creek,Total Oxides of Nitrogen,2026-02-10T14:00:00-07:00
@@ -511,7 +511,7 @@ Value,StationName,ParameterName,ReadingDate
 ,Carrot Creek,Nitrogen Dioxide,2026-02-10T14:00:00-07:00
 52.2,Carrot Creek,Relative Humidity,2026-02-10T14:00:00-07:00
 1.5,Carrot Creek,Outdoor Temperature,2026-02-10T14:00:00-07:00
-0.4,Carrot Creek,Wind Speed,2026-02-10T14:00:00-07:00
+168.0,Carrot Creek,Wind Direction,2026-02-10T14:00:00-07:00
 0.9,Carrot Creek,Wind Speed,2026-02-10T13:00:00-07:00
 -0.6,Carrot Creek,Outdoor Temperature,2026-02-10T13:00:00-07:00
 60.1,Carrot Creek,Relative Humidity,2026-02-10T13:00:00-07:00
@@ -521,42 +521,42 @@ Value,StationName,ParameterName,ReadingDate
 ,Carrot Creek,Ozone,2026-02-10T13:00:00-07:00
 ,Carrot Creek,Sulphur Dioxide,2026-02-10T13:00:00-07:00
 25.0,Carrot Creek,Wind Direction,2026-02-10T13:00:00-07:00
-1.6,Carrot Creek,Wind Speed,2026-02-10T12:00:00-07:00
--1.9,Carrot Creek,Outdoor Temperature,2026-02-10T12:00:00-07:00
-61.3,Carrot Creek,Relative Humidity,2026-02-10T12:00:00-07:00
-,Carrot Creek,Total Oxides of Nitrogen,2026-02-10T12:00:00-07:00
-,Carrot Creek,Nitric Oxide,2026-02-10T12:00:00-07:00
-,Carrot Creek,Nitrogen Dioxide,2026-02-10T12:00:00-07:00
-,Carrot Creek,Ozone,2026-02-10T12:00:00-07:00
-,Carrot Creek,Sulphur Dioxide,2026-02-10T12:00:00-07:00
 326.0,Carrot Creek,Wind Direction,2026-02-10T12:00:00-07:00
+,Carrot Creek,Sulphur Dioxide,2026-02-10T12:00:00-07:00
+,Carrot Creek,Ozone,2026-02-10T12:00:00-07:00
+,Carrot Creek,Nitrogen Dioxide,2026-02-10T12:00:00-07:00
+,Carrot Creek,Nitric Oxide,2026-02-10T12:00:00-07:00
+,Carrot Creek,Total Oxides of Nitrogen,2026-02-10T12:00:00-07:00
+61.3,Carrot Creek,Relative Humidity,2026-02-10T12:00:00-07:00
+-1.9,Carrot Creek,Outdoor Temperature,2026-02-10T12:00:00-07:00
+1.6,Carrot Creek,Wind Speed,2026-02-10T12:00:00-07:00
+-4.1,Carrot Creek,Outdoor Temperature,2026-02-10T11:00:00-07:00
+65.2,Carrot Creek,Relative Humidity,2026-02-10T11:00:00-07:00
+,Carrot Creek,Nitrogen Dioxide,2026-02-10T11:00:00-07:00
+,Carrot Creek,Nitric Oxide,2026-02-10T11:00:00-07:00
+,Carrot Creek,Total Oxides of Nitrogen,2026-02-10T11:00:00-07:00
+,Carrot Creek,Ozone,2026-02-10T11:00:00-07:00
+,Carrot Creek,Sulphur Dioxide,2026-02-10T11:00:00-07:00
 1.1,Carrot Creek,Wind Speed,2026-02-10T11:00:00-07:00
 135.0,Carrot Creek,Wind Direction,2026-02-10T11:00:00-07:00
-,Carrot Creek,Sulphur Dioxide,2026-02-10T11:00:00-07:00
-,Carrot Creek,Ozone,2026-02-10T11:00:00-07:00
-,Carrot Creek,Total Oxides of Nitrogen,2026-02-10T11:00:00-07:00
-,Carrot Creek,Nitric Oxide,2026-02-10T11:00:00-07:00
-,Carrot Creek,Nitrogen Dioxide,2026-02-10T11:00:00-07:00
-65.2,Carrot Creek,Relative Humidity,2026-02-10T11:00:00-07:00
--4.1,Carrot Creek,Outdoor Temperature,2026-02-10T11:00:00-07:00
+0.8,Carrot Creek,Wind Speed,2026-02-10T10:00:00-07:00
+-6.0,Carrot Creek,Outdoor Temperature,2026-02-10T10:00:00-07:00
+73.3,Carrot Creek,Relative Humidity,2026-02-10T10:00:00-07:00
+,Carrot Creek,Total Oxides of Nitrogen,2026-02-10T10:00:00-07:00
+,Carrot Creek,Nitric Oxide,2026-02-10T10:00:00-07:00
+,Carrot Creek,Nitrogen Dioxide,2026-02-10T10:00:00-07:00
+,Carrot Creek,Ozone,2026-02-10T10:00:00-07:00
 48.0,Carrot Creek,Wind Direction,2026-02-10T10:00:00-07:00
 ,Carrot Creek,Sulphur Dioxide,2026-02-10T10:00:00-07:00
-,Carrot Creek,Ozone,2026-02-10T10:00:00-07:00
-,Carrot Creek,Nitrogen Dioxide,2026-02-10T10:00:00-07:00
-,Carrot Creek,Nitric Oxide,2026-02-10T10:00:00-07:00
-,Carrot Creek,Total Oxides of Nitrogen,2026-02-10T10:00:00-07:00
-73.3,Carrot Creek,Relative Humidity,2026-02-10T10:00:00-07:00
--6.0,Carrot Creek,Outdoor Temperature,2026-02-10T10:00:00-07:00
-0.8,Carrot Creek,Wind Speed,2026-02-10T10:00:00-07:00
-328.0,Carrot Creek,Wind Direction,2026-02-10T09:00:00-07:00
-0.0,Carrot Creek,Sulphur Dioxide,2026-02-10T09:00:00-07:00
-0.002,Carrot Creek,Nitric Oxide,2026-02-10T09:00:00-07:00
-0.015,Carrot Creek,Total Oxides of Nitrogen,2026-02-10T09:00:00-07:00
-0.013,Carrot Creek,Nitrogen Dioxide,2026-02-10T09:00:00-07:00
-0.013,Carrot Creek,Ozone,2026-02-10T09:00:00-07:00
-76.1,Carrot Creek,Relative Humidity,2026-02-10T09:00:00-07:00
--6.9,Carrot Creek,Outdoor Temperature,2026-02-10T09:00:00-07:00
 2.9,Carrot Creek,Wind Speed,2026-02-10T09:00:00-07:00
+-6.9,Carrot Creek,Outdoor Temperature,2026-02-10T09:00:00-07:00
+76.1,Carrot Creek,Relative Humidity,2026-02-10T09:00:00-07:00
+0.013,Carrot Creek,Ozone,2026-02-10T09:00:00-07:00
+0.013,Carrot Creek,Nitrogen Dioxide,2026-02-10T09:00:00-07:00
+0.015,Carrot Creek,Total Oxides of Nitrogen,2026-02-10T09:00:00-07:00
+0.002,Carrot Creek,Nitric Oxide,2026-02-10T09:00:00-07:00
+0.0,Carrot Creek,Sulphur Dioxide,2026-02-10T09:00:00-07:00
+328.0,Carrot Creek,Wind Direction,2026-02-10T09:00:00-07:00
 -6.9,Carrot Creek,Outdoor Temperature,2026-02-10T08:00:00-07:00
 74.7,Carrot Creek,Relative Humidity,2026-02-10T08:00:00-07:00
 0.021,Carrot Creek,Ozone,2026-02-10T08:00:00-07:00
@@ -575,8 +575,8 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Carrot Creek,Nitric Oxide,2026-02-10T07:00:00-07:00
 0.0,Carrot Creek,Sulphur Dioxide,2026-02-10T07:00:00-07:00
 207.0,Carrot Creek,Wind Direction,2026-02-10T07:00:00-07:00
-0.0,Carrot Creek,Sulphur Dioxide,2026-02-10T06:00:00-07:00
 195.0,Carrot Creek,Wind Direction,2026-02-10T06:00:00-07:00
+0.0,Carrot Creek,Sulphur Dioxide,2026-02-10T06:00:00-07:00
 0.0,Carrot Creek,Nitric Oxide,2026-02-10T06:00:00-07:00
 0.007,Carrot Creek,Total Oxides of Nitrogen,2026-02-10T06:00:00-07:00
 0.007,Carrot Creek,Nitrogen Dioxide,2026-02-10T06:00:00-07:00
@@ -584,63 +584,63 @@ Value,StationName,ParameterName,ReadingDate
 62.0,Carrot Creek,Relative Humidity,2026-02-10T06:00:00-07:00
 -5.0,Carrot Creek,Outdoor Temperature,2026-02-10T06:00:00-07:00
 2.4,Carrot Creek,Wind Speed,2026-02-10T06:00:00-07:00
+0.0,Carrot Creek,Nitric Oxide,2026-02-10T05:00:00-07:00
 0.004,Carrot Creek,Nitrogen Dioxide,2026-02-10T05:00:00-07:00
 0.004,Carrot Creek,Total Oxides of Nitrogen,2026-02-10T05:00:00-07:00
 0.0,Carrot Creek,Sulphur Dioxide,2026-02-10T05:00:00-07:00
-6.0,Carrot Creek,Wind Speed,2026-02-10T05:00:00-07:00
--5.5,Carrot Creek,Outdoor Temperature,2026-02-10T05:00:00-07:00
-66.1,Carrot Creek,Relative Humidity,2026-02-10T05:00:00-07:00
-0.027,Carrot Creek,Ozone,2026-02-10T05:00:00-07:00
 201.0,Carrot Creek,Wind Direction,2026-02-10T05:00:00-07:00
-0.0,Carrot Creek,Nitric Oxide,2026-02-10T05:00:00-07:00
-6.2,Carrot Creek,Wind Speed,2026-02-10T04:00:00-07:00
--6.1,Carrot Creek,Outdoor Temperature,2026-02-10T04:00:00-07:00
-72.0,Carrot Creek,Relative Humidity,2026-02-10T04:00:00-07:00
-,Carrot Creek,Nitric Oxide,2026-02-10T04:00:00-07:00
-,Carrot Creek,Total Oxides of Nitrogen,2026-02-10T04:00:00-07:00
-,Carrot Creek,Nitrogen Dioxide,2026-02-10T04:00:00-07:00
-,Carrot Creek,Ozone,2026-02-10T04:00:00-07:00
-,Carrot Creek,Sulphur Dioxide,2026-02-10T04:00:00-07:00
+0.027,Carrot Creek,Ozone,2026-02-10T05:00:00-07:00
+66.1,Carrot Creek,Relative Humidity,2026-02-10T05:00:00-07:00
+-5.5,Carrot Creek,Outdoor Temperature,2026-02-10T05:00:00-07:00
+6.0,Carrot Creek,Wind Speed,2026-02-10T05:00:00-07:00
 206.0,Carrot Creek,Wind Direction,2026-02-10T04:00:00-07:00
--6.0,Carrot Creek,Outdoor Temperature,2026-02-10T03:00:00-07:00
-73.5,Carrot Creek,Relative Humidity,2026-02-10T03:00:00-07:00
-0.025,Carrot Creek,Ozone,2026-02-10T03:00:00-07:00
-0.004,Carrot Creek,Nitrogen Dioxide,2026-02-10T03:00:00-07:00
-0.004,Carrot Creek,Total Oxides of Nitrogen,2026-02-10T03:00:00-07:00
-0.0,Carrot Creek,Nitric Oxide,2026-02-10T03:00:00-07:00
-0.0,Carrot Creek,Sulphur Dioxide,2026-02-10T03:00:00-07:00
-6.0,Carrot Creek,Wind Speed,2026-02-10T03:00:00-07:00
+,Carrot Creek,Sulphur Dioxide,2026-02-10T04:00:00-07:00
+,Carrot Creek,Ozone,2026-02-10T04:00:00-07:00
+,Carrot Creek,Nitrogen Dioxide,2026-02-10T04:00:00-07:00
+,Carrot Creek,Total Oxides of Nitrogen,2026-02-10T04:00:00-07:00
+,Carrot Creek,Nitric Oxide,2026-02-10T04:00:00-07:00
+72.0,Carrot Creek,Relative Humidity,2026-02-10T04:00:00-07:00
+-6.1,Carrot Creek,Outdoor Temperature,2026-02-10T04:00:00-07:00
+6.2,Carrot Creek,Wind Speed,2026-02-10T04:00:00-07:00
 206.0,Carrot Creek,Wind Direction,2026-02-10T03:00:00-07:00
+6.0,Carrot Creek,Wind Speed,2026-02-10T03:00:00-07:00
+0.0,Carrot Creek,Sulphur Dioxide,2026-02-10T03:00:00-07:00
+0.0,Carrot Creek,Nitric Oxide,2026-02-10T03:00:00-07:00
+0.004,Carrot Creek,Total Oxides of Nitrogen,2026-02-10T03:00:00-07:00
+0.004,Carrot Creek,Nitrogen Dioxide,2026-02-10T03:00:00-07:00
+0.025,Carrot Creek,Ozone,2026-02-10T03:00:00-07:00
+73.5,Carrot Creek,Relative Humidity,2026-02-10T03:00:00-07:00
+-6.0,Carrot Creek,Outdoor Temperature,2026-02-10T03:00:00-07:00
 0.0,Carrot Creek,Sulphur Dioxide,2026-02-10T02:00:00-07:00
+6.8,Carrot Creek,Wind Speed,2026-02-10T02:00:00-07:00
+212.0,Carrot Creek,Wind Direction,2026-02-10T02:00:00-07:00
+0.0,Carrot Creek,Nitric Oxide,2026-02-10T02:00:00-07:00
+0.004,Carrot Creek,Total Oxides of Nitrogen,2026-02-10T02:00:00-07:00
 -5.3,Carrot Creek,Outdoor Temperature,2026-02-10T02:00:00-07:00
 72.1,Carrot Creek,Relative Humidity,2026-02-10T02:00:00-07:00
 0.025,Carrot Creek,Ozone,2026-02-10T02:00:00-07:00
 0.004,Carrot Creek,Nitrogen Dioxide,2026-02-10T02:00:00-07:00
-0.004,Carrot Creek,Total Oxides of Nitrogen,2026-02-10T02:00:00-07:00
-0.0,Carrot Creek,Nitric Oxide,2026-02-10T02:00:00-07:00
-6.8,Carrot Creek,Wind Speed,2026-02-10T02:00:00-07:00
-212.0,Carrot Creek,Wind Direction,2026-02-10T02:00:00-07:00
-7.8,Carrot Creek,Wind Speed,2026-02-10T01:00:00-07:00
--5.4,Carrot Creek,Outdoor Temperature,2026-02-10T01:00:00-07:00
-75.1,Carrot Creek,Relative Humidity,2026-02-10T01:00:00-07:00
-0.023,Carrot Creek,Ozone,2026-02-10T01:00:00-07:00
-0.0,Carrot Creek,Nitric Oxide,2026-02-10T01:00:00-07:00
-0.0,Carrot Creek,Sulphur Dioxide,2026-02-10T01:00:00-07:00
-0.005,Carrot Creek,Total Oxides of Nitrogen,2026-02-10T01:00:00-07:00
-0.005,Carrot Creek,Nitrogen Dioxide,2026-02-10T01:00:00-07:00
 196.0,Carrot Creek,Wind Direction,2026-02-10T01:00:00-07:00
+0.005,Carrot Creek,Nitrogen Dioxide,2026-02-10T01:00:00-07:00
+0.005,Carrot Creek,Total Oxides of Nitrogen,2026-02-10T01:00:00-07:00
+0.0,Carrot Creek,Sulphur Dioxide,2026-02-10T01:00:00-07:00
+0.0,Carrot Creek,Nitric Oxide,2026-02-10T01:00:00-07:00
+0.023,Carrot Creek,Ozone,2026-02-10T01:00:00-07:00
+75.1,Carrot Creek,Relative Humidity,2026-02-10T01:00:00-07:00
+-5.4,Carrot Creek,Outdoor Temperature,2026-02-10T01:00:00-07:00
+7.8,Carrot Creek,Wind Speed,2026-02-10T01:00:00-07:00
+69.0,Carrot Creek,Relative Humidity,2026-02-10T00:00:00-07:00
+0.006,Carrot Creek,Nitrogen Dioxide,2026-02-10T00:00:00-07:00
+-4.0,Carrot Creek,Outdoor Temperature,2026-02-10T00:00:00-07:00
+4.6,Carrot Creek,Wind Speed,2026-02-10T00:00:00-07:00
+0.0,Carrot Creek,Nitric Oxide,2026-02-10T00:00:00-07:00
+0.0,Carrot Creek,Sulphur Dioxide,2026-02-10T00:00:00-07:00
 190.0,Carrot Creek,Wind Direction,2026-02-10T00:00:00-07:00
 0.006,Carrot Creek,Total Oxides of Nitrogen,2026-02-10T00:00:00-07:00
 0.027,Carrot Creek,Ozone,2026-02-10T00:00:00-07:00
-0.0,Carrot Creek,Sulphur Dioxide,2026-02-10T00:00:00-07:00
-0.0,Carrot Creek,Nitric Oxide,2026-02-10T00:00:00-07:00
-4.6,Carrot Creek,Wind Speed,2026-02-10T00:00:00-07:00
--4.0,Carrot Creek,Outdoor Temperature,2026-02-10T00:00:00-07:00
-0.006,Carrot Creek,Nitrogen Dioxide,2026-02-10T00:00:00-07:00
-69.0,Carrot Creek,Relative Humidity,2026-02-10T00:00:00-07:00
-0.011,Carrot Creek,Total Oxides of Nitrogen,2026-02-09T23:00:00-07:00
-0.011,Carrot Creek,Nitrogen Dioxide,2026-02-09T23:00:00-07:00
 0.017,Carrot Creek,Ozone,2026-02-09T23:00:00-07:00
+0.011,Carrot Creek,Nitrogen Dioxide,2026-02-09T23:00:00-07:00
+0.011,Carrot Creek,Total Oxides of Nitrogen,2026-02-09T23:00:00-07:00
 -4.5,Carrot Creek,Outdoor Temperature,2026-02-09T23:00:00-07:00
 202.0,Carrot Creek,Wind Direction,2026-02-09T23:00:00-07:00
 0.0,Carrot Creek,Nitric Oxide,2026-02-09T23:00:00-07:00
@@ -665,15 +665,15 @@ Value,StationName,ParameterName,ReadingDate
 7.6,Carrot Creek,Wind Speed,2026-02-09T21:00:00-07:00
 0.0,Carrot Creek,Nitric Oxide,2026-02-09T21:00:00-07:00
 0.0,Carrot Creek,Sulphur Dioxide,2026-02-09T21:00:00-07:00
-196.0,Carrot Creek,Wind Direction,2026-02-09T20:00:00-07:00
-64.4,Carrot Creek,Relative Humidity,2026-02-09T20:00:00-07:00
-0.018,Carrot Creek,Ozone,2026-02-09T20:00:00-07:00
-0.015,Carrot Creek,Nitrogen Dioxide,2026-02-09T20:00:00-07:00
-0.014,Carrot Creek,Total Oxides of Nitrogen,2026-02-09T20:00:00-07:00
+0.0,Carrot Creek,Sulphur Dioxide,2026-02-09T20:00:00-07:00
 0.0,Carrot Creek,Nitric Oxide,2026-02-09T20:00:00-07:00
 5.8,Carrot Creek,Wind Speed,2026-02-09T20:00:00-07:00
 -1.5,Carrot Creek,Outdoor Temperature,2026-02-09T20:00:00-07:00
-0.0,Carrot Creek,Sulphur Dioxide,2026-02-09T20:00:00-07:00
+0.014,Carrot Creek,Total Oxides of Nitrogen,2026-02-09T20:00:00-07:00
+0.015,Carrot Creek,Nitrogen Dioxide,2026-02-09T20:00:00-07:00
+0.018,Carrot Creek,Ozone,2026-02-09T20:00:00-07:00
+64.4,Carrot Creek,Relative Humidity,2026-02-09T20:00:00-07:00
+196.0,Carrot Creek,Wind Direction,2026-02-09T20:00:00-07:00
 218.0,Carrot Creek,Wind Direction,2026-02-09T19:00:00-07:00
 54.9,Carrot Creek,Relative Humidity,2026-02-09T19:00:00-07:00
 0.023,Carrot Creek,Ozone,2026-02-09T19:00:00-07:00
@@ -684,6 +684,7 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Carrot Creek,Nitric Oxide,2026-02-09T19:00:00-07:00
 0.0,Carrot Creek,Sulphur Dioxide,2026-02-09T19:00:00-07:00
 0.0,Carrot Creek,Sulphur Dioxide,2026-02-09T18:00:00-07:00
+0.0,Carrot Creek,Nitric Oxide,2026-02-09T18:00:00-07:00
 244.0,Carrot Creek,Wind Direction,2026-02-09T18:00:00-07:00
 56.4,Carrot Creek,Relative Humidity,2026-02-09T18:00:00-07:00
 0.029,Carrot Creek,Ozone,2026-02-09T18:00:00-07:00
@@ -691,8 +692,6 @@ Value,StationName,ParameterName,ReadingDate
 0.009,Carrot Creek,Total Oxides of Nitrogen,2026-02-09T18:00:00-07:00
 1.4,Carrot Creek,Outdoor Temperature,2026-02-09T18:00:00-07:00
 8.4,Carrot Creek,Wind Speed,2026-02-09T18:00:00-07:00
-0.0,Carrot Creek,Nitric Oxide,2026-02-09T18:00:00-07:00
-12.4,Carrot Creek,Wind Speed,2026-02-09T17:00:00-07:00
 0.0,Carrot Creek,Sulphur Dioxide,2026-02-09T17:00:00-07:00
 0.0,Carrot Creek,Nitric Oxide,2026-02-09T17:00:00-07:00
 53.8,Carrot Creek,Relative Humidity,2026-02-09T17:00:00-07:00
@@ -701,6 +700,7 @@ Value,StationName,ParameterName,ReadingDate
 0.003,Carrot Creek,Total Oxides of Nitrogen,2026-02-09T17:00:00-07:00
 0.003,Carrot Creek,Nitrogen Dioxide,2026-02-09T17:00:00-07:00
 258.0,Carrot Creek,Wind Direction,2026-02-09T17:00:00-07:00
+12.4,Carrot Creek,Wind Speed,2026-02-09T17:00:00-07:00
 0.0,Carrot Creek,Sulphur Dioxide,2026-02-09T16:00:00-07:00
 0.0,Carrot Creek,Nitric Oxide,2026-02-09T16:00:00-07:00
 13.3,Carrot Creek,Wind Speed,2026-02-09T16:00:00-07:00
@@ -710,24 +710,24 @@ Value,StationName,ParameterName,ReadingDate
 277.0,Carrot Creek,Wind Direction,2026-02-09T16:00:00-07:00
 0.001,Carrot Creek,Nitrogen Dioxide,2026-02-09T16:00:00-07:00
 0.001,Carrot Creek,Total Oxides of Nitrogen,2026-02-09T16:00:00-07:00
-43.3,Carrot Creek,Relative Humidity,2026-02-09T15:00:00-07:00
-19.1,Carrot Creek,Wind Speed,2026-02-09T15:00:00-07:00
 0.0,Carrot Creek,Nitric Oxide,2026-02-09T15:00:00-07:00
+19.1,Carrot Creek,Wind Speed,2026-02-09T15:00:00-07:00
+43.3,Carrot Creek,Relative Humidity,2026-02-09T15:00:00-07:00
 5.0,Carrot Creek,Outdoor Temperature,2026-02-09T15:00:00-07:00
 0.041,Carrot Creek,Ozone,2026-02-09T15:00:00-07:00
 276.0,Carrot Creek,Wind Direction,2026-02-09T15:00:00-07:00
 0.001,Carrot Creek,Nitrogen Dioxide,2026-02-09T15:00:00-07:00
 0.001,Carrot Creek,Total Oxides of Nitrogen,2026-02-09T15:00:00-07:00
 0.0,Carrot Creek,Sulphur Dioxide,2026-02-09T15:00:00-07:00
-17.5,Carrot Creek,Wind Speed,2026-02-09T14:00:00-07:00
-0.0,Carrot Creek,Sulphur Dioxide,2026-02-09T14:00:00-07:00
-0.0,Carrot Creek,Nitric Oxide,2026-02-09T14:00:00-07:00
-41.6,Carrot Creek,Relative Humidity,2026-02-09T14:00:00-07:00
-5.1,Carrot Creek,Outdoor Temperature,2026-02-09T14:00:00-07:00
-0.041,Carrot Creek,Ozone,2026-02-09T14:00:00-07:00
-0.002,Carrot Creek,Total Oxides of Nitrogen,2026-02-09T14:00:00-07:00
-0.002,Carrot Creek,Nitrogen Dioxide,2026-02-09T14:00:00-07:00
 277.0,Carrot Creek,Wind Direction,2026-02-09T14:00:00-07:00
+0.002,Carrot Creek,Nitrogen Dioxide,2026-02-09T14:00:00-07:00
+0.002,Carrot Creek,Total Oxides of Nitrogen,2026-02-09T14:00:00-07:00
+0.041,Carrot Creek,Ozone,2026-02-09T14:00:00-07:00
+5.1,Carrot Creek,Outdoor Temperature,2026-02-09T14:00:00-07:00
+41.6,Carrot Creek,Relative Humidity,2026-02-09T14:00:00-07:00
+0.0,Carrot Creek,Nitric Oxide,2026-02-09T14:00:00-07:00
+0.0,Carrot Creek,Sulphur Dioxide,2026-02-09T14:00:00-07:00
+17.5,Carrot Creek,Wind Speed,2026-02-09T14:00:00-07:00
 253.0,Carrot Creek,Wind Direction,2026-02-09T13:00:00-07:00
 0.005,Carrot Creek,Total Oxides of Nitrogen,2026-02-09T13:00:00-07:00
 0.001,Carrot Creek,Nitric Oxide,2026-02-09T13:00:00-07:00
@@ -764,15 +764,15 @@ Value,StationName,ParameterName,ReadingDate
 6.5,Carrot Creek,Wind Speed,2026-02-09T10:00:00-07:00
 0.0,Carrot Creek,Nitric Oxide,2026-02-09T10:00:00-07:00
 0.0,Carrot Creek,Sulphur Dioxide,2026-02-09T10:00:00-07:00
-0.0,Carrot Creek,Sulphur Dioxide,2026-02-09T09:00:00-07:00
-0.0,Carrot Creek,Nitric Oxide,2026-02-09T09:00:00-07:00
-6.4,Carrot Creek,Wind Speed,2026-02-09T09:00:00-07:00
--4.6,Carrot Creek,Outdoor Temperature,2026-02-09T09:00:00-07:00
-0.029,Carrot Creek,Ozone,2026-02-09T09:00:00-07:00
-65.2,Carrot Creek,Relative Humidity,2026-02-09T09:00:00-07:00
-0.003,Carrot Creek,Total Oxides of Nitrogen,2026-02-09T09:00:00-07:00
-0.003,Carrot Creek,Nitrogen Dioxide,2026-02-09T09:00:00-07:00
 230.0,Carrot Creek,Wind Direction,2026-02-09T09:00:00-07:00
+0.003,Carrot Creek,Nitrogen Dioxide,2026-02-09T09:00:00-07:00
+0.003,Carrot Creek,Total Oxides of Nitrogen,2026-02-09T09:00:00-07:00
+65.2,Carrot Creek,Relative Humidity,2026-02-09T09:00:00-07:00
+0.029,Carrot Creek,Ozone,2026-02-09T09:00:00-07:00
+-4.6,Carrot Creek,Outdoor Temperature,2026-02-09T09:00:00-07:00
+6.4,Carrot Creek,Wind Speed,2026-02-09T09:00:00-07:00
+0.0,Carrot Creek,Nitric Oxide,2026-02-09T09:00:00-07:00
+0.0,Carrot Creek,Sulphur Dioxide,2026-02-09T09:00:00-07:00
 8.7,Carrot Creek,Wind Speed,2026-02-09T08:00:00-07:00
 0.0,Carrot Creek,Sulphur Dioxide,2026-02-09T08:00:00-07:00
 0.0,Carrot Creek,Nitric Oxide,2026-02-09T08:00:00-07:00
@@ -1151,10 +1151,10 @@ Value,StationName,ParameterName,ReadingDate
 0.006,Carrot Creek,Nitrogen Dioxide,2026-02-07T15:00:00-07:00
 0.008,Carrot Creek,Total Oxides of Nitrogen,2026-02-07T15:00:00-07:00
 160.0,Carrot Creek,Wind Direction,2026-02-07T15:00:00-07:00
-167.0,Carrot Creek,Wind Direction,2026-02-07T14:00:00-07:00
-0.009,Carrot Creek,Total Oxides of Nitrogen,2026-02-07T14:00:00-07:00
 0.0,Carrot Creek,Sulphur Dioxide,2026-02-07T14:00:00-07:00
 0.007,Carrot Creek,Nitrogen Dioxide,2026-02-07T14:00:00-07:00
+0.009,Carrot Creek,Total Oxides of Nitrogen,2026-02-07T14:00:00-07:00
+167.0,Carrot Creek,Wind Direction,2026-02-07T14:00:00-07:00
 5.7,Carrot Creek,Outdoor Temperature,2026-02-07T14:00:00-07:00
 0.002,Carrot Creek,Nitric Oxide,2026-02-07T14:00:00-07:00
 2.6,Carrot Creek,Wind Speed,2026-02-07T14:00:00-07:00
@@ -1227,11 +1227,11 @@ Value,StationName,ParameterName,ReadingDate
 67.0,Carrot Creek,Relative Humidity,2026-02-07T06:00:00-07:00
 0.026,Carrot Creek,Ozone,2026-02-07T06:00:00-07:00
 0.0,Carrot Creek,Nitric Oxide,2026-02-07T06:00:00-07:00
--2.0,Carrot Creek,Outdoor Temperature,2026-02-07T06:00:00-07:00
-0.0,Carrot Creek,Sulphur Dioxide,2026-02-07T06:00:00-07:00
-0.004,Carrot Creek,Nitrogen Dioxide,2026-02-07T06:00:00-07:00
-0.004,Carrot Creek,Total Oxides of Nitrogen,2026-02-07T06:00:00-07:00
 196.0,Carrot Creek,Wind Direction,2026-02-07T06:00:00-07:00
+0.004,Carrot Creek,Total Oxides of Nitrogen,2026-02-07T06:00:00-07:00
+0.004,Carrot Creek,Nitrogen Dioxide,2026-02-07T06:00:00-07:00
+0.0,Carrot Creek,Sulphur Dioxide,2026-02-07T06:00:00-07:00
+-2.0,Carrot Creek,Outdoor Temperature,2026-02-07T06:00:00-07:00
 7.7,Carrot Creek,Wind Speed,2026-02-07T05:00:00-07:00
 73.6,Carrot Creek,Relative Humidity,2026-02-07T05:00:00-07:00
 0.021,Carrot Creek,Ozone,2026-02-07T05:00:00-07:00
@@ -1284,8 +1284,8 @@ Value,StationName,ParameterName,ReadingDate
 46.7,Carrot Creek,Relative Humidity,2026-02-07T00:00:00-07:00
 7.2,Carrot Creek,Wind Speed,2026-02-07T00:00:00-07:00
 257.0,Carrot Creek,Wind Direction,2026-02-07T00:00:00-07:00
-0.009,Carrot Creek,Nitrogen Dioxide,2026-02-07T00:00:00-07:00
 0.008,Carrot Creek,Total Oxides of Nitrogen,2026-02-07T00:00:00-07:00
+0.009,Carrot Creek,Nitrogen Dioxide,2026-02-07T00:00:00-07:00
 9.1,Carrot Creek,Wind Speed,2026-02-06T23:00:00-07:00
 49.5,Carrot Creek,Relative Humidity,2026-02-06T23:00:00-07:00
 0.027,Carrot Creek,Ozone,2026-02-06T23:00:00-07:00
@@ -1327,10 +1327,10 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Carrot Creek,Nitric Oxide,2026-02-06T19:00:00-07:00
 0.011,Carrot Creek,Nitrogen Dioxide,2026-02-06T19:00:00-07:00
 0.01,Carrot Creek,Total Oxides of Nitrogen,2026-02-06T19:00:00-07:00
-7.7,Carrot Creek,Outdoor Temperature,2026-02-06T19:00:00-07:00
-5.6,Carrot Creek,Wind Speed,2026-02-06T19:00:00-07:00
-38.8,Carrot Creek,Relative Humidity,2026-02-06T19:00:00-07:00
 0.03,Carrot Creek,Ozone,2026-02-06T19:00:00-07:00
+38.8,Carrot Creek,Relative Humidity,2026-02-06T19:00:00-07:00
+5.6,Carrot Creek,Wind Speed,2026-02-06T19:00:00-07:00
+7.7,Carrot Creek,Outdoor Temperature,2026-02-06T19:00:00-07:00
 8.0,Carrot Creek,Wind Speed,2026-02-06T18:00:00-07:00
 43.9,Carrot Creek,Relative Humidity,2026-02-06T18:00:00-07:00
 0.031,Carrot Creek,Ozone,2026-02-06T18:00:00-07:00
@@ -1349,24 +1349,24 @@ Value,StationName,ParameterName,ReadingDate
 0.003,Carrot Creek,Nitrogen Dioxide,2026-02-06T17:00:00-07:00
 0.003,Carrot Creek,Total Oxides of Nitrogen,2026-02-06T17:00:00-07:00
 286.0,Carrot Creek,Wind Direction,2026-02-06T17:00:00-07:00
-274.0,Carrot Creek,Wind Direction,2026-02-06T16:00:00-07:00
-0.004,Carrot Creek,Total Oxides of Nitrogen,2026-02-06T16:00:00-07:00
-0.004,Carrot Creek,Nitrogen Dioxide,2026-02-06T16:00:00-07:00
-0.0,Carrot Creek,Sulphur Dioxide,2026-02-06T16:00:00-07:00
-0.001,Carrot Creek,Nitric Oxide,2026-02-06T16:00:00-07:00
-8.1,Carrot Creek,Outdoor Temperature,2026-02-06T16:00:00-07:00
-0.033,Carrot Creek,Ozone,2026-02-06T16:00:00-07:00
-46.1,Carrot Creek,Relative Humidity,2026-02-06T16:00:00-07:00
 14.1,Carrot Creek,Wind Speed,2026-02-06T16:00:00-07:00
-9.3,Carrot Creek,Wind Speed,2026-02-06T15:00:00-07:00
-44.5,Carrot Creek,Relative Humidity,2026-02-06T15:00:00-07:00
-0.032,Carrot Creek,Ozone,2026-02-06T15:00:00-07:00
-8.7,Carrot Creek,Outdoor Temperature,2026-02-06T15:00:00-07:00
-0.001,Carrot Creek,Nitric Oxide,2026-02-06T15:00:00-07:00
-0.0,Carrot Creek,Sulphur Dioxide,2026-02-06T15:00:00-07:00
-0.006,Carrot Creek,Total Oxides of Nitrogen,2026-02-06T15:00:00-07:00
-0.004,Carrot Creek,Nitrogen Dioxide,2026-02-06T15:00:00-07:00
+46.1,Carrot Creek,Relative Humidity,2026-02-06T16:00:00-07:00
+0.033,Carrot Creek,Ozone,2026-02-06T16:00:00-07:00
+8.1,Carrot Creek,Outdoor Temperature,2026-02-06T16:00:00-07:00
+0.001,Carrot Creek,Nitric Oxide,2026-02-06T16:00:00-07:00
+0.0,Carrot Creek,Sulphur Dioxide,2026-02-06T16:00:00-07:00
+0.004,Carrot Creek,Nitrogen Dioxide,2026-02-06T16:00:00-07:00
+0.004,Carrot Creek,Total Oxides of Nitrogen,2026-02-06T16:00:00-07:00
+274.0,Carrot Creek,Wind Direction,2026-02-06T16:00:00-07:00
 263.0,Carrot Creek,Wind Direction,2026-02-06T15:00:00-07:00
+0.004,Carrot Creek,Nitrogen Dioxide,2026-02-06T15:00:00-07:00
+0.006,Carrot Creek,Total Oxides of Nitrogen,2026-02-06T15:00:00-07:00
+0.0,Carrot Creek,Sulphur Dioxide,2026-02-06T15:00:00-07:00
+0.001,Carrot Creek,Nitric Oxide,2026-02-06T15:00:00-07:00
+8.7,Carrot Creek,Outdoor Temperature,2026-02-06T15:00:00-07:00
+0.032,Carrot Creek,Ozone,2026-02-06T15:00:00-07:00
+44.5,Carrot Creek,Relative Humidity,2026-02-06T15:00:00-07:00
+9.3,Carrot Creek,Wind Speed,2026-02-06T15:00:00-07:00
 52.5,Carrot Creek,Relative Humidity,2026-02-06T14:00:00-07:00
 0.028,Carrot Creek,Ozone,2026-02-06T14:00:00-07:00
 8.4,Carrot Creek,Wind Speed,2026-02-06T14:00:00-07:00
@@ -1399,28 +1399,28 @@ Value,StationName,ParameterName,ReadingDate
 6.1,Carrot Creek,Wind Speed,2026-02-06T11:00:00-07:00
 -0.4,Carrot Creek,Outdoor Temperature,2026-02-06T11:00:00-07:00
 0.0,Carrot Creek,Sulphur Dioxide,2026-02-06T11:00:00-07:00
-247.0,Carrot Creek,Wind Direction,2026-02-06T11:00:00-07:00
-0.004,Carrot Creek,Nitric Oxide,2026-02-06T11:00:00-07:00
-0.008,Carrot Creek,Total Oxides of Nitrogen,2026-02-06T11:00:00-07:00
 0.005,Carrot Creek,Nitrogen Dioxide,2026-02-06T11:00:00-07:00
+0.008,Carrot Creek,Total Oxides of Nitrogen,2026-02-06T11:00:00-07:00
+0.004,Carrot Creek,Nitric Oxide,2026-02-06T11:00:00-07:00
+247.0,Carrot Creek,Wind Direction,2026-02-06T11:00:00-07:00
+5.6,Carrot Creek,Wind Speed,2026-02-06T10:00:00-07:00
+93.3,Carrot Creek,Relative Humidity,2026-02-06T10:00:00-07:00
+0.014,Carrot Creek,Ozone,2026-02-06T10:00:00-07:00
+0.005,Carrot Creek,Total Oxides of Nitrogen,2026-02-06T10:00:00-07:00
+-3.1,Carrot Creek,Outdoor Temperature,2026-02-06T10:00:00-07:00
 228.0,Carrot Creek,Wind Direction,2026-02-06T10:00:00-07:00
 0.004,Carrot Creek,Nitrogen Dioxide,2026-02-06T10:00:00-07:00
 0.0,Carrot Creek,Sulphur Dioxide,2026-02-06T10:00:00-07:00
 0.001,Carrot Creek,Nitric Oxide,2026-02-06T10:00:00-07:00
--3.1,Carrot Creek,Outdoor Temperature,2026-02-06T10:00:00-07:00
-0.005,Carrot Creek,Total Oxides of Nitrogen,2026-02-06T10:00:00-07:00
-0.014,Carrot Creek,Ozone,2026-02-06T10:00:00-07:00
-93.3,Carrot Creek,Relative Humidity,2026-02-06T10:00:00-07:00
-5.6,Carrot Creek,Wind Speed,2026-02-06T10:00:00-07:00
-211.0,Carrot Creek,Wind Direction,2026-02-06T09:00:00-07:00
-0.003,Carrot Creek,Nitric Oxide,2026-02-06T09:00:00-07:00
-0.013,Carrot Creek,Total Oxides of Nitrogen,2026-02-06T09:00:00-07:00
-0.01,Carrot Creek,Nitrogen Dioxide,2026-02-06T09:00:00-07:00
-0.0,Carrot Creek,Sulphur Dioxide,2026-02-06T09:00:00-07:00
--4.7,Carrot Creek,Outdoor Temperature,2026-02-06T09:00:00-07:00
-0.007,Carrot Creek,Ozone,2026-02-06T09:00:00-07:00
-97.9,Carrot Creek,Relative Humidity,2026-02-06T09:00:00-07:00
 5.6,Carrot Creek,Wind Speed,2026-02-06T09:00:00-07:00
+97.9,Carrot Creek,Relative Humidity,2026-02-06T09:00:00-07:00
+0.007,Carrot Creek,Ozone,2026-02-06T09:00:00-07:00
+-4.7,Carrot Creek,Outdoor Temperature,2026-02-06T09:00:00-07:00
+0.0,Carrot Creek,Sulphur Dioxide,2026-02-06T09:00:00-07:00
+0.01,Carrot Creek,Nitrogen Dioxide,2026-02-06T09:00:00-07:00
+0.013,Carrot Creek,Total Oxides of Nitrogen,2026-02-06T09:00:00-07:00
+0.003,Carrot Creek,Nitric Oxide,2026-02-06T09:00:00-07:00
+211.0,Carrot Creek,Wind Direction,2026-02-06T09:00:00-07:00
 97.2,Carrot Creek,Relative Humidity,2026-02-06T08:00:00-07:00
 0.008,Carrot Creek,Ozone,2026-02-06T08:00:00-07:00
 5.8,Carrot Creek,Wind Speed,2026-02-06T08:00:00-07:00
@@ -1448,12 +1448,3 @@ Value,StationName,ParameterName,ReadingDate
 0.006,Carrot Creek,Nitrogen Dioxide,2026-02-06T06:00:00-07:00
 0.006,Carrot Creek,Total Oxides of Nitrogen,2026-02-06T06:00:00-07:00
 238.0,Carrot Creek,Wind Direction,2026-02-06T06:00:00-07:00
-0.0,Carrot Creek,Sulphur Dioxide,2026-02-06T05:00:00-07:00
-245.0,Carrot Creek,Wind Direction,2026-02-06T05:00:00-07:00
-0.004,Carrot Creek,Total Oxides of Nitrogen,2026-02-06T05:00:00-07:00
-0.005,Carrot Creek,Nitrogen Dioxide,2026-02-06T05:00:00-07:00
--3.0,Carrot Creek,Outdoor Temperature,2026-02-06T05:00:00-07:00
-0.0,Carrot Creek,Nitric Oxide,2026-02-06T05:00:00-07:00
-0.015,Carrot Creek,Ozone,2026-02-06T05:00:00-07:00
-93.1,Carrot Creek,Relative Humidity,2026-02-06T05:00:00-07:00
-5.3,Carrot Creek,Wind Speed,2026-02-06T05:00:00-07:00
