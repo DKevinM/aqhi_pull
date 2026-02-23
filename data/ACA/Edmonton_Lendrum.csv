@@ -1,19 +1,34 @@
 Value,StationName,ParameterName,ReadingDate
+,Edmonton Lendrum,Methane,2026-02-23T06:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-23T06:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-23T06:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-23T06:00:00-07:00
+104.0,Edmonton Lendrum,Wind Direction,2026-02-23T06:00:00-07:00
+0.027,Edmonton Lendrum,Nitric Oxide,2026-02-23T06:00:00-07:00
+1.3,Edmonton Lendrum,Wind Speed,2026-02-23T06:00:00-07:00
+-19.3,Edmonton Lendrum,Outdoor Temperature,2026-02-23T06:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-23T06:00:00-07:00
+0.045,Edmonton Lendrum,Nitrogen Dioxide,2026-02-23T06:00:00-07:00
+6.5,Edmonton Lendrum,Fine Particulate Matter,2026-02-23T06:00:00-07:00
+0.001,Edmonton Lendrum,Ozone,2026-02-23T06:00:00-07:00
+0.072,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-23T06:00:00-07:00
+94.0,Edmonton Lendrum,Relative Humidity,2026-02-23T06:00:00-07:00
+4.0,Edmonton Lendrum,,2026-02-23T06:00:00-07:00
 3.0,Edmonton Lendrum,,2026-02-23T05:00:00-07:00
 ,Edmonton Lendrum,Methane,2026-02-23T05:00:00-07:00
 ,Edmonton Lendrum,Carbon Monoxide,2026-02-23T05:00:00-07:00
 ,Edmonton Lendrum,Total Hydrocarbons,2026-02-23T05:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-23T05:00:00-07:00
-,Edmonton Lendrum,Nitric Oxide,2026-02-23T05:00:00-07:00
-,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-23T05:00:00-07:00
-95.2,Edmonton Lendrum,Relative Humidity,2026-02-23T05:00:00-07:00
-,Edmonton Lendrum,Sulphur Dioxide,2026-02-23T05:00:00-07:00
-,Edmonton Lendrum,Nitrogen Dioxide,2026-02-23T05:00:00-07:00
-2.3,Edmonton Lendrum,Wind Speed,2026-02-23T05:00:00-07:00
-,Edmonton Lendrum,Ozone,2026-02-23T05:00:00-07:00
-4.9,Edmonton Lendrum,Fine Particulate Matter,2026-02-23T05:00:00-07:00
-277.0,Edmonton Lendrum,Wind Direction,2026-02-23T05:00:00-07:00
 -18.9,Edmonton Lendrum,Outdoor Temperature,2026-02-23T05:00:00-07:00
+277.0,Edmonton Lendrum,Wind Direction,2026-02-23T05:00:00-07:00
+4.9,Edmonton Lendrum,Fine Particulate Matter,2026-02-23T05:00:00-07:00
+,Edmonton Lendrum,Ozone,2026-02-23T05:00:00-07:00
+2.3,Edmonton Lendrum,Wind Speed,2026-02-23T05:00:00-07:00
+,Edmonton Lendrum,Nitrogen Dioxide,2026-02-23T05:00:00-07:00
+,Edmonton Lendrum,Sulphur Dioxide,2026-02-23T05:00:00-07:00
+95.2,Edmonton Lendrum,Relative Humidity,2026-02-23T05:00:00-07:00
+,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-23T05:00:00-07:00
+,Edmonton Lendrum,Nitric Oxide,2026-02-23T05:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-23T05:00:00-07:00
 3.0,Edmonton Lendrum,,2026-02-23T04:00:00-07:00
 ,Edmonton Lendrum,Methane,2026-02-23T04:00:00-07:00
 ,Edmonton Lendrum,Total Hydrocarbons,2026-02-23T04:00:00-07:00
@@ -29,11 +44,10 @@ Value,StationName,ParameterName,ReadingDate
 9.7,Edmonton Lendrum,Fine Particulate Matter,2026-02-23T04:00:00-07:00
 0.004,Edmonton Lendrum,Nitric Oxide,2026-02-23T04:00:00-07:00
 93.9,Edmonton Lendrum,Relative Humidity,2026-02-23T04:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-23T03:00:00-07:00
 ,Edmonton Lendrum,Methane,2026-02-23T03:00:00-07:00
 ,Edmonton Lendrum,Total Hydrocarbons,2026-02-23T03:00:00-07:00
 ,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-23T03:00:00-07:00
-3.0,Edmonton Lendrum,,2026-02-23T03:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-23T03:00:00-07:00
 0.02,Edmonton Lendrum,Nitrogen Dioxide,2026-02-23T03:00:00-07:00
 4.1,Edmonton Lendrum,Fine Particulate Matter,2026-02-23T03:00:00-07:00
 0.02,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-23T03:00:00-07:00
@@ -44,19 +58,20 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Edmonton Lendrum,Nitric Oxide,2026-02-23T03:00:00-07:00
 324.0,Edmonton Lendrum,Wind Direction,2026-02-23T03:00:00-07:00
 0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-23T03:00:00-07:00
-2.0,Edmonton Lendrum,,2026-02-23T02:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-23T02:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-23T02:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-23T02:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-23T02:00:00-07:00
-2.0,Edmonton Lendrum,Wind Speed,2026-02-23T02:00:00-07:00
-0.0,Edmonton Lendrum,Nitric Oxide,2026-02-23T02:00:00-07:00
-0.014,Edmonton Lendrum,Nitrogen Dioxide,2026-02-23T02:00:00-07:00
--16.3,Edmonton Lendrum,Outdoor Temperature,2026-02-23T02:00:00-07:00
-41.0,Edmonton Lendrum,Wind Direction,2026-02-23T02:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-23T02:00:00-07:00
-0.025,Edmonton Lendrum,Ozone,2026-02-23T02:00:00-07:00
+3.0,Edmonton Lendrum,,2026-02-23T03:00:00-07:00
 3.5,Edmonton Lendrum,Fine Particulate Matter,2026-02-23T02:00:00-07:00
+0.025,Edmonton Lendrum,Ozone,2026-02-23T02:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-23T02:00:00-07:00
+41.0,Edmonton Lendrum,Wind Direction,2026-02-23T02:00:00-07:00
+-16.3,Edmonton Lendrum,Outdoor Temperature,2026-02-23T02:00:00-07:00
+0.014,Edmonton Lendrum,Nitrogen Dioxide,2026-02-23T02:00:00-07:00
+0.0,Edmonton Lendrum,Nitric Oxide,2026-02-23T02:00:00-07:00
+2.0,Edmonton Lendrum,Wind Speed,2026-02-23T02:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-23T02:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-23T02:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-23T02:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-23T02:00:00-07:00
+2.0,Edmonton Lendrum,,2026-02-23T02:00:00-07:00
 0.013,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-23T02:00:00-07:00
 90.0,Edmonton Lendrum,Relative Humidity,2026-02-23T02:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-23T01:00:00-07:00
@@ -89,21 +104,21 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton Lendrum,Methane,2026-02-23T00:00:00-07:00
 0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-23T00:00:00-07:00
 0.0,Edmonton Lendrum,Nitric Oxide,2026-02-23T00:00:00-07:00
-82.4,Edmonton Lendrum,Relative Humidity,2026-02-22T23:00:00-07:00
-0.008,Edmonton Lendrum,Nitrogen Dioxide,2026-02-22T23:00:00-07:00
-0.008,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-22T23:00:00-07:00
-0.032,Edmonton Lendrum,Ozone,2026-02-22T23:00:00-07:00
-87.0,Edmonton Lendrum,Wind Direction,2026-02-22T23:00:00-07:00
-7.1,Edmonton Lendrum,Wind Speed,2026-02-22T23:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-22T23:00:00-07:00
-0.0,Edmonton Lendrum,Nitric Oxide,2026-02-22T23:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-22T23:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-22T23:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-22T23:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-22T23:00:00-07:00
-3.1,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T23:00:00-07:00
-2.0,Edmonton Lendrum,,2026-02-22T23:00:00-07:00
 -15.7,Edmonton Lendrum,Outdoor Temperature,2026-02-22T23:00:00-07:00
+2.0,Edmonton Lendrum,,2026-02-22T23:00:00-07:00
+3.1,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T23:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-22T23:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-22T23:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-22T23:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-22T23:00:00-07:00
+0.0,Edmonton Lendrum,Nitric Oxide,2026-02-22T23:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-22T23:00:00-07:00
+7.1,Edmonton Lendrum,Wind Speed,2026-02-22T23:00:00-07:00
+87.0,Edmonton Lendrum,Wind Direction,2026-02-22T23:00:00-07:00
+0.032,Edmonton Lendrum,Ozone,2026-02-22T23:00:00-07:00
+0.008,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-22T23:00:00-07:00
+0.008,Edmonton Lendrum,Nitrogen Dioxide,2026-02-22T23:00:00-07:00
+82.4,Edmonton Lendrum,Relative Humidity,2026-02-22T23:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-22T22:00:00-07:00
 -15.8,Edmonton Lendrum,Outdoor Temperature,2026-02-22T22:00:00-07:00
 2.9,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T22:00:00-07:00
@@ -149,96 +164,96 @@ Value,StationName,ParameterName,ReadingDate
 0.01,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-22T20:00:00-07:00
 0.009,Edmonton Lendrum,Nitrogen Dioxide,2026-02-22T20:00:00-07:00
 74.3,Edmonton Lendrum,Relative Humidity,2026-02-22T20:00:00-07:00
-2.0,Edmonton Lendrum,,2026-02-22T19:00:00-07:00
--14.5,Edmonton Lendrum,Outdoor Temperature,2026-02-22T19:00:00-07:00
-3.5,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T19:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-22T19:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-22T19:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-22T19:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-22T19:00:00-07:00
 0.001,Edmonton Lendrum,Nitric Oxide,2026-02-22T19:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-22T19:00:00-07:00
-7.2,Edmonton Lendrum,Wind Speed,2026-02-22T19:00:00-07:00
-102.0,Edmonton Lendrum,Wind Direction,2026-02-22T19:00:00-07:00
-0.033,Edmonton Lendrum,Ozone,2026-02-22T19:00:00-07:00
-0.009,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-22T19:00:00-07:00
-0.007,Edmonton Lendrum,Nitrogen Dioxide,2026-02-22T19:00:00-07:00
 69.4,Edmonton Lendrum,Relative Humidity,2026-02-22T19:00:00-07:00
-66.1,Edmonton Lendrum,Relative Humidity,2026-02-22T18:00:00-07:00
-0.006,Edmonton Lendrum,Nitrogen Dioxide,2026-02-22T18:00:00-07:00
-0.008,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-22T18:00:00-07:00
-0.034,Edmonton Lendrum,Ozone,2026-02-22T18:00:00-07:00
-94.0,Edmonton Lendrum,Wind Direction,2026-02-22T18:00:00-07:00
-8.0,Edmonton Lendrum,Wind Speed,2026-02-22T18:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-22T18:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-22T18:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-22T18:00:00-07:00
-0.001,Edmonton Lendrum,Nitric Oxide,2026-02-22T18:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-22T18:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-22T18:00:00-07:00
-3.6,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T18:00:00-07:00
--14.1,Edmonton Lendrum,Outdoor Temperature,2026-02-22T18:00:00-07:00
+0.007,Edmonton Lendrum,Nitrogen Dioxide,2026-02-22T19:00:00-07:00
+0.009,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-22T19:00:00-07:00
+0.033,Edmonton Lendrum,Ozone,2026-02-22T19:00:00-07:00
+102.0,Edmonton Lendrum,Wind Direction,2026-02-22T19:00:00-07:00
+7.2,Edmonton Lendrum,Wind Speed,2026-02-22T19:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-22T19:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-22T19:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-22T19:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-22T19:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-22T19:00:00-07:00
+3.5,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T19:00:00-07:00
+-14.5,Edmonton Lendrum,Outdoor Temperature,2026-02-22T19:00:00-07:00
+2.0,Edmonton Lendrum,,2026-02-22T19:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-22T18:00:00-07:00
-2.0,Edmonton Lendrum,,2026-02-22T17:00:00-07:00
--13.7,Edmonton Lendrum,Outdoor Temperature,2026-02-22T17:00:00-07:00
-3.8,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T17:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-22T17:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-22T17:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-22T17:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-22T17:00:00-07:00
-0.001,Edmonton Lendrum,Nitric Oxide,2026-02-22T17:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-22T17:00:00-07:00
-8.6,Edmonton Lendrum,Wind Speed,2026-02-22T17:00:00-07:00
-87.0,Edmonton Lendrum,Wind Direction,2026-02-22T17:00:00-07:00
-0.033,Edmonton Lendrum,Ozone,2026-02-22T17:00:00-07:00
-0.007,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-22T17:00:00-07:00
-0.006,Edmonton Lendrum,Nitrogen Dioxide,2026-02-22T17:00:00-07:00
+-14.1,Edmonton Lendrum,Outdoor Temperature,2026-02-22T18:00:00-07:00
+3.6,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T18:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-22T18:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-22T18:00:00-07:00
+0.001,Edmonton Lendrum,Nitric Oxide,2026-02-22T18:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-22T18:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-22T18:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-22T18:00:00-07:00
+8.0,Edmonton Lendrum,Wind Speed,2026-02-22T18:00:00-07:00
+94.0,Edmonton Lendrum,Wind Direction,2026-02-22T18:00:00-07:00
+0.034,Edmonton Lendrum,Ozone,2026-02-22T18:00:00-07:00
+0.008,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-22T18:00:00-07:00
+0.006,Edmonton Lendrum,Nitrogen Dioxide,2026-02-22T18:00:00-07:00
+66.1,Edmonton Lendrum,Relative Humidity,2026-02-22T18:00:00-07:00
 64.9,Edmonton Lendrum,Relative Humidity,2026-02-22T17:00:00-07:00
-0.002,Edmonton Lendrum,Nitric Oxide,2026-02-22T16:00:00-07:00
-0.005,Edmonton Lendrum,Nitrogen Dioxide,2026-02-22T16:00:00-07:00
-0.007,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-22T16:00:00-07:00
-0.034,Edmonton Lendrum,Ozone,2026-02-22T16:00:00-07:00
-94.0,Edmonton Lendrum,Wind Direction,2026-02-22T16:00:00-07:00
-9.2,Edmonton Lendrum,Wind Speed,2026-02-22T16:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-22T16:00:00-07:00
-59.9,Edmonton Lendrum,Relative Humidity,2026-02-22T16:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-22T16:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-22T16:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-22T16:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-22T16:00:00-07:00
-4.1,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T16:00:00-07:00
--13.2,Edmonton Lendrum,Outdoor Temperature,2026-02-22T16:00:00-07:00
+0.006,Edmonton Lendrum,Nitrogen Dioxide,2026-02-22T17:00:00-07:00
+0.007,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-22T17:00:00-07:00
+0.033,Edmonton Lendrum,Ozone,2026-02-22T17:00:00-07:00
+87.0,Edmonton Lendrum,Wind Direction,2026-02-22T17:00:00-07:00
+8.6,Edmonton Lendrum,Wind Speed,2026-02-22T17:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-22T17:00:00-07:00
+0.001,Edmonton Lendrum,Nitric Oxide,2026-02-22T17:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-22T17:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-22T17:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-22T17:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-22T17:00:00-07:00
+3.8,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T17:00:00-07:00
+-13.7,Edmonton Lendrum,Outdoor Temperature,2026-02-22T17:00:00-07:00
+2.0,Edmonton Lendrum,,2026-02-22T17:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-22T16:00:00-07:00
-2.0,Edmonton Lendrum,,2026-02-22T15:00:00-07:00
--12.9,Edmonton Lendrum,Outdoor Temperature,2026-02-22T15:00:00-07:00
-4.9,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T15:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-22T15:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-22T15:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-22T15:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-22T15:00:00-07:00
-58.6,Edmonton Lendrum,Relative Humidity,2026-02-22T15:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-22T15:00:00-07:00
-9.1,Edmonton Lendrum,Wind Speed,2026-02-22T15:00:00-07:00
-89.0,Edmonton Lendrum,Wind Direction,2026-02-22T15:00:00-07:00
-0.034,Edmonton Lendrum,Ozone,2026-02-22T15:00:00-07:00
-0.007,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-22T15:00:00-07:00
-0.005,Edmonton Lendrum,Nitrogen Dioxide,2026-02-22T15:00:00-07:00
+-13.2,Edmonton Lendrum,Outdoor Temperature,2026-02-22T16:00:00-07:00
+4.1,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T16:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-22T16:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-22T16:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-22T16:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-22T16:00:00-07:00
+59.9,Edmonton Lendrum,Relative Humidity,2026-02-22T16:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-22T16:00:00-07:00
+9.2,Edmonton Lendrum,Wind Speed,2026-02-22T16:00:00-07:00
+94.0,Edmonton Lendrum,Wind Direction,2026-02-22T16:00:00-07:00
+0.034,Edmonton Lendrum,Ozone,2026-02-22T16:00:00-07:00
+0.007,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-22T16:00:00-07:00
+0.005,Edmonton Lendrum,Nitrogen Dioxide,2026-02-22T16:00:00-07:00
+0.002,Edmonton Lendrum,Nitric Oxide,2026-02-22T16:00:00-07:00
 0.002,Edmonton Lendrum,Nitric Oxide,2026-02-22T15:00:00-07:00
-0.003,Edmonton Lendrum,Nitric Oxide,2026-02-22T14:00:00-07:00
-0.005,Edmonton Lendrum,Nitrogen Dioxide,2026-02-22T14:00:00-07:00
-0.008,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-22T14:00:00-07:00
-0.034,Edmonton Lendrum,Ozone,2026-02-22T14:00:00-07:00
-102.0,Edmonton Lendrum,Wind Direction,2026-02-22T14:00:00-07:00
-6.3,Edmonton Lendrum,Wind Speed,2026-02-22T14:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-22T14:00:00-07:00
-58.9,Edmonton Lendrum,Relative Humidity,2026-02-22T14:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-22T14:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-22T14:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-22T14:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-22T14:00:00-07:00
-5.3,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T14:00:00-07:00
--12.9,Edmonton Lendrum,Outdoor Temperature,2026-02-22T14:00:00-07:00
+0.005,Edmonton Lendrum,Nitrogen Dioxide,2026-02-22T15:00:00-07:00
+0.007,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-22T15:00:00-07:00
+0.034,Edmonton Lendrum,Ozone,2026-02-22T15:00:00-07:00
+89.0,Edmonton Lendrum,Wind Direction,2026-02-22T15:00:00-07:00
+9.1,Edmonton Lendrum,Wind Speed,2026-02-22T15:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-22T15:00:00-07:00
+58.6,Edmonton Lendrum,Relative Humidity,2026-02-22T15:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-22T15:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-22T15:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-22T15:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-22T15:00:00-07:00
+4.9,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T15:00:00-07:00
+-12.9,Edmonton Lendrum,Outdoor Temperature,2026-02-22T15:00:00-07:00
+2.0,Edmonton Lendrum,,2026-02-22T15:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-22T14:00:00-07:00
+-12.9,Edmonton Lendrum,Outdoor Temperature,2026-02-22T14:00:00-07:00
+5.3,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T14:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-22T14:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-22T14:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-22T14:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-22T14:00:00-07:00
+58.9,Edmonton Lendrum,Relative Humidity,2026-02-22T14:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-22T14:00:00-07:00
+6.3,Edmonton Lendrum,Wind Speed,2026-02-22T14:00:00-07:00
+102.0,Edmonton Lendrum,Wind Direction,2026-02-22T14:00:00-07:00
+0.034,Edmonton Lendrum,Ozone,2026-02-22T14:00:00-07:00
+0.008,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-22T14:00:00-07:00
+0.005,Edmonton Lendrum,Nitrogen Dioxide,2026-02-22T14:00:00-07:00
+0.003,Edmonton Lendrum,Nitric Oxide,2026-02-22T14:00:00-07:00
 0.003,Edmonton Lendrum,Nitric Oxide,2026-02-22T13:00:00-07:00
 0.004,Edmonton Lendrum,Nitrogen Dioxide,2026-02-22T13:00:00-07:00
 0.007,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-22T13:00:00-07:00
@@ -269,21 +284,21 @@ Value,StationName,ParameterName,ReadingDate
 0.007,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-22T12:00:00-07:00
 0.005,Edmonton Lendrum,Nitrogen Dioxide,2026-02-22T12:00:00-07:00
 0.002,Edmonton Lendrum,Nitric Oxide,2026-02-22T12:00:00-07:00
-0.003,Edmonton Lendrum,Nitric Oxide,2026-02-22T11:00:00-07:00
-0.006,Edmonton Lendrum,Nitrogen Dioxide,2026-02-22T11:00:00-07:00
-0.009,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-22T11:00:00-07:00
-0.03,Edmonton Lendrum,Ozone,2026-02-22T11:00:00-07:00
-90.0,Edmonton Lendrum,Wind Direction,2026-02-22T11:00:00-07:00
-9.9,Edmonton Lendrum,Wind Speed,2026-02-22T11:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-22T11:00:00-07:00
-68.3,Edmonton Lendrum,Relative Humidity,2026-02-22T11:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-22T11:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-22T11:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-22T11:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-22T11:00:00-07:00
-4.8,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T11:00:00-07:00
--16.0,Edmonton Lendrum,Outdoor Temperature,2026-02-22T11:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-22T11:00:00-07:00
+-16.0,Edmonton Lendrum,Outdoor Temperature,2026-02-22T11:00:00-07:00
+4.8,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T11:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-22T11:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-22T11:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-22T11:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-22T11:00:00-07:00
+68.3,Edmonton Lendrum,Relative Humidity,2026-02-22T11:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-22T11:00:00-07:00
+9.9,Edmonton Lendrum,Wind Speed,2026-02-22T11:00:00-07:00
+90.0,Edmonton Lendrum,Wind Direction,2026-02-22T11:00:00-07:00
+0.03,Edmonton Lendrum,Ozone,2026-02-22T11:00:00-07:00
+0.009,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-22T11:00:00-07:00
+0.006,Edmonton Lendrum,Nitrogen Dioxide,2026-02-22T11:00:00-07:00
+0.003,Edmonton Lendrum,Nitric Oxide,2026-02-22T11:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-22T10:00:00-07:00
 -17.5,Edmonton Lendrum,Outdoor Temperature,2026-02-22T10:00:00-07:00
 3.8,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T10:00:00-07:00
@@ -389,9 +404,13 @@ Value,StationName,ParameterName,ReadingDate
 4.3,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T04:00:00-07:00
 -16.8,Edmonton Lendrum,Outdoor Temperature,2026-02-22T04:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-22T04:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-22T03:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-22T03:00:00-07:00
+2.0,Edmonton Lendrum,,2026-02-22T03:00:00-07:00
+-16.1,Edmonton Lendrum,Outdoor Temperature,2026-02-22T03:00:00-07:00
+4.7,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T03:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-22T03:00:00-07:00
 ,Edmonton Lendrum,Total Hydrocarbons,2026-02-22T03:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-22T03:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-22T03:00:00-07:00
 0.001,Edmonton Lendrum,Nitric Oxide,2026-02-22T03:00:00-07:00
 0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-22T03:00:00-07:00
 8.0,Edmonton Lendrum,Wind Speed,2026-02-22T03:00:00-07:00
@@ -400,25 +419,21 @@ Value,StationName,ParameterName,ReadingDate
 0.008,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-22T03:00:00-07:00
 0.008,Edmonton Lendrum,Nitrogen Dioxide,2026-02-22T03:00:00-07:00
 71.3,Edmonton Lendrum,Relative Humidity,2026-02-22T03:00:00-07:00
-2.0,Edmonton Lendrum,,2026-02-22T03:00:00-07:00
--16.1,Edmonton Lendrum,Outdoor Temperature,2026-02-22T03:00:00-07:00
-4.7,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T03:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-22T03:00:00-07:00
-74.2,Edmonton Lendrum,Relative Humidity,2026-02-22T02:00:00-07:00
-0.008,Edmonton Lendrum,Nitrogen Dioxide,2026-02-22T02:00:00-07:00
-0.009,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-22T02:00:00-07:00
-0.029,Edmonton Lendrum,Ozone,2026-02-22T02:00:00-07:00
-91.0,Edmonton Lendrum,Wind Direction,2026-02-22T02:00:00-07:00
-8.4,Edmonton Lendrum,Wind Speed,2026-02-22T02:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-22T02:00:00-07:00
-0.001,Edmonton Lendrum,Nitric Oxide,2026-02-22T02:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-22T02:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-22T02:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-22T02:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-22T02:00:00-07:00
-5.7,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T02:00:00-07:00
--15.2,Edmonton Lendrum,Outdoor Temperature,2026-02-22T02:00:00-07:00
 3.0,Edmonton Lendrum,,2026-02-22T02:00:00-07:00
+-15.2,Edmonton Lendrum,Outdoor Temperature,2026-02-22T02:00:00-07:00
+5.7,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T02:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-22T02:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-22T02:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-22T02:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-22T02:00:00-07:00
+0.001,Edmonton Lendrum,Nitric Oxide,2026-02-22T02:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-22T02:00:00-07:00
+8.4,Edmonton Lendrum,Wind Speed,2026-02-22T02:00:00-07:00
+91.0,Edmonton Lendrum,Wind Direction,2026-02-22T02:00:00-07:00
+0.029,Edmonton Lendrum,Ozone,2026-02-22T02:00:00-07:00
+0.009,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-22T02:00:00-07:00
+0.008,Edmonton Lendrum,Nitrogen Dioxide,2026-02-22T02:00:00-07:00
+74.2,Edmonton Lendrum,Relative Humidity,2026-02-22T02:00:00-07:00
 3.0,Edmonton Lendrum,,2026-02-22T01:00:00-07:00
 ,Edmonton Lendrum,Carbon Monoxide,2026-02-22T01:00:00-07:00
 ,Edmonton Lendrum,Methane,2026-02-22T01:00:00-07:00
@@ -449,51 +464,51 @@ Value,StationName,ParameterName,ReadingDate
 5.5,Edmonton Lendrum,Fine Particulate Matter,2026-02-22T00:00:00-07:00
 ,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-22T00:00:00-07:00
 ,Edmonton Lendrum,Carbon Monoxide,2026-02-22T00:00:00-07:00
-3.0,Edmonton Lendrum,,2026-02-21T23:00:00-07:00
-0.028,Edmonton Lendrum,Ozone,2026-02-21T23:00:00-07:00
-0.0,Edmonton Lendrum,Nitric Oxide,2026-02-21T23:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-21T23:00:00-07:00
--14.6,Edmonton Lendrum,Outdoor Temperature,2026-02-21T23:00:00-07:00
-76.8,Edmonton Lendrum,Relative Humidity,2026-02-21T23:00:00-07:00
-0.009,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-21T23:00:00-07:00
-9.9,Edmonton Lendrum,Wind Speed,2026-02-21T23:00:00-07:00
-83.0,Edmonton Lendrum,Wind Direction,2026-02-21T23:00:00-07:00
-0.009,Edmonton Lendrum,Nitrogen Dioxide,2026-02-21T23:00:00-07:00
-6.4,Edmonton Lendrum,Fine Particulate Matter,2026-02-21T23:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-21T23:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-21T23:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-21T23:00:00-07:00
 ,Edmonton Lendrum,Methane,2026-02-21T23:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-21T23:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-21T23:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-21T23:00:00-07:00
+6.4,Edmonton Lendrum,Fine Particulate Matter,2026-02-21T23:00:00-07:00
+0.009,Edmonton Lendrum,Nitrogen Dioxide,2026-02-21T23:00:00-07:00
+83.0,Edmonton Lendrum,Wind Direction,2026-02-21T23:00:00-07:00
+9.9,Edmonton Lendrum,Wind Speed,2026-02-21T23:00:00-07:00
+0.009,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-21T23:00:00-07:00
+76.8,Edmonton Lendrum,Relative Humidity,2026-02-21T23:00:00-07:00
+-14.6,Edmonton Lendrum,Outdoor Temperature,2026-02-21T23:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-21T23:00:00-07:00
+0.0,Edmonton Lendrum,Nitric Oxide,2026-02-21T23:00:00-07:00
+0.028,Edmonton Lendrum,Ozone,2026-02-21T23:00:00-07:00
+3.0,Edmonton Lendrum,,2026-02-21T23:00:00-07:00
+3.0,Edmonton Lendrum,,2026-02-21T22:00:00-07:00
+0.01,Edmonton Lendrum,Nitrogen Dioxide,2026-02-21T22:00:00-07:00
+7.3,Edmonton Lendrum,Fine Particulate Matter,2026-02-21T22:00:00-07:00
+0.028,Edmonton Lendrum,Ozone,2026-02-21T22:00:00-07:00
+0.0,Edmonton Lendrum,Nitric Oxide,2026-02-21T22:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-21T22:00:00-07:00
+-14.5,Edmonton Lendrum,Outdoor Temperature,2026-02-21T22:00:00-07:00
+75.2,Edmonton Lendrum,Relative Humidity,2026-02-21T22:00:00-07:00
+0.01,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-21T22:00:00-07:00
+9.4,Edmonton Lendrum,Wind Speed,2026-02-21T22:00:00-07:00
+87.0,Edmonton Lendrum,Wind Direction,2026-02-21T22:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-21T22:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-21T22:00:00-07:00
 ,Edmonton Lendrum,Total Hydrocarbons,2026-02-21T22:00:00-07:00
 ,Edmonton Lendrum,Methane,2026-02-21T22:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-21T22:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-21T22:00:00-07:00
-87.0,Edmonton Lendrum,Wind Direction,2026-02-21T22:00:00-07:00
-9.4,Edmonton Lendrum,Wind Speed,2026-02-21T22:00:00-07:00
-0.01,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-21T22:00:00-07:00
-75.2,Edmonton Lendrum,Relative Humidity,2026-02-21T22:00:00-07:00
--14.5,Edmonton Lendrum,Outdoor Temperature,2026-02-21T22:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-21T22:00:00-07:00
-0.0,Edmonton Lendrum,Nitric Oxide,2026-02-21T22:00:00-07:00
-0.028,Edmonton Lendrum,Ozone,2026-02-21T22:00:00-07:00
-7.3,Edmonton Lendrum,Fine Particulate Matter,2026-02-21T22:00:00-07:00
-0.01,Edmonton Lendrum,Nitrogen Dioxide,2026-02-21T22:00:00-07:00
-3.0,Edmonton Lendrum,,2026-02-21T22:00:00-07:00
-70.7,Edmonton Lendrum,Relative Humidity,2026-02-21T21:00:00-07:00
--14.2,Edmonton Lendrum,Outdoor Temperature,2026-02-21T21:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-21T21:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-21T21:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-21T21:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-21T21:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-21T21:00:00-07:00
-0.0,Edmonton Lendrum,Nitric Oxide,2026-02-21T21:00:00-07:00
-0.028,Edmonton Lendrum,Ozone,2026-02-21T21:00:00-07:00
-6.5,Edmonton Lendrum,Fine Particulate Matter,2026-02-21T21:00:00-07:00
-0.011,Edmonton Lendrum,Nitrogen Dioxide,2026-02-21T21:00:00-07:00
-86.0,Edmonton Lendrum,Wind Direction,2026-02-21T21:00:00-07:00
-8.2,Edmonton Lendrum,Wind Speed,2026-02-21T21:00:00-07:00
-0.011,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-21T21:00:00-07:00
 3.0,Edmonton Lendrum,,2026-02-21T21:00:00-07:00
+0.011,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-21T21:00:00-07:00
+8.2,Edmonton Lendrum,Wind Speed,2026-02-21T21:00:00-07:00
+86.0,Edmonton Lendrum,Wind Direction,2026-02-21T21:00:00-07:00
+0.011,Edmonton Lendrum,Nitrogen Dioxide,2026-02-21T21:00:00-07:00
+6.5,Edmonton Lendrum,Fine Particulate Matter,2026-02-21T21:00:00-07:00
+0.028,Edmonton Lendrum,Ozone,2026-02-21T21:00:00-07:00
+0.0,Edmonton Lendrum,Nitric Oxide,2026-02-21T21:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-21T21:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-21T21:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-21T21:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-21T21:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-21T21:00:00-07:00
+-14.2,Edmonton Lendrum,Outdoor Temperature,2026-02-21T21:00:00-07:00
+70.7,Edmonton Lendrum,Relative Humidity,2026-02-21T21:00:00-07:00
 4.0,Edmonton Lendrum,,2026-02-21T20:00:00-07:00
 0.017,Edmonton Lendrum,Ozone,2026-02-21T20:00:00-07:00
 0.0,Edmonton Lendrum,Nitric Oxide,2026-02-21T20:00:00-07:00
@@ -1148,12 +1163,12 @@ Value,StationName,ParameterName,ReadingDate
 -20.7,Edmonton Lendrum,Outdoor Temperature,2026-02-20T01:00:00-07:00
 0.02,Edmonton Lendrum,Nitrogen Dioxide,2026-02-20T01:00:00-07:00
 0.02,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-20T01:00:00-07:00
-1.4,Edmonton Lendrum,Wind Speed,2026-02-20T01:00:00-07:00
-6.2,Edmonton Lendrum,Fine Particulate Matter,2026-02-20T01:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-20T01:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-20T01:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-20T01:00:00-07:00
 ,Edmonton Lendrum,Carbon Monoxide,2026-02-20T01:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-20T01:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-20T01:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-20T01:00:00-07:00
+6.2,Edmonton Lendrum,Fine Particulate Matter,2026-02-20T01:00:00-07:00
+1.4,Edmonton Lendrum,Wind Speed,2026-02-20T01:00:00-07:00
 0.0,Edmonton Lendrum,Nitric Oxide,2026-02-20T00:00:00-07:00
 0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-20T00:00:00-07:00
 ,Edmonton Lendrum,Total Hydrocarbons,2026-02-20T00:00:00-07:00
@@ -1169,21 +1184,21 @@ Value,StationName,ParameterName,ReadingDate
 0.02,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-20T00:00:00-07:00
 313.0,Edmonton Lendrum,Wind Direction,2026-02-20T00:00:00-07:00
 0.019,Edmonton Lendrum,Nitrogen Dioxide,2026-02-20T00:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-19T23:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T23:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-19T23:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-19T23:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-19T23:00:00-07:00
-0.021,Edmonton Lendrum,Nitrogen Dioxide,2026-02-19T23:00:00-07:00
-332.0,Edmonton Lendrum,Wind Direction,2026-02-19T23:00:00-07:00
-0.001,Edmonton Lendrum,Nitric Oxide,2026-02-19T23:00:00-07:00
-0.021,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-19T23:00:00-07:00
-68.8,Edmonton Lendrum,Relative Humidity,2026-02-19T23:00:00-07:00
--20.0,Edmonton Lendrum,Outdoor Temperature,2026-02-19T23:00:00-07:00
-6.4,Edmonton Lendrum,Fine Particulate Matter,2026-02-19T23:00:00-07:00
-1.6,Edmonton Lendrum,Wind Speed,2026-02-19T23:00:00-07:00
-0.015,Edmonton Lendrum,Ozone,2026-02-19T23:00:00-07:00
 3.0,Edmonton Lendrum,,2026-02-19T23:00:00-07:00
+0.015,Edmonton Lendrum,Ozone,2026-02-19T23:00:00-07:00
+1.6,Edmonton Lendrum,Wind Speed,2026-02-19T23:00:00-07:00
+6.4,Edmonton Lendrum,Fine Particulate Matter,2026-02-19T23:00:00-07:00
+-20.0,Edmonton Lendrum,Outdoor Temperature,2026-02-19T23:00:00-07:00
+68.8,Edmonton Lendrum,Relative Humidity,2026-02-19T23:00:00-07:00
+0.021,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-19T23:00:00-07:00
+0.001,Edmonton Lendrum,Nitric Oxide,2026-02-19T23:00:00-07:00
+332.0,Edmonton Lendrum,Wind Direction,2026-02-19T23:00:00-07:00
+0.021,Edmonton Lendrum,Nitrogen Dioxide,2026-02-19T23:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-19T23:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-19T23:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-19T23:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T23:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-19T23:00:00-07:00
 3.0,Edmonton Lendrum,,2026-02-19T22:00:00-07:00
 0.025,Edmonton Lendrum,Nitrogen Dioxide,2026-02-19T22:00:00-07:00
 0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-19T22:00:00-07:00
@@ -1193,18 +1208,18 @@ Value,StationName,ParameterName,ReadingDate
 -19.6,Edmonton Lendrum,Outdoor Temperature,2026-02-19T22:00:00-07:00
 68.7,Edmonton Lendrum,Relative Humidity,2026-02-19T22:00:00-07:00
 0.026,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-19T22:00:00-07:00
-0.002,Edmonton Lendrum,Nitric Oxide,2026-02-19T22:00:00-07:00
-2.0,Edmonton Lendrum,Wind Direction,2026-02-19T22:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-19T22:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-19T22:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T22:00:00-07:00
 ,Edmonton Lendrum,Methane,2026-02-19T22:00:00-07:00
-0.015,Edmonton Lendrum,Ozone,2026-02-19T21:00:00-07:00
-0.021,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-19T21:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-19T21:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-19T21:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T21:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T22:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-19T22:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-19T22:00:00-07:00
+2.0,Edmonton Lendrum,Wind Direction,2026-02-19T22:00:00-07:00
+0.002,Edmonton Lendrum,Nitric Oxide,2026-02-19T22:00:00-07:00
 ,Edmonton Lendrum,Methane,2026-02-19T21:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T21:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-19T21:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-19T21:00:00-07:00
+0.021,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-19T21:00:00-07:00
+0.015,Edmonton Lendrum,Ozone,2026-02-19T21:00:00-07:00
 -19.2,Edmonton Lendrum,Outdoor Temperature,2026-02-19T21:00:00-07:00
 0.021,Edmonton Lendrum,Nitrogen Dioxide,2026-02-19T21:00:00-07:00
 0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-19T21:00:00-07:00
@@ -1229,32 +1244,32 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T20:00:00-07:00
 0.003,Edmonton Lendrum,Nitric Oxide,2026-02-19T20:00:00-07:00
 ,Edmonton Lendrum,Methane,2026-02-19T20:00:00-07:00
+3.0,Edmonton Lendrum,,2026-02-19T19:00:00-07:00
+58.4,Edmonton Lendrum,Relative Humidity,2026-02-19T19:00:00-07:00
+2.3,Edmonton Lendrum,Wind Speed,2026-02-19T19:00:00-07:00
+6.1,Edmonton Lendrum,Fine Particulate Matter,2026-02-19T19:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-19T19:00:00-07:00
+319.0,Edmonton Lendrum,Wind Direction,2026-02-19T19:00:00-07:00
+-17.8,Edmonton Lendrum,Outdoor Temperature,2026-02-19T19:00:00-07:00
+0.024,Edmonton Lendrum,Nitrogen Dioxide,2026-02-19T19:00:00-07:00
+0.011,Edmonton Lendrum,Ozone,2026-02-19T19:00:00-07:00
 ,Edmonton Lendrum,Methane,2026-02-19T19:00:00-07:00
 ,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T19:00:00-07:00
 ,Edmonton Lendrum,Carbon Monoxide,2026-02-19T19:00:00-07:00
 ,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-19T19:00:00-07:00
 0.001,Edmonton Lendrum,Nitric Oxide,2026-02-19T19:00:00-07:00
 0.025,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-19T19:00:00-07:00
-0.011,Edmonton Lendrum,Ozone,2026-02-19T19:00:00-07:00
-0.024,Edmonton Lendrum,Nitrogen Dioxide,2026-02-19T19:00:00-07:00
--17.8,Edmonton Lendrum,Outdoor Temperature,2026-02-19T19:00:00-07:00
-319.0,Edmonton Lendrum,Wind Direction,2026-02-19T19:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-19T19:00:00-07:00
-6.1,Edmonton Lendrum,Fine Particulate Matter,2026-02-19T19:00:00-07:00
-2.3,Edmonton Lendrum,Wind Speed,2026-02-19T19:00:00-07:00
-58.4,Edmonton Lendrum,Relative Humidity,2026-02-19T19:00:00-07:00
-3.0,Edmonton Lendrum,,2026-02-19T19:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-19T18:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-19T18:00:00-07:00
-0.02,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-19T18:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-19T18:00:00-07:00
-0.017,Edmonton Lendrum,Nitrogen Dioxide,2026-02-19T18:00:00-07:00
--17.3,Edmonton Lendrum,Outdoor Temperature,2026-02-19T18:00:00-07:00
-3.0,Edmonton Lendrum,,2026-02-19T18:00:00-07:00
-53.2,Edmonton Lendrum,Relative Humidity,2026-02-19T18:00:00-07:00
-243.0,Edmonton Lendrum,Wind Direction,2026-02-19T18:00:00-07:00
-2.6,Edmonton Lendrum,Wind Speed,2026-02-19T18:00:00-07:00
 5.6,Edmonton Lendrum,Fine Particulate Matter,2026-02-19T18:00:00-07:00
+2.6,Edmonton Lendrum,Wind Speed,2026-02-19T18:00:00-07:00
+243.0,Edmonton Lendrum,Wind Direction,2026-02-19T18:00:00-07:00
+53.2,Edmonton Lendrum,Relative Humidity,2026-02-19T18:00:00-07:00
+3.0,Edmonton Lendrum,,2026-02-19T18:00:00-07:00
+-17.3,Edmonton Lendrum,Outdoor Temperature,2026-02-19T18:00:00-07:00
+0.017,Edmonton Lendrum,Nitrogen Dioxide,2026-02-19T18:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-19T18:00:00-07:00
+0.02,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-19T18:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-19T18:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-19T18:00:00-07:00
 ,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T18:00:00-07:00
 0.003,Edmonton Lendrum,Nitric Oxide,2026-02-19T18:00:00-07:00
 ,Edmonton Lendrum,Methane,2026-02-19T18:00:00-07:00
@@ -1289,21 +1304,21 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton Lendrum,Carbon Monoxide,2026-02-19T16:00:00-07:00
 ,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T16:00:00-07:00
 ,Edmonton Lendrum,Methane,2026-02-19T16:00:00-07:00
-0.028,Edmonton Lendrum,Ozone,2026-02-19T15:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-19T15:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T15:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-19T15:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-19T15:00:00-07:00
-0.009,Edmonton Lendrum,Nitrogen Dioxide,2026-02-19T15:00:00-07:00
--18.0,Edmonton Lendrum,Outdoor Temperature,2026-02-19T15:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-19T15:00:00-07:00
-5.4,Edmonton Lendrum,Fine Particulate Matter,2026-02-19T15:00:00-07:00
-3.7,Edmonton Lendrum,Wind Speed,2026-02-19T15:00:00-07:00
-0.018,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-19T15:00:00-07:00
-0.008,Edmonton Lendrum,Nitric Oxide,2026-02-19T15:00:00-07:00
-100.0,Edmonton Lendrum,Wind Direction,2026-02-19T15:00:00-07:00
-49.7,Edmonton Lendrum,Relative Humidity,2026-02-19T15:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-19T15:00:00-07:00
+49.7,Edmonton Lendrum,Relative Humidity,2026-02-19T15:00:00-07:00
+100.0,Edmonton Lendrum,Wind Direction,2026-02-19T15:00:00-07:00
+0.008,Edmonton Lendrum,Nitric Oxide,2026-02-19T15:00:00-07:00
+0.018,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-19T15:00:00-07:00
+3.7,Edmonton Lendrum,Wind Speed,2026-02-19T15:00:00-07:00
+5.4,Edmonton Lendrum,Fine Particulate Matter,2026-02-19T15:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-19T15:00:00-07:00
+-18.0,Edmonton Lendrum,Outdoor Temperature,2026-02-19T15:00:00-07:00
+0.009,Edmonton Lendrum,Nitrogen Dioxide,2026-02-19T15:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-19T15:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-19T15:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T15:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-19T15:00:00-07:00
+0.028,Edmonton Lendrum,Ozone,2026-02-19T15:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-19T14:00:00-07:00
 3.4,Edmonton Lendrum,Wind Speed,2026-02-19T14:00:00-07:00
 4.2,Edmonton Lendrum,Fine Particulate Matter,2026-02-19T14:00:00-07:00
@@ -1313,12 +1328,15 @@ Value,StationName,ParameterName,ReadingDate
 205.0,Edmonton Lendrum,Wind Direction,2026-02-19T14:00:00-07:00
 -18.6,Edmonton Lendrum,Outdoor Temperature,2026-02-19T14:00:00-07:00
 0.031,Edmonton Lendrum,Ozone,2026-02-19T14:00:00-07:00
-0.009,Edmonton Lendrum,Nitric Oxide,2026-02-19T14:00:00-07:00
-0.019,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-19T14:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-19T14:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-19T14:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T14:00:00-07:00
 ,Edmonton Lendrum,Methane,2026-02-19T14:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T14:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-19T14:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-19T14:00:00-07:00
+0.019,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-19T14:00:00-07:00
+0.009,Edmonton Lendrum,Nitric Oxide,2026-02-19T14:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-19T13:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T13:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-19T13:00:00-07:00
 ,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-19T13:00:00-07:00
 -19.8,Edmonton Lendrum,Outdoor Temperature,2026-02-19T13:00:00-07:00
 0.005,Edmonton Lendrum,Nitrogen Dioxide,2026-02-19T13:00:00-07:00
@@ -1331,9 +1349,9 @@ Value,StationName,ParameterName,ReadingDate
 237.0,Edmonton Lendrum,Wind Direction,2026-02-19T13:00:00-07:00
 49.2,Edmonton Lendrum,Relative Humidity,2026-02-19T13:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-19T13:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-19T13:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T13:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-19T13:00:00-07:00
+0.031,Edmonton Lendrum,Ozone,2026-02-19T12:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-19T12:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T12:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-19T12:00:00-07:00
 52.8,Edmonton Lendrum,Relative Humidity,2026-02-19T12:00:00-07:00
 226.0,Edmonton Lendrum,Wind Direction,2026-02-19T12:00:00-07:00
@@ -1346,9 +1364,6 @@ Value,StationName,ParameterName,ReadingDate
 -21.4,Edmonton Lendrum,Outdoor Temperature,2026-02-19T12:00:00-07:00
 ,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-19T12:00:00-07:00
 ,Edmonton Lendrum,Carbon Monoxide,2026-02-19T12:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T12:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-19T12:00:00-07:00
-0.031,Edmonton Lendrum,Ozone,2026-02-19T12:00:00-07:00
 ,Edmonton Lendrum,Methane,2026-02-19T11:00:00-07:00
 ,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T11:00:00-07:00
 ,Edmonton Lendrum,Carbon Monoxide,2026-02-19T11:00:00-07:00
@@ -1394,6 +1409,13 @@ Value,StationName,ParameterName,ReadingDate
 224.0,Edmonton Lendrum,Wind Direction,2026-02-19T09:00:00-07:00
 75.0,Edmonton Lendrum,Relative Humidity,2026-02-19T09:00:00-07:00
 3.0,Edmonton Lendrum,,2026-02-19T09:00:00-07:00
+3.0,Edmonton Lendrum,,2026-02-19T08:00:00-07:00
+0.03,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-19T08:00:00-07:00
+74.6,Edmonton Lendrum,Relative Humidity,2026-02-19T08:00:00-07:00
+255.0,Edmonton Lendrum,Wind Direction,2026-02-19T08:00:00-07:00
+1.8,Edmonton Lendrum,Wind Speed,2026-02-19T08:00:00-07:00
+3.6,Edmonton Lendrum,Fine Particulate Matter,2026-02-19T08:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-19T08:00:00-07:00
 0.027,Edmonton Lendrum,Nitrogen Dioxide,2026-02-19T08:00:00-07:00
 -28.6,Edmonton Lendrum,Outdoor Temperature,2026-02-19T08:00:00-07:00
 ,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T08:00:00-07:00
@@ -1402,13 +1424,12 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton Lendrum,Carbon Monoxide,2026-02-19T08:00:00-07:00
 0.008,Edmonton Lendrum,Ozone,2026-02-19T08:00:00-07:00
 ,Edmonton Lendrum,Methane,2026-02-19T08:00:00-07:00
-3.0,Edmonton Lendrum,,2026-02-19T08:00:00-07:00
-0.03,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-19T08:00:00-07:00
-74.6,Edmonton Lendrum,Relative Humidity,2026-02-19T08:00:00-07:00
-255.0,Edmonton Lendrum,Wind Direction,2026-02-19T08:00:00-07:00
-1.8,Edmonton Lendrum,Wind Speed,2026-02-19T08:00:00-07:00
-3.6,Edmonton Lendrum,Fine Particulate Matter,2026-02-19T08:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-19T08:00:00-07:00
+3.0,Edmonton Lendrum,,2026-02-19T07:00:00-07:00
+73.7,Edmonton Lendrum,Relative Humidity,2026-02-19T07:00:00-07:00
+245.0,Edmonton Lendrum,Wind Direction,2026-02-19T07:00:00-07:00
+1.6,Edmonton Lendrum,Wind Speed,2026-02-19T07:00:00-07:00
+3.4,Edmonton Lendrum,Fine Particulate Matter,2026-02-19T07:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-19T07:00:00-07:00
 0.023,Edmonton Lendrum,Nitrogen Dioxide,2026-02-19T07:00:00-07:00
 -28.3,Edmonton Lendrum,Outdoor Temperature,2026-02-19T07:00:00-07:00
 ,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T07:00:00-07:00
@@ -1418,12 +1439,6 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton Lendrum,Carbon Monoxide,2026-02-19T07:00:00-07:00
 0.011,Edmonton Lendrum,Ozone,2026-02-19T07:00:00-07:00
 ,Edmonton Lendrum,Methane,2026-02-19T07:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-19T07:00:00-07:00
-3.4,Edmonton Lendrum,Fine Particulate Matter,2026-02-19T07:00:00-07:00
-1.6,Edmonton Lendrum,Wind Speed,2026-02-19T07:00:00-07:00
-245.0,Edmonton Lendrum,Wind Direction,2026-02-19T07:00:00-07:00
-73.7,Edmonton Lendrum,Relative Humidity,2026-02-19T07:00:00-07:00
-3.0,Edmonton Lendrum,,2026-02-19T07:00:00-07:00
 ,Edmonton Lendrum,Methane,2026-02-19T06:00:00-07:00
 ,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T06:00:00-07:00
 ,Edmonton Lendrum,Carbon Monoxide,2026-02-19T06:00:00-07:00
@@ -1439,22 +1454,21 @@ Value,StationName,ParameterName,ReadingDate
 3.1,Edmonton Lendrum,Fine Particulate Matter,2026-02-19T06:00:00-07:00
 1.5,Edmonton Lendrum,Wind Speed,2026-02-19T06:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-19T06:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-19T05:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T05:00:00-07:00
 ,Edmonton Lendrum,Carbon Monoxide,2026-02-19T05:00:00-07:00
 ,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-19T05:00:00-07:00
 ,Edmonton Lendrum,Nitrogen Dioxide,2026-02-19T05:00:00-07:00
 -27.8,Edmonton Lendrum,Outdoor Temperature,2026-02-19T05:00:00-07:00
 2.7,Edmonton Lendrum,Fine Particulate Matter,2026-02-19T05:00:00-07:00
 1.5,Edmonton Lendrum,Wind Speed,2026-02-19T05:00:00-07:00
-,Edmonton Lendrum,Nitric Oxide,2026-02-19T05:00:00-07:00
-249.0,Edmonton Lendrum,Wind Direction,2026-02-19T05:00:00-07:00
-71.4,Edmonton Lendrum,Relative Humidity,2026-02-19T05:00:00-07:00
-,Edmonton Lendrum,Sulphur Dioxide,2026-02-19T05:00:00-07:00
-,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-19T05:00:00-07:00
-,Edmonton Lendrum,Ozone,2026-02-19T05:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-19T05:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T05:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-19T05:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-19T04:00:00-07:00
+,Edmonton Lendrum,Ozone,2026-02-19T05:00:00-07:00
+,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-19T05:00:00-07:00
+,Edmonton Lendrum,Sulphur Dioxide,2026-02-19T05:00:00-07:00
+71.4,Edmonton Lendrum,Relative Humidity,2026-02-19T05:00:00-07:00
+249.0,Edmonton Lendrum,Wind Direction,2026-02-19T05:00:00-07:00
+,Edmonton Lendrum,Nitric Oxide,2026-02-19T05:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-19T04:00:00-07:00
 66.2,Edmonton Lendrum,Relative Humidity,2026-02-19T04:00:00-07:00
 2.4,Edmonton Lendrum,Wind Speed,2026-02-19T04:00:00-07:00
@@ -1469,6 +1483,7 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton Lendrum,Carbon Monoxide,2026-02-19T04:00:00-07:00
 ,Edmonton Lendrum,Total Hydrocarbons,2026-02-19T04:00:00-07:00
 0.0,Edmonton Lendrum,Nitric Oxide,2026-02-19T04:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-19T04:00:00-07:00
 5.4,Edmonton Lendrum,Wind Speed,2026-02-19T03:00:00-07:00
 2.2,Edmonton Lendrum,Fine Particulate Matter,2026-02-19T03:00:00-07:00
 0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-19T03:00:00-07:00
@@ -1829,6 +1844,10 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-18T04:00:00-07:00
 0.003,Edmonton Lendrum,Nitrogen Dioxide,2026-02-18T04:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-18T04:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-18T03:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-18T03:00:00-07:00
+0.003,Edmonton Lendrum,Nitrogen Dioxide,2026-02-18T03:00:00-07:00
+2.0,Edmonton Lendrum,,2026-02-18T03:00:00-07:00
 ,Edmonton Lendrum,Total Hydrocarbons,2026-02-18T03:00:00-07:00
 ,Edmonton Lendrum,Carbon Monoxide,2026-02-18T03:00:00-07:00
 ,Edmonton Lendrum,Methane,2026-02-18T03:00:00-07:00
@@ -1840,70 +1859,66 @@ Value,StationName,ParameterName,ReadingDate
 2.4,Edmonton Lendrum,Fine Particulate Matter,2026-02-18T03:00:00-07:00
 329.0,Edmonton Lendrum,Wind Direction,2026-02-18T03:00:00-07:00
 0.029,Edmonton Lendrum,Ozone,2026-02-18T03:00:00-07:00
-2.0,Edmonton Lendrum,,2026-02-18T03:00:00-07:00
-0.003,Edmonton Lendrum,Nitrogen Dioxide,2026-02-18T03:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-18T03:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-18T03:00:00-07:00
-329.0,Edmonton Lendrum,Wind Direction,2026-02-18T02:00:00-07:00
-2.5,Edmonton Lendrum,Fine Particulate Matter,2026-02-18T02:00:00-07:00
--23.9,Edmonton Lendrum,Outdoor Temperature,2026-02-18T02:00:00-07:00
-0.003,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-18T02:00:00-07:00
-0.004,Edmonton Lendrum,Nitrogen Dioxide,2026-02-18T02:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-18T02:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-18T02:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-18T02:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-18T02:00:00-07:00
-0.0,Edmonton Lendrum,Nitric Oxide,2026-02-18T02:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-18T02:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-18T02:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-18T02:00:00-07:00
+0.0,Edmonton Lendrum,Nitric Oxide,2026-02-18T02:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-18T02:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-18T02:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-18T02:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-18T02:00:00-07:00
+0.004,Edmonton Lendrum,Nitrogen Dioxide,2026-02-18T02:00:00-07:00
+0.003,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-18T02:00:00-07:00
+-23.9,Edmonton Lendrum,Outdoor Temperature,2026-02-18T02:00:00-07:00
+2.5,Edmonton Lendrum,Fine Particulate Matter,2026-02-18T02:00:00-07:00
+329.0,Edmonton Lendrum,Wind Direction,2026-02-18T02:00:00-07:00
 0.028,Edmonton Lendrum,Ozone,2026-02-18T02:00:00-07:00
 13.5,Edmonton Lendrum,Wind Speed,2026-02-18T02:00:00-07:00
 71.6,Edmonton Lendrum,Relative Humidity,2026-02-18T02:00:00-07:00
-0.028,Edmonton Lendrum,Ozone,2026-02-18T01:00:00-07:00
-329.0,Edmonton Lendrum,Wind Direction,2026-02-18T01:00:00-07:00
-2.5,Edmonton Lendrum,Fine Particulate Matter,2026-02-18T01:00:00-07:00
--23.6,Edmonton Lendrum,Outdoor Temperature,2026-02-18T01:00:00-07:00
-12.7,Edmonton Lendrum,Wind Speed,2026-02-18T01:00:00-07:00
-72.6,Edmonton Lendrum,Relative Humidity,2026-02-18T01:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-18T01:00:00-07:00
 0.003,Edmonton Lendrum,Nitrogen Dioxide,2026-02-18T01:00:00-07:00
 0.0,Edmonton Lendrum,Nitric Oxide,2026-02-18T01:00:00-07:00
 0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-18T01:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-18T01:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-18T01:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-18T01:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-18T01:00:00-07:00
 0.003,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-18T01:00:00-07:00
-333.0,Edmonton Lendrum,Wind Direction,2026-02-18T00:00:00-07:00
-0.026,Edmonton Lendrum,Ozone,2026-02-18T00:00:00-07:00
-2.7,Edmonton Lendrum,Fine Particulate Matter,2026-02-18T00:00:00-07:00
-72.5,Edmonton Lendrum,Relative Humidity,2026-02-18T00:00:00-07:00
-2.0,Edmonton Lendrum,,2026-02-18T00:00:00-07:00
-0.0,Edmonton Lendrum,Nitric Oxide,2026-02-18T00:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-18T01:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-18T01:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-18T01:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-18T01:00:00-07:00
+72.6,Edmonton Lendrum,Relative Humidity,2026-02-18T01:00:00-07:00
+12.7,Edmonton Lendrum,Wind Speed,2026-02-18T01:00:00-07:00
+0.028,Edmonton Lendrum,Ozone,2026-02-18T01:00:00-07:00
+329.0,Edmonton Lendrum,Wind Direction,2026-02-18T01:00:00-07:00
+2.5,Edmonton Lendrum,Fine Particulate Matter,2026-02-18T01:00:00-07:00
+-23.6,Edmonton Lendrum,Outdoor Temperature,2026-02-18T01:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-18T00:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-18T00:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-18T00:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-18T00:00:00-07:00
+0.004,Edmonton Lendrum,Nitrogen Dioxide,2026-02-18T00:00:00-07:00
+-23.4,Edmonton Lendrum,Outdoor Temperature,2026-02-18T00:00:00-07:00
 0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-18T00:00:00-07:00
+0.0,Edmonton Lendrum,Nitric Oxide,2026-02-18T00:00:00-07:00
+2.0,Edmonton Lendrum,,2026-02-18T00:00:00-07:00
+72.5,Edmonton Lendrum,Relative Humidity,2026-02-18T00:00:00-07:00
+2.7,Edmonton Lendrum,Fine Particulate Matter,2026-02-18T00:00:00-07:00
+0.026,Edmonton Lendrum,Ozone,2026-02-18T00:00:00-07:00
+333.0,Edmonton Lendrum,Wind Direction,2026-02-18T00:00:00-07:00
 0.003,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-18T00:00:00-07:00
 13.3,Edmonton Lendrum,Wind Speed,2026-02-18T00:00:00-07:00
--23.4,Edmonton Lendrum,Outdoor Temperature,2026-02-18T00:00:00-07:00
-0.004,Edmonton Lendrum,Nitrogen Dioxide,2026-02-18T00:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-18T00:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-18T00:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-18T00:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-18T00:00:00-07:00
-327.0,Edmonton Lendrum,Wind Direction,2026-02-17T23:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T23:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-17T23:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T23:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-17T23:00:00-07:00
-0.0,Edmonton Lendrum,Nitric Oxide,2026-02-17T23:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T23:00:00-07:00
-0.023,Edmonton Lendrum,Ozone,2026-02-17T23:00:00-07:00
-11.1,Edmonton Lendrum,Wind Speed,2026-02-17T23:00:00-07:00
--23.1,Edmonton Lendrum,Outdoor Temperature,2026-02-17T23:00:00-07:00
-0.006,Edmonton Lendrum,Nitrogen Dioxide,2026-02-17T23:00:00-07:00
-0.006,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T23:00:00-07:00
-2.9,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T23:00:00-07:00
-72.7,Edmonton Lendrum,Relative Humidity,2026-02-17T23:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-17T23:00:00-07:00
+72.7,Edmonton Lendrum,Relative Humidity,2026-02-17T23:00:00-07:00
+2.9,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T23:00:00-07:00
+0.006,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T23:00:00-07:00
+0.006,Edmonton Lendrum,Nitrogen Dioxide,2026-02-17T23:00:00-07:00
+-23.1,Edmonton Lendrum,Outdoor Temperature,2026-02-17T23:00:00-07:00
+11.1,Edmonton Lendrum,Wind Speed,2026-02-17T23:00:00-07:00
+0.023,Edmonton Lendrum,Ozone,2026-02-17T23:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T23:00:00-07:00
+0.0,Edmonton Lendrum,Nitric Oxide,2026-02-17T23:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-17T23:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T23:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-17T23:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T23:00:00-07:00
+327.0,Edmonton Lendrum,Wind Direction,2026-02-17T23:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-17T22:00:00-07:00
 72.8,Edmonton Lendrum,Relative Humidity,2026-02-17T22:00:00-07:00
 3.0,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T22:00:00-07:00
@@ -1919,14 +1934,14 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton Lendrum,Methane,2026-02-17T22:00:00-07:00
 ,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T22:00:00-07:00
 332.0,Edmonton Lendrum,Wind Direction,2026-02-17T22:00:00-07:00
-13.9,Edmonton Lendrum,Wind Speed,2026-02-17T21:00:00-07:00
-0.005,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T21:00:00-07:00
-335.0,Edmonton Lendrum,Wind Direction,2026-02-17T21:00:00-07:00
-0.022,Edmonton Lendrum,Ozone,2026-02-17T21:00:00-07:00
-0.005,Edmonton Lendrum,Nitrogen Dioxide,2026-02-17T21:00:00-07:00
-75.1,Edmonton Lendrum,Relative Humidity,2026-02-17T21:00:00-07:00
-0.0,Edmonton Lendrum,Nitric Oxide,2026-02-17T21:00:00-07:00
 0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T21:00:00-07:00
+0.0,Edmonton Lendrum,Nitric Oxide,2026-02-17T21:00:00-07:00
+75.1,Edmonton Lendrum,Relative Humidity,2026-02-17T21:00:00-07:00
+0.005,Edmonton Lendrum,Nitrogen Dioxide,2026-02-17T21:00:00-07:00
+0.022,Edmonton Lendrum,Ozone,2026-02-17T21:00:00-07:00
+335.0,Edmonton Lendrum,Wind Direction,2026-02-17T21:00:00-07:00
+0.005,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T21:00:00-07:00
+13.9,Edmonton Lendrum,Wind Speed,2026-02-17T21:00:00-07:00
 ,Edmonton Lendrum,Carbon Monoxide,2026-02-17T21:00:00-07:00
 ,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T21:00:00-07:00
 ,Edmonton Lendrum,Methane,2026-02-17T21:00:00-07:00
@@ -1957,12 +1972,12 @@ Value,StationName,ParameterName,ReadingDate
 0.006,Edmonton Lendrum,Nitrogen Dioxide,2026-02-17T19:00:00-07:00
 0.018,Edmonton Lendrum,Ozone,2026-02-17T19:00:00-07:00
 319.0,Edmonton Lendrum,Wind Direction,2026-02-17T19:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T19:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-17T19:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T19:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-17T19:00:00-07:00
 0.006,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T19:00:00-07:00
 16.5,Edmonton Lendrum,Wind Speed,2026-02-17T19:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-17T19:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T19:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-17T19:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T19:00:00-07:00
 -22.3,Edmonton Lendrum,Outdoor Temperature,2026-02-17T19:00:00-07:00
 -22.0,Edmonton Lendrum,Outdoor Temperature,2026-02-17T18:00:00-07:00
 3.2,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T18:00:00-07:00
@@ -2030,15 +2045,15 @@ Value,StationName,ParameterName,ReadingDate
 82.6,Edmonton Lendrum,Relative Humidity,2026-02-17T14:00:00-07:00
 0.002,Edmonton Lendrum,Nitric Oxide,2026-02-17T14:00:00-07:00
 15.2,Edmonton Lendrum,Wind Speed,2026-02-17T14:00:00-07:00
-0.017,Edmonton Lendrum,Ozone,2026-02-17T14:00:00-07:00
-333.0,Edmonton Lendrum,Wind Direction,2026-02-17T14:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-17T14:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T14:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-17T14:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T14:00:00-07:00
-0.004,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T14:00:00-07:00
-3.7,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T14:00:00-07:00
 -19.6,Edmonton Lendrum,Outdoor Temperature,2026-02-17T14:00:00-07:00
+3.7,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T14:00:00-07:00
+0.004,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T14:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T14:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-17T14:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T14:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-17T14:00:00-07:00
+333.0,Edmonton Lendrum,Wind Direction,2026-02-17T14:00:00-07:00
+0.017,Edmonton Lendrum,Ozone,2026-02-17T14:00:00-07:00
 1.0,Edmonton Lendrum,,2026-02-17T13:00:00-07:00
 0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T13:00:00-07:00
 3.3,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T13:00:00-07:00
@@ -2069,66 +2084,66 @@ Value,StationName,ParameterName,ReadingDate
 83.4,Edmonton Lendrum,Relative Humidity,2026-02-17T12:00:00-07:00
 0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T12:00:00-07:00
 1.0,Edmonton Lendrum,,2026-02-17T12:00:00-07:00
--17.7,Edmonton Lendrum,Outdoor Temperature,2026-02-17T11:00:00-07:00
-0.004,Edmonton Lendrum,Nitrogen Dioxide,2026-02-17T11:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T11:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-17T11:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T11:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-17T11:00:00-07:00
-334.0,Edmonton Lendrum,Wind Direction,2026-02-17T11:00:00-07:00
-0.018,Edmonton Lendrum,Ozone,2026-02-17T11:00:00-07:00
-14.1,Edmonton Lendrum,Wind Speed,2026-02-17T11:00:00-07:00
-0.006,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T11:00:00-07:00
-0.002,Edmonton Lendrum,Nitric Oxide,2026-02-17T11:00:00-07:00
-2.7,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T11:00:00-07:00
-86.6,Edmonton Lendrum,Relative Humidity,2026-02-17T11:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T11:00:00-07:00
 1.0,Edmonton Lendrum,,2026-02-17T11:00:00-07:00
-2.0,Edmonton Lendrum,,2026-02-17T10:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T10:00:00-07:00
-2.6,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T10:00:00-07:00
-87.9,Edmonton Lendrum,Relative Humidity,2026-02-17T10:00:00-07:00
-0.006,Edmonton Lendrum,Nitrogen Dioxide,2026-02-17T10:00:00-07:00
-0.002,Edmonton Lendrum,Nitric Oxide,2026-02-17T10:00:00-07:00
-344.0,Edmonton Lendrum,Wind Direction,2026-02-17T10:00:00-07:00
-0.008,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T10:00:00-07:00
-12.8,Edmonton Lendrum,Wind Speed,2026-02-17T10:00:00-07:00
-0.016,Edmonton Lendrum,Ozone,2026-02-17T10:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T10:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-17T10:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T10:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-17T10:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T11:00:00-07:00
+86.6,Edmonton Lendrum,Relative Humidity,2026-02-17T11:00:00-07:00
+2.7,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T11:00:00-07:00
+0.002,Edmonton Lendrum,Nitric Oxide,2026-02-17T11:00:00-07:00
+0.006,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T11:00:00-07:00
+14.1,Edmonton Lendrum,Wind Speed,2026-02-17T11:00:00-07:00
+0.018,Edmonton Lendrum,Ozone,2026-02-17T11:00:00-07:00
+334.0,Edmonton Lendrum,Wind Direction,2026-02-17T11:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-17T11:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T11:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-17T11:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T11:00:00-07:00
+0.004,Edmonton Lendrum,Nitrogen Dioxide,2026-02-17T11:00:00-07:00
+-17.7,Edmonton Lendrum,Outdoor Temperature,2026-02-17T11:00:00-07:00
 -17.7,Edmonton Lendrum,Outdoor Temperature,2026-02-17T10:00:00-07:00
--17.4,Edmonton Lendrum,Outdoor Temperature,2026-02-17T09:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-17T09:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T09:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-17T09:00:00-07:00
-0.001,Edmonton Lendrum,Nitric Oxide,2026-02-17T09:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T09:00:00-07:00
-0.015,Edmonton Lendrum,Ozone,2026-02-17T09:00:00-07:00
-12.3,Edmonton Lendrum,Wind Speed,2026-02-17T09:00:00-07:00
-0.008,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T09:00:00-07:00
-343.0,Edmonton Lendrum,Wind Direction,2026-02-17T09:00:00-07:00
-0.007,Edmonton Lendrum,Nitrogen Dioxide,2026-02-17T09:00:00-07:00
-2.6,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T09:00:00-07:00
-88.5,Edmonton Lendrum,Relative Humidity,2026-02-17T09:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-17T10:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T10:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-17T10:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T10:00:00-07:00
+0.016,Edmonton Lendrum,Ozone,2026-02-17T10:00:00-07:00
+12.8,Edmonton Lendrum,Wind Speed,2026-02-17T10:00:00-07:00
+0.008,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T10:00:00-07:00
+344.0,Edmonton Lendrum,Wind Direction,2026-02-17T10:00:00-07:00
+0.002,Edmonton Lendrum,Nitric Oxide,2026-02-17T10:00:00-07:00
+0.006,Edmonton Lendrum,Nitrogen Dioxide,2026-02-17T10:00:00-07:00
+87.9,Edmonton Lendrum,Relative Humidity,2026-02-17T10:00:00-07:00
+2.6,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T10:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T10:00:00-07:00
+2.0,Edmonton Lendrum,,2026-02-17T10:00:00-07:00
 0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T09:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-17T09:00:00-07:00
-2.0,Edmonton Lendrum,,2026-02-17T08:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T08:00:00-07:00
-87.8,Edmonton Lendrum,Relative Humidity,2026-02-17T08:00:00-07:00
-2.5,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T08:00:00-07:00
-0.009,Edmonton Lendrum,Nitrogen Dioxide,2026-02-17T08:00:00-07:00
-355.0,Edmonton Lendrum,Wind Direction,2026-02-17T08:00:00-07:00
-0.01,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T08:00:00-07:00
-12.1,Edmonton Lendrum,Wind Speed,2026-02-17T08:00:00-07:00
-0.016,Edmonton Lendrum,Ozone,2026-02-17T08:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T08:00:00-07:00
-0.001,Edmonton Lendrum,Nitric Oxide,2026-02-17T08:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-17T08:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T08:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-17T08:00:00-07:00
+88.5,Edmonton Lendrum,Relative Humidity,2026-02-17T09:00:00-07:00
+2.6,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T09:00:00-07:00
+0.007,Edmonton Lendrum,Nitrogen Dioxide,2026-02-17T09:00:00-07:00
+343.0,Edmonton Lendrum,Wind Direction,2026-02-17T09:00:00-07:00
+0.008,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T09:00:00-07:00
+12.3,Edmonton Lendrum,Wind Speed,2026-02-17T09:00:00-07:00
+0.015,Edmonton Lendrum,Ozone,2026-02-17T09:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T09:00:00-07:00
+0.001,Edmonton Lendrum,Nitric Oxide,2026-02-17T09:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-17T09:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T09:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-17T09:00:00-07:00
+-17.4,Edmonton Lendrum,Outdoor Temperature,2026-02-17T09:00:00-07:00
 -16.9,Edmonton Lendrum,Outdoor Temperature,2026-02-17T08:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-17T08:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T08:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-17T08:00:00-07:00
+0.001,Edmonton Lendrum,Nitric Oxide,2026-02-17T08:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T08:00:00-07:00
+0.016,Edmonton Lendrum,Ozone,2026-02-17T08:00:00-07:00
+12.1,Edmonton Lendrum,Wind Speed,2026-02-17T08:00:00-07:00
+0.01,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T08:00:00-07:00
+355.0,Edmonton Lendrum,Wind Direction,2026-02-17T08:00:00-07:00
+0.009,Edmonton Lendrum,Nitrogen Dioxide,2026-02-17T08:00:00-07:00
+2.5,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T08:00:00-07:00
+87.8,Edmonton Lendrum,Relative Humidity,2026-02-17T08:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T08:00:00-07:00
+2.0,Edmonton Lendrum,,2026-02-17T08:00:00-07:00
 0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T07:00:00-07:00
 0.0,Edmonton Lendrum,Nitric Oxide,2026-02-17T07:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-17T07:00:00-07:00
@@ -2159,36 +2174,36 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton Lendrum,Methane,2026-02-17T06:00:00-07:00
 ,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T06:00:00-07:00
 -15.5,Edmonton Lendrum,Outdoor Temperature,2026-02-17T06:00:00-07:00
-2.0,Edmonton Lendrum,,2026-02-17T05:00:00-07:00
-,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T05:00:00-07:00
-,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T05:00:00-07:00
-,Edmonton Lendrum,Nitric Oxide,2026-02-17T05:00:00-07:00
-89.5,Edmonton Lendrum,Relative Humidity,2026-02-17T05:00:00-07:00
-2.8,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T05:00:00-07:00
-18.0,Edmonton Lendrum,Wind Direction,2026-02-17T05:00:00-07:00
-12.0,Edmonton Lendrum,Wind Speed,2026-02-17T05:00:00-07:00
-,Edmonton Lendrum,Nitrogen Dioxide,2026-02-17T05:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-17T05:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T05:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-17T05:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T05:00:00-07:00
-,Edmonton Lendrum,Ozone,2026-02-17T05:00:00-07:00
 -14.9,Edmonton Lendrum,Outdoor Temperature,2026-02-17T05:00:00-07:00
--15.1,Edmonton Lendrum,Outdoor Temperature,2026-02-17T04:00:00-07:00
-2.5,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T04:00:00-07:00
-0.004,Edmonton Lendrum,Nitrogen Dioxide,2026-02-17T04:00:00-07:00
-0.004,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T04:00:00-07:00
+,Edmonton Lendrum,Ozone,2026-02-17T05:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T05:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-17T05:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T05:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-17T05:00:00-07:00
+,Edmonton Lendrum,Nitrogen Dioxide,2026-02-17T05:00:00-07:00
+12.0,Edmonton Lendrum,Wind Speed,2026-02-17T05:00:00-07:00
+18.0,Edmonton Lendrum,Wind Direction,2026-02-17T05:00:00-07:00
+2.8,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T05:00:00-07:00
+89.5,Edmonton Lendrum,Relative Humidity,2026-02-17T05:00:00-07:00
+,Edmonton Lendrum,Nitric Oxide,2026-02-17T05:00:00-07:00
+,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T05:00:00-07:00
+,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T05:00:00-07:00
+2.0,Edmonton Lendrum,,2026-02-17T05:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-17T04:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T04:00:00-07:00
+0.0,Edmonton Lendrum,Nitric Oxide,2026-02-17T04:00:00-07:00
+90.5,Edmonton Lendrum,Relative Humidity,2026-02-17T04:00:00-07:00
+13.4,Edmonton Lendrum,Wind Speed,2026-02-17T04:00:00-07:00
 0.024,Edmonton Lendrum,Ozone,2026-02-17T04:00:00-07:00
 30.0,Edmonton Lendrum,Wind Direction,2026-02-17T04:00:00-07:00
 ,Edmonton Lendrum,Carbon Monoxide,2026-02-17T04:00:00-07:00
 ,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T04:00:00-07:00
 ,Edmonton Lendrum,Methane,2026-02-17T04:00:00-07:00
 ,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T04:00:00-07:00
-13.4,Edmonton Lendrum,Wind Speed,2026-02-17T04:00:00-07:00
-90.5,Edmonton Lendrum,Relative Humidity,2026-02-17T04:00:00-07:00
-0.0,Edmonton Lendrum,Nitric Oxide,2026-02-17T04:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T04:00:00-07:00
+0.004,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T04:00:00-07:00
+0.004,Edmonton Lendrum,Nitrogen Dioxide,2026-02-17T04:00:00-07:00
+2.5,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T04:00:00-07:00
+-15.1,Edmonton Lendrum,Outdoor Temperature,2026-02-17T04:00:00-07:00
 0.002,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T03:00:00-07:00
 0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T03:00:00-07:00
 0.0,Edmonton Lendrum,Nitric Oxide,2026-02-17T03:00:00-07:00
@@ -2197,13 +2212,13 @@ Value,StationName,ParameterName,ReadingDate
 0.003,Edmonton Lendrum,Nitrogen Dioxide,2026-02-17T03:00:00-07:00
 3.5,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T03:00:00-07:00
 14.3,Edmonton Lendrum,Wind Speed,2026-02-17T03:00:00-07:00
--14.8,Edmonton Lendrum,Outdoor Temperature,2026-02-17T03:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T03:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-17T03:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T03:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-17T03:00:00-07:00
-35.0,Edmonton Lendrum,Wind Direction,2026-02-17T03:00:00-07:00
 0.025,Edmonton Lendrum,Ozone,2026-02-17T03:00:00-07:00
+35.0,Edmonton Lendrum,Wind Direction,2026-02-17T03:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-17T03:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T03:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-17T03:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T03:00:00-07:00
+-14.8,Edmonton Lendrum,Outdoor Temperature,2026-02-17T03:00:00-07:00
 0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T02:00:00-07:00
 0.0,Edmonton Lendrum,Nitric Oxide,2026-02-17T02:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-17T02:00:00-07:00
@@ -2219,66 +2234,66 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T02:00:00-07:00
 3.8,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T02:00:00-07:00
 -14.6,Edmonton Lendrum,Outdoor Temperature,2026-02-17T02:00:00-07:00
-2.0,Edmonton Lendrum,,2026-02-17T01:00:00-07:00
-0.002,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T01:00:00-07:00
--13.8,Edmonton Lendrum,Outdoor Temperature,2026-02-17T01:00:00-07:00
-0.001,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T01:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-17T01:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T01:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T01:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-17T01:00:00-07:00
-45.0,Edmonton Lendrum,Wind Direction,2026-02-17T01:00:00-07:00
-0.028,Edmonton Lendrum,Ozone,2026-02-17T01:00:00-07:00
-15.2,Edmonton Lendrum,Wind Speed,2026-02-17T01:00:00-07:00
-3.8,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T01:00:00-07:00
-0.003,Edmonton Lendrum,Nitrogen Dioxide,2026-02-17T01:00:00-07:00
 92.7,Edmonton Lendrum,Relative Humidity,2026-02-17T01:00:00-07:00
+0.003,Edmonton Lendrum,Nitrogen Dioxide,2026-02-17T01:00:00-07:00
+3.8,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T01:00:00-07:00
+15.2,Edmonton Lendrum,Wind Speed,2026-02-17T01:00:00-07:00
+0.028,Edmonton Lendrum,Ozone,2026-02-17T01:00:00-07:00
+45.0,Edmonton Lendrum,Wind Direction,2026-02-17T01:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-17T01:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T01:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T01:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-17T01:00:00-07:00
+0.001,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T01:00:00-07:00
+-13.8,Edmonton Lendrum,Outdoor Temperature,2026-02-17T01:00:00-07:00
 0.0,Edmonton Lendrum,Nitric Oxide,2026-02-17T01:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-17T00:00:00-07:00
-93.5,Edmonton Lendrum,Relative Humidity,2026-02-17T00:00:00-07:00
-0.005,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T00:00:00-07:00
-0.005,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T00:00:00-07:00
-0.0,Edmonton Lendrum,Nitric Oxide,2026-02-17T00:00:00-07:00
-49.0,Edmonton Lendrum,Wind Direction,2026-02-17T00:00:00-07:00
-3.3,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T00:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T00:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-17T00:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T00:00:00-07:00
+0.002,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T01:00:00-07:00
+2.0,Edmonton Lendrum,,2026-02-17T01:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-17T00:00:00-07:00
 -12.9,Edmonton Lendrum,Outdoor Temperature,2026-02-17T00:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-17T00:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-17T00:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-17T00:00:00-07:00
+3.3,Edmonton Lendrum,Fine Particulate Matter,2026-02-17T00:00:00-07:00
+49.0,Edmonton Lendrum,Wind Direction,2026-02-17T00:00:00-07:00
+0.0,Edmonton Lendrum,Nitric Oxide,2026-02-17T00:00:00-07:00
+0.005,Edmonton Lendrum,Sulphur Dioxide,2026-02-17T00:00:00-07:00
+0.005,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-17T00:00:00-07:00
+93.5,Edmonton Lendrum,Relative Humidity,2026-02-17T00:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-17T00:00:00-07:00
 0.028,Edmonton Lendrum,Ozone,2026-02-17T00:00:00-07:00
 15.0,Edmonton Lendrum,Wind Speed,2026-02-17T00:00:00-07:00
 0.006,Edmonton Lendrum,Nitrogen Dioxide,2026-02-17T00:00:00-07:00
-2.0,Edmonton Lendrum,,2026-02-16T23:00:00-07:00
-92.4,Edmonton Lendrum,Relative Humidity,2026-02-16T23:00:00-07:00
-0.005,Edmonton Lendrum,Nitrogen Dioxide,2026-02-16T23:00:00-07:00
-3.4,Edmonton Lendrum,Fine Particulate Matter,2026-02-16T23:00:00-07:00
-0.029,Edmonton Lendrum,Ozone,2026-02-16T23:00:00-07:00
-14.8,Edmonton Lendrum,Wind Speed,2026-02-16T23:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-16T23:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-16T23:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-16T23:00:00-07:00
-0.005,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-16T23:00:00-07:00
-58.0,Edmonton Lendrum,Wind Direction,2026-02-16T23:00:00-07:00
-0.001,Edmonton Lendrum,Sulphur Dioxide,2026-02-16T23:00:00-07:00
--12.2,Edmonton Lendrum,Outdoor Temperature,2026-02-16T23:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-16T23:00:00-07:00
 0.0,Edmonton Lendrum,Nitric Oxide,2026-02-16T23:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-16T22:00:00-07:00
-91.4,Edmonton Lendrum,Relative Humidity,2026-02-16T22:00:00-07:00
-0.0,Edmonton Lendrum,Nitric Oxide,2026-02-16T22:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-16T22:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-16T22:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-16T22:00:00-07:00
-3.4,Edmonton Lendrum,Fine Particulate Matter,2026-02-16T22:00:00-07:00
-67.0,Edmonton Lendrum,Wind Direction,2026-02-16T22:00:00-07:00
-0.005,Edmonton Lendrum,Nitrogen Dioxide,2026-02-16T22:00:00-07:00
-0.004,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-16T22:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-16T22:00:00-07:00
-14.9,Edmonton Lendrum,Wind Speed,2026-02-16T22:00:00-07:00
-0.03,Edmonton Lendrum,Ozone,2026-02-16T22:00:00-07:00
--11.7,Edmonton Lendrum,Outdoor Temperature,2026-02-16T22:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-16T23:00:00-07:00
+-12.2,Edmonton Lendrum,Outdoor Temperature,2026-02-16T23:00:00-07:00
+0.001,Edmonton Lendrum,Sulphur Dioxide,2026-02-16T23:00:00-07:00
+58.0,Edmonton Lendrum,Wind Direction,2026-02-16T23:00:00-07:00
+0.005,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-16T23:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-16T23:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-16T23:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-16T23:00:00-07:00
+14.8,Edmonton Lendrum,Wind Speed,2026-02-16T23:00:00-07:00
+0.029,Edmonton Lendrum,Ozone,2026-02-16T23:00:00-07:00
+3.4,Edmonton Lendrum,Fine Particulate Matter,2026-02-16T23:00:00-07:00
+0.005,Edmonton Lendrum,Nitrogen Dioxide,2026-02-16T23:00:00-07:00
+92.4,Edmonton Lendrum,Relative Humidity,2026-02-16T23:00:00-07:00
+2.0,Edmonton Lendrum,,2026-02-16T23:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-16T22:00:00-07:00
+-11.7,Edmonton Lendrum,Outdoor Temperature,2026-02-16T22:00:00-07:00
+0.03,Edmonton Lendrum,Ozone,2026-02-16T22:00:00-07:00
+14.9,Edmonton Lendrum,Wind Speed,2026-02-16T22:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-16T22:00:00-07:00
+0.004,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-16T22:00:00-07:00
+0.005,Edmonton Lendrum,Nitrogen Dioxide,2026-02-16T22:00:00-07:00
+67.0,Edmonton Lendrum,Wind Direction,2026-02-16T22:00:00-07:00
+3.4,Edmonton Lendrum,Fine Particulate Matter,2026-02-16T22:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-16T22:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-16T22:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-16T22:00:00-07:00
+0.0,Edmonton Lendrum,Nitric Oxide,2026-02-16T22:00:00-07:00
+91.4,Edmonton Lendrum,Relative Humidity,2026-02-16T22:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-16T22:00:00-07:00
 -11.0,Edmonton Lendrum,Outdoor Temperature,2026-02-16T21:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-16T21:00:00-07:00
 ,Edmonton Lendrum,Methane,2026-02-16T21:00:00-07:00
@@ -2371,61 +2386,46 @@ Value,StationName,ParameterName,ReadingDate
 ,Edmonton Lendrum,Methane,2026-02-16T16:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-16T15:00:00-07:00
 0.031,Edmonton Lendrum,Ozone,2026-02-16T15:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-16T15:00:00-07:00
-85.5,Edmonton Lendrum,Relative Humidity,2026-02-16T15:00:00-07:00
-0.004,Edmonton Lendrum,Nitrogen Dioxide,2026-02-16T15:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-16T15:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-16T15:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-16T15:00:00-07:00
-0.001,Edmonton Lendrum,Nitric Oxide,2026-02-16T15:00:00-07:00
-4.8,Edmonton Lendrum,Fine Particulate Matter,2026-02-16T15:00:00-07:00
-70.0,Edmonton Lendrum,Wind Direction,2026-02-16T15:00:00-07:00
-0.005,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-16T15:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-16T15:00:00-07:00
--6.3,Edmonton Lendrum,Outdoor Temperature,2026-02-16T15:00:00-07:00
 14.5,Edmonton Lendrum,Wind Speed,2026-02-16T15:00:00-07:00
-2.0,Edmonton Lendrum,,2026-02-16T14:00:00-07:00
-0.029,Edmonton Lendrum,Ozone,2026-02-16T14:00:00-07:00
-14.1,Edmonton Lendrum,Wind Speed,2026-02-16T14:00:00-07:00
--6.1,Edmonton Lendrum,Outdoor Temperature,2026-02-16T14:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-16T14:00:00-07:00
-76.0,Edmonton Lendrum,Wind Direction,2026-02-16T14:00:00-07:00
-5.2,Edmonton Lendrum,Fine Particulate Matter,2026-02-16T14:00:00-07:00
-0.005,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-16T14:00:00-07:00
-0.001,Edmonton Lendrum,Nitric Oxide,2026-02-16T14:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-16T14:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-16T14:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-16T14:00:00-07:00
-0.004,Edmonton Lendrum,Nitrogen Dioxide,2026-02-16T14:00:00-07:00
-87.0,Edmonton Lendrum,Relative Humidity,2026-02-16T14:00:00-07:00
+-6.3,Edmonton Lendrum,Outdoor Temperature,2026-02-16T15:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-16T15:00:00-07:00
+0.005,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-16T15:00:00-07:00
+70.0,Edmonton Lendrum,Wind Direction,2026-02-16T15:00:00-07:00
+4.8,Edmonton Lendrum,Fine Particulate Matter,2026-02-16T15:00:00-07:00
+0.001,Edmonton Lendrum,Nitric Oxide,2026-02-16T15:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-16T15:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-16T15:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-16T15:00:00-07:00
+0.004,Edmonton Lendrum,Nitrogen Dioxide,2026-02-16T15:00:00-07:00
+85.5,Edmonton Lendrum,Relative Humidity,2026-02-16T15:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-16T15:00:00-07:00
 ,Edmonton Lendrum,Methane,2026-02-16T14:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-16T13:00:00-07:00
-88.8,Edmonton Lendrum,Relative Humidity,2026-02-16T13:00:00-07:00
-0.004,Edmonton Lendrum,Nitrogen Dioxide,2026-02-16T13:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-16T13:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-16T13:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-16T13:00:00-07:00
-0.001,Edmonton Lendrum,Nitric Oxide,2026-02-16T13:00:00-07:00
-5.7,Edmonton Lendrum,Fine Particulate Matter,2026-02-16T13:00:00-07:00
-77.0,Edmonton Lendrum,Wind Direction,2026-02-16T13:00:00-07:00
-0.004,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-16T13:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-16T13:00:00-07:00
-0.029,Edmonton Lendrum,Ozone,2026-02-16T13:00:00-07:00
--6.5,Edmonton Lendrum,Outdoor Temperature,2026-02-16T13:00:00-07:00
-14.2,Edmonton Lendrum,Wind Speed,2026-02-16T13:00:00-07:00
+87.0,Edmonton Lendrum,Relative Humidity,2026-02-16T14:00:00-07:00
+0.004,Edmonton Lendrum,Nitrogen Dioxide,2026-02-16T14:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-16T14:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-16T14:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-16T14:00:00-07:00
+0.001,Edmonton Lendrum,Nitric Oxide,2026-02-16T14:00:00-07:00
+0.005,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-16T14:00:00-07:00
+5.2,Edmonton Lendrum,Fine Particulate Matter,2026-02-16T14:00:00-07:00
+76.0,Edmonton Lendrum,Wind Direction,2026-02-16T14:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-16T14:00:00-07:00
+-6.1,Edmonton Lendrum,Outdoor Temperature,2026-02-16T14:00:00-07:00
+14.1,Edmonton Lendrum,Wind Speed,2026-02-16T14:00:00-07:00
+0.029,Edmonton Lendrum,Ozone,2026-02-16T14:00:00-07:00
+2.0,Edmonton Lendrum,,2026-02-16T14:00:00-07:00
 2.0,Edmonton Lendrum,,2026-02-16T13:00:00-07:00
-2.0,Edmonton Lendrum,,2026-02-16T12:00:00-07:00
-0.03,Edmonton Lendrum,Ozone,2026-02-16T12:00:00-07:00
-14.8,Edmonton Lendrum,Wind Speed,2026-02-16T12:00:00-07:00
--6.5,Edmonton Lendrum,Outdoor Temperature,2026-02-16T12:00:00-07:00
-0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-16T12:00:00-07:00
-0.005,Edmonton Lendrum,Nitrogen Dioxide,2026-02-16T12:00:00-07:00
-83.0,Edmonton Lendrum,Wind Direction,2026-02-16T12:00:00-07:00
-5.9,Edmonton Lendrum,Fine Particulate Matter,2026-02-16T12:00:00-07:00
-0.006,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-16T12:00:00-07:00
-0.001,Edmonton Lendrum,Nitric Oxide,2026-02-16T12:00:00-07:00
-,Edmonton Lendrum,Carbon Monoxide,2026-02-16T12:00:00-07:00
-,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-16T12:00:00-07:00
-,Edmonton Lendrum,Total Hydrocarbons,2026-02-16T12:00:00-07:00
-90.5,Edmonton Lendrum,Relative Humidity,2026-02-16T12:00:00-07:00
-,Edmonton Lendrum,Methane,2026-02-16T12:00:00-07:00
+14.2,Edmonton Lendrum,Wind Speed,2026-02-16T13:00:00-07:00
+-6.5,Edmonton Lendrum,Outdoor Temperature,2026-02-16T13:00:00-07:00
+0.029,Edmonton Lendrum,Ozone,2026-02-16T13:00:00-07:00
+0.0,Edmonton Lendrum,Sulphur Dioxide,2026-02-16T13:00:00-07:00
+0.004,Edmonton Lendrum,Total Oxides of Nitrogen,2026-02-16T13:00:00-07:00
+77.0,Edmonton Lendrum,Wind Direction,2026-02-16T13:00:00-07:00
+5.7,Edmonton Lendrum,Fine Particulate Matter,2026-02-16T13:00:00-07:00
+0.001,Edmonton Lendrum,Nitric Oxide,2026-02-16T13:00:00-07:00
+,Edmonton Lendrum,Carbon Monoxide,2026-02-16T13:00:00-07:00
+,Edmonton Lendrum,Non-methane Hydrocarbons,2026-02-16T13:00:00-07:00
+,Edmonton Lendrum,Total Hydrocarbons,2026-02-16T13:00:00-07:00
+0.004,Edmonton Lendrum,Nitrogen Dioxide,2026-02-16T13:00:00-07:00
+88.8,Edmonton Lendrum,Relative Humidity,2026-02-16T13:00:00-07:00
+,Edmonton Lendrum,Methane,2026-02-16T13:00:00-07:00
