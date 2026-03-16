@@ -1,4 +1,10 @@
 Value,StationName,ParameterName,ReadingDate
+0.0,Leduc Sensor,Nitrogen Dioxide,2026-03-15T22:00:00-06:00
+3.0,Leduc Sensor,,2026-03-15T22:00:00-06:00
+0.0462,Leduc Sensor,Ozone,2026-03-15T22:00:00-06:00
+-7.6,Leduc Sensor,Outdoor Temperature,2026-03-15T22:00:00-06:00
+82.0,Leduc Sensor,Relative Humidity,2026-03-15T22:00:00-06:00
+7.8,Leduc Sensor,Fine Particulate Matter,2026-03-15T22:00:00-06:00
 3.0,Leduc Sensor,,2026-03-15T21:00:00-06:00
 -6.0,Leduc Sensor,Outdoor Temperature,2026-03-15T21:00:00-06:00
 69.0,Leduc Sensor,Relative Humidity,2026-03-15T21:00:00-06:00
@@ -23,12 +29,12 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Leduc Sensor,Nitrogen Dioxide,2026-03-15T18:00:00-06:00
 48.0,Leduc Sensor,Relative Humidity,2026-03-15T18:00:00-06:00
 -1.8,Leduc Sensor,Outdoor Temperature,2026-03-15T18:00:00-06:00
+3.0,Leduc Sensor,,2026-03-15T17:00:00-06:00
+0.6,Leduc Sensor,Outdoor Temperature,2026-03-15T17:00:00-06:00
 0.0489,Leduc Sensor,Ozone,2026-03-15T17:00:00-06:00
 0.0,Leduc Sensor,Nitrogen Dioxide,2026-03-15T17:00:00-06:00
 8.2,Leduc Sensor,Fine Particulate Matter,2026-03-15T17:00:00-06:00
 39.0,Leduc Sensor,Relative Humidity,2026-03-15T17:00:00-06:00
-0.6,Leduc Sensor,Outdoor Temperature,2026-03-15T17:00:00-06:00
-3.0,Leduc Sensor,,2026-03-15T17:00:00-06:00
 0.0446,Leduc Sensor,Ozone,2026-03-15T16:00:00-06:00
 0.0,Leduc Sensor,Nitrogen Dioxide,2026-03-15T16:00:00-06:00
 11.0,Leduc Sensor,Fine Particulate Matter,2026-03-15T16:00:00-06:00
@@ -41,11 +47,11 @@ Value,StationName,ParameterName,ReadingDate
 0.0435,Leduc Sensor,Ozone,2026-03-15T15:00:00-06:00
 1.6,Leduc Sensor,Outdoor Temperature,2026-03-15T15:00:00-06:00
 3.0,Leduc Sensor,,2026-03-15T15:00:00-06:00
-33.0,Leduc Sensor,Relative Humidity,2026-03-15T14:00:00-06:00
-0.0,Leduc Sensor,Nitrogen Dioxide,2026-03-15T14:00:00-06:00
-0.9,Leduc Sensor,Outdoor Temperature,2026-03-15T14:00:00-06:00
-9.4,Leduc Sensor,Fine Particulate Matter,2026-03-15T14:00:00-06:00
 2.0,Leduc Sensor,,2026-03-15T14:00:00-06:00
+9.4,Leduc Sensor,Fine Particulate Matter,2026-03-15T14:00:00-06:00
+0.9,Leduc Sensor,Outdoor Temperature,2026-03-15T14:00:00-06:00
+0.0,Leduc Sensor,Nitrogen Dioxide,2026-03-15T14:00:00-06:00
+33.0,Leduc Sensor,Relative Humidity,2026-03-15T14:00:00-06:00
 0.0409,Leduc Sensor,Ozone,2026-03-15T14:00:00-06:00
 3.0,Leduc Sensor,,2026-03-15T13:00:00-06:00
 10.5,Leduc Sensor,Fine Particulate Matter,2026-03-15T13:00:00-06:00
@@ -65,11 +71,11 @@ Value,StationName,ParameterName,ReadingDate
 0.0067,Leduc Sensor,Nitrogen Dioxide,2026-03-15T11:00:00-06:00
 27.0,Leduc Sensor,Relative Humidity,2026-03-15T11:00:00-06:00
 16.2,Leduc Sensor,Fine Particulate Matter,2026-03-15T11:00:00-06:00
-19.0,Leduc Sensor,Fine Particulate Matter,2026-03-15T10:00:00-06:00
-36.0,Leduc Sensor,Relative Humidity,2026-03-15T10:00:00-06:00
-0.0233,Leduc Sensor,Ozone,2026-03-15T10:00:00-06:00
--2.6,Leduc Sensor,Outdoor Temperature,2026-03-15T10:00:00-06:00
 3.0,Leduc Sensor,,2026-03-15T10:00:00-06:00
+19.0,Leduc Sensor,Fine Particulate Matter,2026-03-15T10:00:00-06:00
+-2.6,Leduc Sensor,Outdoor Temperature,2026-03-15T10:00:00-06:00
+0.0233,Leduc Sensor,Ozone,2026-03-15T10:00:00-06:00
+36.0,Leduc Sensor,Relative Humidity,2026-03-15T10:00:00-06:00
 0.0085,Leduc Sensor,Nitrogen Dioxide,2026-03-15T10:00:00-06:00
 2.0,Leduc Sensor,,2026-03-15T09:00:00-06:00
 -14.3,Leduc Sensor,Outdoor Temperature,2026-03-15T09:00:00-06:00
@@ -77,36 +83,36 @@ Value,StationName,ParameterName,ReadingDate
 73.0,Leduc Sensor,Relative Humidity,2026-03-15T09:00:00-06:00
 15.7,Leduc Sensor,Fine Particulate Matter,2026-03-15T09:00:00-06:00
 0.0223,Leduc Sensor,Ozone,2026-03-15T09:00:00-06:00
-3.0,Leduc Sensor,,2026-03-15T08:00:00-06:00
-0.0132,Leduc Sensor,Nitrogen Dioxide,2026-03-15T08:00:00-06:00
--15.7,Leduc Sensor,Outdoor Temperature,2026-03-15T08:00:00-06:00
-14.2,Leduc Sensor,Fine Particulate Matter,2026-03-15T08:00:00-06:00
-78.0,Leduc Sensor,Relative Humidity,2026-03-15T08:00:00-06:00
 0.0157,Leduc Sensor,Ozone,2026-03-15T08:00:00-06:00
-14.0,Leduc Sensor,Fine Particulate Matter,2026-03-15T07:00:00-06:00
-74.0,Leduc Sensor,Relative Humidity,2026-03-15T07:00:00-06:00
--15.2,Leduc Sensor,Outdoor Temperature,2026-03-15T07:00:00-06:00
-0.0227,Leduc Sensor,Ozone,2026-03-15T07:00:00-06:00
-0.0073,Leduc Sensor,Nitrogen Dioxide,2026-03-15T07:00:00-06:00
+78.0,Leduc Sensor,Relative Humidity,2026-03-15T08:00:00-06:00
+14.2,Leduc Sensor,Fine Particulate Matter,2026-03-15T08:00:00-06:00
+-15.7,Leduc Sensor,Outdoor Temperature,2026-03-15T08:00:00-06:00
+0.0132,Leduc Sensor,Nitrogen Dioxide,2026-03-15T08:00:00-06:00
+3.0,Leduc Sensor,,2026-03-15T08:00:00-06:00
 2.0,Leduc Sensor,,2026-03-15T07:00:00-06:00
-2.0,Leduc Sensor,,2026-03-15T06:00:00-06:00
--15.2,Leduc Sensor,Outdoor Temperature,2026-03-15T06:00:00-06:00
-15.2,Leduc Sensor,Fine Particulate Matter,2026-03-15T06:00:00-06:00
-0.0229,Leduc Sensor,Ozone,2026-03-15T06:00:00-06:00
-0.0077,Leduc Sensor,Nitrogen Dioxide,2026-03-15T06:00:00-06:00
+0.0073,Leduc Sensor,Nitrogen Dioxide,2026-03-15T07:00:00-06:00
+0.0227,Leduc Sensor,Ozone,2026-03-15T07:00:00-06:00
+-15.2,Leduc Sensor,Outdoor Temperature,2026-03-15T07:00:00-06:00
+74.0,Leduc Sensor,Relative Humidity,2026-03-15T07:00:00-06:00
+14.0,Leduc Sensor,Fine Particulate Matter,2026-03-15T07:00:00-06:00
 71.0,Leduc Sensor,Relative Humidity,2026-03-15T06:00:00-06:00
-2.0,Leduc Sensor,,2026-03-15T05:00:00-06:00
+0.0077,Leduc Sensor,Nitrogen Dioxide,2026-03-15T06:00:00-06:00
+0.0229,Leduc Sensor,Ozone,2026-03-15T06:00:00-06:00
+15.2,Leduc Sensor,Fine Particulate Matter,2026-03-15T06:00:00-06:00
+-15.2,Leduc Sensor,Outdoor Temperature,2026-03-15T06:00:00-06:00
+2.0,Leduc Sensor,,2026-03-15T06:00:00-06:00
 -15.1,Leduc Sensor,Outdoor Temperature,2026-03-15T05:00:00-06:00
+2.0,Leduc Sensor,,2026-03-15T05:00:00-06:00
 14.4,Leduc Sensor,Fine Particulate Matter,2026-03-15T05:00:00-06:00
 0.0055,Leduc Sensor,Nitrogen Dioxide,2026-03-15T05:00:00-06:00
 0.0258,Leduc Sensor,Ozone,2026-03-15T05:00:00-06:00
 68.0,Leduc Sensor,Relative Humidity,2026-03-15T05:00:00-06:00
-2.0,Leduc Sensor,,2026-03-15T04:00:00-06:00
-0.0033,Leduc Sensor,Nitrogen Dioxide,2026-03-15T04:00:00-06:00
--15.7,Leduc Sensor,Outdoor Temperature,2026-03-15T04:00:00-06:00
 13.6,Leduc Sensor,Fine Particulate Matter,2026-03-15T04:00:00-06:00
 69.0,Leduc Sensor,Relative Humidity,2026-03-15T04:00:00-06:00
 0.0289,Leduc Sensor,Ozone,2026-03-15T04:00:00-06:00
+2.0,Leduc Sensor,,2026-03-15T04:00:00-06:00
+0.0033,Leduc Sensor,Nitrogen Dioxide,2026-03-15T04:00:00-06:00
+-15.7,Leduc Sensor,Outdoor Temperature,2026-03-15T04:00:00-06:00
 12.4,Leduc Sensor,Fine Particulate Matter,2026-03-15T03:00:00-06:00
 0.0303,Leduc Sensor,Ozone,2026-03-15T03:00:00-06:00
 66.0,Leduc Sensor,Relative Humidity,2026-03-15T03:00:00-06:00
@@ -119,42 +125,42 @@ Value,StationName,ParameterName,ReadingDate
 0.0328,Leduc Sensor,Ozone,2026-03-15T02:00:00-06:00
 -16.0,Leduc Sensor,Outdoor Temperature,2026-03-15T02:00:00-06:00
 0.0005,Leduc Sensor,Nitrogen Dioxide,2026-03-15T02:00:00-06:00
-0.0338,Leduc Sensor,Ozone,2026-03-15T01:00:00-06:00
-63.0,Leduc Sensor,Relative Humidity,2026-03-15T01:00:00-06:00
-0.0003,Leduc Sensor,Nitrogen Dioxide,2026-03-15T01:00:00-06:00
-10.2,Leduc Sensor,Fine Particulate Matter,2026-03-15T01:00:00-06:00
--16.0,Leduc Sensor,Outdoor Temperature,2026-03-15T01:00:00-06:00
 2.0,Leduc Sensor,,2026-03-15T01:00:00-06:00
+-16.0,Leduc Sensor,Outdoor Temperature,2026-03-15T01:00:00-06:00
+10.2,Leduc Sensor,Fine Particulate Matter,2026-03-15T01:00:00-06:00
+0.0003,Leduc Sensor,Nitrogen Dioxide,2026-03-15T01:00:00-06:00
+63.0,Leduc Sensor,Relative Humidity,2026-03-15T01:00:00-06:00
+0.0338,Leduc Sensor,Ozone,2026-03-15T01:00:00-06:00
 2.0,Leduc Sensor,,2026-03-15T00:00:00-06:00
 0.0,Leduc Sensor,Nitrogen Dioxide,2026-03-15T00:00:00-06:00
 8.5,Leduc Sensor,Fine Particulate Matter,2026-03-15T00:00:00-06:00
 59.0,Leduc Sensor,Relative Humidity,2026-03-15T00:00:00-06:00
 -16.0,Leduc Sensor,Outdoor Temperature,2026-03-15T00:00:00-06:00
 0.0354,Leduc Sensor,Ozone,2026-03-15T00:00:00-06:00
-0.0,Leduc Sensor,Nitrogen Dioxide,2026-03-14T23:00:00-06:00
--15.7,Leduc Sensor,Outdoor Temperature,2026-03-14T23:00:00-06:00
-0.0361,Leduc Sensor,Ozone,2026-03-14T23:00:00-06:00
-6.8,Leduc Sensor,Fine Particulate Matter,2026-03-14T23:00:00-06:00
-55.0,Leduc Sensor,Relative Humidity,2026-03-14T23:00:00-06:00
 2.0,Leduc Sensor,,2026-03-14T23:00:00-06:00
+55.0,Leduc Sensor,Relative Humidity,2026-03-14T23:00:00-06:00
+6.8,Leduc Sensor,Fine Particulate Matter,2026-03-14T23:00:00-06:00
+0.0361,Leduc Sensor,Ozone,2026-03-14T23:00:00-06:00
+-15.7,Leduc Sensor,Outdoor Temperature,2026-03-14T23:00:00-06:00
+0.0,Leduc Sensor,Nitrogen Dioxide,2026-03-14T23:00:00-06:00
+2.0,Leduc Sensor,,2026-03-14T22:00:00-06:00
 0.0,Leduc Sensor,Nitrogen Dioxide,2026-03-14T22:00:00-06:00
 0.036,Leduc Sensor,Ozone,2026-03-14T22:00:00-06:00
 6.0,Leduc Sensor,Fine Particulate Matter,2026-03-14T22:00:00-06:00
 -15.6,Leduc Sensor,Outdoor Temperature,2026-03-14T22:00:00-06:00
 52.0,Leduc Sensor,Relative Humidity,2026-03-14T22:00:00-06:00
-2.0,Leduc Sensor,,2026-03-14T22:00:00-06:00
-0.0,Leduc Sensor,Nitrogen Dioxide,2026-03-14T21:00:00-06:00
-6.6,Leduc Sensor,Fine Particulate Matter,2026-03-14T21:00:00-06:00
--15.0,Leduc Sensor,Outdoor Temperature,2026-03-14T21:00:00-06:00
-50.0,Leduc Sensor,Relative Humidity,2026-03-14T21:00:00-06:00
-0.0342,Leduc Sensor,Ozone,2026-03-14T21:00:00-06:00
 2.0,Leduc Sensor,,2026-03-14T21:00:00-06:00
-0.0,Leduc Sensor,Nitrogen Dioxide,2026-03-14T20:00:00-06:00
-0.036,Leduc Sensor,Ozone,2026-03-14T20:00:00-06:00
--13.4,Leduc Sensor,Outdoor Temperature,2026-03-14T20:00:00-06:00
-45.0,Leduc Sensor,Relative Humidity,2026-03-14T20:00:00-06:00
-6.3,Leduc Sensor,Fine Particulate Matter,2026-03-14T20:00:00-06:00
+0.0342,Leduc Sensor,Ozone,2026-03-14T21:00:00-06:00
+50.0,Leduc Sensor,Relative Humidity,2026-03-14T21:00:00-06:00
+-15.0,Leduc Sensor,Outdoor Temperature,2026-03-14T21:00:00-06:00
+6.6,Leduc Sensor,Fine Particulate Matter,2026-03-14T21:00:00-06:00
+0.0,Leduc Sensor,Nitrogen Dioxide,2026-03-14T21:00:00-06:00
 2.0,Leduc Sensor,,2026-03-14T20:00:00-06:00
+6.3,Leduc Sensor,Fine Particulate Matter,2026-03-14T20:00:00-06:00
+45.0,Leduc Sensor,Relative Humidity,2026-03-14T20:00:00-06:00
+-13.4,Leduc Sensor,Outdoor Temperature,2026-03-14T20:00:00-06:00
+0.036,Leduc Sensor,Ozone,2026-03-14T20:00:00-06:00
+0.0,Leduc Sensor,Nitrogen Dioxide,2026-03-14T20:00:00-06:00
 2.0,Leduc Sensor,,2026-03-14T19:00:00-06:00
 6.2,Leduc Sensor,Fine Particulate Matter,2026-03-14T19:00:00-06:00
 37.0,Leduc Sensor,Relative Humidity,2026-03-14T19:00:00-06:00
@@ -167,12 +173,12 @@ Value,StationName,ParameterName,ReadingDate
 -7.5,Leduc Sensor,Outdoor Temperature,2026-03-14T18:00:00-06:00
 0.0377,Leduc Sensor,Ozone,2026-03-14T18:00:00-06:00
 0.0,Leduc Sensor,Nitrogen Dioxide,2026-03-14T18:00:00-06:00
-2.0,Leduc Sensor,,2026-03-14T17:00:00-06:00
--5.6,Leduc Sensor,Outdoor Temperature,2026-03-14T17:00:00-06:00
-0.0386,Leduc Sensor,Ozone,2026-03-14T17:00:00-06:00
-22.0,Leduc Sensor,Relative Humidity,2026-03-14T17:00:00-06:00
-5.1,Leduc Sensor,Fine Particulate Matter,2026-03-14T17:00:00-06:00
 0.0,Leduc Sensor,Nitrogen Dioxide,2026-03-14T17:00:00-06:00
+5.1,Leduc Sensor,Fine Particulate Matter,2026-03-14T17:00:00-06:00
+22.0,Leduc Sensor,Relative Humidity,2026-03-14T17:00:00-06:00
+0.0386,Leduc Sensor,Ozone,2026-03-14T17:00:00-06:00
+-5.6,Leduc Sensor,Outdoor Temperature,2026-03-14T17:00:00-06:00
+2.0,Leduc Sensor,,2026-03-14T17:00:00-06:00
 2.0,Leduc Sensor,,2026-03-14T16:00:00-06:00
 5.2,Leduc Sensor,Fine Particulate Matter,2026-03-14T16:00:00-06:00
 19.0,Leduc Sensor,Relative Humidity,2026-03-14T16:00:00-06:00
@@ -180,17 +186,17 @@ Value,StationName,ParameterName,ReadingDate
 -4.7,Leduc Sensor,Outdoor Temperature,2026-03-14T16:00:00-06:00
 0.0,Leduc Sensor,Nitrogen Dioxide,2026-03-14T16:00:00-06:00
 2.0,Leduc Sensor,,2026-03-14T15:00:00-06:00
-18.0,Leduc Sensor,Relative Humidity,2026-03-14T15:00:00-06:00
--3.6,Leduc Sensor,Outdoor Temperature,2026-03-14T15:00:00-06:00
-5.2,Leduc Sensor,Fine Particulate Matter,2026-03-14T15:00:00-06:00
-0.0368,Leduc Sensor,Ozone,2026-03-14T15:00:00-06:00
 0.0,Leduc Sensor,Nitrogen Dioxide,2026-03-14T15:00:00-06:00
-2.0,Leduc Sensor,,2026-03-14T14:00:00-06:00
-0.0002,Leduc Sensor,Nitrogen Dioxide,2026-03-14T14:00:00-06:00
--3.7,Leduc Sensor,Outdoor Temperature,2026-03-14T14:00:00-06:00
-5.1,Leduc Sensor,Fine Particulate Matter,2026-03-14T14:00:00-06:00
-21.0,Leduc Sensor,Relative Humidity,2026-03-14T14:00:00-06:00
+0.0368,Leduc Sensor,Ozone,2026-03-14T15:00:00-06:00
+5.2,Leduc Sensor,Fine Particulate Matter,2026-03-14T15:00:00-06:00
+-3.6,Leduc Sensor,Outdoor Temperature,2026-03-14T15:00:00-06:00
+18.0,Leduc Sensor,Relative Humidity,2026-03-14T15:00:00-06:00
 0.0324,Leduc Sensor,Ozone,2026-03-14T14:00:00-06:00
+21.0,Leduc Sensor,Relative Humidity,2026-03-14T14:00:00-06:00
+5.1,Leduc Sensor,Fine Particulate Matter,2026-03-14T14:00:00-06:00
+-3.7,Leduc Sensor,Outdoor Temperature,2026-03-14T14:00:00-06:00
+0.0002,Leduc Sensor,Nitrogen Dioxide,2026-03-14T14:00:00-06:00
+2.0,Leduc Sensor,,2026-03-14T14:00:00-06:00
 2.0,Leduc Sensor,,2026-03-14T13:00:00-06:00
 0.0321,Leduc Sensor,Ozone,2026-03-14T13:00:00-06:00
 21.0,Leduc Sensor,Relative Humidity,2026-03-14T13:00:00-06:00
@@ -341,24 +347,24 @@ Value,StationName,ParameterName,ReadingDate
 43.0,Leduc Sensor,Relative Humidity,2026-03-13T13:00:00-06:00
 0.0282,Leduc Sensor,Ozone,2026-03-13T13:00:00-06:00
 7.4,Leduc Sensor,Fine Particulate Matter,2026-03-13T13:00:00-06:00
-,Leduc Sensor,,2026-03-13T12:00:00-06:00
--9.3,Leduc Sensor,Outdoor Temperature,2026-03-13T12:00:00-06:00
-45.0,Leduc Sensor,Relative Humidity,2026-03-13T12:00:00-06:00
-0.0261,Leduc Sensor,Ozone,2026-03-13T12:00:00-06:00
-8.3,Leduc Sensor,Fine Particulate Matter,2026-03-13T12:00:00-06:00
 0.0002,Leduc Sensor,Nitrogen Dioxide,2026-03-13T12:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-13T11:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-13T11:00:00-06:00
-,Leduc Sensor,,2026-03-13T11:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-13T11:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-13T11:00:00-06:00
+8.3,Leduc Sensor,Fine Particulate Matter,2026-03-13T12:00:00-06:00
+0.0261,Leduc Sensor,Ozone,2026-03-13T12:00:00-06:00
+45.0,Leduc Sensor,Relative Humidity,2026-03-13T12:00:00-06:00
+-9.3,Leduc Sensor,Outdoor Temperature,2026-03-13T12:00:00-06:00
+,Leduc Sensor,,2026-03-13T12:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-13T11:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-13T11:00:00-06:00
+,Leduc Sensor,Outdoor Temperature,2026-03-13T11:00:00-06:00
+,Leduc Sensor,,2026-03-13T11:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-13T11:00:00-06:00
+,Leduc Sensor,Fine Particulate Matter,2026-03-13T11:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-13T10:00:00-06:00
 ,Leduc Sensor,,2026-03-13T10:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-13T10:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-13T10:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-13T10:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-13T10:00:00-06:00
+,Leduc Sensor,Fine Particulate Matter,2026-03-13T10:00:00-06:00
 ,Leduc Sensor,,2026-03-13T09:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-13T09:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-13T09:00:00-06:00
@@ -371,17 +377,17 @@ Value,StationName,ParameterName,ReadingDate
 ,Leduc Sensor,Relative Humidity,2026-03-13T08:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-13T08:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-13T08:00:00-06:00
-,Leduc Sensor,Nitrogen Dioxide,2026-03-13T07:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-13T07:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-13T07:00:00-06:00
-,Leduc Sensor,,2026-03-13T07:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-13T07:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-13T07:00:00-06:00
-,Leduc Sensor,Nitrogen Dioxide,2026-03-13T06:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-13T06:00:00-06:00
-,Leduc Sensor,,2026-03-13T06:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-13T06:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-13T07:00:00-06:00
+,Leduc Sensor,,2026-03-13T07:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-13T07:00:00-06:00
+,Leduc Sensor,Outdoor Temperature,2026-03-13T07:00:00-06:00
+,Leduc Sensor,Nitrogen Dioxide,2026-03-13T07:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-13T06:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-13T06:00:00-06:00
+,Leduc Sensor,,2026-03-13T06:00:00-06:00
+,Leduc Sensor,Outdoor Temperature,2026-03-13T06:00:00-06:00
+,Leduc Sensor,Nitrogen Dioxide,2026-03-13T06:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-13T06:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-13T05:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-13T05:00:00-06:00
@@ -395,17 +401,17 @@ Value,StationName,ParameterName,ReadingDate
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-13T04:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-13T04:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-13T04:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-13T03:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-13T03:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-13T03:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-13T03:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-13T03:00:00-06:00
 ,Leduc Sensor,,2026-03-13T03:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-13T03:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-13T02:00:00-06:00
-,Leduc Sensor,,2026-03-13T02:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-13T02:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-13T02:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-13T02:00:00-06:00
+,Leduc Sensor,Outdoor Temperature,2026-03-13T02:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-13T02:00:00-06:00
+,Leduc Sensor,,2026-03-13T02:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-13T02:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-13T02:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-13T01:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-13T01:00:00-06:00
@@ -419,36 +425,36 @@ Value,StationName,ParameterName,ReadingDate
 ,Leduc Sensor,Outdoor Temperature,2026-03-13T00:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-13T00:00:00-06:00
 ,Leduc Sensor,,2026-03-13T00:00:00-06:00
-,Leduc Sensor,,2026-03-12T23:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-12T23:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-12T23:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-12T23:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-12T23:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-12T23:00:00-06:00
+,Leduc Sensor,Fine Particulate Matter,2026-03-12T23:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-12T23:00:00-06:00
+,Leduc Sensor,,2026-03-12T23:00:00-06:00
 ,Leduc Sensor,,2026-03-12T22:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-12T22:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-12T22:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-12T22:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-12T22:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-12T22:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-12T21:00:00-06:00
-,Leduc Sensor,Nitrogen Dioxide,2026-03-12T21:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-12T21:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-12T21:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-12T21:00:00-06:00
 ,Leduc Sensor,,2026-03-12T21:00:00-06:00
+,Leduc Sensor,Outdoor Temperature,2026-03-12T21:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-12T21:00:00-06:00
+,Leduc Sensor,Fine Particulate Matter,2026-03-12T21:00:00-06:00
+,Leduc Sensor,Nitrogen Dioxide,2026-03-12T21:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-12T21:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-12T20:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-12T20:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-12T20:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-12T20:00:00-06:00
 ,Leduc Sensor,,2026-03-12T20:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-12T20:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-12T19:00:00-06:00
-,Leduc Sensor,,2026-03-12T19:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-12T19:00:00-06:00
-,Leduc Sensor,Nitrogen Dioxide,2026-03-12T19:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-12T19:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-12T19:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-12T19:00:00-06:00
+,Leduc Sensor,Nitrogen Dioxide,2026-03-12T19:00:00-06:00
+,Leduc Sensor,Fine Particulate Matter,2026-03-12T19:00:00-06:00
+,Leduc Sensor,,2026-03-12T19:00:00-06:00
+,Leduc Sensor,Outdoor Temperature,2026-03-12T19:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-12T18:00:00-06:00
 ,Leduc Sensor,,2026-03-12T18:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-12T18:00:00-06:00
@@ -467,30 +473,30 @@ Value,StationName,ParameterName,ReadingDate
 ,Leduc Sensor,Outdoor Temperature,2026-03-12T16:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-12T16:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-12T16:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-12T15:00:00-06:00
-,Leduc Sensor,Nitrogen Dioxide,2026-03-12T15:00:00-06:00
-,Leduc Sensor,,2026-03-12T15:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-12T15:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-12T15:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-12T15:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-12T14:00:00-06:00
-,Leduc Sensor,,2026-03-12T14:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-12T14:00:00-06:00
-,Leduc Sensor,Nitrogen Dioxide,2026-03-12T14:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-12T14:00:00-06:00
+,Leduc Sensor,Outdoor Temperature,2026-03-12T15:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-12T15:00:00-06:00
+,Leduc Sensor,,2026-03-12T15:00:00-06:00
+,Leduc Sensor,Nitrogen Dioxide,2026-03-12T15:00:00-06:00
+,Leduc Sensor,Fine Particulate Matter,2026-03-12T15:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-12T14:00:00-06:00
+,Leduc Sensor,Outdoor Temperature,2026-03-12T14:00:00-06:00
+,Leduc Sensor,Nitrogen Dioxide,2026-03-12T14:00:00-06:00
+,Leduc Sensor,Fine Particulate Matter,2026-03-12T14:00:00-06:00
+,Leduc Sensor,,2026-03-12T14:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-12T14:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-12T13:00:00-06:00
 ,Leduc Sensor,,2026-03-12T13:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-12T13:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-12T13:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-12T13:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-12T13:00:00-06:00
-,Leduc Sensor,Nitrogen Dioxide,2026-03-12T12:00:00-06:00
-,Leduc Sensor,,2026-03-12T12:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-12T12:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-12T12:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-12T12:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-12T12:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-12T12:00:00-06:00
+,Leduc Sensor,Outdoor Temperature,2026-03-12T12:00:00-06:00
+,Leduc Sensor,Fine Particulate Matter,2026-03-12T12:00:00-06:00
+,Leduc Sensor,,2026-03-12T12:00:00-06:00
+,Leduc Sensor,Nitrogen Dioxide,2026-03-12T12:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-12T11:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-12T11:00:00-06:00
 ,Leduc Sensor,,2026-03-12T11:00:00-06:00
@@ -503,42 +509,42 @@ Value,StationName,ParameterName,ReadingDate
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-12T10:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-12T10:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-12T10:00:00-06:00
-,Leduc Sensor,,2026-03-12T09:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-12T09:00:00-06:00
-,Leduc Sensor,Nitrogen Dioxide,2026-03-12T09:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-12T09:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-12T09:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-12T09:00:00-06:00
-,Leduc Sensor,Nitrogen Dioxide,2026-03-12T08:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-12T08:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-12T08:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-12T08:00:00-06:00
-,Leduc Sensor,,2026-03-12T08:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-12T09:00:00-06:00
+,Leduc Sensor,Fine Particulate Matter,2026-03-12T09:00:00-06:00
+,Leduc Sensor,Nitrogen Dioxide,2026-03-12T09:00:00-06:00
+,Leduc Sensor,Outdoor Temperature,2026-03-12T09:00:00-06:00
+,Leduc Sensor,,2026-03-12T09:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-12T08:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-12T07:00:00-06:00
+,Leduc Sensor,,2026-03-12T08:00:00-06:00
+,Leduc Sensor,Fine Particulate Matter,2026-03-12T08:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-12T08:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-12T08:00:00-06:00
+,Leduc Sensor,Nitrogen Dioxide,2026-03-12T08:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-12T07:00:00-06:00
 ,Leduc Sensor,,2026-03-12T07:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-12T07:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-12T07:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-12T07:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-12T07:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-12T06:00:00-06:00
-,Leduc Sensor,,2026-03-12T06:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-12T06:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-12T06:00:00-06:00
-,Leduc Sensor,Nitrogen Dioxide,2026-03-12T06:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-12T06:00:00-06:00
-,Leduc Sensor,Nitrogen Dioxide,2026-03-12T05:00:00-06:00
-,Leduc Sensor,,2026-03-12T05:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-12T05:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-12T05:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-12T05:00:00-06:00
+,Leduc Sensor,Nitrogen Dioxide,2026-03-12T06:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-12T06:00:00-06:00
+,Leduc Sensor,Fine Particulate Matter,2026-03-12T06:00:00-06:00
+,Leduc Sensor,,2026-03-12T06:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-12T05:00:00-06:00
-,Leduc Sensor,,2026-03-12T04:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-12T04:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-12T04:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-12T04:00:00-06:00
-,Leduc Sensor,Nitrogen Dioxide,2026-03-12T04:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-12T05:00:00-06:00
+,Leduc Sensor,Outdoor Temperature,2026-03-12T05:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-12T05:00:00-06:00
+,Leduc Sensor,,2026-03-12T05:00:00-06:00
+,Leduc Sensor,Nitrogen Dioxide,2026-03-12T05:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-12T04:00:00-06:00
+,Leduc Sensor,Nitrogen Dioxide,2026-03-12T04:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-12T04:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-12T04:00:00-06:00
+,Leduc Sensor,Outdoor Temperature,2026-03-12T04:00:00-06:00
+,Leduc Sensor,,2026-03-12T04:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-12T03:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-12T03:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-12T03:00:00-06:00
@@ -551,11 +557,11 @@ Value,StationName,ParameterName,ReadingDate
 ,Leduc Sensor,Fine Particulate Matter,2026-03-12T02:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-12T02:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-12T02:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-12T01:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-12T01:00:00-06:00
-,Leduc Sensor,Nitrogen Dioxide,2026-03-12T01:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-12T01:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-12T01:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-12T01:00:00-06:00
+,Leduc Sensor,Nitrogen Dioxide,2026-03-12T01:00:00-06:00
+,Leduc Sensor,Fine Particulate Matter,2026-03-12T01:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-12T01:00:00-06:00
 ,Leduc Sensor,,2026-03-12T01:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-12T00:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-12T00:00:00-06:00
@@ -593,12 +599,12 @@ Value,StationName,ParameterName,ReadingDate
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-11T19:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-11T19:00:00-06:00
 ,Leduc Sensor,,2026-03-11T19:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-11T18:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-11T18:00:00-06:00
-,Leduc Sensor,,2026-03-11T18:00:00-06:00
-,Leduc Sensor,Nitrogen Dioxide,2026-03-11T18:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-11T18:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-11T18:00:00-06:00
+,Leduc Sensor,Fine Particulate Matter,2026-03-11T18:00:00-06:00
+,Leduc Sensor,Nitrogen Dioxide,2026-03-11T18:00:00-06:00
+,Leduc Sensor,,2026-03-11T18:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-11T18:00:00-06:00
+,Leduc Sensor,Outdoor Temperature,2026-03-11T18:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-11T17:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-11T17:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-11T17:00:00-06:00
@@ -611,14 +617,14 @@ Value,StationName,ParameterName,ReadingDate
 ,Leduc Sensor,Outdoor Temperature,2026-03-11T16:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-11T16:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-11T16:00:00-06:00
-,Leduc Sensor,Nitrogen Dioxide,2026-03-11T15:00:00-06:00
-,Leduc Sensor,,2026-03-11T15:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-11T15:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-11T15:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-11T15:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-11T15:00:00-06:00
-,Leduc Sensor,Nitrogen Dioxide,2026-03-11T14:00:00-06:00
+,Leduc Sensor,Outdoor Temperature,2026-03-11T15:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-11T15:00:00-06:00
+,Leduc Sensor,,2026-03-11T15:00:00-06:00
+,Leduc Sensor,Nitrogen Dioxide,2026-03-11T15:00:00-06:00
 ,Leduc Sensor,,2026-03-11T14:00:00-06:00
+,Leduc Sensor,Nitrogen Dioxide,2026-03-11T14:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-11T14:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-11T14:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-11T14:00:00-06:00
@@ -659,15 +665,15 @@ Value,StationName,ParameterName,ReadingDate
 ,Leduc Sensor,Relative Humidity,2026-03-11T08:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-11T08:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-11T08:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-11T07:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-11T07:00:00-06:00
-,Leduc Sensor,Nitrogen Dioxide,2026-03-11T07:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-11T07:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-11T07:00:00-06:00
 ,Leduc Sensor,,2026-03-11T07:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-11T06:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-11T06:00:00-06:00
+,Leduc Sensor,Nitrogen Dioxide,2026-03-11T07:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-11T07:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-11T07:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-11T06:00:00-06:00
+,Leduc Sensor,Outdoor Temperature,2026-03-11T06:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-11T06:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-11T06:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-11T06:00:00-06:00
 ,Leduc Sensor,,2026-03-11T06:00:00-06:00
@@ -707,12 +713,12 @@ Value,StationName,ParameterName,ReadingDate
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-11T00:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-11T00:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-11T00:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-10T23:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-10T23:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-10T23:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-10T23:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-10T23:00:00-06:00
 ,Leduc Sensor,,2026-03-10T23:00:00-06:00
+,Leduc Sensor,Fine Particulate Matter,2026-03-10T23:00:00-06:00
+,Leduc Sensor,Outdoor Temperature,2026-03-10T23:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-10T22:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-10T22:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-10T22:00:00-06:00
@@ -738,11 +744,11 @@ Value,StationName,ParameterName,ReadingDate
 ,Leduc Sensor,Ozone,2026-03-10T19:00:00-06:00
 ,Leduc Sensor,,2026-03-10T19:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-10T18:00:00-06:00
-,Leduc Sensor,,2026-03-10T18:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-10T18:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-10T18:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-10T18:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-10T18:00:00-06:00
+,Leduc Sensor,Fine Particulate Matter,2026-03-10T18:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-10T18:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-10T18:00:00-06:00
+,Leduc Sensor,,2026-03-10T18:00:00-06:00
 ,Leduc Sensor,,2026-03-10T17:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-10T17:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-10T17:00:00-06:00
@@ -755,12 +761,12 @@ Value,StationName,ParameterName,ReadingDate
 ,Leduc Sensor,Relative Humidity,2026-03-10T16:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-10T16:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-10T16:00:00-06:00
-,Leduc Sensor,,2026-03-10T15:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-10T15:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-10T15:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-10T15:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-10T15:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-10T15:00:00-06:00
+,Leduc Sensor,Outdoor Temperature,2026-03-10T15:00:00-06:00
+,Leduc Sensor,Fine Particulate Matter,2026-03-10T15:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-10T15:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-10T15:00:00-06:00
+,Leduc Sensor,,2026-03-10T15:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-10T14:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-10T14:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-10T14:00:00-06:00
@@ -786,56 +792,56 @@ Value,StationName,ParameterName,ReadingDate
 ,Leduc Sensor,Outdoor Temperature,2026-03-10T11:00:00-06:00
 ,Leduc Sensor,,2026-03-10T11:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-10T10:00:00-06:00
-,Leduc Sensor,,2026-03-10T10:00:00-06:00
-,Leduc Sensor,Nitrogen Dioxide,2026-03-10T10:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-10T10:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-10T10:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-10T10:00:00-06:00
+,Leduc Sensor,Fine Particulate Matter,2026-03-10T10:00:00-06:00
+,Leduc Sensor,Nitrogen Dioxide,2026-03-10T10:00:00-06:00
+,Leduc Sensor,,2026-03-10T10:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-10T10:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-10T09:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-10T09:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-10T09:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-10T09:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-10T09:00:00-06:00
 ,Leduc Sensor,,2026-03-10T09:00:00-06:00
-,Leduc Sensor,,2026-03-10T08:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-10T08:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-10T08:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-10T08:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-10T08:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-10T08:00:00-06:00
+,Leduc Sensor,Outdoor Temperature,2026-03-10T08:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-10T08:00:00-06:00
+,Leduc Sensor,Fine Particulate Matter,2026-03-10T08:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-10T08:00:00-06:00
+,Leduc Sensor,,2026-03-10T08:00:00-06:00
 ,Leduc Sensor,,2026-03-10T07:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-10T07:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-10T07:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-10T07:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-10T07:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-10T07:00:00-06:00
-,Leduc Sensor,,2026-03-10T06:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-10T06:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-10T06:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-10T06:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-10T06:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-10T06:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-10T05:00:00-06:00
+,Leduc Sensor,Fine Particulate Matter,2026-03-10T06:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-10T06:00:00-06:00
+,Leduc Sensor,Outdoor Temperature,2026-03-10T06:00:00-06:00
+,Leduc Sensor,,2026-03-10T06:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-10T05:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-10T05:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-10T05:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-10T05:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-10T05:00:00-06:00
 ,Leduc Sensor,,2026-03-10T05:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-10T04:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-10T04:00:00-06:00
-,Leduc Sensor,,2026-03-10T04:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-10T04:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-10T04:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-10T04:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-10T03:00:00-06:00
+,Leduc Sensor,Fine Particulate Matter,2026-03-10T04:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-10T04:00:00-06:00
+,Leduc Sensor,,2026-03-10T04:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-10T03:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-10T03:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-10T03:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-10T03:00:00-06:00
 ,Leduc Sensor,,2026-03-10T03:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-10T03:00:00-06:00
+,Leduc Sensor,Outdoor Temperature,2026-03-10T02:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-10T02:00:00-06:00
 ,Leduc Sensor,Relative Humidity,2026-03-10T02:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-10T02:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-10T02:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-10T02:00:00-06:00
 ,Leduc Sensor,,2026-03-10T02:00:00-06:00
@@ -935,12 +941,12 @@ Value,StationName,ParameterName,ReadingDate
 ,Leduc Sensor,Relative Humidity,2026-03-09T10:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-09T10:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-09T10:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-09T09:00:00-06:00
-,Leduc Sensor,Nitrogen Dioxide,2026-03-09T09:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-09T09:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-09T09:00:00-06:00
-,Leduc Sensor,,2026-03-09T09:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-09T09:00:00-06:00
+,Leduc Sensor,,2026-03-09T09:00:00-06:00
+,Leduc Sensor,Outdoor Temperature,2026-03-09T09:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-09T09:00:00-06:00
+,Leduc Sensor,Nitrogen Dioxide,2026-03-09T09:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-09T09:00:00-06:00
 ,Leduc Sensor,Fine Particulate Matter,2026-03-09T08:00:00-06:00
 ,Leduc Sensor,,2026-03-09T08:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-09T08:00:00-06:00
@@ -953,21 +959,9 @@ Value,StationName,ParameterName,ReadingDate
 ,Leduc Sensor,Relative Humidity,2026-03-09T07:00:00-06:00
 ,Leduc Sensor,Nitrogen Dioxide,2026-03-09T07:00:00-06:00
 ,Leduc Sensor,Ozone,2026-03-09T07:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-09T06:00:00-06:00
-,Leduc Sensor,,2026-03-09T06:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-09T06:00:00-06:00
-,Leduc Sensor,Nitrogen Dioxide,2026-03-09T06:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-09T06:00:00-06:00
 ,Leduc Sensor,Outdoor Temperature,2026-03-09T06:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-09T05:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-09T05:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-09T05:00:00-06:00
-,Leduc Sensor,Nitrogen Dioxide,2026-03-09T05:00:00-06:00
-,Leduc Sensor,,2026-03-09T05:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-09T05:00:00-06:00
-,Leduc Sensor,Nitrogen Dioxide,2026-03-09T04:00:00-06:00
-,Leduc Sensor,Outdoor Temperature,2026-03-09T04:00:00-06:00
-,Leduc Sensor,Relative Humidity,2026-03-09T04:00:00-06:00
-,Leduc Sensor,Ozone,2026-03-09T04:00:00-06:00
-,Leduc Sensor,,2026-03-09T04:00:00-06:00
-,Leduc Sensor,Fine Particulate Matter,2026-03-09T04:00:00-06:00
+,Leduc Sensor,Ozone,2026-03-09T06:00:00-06:00
+,Leduc Sensor,Nitrogen Dioxide,2026-03-09T06:00:00-06:00
+,Leduc Sensor,Relative Humidity,2026-03-09T06:00:00-06:00
+,Leduc Sensor,,2026-03-09T06:00:00-06:00
+,Leduc Sensor,Fine Particulate Matter,2026-03-09T06:00:00-06:00
