@@ -1,4 +1,12 @@
 Value,StationName,ParameterName,ReadingDate
+-3.4,Wagner2,Outdoor Temperature,2026-03-15T23:00:00-06:00
+6.5,Wagner2,Wind Speed,2026-03-15T23:00:00-06:00
+0.002,Wagner2,Total Oxides of Nitrogen,2026-03-15T23:00:00-06:00
+0.002,Wagner2,Nitrogen Dioxide,2026-03-15T23:00:00-06:00
+56.0,Wagner2,Relative Humidity,2026-03-15T23:00:00-06:00
+0.0,Wagner2,Sulphur Dioxide,2026-03-15T23:00:00-06:00
+90.0,Wagner2,Wind Direction,2026-03-15T23:00:00-06:00
+0.0,Wagner2,Nitric Oxide,2026-03-15T23:00:00-06:00
 88.0,Wagner2,Wind Direction,2026-03-15T22:00:00-06:00
 5.3,Wagner2,Wind Speed,2026-03-15T22:00:00-06:00
 55.7,Wagner2,Relative Humidity,2026-03-15T22:00:00-06:00
@@ -7,14 +15,14 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Wagner2,Sulphur Dioxide,2026-03-15T22:00:00-06:00
 0.001,Wagner2,Nitrogen Dioxide,2026-03-15T22:00:00-06:00
 0.001,Wagner2,Total Oxides of Nitrogen,2026-03-15T22:00:00-06:00
--2.3,Wagner2,Outdoor Temperature,2026-03-15T21:00:00-06:00
-4.9,Wagner2,Wind Speed,2026-03-15T21:00:00-06:00
-0.001,Wagner2,Total Oxides of Nitrogen,2026-03-15T21:00:00-06:00
-0.0,Wagner2,Nitric Oxide,2026-03-15T21:00:00-06:00
-54.7,Wagner2,Relative Humidity,2026-03-15T21:00:00-06:00
-0.001,Wagner2,Nitrogen Dioxide,2026-03-15T21:00:00-06:00
-0.0,Wagner2,Sulphur Dioxide,2026-03-15T21:00:00-06:00
 112.0,Wagner2,Wind Direction,2026-03-15T21:00:00-06:00
+0.0,Wagner2,Sulphur Dioxide,2026-03-15T21:00:00-06:00
+0.001,Wagner2,Nitrogen Dioxide,2026-03-15T21:00:00-06:00
+54.7,Wagner2,Relative Humidity,2026-03-15T21:00:00-06:00
+0.0,Wagner2,Nitric Oxide,2026-03-15T21:00:00-06:00
+0.001,Wagner2,Total Oxides of Nitrogen,2026-03-15T21:00:00-06:00
+4.9,Wagner2,Wind Speed,2026-03-15T21:00:00-06:00
+-2.3,Wagner2,Outdoor Temperature,2026-03-15T21:00:00-06:00
 4.8,Wagner2,Wind Speed,2026-03-15T20:00:00-06:00
 136.0,Wagner2,Wind Direction,2026-03-15T20:00:00-06:00
 0.001,Wagner2,Total Oxides of Nitrogen,2026-03-15T20:00:00-06:00
@@ -209,20 +217,20 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Wagner2,Nitric Oxide,2026-03-14T21:00:00-06:00
 0.001,Wagner2,Nitrogen Dioxide,2026-03-14T20:00:00-06:00
 0.001,Wagner2,Total Oxides of Nitrogen,2026-03-14T20:00:00-06:00
-0.0,Wagner2,Nitric Oxide,2026-03-14T20:00:00-06:00
-0.0,Wagner2,Sulphur Dioxide,2026-03-14T20:00:00-06:00
-6.7,Wagner2,Wind Speed,2026-03-14T20:00:00-06:00
-115.0,Wagner2,Wind Direction,2026-03-14T20:00:00-06:00
--11.1,Wagner2,Outdoor Temperature,2026-03-14T20:00:00-06:00
 57.6,Wagner2,Relative Humidity,2026-03-14T20:00:00-06:00
-0.0,Wagner2,Sulphur Dioxide,2026-03-14T19:00:00-06:00
-7.7,Wagner2,Wind Speed,2026-03-14T19:00:00-06:00
-114.0,Wagner2,Wind Direction,2026-03-14T19:00:00-06:00
--8.8,Wagner2,Outdoor Temperature,2026-03-14T19:00:00-06:00
-50.7,Wagner2,Relative Humidity,2026-03-14T19:00:00-06:00
-0.004,Wagner2,Nitrogen Dioxide,2026-03-14T19:00:00-06:00
+-11.1,Wagner2,Outdoor Temperature,2026-03-14T20:00:00-06:00
+115.0,Wagner2,Wind Direction,2026-03-14T20:00:00-06:00
+6.7,Wagner2,Wind Speed,2026-03-14T20:00:00-06:00
+0.0,Wagner2,Sulphur Dioxide,2026-03-14T20:00:00-06:00
+0.0,Wagner2,Nitric Oxide,2026-03-14T20:00:00-06:00
 0.005,Wagner2,Total Oxides of Nitrogen,2026-03-14T19:00:00-06:00
 0.001,Wagner2,Nitric Oxide,2026-03-14T19:00:00-06:00
+0.004,Wagner2,Nitrogen Dioxide,2026-03-14T19:00:00-06:00
+50.7,Wagner2,Relative Humidity,2026-03-14T19:00:00-06:00
+-8.8,Wagner2,Outdoor Temperature,2026-03-14T19:00:00-06:00
+114.0,Wagner2,Wind Direction,2026-03-14T19:00:00-06:00
+7.7,Wagner2,Wind Speed,2026-03-14T19:00:00-06:00
+0.0,Wagner2,Sulphur Dioxide,2026-03-14T19:00:00-06:00
 -7.8,Wagner2,Outdoor Temperature,2026-03-14T18:00:00-06:00
 118.0,Wagner2,Wind Direction,2026-03-14T18:00:00-06:00
 6.2,Wagner2,Wind Speed,2026-03-14T18:00:00-06:00
@@ -271,14 +279,14 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Wagner2,Sulphur Dioxide,2026-03-14T13:00:00-06:00
 0.0,Wagner2,Nitric Oxide,2026-03-14T13:00:00-06:00
 0.0,Wagner2,Nitrogen Dioxide,2026-03-14T13:00:00-06:00
-0.0,Wagner2,Total Oxides of Nitrogen,2026-03-14T12:00:00-06:00
-0.0,Wagner2,Nitrogen Dioxide,2026-03-14T12:00:00-06:00
-0.0,Wagner2,Nitric Oxide,2026-03-14T12:00:00-06:00
-0.0,Wagner2,Sulphur Dioxide,2026-03-14T12:00:00-06:00
-3.7,Wagner2,Wind Speed,2026-03-14T12:00:00-06:00
-147.0,Wagner2,Wind Direction,2026-03-14T12:00:00-06:00
--12.1,Wagner2,Outdoor Temperature,2026-03-14T12:00:00-06:00
 59.0,Wagner2,Relative Humidity,2026-03-14T12:00:00-06:00
+-12.1,Wagner2,Outdoor Temperature,2026-03-14T12:00:00-06:00
+147.0,Wagner2,Wind Direction,2026-03-14T12:00:00-06:00
+3.7,Wagner2,Wind Speed,2026-03-14T12:00:00-06:00
+0.0,Wagner2,Sulphur Dioxide,2026-03-14T12:00:00-06:00
+0.0,Wagner2,Nitric Oxide,2026-03-14T12:00:00-06:00
+0.0,Wagner2,Nitrogen Dioxide,2026-03-14T12:00:00-06:00
+0.0,Wagner2,Total Oxides of Nitrogen,2026-03-14T12:00:00-06:00
 0.0,Wagner2,Nitrogen Dioxide,2026-03-14T11:00:00-06:00
 0.0,Wagner2,Total Oxides of Nitrogen,2026-03-14T11:00:00-06:00
 0.0,Wagner2,Nitric Oxide,2026-03-14T11:00:00-06:00
@@ -287,30 +295,30 @@ Value,StationName,ParameterName,ReadingDate
 113.0,Wagner2,Wind Direction,2026-03-14T11:00:00-06:00
 -13.0,Wagner2,Outdoor Temperature,2026-03-14T11:00:00-06:00
 62.8,Wagner2,Relative Humidity,2026-03-14T11:00:00-06:00
-0.0,Wagner2,Total Oxides of Nitrogen,2026-03-14T10:00:00-06:00
-0.0,Wagner2,Nitrogen Dioxide,2026-03-14T10:00:00-06:00
-0.0,Wagner2,Nitric Oxide,2026-03-14T10:00:00-06:00
-0.0,Wagner2,Sulphur Dioxide,2026-03-14T10:00:00-06:00
-6.2,Wagner2,Wind Speed,2026-03-14T10:00:00-06:00
 85.0,Wagner2,Wind Direction,2026-03-14T10:00:00-06:00
 -13.9,Wagner2,Outdoor Temperature,2026-03-14T10:00:00-06:00
 64.0,Wagner2,Relative Humidity,2026-03-14T10:00:00-06:00
-0.0,Wagner2,Total Oxides of Nitrogen,2026-03-14T09:00:00-06:00
-0.0,Wagner2,Nitrogen Dioxide,2026-03-14T09:00:00-06:00
-0.0,Wagner2,Nitric Oxide,2026-03-14T09:00:00-06:00
-0.0,Wagner2,Sulphur Dioxide,2026-03-14T09:00:00-06:00
-3.3,Wagner2,Wind Speed,2026-03-14T09:00:00-06:00
+6.2,Wagner2,Wind Speed,2026-03-14T10:00:00-06:00
+0.0,Wagner2,Sulphur Dioxide,2026-03-14T10:00:00-06:00
+0.0,Wagner2,Nitric Oxide,2026-03-14T10:00:00-06:00
+0.0,Wagner2,Nitrogen Dioxide,2026-03-14T10:00:00-06:00
+0.0,Wagner2,Total Oxides of Nitrogen,2026-03-14T10:00:00-06:00
 67.9,Wagner2,Relative Humidity,2026-03-14T09:00:00-06:00
 -14.3,Wagner2,Outdoor Temperature,2026-03-14T09:00:00-06:00
 36.0,Wagner2,Wind Direction,2026-03-14T09:00:00-06:00
-0.0,Wagner2,Sulphur Dioxide,2026-03-14T08:00:00-06:00
-0.0,Wagner2,Nitric Oxide,2026-03-14T08:00:00-06:00
-0.0,Wagner2,Total Oxides of Nitrogen,2026-03-14T08:00:00-06:00
-0.001,Wagner2,Nitrogen Dioxide,2026-03-14T08:00:00-06:00
-70.8,Wagner2,Relative Humidity,2026-03-14T08:00:00-06:00
--14.5,Wagner2,Outdoor Temperature,2026-03-14T08:00:00-06:00
-20.0,Wagner2,Wind Direction,2026-03-14T08:00:00-06:00
+3.3,Wagner2,Wind Speed,2026-03-14T09:00:00-06:00
+0.0,Wagner2,Sulphur Dioxide,2026-03-14T09:00:00-06:00
+0.0,Wagner2,Nitric Oxide,2026-03-14T09:00:00-06:00
+0.0,Wagner2,Nitrogen Dioxide,2026-03-14T09:00:00-06:00
+0.0,Wagner2,Total Oxides of Nitrogen,2026-03-14T09:00:00-06:00
 2.5,Wagner2,Wind Speed,2026-03-14T08:00:00-06:00
+20.0,Wagner2,Wind Direction,2026-03-14T08:00:00-06:00
+-14.5,Wagner2,Outdoor Temperature,2026-03-14T08:00:00-06:00
+70.8,Wagner2,Relative Humidity,2026-03-14T08:00:00-06:00
+0.001,Wagner2,Nitrogen Dioxide,2026-03-14T08:00:00-06:00
+0.0,Wagner2,Total Oxides of Nitrogen,2026-03-14T08:00:00-06:00
+0.0,Wagner2,Nitric Oxide,2026-03-14T08:00:00-06:00
+0.0,Wagner2,Sulphur Dioxide,2026-03-14T08:00:00-06:00
 0.001,Wagner2,Nitrogen Dioxide,2026-03-14T07:00:00-06:00
 72.1,Wagner2,Relative Humidity,2026-03-14T07:00:00-06:00
 -13.9,Wagner2,Outdoor Temperature,2026-03-14T07:00:00-06:00
@@ -319,6 +327,7 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Wagner2,Sulphur Dioxide,2026-03-14T07:00:00-06:00
 0.0,Wagner2,Nitric Oxide,2026-03-14T07:00:00-06:00
 0.0,Wagner2,Total Oxides of Nitrogen,2026-03-14T07:00:00-06:00
+0.001,Wagner2,Nitrogen Dioxide,2026-03-14T06:00:00-06:00
 72.7,Wagner2,Relative Humidity,2026-03-14T06:00:00-06:00
 -13.6,Wagner2,Outdoor Temperature,2026-03-14T06:00:00-06:00
 15.0,Wagner2,Wind Direction,2026-03-14T06:00:00-06:00
@@ -326,55 +335,54 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Wagner2,Sulphur Dioxide,2026-03-14T06:00:00-06:00
 0.0,Wagner2,Nitric Oxide,2026-03-14T06:00:00-06:00
 0.0,Wagner2,Total Oxides of Nitrogen,2026-03-14T06:00:00-06:00
-0.001,Wagner2,Nitrogen Dioxide,2026-03-14T06:00:00-06:00
-,Wagner2,Total Oxides of Nitrogen,2026-03-14T05:00:00-06:00
-,Wagner2,Nitrogen Dioxide,2026-03-14T05:00:00-06:00
-,Wagner2,Nitric Oxide,2026-03-14T05:00:00-06:00
-,Wagner2,Sulphur Dioxide,2026-03-14T05:00:00-06:00
-4.3,Wagner2,Wind Speed,2026-03-14T05:00:00-06:00
-21.0,Wagner2,Wind Direction,2026-03-14T05:00:00-06:00
--13.4,Wagner2,Outdoor Temperature,2026-03-14T05:00:00-06:00
 73.9,Wagner2,Relative Humidity,2026-03-14T05:00:00-06:00
-352.0,Wagner2,Wind Direction,2026-03-14T04:00:00-06:00
--13.0,Wagner2,Outdoor Temperature,2026-03-14T04:00:00-06:00
-75.3,Wagner2,Relative Humidity,2026-03-14T04:00:00-06:00
-0.001,Wagner2,Total Oxides of Nitrogen,2026-03-14T04:00:00-06:00
+-13.4,Wagner2,Outdoor Temperature,2026-03-14T05:00:00-06:00
+21.0,Wagner2,Wind Direction,2026-03-14T05:00:00-06:00
+4.3,Wagner2,Wind Speed,2026-03-14T05:00:00-06:00
+,Wagner2,Sulphur Dioxide,2026-03-14T05:00:00-06:00
+,Wagner2,Nitric Oxide,2026-03-14T05:00:00-06:00
+,Wagner2,Nitrogen Dioxide,2026-03-14T05:00:00-06:00
+,Wagner2,Total Oxides of Nitrogen,2026-03-14T05:00:00-06:00
 0.001,Wagner2,Nitrogen Dioxide,2026-03-14T04:00:00-06:00
 0.0,Wagner2,Nitric Oxide,2026-03-14T04:00:00-06:00
 0.0,Wagner2,Sulphur Dioxide,2026-03-14T04:00:00-06:00
 4.7,Wagner2,Wind Speed,2026-03-14T04:00:00-06:00
-12.0,Wagner2,Wind Direction,2026-03-14T03:00:00-06:00
--12.5,Wagner2,Outdoor Temperature,2026-03-14T03:00:00-06:00
-74.2,Wagner2,Relative Humidity,2026-03-14T03:00:00-06:00
-0.002,Wagner2,Nitrogen Dioxide,2026-03-14T03:00:00-06:00
+0.001,Wagner2,Total Oxides of Nitrogen,2026-03-14T04:00:00-06:00
+75.3,Wagner2,Relative Humidity,2026-03-14T04:00:00-06:00
+-13.0,Wagner2,Outdoor Temperature,2026-03-14T04:00:00-06:00
+352.0,Wagner2,Wind Direction,2026-03-14T04:00:00-06:00
 0.002,Wagner2,Total Oxides of Nitrogen,2026-03-14T03:00:00-06:00
+0.002,Wagner2,Nitrogen Dioxide,2026-03-14T03:00:00-06:00
+74.2,Wagner2,Relative Humidity,2026-03-14T03:00:00-06:00
+-12.5,Wagner2,Outdoor Temperature,2026-03-14T03:00:00-06:00
+12.0,Wagner2,Wind Direction,2026-03-14T03:00:00-06:00
 4.3,Wagner2,Wind Speed,2026-03-14T03:00:00-06:00
 0.0,Wagner2,Sulphur Dioxide,2026-03-14T03:00:00-06:00
 0.0,Wagner2,Nitric Oxide,2026-03-14T03:00:00-06:00
 0.0,Wagner2,Nitric Oxide,2026-03-14T02:00:00-06:00
 0.002,Wagner2,Sulphur Dioxide,2026-03-14T02:00:00-06:00
 0.005,Wagner2,Total Oxides of Nitrogen,2026-03-14T02:00:00-06:00
-0.005,Wagner2,Nitrogen Dioxide,2026-03-14T02:00:00-06:00
-71.2,Wagner2,Relative Humidity,2026-03-14T02:00:00-06:00
--12.3,Wagner2,Outdoor Temperature,2026-03-14T02:00:00-06:00
-32.0,Wagner2,Wind Direction,2026-03-14T02:00:00-06:00
 2.5,Wagner2,Wind Speed,2026-03-14T02:00:00-06:00
-0.0,Wagner2,Nitric Oxide,2026-03-14T01:00:00-06:00
-2.5,Wagner2,Wind Speed,2026-03-14T01:00:00-06:00
--12.3,Wagner2,Outdoor Temperature,2026-03-14T01:00:00-06:00
-0.006,Wagner2,Total Oxides of Nitrogen,2026-03-14T01:00:00-06:00
-44.0,Wagner2,Wind Direction,2026-03-14T01:00:00-06:00
-0.006,Wagner2,Nitrogen Dioxide,2026-03-14T01:00:00-06:00
-70.2,Wagner2,Relative Humidity,2026-03-14T01:00:00-06:00
+32.0,Wagner2,Wind Direction,2026-03-14T02:00:00-06:00
+-12.3,Wagner2,Outdoor Temperature,2026-03-14T02:00:00-06:00
+71.2,Wagner2,Relative Humidity,2026-03-14T02:00:00-06:00
+0.005,Wagner2,Nitrogen Dioxide,2026-03-14T02:00:00-06:00
 0.003,Wagner2,Sulphur Dioxide,2026-03-14T01:00:00-06:00
+70.2,Wagner2,Relative Humidity,2026-03-14T01:00:00-06:00
+0.006,Wagner2,Nitrogen Dioxide,2026-03-14T01:00:00-06:00
+44.0,Wagner2,Wind Direction,2026-03-14T01:00:00-06:00
+0.006,Wagner2,Total Oxides of Nitrogen,2026-03-14T01:00:00-06:00
+-12.3,Wagner2,Outdoor Temperature,2026-03-14T01:00:00-06:00
+2.5,Wagner2,Wind Speed,2026-03-14T01:00:00-06:00
+0.0,Wagner2,Nitric Oxide,2026-03-14T01:00:00-06:00
+2.3,Wagner2,Wind Speed,2026-03-14T00:00:00-06:00
+0.01,Wagner2,Nitrogen Dioxide,2026-03-14T00:00:00-06:00
+0.01,Wagner2,Total Oxides of Nitrogen,2026-03-14T00:00:00-06:00
+70.0,Wagner2,Relative Humidity,2026-03-14T00:00:00-06:00
+3.0,Wagner2,Wind Direction,2026-03-14T00:00:00-06:00
+-12.1,Wagner2,Outdoor Temperature,2026-03-14T00:00:00-06:00
 0.004,Wagner2,Sulphur Dioxide,2026-03-14T00:00:00-06:00
 0.0,Wagner2,Nitric Oxide,2026-03-14T00:00:00-06:00
--12.1,Wagner2,Outdoor Temperature,2026-03-14T00:00:00-06:00
-3.0,Wagner2,Wind Direction,2026-03-14T00:00:00-06:00
-70.0,Wagner2,Relative Humidity,2026-03-14T00:00:00-06:00
-0.01,Wagner2,Total Oxides of Nitrogen,2026-03-14T00:00:00-06:00
-0.01,Wagner2,Nitrogen Dioxide,2026-03-14T00:00:00-06:00
-2.3,Wagner2,Wind Speed,2026-03-14T00:00:00-06:00
 0.0,Wagner2,Nitric Oxide,2026-03-13T23:00:00-06:00
 2.9,Wagner2,Wind Speed,2026-03-13T23:00:00-06:00
 -11.8,Wagner2,Outdoor Temperature,2026-03-13T23:00:00-06:00
@@ -383,14 +391,14 @@ Value,StationName,ParameterName,ReadingDate
 0.012,Wagner2,Total Oxides of Nitrogen,2026-03-13T23:00:00-06:00
 11.0,Wagner2,Wind Direction,2026-03-13T23:00:00-06:00
 0.006,Wagner2,Sulphur Dioxide,2026-03-13T23:00:00-06:00
-0.0,Wagner2,Nitric Oxide,2026-03-13T22:00:00-06:00
-30.0,Wagner2,Wind Direction,2026-03-13T22:00:00-06:00
--11.0,Wagner2,Outdoor Temperature,2026-03-13T22:00:00-06:00
-70.9,Wagner2,Relative Humidity,2026-03-13T22:00:00-06:00
-0.016,Wagner2,Total Oxides of Nitrogen,2026-03-13T22:00:00-06:00
-0.017,Wagner2,Nitrogen Dioxide,2026-03-13T22:00:00-06:00
-0.008,Wagner2,Sulphur Dioxide,2026-03-13T22:00:00-06:00
 5.5,Wagner2,Wind Speed,2026-03-13T22:00:00-06:00
+0.008,Wagner2,Sulphur Dioxide,2026-03-13T22:00:00-06:00
+0.017,Wagner2,Nitrogen Dioxide,2026-03-13T22:00:00-06:00
+0.016,Wagner2,Total Oxides of Nitrogen,2026-03-13T22:00:00-06:00
+70.9,Wagner2,Relative Humidity,2026-03-13T22:00:00-06:00
+-11.0,Wagner2,Outdoor Temperature,2026-03-13T22:00:00-06:00
+30.0,Wagner2,Wind Direction,2026-03-13T22:00:00-06:00
+0.0,Wagner2,Nitric Oxide,2026-03-13T22:00:00-06:00
 6.2,Wagner2,Wind Speed,2026-03-13T21:00:00-06:00
 0.015,Wagner2,Nitrogen Dioxide,2026-03-13T21:00:00-06:00
 0.015,Wagner2,Total Oxides of Nitrogen,2026-03-13T21:00:00-06:00
@@ -473,12 +481,12 @@ Value,StationName,ParameterName,ReadingDate
 92.0,Wagner2,Wind Direction,2026-03-13T12:00:00-06:00
 ,Wagner2,Total Oxides of Nitrogen,2026-03-13T11:00:00-06:00
 ,Wagner2,Nitric Oxide,2026-03-13T11:00:00-06:00
-,Wagner2,Nitrogen Dioxide,2026-03-13T11:00:00-06:00
-,Wagner2,Sulphur Dioxide,2026-03-13T11:00:00-06:00
-7.4,Wagner2,Wind Speed,2026-03-13T11:00:00-06:00
-68.5,Wagner2,Relative Humidity,2026-03-13T11:00:00-06:00
--12.3,Wagner2,Outdoor Temperature,2026-03-13T11:00:00-06:00
 89.0,Wagner2,Wind Direction,2026-03-13T11:00:00-06:00
+-12.3,Wagner2,Outdoor Temperature,2026-03-13T11:00:00-06:00
+68.5,Wagner2,Relative Humidity,2026-03-13T11:00:00-06:00
+7.4,Wagner2,Wind Speed,2026-03-13T11:00:00-06:00
+,Wagner2,Sulphur Dioxide,2026-03-13T11:00:00-06:00
+,Wagner2,Nitrogen Dioxide,2026-03-13T11:00:00-06:00
 0.0,Wagner2,Sulphur Dioxide,2026-03-13T10:00:00-06:00
 1.6,Wagner2,Wind Speed,2026-03-13T10:00:00-06:00
 0.007,Wagner2,Total Oxides of Nitrogen,2026-03-13T10:00:00-06:00
@@ -495,22 +503,22 @@ Value,StationName,ParameterName,ReadingDate
 80.0,Wagner2,Relative Humidity,2026-03-13T09:00:00-06:00
 -18.4,Wagner2,Outdoor Temperature,2026-03-13T09:00:00-06:00
 321.0,Wagner2,Wind Direction,2026-03-13T09:00:00-06:00
-312.0,Wagner2,Wind Direction,2026-03-13T08:00:00-06:00
--20.0,Wagner2,Outdoor Temperature,2026-03-13T08:00:00-06:00
-84.8,Wagner2,Relative Humidity,2026-03-13T08:00:00-06:00
-1.1,Wagner2,Wind Speed,2026-03-13T08:00:00-06:00
-0.002,Wagner2,Nitrogen Dioxide,2026-03-13T08:00:00-06:00
-0.002,Wagner2,Total Oxides of Nitrogen,2026-03-13T08:00:00-06:00
-0.0,Wagner2,Sulphur Dioxide,2026-03-13T08:00:00-06:00
 0.0,Wagner2,Nitric Oxide,2026-03-13T08:00:00-06:00
-0.001,Wagner2,Total Oxides of Nitrogen,2026-03-13T07:00:00-06:00
-0.001,Wagner2,Nitrogen Dioxide,2026-03-13T07:00:00-06:00
-0.0,Wagner2,Nitric Oxide,2026-03-13T07:00:00-06:00
-0.0,Wagner2,Sulphur Dioxide,2026-03-13T07:00:00-06:00
-1.1,Wagner2,Wind Speed,2026-03-13T07:00:00-06:00
-84.9,Wagner2,Relative Humidity,2026-03-13T07:00:00-06:00
--18.7,Wagner2,Outdoor Temperature,2026-03-13T07:00:00-06:00
+0.0,Wagner2,Sulphur Dioxide,2026-03-13T08:00:00-06:00
+0.002,Wagner2,Total Oxides of Nitrogen,2026-03-13T08:00:00-06:00
+0.002,Wagner2,Nitrogen Dioxide,2026-03-13T08:00:00-06:00
+1.1,Wagner2,Wind Speed,2026-03-13T08:00:00-06:00
+84.8,Wagner2,Relative Humidity,2026-03-13T08:00:00-06:00
+-20.0,Wagner2,Outdoor Temperature,2026-03-13T08:00:00-06:00
+312.0,Wagner2,Wind Direction,2026-03-13T08:00:00-06:00
 317.0,Wagner2,Wind Direction,2026-03-13T07:00:00-06:00
+-18.7,Wagner2,Outdoor Temperature,2026-03-13T07:00:00-06:00
+84.9,Wagner2,Relative Humidity,2026-03-13T07:00:00-06:00
+1.1,Wagner2,Wind Speed,2026-03-13T07:00:00-06:00
+0.0,Wagner2,Sulphur Dioxide,2026-03-13T07:00:00-06:00
+0.0,Wagner2,Nitric Oxide,2026-03-13T07:00:00-06:00
+0.001,Wagner2,Nitrogen Dioxide,2026-03-13T07:00:00-06:00
+0.001,Wagner2,Total Oxides of Nitrogen,2026-03-13T07:00:00-06:00
 0.001,Wagner2,Total Oxides of Nitrogen,2026-03-13T06:00:00-06:00
 0.001,Wagner2,Nitrogen Dioxide,2026-03-13T06:00:00-06:00
 0.0,Wagner2,Nitric Oxide,2026-03-13T06:00:00-06:00
@@ -524,17 +532,17 @@ Value,StationName,ParameterName,ReadingDate
 79.4,Wagner2,Relative Humidity,2026-03-13T05:00:00-06:00
 -13.8,Wagner2,Outdoor Temperature,2026-03-13T05:00:00-06:00
 11.0,Wagner2,Wind Direction,2026-03-13T05:00:00-06:00
-,Wagner2,Total Oxides of Nitrogen,2026-03-13T05:00:00-06:00
-,Wagner2,Nitric Oxide,2026-03-13T05:00:00-06:00
 ,Wagner2,Nitrogen Dioxide,2026-03-13T05:00:00-06:00
-0.001,Wagner2,Sulphur Dioxide,2026-03-13T04:00:00-06:00
-0.001,Wagner2,Total Oxides of Nitrogen,2026-03-13T04:00:00-06:00
-0.0,Wagner2,Nitric Oxide,2026-03-13T04:00:00-06:00
-0.002,Wagner2,Nitrogen Dioxide,2026-03-13T04:00:00-06:00
-2.1,Wagner2,Wind Speed,2026-03-13T04:00:00-06:00
-79.7,Wagner2,Relative Humidity,2026-03-13T04:00:00-06:00
--13.4,Wagner2,Outdoor Temperature,2026-03-13T04:00:00-06:00
+,Wagner2,Nitric Oxide,2026-03-13T05:00:00-06:00
+,Wagner2,Total Oxides of Nitrogen,2026-03-13T05:00:00-06:00
 344.0,Wagner2,Wind Direction,2026-03-13T04:00:00-06:00
+-13.4,Wagner2,Outdoor Temperature,2026-03-13T04:00:00-06:00
+79.7,Wagner2,Relative Humidity,2026-03-13T04:00:00-06:00
+2.1,Wagner2,Wind Speed,2026-03-13T04:00:00-06:00
+0.002,Wagner2,Nitrogen Dioxide,2026-03-13T04:00:00-06:00
+0.0,Wagner2,Nitric Oxide,2026-03-13T04:00:00-06:00
+0.001,Wagner2,Total Oxides of Nitrogen,2026-03-13T04:00:00-06:00
+0.001,Wagner2,Sulphur Dioxide,2026-03-13T04:00:00-06:00
 0.001,Wagner2,Sulphur Dioxide,2026-03-13T03:00:00-06:00
 0.0,Wagner2,Nitric Oxide,2026-03-13T03:00:00-06:00
 0.002,Wagner2,Total Oxides of Nitrogen,2026-03-13T03:00:00-06:00
@@ -543,14 +551,14 @@ Value,StationName,ParameterName,ReadingDate
 84.4,Wagner2,Relative Humidity,2026-03-13T03:00:00-06:00
 -14.4,Wagner2,Outdoor Temperature,2026-03-13T03:00:00-06:00
 329.0,Wagner2,Wind Direction,2026-03-13T03:00:00-06:00
+0.0,Wagner2,Nitric Oxide,2026-03-13T02:00:00-06:00
+0.001,Wagner2,Sulphur Dioxide,2026-03-13T02:00:00-06:00
+0.003,Wagner2,Nitrogen Dioxide,2026-03-13T02:00:00-06:00
+0.003,Wagner2,Total Oxides of Nitrogen,2026-03-13T02:00:00-06:00
 350.0,Wagner2,Wind Direction,2026-03-13T02:00:00-06:00
 -13.5,Wagner2,Outdoor Temperature,2026-03-13T02:00:00-06:00
 81.8,Wagner2,Relative Humidity,2026-03-13T02:00:00-06:00
 1.9,Wagner2,Wind Speed,2026-03-13T02:00:00-06:00
-0.003,Wagner2,Total Oxides of Nitrogen,2026-03-13T02:00:00-06:00
-0.003,Wagner2,Nitrogen Dioxide,2026-03-13T02:00:00-06:00
-0.001,Wagner2,Sulphur Dioxide,2026-03-13T02:00:00-06:00
-0.0,Wagner2,Nitric Oxide,2026-03-13T02:00:00-06:00
 0.005,Wagner2,Total Oxides of Nitrogen,2026-03-13T01:00:00-06:00
 0.005,Wagner2,Nitrogen Dioxide,2026-03-13T01:00:00-06:00
 24.0,Wagner2,Wind Direction,2026-03-13T01:00:00-06:00
@@ -559,22 +567,22 @@ Value,StationName,ParameterName,ReadingDate
 2.0,Wagner2,Wind Speed,2026-03-13T01:00:00-06:00
 0.0,Wagner2,Sulphur Dioxide,2026-03-13T01:00:00-06:00
 0.0,Wagner2,Nitric Oxide,2026-03-13T01:00:00-06:00
+316.0,Wagner2,Wind Direction,2026-03-13T00:00:00-06:00
+-12.3,Wagner2,Outdoor Temperature,2026-03-13T00:00:00-06:00
+2.4,Wagner2,Wind Speed,2026-03-13T00:00:00-06:00
+0.005,Wagner2,Nitrogen Dioxide,2026-03-13T00:00:00-06:00
+81.6,Wagner2,Relative Humidity,2026-03-13T00:00:00-06:00
+0.005,Wagner2,Total Oxides of Nitrogen,2026-03-13T00:00:00-06:00
 0.0,Wagner2,Nitric Oxide,2026-03-13T00:00:00-06:00
 0.0,Wagner2,Sulphur Dioxide,2026-03-13T00:00:00-06:00
-0.005,Wagner2,Total Oxides of Nitrogen,2026-03-13T00:00:00-06:00
-81.6,Wagner2,Relative Humidity,2026-03-13T00:00:00-06:00
-0.005,Wagner2,Nitrogen Dioxide,2026-03-13T00:00:00-06:00
-2.4,Wagner2,Wind Speed,2026-03-13T00:00:00-06:00
--12.3,Wagner2,Outdoor Temperature,2026-03-13T00:00:00-06:00
-316.0,Wagner2,Wind Direction,2026-03-13T00:00:00-06:00
-0.0,Wagner2,Nitric Oxide,2026-03-12T23:00:00-06:00
-0.0,Wagner2,Sulphur Dioxide,2026-03-12T23:00:00-06:00
-340.0,Wagner2,Wind Direction,2026-03-12T23:00:00-06:00
-0.004,Wagner2,Nitrogen Dioxide,2026-03-12T23:00:00-06:00
--12.1,Wagner2,Outdoor Temperature,2026-03-12T23:00:00-06:00
-3.1,Wagner2,Wind Speed,2026-03-12T23:00:00-06:00
-81.4,Wagner2,Relative Humidity,2026-03-12T23:00:00-06:00
 0.004,Wagner2,Total Oxides of Nitrogen,2026-03-12T23:00:00-06:00
+81.4,Wagner2,Relative Humidity,2026-03-12T23:00:00-06:00
+3.1,Wagner2,Wind Speed,2026-03-12T23:00:00-06:00
+-12.1,Wagner2,Outdoor Temperature,2026-03-12T23:00:00-06:00
+0.004,Wagner2,Nitrogen Dioxide,2026-03-12T23:00:00-06:00
+340.0,Wagner2,Wind Direction,2026-03-12T23:00:00-06:00
+0.0,Wagner2,Sulphur Dioxide,2026-03-12T23:00:00-06:00
+0.0,Wagner2,Nitric Oxide,2026-03-12T23:00:00-06:00
 0.005,Wagner2,Total Oxides of Nitrogen,2026-03-12T22:00:00-06:00
 80.7,Wagner2,Relative Humidity,2026-03-12T22:00:00-06:00
 1.3,Wagner2,Wind Speed,2026-03-12T22:00:00-06:00
@@ -591,14 +599,14 @@ Value,StationName,ParameterName,ReadingDate
 3.6,Wagner2,Wind Speed,2026-03-12T21:00:00-06:00
 76.0,Wagner2,Wind Direction,2026-03-12T21:00:00-06:00
 0.0,Wagner2,Sulphur Dioxide,2026-03-12T21:00:00-06:00
-0.0,Wagner2,Sulphur Dioxide,2026-03-12T20:00:00-06:00
-79.0,Wagner2,Wind Direction,2026-03-12T20:00:00-06:00
-0.003,Wagner2,Nitrogen Dioxide,2026-03-12T20:00:00-06:00
--10.8,Wagner2,Outdoor Temperature,2026-03-12T20:00:00-06:00
-3.9,Wagner2,Wind Speed,2026-03-12T20:00:00-06:00
 75.9,Wagner2,Relative Humidity,2026-03-12T20:00:00-06:00
 0.002,Wagner2,Total Oxides of Nitrogen,2026-03-12T20:00:00-06:00
 0.0,Wagner2,Nitric Oxide,2026-03-12T20:00:00-06:00
+3.9,Wagner2,Wind Speed,2026-03-12T20:00:00-06:00
+-10.8,Wagner2,Outdoor Temperature,2026-03-12T20:00:00-06:00
+0.003,Wagner2,Nitrogen Dioxide,2026-03-12T20:00:00-06:00
+79.0,Wagner2,Wind Direction,2026-03-12T20:00:00-06:00
+0.0,Wagner2,Sulphur Dioxide,2026-03-12T20:00:00-06:00
 0.001,Wagner2,Total Oxides of Nitrogen,2026-03-12T19:00:00-06:00
 71.6,Wagner2,Relative Humidity,2026-03-12T19:00:00-06:00
 3.4,Wagner2,Wind Speed,2026-03-12T19:00:00-06:00
@@ -607,17 +615,17 @@ Value,StationName,ParameterName,ReadingDate
 101.0,Wagner2,Wind Direction,2026-03-12T19:00:00-06:00
 0.0,Wagner2,Sulphur Dioxide,2026-03-12T19:00:00-06:00
 0.0,Wagner2,Nitric Oxide,2026-03-12T19:00:00-06:00
-0.001,Wagner2,Nitrogen Dioxide,2026-03-12T18:00:00-06:00
-131.0,Wagner2,Wind Direction,2026-03-12T18:00:00-06:00
-0.0,Wagner2,Sulphur Dioxide,2026-03-12T18:00:00-06:00
 0.0,Wagner2,Nitric Oxide,2026-03-12T18:00:00-06:00
 0.001,Wagner2,Total Oxides of Nitrogen,2026-03-12T18:00:00-06:00
 72.9,Wagner2,Relative Humidity,2026-03-12T18:00:00-06:00
 6.0,Wagner2,Wind Speed,2026-03-12T18:00:00-06:00
 -9.4,Wagner2,Outdoor Temperature,2026-03-12T18:00:00-06:00
-0.0,Wagner2,Sulphur Dioxide,2026-03-12T17:00:00-06:00
-316.0,Wagner2,Wind Direction,2026-03-12T17:00:00-06:00
+0.001,Wagner2,Nitrogen Dioxide,2026-03-12T18:00:00-06:00
+131.0,Wagner2,Wind Direction,2026-03-12T18:00:00-06:00
+0.0,Wagner2,Sulphur Dioxide,2026-03-12T18:00:00-06:00
 0.001,Wagner2,Nitrogen Dioxide,2026-03-12T17:00:00-06:00
+316.0,Wagner2,Wind Direction,2026-03-12T17:00:00-06:00
+0.0,Wagner2,Sulphur Dioxide,2026-03-12T17:00:00-06:00
 -9.2,Wagner2,Outdoor Temperature,2026-03-12T17:00:00-06:00
 3.1,Wagner2,Wind Speed,2026-03-12T17:00:00-06:00
 72.8,Wagner2,Relative Humidity,2026-03-12T17:00:00-06:00
@@ -631,11 +639,11 @@ Value,StationName,ParameterName,ReadingDate
 2.7,Wagner2,Wind Speed,2026-03-12T16:00:00-06:00
 77.1,Wagner2,Relative Humidity,2026-03-12T16:00:00-06:00
 0.001,Wagner2,Total Oxides of Nitrogen,2026-03-12T16:00:00-06:00
-0.001,Wagner2,Nitrogen Dioxide,2026-03-12T15:00:00-06:00
--10.3,Wagner2,Outdoor Temperature,2026-03-12T15:00:00-06:00
 4.0,Wagner2,Wind Speed,2026-03-12T15:00:00-06:00
 77.9,Wagner2,Relative Humidity,2026-03-12T15:00:00-06:00
 0.001,Wagner2,Total Oxides of Nitrogen,2026-03-12T15:00:00-06:00
+-10.3,Wagner2,Outdoor Temperature,2026-03-12T15:00:00-06:00
+0.001,Wagner2,Nitrogen Dioxide,2026-03-12T15:00:00-06:00
 0.0,Wagner2,Nitric Oxide,2026-03-12T15:00:00-06:00
 0.0,Wagner2,Sulphur Dioxide,2026-03-12T15:00:00-06:00
 2.0,Wagner2,Wind Direction,2026-03-12T15:00:00-06:00
@@ -647,10 +655,10 @@ Value,StationName,ParameterName,ReadingDate
 5.9,Wagner2,Wind Speed,2026-03-12T14:00:00-06:00
 76.7,Wagner2,Relative Humidity,2026-03-12T14:00:00-06:00
 0.002,Wagner2,Total Oxides of Nitrogen,2026-03-12T14:00:00-06:00
--10.9,Wagner2,Outdoor Temperature,2026-03-12T13:00:00-06:00
-6.9,Wagner2,Wind Speed,2026-03-12T13:00:00-06:00
-75.8,Wagner2,Relative Humidity,2026-03-12T13:00:00-06:00
 0.002,Wagner2,Total Oxides of Nitrogen,2026-03-12T13:00:00-06:00
+75.8,Wagner2,Relative Humidity,2026-03-12T13:00:00-06:00
+6.9,Wagner2,Wind Speed,2026-03-12T13:00:00-06:00
+-10.9,Wagner2,Outdoor Temperature,2026-03-12T13:00:00-06:00
 0.001,Wagner2,Nitric Oxide,2026-03-12T13:00:00-06:00
 0.001,Wagner2,Nitrogen Dioxide,2026-03-12T13:00:00-06:00
 339.0,Wagner2,Wind Direction,2026-03-12T13:00:00-06:00
@@ -671,18 +679,18 @@ Value,StationName,ParameterName,ReadingDate
 5.8,Wagner2,Wind Speed,2026-03-12T11:00:00-06:00
 83.3,Wagner2,Relative Humidity,2026-03-12T11:00:00-06:00
 0.003,Wagner2,Total Oxides of Nitrogen,2026-03-12T11:00:00-06:00
-0.0,Wagner2,Nitric Oxide,2026-03-12T10:00:00-06:00
-0.0,Wagner2,Sulphur Dioxide,2026-03-12T10:00:00-06:00
-2.0,Wagner2,Wind Direction,2026-03-12T10:00:00-06:00
-0.002,Wagner2,Nitrogen Dioxide,2026-03-12T10:00:00-06:00
--7.9,Wagner2,Outdoor Temperature,2026-03-12T10:00:00-06:00
-6.3,Wagner2,Wind Speed,2026-03-12T10:00:00-06:00
-86.1,Wagner2,Relative Humidity,2026-03-12T10:00:00-06:00
 0.002,Wagner2,Total Oxides of Nitrogen,2026-03-12T10:00:00-06:00
-0.0,Wagner2,Nitric Oxide,2026-03-12T09:00:00-06:00
-0.0,Wagner2,Sulphur Dioxide,2026-03-12T09:00:00-06:00
-43.0,Wagner2,Wind Direction,2026-03-12T09:00:00-06:00
+86.1,Wagner2,Relative Humidity,2026-03-12T10:00:00-06:00
+6.3,Wagner2,Wind Speed,2026-03-12T10:00:00-06:00
+-7.9,Wagner2,Outdoor Temperature,2026-03-12T10:00:00-06:00
+0.002,Wagner2,Nitrogen Dioxide,2026-03-12T10:00:00-06:00
+2.0,Wagner2,Wind Direction,2026-03-12T10:00:00-06:00
+0.0,Wagner2,Sulphur Dioxide,2026-03-12T10:00:00-06:00
+0.0,Wagner2,Nitric Oxide,2026-03-12T10:00:00-06:00
 0.002,Wagner2,Nitrogen Dioxide,2026-03-12T09:00:00-06:00
+43.0,Wagner2,Wind Direction,2026-03-12T09:00:00-06:00
+0.0,Wagner2,Sulphur Dioxide,2026-03-12T09:00:00-06:00
+0.0,Wagner2,Nitric Oxide,2026-03-12T09:00:00-06:00
 -6.9,Wagner2,Outdoor Temperature,2026-03-12T09:00:00-06:00
 5.4,Wagner2,Wind Speed,2026-03-12T09:00:00-06:00
 87.2,Wagner2,Relative Humidity,2026-03-12T09:00:00-06:00
