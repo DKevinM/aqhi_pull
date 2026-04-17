@@ -1,8 +1,15 @@
 Value,StationName,ParameterName,ReadingDate
-0.9,O’Morrow Station 1,Fine Particulate Matter,2026-04-16T17:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-16T18:00:00-06:00
+44.9,O’Morrow Station 1,Relative Humidity,2026-04-16T18:00:00-06:00
+-0.5,O’Morrow Station 1,Outdoor Temperature,2026-04-16T18:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-16T18:00:00-06:00
+0.8,O’Morrow Station 1,Fine Particulate Matter,2026-04-16T18:00:00-06:00
+144.0,O’Morrow Station 1,Wind Direction,2026-04-16T18:00:00-06:00
+8.1,O’Morrow Station 1,Wind Speed,2026-04-16T18:00:00-06:00
 7.9,O’Morrow Station 1,Wind Speed,2026-04-16T17:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-16T17:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-16T17:00:00-06:00
+0.9,O’Morrow Station 1,Fine Particulate Matter,2026-04-16T17:00:00-06:00
 43.7,O’Morrow Station 1,Relative Humidity,2026-04-16T17:00:00-06:00
 147.0,O’Morrow Station 1,Wind Direction,2026-04-16T17:00:00-06:00
 -0.4,O’Morrow Station 1,Outdoor Temperature,2026-04-16T17:00:00-06:00
@@ -20,13 +27,13 @@ Value,StationName,ParameterName,ReadingDate
 9.2,O’Morrow Station 1,Wind Speed,2026-04-16T15:00:00-06:00
 1.1,O’Morrow Station 1,Fine Particulate Matter,2026-04-16T15:00:00-06:00
 144.0,O’Morrow Station 1,Wind Direction,2026-04-16T15:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-16T14:00:00-06:00
-142.0,O’Morrow Station 1,Wind Direction,2026-04-16T14:00:00-06:00
-38.8,O’Morrow Station 1,Relative Humidity,2026-04-16T14:00:00-06:00
-2.5,O’Morrow Station 1,Fine Particulate Matter,2026-04-16T14:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-16T14:00:00-06:00
 7.7,O’Morrow Station 1,Wind Speed,2026-04-16T14:00:00-06:00
 -0.9,O’Morrow Station 1,Outdoor Temperature,2026-04-16T14:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-16T14:00:00-06:00
+2.5,O’Morrow Station 1,Fine Particulate Matter,2026-04-16T14:00:00-06:00
+38.8,O’Morrow Station 1,Relative Humidity,2026-04-16T14:00:00-06:00
+142.0,O’Morrow Station 1,Wind Direction,2026-04-16T14:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-16T14:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-16T13:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-16T13:00:00-06:00
 1.4,O’Morrow Station 1,Fine Particulate Matter,2026-04-16T13:00:00-06:00
@@ -41,13 +48,13 @@ Value,StationName,ParameterName,ReadingDate
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-16T12:00:00-06:00
 39.9,O’Morrow Station 1,Relative Humidity,2026-04-16T12:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-16T12:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-16T11:00:00-06:00
+3.0,O’Morrow Station 1,Wind Speed,2026-04-16T11:00:00-06:00
 1.3,O’Morrow Station 1,Fine Particulate Matter,2026-04-16T11:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-16T11:00:00-06:00
 -4.5,O’Morrow Station 1,Outdoor Temperature,2026-04-16T11:00:00-06:00
 43.7,O’Morrow Station 1,Relative Humidity,2026-04-16T11:00:00-06:00
 180.0,O’Morrow Station 1,Wind Direction,2026-04-16T11:00:00-06:00
-3.0,O’Morrow Station 1,Wind Speed,2026-04-16T11:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-16T11:00:00-06:00
 -5.5,O’Morrow Station 1,Outdoor Temperature,2026-04-16T10:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-16T10:00:00-06:00
 45.1,O’Morrow Station 1,Relative Humidity,2026-04-16T10:00:00-06:00
@@ -473,15 +480,15 @@ Value,StationName,ParameterName,ReadingDate
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T22:00:00-06:00
 0.001,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T22:00:00-06:00
 1.9,O’Morrow Station 1,Outdoor Temperature,2026-04-13T22:00:00-06:00
-6.4,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T22:00:00-06:00
 3.3,O’Morrow Station 1,Wind Speed,2026-04-13T22:00:00-06:00
+6.4,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T22:00:00-06:00
+90.5,O’Morrow Station 1,Relative Humidity,2026-04-13T21:00:00-06:00
 6.8,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T21:00:00-06:00
 3.7,O’Morrow Station 1,Wind Speed,2026-04-13T21:00:00-06:00
 0.002,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T21:00:00-06:00
 4.1,O’Morrow Station 1,Outdoor Temperature,2026-04-13T21:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T21:00:00-06:00
 163.0,O’Morrow Station 1,Wind Direction,2026-04-13T21:00:00-06:00
-90.5,O’Morrow Station 1,Relative Humidity,2026-04-13T21:00:00-06:00
 6.1,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T20:00:00-06:00
 2.6,O’Morrow Station 1,Wind Speed,2026-04-13T20:00:00-06:00
 4.7,O’Morrow Station 1,Outdoor Temperature,2026-04-13T20:00:00-06:00
@@ -496,12 +503,12 @@ Value,StationName,ParameterName,ReadingDate
 6.4,O’Morrow Station 1,Outdoor Temperature,2026-04-13T19:00:00-06:00
 4.0,O’Morrow Station 1,Wind Speed,2026-04-13T19:00:00-06:00
 6.2,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T19:00:00-06:00
+5.5,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T18:00:00-06:00
+5.4,O’Morrow Station 1,Wind Speed,2026-04-13T18:00:00-06:00
 57.7,O’Morrow Station 1,Relative Humidity,2026-04-13T18:00:00-06:00
 191.0,O’Morrow Station 1,Wind Direction,2026-04-13T18:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T18:00:00-06:00
 8.1,O’Morrow Station 1,Outdoor Temperature,2026-04-13T18:00:00-06:00
-5.4,O’Morrow Station 1,Wind Speed,2026-04-13T18:00:00-06:00
-5.5,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T18:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T18:00:00-06:00
 55.9,O’Morrow Station 1,Relative Humidity,2026-04-13T17:00:00-06:00
 5.6,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T17:00:00-06:00
@@ -517,69 +524,69 @@ Value,StationName,ParameterName,ReadingDate
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T16:00:00-06:00
 150.0,O’Morrow Station 1,Wind Direction,2026-04-13T16:00:00-06:00
 54.6,O’Morrow Station 1,Relative Humidity,2026-04-13T16:00:00-06:00
-172.0,O’Morrow Station 1,Wind Direction,2026-04-13T15:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T15:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T15:00:00-06:00
-6.8,O’Morrow Station 1,Outdoor Temperature,2026-04-13T15:00:00-06:00
-11.3,O’Morrow Station 1,Wind Speed,2026-04-13T15:00:00-06:00
-57.4,O’Morrow Station 1,Relative Humidity,2026-04-13T15:00:00-06:00
 6.3,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T15:00:00-06:00
+57.4,O’Morrow Station 1,Relative Humidity,2026-04-13T15:00:00-06:00
+11.3,O’Morrow Station 1,Wind Speed,2026-04-13T15:00:00-06:00
+6.8,O’Morrow Station 1,Outdoor Temperature,2026-04-13T15:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T15:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T15:00:00-06:00
+172.0,O’Morrow Station 1,Wind Direction,2026-04-13T15:00:00-06:00
+5.5,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T14:00:00-06:00
+53.9,O’Morrow Station 1,Relative Humidity,2026-04-13T14:00:00-06:00
+11.3,O’Morrow Station 1,Wind Speed,2026-04-13T14:00:00-06:00
+7.1,O’Morrow Station 1,Outdoor Temperature,2026-04-13T14:00:00-06:00
 178.0,O’Morrow Station 1,Wind Direction,2026-04-13T14:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T14:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T14:00:00-06:00
-7.1,O’Morrow Station 1,Outdoor Temperature,2026-04-13T14:00:00-06:00
-11.3,O’Morrow Station 1,Wind Speed,2026-04-13T14:00:00-06:00
-53.9,O’Morrow Station 1,Relative Humidity,2026-04-13T14:00:00-06:00
-5.5,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T14:00:00-06:00
-54.3,O’Morrow Station 1,Relative Humidity,2026-04-13T13:00:00-06:00
-156.0,O’Morrow Station 1,Wind Direction,2026-04-13T13:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T13:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T13:00:00-06:00
-7.0,O’Morrow Station 1,Outdoor Temperature,2026-04-13T13:00:00-06:00
-10.1,O’Morrow Station 1,Wind Speed,2026-04-13T13:00:00-06:00
 5.5,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T13:00:00-06:00
+10.1,O’Morrow Station 1,Wind Speed,2026-04-13T13:00:00-06:00
+7.0,O’Morrow Station 1,Outdoor Temperature,2026-04-13T13:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T13:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T13:00:00-06:00
+156.0,O’Morrow Station 1,Wind Direction,2026-04-13T13:00:00-06:00
+54.3,O’Morrow Station 1,Relative Humidity,2026-04-13T13:00:00-06:00
+5.4,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T12:00:00-06:00
+10.4,O’Morrow Station 1,Wind Speed,2026-04-13T12:00:00-06:00
+5.2,O’Morrow Station 1,Outdoor Temperature,2026-04-13T12:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T12:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T12:00:00-06:00
 154.0,O’Morrow Station 1,Wind Direction,2026-04-13T12:00:00-06:00
 59.7,O’Morrow Station 1,Relative Humidity,2026-04-13T12:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T12:00:00-06:00
-5.2,O’Morrow Station 1,Outdoor Temperature,2026-04-13T12:00:00-06:00
-10.4,O’Morrow Station 1,Wind Speed,2026-04-13T12:00:00-06:00
-5.4,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T12:00:00-06:00
-63.6,O’Morrow Station 1,Relative Humidity,2026-04-13T11:00:00-06:00
-159.0,O’Morrow Station 1,Wind Direction,2026-04-13T11:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T11:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T11:00:00-06:00
-3.6,O’Morrow Station 1,Outdoor Temperature,2026-04-13T11:00:00-06:00
-11.5,O’Morrow Station 1,Wind Speed,2026-04-13T11:00:00-06:00
 4.4,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T11:00:00-06:00
-64.1,O’Morrow Station 1,Relative Humidity,2026-04-13T10:00:00-06:00
-165.0,O’Morrow Station 1,Wind Direction,2026-04-13T10:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T10:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T10:00:00-06:00
-2.2,O’Morrow Station 1,Outdoor Temperature,2026-04-13T10:00:00-06:00
-10.9,O’Morrow Station 1,Wind Speed,2026-04-13T10:00:00-06:00
+11.5,O’Morrow Station 1,Wind Speed,2026-04-13T11:00:00-06:00
+3.6,O’Morrow Station 1,Outdoor Temperature,2026-04-13T11:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T11:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T11:00:00-06:00
+159.0,O’Morrow Station 1,Wind Direction,2026-04-13T11:00:00-06:00
+63.6,O’Morrow Station 1,Relative Humidity,2026-04-13T11:00:00-06:00
 3.7,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T10:00:00-06:00
-70.7,O’Morrow Station 1,Relative Humidity,2026-04-13T09:00:00-06:00
-135.0,O’Morrow Station 1,Wind Direction,2026-04-13T09:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T09:00:00-06:00
+10.9,O’Morrow Station 1,Wind Speed,2026-04-13T10:00:00-06:00
+2.2,O’Morrow Station 1,Outdoor Temperature,2026-04-13T10:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T10:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T10:00:00-06:00
+165.0,O’Morrow Station 1,Wind Direction,2026-04-13T10:00:00-06:00
+64.1,O’Morrow Station 1,Relative Humidity,2026-04-13T10:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T09:00:00-06:00
 0.2,O’Morrow Station 1,Outdoor Temperature,2026-04-13T09:00:00-06:00
 9.6,O’Morrow Station 1,Wind Speed,2026-04-13T09:00:00-06:00
 4.7,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T09:00:00-06:00
+70.7,O’Morrow Station 1,Relative Humidity,2026-04-13T09:00:00-06:00
+135.0,O’Morrow Station 1,Wind Direction,2026-04-13T09:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T09:00:00-06:00
 80.5,O’Morrow Station 1,Relative Humidity,2026-04-13T08:00:00-06:00
-4.7,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T08:00:00-06:00
-6.9,O’Morrow Station 1,Wind Speed,2026-04-13T08:00:00-06:00
--2.1,O’Morrow Station 1,Outdoor Temperature,2026-04-13T08:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T08:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T08:00:00-06:00
 107.0,O’Morrow Station 1,Wind Direction,2026-04-13T08:00:00-06:00
-106.0,O’Morrow Station 1,Wind Direction,2026-04-13T07:00:00-06:00
-84.1,O’Morrow Station 1,Relative Humidity,2026-04-13T07:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T07:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T08:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T08:00:00-06:00
+-2.1,O’Morrow Station 1,Outdoor Temperature,2026-04-13T08:00:00-06:00
+6.9,O’Morrow Station 1,Wind Speed,2026-04-13T08:00:00-06:00
+4.7,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T08:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T07:00:00-06:00
 -3.4,O’Morrow Station 1,Outdoor Temperature,2026-04-13T07:00:00-06:00
 4.8,O’Morrow Station 1,Wind Speed,2026-04-13T07:00:00-06:00
 4.5,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T07:00:00-06:00
+84.1,O’Morrow Station 1,Relative Humidity,2026-04-13T07:00:00-06:00
+106.0,O’Morrow Station 1,Wind Direction,2026-04-13T07:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T07:00:00-06:00
 84.8,O’Morrow Station 1,Relative Humidity,2026-04-13T06:00:00-06:00
 108.0,O’Morrow Station 1,Wind Direction,2026-04-13T06:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T06:00:00-06:00
@@ -596,18 +603,18 @@ Value,StationName,ParameterName,ReadingDate
 3.9,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T05:00:00-06:00
 82.9,O’Morrow Station 1,Relative Humidity,2026-04-13T04:00:00-06:00
 164.0,O’Morrow Station 1,Wind Direction,2026-04-13T04:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T04:00:00-06:00
-,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T04:00:00-06:00
--4.7,O’Morrow Station 1,Outdoor Temperature,2026-04-13T04:00:00-06:00
-3.7,O’Morrow Station 1,Wind Speed,2026-04-13T04:00:00-06:00
 4.3,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T04:00:00-06:00
-78.8,O’Morrow Station 1,Relative Humidity,2026-04-13T03:00:00-06:00
-169.0,O’Morrow Station 1,Wind Direction,2026-04-13T03:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T03:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T03:00:00-06:00
--3.7,O’Morrow Station 1,Outdoor Temperature,2026-04-13T03:00:00-06:00
-4.6,O’Morrow Station 1,Wind Speed,2026-04-13T03:00:00-06:00
+3.7,O’Morrow Station 1,Wind Speed,2026-04-13T04:00:00-06:00
+-4.7,O’Morrow Station 1,Outdoor Temperature,2026-04-13T04:00:00-06:00
+,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T04:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T04:00:00-06:00
 5.1,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T03:00:00-06:00
+4.6,O’Morrow Station 1,Wind Speed,2026-04-13T03:00:00-06:00
+-3.7,O’Morrow Station 1,Outdoor Temperature,2026-04-13T03:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T03:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T03:00:00-06:00
+169.0,O’Morrow Station 1,Wind Direction,2026-04-13T03:00:00-06:00
+78.8,O’Morrow Station 1,Relative Humidity,2026-04-13T03:00:00-06:00
 6.6,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T02:00:00-06:00
 5.7,O’Morrow Station 1,Wind Speed,2026-04-13T02:00:00-06:00
 -3.1,O’Morrow Station 1,Outdoor Temperature,2026-04-13T02:00:00-06:00
@@ -615,62 +622,62 @@ Value,StationName,ParameterName,ReadingDate
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T02:00:00-06:00
 167.0,O’Morrow Station 1,Wind Direction,2026-04-13T02:00:00-06:00
 75.6,O’Morrow Station 1,Relative Humidity,2026-04-13T02:00:00-06:00
-72.4,O’Morrow Station 1,Relative Humidity,2026-04-13T01:00:00-06:00
 7.5,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T01:00:00-06:00
 6.1,O’Morrow Station 1,Wind Speed,2026-04-13T01:00:00-06:00
 -2.3,O’Morrow Station 1,Outdoor Temperature,2026-04-13T01:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T01:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T01:00:00-06:00
 174.0,O’Morrow Station 1,Wind Direction,2026-04-13T01:00:00-06:00
+72.4,O’Morrow Station 1,Relative Humidity,2026-04-13T01:00:00-06:00
+68.6,O’Morrow Station 1,Relative Humidity,2026-04-13T00:00:00-06:00
 4.0,O’Morrow Station 1,Fine Particulate Matter,2026-04-13T00:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-13T00:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-13T00:00:00-06:00
 7.1,O’Morrow Station 1,Wind Speed,2026-04-13T00:00:00-06:00
 176.0,O’Morrow Station 1,Wind Direction,2026-04-13T00:00:00-06:00
 -1.5,O’Morrow Station 1,Outdoor Temperature,2026-04-13T00:00:00-06:00
-68.6,O’Morrow Station 1,Relative Humidity,2026-04-13T00:00:00-06:00
--1.4,O’Morrow Station 1,Outdoor Temperature,2026-04-12T23:00:00-06:00
-69.4,O’Morrow Station 1,Relative Humidity,2026-04-12T23:00:00-06:00
-3.9,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T23:00:00-06:00
-6.0,O’Morrow Station 1,Wind Speed,2026-04-12T23:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T23:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T23:00:00-06:00
 168.0,O’Morrow Station 1,Wind Direction,2026-04-12T23:00:00-06:00
--0.6,O’Morrow Station 1,Outdoor Temperature,2026-04-12T22:00:00-06:00
-66.9,O’Morrow Station 1,Relative Humidity,2026-04-12T22:00:00-06:00
-3.5,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T22:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T22:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T22:00:00-06:00
-3.9,O’Morrow Station 1,Wind Speed,2026-04-12T22:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T23:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T23:00:00-06:00
+6.0,O’Morrow Station 1,Wind Speed,2026-04-12T23:00:00-06:00
+3.9,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T23:00:00-06:00
+69.4,O’Morrow Station 1,Relative Humidity,2026-04-12T23:00:00-06:00
+-1.4,O’Morrow Station 1,Outdoor Temperature,2026-04-12T23:00:00-06:00
 152.0,O’Morrow Station 1,Wind Direction,2026-04-12T22:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T21:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T21:00:00-06:00
-60.9,O’Morrow Station 1,Relative Humidity,2026-04-12T21:00:00-06:00
-122.0,O’Morrow Station 1,Wind Direction,2026-04-12T21:00:00-06:00
-3.4,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T21:00:00-06:00
-0.9,O’Morrow Station 1,Outdoor Temperature,2026-04-12T21:00:00-06:00
+3.9,O’Morrow Station 1,Wind Speed,2026-04-12T22:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T22:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T22:00:00-06:00
+3.5,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T22:00:00-06:00
+66.9,O’Morrow Station 1,Relative Humidity,2026-04-12T22:00:00-06:00
+-0.6,O’Morrow Station 1,Outdoor Temperature,2026-04-12T22:00:00-06:00
 4.7,O’Morrow Station 1,Wind Speed,2026-04-12T21:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T20:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T20:00:00-06:00
-57.2,O’Morrow Station 1,Relative Humidity,2026-04-12T20:00:00-06:00
-135.0,O’Morrow Station 1,Wind Direction,2026-04-12T20:00:00-06:00
-3.6,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T20:00:00-06:00
-1.6,O’Morrow Station 1,Outdoor Temperature,2026-04-12T20:00:00-06:00
+0.9,O’Morrow Station 1,Outdoor Temperature,2026-04-12T21:00:00-06:00
+3.4,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T21:00:00-06:00
+122.0,O’Morrow Station 1,Wind Direction,2026-04-12T21:00:00-06:00
+60.9,O’Morrow Station 1,Relative Humidity,2026-04-12T21:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T21:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T21:00:00-06:00
 6.4,O’Morrow Station 1,Wind Speed,2026-04-12T20:00:00-06:00
-2.0,O’Morrow Station 1,Outdoor Temperature,2026-04-12T19:00:00-06:00
-54.6,O’Morrow Station 1,Relative Humidity,2026-04-12T19:00:00-06:00
-3.1,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T19:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T19:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T19:00:00-06:00
-6.3,O’Morrow Station 1,Wind Speed,2026-04-12T19:00:00-06:00
+1.6,O’Morrow Station 1,Outdoor Temperature,2026-04-12T20:00:00-06:00
+3.6,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T20:00:00-06:00
+135.0,O’Morrow Station 1,Wind Direction,2026-04-12T20:00:00-06:00
+57.2,O’Morrow Station 1,Relative Humidity,2026-04-12T20:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T20:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T20:00:00-06:00
 147.0,O’Morrow Station 1,Wind Direction,2026-04-12T19:00:00-06:00
-151.0,O’Morrow Station 1,Wind Direction,2026-04-12T18:00:00-06:00
-6.8,O’Morrow Station 1,Wind Speed,2026-04-12T18:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T18:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T18:00:00-06:00
-50.8,O’Morrow Station 1,Relative Humidity,2026-04-12T18:00:00-06:00
-2.5,O’Morrow Station 1,Outdoor Temperature,2026-04-12T18:00:00-06:00
+6.3,O’Morrow Station 1,Wind Speed,2026-04-12T19:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T19:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T19:00:00-06:00
+3.1,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T19:00:00-06:00
+54.6,O’Morrow Station 1,Relative Humidity,2026-04-12T19:00:00-06:00
+2.0,O’Morrow Station 1,Outdoor Temperature,2026-04-12T19:00:00-06:00
 2.0,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T18:00:00-06:00
+2.5,O’Morrow Station 1,Outdoor Temperature,2026-04-12T18:00:00-06:00
+50.8,O’Morrow Station 1,Relative Humidity,2026-04-12T18:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T18:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T18:00:00-06:00
+6.8,O’Morrow Station 1,Wind Speed,2026-04-12T18:00:00-06:00
+151.0,O’Morrow Station 1,Wind Direction,2026-04-12T18:00:00-06:00
 2.6,O’Morrow Station 1,Outdoor Temperature,2026-04-12T17:00:00-06:00
 50.4,O’Morrow Station 1,Relative Humidity,2026-04-12T17:00:00-06:00
 2.0,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T17:00:00-06:00
@@ -685,13 +692,13 @@ Value,StationName,ParameterName,ReadingDate
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T16:00:00-06:00
 6.1,O’Morrow Station 1,Wind Speed,2026-04-12T16:00:00-06:00
 181.0,O’Morrow Station 1,Wind Direction,2026-04-12T16:00:00-06:00
-158.0,O’Morrow Station 1,Wind Direction,2026-04-12T15:00:00-06:00
-9.3,O’Morrow Station 1,Wind Speed,2026-04-12T15:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T15:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T15:00:00-06:00
-2.3,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T15:00:00-06:00
-54.0,O’Morrow Station 1,Relative Humidity,2026-04-12T15:00:00-06:00
 2.3,O’Morrow Station 1,Outdoor Temperature,2026-04-12T15:00:00-06:00
+54.0,O’Morrow Station 1,Relative Humidity,2026-04-12T15:00:00-06:00
+2.3,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T15:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T15:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T15:00:00-06:00
+9.3,O’Morrow Station 1,Wind Speed,2026-04-12T15:00:00-06:00
+158.0,O’Morrow Station 1,Wind Direction,2026-04-12T15:00:00-06:00
 160.0,O’Morrow Station 1,Wind Direction,2026-04-12T14:00:00-06:00
 1.9,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T14:00:00-06:00
 55.7,O’Morrow Station 1,Relative Humidity,2026-04-12T14:00:00-06:00
@@ -699,20 +706,20 @@ Value,StationName,ParameterName,ReadingDate
 6.3,O’Morrow Station 1,Wind Speed,2026-04-12T14:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T14:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T14:00:00-06:00
-173.0,O’Morrow Station 1,Wind Direction,2026-04-12T13:00:00-06:00
-6.2,O’Morrow Station 1,Wind Speed,2026-04-12T13:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T13:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T13:00:00-06:00
-2.1,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T13:00:00-06:00
-59.9,O’Morrow Station 1,Relative Humidity,2026-04-12T13:00:00-06:00
 0.9,O’Morrow Station 1,Outdoor Temperature,2026-04-12T13:00:00-06:00
-112.0,O’Morrow Station 1,Wind Direction,2026-04-12T12:00:00-06:00
-8.2,O’Morrow Station 1,Wind Speed,2026-04-12T12:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T12:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T12:00:00-06:00
-2.9,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T12:00:00-06:00
-67.3,O’Morrow Station 1,Relative Humidity,2026-04-12T12:00:00-06:00
+59.9,O’Morrow Station 1,Relative Humidity,2026-04-12T13:00:00-06:00
+2.1,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T13:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T13:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T13:00:00-06:00
+6.2,O’Morrow Station 1,Wind Speed,2026-04-12T13:00:00-06:00
+173.0,O’Morrow Station 1,Wind Direction,2026-04-12T13:00:00-06:00
 -0.5,O’Morrow Station 1,Outdoor Temperature,2026-04-12T12:00:00-06:00
+67.3,O’Morrow Station 1,Relative Humidity,2026-04-12T12:00:00-06:00
+2.9,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T12:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T12:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T12:00:00-06:00
+8.2,O’Morrow Station 1,Wind Speed,2026-04-12T12:00:00-06:00
+112.0,O’Morrow Station 1,Wind Direction,2026-04-12T12:00:00-06:00
 -1.0,O’Morrow Station 1,Outdoor Temperature,2026-04-12T11:00:00-06:00
 70.8,O’Morrow Station 1,Relative Humidity,2026-04-12T11:00:00-06:00
 3.9,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T11:00:00-06:00
@@ -720,20 +727,20 @@ Value,StationName,ParameterName,ReadingDate
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T11:00:00-06:00
 11.0,O’Morrow Station 1,Wind Speed,2026-04-12T11:00:00-06:00
 40.0,O’Morrow Station 1,Wind Direction,2026-04-12T11:00:00-06:00
--1.4,O’Morrow Station 1,Outdoor Temperature,2026-04-12T10:00:00-06:00
-75.5,O’Morrow Station 1,Relative Humidity,2026-04-12T10:00:00-06:00
-3.9,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T10:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T10:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T10:00:00-06:00
-11.3,O’Morrow Station 1,Wind Speed,2026-04-12T10:00:00-06:00
 31.0,O’Morrow Station 1,Wind Direction,2026-04-12T10:00:00-06:00
+11.3,O’Morrow Station 1,Wind Speed,2026-04-12T10:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T10:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T10:00:00-06:00
+3.9,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T10:00:00-06:00
+75.5,O’Morrow Station 1,Relative Humidity,2026-04-12T10:00:00-06:00
+-1.4,O’Morrow Station 1,Outdoor Temperature,2026-04-12T10:00:00-06:00
 -1.4,O’Morrow Station 1,Outdoor Temperature,2026-04-12T09:00:00-06:00
 77.2,O’Morrow Station 1,Relative Humidity,2026-04-12T09:00:00-06:00
 3.7,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T09:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T09:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T09:00:00-06:00
-14.0,O’Morrow Station 1,Wind Speed,2026-04-12T09:00:00-06:00
 242.0,O’Morrow Station 1,Wind Direction,2026-04-12T09:00:00-06:00
+14.0,O’Morrow Station 1,Wind Speed,2026-04-12T09:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T09:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T09:00:00-06:00
 -1.4,O’Morrow Station 1,Outdoor Temperature,2026-04-12T08:00:00-06:00
 80.1,O’Morrow Station 1,Relative Humidity,2026-04-12T08:00:00-06:00
 5.2,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T08:00:00-06:00
@@ -748,9 +755,9 @@ Value,StationName,ParameterName,ReadingDate
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T07:00:00-06:00
 9.5,O’Morrow Station 1,Wind Speed,2026-04-12T07:00:00-06:00
 229.0,O’Morrow Station 1,Wind Direction,2026-04-12T07:00:00-06:00
-5.0,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T06:00:00-06:00
-85.6,O’Morrow Station 1,Relative Humidity,2026-04-12T06:00:00-06:00
 -1.1,O’Morrow Station 1,Outdoor Temperature,2026-04-12T06:00:00-06:00
+85.6,O’Morrow Station 1,Relative Humidity,2026-04-12T06:00:00-06:00
+5.0,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T06:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T06:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T06:00:00-06:00
 13.8,O’Morrow Station 1,Wind Speed,2026-04-12T06:00:00-06:00
@@ -765,17 +772,17 @@ Value,StationName,ParameterName,ReadingDate
 -0.7,O’Morrow Station 1,Outdoor Temperature,2026-04-12T04:00:00-06:00
 85.5,O’Morrow Station 1,Relative Humidity,2026-04-12T04:00:00-06:00
 3.6,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T04:00:00-06:00
-,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T04:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T04:00:00-06:00
-17.1,O’Morrow Station 1,Wind Speed,2026-04-12T04:00:00-06:00
 320.0,O’Morrow Station 1,Wind Direction,2026-04-12T04:00:00-06:00
+17.1,O’Morrow Station 1,Wind Speed,2026-04-12T04:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T04:00:00-06:00
+,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T04:00:00-06:00
 -0.2,O’Morrow Station 1,Outdoor Temperature,2026-04-12T03:00:00-06:00
 85.5,O’Morrow Station 1,Relative Humidity,2026-04-12T03:00:00-06:00
 4.5,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T03:00:00-06:00
 0.001,O’Morrow Station 1,Total Reduced Sulphur,2026-04-12T03:00:00-06:00
 0.001,O’Morrow Station 1,Sulphur Dioxide,2026-04-12T03:00:00-06:00
-19.9,O’Morrow Station 1,Wind Speed,2026-04-12T03:00:00-06:00
 343.0,O’Morrow Station 1,Wind Direction,2026-04-12T03:00:00-06:00
+19.9,O’Morrow Station 1,Wind Speed,2026-04-12T03:00:00-06:00
 0.4,O’Morrow Station 1,Outdoor Temperature,2026-04-12T02:00:00-06:00
 87.4,O’Morrow Station 1,Relative Humidity,2026-04-12T02:00:00-06:00
 1.8,O’Morrow Station 1,Fine Particulate Matter,2026-04-12T02:00:00-06:00
@@ -804,20 +811,20 @@ Value,StationName,ParameterName,ReadingDate
 8.4,O’Morrow Station 1,Wind Speed,2026-04-11T23:00:00-06:00
 2.3,O’Morrow Station 1,Fine Particulate Matter,2026-04-11T23:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-11T23:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T22:00:00-06:00
-2.6,O’Morrow Station 1,Outdoor Temperature,2026-04-11T22:00:00-06:00
-99.0,O’Morrow Station 1,Wind Direction,2026-04-11T22:00:00-06:00
-87.1,O’Morrow Station 1,Relative Humidity,2026-04-11T22:00:00-06:00
-9.8,O’Morrow Station 1,Wind Speed,2026-04-11T22:00:00-06:00
-2.1,O’Morrow Station 1,Fine Particulate Matter,2026-04-11T22:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-11T22:00:00-06:00
-66.3,O’Morrow Station 1,Relative Humidity,2026-04-11T21:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T21:00:00-06:00
-15.3,O’Morrow Station 1,Wind Speed,2026-04-11T21:00:00-06:00
-2.3,O’Morrow Station 1,Fine Particulate Matter,2026-04-11T21:00:00-06:00
-5.1,O’Morrow Station 1,Outdoor Temperature,2026-04-11T21:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-11T21:00:00-06:00
+2.1,O’Morrow Station 1,Fine Particulate Matter,2026-04-11T22:00:00-06:00
+9.8,O’Morrow Station 1,Wind Speed,2026-04-11T22:00:00-06:00
+87.1,O’Morrow Station 1,Relative Humidity,2026-04-11T22:00:00-06:00
+99.0,O’Morrow Station 1,Wind Direction,2026-04-11T22:00:00-06:00
+2.6,O’Morrow Station 1,Outdoor Temperature,2026-04-11T22:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T22:00:00-06:00
 304.0,O’Morrow Station 1,Wind Direction,2026-04-11T21:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-11T21:00:00-06:00
+5.1,O’Morrow Station 1,Outdoor Temperature,2026-04-11T21:00:00-06:00
+2.3,O’Morrow Station 1,Fine Particulate Matter,2026-04-11T21:00:00-06:00
+15.3,O’Morrow Station 1,Wind Speed,2026-04-11T21:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T21:00:00-06:00
+66.3,O’Morrow Station 1,Relative Humidity,2026-04-11T21:00:00-06:00
 46.3,O’Morrow Station 1,Relative Humidity,2026-04-11T20:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T20:00:00-06:00
 8.8,O’Morrow Station 1,Wind Speed,2026-04-11T20:00:00-06:00
@@ -825,13 +832,13 @@ Value,StationName,ParameterName,ReadingDate
 7.1,O’Morrow Station 1,Outdoor Temperature,2026-04-11T20:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-11T20:00:00-06:00
 314.0,O’Morrow Station 1,Wind Direction,2026-04-11T20:00:00-06:00
+195.0,O’Morrow Station 1,Wind Direction,2026-04-11T19:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-11T19:00:00-06:00
 40.9,O’Morrow Station 1,Relative Humidity,2026-04-11T19:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T19:00:00-06:00
 2.9,O’Morrow Station 1,Wind Speed,2026-04-11T19:00:00-06:00
 1.3,O’Morrow Station 1,Fine Particulate Matter,2026-04-11T19:00:00-06:00
 8.1,O’Morrow Station 1,Outdoor Temperature,2026-04-11T19:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-11T19:00:00-06:00
-195.0,O’Morrow Station 1,Wind Direction,2026-04-11T19:00:00-06:00
 1.3,O’Morrow Station 1,Fine Particulate Matter,2026-04-11T18:00:00-06:00
 40.6,O’Morrow Station 1,Relative Humidity,2026-04-11T18:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T18:00:00-06:00
@@ -846,13 +853,13 @@ Value,StationName,ParameterName,ReadingDate
 8.8,O’Morrow Station 1,Outdoor Temperature,2026-04-11T17:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-11T17:00:00-06:00
 92.0,O’Morrow Station 1,Wind Direction,2026-04-11T17:00:00-06:00
-10.8,O’Morrow Station 1,Wind Speed,2026-04-11T16:00:00-06:00
-1.5,O’Morrow Station 1,Fine Particulate Matter,2026-04-11T16:00:00-06:00
-41.2,O’Morrow Station 1,Relative Humidity,2026-04-11T16:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T16:00:00-06:00
-9.1,O’Morrow Station 1,Outdoor Temperature,2026-04-11T16:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-11T16:00:00-06:00
 100.0,O’Morrow Station 1,Wind Direction,2026-04-11T16:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-11T16:00:00-06:00
+9.1,O’Morrow Station 1,Outdoor Temperature,2026-04-11T16:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T16:00:00-06:00
+41.2,O’Morrow Station 1,Relative Humidity,2026-04-11T16:00:00-06:00
+1.5,O’Morrow Station 1,Fine Particulate Matter,2026-04-11T16:00:00-06:00
+10.8,O’Morrow Station 1,Wind Speed,2026-04-11T16:00:00-06:00
 100.0,O’Morrow Station 1,Wind Direction,2026-04-11T15:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-11T15:00:00-06:00
 9.7,O’Morrow Station 1,Outdoor Temperature,2026-04-11T15:00:00-06:00
@@ -874,20 +881,20 @@ Value,StationName,ParameterName,ReadingDate
 8.7,O’Morrow Station 1,Wind Speed,2026-04-11T13:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T13:00:00-06:00
 44.5,O’Morrow Station 1,Relative Humidity,2026-04-11T13:00:00-06:00
-47.5,O’Morrow Station 1,Relative Humidity,2026-04-11T12:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T12:00:00-06:00
-7.4,O’Morrow Station 1,Wind Speed,2026-04-11T12:00:00-06:00
-1.8,O’Morrow Station 1,Fine Particulate Matter,2026-04-11T12:00:00-06:00
-7.2,O’Morrow Station 1,Outdoor Temperature,2026-04-11T12:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-11T12:00:00-06:00
 106.0,O’Morrow Station 1,Wind Direction,2026-04-11T12:00:00-06:00
-55.5,O’Morrow Station 1,Relative Humidity,2026-04-11T11:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T11:00:00-06:00
-11.7,O’Morrow Station 1,Wind Speed,2026-04-11T11:00:00-06:00
-1.7,O’Morrow Station 1,Fine Particulate Matter,2026-04-11T11:00:00-06:00
-4.7,O’Morrow Station 1,Outdoor Temperature,2026-04-11T11:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-11T11:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-11T12:00:00-06:00
+7.2,O’Morrow Station 1,Outdoor Temperature,2026-04-11T12:00:00-06:00
+1.8,O’Morrow Station 1,Fine Particulate Matter,2026-04-11T12:00:00-06:00
+7.4,O’Morrow Station 1,Wind Speed,2026-04-11T12:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T12:00:00-06:00
+47.5,O’Morrow Station 1,Relative Humidity,2026-04-11T12:00:00-06:00
 101.0,O’Morrow Station 1,Wind Direction,2026-04-11T11:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-11T11:00:00-06:00
+4.7,O’Morrow Station 1,Outdoor Temperature,2026-04-11T11:00:00-06:00
+1.7,O’Morrow Station 1,Fine Particulate Matter,2026-04-11T11:00:00-06:00
+11.7,O’Morrow Station 1,Wind Speed,2026-04-11T11:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T11:00:00-06:00
+55.5,O’Morrow Station 1,Relative Humidity,2026-04-11T11:00:00-06:00
 62.1,O’Morrow Station 1,Relative Humidity,2026-04-11T10:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T10:00:00-06:00
 10.3,O’Morrow Station 1,Wind Speed,2026-04-11T10:00:00-06:00
@@ -911,18 +918,18 @@ Value,StationName,ParameterName,ReadingDate
 47.0,O’Morrow Station 1,Wind Direction,2026-04-11T08:00:00-06:00
 72.8,O’Morrow Station 1,Relative Humidity,2026-04-11T07:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T07:00:00-06:00
-59.0,O’Morrow Station 1,Wind Direction,2026-04-11T07:00:00-06:00
-0.001,O’Morrow Station 1,Sulphur Dioxide,2026-04-11T07:00:00-06:00
--0.9,O’Morrow Station 1,Outdoor Temperature,2026-04-11T07:00:00-06:00
-1.7,O’Morrow Station 1,Fine Particulate Matter,2026-04-11T07:00:00-06:00
 5.4,O’Morrow Station 1,Wind Speed,2026-04-11T07:00:00-06:00
-57.0,O’Morrow Station 1,Wind Direction,2026-04-11T06:00:00-06:00
-0.001,O’Morrow Station 1,Sulphur Dioxide,2026-04-11T06:00:00-06:00
-0.0,O’Morrow Station 1,Outdoor Temperature,2026-04-11T06:00:00-06:00
-1.4,O’Morrow Station 1,Fine Particulate Matter,2026-04-11T06:00:00-06:00
-5.7,O’Morrow Station 1,Wind Speed,2026-04-11T06:00:00-06:00
+1.7,O’Morrow Station 1,Fine Particulate Matter,2026-04-11T07:00:00-06:00
+-0.9,O’Morrow Station 1,Outdoor Temperature,2026-04-11T07:00:00-06:00
+0.001,O’Morrow Station 1,Sulphur Dioxide,2026-04-11T07:00:00-06:00
+59.0,O’Morrow Station 1,Wind Direction,2026-04-11T07:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T06:00:00-06:00
 67.1,O’Morrow Station 1,Relative Humidity,2026-04-11T06:00:00-06:00
+5.7,O’Morrow Station 1,Wind Speed,2026-04-11T06:00:00-06:00
+1.4,O’Morrow Station 1,Fine Particulate Matter,2026-04-11T06:00:00-06:00
+0.0,O’Morrow Station 1,Outdoor Temperature,2026-04-11T06:00:00-06:00
+0.001,O’Morrow Station 1,Sulphur Dioxide,2026-04-11T06:00:00-06:00
+57.0,O’Morrow Station 1,Wind Direction,2026-04-11T06:00:00-06:00
 64.9,O’Morrow Station 1,Relative Humidity,2026-04-11T05:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T05:00:00-06:00
 7.5,O’Morrow Station 1,Wind Speed,2026-04-11T05:00:00-06:00
@@ -932,11 +939,11 @@ Value,StationName,ParameterName,ReadingDate
 70.0,O’Morrow Station 1,Wind Direction,2026-04-11T05:00:00-06:00
 63.3,O’Morrow Station 1,Relative Humidity,2026-04-11T04:00:00-06:00
 0.9,O’Morrow Station 1,Outdoor Temperature,2026-04-11T04:00:00-06:00
-4.1,O’Morrow Station 1,Wind Speed,2026-04-11T04:00:00-06:00
-1.3,O’Morrow Station 1,Fine Particulate Matter,2026-04-11T04:00:00-06:00
-,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T04:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-11T04:00:00-06:00
 46.0,O’Morrow Station 1,Wind Direction,2026-04-11T04:00:00-06:00
+,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T04:00:00-06:00
+1.3,O’Morrow Station 1,Fine Particulate Matter,2026-04-11T04:00:00-06:00
+4.1,O’Morrow Station 1,Wind Speed,2026-04-11T04:00:00-06:00
 63.5,O’Morrow Station 1,Relative Humidity,2026-04-11T03:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T03:00:00-06:00
 1.3,O’Morrow Station 1,Outdoor Temperature,2026-04-11T03:00:00-06:00
@@ -956,8 +963,8 @@ Value,StationName,ParameterName,ReadingDate
 59.0,O’Morrow Station 1,Relative Humidity,2026-04-11T01:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T01:00:00-06:00
 6.2,O’Morrow Station 1,Wind Speed,2026-04-11T01:00:00-06:00
-1.2,O’Morrow Station 1,Fine Particulate Matter,2026-04-11T01:00:00-06:00
 1.8,O’Morrow Station 1,Outdoor Temperature,2026-04-11T01:00:00-06:00
+1.2,O’Morrow Station 1,Fine Particulate Matter,2026-04-11T01:00:00-06:00
 2.2,O’Morrow Station 1,Fine Particulate Matter,2026-04-11T00:00:00-06:00
 71.8,O’Morrow Station 1,Relative Humidity,2026-04-11T00:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-11T00:00:00-06:00
@@ -979,12 +986,12 @@ Value,StationName,ParameterName,ReadingDate
 1.2,O’Morrow Station 1,Fine Particulate Matter,2026-04-10T22:00:00-06:00
 2.6,O’Morrow Station 1,Wind Speed,2026-04-10T22:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-10T22:00:00-06:00
-5.1,O’Morrow Station 1,Outdoor Temperature,2026-04-10T21:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-10T21:00:00-06:00
-51.6,O’Morrow Station 1,Relative Humidity,2026-04-10T21:00:00-06:00
-1.3,O’Morrow Station 1,Fine Particulate Matter,2026-04-10T21:00:00-06:00
-2.9,O’Morrow Station 1,Wind Speed,2026-04-10T21:00:00-06:00
 94.0,O’Morrow Station 1,Wind Direction,2026-04-10T21:00:00-06:00
+2.9,O’Morrow Station 1,Wind Speed,2026-04-10T21:00:00-06:00
+1.3,O’Morrow Station 1,Fine Particulate Matter,2026-04-10T21:00:00-06:00
+51.6,O’Morrow Station 1,Relative Humidity,2026-04-10T21:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-10T21:00:00-06:00
+5.1,O’Morrow Station 1,Outdoor Temperature,2026-04-10T21:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-10T21:00:00-06:00
 8.8,O’Morrow Station 1,Outdoor Temperature,2026-04-10T20:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-10T20:00:00-06:00
@@ -1000,20 +1007,20 @@ Value,StationName,ParameterName,ReadingDate
 169.0,O’Morrow Station 1,Wind Direction,2026-04-10T19:00:00-06:00
 36.2,O’Morrow Station 1,Relative Humidity,2026-04-10T19:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-10T19:00:00-06:00
-36.8,O’Morrow Station 1,Relative Humidity,2026-04-10T18:00:00-06:00
 2.7,O’Morrow Station 1,Fine Particulate Matter,2026-04-10T18:00:00-06:00
 7.3,O’Morrow Station 1,Wind Speed,2026-04-10T18:00:00-06:00
-9.3,O’Morrow Station 1,Outdoor Temperature,2026-04-10T18:00:00-06:00
+36.8,O’Morrow Station 1,Relative Humidity,2026-04-10T18:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-10T18:00:00-06:00
 164.0,O’Morrow Station 1,Wind Direction,2026-04-10T18:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-10T18:00:00-06:00
-0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-10T17:00:00-06:00
-34.4,O’Morrow Station 1,Relative Humidity,2026-04-10T17:00:00-06:00
-138.0,O’Morrow Station 1,Wind Direction,2026-04-10T17:00:00-06:00
-8.2,O’Morrow Station 1,Wind Speed,2026-04-10T17:00:00-06:00
-2.2,O’Morrow Station 1,Fine Particulate Matter,2026-04-10T17:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-10T17:00:00-06:00
+9.3,O’Morrow Station 1,Outdoor Temperature,2026-04-10T18:00:00-06:00
 10.4,O’Morrow Station 1,Outdoor Temperature,2026-04-10T17:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-10T17:00:00-06:00
+2.2,O’Morrow Station 1,Fine Particulate Matter,2026-04-10T17:00:00-06:00
+8.2,O’Morrow Station 1,Wind Speed,2026-04-10T17:00:00-06:00
+138.0,O’Morrow Station 1,Wind Direction,2026-04-10T17:00:00-06:00
+34.4,O’Morrow Station 1,Relative Humidity,2026-04-10T17:00:00-06:00
+0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-10T17:00:00-06:00
 10.0,O’Morrow Station 1,Outdoor Temperature,2026-04-10T16:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-10T16:00:00-06:00
 4.0,O’Morrow Station 1,Fine Particulate Matter,2026-04-10T16:00:00-06:00
@@ -1063,19 +1070,19 @@ Value,StationName,ParameterName,ReadingDate
 136.0,O’Morrow Station 1,Wind Direction,2026-04-10T10:00:00-06:00
 50.7,O’Morrow Station 1,Relative Humidity,2026-04-10T10:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-10T10:00:00-06:00
+2.3,O’Morrow Station 1,Outdoor Temperature,2026-04-10T09:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-10T09:00:00-06:00
+1.0,O’Morrow Station 1,Fine Particulate Matter,2026-04-10T09:00:00-06:00
+5.6,O’Morrow Station 1,Wind Speed,2026-04-10T09:00:00-06:00
+98.0,O’Morrow Station 1,Wind Direction,2026-04-10T09:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-10T09:00:00-06:00
 58.2,O’Morrow Station 1,Relative Humidity,2026-04-10T09:00:00-06:00
-98.0,O’Morrow Station 1,Wind Direction,2026-04-10T09:00:00-06:00
-5.6,O’Morrow Station 1,Wind Speed,2026-04-10T09:00:00-06:00
-1.0,O’Morrow Station 1,Fine Particulate Matter,2026-04-10T09:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-10T09:00:00-06:00
-2.3,O’Morrow Station 1,Outdoor Temperature,2026-04-10T09:00:00-06:00
+-0.1,O’Morrow Station 1,Outdoor Temperature,2026-04-10T08:00:00-06:00
 67.5,O’Morrow Station 1,Relative Humidity,2026-04-10T08:00:00-06:00
 78.0,O’Morrow Station 1,Wind Direction,2026-04-10T08:00:00-06:00
 6.0,O’Morrow Station 1,Wind Speed,2026-04-10T08:00:00-06:00
 0.9,O’Morrow Station 1,Fine Particulate Matter,2026-04-10T08:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-10T08:00:00-06:00
--0.1,O’Morrow Station 1,Outdoor Temperature,2026-04-10T08:00:00-06:00
 0.0,O’Morrow Station 1,Sulphur Dioxide,2026-04-10T08:00:00-06:00
 0.5,O’Morrow Station 1,Outdoor Temperature,2026-04-10T07:00:00-06:00
 0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-10T07:00:00-06:00
@@ -1084,19 +1091,19 @@ Value,StationName,ParameterName,ReadingDate
 104.0,O’Morrow Station 1,Wind Direction,2026-04-10T07:00:00-06:00
 0.001,O’Morrow Station 1,Sulphur Dioxide,2026-04-10T07:00:00-06:00
 67.6,O’Morrow Station 1,Relative Humidity,2026-04-10T07:00:00-06:00
-0.2,O’Morrow Station 1,Outdoor Temperature,2026-04-10T06:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-10T06:00:00-06:00
-2.4,O’Morrow Station 1,Fine Particulate Matter,2026-04-10T06:00:00-06:00
-7.2,O’Morrow Station 1,Wind Speed,2026-04-10T06:00:00-06:00
-102.0,O’Morrow Station 1,Wind Direction,2026-04-10T06:00:00-06:00
-0.001,O’Morrow Station 1,Sulphur Dioxide,2026-04-10T06:00:00-06:00
 69.5,O’Morrow Station 1,Relative Humidity,2026-04-10T06:00:00-06:00
-,O’Morrow Station 1,Sulphur Dioxide,2026-04-10T05:00:00-06:00
-0.8,O’Morrow Station 1,Outdoor Temperature,2026-04-10T05:00:00-06:00
-0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-10T05:00:00-06:00
-5.2,O’Morrow Station 1,Wind Speed,2026-04-10T05:00:00-06:00
-64.0,O’Morrow Station 1,Wind Direction,2026-04-10T05:00:00-06:00
+0.001,O’Morrow Station 1,Sulphur Dioxide,2026-04-10T06:00:00-06:00
+102.0,O’Morrow Station 1,Wind Direction,2026-04-10T06:00:00-06:00
+7.2,O’Morrow Station 1,Wind Speed,2026-04-10T06:00:00-06:00
+2.4,O’Morrow Station 1,Fine Particulate Matter,2026-04-10T06:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-10T06:00:00-06:00
+0.2,O’Morrow Station 1,Outdoor Temperature,2026-04-10T06:00:00-06:00
 66.2,O’Morrow Station 1,Relative Humidity,2026-04-10T05:00:00-06:00
+64.0,O’Morrow Station 1,Wind Direction,2026-04-10T05:00:00-06:00
+5.2,O’Morrow Station 1,Wind Speed,2026-04-10T05:00:00-06:00
+0.0,O’Morrow Station 1,Total Reduced Sulphur,2026-04-10T05:00:00-06:00
+0.8,O’Morrow Station 1,Outdoor Temperature,2026-04-10T05:00:00-06:00
+,O’Morrow Station 1,Sulphur Dioxide,2026-04-10T05:00:00-06:00
 2.3,O’Morrow Station 1,Fine Particulate Matter,2026-04-10T05:00:00-06:00
 ,O’Morrow Station 1,Sulphur Dioxide,2026-04-10T04:00:00-06:00
 ,O’Morrow Station 1,Total Reduced Sulphur,2026-04-10T04:00:00-06:00
@@ -1105,13 +1112,13 @@ Value,StationName,ParameterName,ReadingDate
 ,O’Morrow Station 1,Fine Particulate Matter,2026-04-10T04:00:00-06:00
 ,O’Morrow Station 1,Outdoor Temperature,2026-04-10T04:00:00-06:00
 ,O’Morrow Station 1,Relative Humidity,2026-04-10T04:00:00-06:00
-,O’Morrow Station 1,Relative Humidity,2026-04-10T03:00:00-06:00
-,O’Morrow Station 1,Outdoor Temperature,2026-04-10T03:00:00-06:00
-,O’Morrow Station 1,Fine Particulate Matter,2026-04-10T03:00:00-06:00
-,O’Morrow Station 1,Wind Direction,2026-04-10T03:00:00-06:00
-,O’Morrow Station 1,Wind Speed,2026-04-10T03:00:00-06:00
 ,O’Morrow Station 1,Total Reduced Sulphur,2026-04-10T03:00:00-06:00
+,O’Morrow Station 1,Wind Speed,2026-04-10T03:00:00-06:00
+,O’Morrow Station 1,Wind Direction,2026-04-10T03:00:00-06:00
 ,O’Morrow Station 1,Sulphur Dioxide,2026-04-10T03:00:00-06:00
+,O’Morrow Station 1,Fine Particulate Matter,2026-04-10T03:00:00-06:00
+,O’Morrow Station 1,Outdoor Temperature,2026-04-10T03:00:00-06:00
+,O’Morrow Station 1,Relative Humidity,2026-04-10T03:00:00-06:00
 ,O’Morrow Station 1,Sulphur Dioxide,2026-04-10T02:00:00-06:00
 ,O’Morrow Station 1,Relative Humidity,2026-04-10T02:00:00-06:00
 ,O’Morrow Station 1,Outdoor Temperature,2026-04-10T02:00:00-06:00
@@ -1119,17 +1126,3 @@ Value,StationName,ParameterName,ReadingDate
 ,O’Morrow Station 1,Wind Direction,2026-04-10T02:00:00-06:00
 ,O’Morrow Station 1,Wind Speed,2026-04-10T02:00:00-06:00
 ,O’Morrow Station 1,Total Reduced Sulphur,2026-04-10T02:00:00-06:00
-,O’Morrow Station 1,Total Reduced Sulphur,2026-04-10T01:00:00-06:00
-,O’Morrow Station 1,Wind Speed,2026-04-10T01:00:00-06:00
-,O’Morrow Station 1,Wind Direction,2026-04-10T01:00:00-06:00
-,O’Morrow Station 1,Fine Particulate Matter,2026-04-10T01:00:00-06:00
-,O’Morrow Station 1,Outdoor Temperature,2026-04-10T01:00:00-06:00
-,O’Morrow Station 1,Relative Humidity,2026-04-10T01:00:00-06:00
-,O’Morrow Station 1,Sulphur Dioxide,2026-04-10T01:00:00-06:00
-,O’Morrow Station 1,Relative Humidity,2026-04-10T00:00:00-06:00
-,O’Morrow Station 1,Outdoor Temperature,2026-04-10T00:00:00-06:00
-,O’Morrow Station 1,Fine Particulate Matter,2026-04-10T00:00:00-06:00
-,O’Morrow Station 1,Wind Direction,2026-04-10T00:00:00-06:00
-,O’Morrow Station 1,Wind Speed,2026-04-10T00:00:00-06:00
-,O’Morrow Station 1,Total Reduced Sulphur,2026-04-10T00:00:00-06:00
-,O’Morrow Station 1,Sulphur Dioxide,2026-04-10T00:00:00-06:00
