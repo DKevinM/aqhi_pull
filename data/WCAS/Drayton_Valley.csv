@@ -1,4 +1,15 @@
 Value,StationName,ParameterName,ReadingDate
+0.033,Drayton Valley,Ozone,2026-04-21T02:00:00-06:00
+9.8,Drayton Valley,Outdoor Temperature,2026-04-21T02:00:00-06:00
+3.3,Drayton Valley,Wind Speed,2026-04-21T02:00:00-06:00
+38.3,Drayton Valley,Relative Humidity,2026-04-21T02:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-21T02:00:00-06:00
+162.0,Drayton Valley,Wind Direction,2026-04-21T02:00:00-06:00
+0.0,Drayton Valley,Nitric Oxide,2026-04-21T02:00:00-06:00
+11.8,Drayton Valley,Fine Particulate Matter,2026-04-21T02:00:00-06:00
+0.007,Drayton Valley,Total Oxides of Nitrogen,2026-04-21T02:00:00-06:00
+3.0,Drayton Valley,,2026-04-21T02:00:00-06:00
+0.007,Drayton Valley,Nitrogen Dioxide,2026-04-21T02:00:00-06:00
 3.5,Drayton Valley,Fine Particulate Matter,2026-04-21T01:00:00-06:00
 34.2,Drayton Valley,Relative Humidity,2026-04-21T01:00:00-06:00
 0.005,Drayton Valley,Total Oxides of Nitrogen,2026-04-21T01:00:00-06:00
@@ -10,6 +21,8 @@ Value,StationName,ParameterName,ReadingDate
 0.037,Drayton Valley,Ozone,2026-04-21T01:00:00-06:00
 0.0,Drayton Valley,Sulphur Dioxide,2026-04-21T01:00:00-06:00
 3.0,Drayton Valley,,2026-04-21T01:00:00-06:00
+4.0,Drayton Valley,Fine Particulate Matter,2026-04-21T00:00:00-06:00
+12.6,Drayton Valley,Outdoor Temperature,2026-04-21T00:00:00-06:00
 0.0,Drayton Valley,Sulphur Dioxide,2026-04-21T00:00:00-06:00
 0.0,Drayton Valley,Nitric Oxide,2026-04-21T00:00:00-06:00
 3.0,Drayton Valley,,2026-04-21T00:00:00-06:00
@@ -19,8 +32,6 @@ Value,StationName,ParameterName,ReadingDate
 0.005,Drayton Valley,Nitrogen Dioxide,2026-04-21T00:00:00-06:00
 0.039,Drayton Valley,Ozone,2026-04-21T00:00:00-06:00
 289.0,Drayton Valley,Wind Direction,2026-04-21T00:00:00-06:00
-4.0,Drayton Valley,Fine Particulate Matter,2026-04-21T00:00:00-06:00
-12.6,Drayton Valley,Outdoor Temperature,2026-04-21T00:00:00-06:00
 0.0,Drayton Valley,Nitric Oxide,2026-04-20T23:00:00-06:00
 0.0,Drayton Valley,Sulphur Dioxide,2026-04-20T23:00:00-06:00
 3.9,Drayton Valley,Wind Speed,2026-04-20T23:00:00-06:00
@@ -54,17 +65,19 @@ Value,StationName,ParameterName,ReadingDate
 9.6,Drayton Valley,Wind Speed,2026-04-20T21:00:00-06:00
 336.0,Drayton Valley,Wind Direction,2026-04-20T21:00:00-06:00
 0.0,Drayton Valley,Sulphur Dioxide,2026-04-20T21:00:00-06:00
-0.0,Drayton Valley,Nitric Oxide,2026-04-20T20:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-20T20:00:00-06:00
-19.8,Drayton Valley,Relative Humidity,2026-04-20T20:00:00-06:00
-2.7,Drayton Valley,Fine Particulate Matter,2026-04-20T20:00:00-06:00
-0.002,Drayton Valley,Total Oxides of Nitrogen,2026-04-20T20:00:00-06:00
-0.042,Drayton Valley,Ozone,2026-04-20T20:00:00-06:00
-0.002,Drayton Valley,Nitrogen Dioxide,2026-04-20T20:00:00-06:00
-19.5,Drayton Valley,Outdoor Temperature,2026-04-20T20:00:00-06:00
-290.0,Drayton Valley,Wind Direction,2026-04-20T20:00:00-06:00
-12.8,Drayton Valley,Wind Speed,2026-04-20T20:00:00-06:00
 3.0,Drayton Valley,,2026-04-20T20:00:00-06:00
+12.8,Drayton Valley,Wind Speed,2026-04-20T20:00:00-06:00
+290.0,Drayton Valley,Wind Direction,2026-04-20T20:00:00-06:00
+19.5,Drayton Valley,Outdoor Temperature,2026-04-20T20:00:00-06:00
+0.002,Drayton Valley,Nitrogen Dioxide,2026-04-20T20:00:00-06:00
+0.042,Drayton Valley,Ozone,2026-04-20T20:00:00-06:00
+0.002,Drayton Valley,Total Oxides of Nitrogen,2026-04-20T20:00:00-06:00
+2.7,Drayton Valley,Fine Particulate Matter,2026-04-20T20:00:00-06:00
+19.8,Drayton Valley,Relative Humidity,2026-04-20T20:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-20T20:00:00-06:00
+0.0,Drayton Valley,Nitric Oxide,2026-04-20T20:00:00-06:00
+3.0,Drayton Valley,,2026-04-20T19:00:00-06:00
+18.4,Drayton Valley,Relative Humidity,2026-04-20T19:00:00-06:00
 3.9,Drayton Valley,Fine Particulate Matter,2026-04-20T19:00:00-06:00
 20.6,Drayton Valley,Outdoor Temperature,2026-04-20T19:00:00-06:00
 0.043,Drayton Valley,Ozone,2026-04-20T19:00:00-06:00
@@ -74,8 +87,8 @@ Value,StationName,ParameterName,ReadingDate
 275.0,Drayton Valley,Wind Direction,2026-04-20T19:00:00-06:00
 0.001,Drayton Valley,Nitric Oxide,2026-04-20T19:00:00-06:00
 0.0,Drayton Valley,Sulphur Dioxide,2026-04-20T19:00:00-06:00
-18.4,Drayton Valley,Relative Humidity,2026-04-20T19:00:00-06:00
-3.0,Drayton Valley,,2026-04-20T19:00:00-06:00
+3.0,Drayton Valley,,2026-04-20T18:00:00-06:00
+18.3,Drayton Valley,Wind Speed,2026-04-20T18:00:00-06:00
 0.0,Drayton Valley,Sulphur Dioxide,2026-04-20T18:00:00-06:00
 0.001,Drayton Valley,Nitric Oxide,2026-04-20T18:00:00-06:00
 4.6,Drayton Valley,Fine Particulate Matter,2026-04-20T18:00:00-06:00
@@ -85,8 +98,6 @@ Value,StationName,ParameterName,ReadingDate
 0.043,Drayton Valley,Ozone,2026-04-20T18:00:00-06:00
 288.0,Drayton Valley,Wind Direction,2026-04-20T18:00:00-06:00
 18.9,Drayton Valley,Relative Humidity,2026-04-20T18:00:00-06:00
-18.3,Drayton Valley,Wind Speed,2026-04-20T18:00:00-06:00
-3.0,Drayton Valley,,2026-04-20T18:00:00-06:00
 0.0,Drayton Valley,Sulphur Dioxide,2026-04-20T17:00:00-06:00
 0.001,Drayton Valley,Nitric Oxide,2026-04-20T17:00:00-06:00
 17.6,Drayton Valley,Wind Speed,2026-04-20T17:00:00-06:00
@@ -98,10 +109,10 @@ Value,StationName,ParameterName,ReadingDate
 17.8,Drayton Valley,Relative Humidity,2026-04-20T17:00:00-06:00
 0.044,Drayton Valley,Ozone,2026-04-20T17:00:00-06:00
 3.0,Drayton Valley,,2026-04-20T17:00:00-06:00
-20.5,Drayton Valley,Outdoor Temperature,2026-04-20T16:00:00-06:00
-21.3,Drayton Valley,Relative Humidity,2026-04-20T16:00:00-06:00
-265.0,Drayton Valley,Wind Direction,2026-04-20T16:00:00-06:00
 3.0,Drayton Valley,,2026-04-20T16:00:00-06:00
+265.0,Drayton Valley,Wind Direction,2026-04-20T16:00:00-06:00
+21.3,Drayton Valley,Relative Humidity,2026-04-20T16:00:00-06:00
+20.5,Drayton Valley,Outdoor Temperature,2026-04-20T16:00:00-06:00
 0.002,Drayton Valley,Nitric Oxide,2026-04-20T16:00:00-06:00
 0.041,Drayton Valley,Ozone,2026-04-20T16:00:00-06:00
 12.9,Drayton Valley,Wind Speed,2026-04-20T16:00:00-06:00
@@ -153,28 +164,28 @@ Value,StationName,ParameterName,ReadingDate
 15.6,Drayton Valley,Outdoor Temperature,2026-04-20T12:00:00-06:00
 0.001,Drayton Valley,Nitric Oxide,2026-04-20T12:00:00-06:00
 0.0,Drayton Valley,Sulphur Dioxide,2026-04-20T12:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-20T11:00:00-06:00
-2.0,Drayton Valley,Fine Particulate Matter,2026-04-20T11:00:00-06:00
-38.3,Drayton Valley,Relative Humidity,2026-04-20T11:00:00-06:00
-0.003,Drayton Valley,Nitrogen Dioxide,2026-04-20T11:00:00-06:00
-187.0,Drayton Valley,Wind Direction,2026-04-20T11:00:00-06:00
-12.0,Drayton Valley,Wind Speed,2026-04-20T11:00:00-06:00
-0.034,Drayton Valley,Ozone,2026-04-20T11:00:00-06:00
-0.005,Drayton Valley,Total Oxides of Nitrogen,2026-04-20T11:00:00-06:00
-0.002,Drayton Valley,Nitric Oxide,2026-04-20T11:00:00-06:00
-2.0,Drayton Valley,,2026-04-20T11:00:00-06:00
 13.4,Drayton Valley,Outdoor Temperature,2026-04-20T11:00:00-06:00
-2.0,Drayton Valley,,2026-04-20T10:00:00-06:00
-0.005,Drayton Valley,Nitrogen Dioxide,2026-04-20T10:00:00-06:00
-2.3,Drayton Valley,Fine Particulate Matter,2026-04-20T10:00:00-06:00
-0.008,Drayton Valley,Total Oxides of Nitrogen,2026-04-20T10:00:00-06:00
-10.9,Drayton Valley,Outdoor Temperature,2026-04-20T10:00:00-06:00
-46.2,Drayton Valley,Relative Humidity,2026-04-20T10:00:00-06:00
-189.0,Drayton Valley,Wind Direction,2026-04-20T10:00:00-06:00
-11.0,Drayton Valley,Wind Speed,2026-04-20T10:00:00-06:00
-0.03,Drayton Valley,Ozone,2026-04-20T10:00:00-06:00
-0.003,Drayton Valley,Nitric Oxide,2026-04-20T10:00:00-06:00
+2.0,Drayton Valley,,2026-04-20T11:00:00-06:00
+0.002,Drayton Valley,Nitric Oxide,2026-04-20T11:00:00-06:00
+0.005,Drayton Valley,Total Oxides of Nitrogen,2026-04-20T11:00:00-06:00
+0.034,Drayton Valley,Ozone,2026-04-20T11:00:00-06:00
+12.0,Drayton Valley,Wind Speed,2026-04-20T11:00:00-06:00
+187.0,Drayton Valley,Wind Direction,2026-04-20T11:00:00-06:00
+0.003,Drayton Valley,Nitrogen Dioxide,2026-04-20T11:00:00-06:00
+38.3,Drayton Valley,Relative Humidity,2026-04-20T11:00:00-06:00
+2.0,Drayton Valley,Fine Particulate Matter,2026-04-20T11:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-20T11:00:00-06:00
 0.0,Drayton Valley,Sulphur Dioxide,2026-04-20T10:00:00-06:00
+0.003,Drayton Valley,Nitric Oxide,2026-04-20T10:00:00-06:00
+0.03,Drayton Valley,Ozone,2026-04-20T10:00:00-06:00
+11.0,Drayton Valley,Wind Speed,2026-04-20T10:00:00-06:00
+189.0,Drayton Valley,Wind Direction,2026-04-20T10:00:00-06:00
+46.2,Drayton Valley,Relative Humidity,2026-04-20T10:00:00-06:00
+10.9,Drayton Valley,Outdoor Temperature,2026-04-20T10:00:00-06:00
+0.008,Drayton Valley,Total Oxides of Nitrogen,2026-04-20T10:00:00-06:00
+2.3,Drayton Valley,Fine Particulate Matter,2026-04-20T10:00:00-06:00
+0.005,Drayton Valley,Nitrogen Dioxide,2026-04-20T10:00:00-06:00
+2.0,Drayton Valley,,2026-04-20T10:00:00-06:00
 2.0,Drayton Valley,,2026-04-20T09:00:00-06:00
 0.022,Drayton Valley,Ozone,2026-04-20T09:00:00-06:00
 0.006,Drayton Valley,Nitric Oxide,2026-04-20T09:00:00-06:00
@@ -813,17 +824,17 @@ Value,StationName,ParameterName,ReadingDate
 3.2,Drayton Valley,Outdoor Temperature,2026-04-18T00:00:00-06:00
 57.0,Drayton Valley,Relative Humidity,2026-04-18T00:00:00-06:00
 18.8,Drayton Valley,Fine Particulate Matter,2026-04-18T00:00:00-06:00
-0.032,Drayton Valley,Total Oxides of Nitrogen,2026-04-17T23:00:00-06:00
-0.027,Drayton Valley,Nitrogen Dioxide,2026-04-17T23:00:00-06:00
-0.005,Drayton Valley,Nitric Oxide,2026-04-17T23:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-17T23:00:00-06:00
-0.1,Drayton Valley,Wind Speed,2026-04-17T23:00:00-06:00
-17.2,Drayton Valley,Fine Particulate Matter,2026-04-17T23:00:00-06:00
-50.6,Drayton Valley,Relative Humidity,2026-04-17T23:00:00-06:00
-0.011,Drayton Valley,Ozone,2026-04-17T23:00:00-06:00
-3.9,Drayton Valley,Outdoor Temperature,2026-04-17T23:00:00-06:00
-160.0,Drayton Valley,Wind Direction,2026-04-17T23:00:00-06:00
 3.0,Drayton Valley,,2026-04-17T23:00:00-06:00
+160.0,Drayton Valley,Wind Direction,2026-04-17T23:00:00-06:00
+3.9,Drayton Valley,Outdoor Temperature,2026-04-17T23:00:00-06:00
+0.011,Drayton Valley,Ozone,2026-04-17T23:00:00-06:00
+50.6,Drayton Valley,Relative Humidity,2026-04-17T23:00:00-06:00
+17.2,Drayton Valley,Fine Particulate Matter,2026-04-17T23:00:00-06:00
+0.1,Drayton Valley,Wind Speed,2026-04-17T23:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-17T23:00:00-06:00
+0.005,Drayton Valley,Nitric Oxide,2026-04-17T23:00:00-06:00
+0.027,Drayton Valley,Nitrogen Dioxide,2026-04-17T23:00:00-06:00
+0.032,Drayton Valley,Total Oxides of Nitrogen,2026-04-17T23:00:00-06:00
 0.022,Drayton Valley,Nitrogen Dioxide,2026-04-17T22:00:00-06:00
 0.002,Drayton Valley,Nitric Oxide,2026-04-17T22:00:00-06:00
 0.0,Drayton Valley,Sulphur Dioxide,2026-04-17T22:00:00-06:00
@@ -832,42 +843,42 @@ Value,StationName,ParameterName,ReadingDate
 43.6,Drayton Valley,Relative Humidity,2026-04-17T22:00:00-06:00
 0.019,Drayton Valley,Ozone,2026-04-17T22:00:00-06:00
 0.024,Drayton Valley,Total Oxides of Nitrogen,2026-04-17T22:00:00-06:00
-3.0,Drayton Valley,,2026-04-17T22:00:00-06:00
-313.0,Drayton Valley,Wind Direction,2026-04-17T22:00:00-06:00
 4.9,Drayton Valley,Outdoor Temperature,2026-04-17T22:00:00-06:00
-0.0,Drayton Valley,Nitric Oxide,2026-04-17T21:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-17T21:00:00-06:00
-0.007,Drayton Valley,Nitrogen Dioxide,2026-04-17T21:00:00-06:00
-7.6,Drayton Valley,Fine Particulate Matter,2026-04-17T21:00:00-06:00
-35.2,Drayton Valley,Relative Humidity,2026-04-17T21:00:00-06:00
-33.0,Drayton Valley,Wind Direction,2026-04-17T21:00:00-06:00
-0.04,Drayton Valley,Ozone,2026-04-17T21:00:00-06:00
-6.1,Drayton Valley,Outdoor Temperature,2026-04-17T21:00:00-06:00
-3.5,Drayton Valley,Wind Speed,2026-04-17T21:00:00-06:00
-0.007,Drayton Valley,Total Oxides of Nitrogen,2026-04-17T21:00:00-06:00
+313.0,Drayton Valley,Wind Direction,2026-04-17T22:00:00-06:00
+3.0,Drayton Valley,,2026-04-17T22:00:00-06:00
 3.0,Drayton Valley,,2026-04-17T21:00:00-06:00
-0.003,Drayton Valley,Total Oxides of Nitrogen,2026-04-17T20:00:00-06:00
-13.0,Drayton Valley,Wind Direction,2026-04-17T20:00:00-06:00
-0.045,Drayton Valley,Ozone,2026-04-17T20:00:00-06:00
-2.3,Drayton Valley,Fine Particulate Matter,2026-04-17T20:00:00-06:00
-6.9,Drayton Valley,Outdoor Temperature,2026-04-17T20:00:00-06:00
-0.003,Drayton Valley,Nitrogen Dioxide,2026-04-17T20:00:00-06:00
-0.0,Drayton Valley,Nitric Oxide,2026-04-17T20:00:00-06:00
+0.007,Drayton Valley,Total Oxides of Nitrogen,2026-04-17T21:00:00-06:00
+3.5,Drayton Valley,Wind Speed,2026-04-17T21:00:00-06:00
+6.1,Drayton Valley,Outdoor Temperature,2026-04-17T21:00:00-06:00
+0.04,Drayton Valley,Ozone,2026-04-17T21:00:00-06:00
+33.0,Drayton Valley,Wind Direction,2026-04-17T21:00:00-06:00
+35.2,Drayton Valley,Relative Humidity,2026-04-17T21:00:00-06:00
+7.6,Drayton Valley,Fine Particulate Matter,2026-04-17T21:00:00-06:00
+0.007,Drayton Valley,Nitrogen Dioxide,2026-04-17T21:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-17T21:00:00-06:00
+0.0,Drayton Valley,Nitric Oxide,2026-04-17T21:00:00-06:00
 0.0,Drayton Valley,Sulphur Dioxide,2026-04-17T20:00:00-06:00
-3.0,Drayton Valley,,2026-04-17T20:00:00-06:00
-32.1,Drayton Valley,Relative Humidity,2026-04-17T20:00:00-06:00
+0.0,Drayton Valley,Nitric Oxide,2026-04-17T20:00:00-06:00
+0.003,Drayton Valley,Nitrogen Dioxide,2026-04-17T20:00:00-06:00
+6.9,Drayton Valley,Outdoor Temperature,2026-04-17T20:00:00-06:00
+2.3,Drayton Valley,Fine Particulate Matter,2026-04-17T20:00:00-06:00
+0.045,Drayton Valley,Ozone,2026-04-17T20:00:00-06:00
+13.0,Drayton Valley,Wind Direction,2026-04-17T20:00:00-06:00
+0.003,Drayton Valley,Total Oxides of Nitrogen,2026-04-17T20:00:00-06:00
 6.6,Drayton Valley,Wind Speed,2026-04-17T20:00:00-06:00
-0.048,Drayton Valley,Ozone,2026-04-17T19:00:00-06:00
-0.002,Drayton Valley,Total Oxides of Nitrogen,2026-04-17T19:00:00-06:00
-0.002,Drayton Valley,Nitrogen Dioxide,2026-04-17T19:00:00-06:00
-0.0,Drayton Valley,Nitric Oxide,2026-04-17T19:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-17T19:00:00-06:00
-5.3,Drayton Valley,Wind Speed,2026-04-17T19:00:00-06:00
-1.0,Drayton Valley,Fine Particulate Matter,2026-04-17T19:00:00-06:00
-30.1,Drayton Valley,Relative Humidity,2026-04-17T19:00:00-06:00
-7.5,Drayton Valley,Outdoor Temperature,2026-04-17T19:00:00-06:00
-22.0,Drayton Valley,Wind Direction,2026-04-17T19:00:00-06:00
+32.1,Drayton Valley,Relative Humidity,2026-04-17T20:00:00-06:00
+3.0,Drayton Valley,,2026-04-17T20:00:00-06:00
 3.0,Drayton Valley,,2026-04-17T19:00:00-06:00
+22.0,Drayton Valley,Wind Direction,2026-04-17T19:00:00-06:00
+7.5,Drayton Valley,Outdoor Temperature,2026-04-17T19:00:00-06:00
+30.1,Drayton Valley,Relative Humidity,2026-04-17T19:00:00-06:00
+1.0,Drayton Valley,Fine Particulate Matter,2026-04-17T19:00:00-06:00
+5.3,Drayton Valley,Wind Speed,2026-04-17T19:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-17T19:00:00-06:00
+0.0,Drayton Valley,Nitric Oxide,2026-04-17T19:00:00-06:00
+0.002,Drayton Valley,Nitrogen Dioxide,2026-04-17T19:00:00-06:00
+0.002,Drayton Valley,Total Oxides of Nitrogen,2026-04-17T19:00:00-06:00
+0.048,Drayton Valley,Ozone,2026-04-17T19:00:00-06:00
 0.002,Drayton Valley,Total Oxides of Nitrogen,2026-04-17T18:00:00-06:00
 0.002,Drayton Valley,Nitrogen Dioxide,2026-04-17T18:00:00-06:00
 0.0,Drayton Valley,Nitric Oxide,2026-04-17T18:00:00-06:00
@@ -876,31 +887,31 @@ Value,StationName,ParameterName,ReadingDate
 2.0,Drayton Valley,Fine Particulate Matter,2026-04-17T18:00:00-06:00
 30.1,Drayton Valley,Relative Humidity,2026-04-17T18:00:00-06:00
 0.048,Drayton Valley,Ozone,2026-04-17T18:00:00-06:00
-3.0,Drayton Valley,,2026-04-17T18:00:00-06:00
-351.0,Drayton Valley,Wind Direction,2026-04-17T18:00:00-06:00
 7.3,Drayton Valley,Outdoor Temperature,2026-04-17T18:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-17T17:00:00-06:00
-0.001,Drayton Valley,Nitric Oxide,2026-04-17T17:00:00-06:00
-7.1,Drayton Valley,Wind Speed,2026-04-17T17:00:00-06:00
-2.0,Drayton Valley,Fine Particulate Matter,2026-04-17T17:00:00-06:00
-30.9,Drayton Valley,Relative Humidity,2026-04-17T17:00:00-06:00
-0.048,Drayton Valley,Ozone,2026-04-17T17:00:00-06:00
-0.002,Drayton Valley,Total Oxides of Nitrogen,2026-04-17T17:00:00-06:00
-0.002,Drayton Valley,Nitrogen Dioxide,2026-04-17T17:00:00-06:00
-6.9,Drayton Valley,Outdoor Temperature,2026-04-17T17:00:00-06:00
-304.0,Drayton Valley,Wind Direction,2026-04-17T17:00:00-06:00
+351.0,Drayton Valley,Wind Direction,2026-04-17T18:00:00-06:00
+3.0,Drayton Valley,,2026-04-17T18:00:00-06:00
 3.0,Drayton Valley,,2026-04-17T17:00:00-06:00
-2.4,Drayton Valley,Fine Particulate Matter,2026-04-17T16:00:00-06:00
-9.7,Drayton Valley,Wind Speed,2026-04-17T16:00:00-06:00
-0.047,Drayton Valley,Ozone,2026-04-17T16:00:00-06:00
-32.5,Drayton Valley,Relative Humidity,2026-04-17T16:00:00-06:00
-0.001,Drayton Valley,Nitric Oxide,2026-04-17T16:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-17T16:00:00-06:00
-0.002,Drayton Valley,Nitrogen Dioxide,2026-04-17T16:00:00-06:00
+304.0,Drayton Valley,Wind Direction,2026-04-17T17:00:00-06:00
+6.9,Drayton Valley,Outdoor Temperature,2026-04-17T17:00:00-06:00
+0.002,Drayton Valley,Nitrogen Dioxide,2026-04-17T17:00:00-06:00
+0.002,Drayton Valley,Total Oxides of Nitrogen,2026-04-17T17:00:00-06:00
+0.048,Drayton Valley,Ozone,2026-04-17T17:00:00-06:00
+30.9,Drayton Valley,Relative Humidity,2026-04-17T17:00:00-06:00
+2.0,Drayton Valley,Fine Particulate Matter,2026-04-17T17:00:00-06:00
+7.1,Drayton Valley,Wind Speed,2026-04-17T17:00:00-06:00
+0.001,Drayton Valley,Nitric Oxide,2026-04-17T17:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-17T17:00:00-06:00
 0.004,Drayton Valley,Total Oxides of Nitrogen,2026-04-17T16:00:00-06:00
-3.0,Drayton Valley,,2026-04-17T16:00:00-06:00
-325.0,Drayton Valley,Wind Direction,2026-04-17T16:00:00-06:00
+0.002,Drayton Valley,Nitrogen Dioxide,2026-04-17T16:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-17T16:00:00-06:00
+0.001,Drayton Valley,Nitric Oxide,2026-04-17T16:00:00-06:00
+32.5,Drayton Valley,Relative Humidity,2026-04-17T16:00:00-06:00
+0.047,Drayton Valley,Ozone,2026-04-17T16:00:00-06:00
+9.7,Drayton Valley,Wind Speed,2026-04-17T16:00:00-06:00
+2.4,Drayton Valley,Fine Particulate Matter,2026-04-17T16:00:00-06:00
 6.4,Drayton Valley,Outdoor Temperature,2026-04-17T16:00:00-06:00
+325.0,Drayton Valley,Wind Direction,2026-04-17T16:00:00-06:00
+3.0,Drayton Valley,,2026-04-17T16:00:00-06:00
 3.0,Drayton Valley,,2026-04-17T15:00:00-06:00
 334.0,Drayton Valley,Wind Direction,2026-04-17T15:00:00-06:00
 5.9,Drayton Valley,Outdoor Temperature,2026-04-17T15:00:00-06:00
@@ -912,7 +923,6 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Drayton Valley,Sulphur Dioxide,2026-04-17T15:00:00-06:00
 0.002,Drayton Valley,Nitrogen Dioxide,2026-04-17T15:00:00-06:00
 0.004,Drayton Valley,Total Oxides of Nitrogen,2026-04-17T15:00:00-06:00
-5.7,Drayton Valley,Outdoor Temperature,2026-04-17T14:00:00-06:00
 0.046,Drayton Valley,Ozone,2026-04-17T14:00:00-06:00
 1.9,Drayton Valley,Fine Particulate Matter,2026-04-17T14:00:00-06:00
 0.005,Drayton Valley,Total Oxides of Nitrogen,2026-04-17T14:00:00-06:00
@@ -921,8 +931,10 @@ Value,StationName,ParameterName,ReadingDate
 0.002,Drayton Valley,Nitrogen Dioxide,2026-04-17T14:00:00-06:00
 0.003,Drayton Valley,Nitric Oxide,2026-04-17T14:00:00-06:00
 0.0,Drayton Valley,Sulphur Dioxide,2026-04-17T14:00:00-06:00
-3.0,Drayton Valley,,2026-04-17T14:00:00-06:00
+5.7,Drayton Valley,Outdoor Temperature,2026-04-17T14:00:00-06:00
 34.7,Drayton Valley,Relative Humidity,2026-04-17T14:00:00-06:00
+3.0,Drayton Valley,,2026-04-17T14:00:00-06:00
+4.9,Drayton Valley,Outdoor Temperature,2026-04-17T13:00:00-06:00
 3.0,Drayton Valley,,2026-04-17T13:00:00-06:00
 0.0,Drayton Valley,Sulphur Dioxide,2026-04-17T13:00:00-06:00
 0.002,Drayton Valley,Nitrogen Dioxide,2026-04-17T13:00:00-06:00
@@ -933,11 +945,6 @@ Value,StationName,ParameterName,ReadingDate
 2.1,Drayton Valley,Fine Particulate Matter,2026-04-17T13:00:00-06:00
 12.6,Drayton Valley,Wind Speed,2026-04-17T13:00:00-06:00
 336.0,Drayton Valley,Wind Direction,2026-04-17T13:00:00-06:00
-4.9,Drayton Valley,Outdoor Temperature,2026-04-17T13:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-17T12:00:00-06:00
-14.4,Drayton Valley,Wind Speed,2026-04-17T12:00:00-06:00
-1.0,Drayton Valley,Fine Particulate Matter,2026-04-17T12:00:00-06:00
-0.007,Drayton Valley,Total Oxides of Nitrogen,2026-04-17T12:00:00-06:00
 46.7,Drayton Valley,Relative Humidity,2026-04-17T12:00:00-06:00
 0.044,Drayton Valley,Ozone,2026-04-17T12:00:00-06:00
 0.004,Drayton Valley,Nitrogen Dioxide,2026-04-17T12:00:00-06:00
@@ -945,6 +952,14 @@ Value,StationName,ParameterName,ReadingDate
 4.3,Drayton Valley,Outdoor Temperature,2026-04-17T12:00:00-06:00
 320.0,Drayton Valley,Wind Direction,2026-04-17T12:00:00-06:00
 2.0,Drayton Valley,,2026-04-17T12:00:00-06:00
+0.007,Drayton Valley,Total Oxides of Nitrogen,2026-04-17T12:00:00-06:00
+1.0,Drayton Valley,Fine Particulate Matter,2026-04-17T12:00:00-06:00
+14.4,Drayton Valley,Wind Speed,2026-04-17T12:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-17T12:00:00-06:00
+0.003,Drayton Valley,Nitric Oxide,2026-04-17T11:00:00-06:00
+0.002,Drayton Valley,Nitrogen Dioxide,2026-04-17T11:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-17T11:00:00-06:00
+3.0,Drayton Valley,Outdoor Temperature,2026-04-17T11:00:00-06:00
 305.0,Drayton Valley,Wind Direction,2026-04-17T11:00:00-06:00
 14.9,Drayton Valley,Wind Speed,2026-04-17T11:00:00-06:00
 0.7,Drayton Valley,Fine Particulate Matter,2026-04-17T11:00:00-06:00
@@ -952,10 +967,6 @@ Value,StationName,ParameterName,ReadingDate
 0.041,Drayton Valley,Ozone,2026-04-17T11:00:00-06:00
 0.005,Drayton Valley,Total Oxides of Nitrogen,2026-04-17T11:00:00-06:00
 2.0,Drayton Valley,,2026-04-17T11:00:00-06:00
-3.0,Drayton Valley,Outdoor Temperature,2026-04-17T11:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-17T11:00:00-06:00
-0.002,Drayton Valley,Nitrogen Dioxide,2026-04-17T11:00:00-06:00
-0.003,Drayton Valley,Nitric Oxide,2026-04-17T11:00:00-06:00
 2.0,Drayton Valley,,2026-04-17T10:00:00-06:00
 0.005,Drayton Valley,Total Oxides of Nitrogen,2026-04-17T10:00:00-06:00
 0.038,Drayton Valley,Ozone,2026-04-17T10:00:00-06:00
@@ -1209,28 +1220,28 @@ Value,StationName,ParameterName,ReadingDate
 ,Drayton Valley,Total Oxides of Nitrogen,2026-04-16T12:00:00-06:00
 ,Drayton Valley,Sulphur Dioxide,2026-04-16T12:00:00-06:00
 303.0,Drayton Valley,Wind Direction,2026-04-16T12:00:00-06:00
-352.0,Drayton Valley,Wind Direction,2026-04-16T11:00:00-06:00
-,Drayton Valley,Sulphur Dioxide,2026-04-16T11:00:00-06:00
-,Drayton Valley,Total Oxides of Nitrogen,2026-04-16T11:00:00-06:00
-,Drayton Valley,Ozone,2026-04-16T11:00:00-06:00
-67.4,Drayton Valley,Relative Humidity,2026-04-16T11:00:00-06:00
--5.7,Drayton Valley,Outdoor Temperature,2026-04-16T11:00:00-06:00
-,Drayton Valley,,2026-04-16T11:00:00-06:00
-,Drayton Valley,Nitric Oxide,2026-04-16T11:00:00-06:00
-,Drayton Valley,Nitrogen Dioxide,2026-04-16T11:00:00-06:00
-8.3,Drayton Valley,Wind Speed,2026-04-16T11:00:00-06:00
 3.7,Drayton Valley,Fine Particulate Matter,2026-04-16T11:00:00-06:00
-2.0,Drayton Valley,,2026-04-16T10:00:00-06:00
--6.4,Drayton Valley,Outdoor Temperature,2026-04-16T10:00:00-06:00
-3.5,Drayton Valley,Fine Particulate Matter,2026-04-16T10:00:00-06:00
-0.034,Drayton Valley,Ozone,2026-04-16T10:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-16T10:00:00-06:00
-0.0,Drayton Valley,Nitric Oxide,2026-04-16T10:00:00-06:00
-10.0,Drayton Valley,Wind Speed,2026-04-16T10:00:00-06:00
-71.7,Drayton Valley,Relative Humidity,2026-04-16T10:00:00-06:00
-355.0,Drayton Valley,Wind Direction,2026-04-16T10:00:00-06:00
-0.002,Drayton Valley,Nitrogen Dioxide,2026-04-16T10:00:00-06:00
+8.3,Drayton Valley,Wind Speed,2026-04-16T11:00:00-06:00
+,Drayton Valley,Nitrogen Dioxide,2026-04-16T11:00:00-06:00
+,Drayton Valley,Nitric Oxide,2026-04-16T11:00:00-06:00
+,Drayton Valley,,2026-04-16T11:00:00-06:00
+-5.7,Drayton Valley,Outdoor Temperature,2026-04-16T11:00:00-06:00
+67.4,Drayton Valley,Relative Humidity,2026-04-16T11:00:00-06:00
+,Drayton Valley,Ozone,2026-04-16T11:00:00-06:00
+,Drayton Valley,Total Oxides of Nitrogen,2026-04-16T11:00:00-06:00
+,Drayton Valley,Sulphur Dioxide,2026-04-16T11:00:00-06:00
+352.0,Drayton Valley,Wind Direction,2026-04-16T11:00:00-06:00
 0.002,Drayton Valley,Total Oxides of Nitrogen,2026-04-16T10:00:00-06:00
+0.002,Drayton Valley,Nitrogen Dioxide,2026-04-16T10:00:00-06:00
+355.0,Drayton Valley,Wind Direction,2026-04-16T10:00:00-06:00
+71.7,Drayton Valley,Relative Humidity,2026-04-16T10:00:00-06:00
+10.0,Drayton Valley,Wind Speed,2026-04-16T10:00:00-06:00
+0.0,Drayton Valley,Nitric Oxide,2026-04-16T10:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-16T10:00:00-06:00
+0.034,Drayton Valley,Ozone,2026-04-16T10:00:00-06:00
+3.5,Drayton Valley,Fine Particulate Matter,2026-04-16T10:00:00-06:00
+-6.4,Drayton Valley,Outdoor Temperature,2026-04-16T10:00:00-06:00
+2.0,Drayton Valley,,2026-04-16T10:00:00-06:00
 2.0,Drayton Valley,,2026-04-16T09:00:00-06:00
 -7.6,Drayton Valley,Outdoor Temperature,2026-04-16T09:00:00-06:00
 4.3,Drayton Valley,Fine Particulate Matter,2026-04-16T09:00:00-06:00
@@ -1242,17 +1253,17 @@ Value,StationName,ParameterName,ReadingDate
 0.004,Drayton Valley,Total Oxides of Nitrogen,2026-04-16T09:00:00-06:00
 77.5,Drayton Valley,Relative Humidity,2026-04-16T09:00:00-06:00
 11.0,Drayton Valley,Wind Direction,2026-04-16T09:00:00-06:00
-350.0,Drayton Valley,Wind Direction,2026-04-16T08:00:00-06:00
-0.005,Drayton Valley,Nitrogen Dioxide,2026-04-16T08:00:00-06:00
-80.6,Drayton Valley,Relative Humidity,2026-04-16T08:00:00-06:00
-0.005,Drayton Valley,Total Oxides of Nitrogen,2026-04-16T08:00:00-06:00
-0.0,Drayton Valley,Nitric Oxide,2026-04-16T08:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-16T08:00:00-06:00
-4.3,Drayton Valley,Wind Speed,2026-04-16T08:00:00-06:00
-0.029,Drayton Valley,Ozone,2026-04-16T08:00:00-06:00
--8.1,Drayton Valley,Outdoor Temperature,2026-04-16T08:00:00-06:00
-4.5,Drayton Valley,Fine Particulate Matter,2026-04-16T08:00:00-06:00
 2.0,Drayton Valley,,2026-04-16T08:00:00-06:00
+4.5,Drayton Valley,Fine Particulate Matter,2026-04-16T08:00:00-06:00
+-8.1,Drayton Valley,Outdoor Temperature,2026-04-16T08:00:00-06:00
+0.029,Drayton Valley,Ozone,2026-04-16T08:00:00-06:00
+4.3,Drayton Valley,Wind Speed,2026-04-16T08:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-16T08:00:00-06:00
+0.0,Drayton Valley,Nitric Oxide,2026-04-16T08:00:00-06:00
+0.005,Drayton Valley,Total Oxides of Nitrogen,2026-04-16T08:00:00-06:00
+80.6,Drayton Valley,Relative Humidity,2026-04-16T08:00:00-06:00
+0.005,Drayton Valley,Nitrogen Dioxide,2026-04-16T08:00:00-06:00
+350.0,Drayton Valley,Wind Direction,2026-04-16T08:00:00-06:00
 2.0,Drayton Valley,,2026-04-16T07:00:00-06:00
 4.4,Drayton Valley,Fine Particulate Matter,2026-04-16T07:00:00-06:00
 -8.5,Drayton Valley,Outdoor Temperature,2026-04-16T07:00:00-06:00
@@ -1281,11 +1292,11 @@ Value,StationName,ParameterName,ReadingDate
 ,Drayton Valley,,2026-04-16T05:00:00-06:00
 ,Drayton Valley,Nitrogen Dioxide,2026-04-16T05:00:00-06:00
 9.4,Drayton Valley,Wind Speed,2026-04-16T05:00:00-06:00
+82.6,Drayton Valley,Relative Humidity,2026-04-16T05:00:00-06:00
 336.0,Drayton Valley,Wind Direction,2026-04-16T05:00:00-06:00
 ,Drayton Valley,Sulphur Dioxide,2026-04-16T05:00:00-06:00
 ,Drayton Valley,Total Oxides of Nitrogen,2026-04-16T05:00:00-06:00
 ,Drayton Valley,Ozone,2026-04-16T05:00:00-06:00
-82.6,Drayton Valley,Relative Humidity,2026-04-16T05:00:00-06:00
 2.0,Drayton Valley,,2026-04-16T04:00:00-06:00
 -7.7,Drayton Valley,Outdoor Temperature,2026-04-16T04:00:00-06:00
 0.032,Drayton Valley,Ozone,2026-04-16T04:00:00-06:00
@@ -1297,13 +1308,13 @@ Value,StationName,ParameterName,ReadingDate
 83.4,Drayton Valley,Relative Humidity,2026-04-16T04:00:00-06:00
 340.0,Drayton Valley,Wind Direction,2026-04-16T04:00:00-06:00
 0.002,Drayton Valley,Nitrogen Dioxide,2026-04-16T04:00:00-06:00
-2.0,Drayton Valley,,2026-04-16T03:00:00-06:00
-0.0,Drayton Valley,Nitric Oxide,2026-04-16T03:00:00-06:00
-4.7,Drayton Valley,Fine Particulate Matter,2026-04-16T03:00:00-06:00
--7.5,Drayton Valley,Outdoor Temperature,2026-04-16T03:00:00-06:00
-0.032,Drayton Valley,Ozone,2026-04-16T03:00:00-06:00
-0.0,Drayton Valley,Total Oxides of Nitrogen,2026-04-16T03:00:00-06:00
 0.0,Drayton Valley,Sulphur Dioxide,2026-04-16T03:00:00-06:00
+0.0,Drayton Valley,Total Oxides of Nitrogen,2026-04-16T03:00:00-06:00
+0.032,Drayton Valley,Ozone,2026-04-16T03:00:00-06:00
+-7.5,Drayton Valley,Outdoor Temperature,2026-04-16T03:00:00-06:00
+4.7,Drayton Valley,Fine Particulate Matter,2026-04-16T03:00:00-06:00
+0.0,Drayton Valley,Nitric Oxide,2026-04-16T03:00:00-06:00
+2.0,Drayton Valley,,2026-04-16T03:00:00-06:00
 83.4,Drayton Valley,Relative Humidity,2026-04-16T03:00:00-06:00
 9.7,Drayton Valley,Wind Speed,2026-04-16T03:00:00-06:00
 348.0,Drayton Valley,Wind Direction,2026-04-16T03:00:00-06:00
@@ -1319,39 +1330,39 @@ Value,StationName,ParameterName,ReadingDate
 11.0,Drayton Valley,Wind Speed,2026-04-16T02:00:00-06:00
 84.4,Drayton Valley,Relative Humidity,2026-04-16T02:00:00-06:00
 0.001,Drayton Valley,Nitrogen Dioxide,2026-04-16T02:00:00-06:00
-2.0,Drayton Valley,,2026-04-16T01:00:00-06:00
-0.001,Drayton Valley,Nitrogen Dioxide,2026-04-16T01:00:00-06:00
-350.0,Drayton Valley,Wind Direction,2026-04-16T01:00:00-06:00
-84.2,Drayton Valley,Relative Humidity,2026-04-16T01:00:00-06:00
-11.9,Drayton Valley,Wind Speed,2026-04-16T01:00:00-06:00
-0.0,Drayton Valley,Nitric Oxide,2026-04-16T01:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-16T01:00:00-06:00
-0.0,Drayton Valley,Total Oxides of Nitrogen,2026-04-16T01:00:00-06:00
-0.032,Drayton Valley,Ozone,2026-04-16T01:00:00-06:00
--7.6,Drayton Valley,Outdoor Temperature,2026-04-16T01:00:00-06:00
 2.6,Drayton Valley,Fine Particulate Matter,2026-04-16T01:00:00-06:00
--7.7,Drayton Valley,Outdoor Temperature,2026-04-16T00:00:00-06:00
-0.0,Drayton Valley,Total Oxides of Nitrogen,2026-04-16T00:00:00-06:00
-0.001,Drayton Valley,Nitrogen Dioxide,2026-04-16T00:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-16T00:00:00-06:00
-356.0,Drayton Valley,Wind Direction,2026-04-16T00:00:00-06:00
-0.0,Drayton Valley,Nitric Oxide,2026-04-16T00:00:00-06:00
+-7.6,Drayton Valley,Outdoor Temperature,2026-04-16T01:00:00-06:00
+0.032,Drayton Valley,Ozone,2026-04-16T01:00:00-06:00
+0.0,Drayton Valley,Total Oxides of Nitrogen,2026-04-16T01:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-16T01:00:00-06:00
+0.0,Drayton Valley,Nitric Oxide,2026-04-16T01:00:00-06:00
+11.9,Drayton Valley,Wind Speed,2026-04-16T01:00:00-06:00
+84.2,Drayton Valley,Relative Humidity,2026-04-16T01:00:00-06:00
+350.0,Drayton Valley,Wind Direction,2026-04-16T01:00:00-06:00
+0.001,Drayton Valley,Nitrogen Dioxide,2026-04-16T01:00:00-06:00
+2.0,Drayton Valley,,2026-04-16T01:00:00-06:00
 2.0,Drayton Valley,,2026-04-16T00:00:00-06:00
+0.0,Drayton Valley,Nitric Oxide,2026-04-16T00:00:00-06:00
+356.0,Drayton Valley,Wind Direction,2026-04-16T00:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-16T00:00:00-06:00
+0.001,Drayton Valley,Nitrogen Dioxide,2026-04-16T00:00:00-06:00
+0.0,Drayton Valley,Total Oxides of Nitrogen,2026-04-16T00:00:00-06:00
+-7.7,Drayton Valley,Outdoor Temperature,2026-04-16T00:00:00-06:00
 0.033,Drayton Valley,Ozone,2026-04-16T00:00:00-06:00
 83.1,Drayton Valley,Relative Humidity,2026-04-16T00:00:00-06:00
 2.8,Drayton Valley,Fine Particulate Matter,2026-04-16T00:00:00-06:00
 11.8,Drayton Valley,Wind Speed,2026-04-16T00:00:00-06:00
-2.0,Drayton Valley,,2026-04-15T23:00:00-06:00
-2.8,Drayton Valley,Fine Particulate Matter,2026-04-15T23:00:00-06:00
--7.7,Drayton Valley,Outdoor Temperature,2026-04-15T23:00:00-06:00
-0.0,Drayton Valley,Nitric Oxide,2026-04-15T23:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-15T23:00:00-06:00
-0.002,Drayton Valley,Nitrogen Dioxide,2026-04-15T23:00:00-06:00
-84.2,Drayton Valley,Relative Humidity,2026-04-15T23:00:00-06:00
-0.0,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T23:00:00-06:00
-3.0,Drayton Valley,Wind Direction,2026-04-15T23:00:00-06:00
-12.0,Drayton Valley,Wind Speed,2026-04-15T23:00:00-06:00
 0.03,Drayton Valley,Ozone,2026-04-15T23:00:00-06:00
+12.0,Drayton Valley,Wind Speed,2026-04-15T23:00:00-06:00
+3.0,Drayton Valley,Wind Direction,2026-04-15T23:00:00-06:00
+0.0,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T23:00:00-06:00
+84.2,Drayton Valley,Relative Humidity,2026-04-15T23:00:00-06:00
+0.002,Drayton Valley,Nitrogen Dioxide,2026-04-15T23:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-15T23:00:00-06:00
+0.0,Drayton Valley,Nitric Oxide,2026-04-15T23:00:00-06:00
+-7.7,Drayton Valley,Outdoor Temperature,2026-04-15T23:00:00-06:00
+2.8,Drayton Valley,Fine Particulate Matter,2026-04-15T23:00:00-06:00
+2.0,Drayton Valley,,2026-04-15T23:00:00-06:00
 2.0,Drayton Valley,,2026-04-15T22:00:00-06:00
 2.6,Drayton Valley,Fine Particulate Matter,2026-04-15T22:00:00-06:00
 -7.7,Drayton Valley,Outdoor Temperature,2026-04-15T22:00:00-06:00
@@ -1396,7 +1407,6 @@ Value,StationName,ParameterName,ReadingDate
 3.0,Drayton Valley,Wind Direction,2026-04-15T19:00:00-06:00
 0.028,Drayton Valley,Ozone,2026-04-15T19:00:00-06:00
 0.001,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T19:00:00-06:00
-0.001,Drayton Valley,Nitrogen Dioxide,2026-04-15T18:00:00-06:00
 0.029,Drayton Valley,Ozone,2026-04-15T18:00:00-06:00
 10.0,Drayton Valley,Wind Direction,2026-04-15T18:00:00-06:00
 0.0,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T18:00:00-06:00
@@ -1407,6 +1417,7 @@ Value,StationName,ParameterName,ReadingDate
 -6.0,Drayton Valley,Outdoor Temperature,2026-04-15T18:00:00-06:00
 2.7,Drayton Valley,Fine Particulate Matter,2026-04-15T18:00:00-06:00
 2.0,Drayton Valley,,2026-04-15T18:00:00-06:00
+0.001,Drayton Valley,Nitrogen Dioxide,2026-04-15T18:00:00-06:00
 2.0,Drayton Valley,,2026-04-15T17:00:00-06:00
 2.6,Drayton Valley,Fine Particulate Matter,2026-04-15T17:00:00-06:00
 0.0,Drayton Valley,Nitric Oxide,2026-04-15T17:00:00-06:00
@@ -1462,17 +1473,17 @@ Value,StationName,ParameterName,ReadingDate
 0.03,Drayton Valley,Ozone,2026-04-15T13:00:00-06:00
 0.001,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T13:00:00-06:00
 0.001,Drayton Valley,Nitrogen Dioxide,2026-04-15T13:00:00-06:00
--4.5,Drayton Valley,Outdoor Temperature,2026-04-15T12:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-15T12:00:00-06:00
-0.0,Drayton Valley,Nitric Oxide,2026-04-15T12:00:00-06:00
-2.0,Drayton Valley,,2026-04-15T12:00:00-06:00
-4.0,Drayton Valley,Fine Particulate Matter,2026-04-15T12:00:00-06:00
-91.4,Drayton Valley,Relative Humidity,2026-04-15T12:00:00-06:00
-26.0,Drayton Valley,Wind Direction,2026-04-15T12:00:00-06:00
-0.031,Drayton Valley,Ozone,2026-04-15T12:00:00-06:00
-14.1,Drayton Valley,Wind Speed,2026-04-15T12:00:00-06:00
-0.001,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T12:00:00-06:00
 0.001,Drayton Valley,Nitrogen Dioxide,2026-04-15T12:00:00-06:00
+0.001,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T12:00:00-06:00
+14.1,Drayton Valley,Wind Speed,2026-04-15T12:00:00-06:00
+0.031,Drayton Valley,Ozone,2026-04-15T12:00:00-06:00
+26.0,Drayton Valley,Wind Direction,2026-04-15T12:00:00-06:00
+91.4,Drayton Valley,Relative Humidity,2026-04-15T12:00:00-06:00
+4.0,Drayton Valley,Fine Particulate Matter,2026-04-15T12:00:00-06:00
+2.0,Drayton Valley,,2026-04-15T12:00:00-06:00
+0.0,Drayton Valley,Nitric Oxide,2026-04-15T12:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-15T12:00:00-06:00
+-4.5,Drayton Valley,Outdoor Temperature,2026-04-15T12:00:00-06:00
 3.9,Drayton Valley,Fine Particulate Matter,2026-04-15T11:00:00-06:00
 2.0,Drayton Valley,,2026-04-15T11:00:00-06:00
 -4.5,Drayton Valley,Outdoor Temperature,2026-04-15T11:00:00-06:00
@@ -1484,17 +1495,18 @@ Value,StationName,ParameterName,ReadingDate
 0.03,Drayton Valley,Ozone,2026-04-15T11:00:00-06:00
 13.2,Drayton Valley,Wind Speed,2026-04-15T11:00:00-06:00
 0.001,Drayton Valley,Nitrogen Dioxide,2026-04-15T11:00:00-06:00
-0.03,Drayton Valley,Ozone,2026-04-15T10:00:00-06:00
-16.0,Drayton Valley,Wind Direction,2026-04-15T10:00:00-06:00
-0.001,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T10:00:00-06:00
-93.0,Drayton Valley,Relative Humidity,2026-04-15T10:00:00-06:00
-0.002,Drayton Valley,Nitrogen Dioxide,2026-04-15T10:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-15T10:00:00-06:00
-0.0,Drayton Valley,Nitric Oxide,2026-04-15T10:00:00-06:00
-15.4,Drayton Valley,Wind Speed,2026-04-15T10:00:00-06:00
--4.0,Drayton Valley,Outdoor Temperature,2026-04-15T10:00:00-06:00
-2.0,Drayton Valley,,2026-04-15T10:00:00-06:00
 4.2,Drayton Valley,Fine Particulate Matter,2026-04-15T10:00:00-06:00
+2.0,Drayton Valley,,2026-04-15T10:00:00-06:00
+-4.0,Drayton Valley,Outdoor Temperature,2026-04-15T10:00:00-06:00
+15.4,Drayton Valley,Wind Speed,2026-04-15T10:00:00-06:00
+0.0,Drayton Valley,Nitric Oxide,2026-04-15T10:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-15T10:00:00-06:00
+0.002,Drayton Valley,Nitrogen Dioxide,2026-04-15T10:00:00-06:00
+93.0,Drayton Valley,Relative Humidity,2026-04-15T10:00:00-06:00
+0.001,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T10:00:00-06:00
+16.0,Drayton Valley,Wind Direction,2026-04-15T10:00:00-06:00
+0.03,Drayton Valley,Ozone,2026-04-15T10:00:00-06:00
+4.5,Drayton Valley,Fine Particulate Matter,2026-04-15T09:00:00-06:00
 14.6,Drayton Valley,Wind Speed,2026-04-15T09:00:00-06:00
 0.032,Drayton Valley,Ozone,2026-04-15T09:00:00-06:00
 0.001,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T09:00:00-06:00
@@ -1505,40 +1517,39 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Drayton Valley,Nitric Oxide,2026-04-15T09:00:00-06:00
 -3.0,Drayton Valley,Outdoor Temperature,2026-04-15T09:00:00-06:00
 2.0,Drayton Valley,,2026-04-15T09:00:00-06:00
-4.5,Drayton Valley,Fine Particulate Matter,2026-04-15T09:00:00-06:00
-12.9,Drayton Valley,Wind Speed,2026-04-15T08:00:00-06:00
-0.033,Drayton Valley,Ozone,2026-04-15T08:00:00-06:00
-23.0,Drayton Valley,Wind Direction,2026-04-15T08:00:00-06:00
-0.0,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T08:00:00-06:00
-94.2,Drayton Valley,Relative Humidity,2026-04-15T08:00:00-06:00
-0.002,Drayton Valley,Nitrogen Dioxide,2026-04-15T08:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-15T08:00:00-06:00
-0.0,Drayton Valley,Nitric Oxide,2026-04-15T08:00:00-06:00
--2.1,Drayton Valley,Outdoor Temperature,2026-04-15T08:00:00-06:00
-2.0,Drayton Valley,,2026-04-15T08:00:00-06:00
 3.7,Drayton Valley,Fine Particulate Matter,2026-04-15T08:00:00-06:00
-0.001,Drayton Valley,Nitrogen Dioxide,2026-04-15T07:00:00-06:00
-12.3,Drayton Valley,Wind Speed,2026-04-15T07:00:00-06:00
-0.038,Drayton Valley,Ozone,2026-04-15T07:00:00-06:00
-29.0,Drayton Valley,Wind Direction,2026-04-15T07:00:00-06:00
-0.0,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T07:00:00-06:00
-94.3,Drayton Valley,Relative Humidity,2026-04-15T07:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-15T07:00:00-06:00
-0.0,Drayton Valley,Nitric Oxide,2026-04-15T07:00:00-06:00
--0.9,Drayton Valley,Outdoor Temperature,2026-04-15T07:00:00-06:00
-2.0,Drayton Valley,,2026-04-15T07:00:00-06:00
+2.0,Drayton Valley,,2026-04-15T08:00:00-06:00
+-2.1,Drayton Valley,Outdoor Temperature,2026-04-15T08:00:00-06:00
+0.0,Drayton Valley,Nitric Oxide,2026-04-15T08:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-15T08:00:00-06:00
+0.002,Drayton Valley,Nitrogen Dioxide,2026-04-15T08:00:00-06:00
+94.2,Drayton Valley,Relative Humidity,2026-04-15T08:00:00-06:00
+0.0,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T08:00:00-06:00
+23.0,Drayton Valley,Wind Direction,2026-04-15T08:00:00-06:00
+0.033,Drayton Valley,Ozone,2026-04-15T08:00:00-06:00
+12.9,Drayton Valley,Wind Speed,2026-04-15T08:00:00-06:00
 2.9,Drayton Valley,Fine Particulate Matter,2026-04-15T07:00:00-06:00
-3.3,Drayton Valley,Fine Particulate Matter,2026-04-15T06:00:00-06:00
-2.0,Drayton Valley,,2026-04-15T06:00:00-06:00
--0.4,Drayton Valley,Outdoor Temperature,2026-04-15T06:00:00-06:00
-0.0,Drayton Valley,Nitric Oxide,2026-04-15T06:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-15T06:00:00-06:00
-94.1,Drayton Valley,Relative Humidity,2026-04-15T06:00:00-06:00
-0.0,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T06:00:00-06:00
-30.0,Drayton Valley,Wind Direction,2026-04-15T06:00:00-06:00
-0.038,Drayton Valley,Ozone,2026-04-15T06:00:00-06:00
-9.9,Drayton Valley,Wind Speed,2026-04-15T06:00:00-06:00
+2.0,Drayton Valley,,2026-04-15T07:00:00-06:00
+-0.9,Drayton Valley,Outdoor Temperature,2026-04-15T07:00:00-06:00
+0.0,Drayton Valley,Nitric Oxide,2026-04-15T07:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-15T07:00:00-06:00
+94.3,Drayton Valley,Relative Humidity,2026-04-15T07:00:00-06:00
+0.0,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T07:00:00-06:00
+29.0,Drayton Valley,Wind Direction,2026-04-15T07:00:00-06:00
+0.038,Drayton Valley,Ozone,2026-04-15T07:00:00-06:00
+12.3,Drayton Valley,Wind Speed,2026-04-15T07:00:00-06:00
+0.001,Drayton Valley,Nitrogen Dioxide,2026-04-15T07:00:00-06:00
 0.001,Drayton Valley,Nitrogen Dioxide,2026-04-15T06:00:00-06:00
+9.9,Drayton Valley,Wind Speed,2026-04-15T06:00:00-06:00
+0.038,Drayton Valley,Ozone,2026-04-15T06:00:00-06:00
+30.0,Drayton Valley,Wind Direction,2026-04-15T06:00:00-06:00
+0.0,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T06:00:00-06:00
+94.1,Drayton Valley,Relative Humidity,2026-04-15T06:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-15T06:00:00-06:00
+0.0,Drayton Valley,Nitric Oxide,2026-04-15T06:00:00-06:00
+-0.4,Drayton Valley,Outdoor Temperature,2026-04-15T06:00:00-06:00
+2.0,Drayton Valley,,2026-04-15T06:00:00-06:00
+3.3,Drayton Valley,Fine Particulate Matter,2026-04-15T06:00:00-06:00
 3.3,Drayton Valley,Fine Particulate Matter,2026-04-15T05:00:00-06:00
 -0.1,Drayton Valley,Outdoor Temperature,2026-04-15T05:00:00-06:00
 ,Drayton Valley,Nitrogen Dioxide,2026-04-15T05:00:00-06:00
@@ -1551,16 +1562,16 @@ Value,StationName,ParameterName,ReadingDate
 ,Drayton Valley,Sulphur Dioxide,2026-04-15T05:00:00-06:00
 ,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T05:00:00-06:00
 2.0,Drayton Valley,,2026-04-15T04:00:00-06:00
-3.6,Drayton Valley,Fine Particulate Matter,2026-04-15T04:00:00-06:00
-0.0,Drayton Valley,Nitric Oxide,2026-04-15T04:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-15T04:00:00-06:00
-93.4,Drayton Valley,Relative Humidity,2026-04-15T04:00:00-06:00
-0.002,Drayton Valley,Nitrogen Dioxide,2026-04-15T04:00:00-06:00
-0.0,Drayton Valley,Outdoor Temperature,2026-04-15T04:00:00-06:00
-0.0,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T04:00:00-06:00
-43.0,Drayton Valley,Wind Direction,2026-04-15T04:00:00-06:00
-4.4,Drayton Valley,Wind Speed,2026-04-15T04:00:00-06:00
 0.04,Drayton Valley,Ozone,2026-04-15T04:00:00-06:00
+4.4,Drayton Valley,Wind Speed,2026-04-15T04:00:00-06:00
+43.0,Drayton Valley,Wind Direction,2026-04-15T04:00:00-06:00
+0.0,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T04:00:00-06:00
+0.0,Drayton Valley,Outdoor Temperature,2026-04-15T04:00:00-06:00
+0.002,Drayton Valley,Nitrogen Dioxide,2026-04-15T04:00:00-06:00
+93.4,Drayton Valley,Relative Humidity,2026-04-15T04:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-15T04:00:00-06:00
+0.0,Drayton Valley,Nitric Oxide,2026-04-15T04:00:00-06:00
+3.6,Drayton Valley,Fine Particulate Matter,2026-04-15T04:00:00-06:00
 5.5,Drayton Valley,Fine Particulate Matter,2026-04-15T03:00:00-06:00
 3.0,Drayton Valley,,2026-04-15T03:00:00-06:00
 0.0,Drayton Valley,Nitric Oxide,2026-04-15T03:00:00-06:00
@@ -1573,60 +1584,60 @@ Value,StationName,ParameterName,ReadingDate
 0.038,Drayton Valley,Ozone,2026-04-15T03:00:00-06:00
 3.0,Drayton Valley,Wind Speed,2026-04-15T03:00:00-06:00
 0.4,Drayton Valley,Outdoor Temperature,2026-04-15T02:00:00-06:00
+1.5,Drayton Valley,Wind Speed,2026-04-15T02:00:00-06:00
+0.041,Drayton Valley,Ozone,2026-04-15T02:00:00-06:00
+208.0,Drayton Valley,Wind Direction,2026-04-15T02:00:00-06:00
+0.0,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T02:00:00-06:00
+92.6,Drayton Valley,Relative Humidity,2026-04-15T02:00:00-06:00
+0.002,Drayton Valley,Nitrogen Dioxide,2026-04-15T02:00:00-06:00
 0.0,Drayton Valley,Nitric Oxide,2026-04-15T02:00:00-06:00
 0.0,Drayton Valley,Sulphur Dioxide,2026-04-15T02:00:00-06:00
 4.7,Drayton Valley,Fine Particulate Matter,2026-04-15T02:00:00-06:00
 3.0,Drayton Valley,,2026-04-15T02:00:00-06:00
-0.002,Drayton Valley,Nitrogen Dioxide,2026-04-15T02:00:00-06:00
-92.6,Drayton Valley,Relative Humidity,2026-04-15T02:00:00-06:00
-0.0,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T02:00:00-06:00
-208.0,Drayton Valley,Wind Direction,2026-04-15T02:00:00-06:00
-0.041,Drayton Valley,Ozone,2026-04-15T02:00:00-06:00
-1.5,Drayton Valley,Wind Speed,2026-04-15T02:00:00-06:00
-3.0,Drayton Valley,,2026-04-15T01:00:00-06:00
-0.003,Drayton Valley,Nitrogen Dioxide,2026-04-15T01:00:00-06:00
-6.1,Drayton Valley,Fine Particulate Matter,2026-04-15T01:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-15T01:00:00-06:00
-0.4,Drayton Valley,Outdoor Temperature,2026-04-15T01:00:00-06:00
-0.0,Drayton Valley,Nitric Oxide,2026-04-15T01:00:00-06:00
-92.6,Drayton Valley,Relative Humidity,2026-04-15T01:00:00-06:00
-199.0,Drayton Valley,Wind Direction,2026-04-15T01:00:00-06:00
-0.041,Drayton Valley,Ozone,2026-04-15T01:00:00-06:00
-2.4,Drayton Valley,Wind Speed,2026-04-15T01:00:00-06:00
 0.001,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T01:00:00-06:00
-7.7,Drayton Valley,Fine Particulate Matter,2026-04-15T00:00:00-06:00
-178.0,Drayton Valley,Wind Direction,2026-04-15T00:00:00-06:00
-0.0,Drayton Valley,Nitric Oxide,2026-04-15T00:00:00-06:00
-0.4,Drayton Valley,Outdoor Temperature,2026-04-15T00:00:00-06:00
-0.002,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T00:00:00-06:00
-0.004,Drayton Valley,Nitrogen Dioxide,2026-04-15T00:00:00-06:00
-92.6,Drayton Valley,Relative Humidity,2026-04-15T00:00:00-06:00
-0.039,Drayton Valley,Ozone,2026-04-15T00:00:00-06:00
-2.1,Drayton Valley,Wind Speed,2026-04-15T00:00:00-06:00
+2.4,Drayton Valley,Wind Speed,2026-04-15T01:00:00-06:00
+0.041,Drayton Valley,Ozone,2026-04-15T01:00:00-06:00
+199.0,Drayton Valley,Wind Direction,2026-04-15T01:00:00-06:00
+92.6,Drayton Valley,Relative Humidity,2026-04-15T01:00:00-06:00
+0.0,Drayton Valley,Nitric Oxide,2026-04-15T01:00:00-06:00
+0.4,Drayton Valley,Outdoor Temperature,2026-04-15T01:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-15T01:00:00-06:00
+6.1,Drayton Valley,Fine Particulate Matter,2026-04-15T01:00:00-06:00
+0.003,Drayton Valley,Nitrogen Dioxide,2026-04-15T01:00:00-06:00
+3.0,Drayton Valley,,2026-04-15T01:00:00-06:00
 0.0,Drayton Valley,Sulphur Dioxide,2026-04-15T00:00:00-06:00
+2.1,Drayton Valley,Wind Speed,2026-04-15T00:00:00-06:00
+0.039,Drayton Valley,Ozone,2026-04-15T00:00:00-06:00
+92.6,Drayton Valley,Relative Humidity,2026-04-15T00:00:00-06:00
+0.004,Drayton Valley,Nitrogen Dioxide,2026-04-15T00:00:00-06:00
+0.002,Drayton Valley,Total Oxides of Nitrogen,2026-04-15T00:00:00-06:00
+0.4,Drayton Valley,Outdoor Temperature,2026-04-15T00:00:00-06:00
+0.0,Drayton Valley,Nitric Oxide,2026-04-15T00:00:00-06:00
+178.0,Drayton Valley,Wind Direction,2026-04-15T00:00:00-06:00
+7.7,Drayton Valley,Fine Particulate Matter,2026-04-15T00:00:00-06:00
 3.0,Drayton Valley,,2026-04-15T00:00:00-06:00
-0.041,Drayton Valley,Ozone,2026-04-14T23:00:00-06:00
-3.8,Drayton Valley,Wind Speed,2026-04-14T23:00:00-06:00
-2.0,Drayton Valley,Wind Direction,2026-04-14T23:00:00-06:00
-0.002,Drayton Valley,Total Oxides of Nitrogen,2026-04-14T23:00:00-06:00
-92.5,Drayton Valley,Relative Humidity,2026-04-14T23:00:00-06:00
-0.3,Drayton Valley,Outdoor Temperature,2026-04-14T23:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-14T23:00:00-06:00
-0.004,Drayton Valley,Nitrogen Dioxide,2026-04-14T23:00:00-06:00
-6.6,Drayton Valley,Fine Particulate Matter,2026-04-14T23:00:00-06:00
-0.0,Drayton Valley,Nitric Oxide,2026-04-14T23:00:00-06:00
 3.0,Drayton Valley,,2026-04-14T23:00:00-06:00
-3.0,Drayton Valley,,2026-04-14T22:00:00-06:00
-0.0,Drayton Valley,Nitric Oxide,2026-04-14T22:00:00-06:00
-0.003,Drayton Valley,Nitrogen Dioxide,2026-04-14T22:00:00-06:00
-0.0,Drayton Valley,Sulphur Dioxide,2026-04-14T22:00:00-06:00
-4.6,Drayton Valley,Fine Particulate Matter,2026-04-14T22:00:00-06:00
-0.4,Drayton Valley,Outdoor Temperature,2026-04-14T22:00:00-06:00
-92.1,Drayton Valley,Relative Humidity,2026-04-14T22:00:00-06:00
-332.0,Drayton Valley,Wind Direction,2026-04-14T22:00:00-06:00
-0.002,Drayton Valley,Total Oxides of Nitrogen,2026-04-14T22:00:00-06:00
-7.3,Drayton Valley,Wind Speed,2026-04-14T22:00:00-06:00
+0.0,Drayton Valley,Nitric Oxide,2026-04-14T23:00:00-06:00
+6.6,Drayton Valley,Fine Particulate Matter,2026-04-14T23:00:00-06:00
+0.004,Drayton Valley,Nitrogen Dioxide,2026-04-14T23:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-14T23:00:00-06:00
+0.3,Drayton Valley,Outdoor Temperature,2026-04-14T23:00:00-06:00
+92.5,Drayton Valley,Relative Humidity,2026-04-14T23:00:00-06:00
+0.002,Drayton Valley,Total Oxides of Nitrogen,2026-04-14T23:00:00-06:00
+2.0,Drayton Valley,Wind Direction,2026-04-14T23:00:00-06:00
+3.8,Drayton Valley,Wind Speed,2026-04-14T23:00:00-06:00
+0.041,Drayton Valley,Ozone,2026-04-14T23:00:00-06:00
 0.041,Drayton Valley,Ozone,2026-04-14T22:00:00-06:00
+7.3,Drayton Valley,Wind Speed,2026-04-14T22:00:00-06:00
+0.002,Drayton Valley,Total Oxides of Nitrogen,2026-04-14T22:00:00-06:00
+332.0,Drayton Valley,Wind Direction,2026-04-14T22:00:00-06:00
+92.1,Drayton Valley,Relative Humidity,2026-04-14T22:00:00-06:00
+0.4,Drayton Valley,Outdoor Temperature,2026-04-14T22:00:00-06:00
+4.6,Drayton Valley,Fine Particulate Matter,2026-04-14T22:00:00-06:00
+0.0,Drayton Valley,Sulphur Dioxide,2026-04-14T22:00:00-06:00
+0.003,Drayton Valley,Nitrogen Dioxide,2026-04-14T22:00:00-06:00
+0.0,Drayton Valley,Nitric Oxide,2026-04-14T22:00:00-06:00
+3.0,Drayton Valley,,2026-04-14T22:00:00-06:00
 3.0,Drayton Valley,,2026-04-14T21:00:00-06:00
 0.043,Drayton Valley,Ozone,2026-04-14T21:00:00-06:00
 91.7,Drayton Valley,Relative Humidity,2026-04-14T21:00:00-06:00
