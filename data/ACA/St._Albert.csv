@@ -1,4 +1,15 @@
 Value,StationName,ParameterName,ReadingDate
+82.1,St. Albert,Relative Humidity,2026-04-22T05:00:00-06:00
+3.0,St. Albert,Fine Particulate Matter,2026-04-22T05:00:00-06:00
+,St. Albert,Nitric Oxide,2026-04-22T05:00:00-06:00
+9.3,St. Albert,Outdoor Temperature,2026-04-22T05:00:00-06:00
+,St. Albert,Sulphur Dioxide,2026-04-22T05:00:00-06:00
+,St. Albert,Ozone,2026-04-22T05:00:00-06:00
+,St. Albert,Total Oxides of Nitrogen,2026-04-22T05:00:00-06:00
+,St. Albert,Nitrogen Dioxide,2026-04-22T05:00:00-06:00
+4.7,St. Albert,Wind Speed,2026-04-22T05:00:00-06:00
+91.0,St. Albert,Wind Direction,2026-04-22T05:00:00-06:00
+,St. Albert,,2026-04-22T05:00:00-06:00
 8.7,St. Albert,Wind Speed,2026-04-22T04:00:00-06:00
 0.004,St. Albert,Nitrogen Dioxide,2026-04-22T04:00:00-06:00
 0.039,St. Albert,Ozone,2026-04-22T04:00:00-06:00
@@ -10,19 +21,17 @@ Value,StationName,ParameterName,ReadingDate
 0.004,St. Albert,Total Oxides of Nitrogen,2026-04-22T04:00:00-06:00
 0.0,St. Albert,Nitric Oxide,2026-04-22T04:00:00-06:00
 3.0,St. Albert,,2026-04-22T04:00:00-06:00
-2.0,St. Albert,,2026-04-22T03:00:00-06:00
-9.4,St. Albert,Wind Speed,2026-04-22T03:00:00-06:00
-10.2,St. Albert,Outdoor Temperature,2026-04-22T03:00:00-06:00
-0.006,St. Albert,Total Oxides of Nitrogen,2026-04-22T03:00:00-06:00
-139.0,St. Albert,Wind Direction,2026-04-22T03:00:00-06:00
-0.039,St. Albert,Ozone,2026-04-22T03:00:00-06:00
-69.8,St. Albert,Relative Humidity,2026-04-22T03:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-22T03:00:00-06:00
-3.0,St. Albert,Fine Particulate Matter,2026-04-22T03:00:00-06:00
-0.006,St. Albert,Nitrogen Dioxide,2026-04-22T03:00:00-06:00
 0.004,St. Albert,Sulphur Dioxide,2026-04-22T03:00:00-06:00
-0.006,St. Albert,Total Oxides of Nitrogen,2026-04-22T02:00:00-06:00
-2.0,St. Albert,,2026-04-22T02:00:00-06:00
+0.006,St. Albert,Nitrogen Dioxide,2026-04-22T03:00:00-06:00
+3.0,St. Albert,Fine Particulate Matter,2026-04-22T03:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-22T03:00:00-06:00
+69.8,St. Albert,Relative Humidity,2026-04-22T03:00:00-06:00
+0.039,St. Albert,Ozone,2026-04-22T03:00:00-06:00
+139.0,St. Albert,Wind Direction,2026-04-22T03:00:00-06:00
+0.006,St. Albert,Total Oxides of Nitrogen,2026-04-22T03:00:00-06:00
+10.2,St. Albert,Outdoor Temperature,2026-04-22T03:00:00-06:00
+9.4,St. Albert,Wind Speed,2026-04-22T03:00:00-06:00
+2.0,St. Albert,,2026-04-22T03:00:00-06:00
 0.006,St. Albert,Nitrogen Dioxide,2026-04-22T02:00:00-06:00
 0.034,St. Albert,Ozone,2026-04-22T02:00:00-06:00
 0.001,St. Albert,Sulphur Dioxide,2026-04-22T02:00:00-06:00
@@ -32,39 +41,41 @@ Value,StationName,ParameterName,ReadingDate
 6.9,St. Albert,Wind Speed,2026-04-22T02:00:00-06:00
 9.7,St. Albert,Outdoor Temperature,2026-04-22T02:00:00-06:00
 78.2,St. Albert,Relative Humidity,2026-04-22T02:00:00-06:00
-0.004,St. Albert,Nitrogen Dioxide,2026-04-22T01:00:00-06:00
-59.6,St. Albert,Relative Humidity,2026-04-22T01:00:00-06:00
-0.004,St. Albert,Total Oxides of Nitrogen,2026-04-22T01:00:00-06:00
-85.0,St. Albert,Wind Direction,2026-04-22T01:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-22T01:00:00-06:00
-10.8,St. Albert,Outdoor Temperature,2026-04-22T01:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-22T01:00:00-06:00
-6.0,St. Albert,Wind Speed,2026-04-22T01:00:00-06:00
-0.036,St. Albert,Ozone,2026-04-22T01:00:00-06:00
+0.006,St. Albert,Total Oxides of Nitrogen,2026-04-22T02:00:00-06:00
+2.0,St. Albert,,2026-04-22T02:00:00-06:00
 2.9,St. Albert,Fine Particulate Matter,2026-04-22T01:00:00-06:00
+0.036,St. Albert,Ozone,2026-04-22T01:00:00-06:00
+6.0,St. Albert,Wind Speed,2026-04-22T01:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-22T01:00:00-06:00
+10.8,St. Albert,Outdoor Temperature,2026-04-22T01:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-22T01:00:00-06:00
+85.0,St. Albert,Wind Direction,2026-04-22T01:00:00-06:00
+0.004,St. Albert,Total Oxides of Nitrogen,2026-04-22T01:00:00-06:00
+59.6,St. Albert,Relative Humidity,2026-04-22T01:00:00-06:00
+0.004,St. Albert,Nitrogen Dioxide,2026-04-22T01:00:00-06:00
 2.0,St. Albert,,2026-04-22T01:00:00-06:00
-0.003,St. Albert,Total Oxides of Nitrogen,2026-04-22T00:00:00-06:00
-81.0,St. Albert,Wind Direction,2026-04-22T00:00:00-06:00
-2.9,St. Albert,Fine Particulate Matter,2026-04-22T00:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-22T00:00:00-06:00
 3.0,St. Albert,,2026-04-22T00:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-22T00:00:00-06:00
+2.9,St. Albert,Fine Particulate Matter,2026-04-22T00:00:00-06:00
+81.0,St. Albert,Wind Direction,2026-04-22T00:00:00-06:00
+0.003,St. Albert,Total Oxides of Nitrogen,2026-04-22T00:00:00-06:00
 51.0,St. Albert,Relative Humidity,2026-04-22T00:00:00-06:00
 0.003,St. Albert,Nitrogen Dioxide,2026-04-22T00:00:00-06:00
 0.001,St. Albert,Sulphur Dioxide,2026-04-22T00:00:00-06:00
 0.039,St. Albert,Ozone,2026-04-22T00:00:00-06:00
 11.6,St. Albert,Outdoor Temperature,2026-04-22T00:00:00-06:00
 8.1,St. Albert,Wind Speed,2026-04-22T00:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-21T23:00:00-06:00
-7.1,St. Albert,Wind Speed,2026-04-21T23:00:00-06:00
 41.1,St. Albert,Relative Humidity,2026-04-21T23:00:00-06:00
+7.1,St. Albert,Wind Speed,2026-04-21T23:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-21T23:00:00-06:00
 3.1,St. Albert,Fine Particulate Matter,2026-04-21T23:00:00-06:00
 0.004,St. Albert,Nitrogen Dioxide,2026-04-21T23:00:00-06:00
 84.0,St. Albert,Wind Direction,2026-04-21T23:00:00-06:00
 0.004,St. Albert,Total Oxides of Nitrogen,2026-04-21T23:00:00-06:00
 12.8,St. Albert,Outdoor Temperature,2026-04-21T23:00:00-06:00
-0.041,St. Albert,Ozone,2026-04-21T23:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-21T23:00:00-06:00
 3.0,St. Albert,,2026-04-21T23:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-21T23:00:00-06:00
+0.041,St. Albert,Ozone,2026-04-21T23:00:00-06:00
 3.0,St. Albert,,2026-04-21T22:00:00-06:00
 0.0,St. Albert,Nitric Oxide,2026-04-21T22:00:00-06:00
 0.006,St. Albert,Nitrogen Dioxide,2026-04-21T22:00:00-06:00
@@ -87,17 +98,17 @@ Value,StationName,ParameterName,ReadingDate
 0.006,St. Albert,Nitrogen Dioxide,2026-04-21T21:00:00-06:00
 0.039,St. Albert,Ozone,2026-04-21T21:00:00-06:00
 0.001,St. Albert,Sulphur Dioxide,2026-04-21T21:00:00-06:00
-14.6,St. Albert,Outdoor Temperature,2026-04-21T20:00:00-06:00
-30.9,St. Albert,Relative Humidity,2026-04-21T20:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-21T20:00:00-06:00
-10.1,St. Albert,Wind Speed,2026-04-21T20:00:00-06:00
-49.0,St. Albert,Wind Direction,2026-04-21T20:00:00-06:00
-0.044,St. Albert,Ozone,2026-04-21T20:00:00-06:00
-0.004,St. Albert,Total Oxides of Nitrogen,2026-04-21T20:00:00-06:00
-2.7,St. Albert,Fine Particulate Matter,2026-04-21T20:00:00-06:00
-0.004,St. Albert,Nitrogen Dioxide,2026-04-21T20:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-21T20:00:00-06:00
 3.0,St. Albert,,2026-04-21T20:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-21T20:00:00-06:00
+0.004,St. Albert,Nitrogen Dioxide,2026-04-21T20:00:00-06:00
+2.7,St. Albert,Fine Particulate Matter,2026-04-21T20:00:00-06:00
+0.004,St. Albert,Total Oxides of Nitrogen,2026-04-21T20:00:00-06:00
+0.044,St. Albert,Ozone,2026-04-21T20:00:00-06:00
+49.0,St. Albert,Wind Direction,2026-04-21T20:00:00-06:00
+10.1,St. Albert,Wind Speed,2026-04-21T20:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-21T20:00:00-06:00
+30.9,St. Albert,Relative Humidity,2026-04-21T20:00:00-06:00
+14.6,St. Albert,Outdoor Temperature,2026-04-21T20:00:00-06:00
 3.0,St. Albert,,2026-04-21T19:00:00-06:00
 0.0,St. Albert,Nitric Oxide,2026-04-21T19:00:00-06:00
 3.1,St. Albert,Fine Particulate Matter,2026-04-21T19:00:00-06:00
@@ -112,25 +123,25 @@ Value,StationName,ParameterName,ReadingDate
 3.0,St. Albert,,2026-04-21T18:00:00-06:00
 0.005,St. Albert,Total Oxides of Nitrogen,2026-04-21T18:00:00-06:00
 0.0,St. Albert,Nitric Oxide,2026-04-21T18:00:00-06:00
-3.1,St. Albert,Fine Particulate Matter,2026-04-21T18:00:00-06:00
-17.2,St. Albert,Outdoor Temperature,2026-04-21T18:00:00-06:00
-30.7,St. Albert,Relative Humidity,2026-04-21T18:00:00-06:00
-0.004,St. Albert,Nitrogen Dioxide,2026-04-21T18:00:00-06:00
-0.047,St. Albert,Ozone,2026-04-21T18:00:00-06:00
-38.0,St. Albert,Wind Direction,2026-04-21T18:00:00-06:00
-0.003,St. Albert,Sulphur Dioxide,2026-04-21T18:00:00-06:00
 12.3,St. Albert,Wind Speed,2026-04-21T18:00:00-06:00
-3.0,St. Albert,,2026-04-21T17:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-21T17:00:00-06:00
-18.5,St. Albert,Outdoor Temperature,2026-04-21T17:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-21T17:00:00-06:00
-0.002,St. Albert,Total Oxides of Nitrogen,2026-04-21T17:00:00-06:00
-0.048,St. Albert,Ozone,2026-04-21T17:00:00-06:00
-0.002,St. Albert,Nitrogen Dioxide,2026-04-21T17:00:00-06:00
-2.7,St. Albert,Fine Particulate Matter,2026-04-21T17:00:00-06:00
-11.5,St. Albert,Wind Speed,2026-04-21T17:00:00-06:00
-40.0,St. Albert,Wind Direction,2026-04-21T17:00:00-06:00
+0.003,St. Albert,Sulphur Dioxide,2026-04-21T18:00:00-06:00
+38.0,St. Albert,Wind Direction,2026-04-21T18:00:00-06:00
+0.047,St. Albert,Ozone,2026-04-21T18:00:00-06:00
+0.004,St. Albert,Nitrogen Dioxide,2026-04-21T18:00:00-06:00
+30.7,St. Albert,Relative Humidity,2026-04-21T18:00:00-06:00
+17.2,St. Albert,Outdoor Temperature,2026-04-21T18:00:00-06:00
+3.1,St. Albert,Fine Particulate Matter,2026-04-21T18:00:00-06:00
 29.6,St. Albert,Relative Humidity,2026-04-21T17:00:00-06:00
+40.0,St. Albert,Wind Direction,2026-04-21T17:00:00-06:00
+11.5,St. Albert,Wind Speed,2026-04-21T17:00:00-06:00
+2.7,St. Albert,Fine Particulate Matter,2026-04-21T17:00:00-06:00
+0.002,St. Albert,Nitrogen Dioxide,2026-04-21T17:00:00-06:00
+0.048,St. Albert,Ozone,2026-04-21T17:00:00-06:00
+0.002,St. Albert,Total Oxides of Nitrogen,2026-04-21T17:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-21T17:00:00-06:00
+18.5,St. Albert,Outdoor Temperature,2026-04-21T17:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-21T17:00:00-06:00
+3.0,St. Albert,,2026-04-21T17:00:00-06:00
 3.0,St. Albert,,2026-04-21T16:00:00-06:00
 0.0,St. Albert,Nitric Oxide,2026-04-21T16:00:00-06:00
 2.7,St. Albert,Fine Particulate Matter,2026-04-21T16:00:00-06:00
@@ -142,50 +153,50 @@ Value,StationName,ParameterName,ReadingDate
 8.2,St. Albert,Wind Speed,2026-04-21T16:00:00-06:00
 28.8,St. Albert,Relative Humidity,2026-04-21T16:00:00-06:00
 0.048,St. Albert,Ozone,2026-04-21T16:00:00-06:00
-8.9,St. Albert,Wind Speed,2026-04-21T15:00:00-06:00
-2.7,St. Albert,Fine Particulate Matter,2026-04-21T15:00:00-06:00
-7.0,St. Albert,Wind Direction,2026-04-21T15:00:00-06:00
-0.048,St. Albert,Ozone,2026-04-21T15:00:00-06:00
-17.9,St. Albert,Outdoor Temperature,2026-04-21T15:00:00-06:00
-31.6,St. Albert,Relative Humidity,2026-04-21T15:00:00-06:00
-0.001,St. Albert,Total Oxides of Nitrogen,2026-04-21T15:00:00-06:00
-0.001,St. Albert,Nitrogen Dioxide,2026-04-21T15:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-21T15:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-21T15:00:00-06:00
 3.0,St. Albert,,2026-04-21T15:00:00-06:00
-3.0,St. Albert,,2026-04-21T14:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-21T14:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-21T14:00:00-06:00
-0.001,St. Albert,Nitrogen Dioxide,2026-04-21T14:00:00-06:00
-0.001,St. Albert,Total Oxides of Nitrogen,2026-04-21T14:00:00-06:00
-0.047,St. Albert,Ozone,2026-04-21T14:00:00-06:00
-2.4,St. Albert,Fine Particulate Matter,2026-04-21T14:00:00-06:00
-17.5,St. Albert,Outdoor Temperature,2026-04-21T14:00:00-06:00
-30.9,St. Albert,Relative Humidity,2026-04-21T14:00:00-06:00
-9.9,St. Albert,Wind Speed,2026-04-21T14:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-21T15:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-21T15:00:00-06:00
+0.001,St. Albert,Nitrogen Dioxide,2026-04-21T15:00:00-06:00
+0.001,St. Albert,Total Oxides of Nitrogen,2026-04-21T15:00:00-06:00
+31.6,St. Albert,Relative Humidity,2026-04-21T15:00:00-06:00
+17.9,St. Albert,Outdoor Temperature,2026-04-21T15:00:00-06:00
+0.048,St. Albert,Ozone,2026-04-21T15:00:00-06:00
+7.0,St. Albert,Wind Direction,2026-04-21T15:00:00-06:00
+2.7,St. Albert,Fine Particulate Matter,2026-04-21T15:00:00-06:00
+8.9,St. Albert,Wind Speed,2026-04-21T15:00:00-06:00
 351.0,St. Albert,Wind Direction,2026-04-21T14:00:00-06:00
-29.9,St. Albert,Relative Humidity,2026-04-21T13:00:00-06:00
-322.0,St. Albert,Wind Direction,2026-04-21T13:00:00-06:00
-17.0,St. Albert,Outdoor Temperature,2026-04-21T13:00:00-06:00
-2.4,St. Albert,Fine Particulate Matter,2026-04-21T13:00:00-06:00
-10.2,St. Albert,Wind Speed,2026-04-21T13:00:00-06:00
-0.001,St. Albert,Total Oxides of Nitrogen,2026-04-21T13:00:00-06:00
-0.001,St. Albert,Nitrogen Dioxide,2026-04-21T13:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-21T13:00:00-06:00
-0.045,St. Albert,Ozone,2026-04-21T13:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-21T13:00:00-06:00
+9.9,St. Albert,Wind Speed,2026-04-21T14:00:00-06:00
+30.9,St. Albert,Relative Humidity,2026-04-21T14:00:00-06:00
+17.5,St. Albert,Outdoor Temperature,2026-04-21T14:00:00-06:00
+2.4,St. Albert,Fine Particulate Matter,2026-04-21T14:00:00-06:00
+0.047,St. Albert,Ozone,2026-04-21T14:00:00-06:00
+0.001,St. Albert,Total Oxides of Nitrogen,2026-04-21T14:00:00-06:00
+0.001,St. Albert,Nitrogen Dioxide,2026-04-21T14:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-21T14:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-21T14:00:00-06:00
+3.0,St. Albert,,2026-04-21T14:00:00-06:00
 2.0,St. Albert,,2026-04-21T13:00:00-06:00
-2.0,St. Albert,,2026-04-21T12:00:00-06:00
-0.009,St. Albert,Total Oxides of Nitrogen,2026-04-21T12:00:00-06:00
-39.8,St. Albert,Relative Humidity,2026-04-21T12:00:00-06:00
-271.0,St. Albert,Wind Direction,2026-04-21T12:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-21T12:00:00-06:00
-0.007,St. Albert,Nitrogen Dioxide,2026-04-21T12:00:00-06:00
-3.6,St. Albert,Fine Particulate Matter,2026-04-21T12:00:00-06:00
-0.032,St. Albert,Ozone,2026-04-21T12:00:00-06:00
-5.5,St. Albert,Wind Speed,2026-04-21T12:00:00-06:00
-15.3,St. Albert,Outdoor Temperature,2026-04-21T12:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-21T13:00:00-06:00
+0.045,St. Albert,Ozone,2026-04-21T13:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-21T13:00:00-06:00
+0.001,St. Albert,Nitrogen Dioxide,2026-04-21T13:00:00-06:00
+0.001,St. Albert,Total Oxides of Nitrogen,2026-04-21T13:00:00-06:00
+10.2,St. Albert,Wind Speed,2026-04-21T13:00:00-06:00
+2.4,St. Albert,Fine Particulate Matter,2026-04-21T13:00:00-06:00
+17.0,St. Albert,Outdoor Temperature,2026-04-21T13:00:00-06:00
+322.0,St. Albert,Wind Direction,2026-04-21T13:00:00-06:00
+29.9,St. Albert,Relative Humidity,2026-04-21T13:00:00-06:00
 0.002,St. Albert,Nitric Oxide,2026-04-21T12:00:00-06:00
+15.3,St. Albert,Outdoor Temperature,2026-04-21T12:00:00-06:00
+5.5,St. Albert,Wind Speed,2026-04-21T12:00:00-06:00
+0.032,St. Albert,Ozone,2026-04-21T12:00:00-06:00
+3.6,St. Albert,Fine Particulate Matter,2026-04-21T12:00:00-06:00
+0.007,St. Albert,Nitrogen Dioxide,2026-04-21T12:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-21T12:00:00-06:00
+271.0,St. Albert,Wind Direction,2026-04-21T12:00:00-06:00
+39.8,St. Albert,Relative Humidity,2026-04-21T12:00:00-06:00
+0.009,St. Albert,Total Oxides of Nitrogen,2026-04-21T12:00:00-06:00
+2.0,St. Albert,,2026-04-21T12:00:00-06:00
 11.9,St. Albert,Outdoor Temperature,2026-04-21T11:00:00-06:00
 293.0,St. Albert,Wind Direction,2026-04-21T11:00:00-06:00
 2.0,St. Albert,,2026-04-21T11:00:00-06:00
@@ -197,17 +208,17 @@ Value,StationName,ParameterName,ReadingDate
 4.2,St. Albert,Wind Speed,2026-04-21T11:00:00-06:00
 0.005,St. Albert,Nitric Oxide,2026-04-21T11:00:00-06:00
 0.018,St. Albert,Ozone,2026-04-21T11:00:00-06:00
-6.3,St. Albert,Wind Speed,2026-04-21T10:00:00-06:00
-0.011,St. Albert,Nitrogen Dioxide,2026-04-21T10:00:00-06:00
-0.003,St. Albert,Nitric Oxide,2026-04-21T10:00:00-06:00
-0.019,St. Albert,Ozone,2026-04-21T10:00:00-06:00
-235.0,St. Albert,Wind Direction,2026-04-21T10:00:00-06:00
-61.6,St. Albert,Relative Humidity,2026-04-21T10:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-21T10:00:00-06:00
-9.3,St. Albert,Outdoor Temperature,2026-04-21T10:00:00-06:00
-3.8,St. Albert,Fine Particulate Matter,2026-04-21T10:00:00-06:00
-0.014,St. Albert,Total Oxides of Nitrogen,2026-04-21T10:00:00-06:00
 2.0,St. Albert,,2026-04-21T10:00:00-06:00
+0.014,St. Albert,Total Oxides of Nitrogen,2026-04-21T10:00:00-06:00
+3.8,St. Albert,Fine Particulate Matter,2026-04-21T10:00:00-06:00
+9.3,St. Albert,Outdoor Temperature,2026-04-21T10:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-21T10:00:00-06:00
+61.6,St. Albert,Relative Humidity,2026-04-21T10:00:00-06:00
+235.0,St. Albert,Wind Direction,2026-04-21T10:00:00-06:00
+0.019,St. Albert,Ozone,2026-04-21T10:00:00-06:00
+0.003,St. Albert,Nitric Oxide,2026-04-21T10:00:00-06:00
+0.011,St. Albert,Nitrogen Dioxide,2026-04-21T10:00:00-06:00
+6.3,St. Albert,Wind Speed,2026-04-21T10:00:00-06:00
 2.0,St. Albert,,2026-04-21T09:00:00-06:00
 0.018,St. Albert,Ozone,2026-04-21T09:00:00-06:00
 4.6,St. Albert,Wind Speed,2026-04-21T09:00:00-06:00
@@ -222,14 +233,14 @@ Value,StationName,ParameterName,ReadingDate
 2.0,St. Albert,,2026-04-21T08:00:00-06:00
 0.017,St. Albert,Total Oxides of Nitrogen,2026-04-21T08:00:00-06:00
 4.2,St. Albert,Wind Speed,2026-04-21T08:00:00-06:00
-8.0,St. Albert,Outdoor Temperature,2026-04-21T08:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-21T08:00:00-06:00
-0.002,St. Albert,Nitric Oxide,2026-04-21T08:00:00-06:00
-62.8,St. Albert,Relative Humidity,2026-04-21T08:00:00-06:00
-0.014,St. Albert,Nitrogen Dioxide,2026-04-21T08:00:00-06:00
-3.8,St. Albert,Fine Particulate Matter,2026-04-21T08:00:00-06:00
-0.019,St. Albert,Ozone,2026-04-21T08:00:00-06:00
 303.0,St. Albert,Wind Direction,2026-04-21T08:00:00-06:00
+0.019,St. Albert,Ozone,2026-04-21T08:00:00-06:00
+3.8,St. Albert,Fine Particulate Matter,2026-04-21T08:00:00-06:00
+0.014,St. Albert,Nitrogen Dioxide,2026-04-21T08:00:00-06:00
+62.8,St. Albert,Relative Humidity,2026-04-21T08:00:00-06:00
+0.002,St. Albert,Nitric Oxide,2026-04-21T08:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-21T08:00:00-06:00
+8.0,St. Albert,Outdoor Temperature,2026-04-21T08:00:00-06:00
 2.0,St. Albert,,2026-04-21T07:00:00-06:00
 0.011,St. Albert,Nitrogen Dioxide,2026-04-21T07:00:00-06:00
 4.8,St. Albert,Wind Speed,2026-04-21T07:00:00-06:00
@@ -296,7 +307,6 @@ Value,StationName,ParameterName,ReadingDate
 227.0,St. Albert,Wind Direction,2026-04-21T02:00:00-06:00
 4.7,St. Albert,Wind Speed,2026-04-21T02:00:00-06:00
 9.9,St. Albert,Outdoor Temperature,2026-04-21T02:00:00-06:00
-3.0,St. Albert,,2026-04-21T01:00:00-06:00
 4.0,St. Albert,Fine Particulate Matter,2026-04-21T01:00:00-06:00
 0.01,St. Albert,Nitrogen Dioxide,2026-04-21T01:00:00-06:00
 4.2,St. Albert,Wind Speed,2026-04-21T01:00:00-06:00
@@ -307,64 +317,62 @@ Value,StationName,ParameterName,ReadingDate
 10.6,St. Albert,Outdoor Temperature,2026-04-21T01:00:00-06:00
 0.0,St. Albert,Nitric Oxide,2026-04-21T01:00:00-06:00
 0.001,St. Albert,Sulphur Dioxide,2026-04-21T01:00:00-06:00
+3.0,St. Albert,,2026-04-21T01:00:00-06:00
 3.0,St. Albert,,2026-04-21T00:00:00-06:00
 0.0,St. Albert,Nitric Oxide,2026-04-21T00:00:00-06:00
 262.0,St. Albert,Wind Direction,2026-04-21T00:00:00-06:00
 0.028,St. Albert,Ozone,2026-04-21T00:00:00-06:00
+3.4,St. Albert,Wind Speed,2026-04-21T00:00:00-06:00
 12.2,St. Albert,Outdoor Temperature,2026-04-21T00:00:00-06:00
 0.011,St. Albert,Total Oxides of Nitrogen,2026-04-21T00:00:00-06:00
 0.001,St. Albert,Sulphur Dioxide,2026-04-21T00:00:00-06:00
 5.0,St. Albert,Fine Particulate Matter,2026-04-21T00:00:00-06:00
 0.011,St. Albert,Nitrogen Dioxide,2026-04-21T00:00:00-06:00
 56.4,St. Albert,Relative Humidity,2026-04-21T00:00:00-06:00
-3.4,St. Albert,Wind Speed,2026-04-21T00:00:00-06:00
-0.015,St. Albert,Nitrogen Dioxide,2026-04-20T23:00:00-06:00
-285.0,St. Albert,Wind Direction,2026-04-20T23:00:00-06:00
-49.1,St. Albert,Relative Humidity,2026-04-20T23:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-20T23:00:00-06:00
-2.4,St. Albert,Wind Speed,2026-04-20T23:00:00-06:00
-5.9,St. Albert,Fine Particulate Matter,2026-04-20T23:00:00-06:00
-0.026,St. Albert,Ozone,2026-04-20T23:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-20T23:00:00-06:00
-13.7,St. Albert,Outdoor Temperature,2026-04-20T23:00:00-06:00
-0.015,St. Albert,Total Oxides of Nitrogen,2026-04-20T23:00:00-06:00
 3.0,St. Albert,,2026-04-20T23:00:00-06:00
-2.0,St. Albert,,2026-04-20T22:00:00-06:00
-319.0,St. Albert,Wind Direction,2026-04-20T22:00:00-06:00
-43.9,St. Albert,Relative Humidity,2026-04-20T22:00:00-06:00
-0.006,St. Albert,Total Oxides of Nitrogen,2026-04-20T22:00:00-06:00
-0.037,St. Albert,Ozone,2026-04-20T22:00:00-06:00
-15.1,St. Albert,Outdoor Temperature,2026-04-20T22:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-20T22:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-20T22:00:00-06:00
-1.2,St. Albert,Wind Speed,2026-04-20T22:00:00-06:00
-0.006,St. Albert,Nitrogen Dioxide,2026-04-20T22:00:00-06:00
+0.015,St. Albert,Total Oxides of Nitrogen,2026-04-20T23:00:00-06:00
+13.7,St. Albert,Outdoor Temperature,2026-04-20T23:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-20T23:00:00-06:00
+0.026,St. Albert,Ozone,2026-04-20T23:00:00-06:00
+5.9,St. Albert,Fine Particulate Matter,2026-04-20T23:00:00-06:00
+2.4,St. Albert,Wind Speed,2026-04-20T23:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-20T23:00:00-06:00
+49.1,St. Albert,Relative Humidity,2026-04-20T23:00:00-06:00
+285.0,St. Albert,Wind Direction,2026-04-20T23:00:00-06:00
+0.015,St. Albert,Nitrogen Dioxide,2026-04-20T23:00:00-06:00
 2.9,St. Albert,Fine Particulate Matter,2026-04-20T22:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-20T21:00:00-06:00
-17.4,St. Albert,Outdoor Temperature,2026-04-20T21:00:00-06:00
-0.003,St. Albert,Total Oxides of Nitrogen,2026-04-20T21:00:00-06:00
-0.003,St. Albert,Nitrogen Dioxide,2026-04-20T21:00:00-06:00
-37.4,St. Albert,Relative Humidity,2026-04-20T21:00:00-06:00
-1.8,St. Albert,Fine Particulate Matter,2026-04-20T21:00:00-06:00
-0.041,St. Albert,Ozone,2026-04-20T21:00:00-06:00
-4.5,St. Albert,Wind Speed,2026-04-20T21:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-20T21:00:00-06:00
-349.0,St. Albert,Wind Direction,2026-04-20T21:00:00-06:00
+0.006,St. Albert,Nitrogen Dioxide,2026-04-20T22:00:00-06:00
+1.2,St. Albert,Wind Speed,2026-04-20T22:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-20T22:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-20T22:00:00-06:00
+15.1,St. Albert,Outdoor Temperature,2026-04-20T22:00:00-06:00
+0.037,St. Albert,Ozone,2026-04-20T22:00:00-06:00
+0.006,St. Albert,Total Oxides of Nitrogen,2026-04-20T22:00:00-06:00
+43.9,St. Albert,Relative Humidity,2026-04-20T22:00:00-06:00
+319.0,St. Albert,Wind Direction,2026-04-20T22:00:00-06:00
+2.0,St. Albert,,2026-04-20T22:00:00-06:00
 2.0,St. Albert,,2026-04-20T21:00:00-06:00
-2.0,St. Albert,,2026-04-20T20:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-20T20:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-20T20:00:00-06:00
-7.6,St. Albert,Wind Speed,2026-04-20T20:00:00-06:00
-1.5,St. Albert,Fine Particulate Matter,2026-04-20T20:00:00-06:00
-4.0,St. Albert,Wind Direction,2026-04-20T20:00:00-06:00
-35.5,St. Albert,Relative Humidity,2026-04-20T20:00:00-06:00
-0.042,St. Albert,Ozone,2026-04-20T20:00:00-06:00
-18.8,St. Albert,Outdoor Temperature,2026-04-20T20:00:00-06:00
-0.002,St. Albert,Nitrogen Dioxide,2026-04-20T20:00:00-06:00
+349.0,St. Albert,Wind Direction,2026-04-20T21:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-20T21:00:00-06:00
+4.5,St. Albert,Wind Speed,2026-04-20T21:00:00-06:00
+0.041,St. Albert,Ozone,2026-04-20T21:00:00-06:00
+1.8,St. Albert,Fine Particulate Matter,2026-04-20T21:00:00-06:00
+37.4,St. Albert,Relative Humidity,2026-04-20T21:00:00-06:00
+0.003,St. Albert,Nitrogen Dioxide,2026-04-20T21:00:00-06:00
+0.003,St. Albert,Total Oxides of Nitrogen,2026-04-20T21:00:00-06:00
+17.4,St. Albert,Outdoor Temperature,2026-04-20T21:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-20T21:00:00-06:00
 0.002,St. Albert,Total Oxides of Nitrogen,2026-04-20T20:00:00-06:00
-2.0,St. Albert,,2026-04-20T19:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-20T19:00:00-06:00
-11.1,St. Albert,Wind Speed,2026-04-20T19:00:00-06:00
+0.002,St. Albert,Nitrogen Dioxide,2026-04-20T20:00:00-06:00
+18.8,St. Albert,Outdoor Temperature,2026-04-20T20:00:00-06:00
+0.042,St. Albert,Ozone,2026-04-20T20:00:00-06:00
+35.5,St. Albert,Relative Humidity,2026-04-20T20:00:00-06:00
+4.0,St. Albert,Wind Direction,2026-04-20T20:00:00-06:00
+1.5,St. Albert,Fine Particulate Matter,2026-04-20T20:00:00-06:00
+7.6,St. Albert,Wind Speed,2026-04-20T20:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-20T20:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-20T20:00:00-06:00
+2.0,St. Albert,,2026-04-20T20:00:00-06:00
 1.8,St. Albert,Fine Particulate Matter,2026-04-20T19:00:00-06:00
 339.0,St. Albert,Wind Direction,2026-04-20T19:00:00-06:00
 31.9,St. Albert,Relative Humidity,2026-04-20T19:00:00-06:00
@@ -373,6 +381,9 @@ Value,StationName,ParameterName,ReadingDate
 0.002,St. Albert,Nitrogen Dioxide,2026-04-20T19:00:00-06:00
 0.002,St. Albert,Total Oxides of Nitrogen,2026-04-20T19:00:00-06:00
 0.0,St. Albert,Nitric Oxide,2026-04-20T19:00:00-06:00
+11.1,St. Albert,Wind Speed,2026-04-20T19:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-20T19:00:00-06:00
+2.0,St. Albert,,2026-04-20T19:00:00-06:00
 21.3,St. Albert,Outdoor Temperature,2026-04-20T18:00:00-06:00
 0.044,St. Albert,Ozone,2026-04-20T18:00:00-06:00
 25.2,St. Albert,Relative Humidity,2026-04-20T18:00:00-06:00
@@ -395,28 +406,28 @@ Value,StationName,ParameterName,ReadingDate
 0.001,St. Albert,Sulphur Dioxide,2026-04-20T17:00:00-06:00
 0.001,St. Albert,Nitrogen Dioxide,2026-04-20T17:00:00-06:00
 2.0,St. Albert,,2026-04-20T17:00:00-06:00
+13.6,St. Albert,Wind Speed,2026-04-20T16:00:00-06:00
+0.001,St. Albert,Total Oxides of Nitrogen,2026-04-20T16:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-20T16:00:00-06:00
 0.001,St. Albert,Nitrogen Dioxide,2026-04-20T16:00:00-06:00
 0.0,St. Albert,Nitric Oxide,2026-04-20T16:00:00-06:00
 2.0,St. Albert,,2026-04-20T16:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-20T16:00:00-06:00
-0.001,St. Albert,Total Oxides of Nitrogen,2026-04-20T16:00:00-06:00
-13.6,St. Albert,Wind Speed,2026-04-20T16:00:00-06:00
 1.4,St. Albert,Fine Particulate Matter,2026-04-20T16:00:00-06:00
 226.0,St. Albert,Wind Direction,2026-04-20T16:00:00-06:00
 29.0,St. Albert,Relative Humidity,2026-04-20T16:00:00-06:00
 0.045,St. Albert,Ozone,2026-04-20T16:00:00-06:00
 20.1,St. Albert,Outdoor Temperature,2026-04-20T16:00:00-06:00
-0.002,St. Albert,Nitrogen Dioxide,2026-04-20T15:00:00-06:00
-19.2,St. Albert,Outdoor Temperature,2026-04-20T15:00:00-06:00
-0.043,St. Albert,Ozone,2026-04-20T15:00:00-06:00
-32.7,St. Albert,Relative Humidity,2026-04-20T15:00:00-06:00
-207.0,St. Albert,Wind Direction,2026-04-20T15:00:00-06:00
-1.4,St. Albert,Fine Particulate Matter,2026-04-20T15:00:00-06:00
-11.9,St. Albert,Wind Speed,2026-04-20T15:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-20T15:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-20T15:00:00-06:00
-0.002,St. Albert,Total Oxides of Nitrogen,2026-04-20T15:00:00-06:00
 2.0,St. Albert,,2026-04-20T15:00:00-06:00
+0.002,St. Albert,Total Oxides of Nitrogen,2026-04-20T15:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-20T15:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-20T15:00:00-06:00
+11.9,St. Albert,Wind Speed,2026-04-20T15:00:00-06:00
+1.4,St. Albert,Fine Particulate Matter,2026-04-20T15:00:00-06:00
+207.0,St. Albert,Wind Direction,2026-04-20T15:00:00-06:00
+32.7,St. Albert,Relative Humidity,2026-04-20T15:00:00-06:00
+0.043,St. Albert,Ozone,2026-04-20T15:00:00-06:00
+19.2,St. Albert,Outdoor Temperature,2026-04-20T15:00:00-06:00
+0.002,St. Albert,Nitrogen Dioxide,2026-04-20T15:00:00-06:00
 2.0,St. Albert,,2026-04-20T14:00:00-06:00
 0.0,St. Albert,Nitric Oxide,2026-04-20T14:00:00-06:00
 0.001,St. Albert,Sulphur Dioxide,2026-04-20T14:00:00-06:00
@@ -450,17 +461,17 @@ Value,StationName,ParameterName,ReadingDate
 1.2,St. Albert,Fine Particulate Matter,2026-04-20T12:00:00-06:00
 208.0,St. Albert,Wind Direction,2026-04-20T12:00:00-06:00
 41.6,St. Albert,Relative Humidity,2026-04-20T12:00:00-06:00
-0.004,St. Albert,Nitrogen Dioxide,2026-04-20T11:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-20T11:00:00-06:00
-11.7,St. Albert,Wind Speed,2026-04-20T11:00:00-06:00
-2.0,St. Albert,Fine Particulate Matter,2026-04-20T11:00:00-06:00
-233.0,St. Albert,Wind Direction,2026-04-20T11:00:00-06:00
-47.0,St. Albert,Relative Humidity,2026-04-20T11:00:00-06:00
-0.005,St. Albert,Total Oxides of Nitrogen,2026-04-20T11:00:00-06:00
-0.032,St. Albert,Ozone,2026-04-20T11:00:00-06:00
 13.6,St. Albert,Outdoor Temperature,2026-04-20T11:00:00-06:00
-2.0,St. Albert,,2026-04-20T11:00:00-06:00
+0.032,St. Albert,Ozone,2026-04-20T11:00:00-06:00
+0.005,St. Albert,Total Oxides of Nitrogen,2026-04-20T11:00:00-06:00
+47.0,St. Albert,Relative Humidity,2026-04-20T11:00:00-06:00
+233.0,St. Albert,Wind Direction,2026-04-20T11:00:00-06:00
+2.0,St. Albert,Fine Particulate Matter,2026-04-20T11:00:00-06:00
+0.004,St. Albert,Nitrogen Dioxide,2026-04-20T11:00:00-06:00
+11.7,St. Albert,Wind Speed,2026-04-20T11:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-20T11:00:00-06:00
 0.001,St. Albert,Nitric Oxide,2026-04-20T11:00:00-06:00
+2.0,St. Albert,,2026-04-20T11:00:00-06:00
 2.0,St. Albert,,2026-04-20T10:00:00-06:00
 0.003,St. Albert,Nitric Oxide,2026-04-20T10:00:00-06:00
 0.001,St. Albert,Sulphur Dioxide,2026-04-20T10:00:00-06:00
@@ -519,14 +530,14 @@ Value,StationName,ParameterName,ReadingDate
 ,St. Albert,,2026-04-20T05:00:00-06:00
 ,St. Albert,Nitric Oxide,2026-04-20T05:00:00-06:00
 ,St. Albert,Sulphur Dioxide,2026-04-20T05:00:00-06:00
+,St. Albert,Total Oxides of Nitrogen,2026-04-20T05:00:00-06:00
+,St. Albert,Ozone,2026-04-20T05:00:00-06:00
 ,St. Albert,Nitrogen Dioxide,2026-04-20T05:00:00-06:00
 4.4,St. Albert,Wind Speed,2026-04-20T05:00:00-06:00
 1.3,St. Albert,Fine Particulate Matter,2026-04-20T05:00:00-06:00
 213.0,St. Albert,Wind Direction,2026-04-20T05:00:00-06:00
 60.9,St. Albert,Relative Humidity,2026-04-20T05:00:00-06:00
 7.9,St. Albert,Outdoor Temperature,2026-04-20T05:00:00-06:00
-,St. Albert,Ozone,2026-04-20T05:00:00-06:00
-,St. Albert,Total Oxides of Nitrogen,2026-04-20T05:00:00-06:00
 2.0,St. Albert,,2026-04-20T04:00:00-06:00
 3.8,St. Albert,Wind Speed,2026-04-20T04:00:00-06:00
 0.005,St. Albert,Nitrogen Dioxide,2026-04-20T04:00:00-06:00
@@ -593,39 +604,39 @@ Value,StationName,ParameterName,ReadingDate
 0.001,St. Albert,Nitrogen Dioxide,2026-04-19T23:00:00-06:00
 0.001,St. Albert,Total Oxides of Nitrogen,2026-04-19T23:00:00-06:00
 0.0,St. Albert,Nitric Oxide,2026-04-19T23:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-19T22:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-19T22:00:00-06:00
-287.0,St. Albert,Wind Direction,2026-04-19T22:00:00-06:00
-0.9,St. Albert,Fine Particulate Matter,2026-04-19T22:00:00-06:00
-40.3,St. Albert,Relative Humidity,2026-04-19T22:00:00-06:00
-0.037,St. Albert,Ozone,2026-04-19T22:00:00-06:00
-0.001,St. Albert,Total Oxides of Nitrogen,2026-04-19T22:00:00-06:00
-15.5,St. Albert,Outdoor Temperature,2026-04-19T22:00:00-06:00
-19.8,St. Albert,Wind Speed,2026-04-19T22:00:00-06:00
-0.001,St. Albert,Nitrogen Dioxide,2026-04-19T22:00:00-06:00
 2.0,St. Albert,,2026-04-19T22:00:00-06:00
-2.0,St. Albert,,2026-04-19T21:00:00-06:00
-0.001,St. Albert,Nitrogen Dioxide,2026-04-19T21:00:00-06:00
-14.8,St. Albert,Wind Speed,2026-04-19T21:00:00-06:00
-16.7,St. Albert,Outdoor Temperature,2026-04-19T21:00:00-06:00
-0.001,St. Albert,Total Oxides of Nitrogen,2026-04-19T21:00:00-06:00
-0.037,St. Albert,Ozone,2026-04-19T21:00:00-06:00
-35.7,St. Albert,Relative Humidity,2026-04-19T21:00:00-06:00
-1.2,St. Albert,Fine Particulate Matter,2026-04-19T21:00:00-06:00
-271.0,St. Albert,Wind Direction,2026-04-19T21:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-19T21:00:00-06:00
+0.001,St. Albert,Nitrogen Dioxide,2026-04-19T22:00:00-06:00
+19.8,St. Albert,Wind Speed,2026-04-19T22:00:00-06:00
+15.5,St. Albert,Outdoor Temperature,2026-04-19T22:00:00-06:00
+0.001,St. Albert,Total Oxides of Nitrogen,2026-04-19T22:00:00-06:00
+0.037,St. Albert,Ozone,2026-04-19T22:00:00-06:00
+40.3,St. Albert,Relative Humidity,2026-04-19T22:00:00-06:00
+0.9,St. Albert,Fine Particulate Matter,2026-04-19T22:00:00-06:00
+287.0,St. Albert,Wind Direction,2026-04-19T22:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-19T22:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-19T22:00:00-06:00
 0.0,St. Albert,Sulphur Dioxide,2026-04-19T21:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-19T20:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-19T20:00:00-06:00
-246.0,St. Albert,Wind Direction,2026-04-19T20:00:00-06:00
-1.5,St. Albert,Fine Particulate Matter,2026-04-19T20:00:00-06:00
-32.7,St. Albert,Relative Humidity,2026-04-19T20:00:00-06:00
-0.039,St. Albert,Ozone,2026-04-19T20:00:00-06:00
-0.001,St. Albert,Total Oxides of Nitrogen,2026-04-19T20:00:00-06:00
-17.9,St. Albert,Outdoor Temperature,2026-04-19T20:00:00-06:00
-15.8,St. Albert,Wind Speed,2026-04-19T20:00:00-06:00
-0.001,St. Albert,Nitrogen Dioxide,2026-04-19T20:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-19T21:00:00-06:00
+271.0,St. Albert,Wind Direction,2026-04-19T21:00:00-06:00
+1.2,St. Albert,Fine Particulate Matter,2026-04-19T21:00:00-06:00
+35.7,St. Albert,Relative Humidity,2026-04-19T21:00:00-06:00
+0.037,St. Albert,Ozone,2026-04-19T21:00:00-06:00
+0.001,St. Albert,Total Oxides of Nitrogen,2026-04-19T21:00:00-06:00
+16.7,St. Albert,Outdoor Temperature,2026-04-19T21:00:00-06:00
+14.8,St. Albert,Wind Speed,2026-04-19T21:00:00-06:00
+0.001,St. Albert,Nitrogen Dioxide,2026-04-19T21:00:00-06:00
+2.0,St. Albert,,2026-04-19T21:00:00-06:00
 2.0,St. Albert,,2026-04-19T20:00:00-06:00
+0.001,St. Albert,Nitrogen Dioxide,2026-04-19T20:00:00-06:00
+15.8,St. Albert,Wind Speed,2026-04-19T20:00:00-06:00
+17.9,St. Albert,Outdoor Temperature,2026-04-19T20:00:00-06:00
+0.001,St. Albert,Total Oxides of Nitrogen,2026-04-19T20:00:00-06:00
+0.039,St. Albert,Ozone,2026-04-19T20:00:00-06:00
+32.7,St. Albert,Relative Humidity,2026-04-19T20:00:00-06:00
+1.5,St. Albert,Fine Particulate Matter,2026-04-19T20:00:00-06:00
+246.0,St. Albert,Wind Direction,2026-04-19T20:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-19T20:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-19T20:00:00-06:00
 2.0,St. Albert,,2026-04-19T19:00:00-06:00
 0.001,St. Albert,Nitrogen Dioxide,2026-04-19T19:00:00-06:00
 15.5,St. Albert,Wind Speed,2026-04-19T19:00:00-06:00
@@ -638,27 +649,27 @@ Value,StationName,ParameterName,ReadingDate
 0.0,St. Albert,Nitric Oxide,2026-04-19T19:00:00-06:00
 0.0,St. Albert,Sulphur Dioxide,2026-04-19T19:00:00-06:00
 2.0,St. Albert,,2026-04-19T18:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-19T18:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-19T18:00:00-06:00
-236.0,St. Albert,Wind Direction,2026-04-19T18:00:00-06:00
-1.2,St. Albert,Fine Particulate Matter,2026-04-19T18:00:00-06:00
-33.2,St. Albert,Relative Humidity,2026-04-19T18:00:00-06:00
-0.04,St. Albert,Ozone,2026-04-19T18:00:00-06:00
-0.001,St. Albert,Total Oxides of Nitrogen,2026-04-19T18:00:00-06:00
-17.7,St. Albert,Outdoor Temperature,2026-04-19T18:00:00-06:00
-15.5,St. Albert,Wind Speed,2026-04-19T18:00:00-06:00
 0.001,St. Albert,Nitrogen Dioxide,2026-04-19T18:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-19T17:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-19T17:00:00-06:00
-249.0,St. Albert,Wind Direction,2026-04-19T17:00:00-06:00
-1.6,St. Albert,Fine Particulate Matter,2026-04-19T17:00:00-06:00
-32.6,St. Albert,Relative Humidity,2026-04-19T17:00:00-06:00
-0.042,St. Albert,Ozone,2026-04-19T17:00:00-06:00
-0.001,St. Albert,Total Oxides of Nitrogen,2026-04-19T17:00:00-06:00
-17.6,St. Albert,Outdoor Temperature,2026-04-19T17:00:00-06:00
-18.5,St. Albert,Wind Speed,2026-04-19T17:00:00-06:00
-0.001,St. Albert,Nitrogen Dioxide,2026-04-19T17:00:00-06:00
+15.5,St. Albert,Wind Speed,2026-04-19T18:00:00-06:00
+17.7,St. Albert,Outdoor Temperature,2026-04-19T18:00:00-06:00
+0.001,St. Albert,Total Oxides of Nitrogen,2026-04-19T18:00:00-06:00
+0.04,St. Albert,Ozone,2026-04-19T18:00:00-06:00
+33.2,St. Albert,Relative Humidity,2026-04-19T18:00:00-06:00
+1.2,St. Albert,Fine Particulate Matter,2026-04-19T18:00:00-06:00
+236.0,St. Albert,Wind Direction,2026-04-19T18:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-19T18:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-19T18:00:00-06:00
 3.0,St. Albert,,2026-04-19T17:00:00-06:00
+0.001,St. Albert,Nitrogen Dioxide,2026-04-19T17:00:00-06:00
+18.5,St. Albert,Wind Speed,2026-04-19T17:00:00-06:00
+17.6,St. Albert,Outdoor Temperature,2026-04-19T17:00:00-06:00
+0.001,St. Albert,Total Oxides of Nitrogen,2026-04-19T17:00:00-06:00
+0.042,St. Albert,Ozone,2026-04-19T17:00:00-06:00
+32.6,St. Albert,Relative Humidity,2026-04-19T17:00:00-06:00
+1.6,St. Albert,Fine Particulate Matter,2026-04-19T17:00:00-06:00
+249.0,St. Albert,Wind Direction,2026-04-19T17:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-19T17:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-19T17:00:00-06:00
 3.0,St. Albert,,2026-04-19T16:00:00-06:00
 0.001,St. Albert,Nitrogen Dioxide,2026-04-19T16:00:00-06:00
 19.0,St. Albert,Wind Speed,2026-04-19T16:00:00-06:00
@@ -703,39 +714,39 @@ Value,StationName,ParameterName,ReadingDate
 0.007,St. Albert,Total Oxides of Nitrogen,2026-04-19T13:00:00-06:00
 0.034,St. Albert,Ozone,2026-04-19T13:00:00-06:00
 40.2,St. Albert,Relative Humidity,2026-04-19T13:00:00-06:00
-169.0,St. Albert,Wind Direction,2026-04-19T12:00:00-06:00
-4.1,St. Albert,Fine Particulate Matter,2026-04-19T12:00:00-06:00
-46.8,St. Albert,Relative Humidity,2026-04-19T12:00:00-06:00
-0.03,St. Albert,Ozone,2026-04-19T12:00:00-06:00
-0.01,St. Albert,Total Oxides of Nitrogen,2026-04-19T12:00:00-06:00
-9.3,St. Albert,Outdoor Temperature,2026-04-19T12:00:00-06:00
-8.0,St. Albert,Wind Speed,2026-04-19T12:00:00-06:00
-0.007,St. Albert,Nitrogen Dioxide,2026-04-19T12:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-19T12:00:00-06:00
-0.003,St. Albert,Nitric Oxide,2026-04-19T12:00:00-06:00
 2.0,St. Albert,,2026-04-19T12:00:00-06:00
-2.0,St. Albert,,2026-04-19T11:00:00-06:00
+0.003,St. Albert,Nitric Oxide,2026-04-19T12:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-19T12:00:00-06:00
+0.007,St. Albert,Nitrogen Dioxide,2026-04-19T12:00:00-06:00
+8.0,St. Albert,Wind Speed,2026-04-19T12:00:00-06:00
+9.3,St. Albert,Outdoor Temperature,2026-04-19T12:00:00-06:00
+0.01,St. Albert,Total Oxides of Nitrogen,2026-04-19T12:00:00-06:00
+0.03,St. Albert,Ozone,2026-04-19T12:00:00-06:00
+46.8,St. Albert,Relative Humidity,2026-04-19T12:00:00-06:00
+4.1,St. Albert,Fine Particulate Matter,2026-04-19T12:00:00-06:00
+169.0,St. Albert,Wind Direction,2026-04-19T12:00:00-06:00
+54.0,St. Albert,Relative Humidity,2026-04-19T11:00:00-06:00
+0.027,St. Albert,Ozone,2026-04-19T11:00:00-06:00
+0.01,St. Albert,Total Oxides of Nitrogen,2026-04-19T11:00:00-06:00
+6.5,St. Albert,Outdoor Temperature,2026-04-19T11:00:00-06:00
+7.4,St. Albert,Wind Speed,2026-04-19T11:00:00-06:00
+0.008,St. Albert,Nitrogen Dioxide,2026-04-19T11:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-19T11:00:00-06:00
 4.2,St. Albert,Fine Particulate Matter,2026-04-19T11:00:00-06:00
 168.0,St. Albert,Wind Direction,2026-04-19T11:00:00-06:00
 0.002,St. Albert,Nitric Oxide,2026-04-19T11:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-19T11:00:00-06:00
-0.008,St. Albert,Nitrogen Dioxide,2026-04-19T11:00:00-06:00
-7.4,St. Albert,Wind Speed,2026-04-19T11:00:00-06:00
-6.5,St. Albert,Outdoor Temperature,2026-04-19T11:00:00-06:00
-0.01,St. Albert,Total Oxides of Nitrogen,2026-04-19T11:00:00-06:00
-0.027,St. Albert,Ozone,2026-04-19T11:00:00-06:00
-54.0,St. Albert,Relative Humidity,2026-04-19T11:00:00-06:00
-0.011,St. Albert,Total Oxides of Nitrogen,2026-04-19T10:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-19T10:00:00-06:00
-60.5,St. Albert,Relative Humidity,2026-04-19T10:00:00-06:00
-0.025,St. Albert,Ozone,2026-04-19T10:00:00-06:00
-4.6,St. Albert,Outdoor Temperature,2026-04-19T10:00:00-06:00
-7.9,St. Albert,Wind Speed,2026-04-19T10:00:00-06:00
+2.0,St. Albert,,2026-04-19T11:00:00-06:00
+2.0,St. Albert,,2026-04-19T10:00:00-06:00
 0.009,St. Albert,Nitrogen Dioxide,2026-04-19T10:00:00-06:00
 0.002,St. Albert,Nitric Oxide,2026-04-19T10:00:00-06:00
 161.0,St. Albert,Wind Direction,2026-04-19T10:00:00-06:00
 4.2,St. Albert,Fine Particulate Matter,2026-04-19T10:00:00-06:00
-2.0,St. Albert,,2026-04-19T10:00:00-06:00
+7.9,St. Albert,Wind Speed,2026-04-19T10:00:00-06:00
+4.6,St. Albert,Outdoor Temperature,2026-04-19T10:00:00-06:00
+0.025,St. Albert,Ozone,2026-04-19T10:00:00-06:00
+60.5,St. Albert,Relative Humidity,2026-04-19T10:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-19T10:00:00-06:00
+0.011,St. Albert,Total Oxides of Nitrogen,2026-04-19T10:00:00-06:00
 2.0,St. Albert,,2026-04-19T09:00:00-06:00
 4.0,St. Albert,Fine Particulate Matter,2026-04-19T09:00:00-06:00
 160.0,St. Albert,Wind Direction,2026-04-19T09:00:00-06:00
@@ -748,16 +759,16 @@ Value,StationName,ParameterName,ReadingDate
 0.009,St. Albert,Total Oxides of Nitrogen,2026-04-19T09:00:00-06:00
 0.0,St. Albert,Sulphur Dioxide,2026-04-19T09:00:00-06:00
 2.0,St. Albert,,2026-04-19T08:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-19T08:00:00-06:00
-66.3,St. Albert,Relative Humidity,2026-04-19T08:00:00-06:00
-0.028,St. Albert,Ozone,2026-04-19T08:00:00-06:00
-0.008,St. Albert,Total Oxides of Nitrogen,2026-04-19T08:00:00-06:00
-2.6,St. Albert,Outdoor Temperature,2026-04-19T08:00:00-06:00
-9.4,St. Albert,Wind Speed,2026-04-19T08:00:00-06:00
-0.007,St. Albert,Nitrogen Dioxide,2026-04-19T08:00:00-06:00
-0.001,St. Albert,Nitric Oxide,2026-04-19T08:00:00-06:00
-152.0,St. Albert,Wind Direction,2026-04-19T08:00:00-06:00
 3.8,St. Albert,Fine Particulate Matter,2026-04-19T08:00:00-06:00
+152.0,St. Albert,Wind Direction,2026-04-19T08:00:00-06:00
+0.001,St. Albert,Nitric Oxide,2026-04-19T08:00:00-06:00
+0.007,St. Albert,Nitrogen Dioxide,2026-04-19T08:00:00-06:00
+9.4,St. Albert,Wind Speed,2026-04-19T08:00:00-06:00
+2.6,St. Albert,Outdoor Temperature,2026-04-19T08:00:00-06:00
+0.008,St. Albert,Total Oxides of Nitrogen,2026-04-19T08:00:00-06:00
+0.028,St. Albert,Ozone,2026-04-19T08:00:00-06:00
+66.3,St. Albert,Relative Humidity,2026-04-19T08:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-19T08:00:00-06:00
 2.0,St. Albert,,2026-04-19T07:00:00-06:00
 0.008,St. Albert,Nitrogen Dioxide,2026-04-19T07:00:00-06:00
 8.8,St. Albert,Wind Speed,2026-04-19T07:00:00-06:00
@@ -780,17 +791,17 @@ Value,StationName,ParameterName,ReadingDate
 0.0,St. Albert,Nitric Oxide,2026-04-19T06:00:00-06:00
 0.0,St. Albert,Sulphur Dioxide,2026-04-19T06:00:00-06:00
 0.015,St. Albert,Total Oxides of Nitrogen,2026-04-19T06:00:00-06:00
+3.6,St. Albert,Fine Particulate Matter,2026-04-19T05:00:00-06:00
+125.0,St. Albert,Wind Direction,2026-04-19T05:00:00-06:00
+,St. Albert,Nitric Oxide,2026-04-19T05:00:00-06:00
+4.5,St. Albert,Wind Speed,2026-04-19T05:00:00-06:00
+2.2,St. Albert,Outdoor Temperature,2026-04-19T05:00:00-06:00
+,St. Albert,,2026-04-19T05:00:00-06:00
+76.3,St. Albert,Relative Humidity,2026-04-19T05:00:00-06:00
+,St. Albert,Sulphur Dioxide,2026-04-19T05:00:00-06:00
 ,St. Albert,Nitrogen Dioxide,2026-04-19T05:00:00-06:00
 ,St. Albert,Ozone,2026-04-19T05:00:00-06:00
 ,St. Albert,Total Oxides of Nitrogen,2026-04-19T05:00:00-06:00
-,St. Albert,Sulphur Dioxide,2026-04-19T05:00:00-06:00
-76.3,St. Albert,Relative Humidity,2026-04-19T05:00:00-06:00
-,St. Albert,,2026-04-19T05:00:00-06:00
-2.2,St. Albert,Outdoor Temperature,2026-04-19T05:00:00-06:00
-4.5,St. Albert,Wind Speed,2026-04-19T05:00:00-06:00
-,St. Albert,Nitric Oxide,2026-04-19T05:00:00-06:00
-125.0,St. Albert,Wind Direction,2026-04-19T05:00:00-06:00
-3.6,St. Albert,Fine Particulate Matter,2026-04-19T05:00:00-06:00
 2.0,St. Albert,,2026-04-19T04:00:00-06:00
 0.008,St. Albert,Nitrogen Dioxide,2026-04-19T04:00:00-06:00
 5.3,St. Albert,Wind Speed,2026-04-19T04:00:00-06:00
@@ -804,26 +815,26 @@ Value,StationName,ParameterName,ReadingDate
 0.0,St. Albert,Sulphur Dioxide,2026-04-19T04:00:00-06:00
 3.0,St. Albert,,2026-04-19T03:00:00-06:00
 3.1,St. Albert,Fine Particulate Matter,2026-04-19T03:00:00-06:00
-155.0,St. Albert,Wind Direction,2026-04-19T03:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-19T03:00:00-06:00
-0.007,St. Albert,Nitrogen Dioxide,2026-04-19T03:00:00-06:00
-6.6,St. Albert,Wind Speed,2026-04-19T03:00:00-06:00
-4.0,St. Albert,Outdoor Temperature,2026-04-19T03:00:00-06:00
-0.007,St. Albert,Total Oxides of Nitrogen,2026-04-19T03:00:00-06:00
-0.031,St. Albert,Ozone,2026-04-19T03:00:00-06:00
-68.2,St. Albert,Relative Humidity,2026-04-19T03:00:00-06:00
 0.0,St. Albert,Nitric Oxide,2026-04-19T03:00:00-06:00
-3.0,St. Albert,,2026-04-19T02:00:00-06:00
-8.4,St. Albert,Wind Speed,2026-04-19T02:00:00-06:00
+68.2,St. Albert,Relative Humidity,2026-04-19T03:00:00-06:00
+0.031,St. Albert,Ozone,2026-04-19T03:00:00-06:00
+0.007,St. Albert,Total Oxides of Nitrogen,2026-04-19T03:00:00-06:00
+4.0,St. Albert,Outdoor Temperature,2026-04-19T03:00:00-06:00
+6.6,St. Albert,Wind Speed,2026-04-19T03:00:00-06:00
+0.007,St. Albert,Nitrogen Dioxide,2026-04-19T03:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-19T03:00:00-06:00
+155.0,St. Albert,Wind Direction,2026-04-19T03:00:00-06:00
 62.8,St. Albert,Relative Humidity,2026-04-19T02:00:00-06:00
 0.006,St. Albert,Nitrogen Dioxide,2026-04-19T02:00:00-06:00
 4.9,St. Albert,Outdoor Temperature,2026-04-19T02:00:00-06:00
 0.035,St. Albert,Ozone,2026-04-19T02:00:00-06:00
 3.0,St. Albert,Fine Particulate Matter,2026-04-19T02:00:00-06:00
 135.0,St. Albert,Wind Direction,2026-04-19T02:00:00-06:00
-0.005,St. Albert,Total Oxides of Nitrogen,2026-04-19T02:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-19T02:00:00-06:00
 0.0,St. Albert,Nitric Oxide,2026-04-19T02:00:00-06:00
+8.4,St. Albert,Wind Speed,2026-04-19T02:00:00-06:00
+3.0,St. Albert,,2026-04-19T02:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-19T02:00:00-06:00
+0.005,St. Albert,Total Oxides of Nitrogen,2026-04-19T02:00:00-06:00
 3.0,St. Albert,,2026-04-19T01:00:00-06:00
 0.01,St. Albert,Nitrogen Dioxide,2026-04-19T01:00:00-06:00
 0.001,St. Albert,Sulphur Dioxide,2026-04-19T01:00:00-06:00
@@ -835,21 +846,21 @@ Value,StationName,ParameterName,ReadingDate
 3.6,St. Albert,Fine Particulate Matter,2026-04-19T01:00:00-06:00
 135.0,St. Albert,Wind Direction,2026-04-19T01:00:00-06:00
 0.0,St. Albert,Nitric Oxide,2026-04-19T01:00:00-06:00
-5.0,St. Albert,Outdoor Temperature,2026-04-19T00:00:00-06:00
-4.4,St. Albert,Wind Speed,2026-04-19T00:00:00-06:00
-0.011,St. Albert,Nitrogen Dioxide,2026-04-19T00:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-19T00:00:00-06:00
-3.0,St. Albert,,2026-04-19T00:00:00-06:00
 0.0,St. Albert,Nitric Oxide,2026-04-19T00:00:00-06:00
 0.011,St. Albert,Total Oxides of Nitrogen,2026-04-19T00:00:00-06:00
 105.0,St. Albert,Wind Direction,2026-04-19T00:00:00-06:00
 6.7,St. Albert,Fine Particulate Matter,2026-04-19T00:00:00-06:00
 59.9,St. Albert,Relative Humidity,2026-04-19T00:00:00-06:00
 0.034,St. Albert,Ozone,2026-04-19T00:00:00-06:00
-3.0,St. Albert,,2026-04-18T23:00:00-06:00
-0.037,St. Albert,Ozone,2026-04-18T23:00:00-06:00
-99.0,St. Albert,Wind Direction,2026-04-18T23:00:00-06:00
+3.0,St. Albert,,2026-04-19T00:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-19T00:00:00-06:00
+0.011,St. Albert,Nitrogen Dioxide,2026-04-19T00:00:00-06:00
+4.4,St. Albert,Wind Speed,2026-04-19T00:00:00-06:00
+5.0,St. Albert,Outdoor Temperature,2026-04-19T00:00:00-06:00
 0.003,St. Albert,Sulphur Dioxide,2026-04-18T23:00:00-06:00
+99.0,St. Albert,Wind Direction,2026-04-18T23:00:00-06:00
+0.037,St. Albert,Ozone,2026-04-18T23:00:00-06:00
+3.0,St. Albert,,2026-04-18T23:00:00-06:00
 56.9,St. Albert,Relative Humidity,2026-04-18T23:00:00-06:00
 6.4,St. Albert,Fine Particulate Matter,2026-04-18T23:00:00-06:00
 4.7,St. Albert,Wind Speed,2026-04-18T23:00:00-06:00
@@ -857,17 +868,17 @@ Value,StationName,ParameterName,ReadingDate
 0.009,St. Albert,Total Oxides of Nitrogen,2026-04-18T23:00:00-06:00
 6.0,St. Albert,Outdoor Temperature,2026-04-18T23:00:00-06:00
 0.0,St. Albert,Nitric Oxide,2026-04-18T23:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-18T22:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-18T22:00:00-06:00
-7.1,St. Albert,Outdoor Temperature,2026-04-18T22:00:00-06:00
-0.008,St. Albert,Total Oxides of Nitrogen,2026-04-18T22:00:00-06:00
-0.009,St. Albert,Nitrogen Dioxide,2026-04-18T22:00:00-06:00
 3.0,St. Albert,,2026-04-18T22:00:00-06:00
 0.038,St. Albert,Ozone,2026-04-18T22:00:00-06:00
 54.4,St. Albert,Relative Humidity,2026-04-18T22:00:00-06:00
 96.0,St. Albert,Wind Direction,2026-04-18T22:00:00-06:00
 5.5,St. Albert,Fine Particulate Matter,2026-04-18T22:00:00-06:00
 4.3,St. Albert,Wind Speed,2026-04-18T22:00:00-06:00
+0.009,St. Albert,Nitrogen Dioxide,2026-04-18T22:00:00-06:00
+0.008,St. Albert,Total Oxides of Nitrogen,2026-04-18T22:00:00-06:00
+7.1,St. Albert,Outdoor Temperature,2026-04-18T22:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-18T22:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-18T22:00:00-06:00
 3.0,St. Albert,,2026-04-18T21:00:00-06:00
 0.009,St. Albert,Nitrogen Dioxide,2026-04-18T21:00:00-06:00
 0.001,St. Albert,Sulphur Dioxide,2026-04-18T21:00:00-06:00
@@ -916,35 +927,35 @@ Value,StationName,ParameterName,ReadingDate
 0.001,St. Albert,Nitrogen Dioxide,2026-04-18T17:00:00-06:00
 7.8,St. Albert,Wind Speed,2026-04-18T17:00:00-06:00
 11.5,St. Albert,Outdoor Temperature,2026-04-18T17:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-18T17:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-18T17:00:00-06:00
-312.0,St. Albert,Wind Direction,2026-04-18T17:00:00-06:00
-2.6,St. Albert,Fine Particulate Matter,2026-04-18T17:00:00-06:00
-41.3,St. Albert,Relative Humidity,2026-04-18T17:00:00-06:00
-0.047,St. Albert,Ozone,2026-04-18T17:00:00-06:00
 0.001,St. Albert,Total Oxides of Nitrogen,2026-04-18T17:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-18T16:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-18T16:00:00-06:00
-272.0,St. Albert,Wind Direction,2026-04-18T16:00:00-06:00
-2.6,St. Albert,Fine Particulate Matter,2026-04-18T16:00:00-06:00
-41.6,St. Albert,Relative Humidity,2026-04-18T16:00:00-06:00
-0.046,St. Albert,Ozone,2026-04-18T16:00:00-06:00
-0.001,St. Albert,Total Oxides of Nitrogen,2026-04-18T16:00:00-06:00
-11.2,St. Albert,Outdoor Temperature,2026-04-18T16:00:00-06:00
-9.0,St. Albert,Wind Speed,2026-04-18T16:00:00-06:00
-0.001,St. Albert,Nitrogen Dioxide,2026-04-18T16:00:00-06:00
+0.047,St. Albert,Ozone,2026-04-18T17:00:00-06:00
+41.3,St. Albert,Relative Humidity,2026-04-18T17:00:00-06:00
+2.6,St. Albert,Fine Particulate Matter,2026-04-18T17:00:00-06:00
+312.0,St. Albert,Wind Direction,2026-04-18T17:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-18T17:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-18T17:00:00-06:00
 3.0,St. Albert,,2026-04-18T16:00:00-06:00
+0.001,St. Albert,Nitrogen Dioxide,2026-04-18T16:00:00-06:00
+9.0,St. Albert,Wind Speed,2026-04-18T16:00:00-06:00
+11.2,St. Albert,Outdoor Temperature,2026-04-18T16:00:00-06:00
+0.001,St. Albert,Total Oxides of Nitrogen,2026-04-18T16:00:00-06:00
+0.046,St. Albert,Ozone,2026-04-18T16:00:00-06:00
+41.6,St. Albert,Relative Humidity,2026-04-18T16:00:00-06:00
+2.6,St. Albert,Fine Particulate Matter,2026-04-18T16:00:00-06:00
+272.0,St. Albert,Wind Direction,2026-04-18T16:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-18T16:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-18T16:00:00-06:00
 3.0,St. Albert,,2026-04-18T15:00:00-06:00
 5.9,St. Albert,Wind Speed,2026-04-18T15:00:00-06:00
 10.5,St. Albert,Outdoor Temperature,2026-04-18T15:00:00-06:00
 0.002,St. Albert,Total Oxides of Nitrogen,2026-04-18T15:00:00-06:00
-0.045,St. Albert,Ozone,2026-04-18T15:00:00-06:00
-44.2,St. Albert,Relative Humidity,2026-04-18T15:00:00-06:00
-3.2,St. Albert,Fine Particulate Matter,2026-04-18T15:00:00-06:00
-298.0,St. Albert,Wind Direction,2026-04-18T15:00:00-06:00
-0.002,St. Albert,Nitrogen Dioxide,2026-04-18T15:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-18T15:00:00-06:00
 0.0,St. Albert,Nitric Oxide,2026-04-18T15:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-18T15:00:00-06:00
+0.002,St. Albert,Nitrogen Dioxide,2026-04-18T15:00:00-06:00
+298.0,St. Albert,Wind Direction,2026-04-18T15:00:00-06:00
+3.2,St. Albert,Fine Particulate Matter,2026-04-18T15:00:00-06:00
+44.2,St. Albert,Relative Humidity,2026-04-18T15:00:00-06:00
+0.045,St. Albert,Ozone,2026-04-18T15:00:00-06:00
 0.0,St. Albert,Nitric Oxide,2026-04-18T14:00:00-06:00
 0.002,St. Albert,Nitrogen Dioxide,2026-04-18T14:00:00-06:00
 283.0,St. Albert,Wind Direction,2026-04-18T14:00:00-06:00
@@ -967,39 +978,39 @@ Value,StationName,ParameterName,ReadingDate
 333.0,St. Albert,Wind Direction,2026-04-18T13:00:00-06:00
 3.3,St. Albert,Fine Particulate Matter,2026-04-18T13:00:00-06:00
 2.0,St. Albert,,2026-04-18T13:00:00-06:00
-2.0,St. Albert,,2026-04-18T12:00:00-06:00
-0.002,St. Albert,Nitrogen Dioxide,2026-04-18T12:00:00-06:00
-9.4,St. Albert,Wind Speed,2026-04-18T12:00:00-06:00
-7.7,St. Albert,Outdoor Temperature,2026-04-18T12:00:00-06:00
-0.002,St. Albert,Total Oxides of Nitrogen,2026-04-18T12:00:00-06:00
-0.041,St. Albert,Ozone,2026-04-18T12:00:00-06:00
-47.7,St. Albert,Relative Humidity,2026-04-18T12:00:00-06:00
-2.6,St. Albert,Fine Particulate Matter,2026-04-18T12:00:00-06:00
-306.0,St. Albert,Wind Direction,2026-04-18T12:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-18T12:00:00-06:00
 0.0,St. Albert,Sulphur Dioxide,2026-04-18T12:00:00-06:00
-2.0,St. Albert,,2026-04-18T11:00:00-06:00
-3.1,St. Albert,Fine Particulate Matter,2026-04-18T11:00:00-06:00
-257.0,St. Albert,Wind Direction,2026-04-18T11:00:00-06:00
-0.004,St. Albert,Nitrogen Dioxide,2026-04-18T11:00:00-06:00
-0.001,St. Albert,Nitric Oxide,2026-04-18T11:00:00-06:00
-6.1,St. Albert,Wind Speed,2026-04-18T11:00:00-06:00
-5.6,St. Albert,Outdoor Temperature,2026-04-18T11:00:00-06:00
-0.034,St. Albert,Ozone,2026-04-18T11:00:00-06:00
-56.6,St. Albert,Relative Humidity,2026-04-18T11:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-18T11:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-18T12:00:00-06:00
+306.0,St. Albert,Wind Direction,2026-04-18T12:00:00-06:00
+2.6,St. Albert,Fine Particulate Matter,2026-04-18T12:00:00-06:00
+47.7,St. Albert,Relative Humidity,2026-04-18T12:00:00-06:00
+0.041,St. Albert,Ozone,2026-04-18T12:00:00-06:00
+0.002,St. Albert,Total Oxides of Nitrogen,2026-04-18T12:00:00-06:00
+7.7,St. Albert,Outdoor Temperature,2026-04-18T12:00:00-06:00
+9.4,St. Albert,Wind Speed,2026-04-18T12:00:00-06:00
+0.002,St. Albert,Nitrogen Dioxide,2026-04-18T12:00:00-06:00
+2.0,St. Albert,,2026-04-18T12:00:00-06:00
 0.005,St. Albert,Total Oxides of Nitrogen,2026-04-18T11:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-18T10:00:00-06:00
-66.3,St. Albert,Relative Humidity,2026-04-18T10:00:00-06:00
-0.029,St. Albert,Ozone,2026-04-18T10:00:00-06:00
-0.008,St. Albert,Total Oxides of Nitrogen,2026-04-18T10:00:00-06:00
-2.9,St. Albert,Outdoor Temperature,2026-04-18T10:00:00-06:00
-7.2,St. Albert,Wind Speed,2026-04-18T10:00:00-06:00
-0.006,St. Albert,Nitrogen Dioxide,2026-04-18T10:00:00-06:00
-0.002,St. Albert,Nitric Oxide,2026-04-18T10:00:00-06:00
-232.0,St. Albert,Wind Direction,2026-04-18T10:00:00-06:00
-3.8,St. Albert,Fine Particulate Matter,2026-04-18T10:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-18T11:00:00-06:00
+56.6,St. Albert,Relative Humidity,2026-04-18T11:00:00-06:00
+0.034,St. Albert,Ozone,2026-04-18T11:00:00-06:00
+5.6,St. Albert,Outdoor Temperature,2026-04-18T11:00:00-06:00
+6.1,St. Albert,Wind Speed,2026-04-18T11:00:00-06:00
+0.001,St. Albert,Nitric Oxide,2026-04-18T11:00:00-06:00
+0.004,St. Albert,Nitrogen Dioxide,2026-04-18T11:00:00-06:00
+257.0,St. Albert,Wind Direction,2026-04-18T11:00:00-06:00
+3.1,St. Albert,Fine Particulate Matter,2026-04-18T11:00:00-06:00
+2.0,St. Albert,,2026-04-18T11:00:00-06:00
 2.0,St. Albert,,2026-04-18T10:00:00-06:00
+3.8,St. Albert,Fine Particulate Matter,2026-04-18T10:00:00-06:00
+232.0,St. Albert,Wind Direction,2026-04-18T10:00:00-06:00
+0.002,St. Albert,Nitric Oxide,2026-04-18T10:00:00-06:00
+0.006,St. Albert,Nitrogen Dioxide,2026-04-18T10:00:00-06:00
+7.2,St. Albert,Wind Speed,2026-04-18T10:00:00-06:00
+2.9,St. Albert,Outdoor Temperature,2026-04-18T10:00:00-06:00
+0.008,St. Albert,Total Oxides of Nitrogen,2026-04-18T10:00:00-06:00
+0.029,St. Albert,Ozone,2026-04-18T10:00:00-06:00
+66.3,St. Albert,Relative Humidity,2026-04-18T10:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-18T10:00:00-06:00
 2.0,St. Albert,,2026-04-18T09:00:00-06:00
 4.1,St. Albert,Fine Particulate Matter,2026-04-18T09:00:00-06:00
 239.0,St. Albert,Wind Direction,2026-04-18T09:00:00-06:00
@@ -1011,17 +1022,17 @@ Value,StationName,ParameterName,ReadingDate
 72.2,St. Albert,Relative Humidity,2026-04-18T09:00:00-06:00
 0.0,St. Albert,Sulphur Dioxide,2026-04-18T09:00:00-06:00
 0.013,St. Albert,Total Oxides of Nitrogen,2026-04-18T09:00:00-06:00
-2.0,St. Albert,,2026-04-18T08:00:00-06:00
-3.9,St. Albert,Fine Particulate Matter,2026-04-18T08:00:00-06:00
-233.0,St. Albert,Wind Direction,2026-04-18T08:00:00-06:00
-0.001,St. Albert,Nitric Oxide,2026-04-18T08:00:00-06:00
-0.014,St. Albert,Nitrogen Dioxide,2026-04-18T08:00:00-06:00
-5.9,St. Albert,Wind Speed,2026-04-18T08:00:00-06:00
-0.022,St. Albert,Ozone,2026-04-18T08:00:00-06:00
-75.2,St. Albert,Relative Humidity,2026-04-18T08:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-18T08:00:00-06:00
-0.0,St. Albert,Outdoor Temperature,2026-04-18T08:00:00-06:00
 0.015,St. Albert,Total Oxides of Nitrogen,2026-04-18T08:00:00-06:00
+0.0,St. Albert,Outdoor Temperature,2026-04-18T08:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-18T08:00:00-06:00
+75.2,St. Albert,Relative Humidity,2026-04-18T08:00:00-06:00
+0.022,St. Albert,Ozone,2026-04-18T08:00:00-06:00
+5.9,St. Albert,Wind Speed,2026-04-18T08:00:00-06:00
+0.014,St. Albert,Nitrogen Dioxide,2026-04-18T08:00:00-06:00
+0.001,St. Albert,Nitric Oxide,2026-04-18T08:00:00-06:00
+233.0,St. Albert,Wind Direction,2026-04-18T08:00:00-06:00
+3.9,St. Albert,Fine Particulate Matter,2026-04-18T08:00:00-06:00
+2.0,St. Albert,,2026-04-18T08:00:00-06:00
 2.0,St. Albert,,2026-04-18T07:00:00-06:00
 0.012,St. Albert,Nitrogen Dioxide,2026-04-18T07:00:00-06:00
 4.9,St. Albert,Wind Speed,2026-04-18T07:00:00-06:00
@@ -1051,10 +1062,10 @@ Value,StationName,ParameterName,ReadingDate
 ,St. Albert,Nitric Oxide,2026-04-18T05:00:00-06:00
 4.8,St. Albert,Wind Speed,2026-04-18T05:00:00-06:00
 0.3,St. Albert,Outdoor Temperature,2026-04-18T05:00:00-06:00
-83.2,St. Albert,Relative Humidity,2026-04-18T05:00:00-06:00
-,St. Albert,Sulphur Dioxide,2026-04-18T05:00:00-06:00
-,St. Albert,Ozone,2026-04-18T05:00:00-06:00
 ,St. Albert,Total Oxides of Nitrogen,2026-04-18T05:00:00-06:00
+,St. Albert,Ozone,2026-04-18T05:00:00-06:00
+,St. Albert,Sulphur Dioxide,2026-04-18T05:00:00-06:00
+83.2,St. Albert,Relative Humidity,2026-04-18T05:00:00-06:00
 3.0,St. Albert,,2026-04-18T04:00:00-06:00
 0.017,St. Albert,Nitrogen Dioxide,2026-04-18T04:00:00-06:00
 4.2,St. Albert,Wind Speed,2026-04-18T04:00:00-06:00
@@ -1085,53 +1096,53 @@ Value,StationName,ParameterName,ReadingDate
 0.018,St. Albert,Ozone,2026-04-18T02:00:00-06:00
 62.3,St. Albert,Relative Humidity,2026-04-18T02:00:00-06:00
 4.7,St. Albert,Fine Particulate Matter,2026-04-18T02:00:00-06:00
-234.0,St. Albert,Wind Direction,2026-04-18T02:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-18T02:00:00-06:00
 0.0,St. Albert,Sulphur Dioxide,2026-04-18T02:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-18T02:00:00-06:00
+234.0,St. Albert,Wind Direction,2026-04-18T02:00:00-06:00
 4.0,St. Albert,,2026-04-18T01:00:00-06:00
-4.0,St. Albert,Outdoor Temperature,2026-04-18T01:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-18T01:00:00-06:00
-0.015,St. Albert,Ozone,2026-04-18T01:00:00-06:00
-0.03,St. Albert,Nitrogen Dioxide,2026-04-18T01:00:00-06:00
-0.031,St. Albert,Total Oxides of Nitrogen,2026-04-18T01:00:00-06:00
-54.3,St. Albert,Relative Humidity,2026-04-18T01:00:00-06:00
-3.9,St. Albert,Wind Speed,2026-04-18T01:00:00-06:00
-196.0,St. Albert,Wind Direction,2026-04-18T01:00:00-06:00
-5.1,St. Albert,Fine Particulate Matter,2026-04-18T01:00:00-06:00
 0.001,St. Albert,Nitric Oxide,2026-04-18T01:00:00-06:00
-3.8,St. Albert,Outdoor Temperature,2026-04-18T00:00:00-06:00
-5.2,St. Albert,Fine Particulate Matter,2026-04-18T00:00:00-06:00
-1.3,St. Albert,Wind Speed,2026-04-18T00:00:00-06:00
-0.028,St. Albert,Nitrogen Dioxide,2026-04-18T00:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-18T00:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-18T00:00:00-06:00
+5.1,St. Albert,Fine Particulate Matter,2026-04-18T01:00:00-06:00
+196.0,St. Albert,Wind Direction,2026-04-18T01:00:00-06:00
+3.9,St. Albert,Wind Speed,2026-04-18T01:00:00-06:00
+54.3,St. Albert,Relative Humidity,2026-04-18T01:00:00-06:00
+0.031,St. Albert,Total Oxides of Nitrogen,2026-04-18T01:00:00-06:00
+0.03,St. Albert,Nitrogen Dioxide,2026-04-18T01:00:00-06:00
+0.015,St. Albert,Ozone,2026-04-18T01:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-18T01:00:00-06:00
+4.0,St. Albert,Outdoor Temperature,2026-04-18T01:00:00-06:00
 3.0,St. Albert,,2026-04-18T00:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-18T00:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-18T00:00:00-06:00
+0.028,St. Albert,Nitrogen Dioxide,2026-04-18T00:00:00-06:00
+1.3,St. Albert,Wind Speed,2026-04-18T00:00:00-06:00
+5.2,St. Albert,Fine Particulate Matter,2026-04-18T00:00:00-06:00
+3.8,St. Albert,Outdoor Temperature,2026-04-18T00:00:00-06:00
 0.018,St. Albert,Ozone,2026-04-18T00:00:00-06:00
 112.0,St. Albert,Wind Direction,2026-04-18T00:00:00-06:00
 52.5,St. Albert,Relative Humidity,2026-04-18T00:00:00-06:00
 0.028,St. Albert,Total Oxides of Nitrogen,2026-04-18T00:00:00-06:00
-3.0,St. Albert,,2026-04-17T23:00:00-06:00
-78.0,St. Albert,Wind Direction,2026-04-17T23:00:00-06:00
-7.2,St. Albert,Fine Particulate Matter,2026-04-17T23:00:00-06:00
-0.019,St. Albert,Total Oxides of Nitrogen,2026-04-17T23:00:00-06:00
-0.019,St. Albert,Nitrogen Dioxide,2026-04-17T23:00:00-06:00
-0.028,St. Albert,Ozone,2026-04-17T23:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-17T23:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-17T23:00:00-06:00
-50.6,St. Albert,Relative Humidity,2026-04-17T23:00:00-06:00
-1.5,St. Albert,Wind Speed,2026-04-17T23:00:00-06:00
 4.0,St. Albert,Outdoor Temperature,2026-04-17T23:00:00-06:00
-4.5,St. Albert,Outdoor Temperature,2026-04-17T22:00:00-06:00
-2.0,St. Albert,Wind Speed,2026-04-17T22:00:00-06:00
-46.6,St. Albert,Relative Humidity,2026-04-17T22:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-17T22:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-17T22:00:00-06:00
-0.035,St. Albert,Ozone,2026-04-17T22:00:00-06:00
-0.011,St. Albert,Nitrogen Dioxide,2026-04-17T22:00:00-06:00
-0.011,St. Albert,Total Oxides of Nitrogen,2026-04-17T22:00:00-06:00
-4.0,St. Albert,Fine Particulate Matter,2026-04-17T22:00:00-06:00
-41.0,St. Albert,Wind Direction,2026-04-17T22:00:00-06:00
+1.5,St. Albert,Wind Speed,2026-04-17T23:00:00-06:00
+50.6,St. Albert,Relative Humidity,2026-04-17T23:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-17T23:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-17T23:00:00-06:00
+0.028,St. Albert,Ozone,2026-04-17T23:00:00-06:00
+0.019,St. Albert,Nitrogen Dioxide,2026-04-17T23:00:00-06:00
+0.019,St. Albert,Total Oxides of Nitrogen,2026-04-17T23:00:00-06:00
+7.2,St. Albert,Fine Particulate Matter,2026-04-17T23:00:00-06:00
+78.0,St. Albert,Wind Direction,2026-04-17T23:00:00-06:00
+3.0,St. Albert,,2026-04-17T23:00:00-06:00
 3.0,St. Albert,,2026-04-17T22:00:00-06:00
+41.0,St. Albert,Wind Direction,2026-04-17T22:00:00-06:00
+4.0,St. Albert,Fine Particulate Matter,2026-04-17T22:00:00-06:00
+0.011,St. Albert,Total Oxides of Nitrogen,2026-04-17T22:00:00-06:00
+0.011,St. Albert,Nitrogen Dioxide,2026-04-17T22:00:00-06:00
+0.035,St. Albert,Ozone,2026-04-17T22:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-17T22:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-17T22:00:00-06:00
+46.6,St. Albert,Relative Humidity,2026-04-17T22:00:00-06:00
+2.0,St. Albert,Wind Speed,2026-04-17T22:00:00-06:00
+4.5,St. Albert,Outdoor Temperature,2026-04-17T22:00:00-06:00
 3.0,St. Albert,,2026-04-17T21:00:00-06:00
 41.6,St. Albert,Relative Humidity,2026-04-17T21:00:00-06:00
 4.1,St. Albert,Fine Particulate Matter,2026-04-17T21:00:00-06:00
@@ -1407,17 +1418,17 @@ Value,StationName,ParameterName,ReadingDate
 81.3,St. Albert,Relative Humidity,2026-04-16T21:00:00-06:00
 0.039,St. Albert,Ozone,2026-04-16T21:00:00-06:00
 0.001,St. Albert,Nitric Oxide,2026-04-16T21:00:00-06:00
-3.0,St. Albert,,2026-04-16T20:00:00-06:00
-71.5,St. Albert,Relative Humidity,2026-04-16T20:00:00-06:00
-6.2,St. Albert,Wind Speed,2026-04-16T20:00:00-06:00
--2.5,St. Albert,Outdoor Temperature,2026-04-16T20:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-16T20:00:00-06:00
-0.011,St. Albert,Nitrogen Dioxide,2026-04-16T20:00:00-06:00
-0.003,St. Albert,Nitric Oxide,2026-04-16T20:00:00-06:00
-0.014,St. Albert,Total Oxides of Nitrogen,2026-04-16T20:00:00-06:00
-7.4,St. Albert,Fine Particulate Matter,2026-04-16T20:00:00-06:00
-0.038,St. Albert,Ozone,2026-04-16T20:00:00-06:00
 50.0,St. Albert,Wind Direction,2026-04-16T20:00:00-06:00
+0.038,St. Albert,Ozone,2026-04-16T20:00:00-06:00
+7.4,St. Albert,Fine Particulate Matter,2026-04-16T20:00:00-06:00
+0.014,St. Albert,Total Oxides of Nitrogen,2026-04-16T20:00:00-06:00
+0.003,St. Albert,Nitric Oxide,2026-04-16T20:00:00-06:00
+0.011,St. Albert,Nitrogen Dioxide,2026-04-16T20:00:00-06:00
+0.001,St. Albert,Sulphur Dioxide,2026-04-16T20:00:00-06:00
+-2.5,St. Albert,Outdoor Temperature,2026-04-16T20:00:00-06:00
+6.2,St. Albert,Wind Speed,2026-04-16T20:00:00-06:00
+71.5,St. Albert,Relative Humidity,2026-04-16T20:00:00-06:00
+3.0,St. Albert,,2026-04-16T20:00:00-06:00
 3.0,St. Albert,,2026-04-16T19:00:00-06:00
 3.8,St. Albert,Wind Speed,2026-04-16T19:00:00-06:00
 0.011,St. Albert,Total Oxides of Nitrogen,2026-04-16T19:00:00-06:00
@@ -1429,50 +1440,50 @@ Value,StationName,ParameterName,ReadingDate
 0.0,St. Albert,Sulphur Dioxide,2026-04-16T19:00:00-06:00
 4.8,St. Albert,Fine Particulate Matter,2026-04-16T19:00:00-06:00
 73.0,St. Albert,Wind Direction,2026-04-16T19:00:00-06:00
-106.0,St. Albert,Wind Direction,2026-04-16T18:00:00-06:00
-4.4,St. Albert,Fine Particulate Matter,2026-04-16T18:00:00-06:00
-0.043,St. Albert,Ozone,2026-04-16T18:00:00-06:00
-0.003,St. Albert,Nitric Oxide,2026-04-16T18:00:00-06:00
-0.005,St. Albert,Nitrogen Dioxide,2026-04-16T18:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-16T18:00:00-06:00
--2.5,St. Albert,Outdoor Temperature,2026-04-16T18:00:00-06:00
-63.8,St. Albert,Relative Humidity,2026-04-16T18:00:00-06:00
-0.008,St. Albert,Total Oxides of Nitrogen,2026-04-16T18:00:00-06:00
-4.4,St. Albert,Wind Speed,2026-04-16T18:00:00-06:00
 3.0,St. Albert,,2026-04-16T18:00:00-06:00
-356.0,St. Albert,Wind Direction,2026-04-16T17:00:00-06:00
-3.8,St. Albert,Fine Particulate Matter,2026-04-16T17:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-16T17:00:00-06:00
-0.044,St. Albert,Ozone,2026-04-16T17:00:00-06:00
-0.002,St. Albert,Nitric Oxide,2026-04-16T17:00:00-06:00
--2.9,St. Albert,Outdoor Temperature,2026-04-16T17:00:00-06:00
-66.1,St. Albert,Relative Humidity,2026-04-16T17:00:00-06:00
-3.8,St. Albert,Wind Speed,2026-04-16T17:00:00-06:00
-0.005,St. Albert,Total Oxides of Nitrogen,2026-04-16T17:00:00-06:00
-0.003,St. Albert,Nitrogen Dioxide,2026-04-16T17:00:00-06:00
+4.4,St. Albert,Wind Speed,2026-04-16T18:00:00-06:00
+0.008,St. Albert,Total Oxides of Nitrogen,2026-04-16T18:00:00-06:00
+63.8,St. Albert,Relative Humidity,2026-04-16T18:00:00-06:00
+-2.5,St. Albert,Outdoor Temperature,2026-04-16T18:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-16T18:00:00-06:00
+0.005,St. Albert,Nitrogen Dioxide,2026-04-16T18:00:00-06:00
+0.003,St. Albert,Nitric Oxide,2026-04-16T18:00:00-06:00
+0.043,St. Albert,Ozone,2026-04-16T18:00:00-06:00
+4.4,St. Albert,Fine Particulate Matter,2026-04-16T18:00:00-06:00
+106.0,St. Albert,Wind Direction,2026-04-16T18:00:00-06:00
 3.0,St. Albert,,2026-04-16T17:00:00-06:00
-359.0,St. Albert,Wind Direction,2026-04-16T16:00:00-06:00
-0.002,St. Albert,Nitrogen Dioxide,2026-04-16T16:00:00-06:00
-3.5,St. Albert,Fine Particulate Matter,2026-04-16T16:00:00-06:00
-5.6,St. Albert,Wind Speed,2026-04-16T16:00:00-06:00
-0.044,St. Albert,Ozone,2026-04-16T16:00:00-06:00
-0.002,St. Albert,Nitric Oxide,2026-04-16T16:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-16T16:00:00-06:00
--3.7,St. Albert,Outdoor Temperature,2026-04-16T16:00:00-06:00
-69.1,St. Albert,Relative Humidity,2026-04-16T16:00:00-06:00
-0.005,St. Albert,Total Oxides of Nitrogen,2026-04-16T16:00:00-06:00
+0.003,St. Albert,Nitrogen Dioxide,2026-04-16T17:00:00-06:00
+0.005,St. Albert,Total Oxides of Nitrogen,2026-04-16T17:00:00-06:00
+3.8,St. Albert,Wind Speed,2026-04-16T17:00:00-06:00
+66.1,St. Albert,Relative Humidity,2026-04-16T17:00:00-06:00
+-2.9,St. Albert,Outdoor Temperature,2026-04-16T17:00:00-06:00
+0.002,St. Albert,Nitric Oxide,2026-04-16T17:00:00-06:00
+0.044,St. Albert,Ozone,2026-04-16T17:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-16T17:00:00-06:00
+3.8,St. Albert,Fine Particulate Matter,2026-04-16T17:00:00-06:00
+356.0,St. Albert,Wind Direction,2026-04-16T17:00:00-06:00
 3.0,St. Albert,,2026-04-16T16:00:00-06:00
-2.0,St. Albert,,2026-04-16T15:00:00-06:00
-3.9,St. Albert,Wind Speed,2026-04-16T15:00:00-06:00
-0.003,St. Albert,Total Oxides of Nitrogen,2026-04-16T15:00:00-06:00
-70.6,St. Albert,Relative Humidity,2026-04-16T15:00:00-06:00
--3.9,St. Albert,Outdoor Temperature,2026-04-16T15:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-16T15:00:00-06:00
-0.002,St. Albert,Nitric Oxide,2026-04-16T15:00:00-06:00
-0.042,St. Albert,Ozone,2026-04-16T15:00:00-06:00
-3.0,St. Albert,Fine Particulate Matter,2026-04-16T15:00:00-06:00
-0.002,St. Albert,Nitrogen Dioxide,2026-04-16T15:00:00-06:00
+0.005,St. Albert,Total Oxides of Nitrogen,2026-04-16T16:00:00-06:00
+69.1,St. Albert,Relative Humidity,2026-04-16T16:00:00-06:00
+-3.7,St. Albert,Outdoor Temperature,2026-04-16T16:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-16T16:00:00-06:00
+0.002,St. Albert,Nitric Oxide,2026-04-16T16:00:00-06:00
+0.044,St. Albert,Ozone,2026-04-16T16:00:00-06:00
+5.6,St. Albert,Wind Speed,2026-04-16T16:00:00-06:00
+3.5,St. Albert,Fine Particulate Matter,2026-04-16T16:00:00-06:00
+0.002,St. Albert,Nitrogen Dioxide,2026-04-16T16:00:00-06:00
+359.0,St. Albert,Wind Direction,2026-04-16T16:00:00-06:00
 6.0,St. Albert,Wind Direction,2026-04-16T15:00:00-06:00
+0.002,St. Albert,Nitrogen Dioxide,2026-04-16T15:00:00-06:00
+3.0,St. Albert,Fine Particulate Matter,2026-04-16T15:00:00-06:00
+0.042,St. Albert,Ozone,2026-04-16T15:00:00-06:00
+0.002,St. Albert,Nitric Oxide,2026-04-16T15:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-16T15:00:00-06:00
+-3.9,St. Albert,Outdoor Temperature,2026-04-16T15:00:00-06:00
+70.6,St. Albert,Relative Humidity,2026-04-16T15:00:00-06:00
+0.003,St. Albert,Total Oxides of Nitrogen,2026-04-16T15:00:00-06:00
+3.9,St. Albert,Wind Speed,2026-04-16T15:00:00-06:00
+2.0,St. Albert,,2026-04-16T15:00:00-06:00
 2.0,St. Albert,,2026-04-16T14:00:00-06:00
 4.5,St. Albert,Wind Speed,2026-04-16T14:00:00-06:00
 0.003,St. Albert,Total Oxides of Nitrogen,2026-04-16T14:00:00-06:00
@@ -1484,17 +1495,17 @@ Value,StationName,ParameterName,ReadingDate
 2.9,St. Albert,Fine Particulate Matter,2026-04-16T14:00:00-06:00
 0.001,St. Albert,Nitric Oxide,2026-04-16T14:00:00-06:00
 340.0,St. Albert,Wind Direction,2026-04-16T14:00:00-06:00
-2.0,St. Albert,,2026-04-16T13:00:00-06:00
-75.8,St. Albert,Relative Humidity,2026-04-16T13:00:00-06:00
--5.4,St. Albert,Outdoor Temperature,2026-04-16T13:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-16T13:00:00-06:00
-0.001,St. Albert,Nitrogen Dioxide,2026-04-16T13:00:00-06:00
-4.8,St. Albert,Wind Speed,2026-04-16T13:00:00-06:00
-0.042,St. Albert,Ozone,2026-04-16T13:00:00-06:00
-2.6,St. Albert,Fine Particulate Matter,2026-04-16T13:00:00-06:00
-0.001,St. Albert,Nitric Oxide,2026-04-16T13:00:00-06:00
-0.002,St. Albert,Total Oxides of Nitrogen,2026-04-16T13:00:00-06:00
 348.0,St. Albert,Wind Direction,2026-04-16T13:00:00-06:00
+0.002,St. Albert,Total Oxides of Nitrogen,2026-04-16T13:00:00-06:00
+0.001,St. Albert,Nitric Oxide,2026-04-16T13:00:00-06:00
+2.6,St. Albert,Fine Particulate Matter,2026-04-16T13:00:00-06:00
+0.042,St. Albert,Ozone,2026-04-16T13:00:00-06:00
+4.8,St. Albert,Wind Speed,2026-04-16T13:00:00-06:00
+0.001,St. Albert,Nitrogen Dioxide,2026-04-16T13:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-16T13:00:00-06:00
+-5.4,St. Albert,Outdoor Temperature,2026-04-16T13:00:00-06:00
+75.8,St. Albert,Relative Humidity,2026-04-16T13:00:00-06:00
+2.0,St. Albert,,2026-04-16T13:00:00-06:00
 77.4,St. Albert,Relative Humidity,2026-04-16T12:00:00-06:00
 2.0,St. Albert,,2026-04-16T12:00:00-06:00
 -6.0,St. Albert,Outdoor Temperature,2026-04-16T12:00:00-06:00
@@ -1561,17 +1572,17 @@ Value,StationName,ParameterName,ReadingDate
 3.2,St. Albert,Wind Speed,2026-04-16T07:00:00-06:00
 2.6,St. Albert,Fine Particulate Matter,2026-04-16T07:00:00-06:00
 14.0,St. Albert,Wind Direction,2026-04-16T07:00:00-06:00
-2.0,St. Albert,,2026-04-16T06:00:00-06:00
-90.7,St. Albert,Relative Humidity,2026-04-16T06:00:00-06:00
-0.003,St. Albert,Nitrogen Dioxide,2026-04-16T06:00:00-06:00
-4.1,St. Albert,Wind Speed,2026-04-16T06:00:00-06:00
-0.003,St. Albert,Total Oxides of Nitrogen,2026-04-16T06:00:00-06:00
--8.2,St. Albert,Outdoor Temperature,2026-04-16T06:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-16T06:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-16T06:00:00-06:00
-2.4,St. Albert,Fine Particulate Matter,2026-04-16T06:00:00-06:00
-0.031,St. Albert,Ozone,2026-04-16T06:00:00-06:00
 5.0,St. Albert,Wind Direction,2026-04-16T06:00:00-06:00
+0.031,St. Albert,Ozone,2026-04-16T06:00:00-06:00
+2.4,St. Albert,Fine Particulate Matter,2026-04-16T06:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-16T06:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-16T06:00:00-06:00
+-8.2,St. Albert,Outdoor Temperature,2026-04-16T06:00:00-06:00
+0.003,St. Albert,Total Oxides of Nitrogen,2026-04-16T06:00:00-06:00
+4.1,St. Albert,Wind Speed,2026-04-16T06:00:00-06:00
+0.003,St. Albert,Nitrogen Dioxide,2026-04-16T06:00:00-06:00
+90.7,St. Albert,Relative Humidity,2026-04-16T06:00:00-06:00
+2.0,St. Albert,,2026-04-16T06:00:00-06:00
 91.2,St. Albert,Relative Humidity,2026-04-16T05:00:00-06:00
 ,St. Albert,Ozone,2026-04-16T05:00:00-06:00
 ,St. Albert,Total Oxides of Nitrogen,2026-04-16T05:00:00-06:00
@@ -1660,17 +1671,17 @@ Value,StationName,ParameterName,ReadingDate
 99.0,St. Albert,Relative Humidity,2026-04-15T22:00:00-06:00
 9.1,St. Albert,Wind Speed,2026-04-15T22:00:00-06:00
 2.3,St. Albert,Fine Particulate Matter,2026-04-15T22:00:00-06:00
-2.0,St. Albert,,2026-04-15T21:00:00-06:00
-356.0,St. Albert,Wind Direction,2026-04-15T21:00:00-06:00
-98.8,St. Albert,Relative Humidity,2026-04-15T21:00:00-06:00
-2.1,St. Albert,Fine Particulate Matter,2026-04-15T21:00:00-06:00
-13.6,St. Albert,Wind Speed,2026-04-15T21:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-15T21:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-15T21:00:00-06:00
--6.9,St. Albert,Outdoor Temperature,2026-04-15T21:00:00-06:00
-0.032,St. Albert,Ozone,2026-04-15T21:00:00-06:00
-0.001,St. Albert,Nitrogen Dioxide,2026-04-15T21:00:00-06:00
 0.001,St. Albert,Total Oxides of Nitrogen,2026-04-15T21:00:00-06:00
+0.001,St. Albert,Nitrogen Dioxide,2026-04-15T21:00:00-06:00
+0.032,St. Albert,Ozone,2026-04-15T21:00:00-06:00
+-6.9,St. Albert,Outdoor Temperature,2026-04-15T21:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-15T21:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-15T21:00:00-06:00
+13.6,St. Albert,Wind Speed,2026-04-15T21:00:00-06:00
+2.1,St. Albert,Fine Particulate Matter,2026-04-15T21:00:00-06:00
+98.8,St. Albert,Relative Humidity,2026-04-15T21:00:00-06:00
+356.0,St. Albert,Wind Direction,2026-04-15T21:00:00-06:00
+2.0,St. Albert,,2026-04-15T21:00:00-06:00
 2.0,St. Albert,,2026-04-15T20:00:00-06:00
 352.0,St. Albert,Wind Direction,2026-04-15T20:00:00-06:00
 97.1,St. Albert,Relative Humidity,2026-04-15T20:00:00-06:00
@@ -1693,16 +1704,16 @@ Value,StationName,ParameterName,ReadingDate
 0.03,St. Albert,Ozone,2026-04-15T19:00:00-06:00
 96.4,St. Albert,Relative Humidity,2026-04-15T19:00:00-06:00
 2.7,St. Albert,Fine Particulate Matter,2026-04-15T19:00:00-06:00
-2.0,St. Albert,,2026-04-15T18:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-15T18:00:00-06:00
-0.001,St. Albert,Total Oxides of Nitrogen,2026-04-15T18:00:00-06:00
--6.5,St. Albert,Outdoor Temperature,2026-04-15T18:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-15T18:00:00-06:00
-1.0,St. Albert,Wind Direction,2026-04-15T18:00:00-06:00
-0.001,St. Albert,Nitrogen Dioxide,2026-04-15T18:00:00-06:00
-12.3,St. Albert,Wind Speed,2026-04-15T18:00:00-06:00
-0.029,St. Albert,Ozone,2026-04-15T18:00:00-06:00
 94.6,St. Albert,Relative Humidity,2026-04-15T18:00:00-06:00
+0.029,St. Albert,Ozone,2026-04-15T18:00:00-06:00
+12.3,St. Albert,Wind Speed,2026-04-15T18:00:00-06:00
+0.001,St. Albert,Nitrogen Dioxide,2026-04-15T18:00:00-06:00
+1.0,St. Albert,Wind Direction,2026-04-15T18:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-15T18:00:00-06:00
+-6.5,St. Albert,Outdoor Temperature,2026-04-15T18:00:00-06:00
+0.001,St. Albert,Total Oxides of Nitrogen,2026-04-15T18:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-15T18:00:00-06:00
+2.0,St. Albert,,2026-04-15T18:00:00-06:00
 2.5,St. Albert,Fine Particulate Matter,2026-04-15T18:00:00-06:00
 2.0,St. Albert,,2026-04-15T17:00:00-06:00
 0.0,St. Albert,Sulphur Dioxide,2026-04-15T17:00:00-06:00
@@ -1748,17 +1759,17 @@ Value,StationName,ParameterName,ReadingDate
 0.002,St. Albert,Total Oxides of Nitrogen,2026-04-15T14:00:00-06:00
 97.4,St. Albert,Relative Humidity,2026-04-15T14:00:00-06:00
 2.9,St. Albert,Fine Particulate Matter,2026-04-15T14:00:00-06:00
-2.8,St. Albert,Fine Particulate Matter,2026-04-15T13:00:00-06:00
-96.8,St. Albert,Relative Humidity,2026-04-15T13:00:00-06:00
-0.002,St. Albert,Total Oxides of Nitrogen,2026-04-15T13:00:00-06:00
-0.027,St. Albert,Ozone,2026-04-15T13:00:00-06:00
-0.002,St. Albert,Nitrogen Dioxide,2026-04-15T13:00:00-06:00
-16.0,St. Albert,Wind Direction,2026-04-15T13:00:00-06:00
-0.0,St. Albert,Sulphur Dioxide,2026-04-15T13:00:00-06:00
-0.0,St. Albert,Nitric Oxide,2026-04-15T13:00:00-06:00
--6.4,St. Albert,Outdoor Temperature,2026-04-15T13:00:00-06:00
-12.0,St. Albert,Wind Speed,2026-04-15T13:00:00-06:00
 2.0,St. Albert,,2026-04-15T13:00:00-06:00
+12.0,St. Albert,Wind Speed,2026-04-15T13:00:00-06:00
+-6.4,St. Albert,Outdoor Temperature,2026-04-15T13:00:00-06:00
+0.0,St. Albert,Nitric Oxide,2026-04-15T13:00:00-06:00
+0.0,St. Albert,Sulphur Dioxide,2026-04-15T13:00:00-06:00
+16.0,St. Albert,Wind Direction,2026-04-15T13:00:00-06:00
+0.002,St. Albert,Nitrogen Dioxide,2026-04-15T13:00:00-06:00
+0.027,St. Albert,Ozone,2026-04-15T13:00:00-06:00
+0.002,St. Albert,Total Oxides of Nitrogen,2026-04-15T13:00:00-06:00
+96.8,St. Albert,Relative Humidity,2026-04-15T13:00:00-06:00
+2.8,St. Albert,Fine Particulate Matter,2026-04-15T13:00:00-06:00
 2.7,St. Albert,Fine Particulate Matter,2026-04-15T12:00:00-06:00
 0.029,St. Albert,Ozone,2026-04-15T12:00:00-06:00
 96.1,St. Albert,Relative Humidity,2026-04-15T12:00:00-06:00
@@ -1770,14 +1781,3 @@ Value,StationName,ParameterName,ReadingDate
 0.001,St. Albert,Nitrogen Dioxide,2026-04-15T12:00:00-06:00
 17.0,St. Albert,Wind Direction,2026-04-15T12:00:00-06:00
 0.0,St. Albert,Nitric Oxide,2026-04-15T12:00:00-06:00
-2.5,St. Albert,Fine Particulate Matter,2026-04-15T11:00:00-06:00
-0.03,St. Albert,Ozone,2026-04-15T11:00:00-06:00
-97.7,St. Albert,Relative Humidity,2026-04-15T11:00:00-06:00
-13.0,St. Albert,Wind Speed,2026-04-15T11:00:00-06:00
-0.002,St. Albert,Nitrogen Dioxide,2026-04-15T11:00:00-06:00
-0.003,St. Albert,Total Oxides of Nitrogen,2026-04-15T11:00:00-06:00
-12.0,St. Albert,Wind Direction,2026-04-15T11:00:00-06:00
-0.001,St. Albert,Sulphur Dioxide,2026-04-15T11:00:00-06:00
-0.001,St. Albert,Nitric Oxide,2026-04-15T11:00:00-06:00
--5.4,St. Albert,Outdoor Temperature,2026-04-15T11:00:00-06:00
-2.0,St. Albert,,2026-04-15T11:00:00-06:00
