@@ -1,4 +1,13 @@
 Value,StationName,ParameterName,ReadingDate
+,Powers,Total Oxides of Nitrogen,2026-04-22T04:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-22T04:00:00-06:00
+,Powers,Nitric Oxide,2026-04-22T04:00:00-06:00
+,Powers,Relative Humidity,2026-04-22T04:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-22T04:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-22T04:00:00-06:00
+,Powers,Wind Speed,2026-04-22T04:00:00-06:00
+,Powers,Wind Direction,2026-04-22T04:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-22T04:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-22T03:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-22T03:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-22T03:00:00-06:00
@@ -17,16 +26,15 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Nitric Oxide,2026-04-22T02:00:00-06:00
 ,Powers,Wind Direction,2026-04-22T02:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-22T02:00:00-06:00
-,Powers,Relative Humidity,2026-04-22T01:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-22T01:00:00-06:00
-,Powers,Wind Speed,2026-04-22T01:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-22T01:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-22T01:00:00-06:00
-,Powers,Nitric Oxide,2026-04-22T01:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-22T01:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-22T01:00:00-06:00
 ,Powers,Wind Direction,2026-04-22T01:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-22T00:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-22T01:00:00-06:00
+,Powers,Nitric Oxide,2026-04-22T01:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-22T01:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-22T01:00:00-06:00
+,Powers,Wind Speed,2026-04-22T01:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-22T01:00:00-06:00
+,Powers,Relative Humidity,2026-04-22T01:00:00-06:00
 ,Powers,Wind Direction,2026-04-22T00:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-22T00:00:00-06:00
 ,Powers,Wind Speed,2026-04-22T00:00:00-06:00
@@ -35,6 +43,7 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Fine Particulate Matter,2026-04-22T00:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-22T00:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-22T00:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-22T00:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-21T23:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-21T23:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-21T23:00:00-06:00
@@ -53,7 +62,6 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Nitric Oxide,2026-04-21T22:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-21T22:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-21T22:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-21T21:00:00-06:00
 ,Powers,Wind Speed,2026-04-21T21:00:00-06:00
 ,Powers,Relative Humidity,2026-04-21T21:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-21T21:00:00-06:00
@@ -62,6 +70,9 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Fine Particulate Matter,2026-04-21T21:00:00-06:00
 ,Powers,Wind Direction,2026-04-21T21:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-21T21:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-21T21:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-21T20:00:00-06:00
+,Powers,Wind Direction,2026-04-21T20:00:00-06:00
 ,Powers,Wind Speed,2026-04-21T20:00:00-06:00
 ,Powers,Relative Humidity,2026-04-21T20:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-21T20:00:00-06:00
@@ -69,8 +80,6 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Sulphur Dioxide,2026-04-21T20:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-21T20:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-21T20:00:00-06:00
-,Powers,Wind Direction,2026-04-21T20:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-21T20:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-21T19:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-21T19:00:00-06:00
 ,Powers,Wind Speed,2026-04-21T19:00:00-06:00
@@ -80,24 +89,24 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Wind Direction,2026-04-21T19:00:00-06:00
 ,Powers,Relative Humidity,2026-04-21T19:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-21T19:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-21T18:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-21T18:00:00-06:00
-,Powers,Wind Speed,2026-04-21T18:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-21T18:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-21T18:00:00-06:00
-,Powers,Wind Direction,2026-04-21T18:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-21T18:00:00-06:00
-,Powers,Relative Humidity,2026-04-21T18:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-21T18:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-21T17:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-21T17:00:00-06:00
-,Powers,Nitric Oxide,2026-04-21T17:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-21T17:00:00-06:00
-,Powers,Wind Speed,2026-04-21T17:00:00-06:00
-,Powers,Relative Humidity,2026-04-21T17:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-21T17:00:00-06:00
-,Powers,Wind Direction,2026-04-21T17:00:00-06:00
+,Powers,Relative Humidity,2026-04-21T18:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-21T18:00:00-06:00
+,Powers,Wind Direction,2026-04-21T18:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-21T18:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-21T18:00:00-06:00
+,Powers,Wind Speed,2026-04-21T18:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-21T18:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-21T18:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-21T17:00:00-06:00
+,Powers,Wind Direction,2026-04-21T17:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-21T17:00:00-06:00
+,Powers,Relative Humidity,2026-04-21T17:00:00-06:00
+,Powers,Wind Speed,2026-04-21T17:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-21T17:00:00-06:00
+,Powers,Nitric Oxide,2026-04-21T17:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-21T17:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-21T17:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-21T16:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-21T16:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-21T16:00:00-06:00
@@ -109,13 +118,13 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Wind Direction,2026-04-21T16:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-21T15:00:00-06:00
 ,Powers,Relative Humidity,2026-04-21T15:00:00-06:00
-,Powers,Wind Speed,2026-04-21T15:00:00-06:00
-,Powers,Wind Direction,2026-04-21T15:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-21T15:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-21T15:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-21T15:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-21T15:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-21T15:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-21T15:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-21T15:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-21T15:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-21T15:00:00-06:00
+,Powers,Wind Direction,2026-04-21T15:00:00-06:00
+,Powers,Wind Speed,2026-04-21T15:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-21T14:00:00-06:00
 ,Powers,Relative Humidity,2026-04-21T14:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-21T14:00:00-06:00
@@ -165,11 +174,11 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Outdoor Temperature,2026-04-21T09:00:00-06:00
 ,Powers,Wind Speed,2026-04-21T09:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-21T09:00:00-06:00
-,Powers,Wind Direction,2026-04-21T09:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-21T09:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-21T09:00:00-06:00
-,Powers,Relative Humidity,2026-04-21T09:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-21T09:00:00-06:00
+,Powers,Relative Humidity,2026-04-21T09:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-21T09:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-21T09:00:00-06:00
+,Powers,Wind Direction,2026-04-21T09:00:00-06:00
 ,Powers,Relative Humidity,2026-04-21T08:00:00-06:00
 ,Powers,Wind Speed,2026-04-21T08:00:00-06:00
 ,Powers,Wind Direction,2026-04-21T08:00:00-06:00
@@ -179,16 +188,17 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Nitric Oxide,2026-04-21T08:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-21T08:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-21T08:00:00-06:00
-,Powers,Wind Speed,2026-04-21T07:00:00-06:00
-,Powers,Nitric Oxide,2026-04-21T07:00:00-06:00
-,Powers,Wind Direction,2026-04-21T07:00:00-06:00
-,Powers,Relative Humidity,2026-04-21T07:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-21T07:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-21T07:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-21T07:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-21T07:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-21T07:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-21T07:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-21T07:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-21T07:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-21T07:00:00-06:00
+,Powers,Relative Humidity,2026-04-21T07:00:00-06:00
+,Powers,Wind Direction,2026-04-21T07:00:00-06:00
+,Powers,Nitric Oxide,2026-04-21T07:00:00-06:00
+,Powers,Wind Speed,2026-04-21T07:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-21T06:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-21T06:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-21T06:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-21T06:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-21T06:00:00-06:00
@@ -196,25 +206,24 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Nitrogen Dioxide,2026-04-21T06:00:00-06:00
 ,Powers,Wind Speed,2026-04-21T06:00:00-06:00
 ,Powers,Relative Humidity,2026-04-21T06:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-21T06:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-21T05:00:00-06:00
-,Powers,Wind Direction,2026-04-21T05:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-21T05:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-21T05:00:00-06:00
-,Powers,Wind Speed,2026-04-21T05:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-21T05:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-21T05:00:00-06:00
-,Powers,Nitric Oxide,2026-04-21T05:00:00-06:00
 ,Powers,Relative Humidity,2026-04-21T05:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-21T04:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-21T04:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-21T04:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-21T04:00:00-06:00
-,Powers,Wind Direction,2026-04-21T04:00:00-06:00
-,Powers,Relative Humidity,2026-04-21T04:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-21T04:00:00-06:00
-,Powers,Wind Speed,2026-04-21T04:00:00-06:00
+,Powers,Nitric Oxide,2026-04-21T05:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-21T05:00:00-06:00
+,Powers,Wind Speed,2026-04-21T05:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-21T05:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-21T05:00:00-06:00
+,Powers,Wind Direction,2026-04-21T05:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-21T05:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-21T04:00:00-06:00
+,Powers,Wind Speed,2026-04-21T04:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-21T04:00:00-06:00
+,Powers,Relative Humidity,2026-04-21T04:00:00-06:00
+,Powers,Wind Direction,2026-04-21T04:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-21T04:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-21T04:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-21T04:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-21T04:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-21T03:00:00-06:00
 ,Powers,Wind Direction,2026-04-21T03:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-21T03:00:00-06:00
@@ -224,15 +233,15 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Relative Humidity,2026-04-21T03:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-21T03:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-21T03:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-21T02:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-21T02:00:00-06:00
-,Powers,Wind Speed,2026-04-21T02:00:00-06:00
-,Powers,Relative Humidity,2026-04-21T02:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-21T02:00:00-06:00
-,Powers,Nitric Oxide,2026-04-21T02:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-21T02:00:00-06:00
-,Powers,Wind Direction,2026-04-21T02:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-21T02:00:00-06:00
+,Powers,Wind Direction,2026-04-21T02:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-21T02:00:00-06:00
+,Powers,Nitric Oxide,2026-04-21T02:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-21T02:00:00-06:00
+,Powers,Relative Humidity,2026-04-21T02:00:00-06:00
+,Powers,Wind Speed,2026-04-21T02:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-21T02:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-21T02:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-21T01:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-21T01:00:00-06:00
 ,Powers,Wind Speed,2026-04-21T01:00:00-06:00
@@ -404,51 +413,51 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Relative Humidity,2026-04-20T07:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-20T07:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-20T07:00:00-06:00
-,Powers,Wind Direction,2026-04-20T06:00:00-06:00
-,Powers,Nitric Oxide,2026-04-20T06:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-20T06:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-20T06:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-20T06:00:00-06:00
-,Powers,Wind Speed,2026-04-20T06:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-20T06:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-20T06:00:00-06:00
 ,Powers,Relative Humidity,2026-04-20T06:00:00-06:00
-,Powers,Relative Humidity,2026-04-20T05:00:00-06:00
-,Powers,Wind Speed,2026-04-20T05:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-20T05:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-20T05:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-20T05:00:00-06:00
-,Powers,Nitric Oxide,2026-04-20T05:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-20T05:00:00-06:00
-,Powers,Wind Direction,2026-04-20T05:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-20T06:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-20T06:00:00-06:00
+,Powers,Wind Speed,2026-04-20T06:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-20T06:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-20T06:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-20T06:00:00-06:00
+,Powers,Nitric Oxide,2026-04-20T06:00:00-06:00
+,Powers,Wind Direction,2026-04-20T06:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-20T05:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-20T04:00:00-06:00
-,Powers,Relative Humidity,2026-04-20T04:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-20T04:00:00-06:00
-,Powers,Wind Speed,2026-04-20T04:00:00-06:00
-,Powers,Nitric Oxide,2026-04-20T04:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-20T04:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-20T04:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-20T04:00:00-06:00
+,Powers,Wind Direction,2026-04-20T05:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-20T05:00:00-06:00
+,Powers,Nitric Oxide,2026-04-20T05:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-20T05:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-20T05:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-20T05:00:00-06:00
+,Powers,Wind Speed,2026-04-20T05:00:00-06:00
+,Powers,Relative Humidity,2026-04-20T05:00:00-06:00
 ,Powers,Wind Direction,2026-04-20T04:00:00-06:00
-,Powers,Wind Speed,2026-04-20T03:00:00-06:00
-,Powers,Nitric Oxide,2026-04-20T03:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-20T03:00:00-06:00
-,Powers,Wind Direction,2026-04-20T03:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-20T03:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-20T03:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-20T03:00:00-06:00
-,Powers,Relative Humidity,2026-04-20T03:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-20T04:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-20T04:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-20T04:00:00-06:00
+,Powers,Nitric Oxide,2026-04-20T04:00:00-06:00
+,Powers,Wind Speed,2026-04-20T04:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-20T04:00:00-06:00
+,Powers,Relative Humidity,2026-04-20T04:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-20T04:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-20T03:00:00-06:00
-,Powers,Wind Speed,2026-04-20T02:00:00-06:00
-,Powers,Nitric Oxide,2026-04-20T02:00:00-06:00
-,Powers,Wind Direction,2026-04-20T02:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-20T02:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-20T02:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-20T02:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-20T02:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-20T02:00:00-06:00
+,Powers,Relative Humidity,2026-04-20T03:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-20T03:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-20T03:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-20T03:00:00-06:00
+,Powers,Wind Direction,2026-04-20T03:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-20T03:00:00-06:00
+,Powers,Nitric Oxide,2026-04-20T03:00:00-06:00
+,Powers,Wind Speed,2026-04-20T03:00:00-06:00
 ,Powers,Relative Humidity,2026-04-20T02:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-20T02:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-20T02:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-20T02:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-20T02:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-20T02:00:00-06:00
+,Powers,Wind Direction,2026-04-20T02:00:00-06:00
+,Powers,Nitric Oxide,2026-04-20T02:00:00-06:00
+,Powers,Wind Speed,2026-04-20T02:00:00-06:00
 ,Powers,Wind Direction,2026-04-20T01:00:00-06:00
 ,Powers,Wind Speed,2026-04-20T01:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-20T01:00:00-06:00
@@ -458,15 +467,15 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Total Oxides of Nitrogen,2026-04-20T01:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-20T01:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-20T01:00:00-06:00
-,Powers,Wind Direction,2026-04-20T00:00:00-06:00
-,Powers,Nitric Oxide,2026-04-20T00:00:00-06:00
-,Powers,Wind Speed,2026-04-20T00:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-20T00:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-20T00:00:00-06:00
-,Powers,Relative Humidity,2026-04-20T00:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-20T00:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-20T00:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-20T00:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-20T00:00:00-06:00
+,Powers,Relative Humidity,2026-04-20T00:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-20T00:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-20T00:00:00-06:00
+,Powers,Wind Speed,2026-04-20T00:00:00-06:00
+,Powers,Nitric Oxide,2026-04-20T00:00:00-06:00
+,Powers,Wind Direction,2026-04-20T00:00:00-06:00
 ,Powers,Wind Direction,2026-04-19T23:00:00-06:00
 ,Powers,Wind Speed,2026-04-19T23:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-19T23:00:00-06:00
@@ -476,21 +485,21 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Outdoor Temperature,2026-04-19T23:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-19T23:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-19T23:00:00-06:00
-,Powers,Wind Direction,2026-04-19T22:00:00-06:00
-,Powers,Wind Speed,2026-04-19T22:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-19T22:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-19T22:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-19T22:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-19T22:00:00-06:00
 ,Powers,Relative Humidity,2026-04-19T22:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-19T22:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-19T22:00:00-06:00
-,Powers,Wind Direction,2026-04-19T21:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-19T21:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-19T21:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-19T22:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-19T22:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-19T22:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-19T22:00:00-06:00
+,Powers,Wind Speed,2026-04-19T22:00:00-06:00
+,Powers,Wind Direction,2026-04-19T22:00:00-06:00
 ,Powers,Relative Humidity,2026-04-19T21:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-19T21:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-19T21:00:00-06:00
+,Powers,Wind Direction,2026-04-19T21:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-19T21:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-19T21:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-19T21:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-19T21:00:00-06:00
 ,Powers,Wind Speed,2026-04-19T21:00:00-06:00
@@ -512,12 +521,12 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Nitric Oxide,2026-04-19T19:00:00-06:00
 ,Powers,Wind Speed,2026-04-19T19:00:00-06:00
 ,Powers,Wind Direction,2026-04-19T19:00:00-06:00
-,Powers,Wind Direction,2026-04-19T18:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-19T18:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-19T18:00:00-06:00
-,Powers,Nitric Oxide,2026-04-19T18:00:00-06:00
-,Powers,Wind Speed,2026-04-19T18:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-19T18:00:00-06:00
+,Powers,Wind Speed,2026-04-19T18:00:00-06:00
+,Powers,Nitric Oxide,2026-04-19T18:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-19T18:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-19T18:00:00-06:00
+,Powers,Wind Direction,2026-04-19T18:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-19T18:00:00-06:00
 ,Powers,Relative Humidity,2026-04-19T18:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-19T18:00:00-06:00
@@ -530,24 +539,25 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Total Oxides of Nitrogen,2026-04-19T17:00:00-06:00
 ,Powers,Relative Humidity,2026-04-19T17:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-19T17:00:00-06:00
-,Powers,Wind Direction,2026-04-19T16:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-19T16:00:00-06:00
-,Powers,Wind Speed,2026-04-19T16:00:00-06:00
-,Powers,Nitric Oxide,2026-04-19T16:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-19T16:00:00-06:00
-,Powers,Relative Humidity,2026-04-19T16:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-19T16:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-19T16:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-19T16:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-19T15:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-19T15:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-19T15:00:00-06:00
-,Powers,Relative Humidity,2026-04-19T15:00:00-06:00
-,Powers,Nitric Oxide,2026-04-19T15:00:00-06:00
-,Powers,Wind Speed,2026-04-19T15:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-19T15:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-19T16:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-19T16:00:00-06:00
+,Powers,Relative Humidity,2026-04-19T16:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-19T16:00:00-06:00
+,Powers,Nitric Oxide,2026-04-19T16:00:00-06:00
+,Powers,Wind Speed,2026-04-19T16:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-19T16:00:00-06:00
+,Powers,Wind Direction,2026-04-19T16:00:00-06:00
 ,Powers,Wind Direction,2026-04-19T15:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-19T15:00:00-06:00
+,Powers,Wind Speed,2026-04-19T15:00:00-06:00
+,Powers,Nitric Oxide,2026-04-19T15:00:00-06:00
+,Powers,Relative Humidity,2026-04-19T15:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-19T15:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-19T15:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-19T15:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-19T15:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-19T14:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-19T14:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-19T14:00:00-06:00
 ,Powers,Wind Speed,2026-04-19T14:00:00-06:00
@@ -556,25 +566,24 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Fine Particulate Matter,2026-04-19T14:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-19T14:00:00-06:00
 ,Powers,Wind Direction,2026-04-19T14:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-19T14:00:00-06:00
-,Powers,Wind Direction,2026-04-19T13:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-19T13:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-19T13:00:00-06:00
-,Powers,Wind Speed,2026-04-19T13:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-19T13:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-19T13:00:00-06:00
 ,Powers,Relative Humidity,2026-04-19T13:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-19T13:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-19T13:00:00-06:00
-,Powers,Wind Direction,2026-04-19T12:00:00-06:00
-,Powers,Wind Speed,2026-04-19T12:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-19T12:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-19T12:00:00-06:00
-,Powers,Relative Humidity,2026-04-19T12:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-19T12:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-19T12:00:00-06:00
-,Powers,Nitric Oxide,2026-04-19T12:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-19T13:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-19T13:00:00-06:00
+,Powers,Wind Speed,2026-04-19T13:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-19T13:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-19T13:00:00-06:00
+,Powers,Wind Direction,2026-04-19T13:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-19T12:00:00-06:00
+,Powers,Nitric Oxide,2026-04-19T12:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-19T12:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-19T12:00:00-06:00
+,Powers,Relative Humidity,2026-04-19T12:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-19T12:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-19T12:00:00-06:00
+,Powers,Wind Speed,2026-04-19T12:00:00-06:00
+,Powers,Wind Direction,2026-04-19T12:00:00-06:00
 ,Powers,Wind Speed,2026-04-19T11:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-19T11:00:00-06:00
 ,Powers,Relative Humidity,2026-04-19T11:00:00-06:00
@@ -582,8 +591,8 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Total Oxides of Nitrogen,2026-04-19T11:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-19T11:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-19T11:00:00-06:00
-,Powers,Wind Direction,2026-04-19T11:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-19T11:00:00-06:00
+,Powers,Wind Direction,2026-04-19T11:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-19T10:00:00-06:00
 ,Powers,Wind Speed,2026-04-19T10:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-19T10:00:00-06:00
@@ -593,60 +602,60 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Total Oxides of Nitrogen,2026-04-19T10:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-19T10:00:00-06:00
 ,Powers,Wind Direction,2026-04-19T10:00:00-06:00
+,Powers,Wind Direction,2026-04-19T09:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-19T09:00:00-06:00
+,Powers,Wind Speed,2026-04-19T09:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-19T09:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-19T09:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-19T09:00:00-06:00
 ,Powers,Relative Humidity,2026-04-19T09:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-19T09:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-19T09:00:00-06:00
-,Powers,Wind Speed,2026-04-19T09:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-19T09:00:00-06:00
-,Powers,Wind Direction,2026-04-19T09:00:00-06:00
-,Powers,Wind Direction,2026-04-19T08:00:00-06:00
-,Powers,Wind Speed,2026-04-19T08:00:00-06:00
-,Powers,Relative Humidity,2026-04-19T08:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-19T08:00:00-06:00
-,Powers,Nitric Oxide,2026-04-19T08:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-19T08:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-19T08:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-19T08:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-19T08:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-19T08:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-19T08:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-19T08:00:00-06:00
+,Powers,Nitric Oxide,2026-04-19T08:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-19T08:00:00-06:00
+,Powers,Relative Humidity,2026-04-19T08:00:00-06:00
+,Powers,Wind Speed,2026-04-19T08:00:00-06:00
+,Powers,Wind Direction,2026-04-19T08:00:00-06:00
 ,Powers,Wind Direction,2026-04-19T07:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-19T07:00:00-06:00
-,Powers,Relative Humidity,2026-04-19T07:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-19T07:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-19T07:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-19T07:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-19T07:00:00-06:00
-,Powers,Wind Speed,2026-04-19T07:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-19T07:00:00-06:00
-,Powers,Wind Direction,2026-04-19T06:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-19T06:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-19T06:00:00-06:00
-,Powers,Wind Speed,2026-04-19T06:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-19T06:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-19T06:00:00-06:00
-,Powers,Nitric Oxide,2026-04-19T06:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-19T06:00:00-06:00
+,Powers,Wind Speed,2026-04-19T07:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-19T07:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-19T07:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-19T07:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-19T07:00:00-06:00
+,Powers,Relative Humidity,2026-04-19T07:00:00-06:00
 ,Powers,Relative Humidity,2026-04-19T06:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-19T05:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-19T05:00:00-06:00
-,Powers,Wind Speed,2026-04-19T05:00:00-06:00
-,Powers,Relative Humidity,2026-04-19T05:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-19T06:00:00-06:00
+,Powers,Nitric Oxide,2026-04-19T06:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-19T06:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-19T06:00:00-06:00
+,Powers,Wind Speed,2026-04-19T06:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-19T06:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-19T06:00:00-06:00
+,Powers,Wind Direction,2026-04-19T06:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-19T05:00:00-06:00
+,Powers,Relative Humidity,2026-04-19T05:00:00-06:00
+,Powers,Wind Speed,2026-04-19T05:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-19T05:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-19T05:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-19T05:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-19T05:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-19T05:00:00-06:00
 ,Powers,Wind Direction,2026-04-19T05:00:00-06:00
-,Powers,Wind Direction,2026-04-19T04:00:00-06:00
-,Powers,Nitric Oxide,2026-04-19T04:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-19T04:00:00-06:00
-,Powers,Wind Speed,2026-04-19T04:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-19T04:00:00-06:00
-,Powers,Relative Humidity,2026-04-19T04:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-19T04:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-19T04:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-19T04:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-19T04:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-19T04:00:00-06:00
+,Powers,Relative Humidity,2026-04-19T04:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-19T04:00:00-06:00
+,Powers,Wind Speed,2026-04-19T04:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-19T04:00:00-06:00
+,Powers,Nitric Oxide,2026-04-19T04:00:00-06:00
+,Powers,Wind Direction,2026-04-19T04:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-19T03:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-19T03:00:00-06:00
 ,Powers,Wind Speed,2026-04-19T03:00:00-06:00
@@ -656,8 +665,6 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Relative Humidity,2026-04-19T03:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-19T03:00:00-06:00
 ,Powers,Wind Direction,2026-04-19T03:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-19T02:00:00-06:00
-,Powers,Relative Humidity,2026-04-19T02:00:00-06:00
 ,Powers,Wind Direction,2026-04-19T02:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-19T02:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-19T02:00:00-06:00
@@ -665,15 +672,17 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Fine Particulate Matter,2026-04-19T02:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-19T02:00:00-06:00
 ,Powers,Wind Speed,2026-04-19T02:00:00-06:00
+,Powers,Relative Humidity,2026-04-19T02:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-19T02:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-19T01:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-19T01:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-19T01:00:00-06:00
+,Powers,Wind Direction,2026-04-19T01:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-19T01:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-19T01:00:00-06:00
+,Powers,Wind Speed,2026-04-19T01:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-19T01:00:00-06:00
 ,Powers,Relative Humidity,2026-04-19T01:00:00-06:00
-,Powers,Wind Speed,2026-04-19T01:00:00-06:00
-,Powers,Wind Direction,2026-04-19T01:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-19T01:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-19T00:00:00-06:00
 ,Powers,Wind Direction,2026-04-19T00:00:00-06:00
 ,Powers,Wind Speed,2026-04-19T00:00:00-06:00
@@ -683,7 +692,6 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Nitric Oxide,2026-04-19T00:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-19T00:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-19T00:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-18T23:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-18T23:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-18T23:00:00-06:00
 ,Powers,Wind Direction,2026-04-18T23:00:00-06:00
@@ -692,49 +700,50 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Nitric Oxide,2026-04-18T23:00:00-06:00
 ,Powers,Wind Speed,2026-04-18T23:00:00-06:00
 ,Powers,Relative Humidity,2026-04-18T23:00:00-06:00
-,Powers,Wind Speed,2026-04-18T22:00:00-06:00
-,Powers,Nitric Oxide,2026-04-18T22:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-18T22:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-18T22:00:00-06:00
-,Powers,Wind Direction,2026-04-18T22:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-18T22:00:00-06:00
-,Powers,Relative Humidity,2026-04-18T22:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-18T23:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-18T22:00:00-06:00
+,Powers,Relative Humidity,2026-04-18T22:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-18T22:00:00-06:00
+,Powers,Wind Direction,2026-04-18T22:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-18T22:00:00-06:00
+,Powers,Nitric Oxide,2026-04-18T22:00:00-06:00
+,Powers,Wind Speed,2026-04-18T22:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-18T22:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-18T22:00:00-06:00
 ,Powers,Wind Direction,2026-04-18T21:00:00-06:00
 ,Powers,Relative Humidity,2026-04-18T21:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-18T21:00:00-06:00
 ,Powers,Wind Speed,2026-04-18T21:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-18T21:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-18T21:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-18T21:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-18T21:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-18T21:00:00-06:00
-,Powers,Wind Speed,2026-04-18T20:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-18T21:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-18T20:00:00-06:00
-,Powers,Relative Humidity,2026-04-18T20:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-18T20:00:00-06:00
-,Powers,Wind Direction,2026-04-18T20:00:00-06:00
-,Powers,Nitric Oxide,2026-04-18T20:00:00-06:00
+,Powers,Wind Speed,2026-04-18T20:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-18T20:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-18T20:00:00-06:00
+,Powers,Nitric Oxide,2026-04-18T20:00:00-06:00
+,Powers,Wind Direction,2026-04-18T20:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-18T20:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-18T20:00:00-06:00
+,Powers,Relative Humidity,2026-04-18T20:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-18T19:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-18T19:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-18T19:00:00-06:00
 ,Powers,Relative Humidity,2026-04-18T19:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-18T19:00:00-06:00
 ,Powers,Wind Direction,2026-04-18T19:00:00-06:00
 ,Powers,Wind Speed,2026-04-18T19:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-18T19:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-18T19:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-18T19:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-18T18:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-18T19:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-18T18:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-18T18:00:00-06:00
 ,Powers,Relative Humidity,2026-04-18T18:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-18T18:00:00-06:00
 ,Powers,Wind Speed,2026-04-18T18:00:00-06:00
 ,Powers,Wind Direction,2026-04-18T18:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-18T18:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-18T18:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-18T18:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-18T17:00:00-06:00
@@ -747,23 +756,23 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Wind Speed,2026-04-18T17:00:00-06:00
 ,Powers,Wind Direction,2026-04-18T17:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-18T16:00:00-06:00
-,Powers,Nitric Oxide,2026-04-18T16:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-18T16:00:00-06:00
-,Powers,Wind Speed,2026-04-18T16:00:00-06:00
-,Powers,Relative Humidity,2026-04-18T16:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-18T16:00:00-06:00
-,Powers,Wind Direction,2026-04-18T16:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-18T16:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-18T16:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-18T15:00:00-06:00
-,Powers,Nitric Oxide,2026-04-18T15:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-18T15:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-18T15:00:00-06:00
-,Powers,Wind Direction,2026-04-18T15:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-18T15:00:00-06:00
-,Powers,Wind Speed,2026-04-18T15:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-18T15:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-18T16:00:00-06:00
+,Powers,Wind Direction,2026-04-18T16:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-18T16:00:00-06:00
+,Powers,Relative Humidity,2026-04-18T16:00:00-06:00
+,Powers,Wind Speed,2026-04-18T16:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-18T16:00:00-06:00
+,Powers,Nitric Oxide,2026-04-18T16:00:00-06:00
 ,Powers,Relative Humidity,2026-04-18T15:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-18T15:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-18T15:00:00-06:00
+,Powers,Wind Speed,2026-04-18T15:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-18T15:00:00-06:00
+,Powers,Wind Direction,2026-04-18T15:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-18T15:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-18T15:00:00-06:00
+,Powers,Nitric Oxide,2026-04-18T15:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-18T14:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-18T14:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-18T14:00:00-06:00
@@ -778,10 +787,11 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Sulphur Dioxide,2026-04-18T13:00:00-06:00
 ,Powers,Wind Speed,2026-04-18T13:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-18T13:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-18T13:00:00-06:00
 ,Powers,Wind Direction,2026-04-18T13:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-18T13:00:00-06:00
 ,Powers,Relative Humidity,2026-04-18T13:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-18T13:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-18T12:00:00-06:00
 ,Powers,Relative Humidity,2026-04-18T12:00:00-06:00
 ,Powers,Wind Direction,2026-04-18T12:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-18T12:00:00-06:00
@@ -790,26 +800,24 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Nitric Oxide,2026-04-18T12:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-18T12:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-18T12:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-18T12:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-18T11:00:00-06:00
-,Powers,Nitric Oxide,2026-04-18T11:00:00-06:00
-,Powers,Relative Humidity,2026-04-18T11:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-18T11:00:00-06:00
 ,Powers,Wind Speed,2026-04-18T11:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-18T11:00:00-06:00
 ,Powers,Wind Direction,2026-04-18T11:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-18T11:00:00-06:00
+,Powers,Relative Humidity,2026-04-18T11:00:00-06:00
+,Powers,Nitric Oxide,2026-04-18T11:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-18T11:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-18T11:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-18T10:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-18T10:00:00-06:00
-,Powers,Relative Humidity,2026-04-18T10:00:00-06:00
-,Powers,Nitric Oxide,2026-04-18T10:00:00-06:00
-,Powers,Wind Speed,2026-04-18T10:00:00-06:00
-,Powers,Wind Direction,2026-04-18T10:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-18T10:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-18T10:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-18T10:00:00-06:00
+,Powers,Wind Direction,2026-04-18T10:00:00-06:00
+,Powers,Wind Speed,2026-04-18T10:00:00-06:00
+,Powers,Nitric Oxide,2026-04-18T10:00:00-06:00
+,Powers,Relative Humidity,2026-04-18T10:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-18T10:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-18T10:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-18T10:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-18T09:00:00-06:00
 ,Powers,Wind Speed,2026-04-18T09:00:00-06:00
 ,Powers,Wind Direction,2026-04-18T09:00:00-06:00
 ,Powers,Relative Humidity,2026-04-18T09:00:00-06:00
@@ -818,61 +826,63 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Nitrogen Dioxide,2026-04-18T09:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-18T09:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-18T09:00:00-06:00
-,Powers,Wind Speed,2026-04-18T08:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-18T08:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-18T08:00:00-06:00
-,Powers,Relative Humidity,2026-04-18T08:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-18T08:00:00-06:00
-,Powers,Wind Direction,2026-04-18T08:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-18T08:00:00-06:00
-,Powers,Nitric Oxide,2026-04-18T08:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-18T09:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-18T08:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-18T07:00:00-06:00
-,Powers,Wind Speed,2026-04-18T07:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-18T07:00:00-06:00
-,Powers,Nitric Oxide,2026-04-18T07:00:00-06:00
-,Powers,Relative Humidity,2026-04-18T07:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-18T07:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-18T07:00:00-06:00
-,Powers,Wind Direction,2026-04-18T07:00:00-06:00
+,Powers,Nitric Oxide,2026-04-18T08:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-18T08:00:00-06:00
+,Powers,Wind Direction,2026-04-18T08:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-18T08:00:00-06:00
+,Powers,Relative Humidity,2026-04-18T08:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-18T08:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-18T08:00:00-06:00
+,Powers,Wind Speed,2026-04-18T08:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-18T07:00:00-06:00
+,Powers,Wind Direction,2026-04-18T07:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-18T07:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-18T07:00:00-06:00
+,Powers,Relative Humidity,2026-04-18T07:00:00-06:00
+,Powers,Nitric Oxide,2026-04-18T07:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-18T07:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-18T07:00:00-06:00
+,Powers,Wind Speed,2026-04-18T07:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-18T06:00:00-06:00
+,Powers,Relative Humidity,2026-04-18T06:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-18T06:00:00-06:00
+,Powers,Nitric Oxide,2026-04-18T06:00:00-06:00
+,Powers,Wind Direction,2026-04-18T06:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-18T06:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-18T06:00:00-06:00
 ,Powers,Wind Speed,2026-04-18T06:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-18T06:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-18T06:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-18T06:00:00-06:00
-,Powers,Wind Direction,2026-04-18T06:00:00-06:00
-,Powers,Nitric Oxide,2026-04-18T06:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-18T06:00:00-06:00
-,Powers,Relative Humidity,2026-04-18T06:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-18T05:00:00-06:00
-,Powers,Relative Humidity,2026-04-18T05:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-18T05:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-18T05:00:00-06:00
-,Powers,Nitric Oxide,2026-04-18T05:00:00-06:00
-,Powers,Wind Direction,2026-04-18T05:00:00-06:00
-,Powers,Wind Speed,2026-04-18T05:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-18T05:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-18T05:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-18T05:00:00-06:00
+,Powers,Wind Speed,2026-04-18T05:00:00-06:00
+,Powers,Wind Direction,2026-04-18T05:00:00-06:00
+,Powers,Nitric Oxide,2026-04-18T05:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-18T05:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-18T05:00:00-06:00
+,Powers,Relative Humidity,2026-04-18T05:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-18T05:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-18T04:00:00-06:00
+,Powers,Relative Humidity,2026-04-18T04:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-18T04:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-18T04:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-18T04:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-18T04:00:00-06:00
+,Powers,Wind Direction,2026-04-18T04:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-18T04:00:00-06:00
 ,Powers,Wind Speed,2026-04-18T04:00:00-06:00
-,Powers,Wind Direction,2026-04-18T04:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-18T04:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-18T04:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-18T04:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-18T04:00:00-06:00
-,Powers,Relative Humidity,2026-04-18T04:00:00-06:00
+,Powers,Wind Speed,2026-04-18T03:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-18T03:00:00-06:00
+,Powers,Nitric Oxide,2026-04-18T03:00:00-06:00
+,Powers,Wind Direction,2026-04-18T03:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-18T03:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-18T03:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-18T03:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-18T03:00:00-06:00
 ,Powers,Relative Humidity,2026-04-18T03:00:00-06:00
-,Powers,Wind Speed,2026-04-18T03:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-18T03:00:00-06:00
-,Powers,Wind Direction,2026-04-18T03:00:00-06:00
-,Powers,Nitric Oxide,2026-04-18T03:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-18T03:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-18T03:00:00-06:00
 ,Powers,Relative Humidity,2026-04-18T02:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-18T02:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-18T02:00:00-06:00
 ,Powers,Wind Direction,2026-04-18T02:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-18T02:00:00-06:00
@@ -880,52 +890,51 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Wind Speed,2026-04-18T02:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-18T02:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-18T02:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-18T02:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-18T01:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-18T01:00:00-06:00
-,Powers,Relative Humidity,2026-04-18T01:00:00-06:00
-,Powers,Wind Direction,2026-04-18T01:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-18T01:00:00-06:00
-,Powers,Wind Speed,2026-04-18T01:00:00-06:00
-,Powers,Nitric Oxide,2026-04-18T01:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-18T01:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-18T01:00:00-06:00
+,Powers,Nitric Oxide,2026-04-18T01:00:00-06:00
+,Powers,Wind Speed,2026-04-18T01:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-18T01:00:00-06:00
+,Powers,Wind Direction,2026-04-18T01:00:00-06:00
+,Powers,Relative Humidity,2026-04-18T01:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-18T01:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-18T01:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-18T00:00:00-06:00
 ,Powers,Relative Humidity,2026-04-18T00:00:00-06:00
 ,Powers,Wind Speed,2026-04-18T00:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-18T00:00:00-06:00
 ,Powers,Wind Direction,2026-04-18T00:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-18T00:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-18T00:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-18T00:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-18T00:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-18T00:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-17T23:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-17T23:00:00-06:00
-,Powers,Relative Humidity,2026-04-17T23:00:00-06:00
-,Powers,Wind Speed,2026-04-17T23:00:00-06:00
-,Powers,Wind Direction,2026-04-17T23:00:00-06:00
-,Powers,Nitric Oxide,2026-04-17T23:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-17T23:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-17T23:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-17T23:00:00-06:00
-,Powers,Wind Speed,2026-04-17T22:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-17T23:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-17T23:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-17T23:00:00-06:00
+,Powers,Nitric Oxide,2026-04-17T23:00:00-06:00
+,Powers,Wind Direction,2026-04-17T23:00:00-06:00
+,Powers,Wind Speed,2026-04-17T23:00:00-06:00
+,Powers,Relative Humidity,2026-04-17T23:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-17T23:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-17T22:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-17T22:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-17T22:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-17T22:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-17T22:00:00-06:00
 ,Powers,Relative Humidity,2026-04-17T22:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-17T22:00:00-06:00
 ,Powers,Wind Direction,2026-04-17T22:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-17T22:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-17T22:00:00-06:00
+,Powers,Wind Speed,2026-04-17T22:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-17T21:00:00-06:00
 ,Powers,Wind Direction,2026-04-17T21:00:00-06:00
 ,Powers,Relative Humidity,2026-04-17T21:00:00-06:00
-,Powers,Wind Speed,2026-04-17T21:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-17T21:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-17T21:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-17T21:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-17T21:00:00-06:00
-,Powers,Nitric Oxide,2026-04-17T21:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-17T21:00:00-06:00
+,Powers,Nitric Oxide,2026-04-17T21:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-17T21:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-17T21:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-17T21:00:00-06:00
+,Powers,Wind Speed,2026-04-17T21:00:00-06:00
 ,Powers,Relative Humidity,2026-04-17T20:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-17T20:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-17T20:00:00-06:00
@@ -935,34 +944,33 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Wind Speed,2026-04-17T20:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-17T20:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-17T20:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-17T19:00:00-06:00
 ,Powers,Wind Speed,2026-04-17T19:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-17T19:00:00-06:00
+,Powers,Relative Humidity,2026-04-17T19:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-17T19:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-17T19:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-17T19:00:00-06:00
 ,Powers,Wind Direction,2026-04-17T19:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-17T19:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-17T19:00:00-06:00
-,Powers,Relative Humidity,2026-04-17T19:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-17T18:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-17T18:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-17T19:00:00-06:00
 ,Powers,Wind Direction,2026-04-17T18:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-17T18:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-17T18:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-17T18:00:00-06:00
-,Powers,Relative Humidity,2026-04-17T18:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-17T18:00:00-06:00
-,Powers,Wind Speed,2026-04-17T18:00:00-06:00
-,Powers,Nitric Oxide,2026-04-17T18:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-17T18:00:00-06:00
+,Powers,Nitric Oxide,2026-04-17T18:00:00-06:00
+,Powers,Wind Speed,2026-04-17T18:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-17T18:00:00-06:00
+,Powers,Relative Humidity,2026-04-17T18:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-17T17:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-17T17:00:00-06:00
-,Powers,Wind Direction,2026-04-17T17:00:00-06:00
-,Powers,Wind Speed,2026-04-17T17:00:00-06:00
-,Powers,Nitric Oxide,2026-04-17T17:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-17T17:00:00-06:00
-,Powers,Relative Humidity,2026-04-17T17:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-17T17:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-17T17:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-17T16:00:00-06:00
+,Powers,Wind Direction,2026-04-17T17:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-17T17:00:00-06:00
+,Powers,Relative Humidity,2026-04-17T17:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-17T17:00:00-06:00
+,Powers,Nitric Oxide,2026-04-17T17:00:00-06:00
+,Powers,Wind Speed,2026-04-17T17:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-17T16:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-17T16:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-17T16:00:00-06:00
@@ -971,17 +979,18 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Total Oxides of Nitrogen,2026-04-17T16:00:00-06:00
 ,Powers,Wind Speed,2026-04-17T16:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-17T16:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-17T16:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-17T15:00:00-06:00
+,Powers,Nitric Oxide,2026-04-17T15:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-17T15:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-17T15:00:00-06:00
 ,Powers,Wind Speed,2026-04-17T15:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-17T15:00:00-06:00
 ,Powers,Wind Direction,2026-04-17T15:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-17T15:00:00-06:00
 ,Powers,Relative Humidity,2026-04-17T15:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-17T15:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-17T15:00:00-06:00
-,Powers,Nitric Oxide,2026-04-17T15:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-17T14:00:00-06:00
 ,Powers,Wind Speed,2026-04-17T14:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-17T14:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-17T14:00:00-06:00
 ,Powers,Relative Humidity,2026-04-17T14:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-17T14:00:00-06:00
@@ -994,64 +1003,65 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Wind Direction,2026-04-17T13:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-17T13:00:00-06:00
 ,Powers,Wind Speed,2026-04-17T13:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-17T13:00:00-06:00
-,Powers,Nitric Oxide,2026-04-17T13:00:00-06:00
-,Powers,Relative Humidity,2026-04-17T13:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-17T13:00:00-06:00
-,Powers,Wind Speed,2026-04-17T12:00:00-06:00
-,Powers,Nitric Oxide,2026-04-17T12:00:00-06:00
-,Powers,Wind Direction,2026-04-17T12:00:00-06:00
-,Powers,Relative Humidity,2026-04-17T12:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-17T12:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-17T12:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-17T12:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-17T13:00:00-06:00
+,Powers,Relative Humidity,2026-04-17T13:00:00-06:00
+,Powers,Nitric Oxide,2026-04-17T13:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-17T12:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-17T12:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-17T12:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-17T12:00:00-06:00
+,Powers,Relative Humidity,2026-04-17T12:00:00-06:00
+,Powers,Wind Direction,2026-04-17T12:00:00-06:00
+,Powers,Nitric Oxide,2026-04-17T12:00:00-06:00
+,Powers,Wind Speed,2026-04-17T12:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-17T12:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-17T11:00:00-06:00
 ,Powers,Wind Direction,2026-04-17T11:00:00-06:00
 ,Powers,Wind Speed,2026-04-17T11:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-17T11:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-17T11:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-17T11:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-17T11:00:00-06:00
-,Powers,Relative Humidity,2026-04-17T11:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-17T11:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-17T10:00:00-06:00
-,Powers,Nitric Oxide,2026-04-17T10:00:00-06:00
-,Powers,Wind Speed,2026-04-17T10:00:00-06:00
-,Powers,Relative Humidity,2026-04-17T10:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-17T10:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-17T10:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-17T10:00:00-06:00
+,Powers,Relative Humidity,2026-04-17T11:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-17T11:00:00-06:00
 ,Powers,Wind Direction,2026-04-17T10:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-17T10:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-17T10:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-17T10:00:00-06:00
+,Powers,Relative Humidity,2026-04-17T10:00:00-06:00
+,Powers,Wind Speed,2026-04-17T10:00:00-06:00
+,Powers,Nitric Oxide,2026-04-17T10:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-17T10:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-17T10:00:00-06:00
-,Powers,Relative Humidity,2026-04-17T09:00:00-06:00
-,Powers,Wind Speed,2026-04-17T09:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-17T09:00:00-06:00
-,Powers,Nitric Oxide,2026-04-17T09:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-17T09:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-17T09:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-17T09:00:00-06:00
-,Powers,Wind Direction,2026-04-17T09:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-17T09:00:00-06:00
-,Powers,Nitric Oxide,2026-04-17T08:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-17T08:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-17T08:00:00-06:00
-,Powers,Wind Speed,2026-04-17T08:00:00-06:00
-,Powers,Relative Humidity,2026-04-17T08:00:00-06:00
-,Powers,Wind Direction,2026-04-17T08:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-17T08:00:00-06:00
+,Powers,Wind Direction,2026-04-17T09:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-17T09:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-17T09:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-17T09:00:00-06:00
+,Powers,Nitric Oxide,2026-04-17T09:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-17T09:00:00-06:00
+,Powers,Wind Speed,2026-04-17T09:00:00-06:00
+,Powers,Relative Humidity,2026-04-17T09:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-17T08:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-17T08:00:00-06:00
+,Powers,Wind Direction,2026-04-17T08:00:00-06:00
+,Powers,Relative Humidity,2026-04-17T08:00:00-06:00
+,Powers,Wind Speed,2026-04-17T08:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-17T08:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-17T08:00:00-06:00
+,Powers,Nitric Oxide,2026-04-17T08:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-17T08:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-17T07:00:00-06:00
+,Powers,Wind Direction,2026-04-17T07:00:00-06:00
+,Powers,Relative Humidity,2026-04-17T07:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-17T07:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-17T07:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-17T07:00:00-06:00
 ,Powers,Wind Speed,2026-04-17T07:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-17T07:00:00-06:00
-,Powers,Relative Humidity,2026-04-17T07:00:00-06:00
-,Powers,Wind Direction,2026-04-17T07:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-17T07:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-17T07:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-17T06:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-17T06:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-17T06:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-17T06:00:00-06:00
@@ -1060,25 +1070,24 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Total Oxides of Nitrogen,2026-04-17T06:00:00-06:00
 ,Powers,Relative Humidity,2026-04-17T06:00:00-06:00
 ,Powers,Wind Speed,2026-04-17T06:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-17T06:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-17T05:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-17T05:00:00-06:00
-,Powers,Wind Speed,2026-04-17T05:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-17T05:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-17T05:00:00-06:00
 ,Powers,Wind Direction,2026-04-17T05:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-17T05:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-17T05:00:00-06:00
+,Powers,Wind Speed,2026-04-17T05:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-17T05:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-17T05:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-17T05:00:00-06:00
 ,Powers,Relative Humidity,2026-04-17T05:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-17T05:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-17T04:00:00-06:00
-,Powers,Nitric Oxide,2026-04-17T04:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-17T04:00:00-06:00
-,Powers,Wind Direction,2026-04-17T04:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-17T04:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-17T04:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-17T04:00:00-06:00
-,Powers,Wind Speed,2026-04-17T04:00:00-06:00
 ,Powers,Relative Humidity,2026-04-17T04:00:00-06:00
+,Powers,Wind Speed,2026-04-17T04:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-17T04:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-17T04:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-17T04:00:00-06:00
+,Powers,Wind Direction,2026-04-17T04:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-17T04:00:00-06:00
+,Powers,Nitric Oxide,2026-04-17T04:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-17T03:00:00-06:00
 ,Powers,Wind Speed,2026-04-17T03:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-17T03:00:00-06:00
@@ -1088,7 +1097,6 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Total Oxides of Nitrogen,2026-04-17T03:00:00-06:00
 ,Powers,Wind Direction,2026-04-17T03:00:00-06:00
 ,Powers,Relative Humidity,2026-04-17T03:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-17T02:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-17T02:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-17T02:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-17T02:00:00-06:00
@@ -1097,363 +1105,355 @@ Value,StationName,ParameterName,ReadingDate
 ,Powers,Total Oxides of Nitrogen,2026-04-17T02:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-17T02:00:00-06:00
 ,Powers,Wind Direction,2026-04-17T02:00:00-06:00
-,Powers,Nitric Oxide,2026-04-17T01:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-17T01:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-17T02:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-17T01:00:00-06:00
+,Powers,Wind Direction,2026-04-17T01:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-17T01:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-17T01:00:00-06:00
+,Powers,Nitric Oxide,2026-04-17T01:00:00-06:00
+,Powers,Relative Humidity,2026-04-17T01:00:00-06:00
+,Powers,Wind Speed,2026-04-17T01:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-17T01:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-17T01:00:00-06:00
-,Powers,Wind Direction,2026-04-17T01:00:00-06:00
-,Powers,Wind Speed,2026-04-17T01:00:00-06:00
-,Powers,Relative Humidity,2026-04-17T01:00:00-06:00
-,Powers,Nitric Oxide,2026-04-17T00:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-17T00:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-17T00:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-17T00:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-17T00:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-17T00:00:00-06:00
 ,Powers,Wind Direction,2026-04-17T00:00:00-06:00
-,Powers,Wind Speed,2026-04-17T00:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-17T00:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-17T00:00:00-06:00
+,Powers,Nitric Oxide,2026-04-17T00:00:00-06:00
 ,Powers,Relative Humidity,2026-04-17T00:00:00-06:00
+,Powers,Wind Speed,2026-04-17T00:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-17T00:00:00-06:00
+,Powers,Wind Direction,2026-04-16T23:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-16T23:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-16T23:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-16T23:00:00-06:00
+,Powers,Nitric Oxide,2026-04-16T23:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-16T23:00:00-06:00
 ,Powers,Wind Speed,2026-04-16T23:00:00-06:00
 ,Powers,Relative Humidity,2026-04-16T23:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-16T23:00:00-06:00
-,Powers,Nitric Oxide,2026-04-16T23:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-16T23:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-16T23:00:00-06:00
-,Powers,Wind Direction,2026-04-16T23:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-16T23:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-16T23:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-16T22:00:00-06:00
-,Powers,Relative Humidity,2026-04-16T22:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-16T22:00:00-06:00
+,Powers,Wind Direction,2026-04-16T22:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-16T22:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-16T22:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-16T22:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-16T22:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-16T22:00:00-06:00
 ,Powers,Wind Speed,2026-04-16T22:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-16T22:00:00-06:00
-,Powers,Wind Direction,2026-04-16T22:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-16T22:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-16T21:00:00-06:00
-,Powers,Relative Humidity,2026-04-16T21:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-16T21:00:00-06:00
-,Powers,Wind Speed,2026-04-16T21:00:00-06:00
+,Powers,Relative Humidity,2026-04-16T22:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-16T22:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-16T21:00:00-06:00
 ,Powers,Wind Direction,2026-04-16T21:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-16T21:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-16T21:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-16T21:00:00-06:00
+,Powers,Wind Speed,2026-04-16T21:00:00-06:00
+,Powers,Relative Humidity,2026-04-16T21:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-16T21:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-16T21:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-16T20:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-16T20:00:00-06:00
-,Powers,Wind Direction,2026-04-16T20:00:00-06:00
 ,Powers,Wind Speed,2026-04-16T20:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-16T20:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-16T20:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-16T20:00:00-06:00
-,Powers,Nitric Oxide,2026-04-16T20:00:00-06:00
 ,Powers,Relative Humidity,2026-04-16T20:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-16T19:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-16T20:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-16T20:00:00-06:00
+,Powers,Nitric Oxide,2026-04-16T20:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-16T20:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-16T20:00:00-06:00
+,Powers,Wind Direction,2026-04-16T20:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-16T19:00:00-06:00
-,Powers,Wind Direction,2026-04-16T19:00:00-06:00
-,Powers,Wind Speed,2026-04-16T19:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-16T19:00:00-06:00
-,Powers,Nitric Oxide,2026-04-16T19:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-16T19:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-16T19:00:00-06:00
 ,Powers,Relative Humidity,2026-04-16T19:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-16T18:00:00-06:00
-,Powers,Wind Speed,2026-04-16T18:00:00-06:00
+,Powers,Wind Speed,2026-04-16T19:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-16T19:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-16T19:00:00-06:00
+,Powers,Nitric Oxide,2026-04-16T19:00:00-06:00
+,Powers,Wind Direction,2026-04-16T19:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-16T19:00:00-06:00
+,Powers,Relative Humidity,2026-04-16T18:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-16T18:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-16T18:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-16T18:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-16T18:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-16T18:00:00-06:00
-,Powers,Relative Humidity,2026-04-16T18:00:00-06:00
+,Powers,Wind Speed,2026-04-16T18:00:00-06:00
 ,Powers,Wind Direction,2026-04-16T18:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-16T18:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-16T18:00:00-06:00
 ,Powers,Relative Humidity,2026-04-16T17:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-16T17:00:00-06:00
-,Powers,Wind Direction,2026-04-16T17:00:00-06:00
 ,Powers,Wind Speed,2026-04-16T17:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-16T17:00:00-06:00
-,Powers,Nitric Oxide,2026-04-16T17:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-16T17:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-16T17:00:00-06:00
+,Powers,Wind Direction,2026-04-16T17:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-16T17:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-16T17:00:00-06:00
+,Powers,Nitric Oxide,2026-04-16T17:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-16T17:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-16T17:00:00-06:00
 ,Powers,Relative Humidity,2026-04-16T16:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-16T16:00:00-06:00
 ,Powers,Wind Direction,2026-04-16T16:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-16T16:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-16T16:00:00-06:00
-,Powers,Wind Speed,2026-04-16T16:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-16T16:00:00-06:00
-,Powers,Nitric Oxide,2026-04-16T16:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-16T16:00:00-06:00
+,Powers,Wind Speed,2026-04-16T16:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-16T16:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-16T16:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-16T16:00:00-06:00
+,Powers,Nitric Oxide,2026-04-16T16:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-16T16:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-16T15:00:00-06:00
-,Powers,Relative Humidity,2026-04-16T15:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-16T15:00:00-06:00
-,Powers,Wind Direction,2026-04-16T15:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-16T15:00:00-06:00
 ,Powers,Wind Speed,2026-04-16T15:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-16T15:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-16T15:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-16T15:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-16T15:00:00-06:00
-,Powers,Relative Humidity,2026-04-16T14:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-16T15:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-16T15:00:00-06:00
+,Powers,Wind Direction,2026-04-16T15:00:00-06:00
+,Powers,Relative Humidity,2026-04-16T15:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-16T14:00:00-06:00
 ,Powers,Wind Speed,2026-04-16T14:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-16T14:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-16T14:00:00-06:00
+,Powers,Wind Direction,2026-04-16T14:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-16T14:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-16T14:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-16T14:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-16T14:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-16T14:00:00-06:00
-,Powers,Wind Direction,2026-04-16T14:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-16T13:00:00-06:00
-,Powers,Wind Speed,2026-04-16T13:00:00-06:00
+,Powers,Relative Humidity,2026-04-16T14:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-16T13:00:00-06:00
-,Powers,Relative Humidity,2026-04-16T13:00:00-06:00
-,Powers,Nitric Oxide,2026-04-16T13:00:00-06:00
-,Powers,Wind Direction,2026-04-16T13:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-16T13:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-16T13:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-16T13:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-16T13:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-16T13:00:00-06:00
+,Powers,Nitric Oxide,2026-04-16T13:00:00-06:00
+,Powers,Relative Humidity,2026-04-16T13:00:00-06:00
+,Powers,Wind Speed,2026-04-16T13:00:00-06:00
+,Powers,Wind Direction,2026-04-16T13:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-16T12:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-16T12:00:00-06:00
-,Powers,Wind Speed,2026-04-16T12:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-16T12:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-16T12:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-16T12:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-16T12:00:00-06:00
-,Powers,Relative Humidity,2026-04-16T12:00:00-06:00
 ,Powers,Wind Direction,2026-04-16T12:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-16T11:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-16T11:00:00-06:00
-,Powers,Wind Speed,2026-04-16T11:00:00-06:00
+,Powers,Relative Humidity,2026-04-16T12:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-16T12:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-16T12:00:00-06:00
+,Powers,Wind Speed,2026-04-16T12:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-16T11:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-16T11:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-16T11:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-16T11:00:00-06:00
-,Powers,Relative Humidity,2026-04-16T11:00:00-06:00
 ,Powers,Wind Direction,2026-04-16T11:00:00-06:00
+,Powers,Relative Humidity,2026-04-16T11:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-16T11:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-16T11:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-16T11:00:00-06:00
+,Powers,Wind Speed,2026-04-16T11:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-16T10:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-16T10:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-16T10:00:00-06:00
-,Powers,Wind Direction,2026-04-16T10:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-16T10:00:00-06:00
-,Powers,Relative Humidity,2026-04-16T10:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-16T10:00:00-06:00
 ,Powers,Wind Speed,2026-04-16T10:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-16T10:00:00-06:00
-,Powers,Wind Direction,2026-04-16T09:00:00-06:00
+,Powers,Wind Direction,2026-04-16T10:00:00-06:00
+,Powers,Relative Humidity,2026-04-16T10:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-16T09:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-16T09:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-16T09:00:00-06:00
-,Powers,Nitric Oxide,2026-04-16T09:00:00-06:00
-,Powers,Relative Humidity,2026-04-16T09:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-16T09:00:00-06:00
-,Powers,Wind Speed,2026-04-16T09:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-16T09:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-16T08:00:00-06:00
-,Powers,Relative Humidity,2026-04-16T08:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-16T08:00:00-06:00
-,Powers,Wind Speed,2026-04-16T08:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-16T08:00:00-06:00
+,Powers,Wind Speed,2026-04-16T09:00:00-06:00
+,Powers,Wind Direction,2026-04-16T09:00:00-06:00
+,Powers,Relative Humidity,2026-04-16T09:00:00-06:00
+,Powers,Nitric Oxide,2026-04-16T09:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-16T09:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-16T09:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-16T09:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-16T08:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-16T08:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-16T08:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-16T08:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-16T08:00:00-06:00
+,Powers,Wind Speed,2026-04-16T08:00:00-06:00
 ,Powers,Wind Direction,2026-04-16T08:00:00-06:00
-,Powers,Wind Speed,2026-04-16T07:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-16T07:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-16T07:00:00-06:00
+,Powers,Relative Humidity,2026-04-16T08:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-16T08:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-16T07:00:00-06:00
-,Powers,Relative Humidity,2026-04-16T07:00:00-06:00
+,Powers,Wind Direction,2026-04-16T07:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-16T07:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-16T07:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-16T07:00:00-06:00
-,Powers,Wind Direction,2026-04-16T07:00:00-06:00
+,Powers,Relative Humidity,2026-04-16T07:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-16T07:00:00-06:00
+,Powers,Wind Speed,2026-04-16T07:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-16T07:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-16T06:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-16T06:00:00-06:00
 ,Powers,Wind Speed,2026-04-16T06:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-16T06:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-16T06:00:00-06:00
-,Powers,Relative Humidity,2026-04-16T06:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-16T06:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-16T06:00:00-06:00
-,Powers,Wind Direction,2026-04-16T06:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-16T06:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-16T05:00:00-06:00
-,Powers,Wind Speed,2026-04-16T05:00:00-06:00
-,Powers,Relative Humidity,2026-04-16T05:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-16T05:00:00-06:00
-,Powers,Nitric Oxide,2026-04-16T05:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-16T05:00:00-06:00
-,Powers,Wind Direction,2026-04-16T05:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-16T05:00:00-06:00
+,Powers,Relative Humidity,2026-04-16T06:00:00-06:00
+,Powers,Wind Direction,2026-04-16T06:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-16T05:00:00-06:00
-,Powers,Nitric Oxide,2026-04-16T04:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-16T04:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-16T04:00:00-06:00
-,Powers,Wind Direction,2026-04-16T04:00:00-06:00
+,Powers,Relative Humidity,2026-04-16T05:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-16T05:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-16T05:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-16T05:00:00-06:00
+,Powers,Nitric Oxide,2026-04-16T05:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-16T05:00:00-06:00
+,Powers,Wind Speed,2026-04-16T05:00:00-06:00
+,Powers,Wind Direction,2026-04-16T05:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-16T04:00:00-06:00
 ,Powers,Relative Humidity,2026-04-16T04:00:00-06:00
 ,Powers,Wind Speed,2026-04-16T04:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-16T04:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-16T04:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-16T04:00:00-06:00
-,Powers,Wind Direction,2026-04-16T03:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-16T03:00:00-06:00
+,Powers,Nitric Oxide,2026-04-16T04:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-16T04:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-16T04:00:00-06:00
+,Powers,Wind Direction,2026-04-16T04:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-16T03:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-16T03:00:00-06:00
-,Powers,Relative Humidity,2026-04-16T03:00:00-06:00
-,Powers,Wind Speed,2026-04-16T03:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-16T03:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-16T03:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-16T03:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-16T03:00:00-06:00
+,Powers,Relative Humidity,2026-04-16T03:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-16T03:00:00-06:00
-,Powers,Wind Direction,2026-04-16T02:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-16T02:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-16T02:00:00-06:00
-,Powers,Nitric Oxide,2026-04-16T02:00:00-06:00
+,Powers,Wind Direction,2026-04-16T03:00:00-06:00
+,Powers,Wind Speed,2026-04-16T03:00:00-06:00
 ,Powers,Relative Humidity,2026-04-16T02:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-16T02:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-16T02:00:00-06:00
 ,Powers,Wind Speed,2026-04-16T02:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-16T02:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-16T01:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-16T02:00:00-06:00
+,Powers,Wind Direction,2026-04-16T02:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-16T02:00:00-06:00
+,Powers,Nitric Oxide,2026-04-16T02:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-16T02:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-16T02:00:00-06:00
 ,Powers,Wind Speed,2026-04-16T01:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-16T01:00:00-06:00
-,Powers,Relative Humidity,2026-04-16T01:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-16T01:00:00-06:00
-,Powers,Nitric Oxide,2026-04-16T01:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-16T01:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-16T01:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-16T01:00:00-06:00
 ,Powers,Wind Direction,2026-04-16T01:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-16T01:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-16T01:00:00-06:00
+,Powers,Nitric Oxide,2026-04-16T01:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-16T01:00:00-06:00
+,Powers,Relative Humidity,2026-04-16T01:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-16T00:00:00-06:00
-,Powers,Wind Speed,2026-04-16T00:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-16T00:00:00-06:00
-,Powers,Nitric Oxide,2026-04-16T00:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-16T00:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-16T00:00:00-06:00
-,Powers,Relative Humidity,2026-04-16T00:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-16T00:00:00-06:00
 ,Powers,Wind Direction,2026-04-16T00:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-16T00:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-15T23:00:00-06:00
+,Powers,Relative Humidity,2026-04-16T00:00:00-06:00
+,Powers,Nitric Oxide,2026-04-16T00:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-16T00:00:00-06:00
+,Powers,Wind Speed,2026-04-16T00:00:00-06:00
+,Powers,Wind Direction,2026-04-15T23:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-15T23:00:00-06:00
-,Powers,Nitric Oxide,2026-04-15T23:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-15T23:00:00-06:00
 ,Powers,Relative Humidity,2026-04-15T23:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-15T23:00:00-06:00
-,Powers,Wind Speed,2026-04-15T23:00:00-06:00
-,Powers,Wind Direction,2026-04-15T23:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-15T23:00:00-06:00
+,Powers,Nitric Oxide,2026-04-15T23:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-15T23:00:00-06:00
-,Powers,Relative Humidity,2026-04-15T22:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-15T22:00:00-06:00
-,Powers,Nitric Oxide,2026-04-15T22:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-15T22:00:00-06:00
-,Powers,Wind Direction,2026-04-15T22:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-15T22:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-15T22:00:00-06:00
-,Powers,Wind Speed,2026-04-15T22:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-15T23:00:00-06:00
+,Powers,Wind Speed,2026-04-15T23:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-15T22:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-15T21:00:00-06:00
-,Powers,Wind Direction,2026-04-15T21:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-15T22:00:00-06:00
+,Powers,Nitric Oxide,2026-04-15T22:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-15T22:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-15T22:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-15T22:00:00-06:00
+,Powers,Relative Humidity,2026-04-15T22:00:00-06:00
+,Powers,Wind Speed,2026-04-15T22:00:00-06:00
+,Powers,Wind Direction,2026-04-15T22:00:00-06:00
 ,Powers,Wind Speed,2026-04-15T21:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-15T21:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-15T21:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-15T21:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-15T21:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-15T21:00:00-06:00
 ,Powers,Relative Humidity,2026-04-15T21:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-15T20:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-15T21:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-15T21:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-15T21:00:00-06:00
+,Powers,Wind Direction,2026-04-15T21:00:00-06:00
 ,Powers,Wind Speed,2026-04-15T20:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-15T20:00:00-06:00
-,Powers,Wind Direction,2026-04-15T20:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-15T20:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-15T20:00:00-06:00
 ,Powers,Relative Humidity,2026-04-15T20:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-15T20:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-15T20:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-15T20:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-15T19:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-15T20:00:00-06:00
+,Powers,Wind Direction,2026-04-15T20:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-15T20:00:00-06:00
 ,Powers,Wind Speed,2026-04-15T19:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-15T19:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-15T19:00:00-06:00
+,Powers,Wind Direction,2026-04-15T19:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-15T19:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-15T19:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-15T19:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-15T19:00:00-06:00
 ,Powers,Relative Humidity,2026-04-15T19:00:00-06:00
-,Powers,Wind Direction,2026-04-15T19:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-15T19:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-15T18:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-15T18:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-15T18:00:00-06:00
 ,Powers,Wind Direction,2026-04-15T18:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-15T18:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-15T18:00:00-06:00
 ,Powers,Wind Speed,2026-04-15T18:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-15T18:00:00-06:00
 ,Powers,Relative Humidity,2026-04-15T18:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-15T18:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-15T18:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-15T18:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-15T18:00:00-06:00
+,Powers,Wind Direction,2026-04-15T17:00:00-06:00
+,Powers,Wind Speed,2026-04-15T17:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-15T17:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-15T17:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-15T17:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-15T17:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-15T17:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-15T17:00:00-06:00
 ,Powers,Relative Humidity,2026-04-15T17:00:00-06:00
-,Powers,Wind Speed,2026-04-15T17:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-15T17:00:00-06:00
-,Powers,Wind Direction,2026-04-15T17:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-15T17:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-15T17:00:00-06:00
-,Powers,Relative Humidity,2026-04-15T16:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-15T16:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-15T16:00:00-06:00
-,Powers,Nitric Oxide,2026-04-15T16:00:00-06:00
 ,Powers,Wind Speed,2026-04-15T16:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-15T16:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-15T16:00:00-06:00
 ,Powers,Sulphur Dioxide,2026-04-15T16:00:00-06:00
+,Powers,Nitric Oxide,2026-04-15T16:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-15T16:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-15T16:00:00-06:00
+,Powers,Relative Humidity,2026-04-15T16:00:00-06:00
 ,Powers,Wind Direction,2026-04-15T16:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-15T15:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-15T15:00:00-06:00
-,Powers,Wind Direction,2026-04-15T15:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-15T15:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-15T15:00:00-06:00
-,Powers,Relative Humidity,2026-04-15T15:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-15T15:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-15T16:00:00-06:00
 ,Powers,Wind Speed,2026-04-15T15:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-15T15:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-15T15:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-15T15:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-15T14:00:00-06:00
-,Powers,Nitric Oxide,2026-04-15T14:00:00-06:00
-,Powers,Relative Humidity,2026-04-15T14:00:00-06:00
-,Powers,Wind Direction,2026-04-15T14:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-15T14:00:00-06:00
+,Powers,Relative Humidity,2026-04-15T15:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-15T15:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-15T15:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-15T15:00:00-06:00
+,Powers,Wind Direction,2026-04-15T15:00:00-06:00
 ,Powers,Wind Speed,2026-04-15T14:00:00-06:00
+,Powers,Total Oxides of Nitrogen,2026-04-15T14:00:00-06:00
+,Powers,Relative Humidity,2026-04-15T14:00:00-06:00
+,Powers,Nitric Oxide,2026-04-15T14:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-15T14:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-15T14:00:00-06:00
 ,Powers,Outdoor Temperature,2026-04-15T14:00:00-06:00
 ,Powers,Fine Particulate Matter,2026-04-15T14:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-15T14:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-15T13:00:00-06:00
-,Powers,Wind Direction,2026-04-15T13:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-15T13:00:00-06:00
+,Powers,Wind Direction,2026-04-15T14:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-15T13:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-15T13:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-15T13:00:00-06:00
 ,Powers,Relative Humidity,2026-04-15T13:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-15T13:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-15T13:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-15T13:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-15T13:00:00-06:00
 ,Powers,Wind Speed,2026-04-15T13:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-15T12:00:00-06:00
+,Powers,Wind Direction,2026-04-15T13:00:00-06:00
+,Powers,Wind Direction,2026-04-15T12:00:00-06:00
 ,Powers,Relative Humidity,2026-04-15T12:00:00-06:00
 ,Powers,Nitric Oxide,2026-04-15T12:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-15T12:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-15T12:00:00-06:00
 ,Powers,Nitrogen Dioxide,2026-04-15T12:00:00-06:00
-,Powers,Wind Direction,2026-04-15T12:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-15T12:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-15T12:00:00-06:00
 ,Powers,Wind Speed,2026-04-15T12:00:00-06:00
-,Powers,Nitric Oxide,2026-04-15T11:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-15T11:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-15T11:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-15T11:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-15T11:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-15T12:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-15T12:00:00-06:00
 ,Powers,Total Oxides of Nitrogen,2026-04-15T11:00:00-06:00
-,Powers,Relative Humidity,2026-04-15T11:00:00-06:00
 ,Powers,Wind Direction,2026-04-15T11:00:00-06:00
+,Powers,Nitrogen Dioxide,2026-04-15T11:00:00-06:00
+,Powers,Nitric Oxide,2026-04-15T11:00:00-06:00
+,Powers,Relative Humidity,2026-04-15T11:00:00-06:00
+,Powers,Outdoor Temperature,2026-04-15T11:00:00-06:00
 ,Powers,Wind Speed,2026-04-15T11:00:00-06:00
-,Powers,Fine Particulate Matter,2026-04-15T10:00:00-06:00
-,Powers,Nitrogen Dioxide,2026-04-15T10:00:00-06:00
-,Powers,Nitric Oxide,2026-04-15T10:00:00-06:00
-,Powers,Total Oxides of Nitrogen,2026-04-15T10:00:00-06:00
-,Powers,Relative Humidity,2026-04-15T10:00:00-06:00
-,Powers,Wind Direction,2026-04-15T10:00:00-06:00
-,Powers,Wind Speed,2026-04-15T10:00:00-06:00
-,Powers,Outdoor Temperature,2026-04-15T10:00:00-06:00
-,Powers,Sulphur Dioxide,2026-04-15T10:00:00-06:00
+,Powers,Sulphur Dioxide,2026-04-15T11:00:00-06:00
+,Powers,Fine Particulate Matter,2026-04-15T11:00:00-06:00
