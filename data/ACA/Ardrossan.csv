@@ -1,4 +1,15 @@
 Value,StationName,ParameterName,ReadingDate
+0.014,Ardrossan,Ozone,2026-04-29T02:00:00-06:00
+-2.0,Ardrossan,Outdoor Temperature,2026-04-29T02:00:00-06:00
+0.01,Ardrossan,Nitrogen Dioxide,2026-04-29T02:00:00-06:00
+173.0,Ardrossan,Wind Direction,2026-04-29T02:00:00-06:00
+7.0,Ardrossan,Wind Speed,2026-04-29T02:00:00-06:00
+0.006,Ardrossan,Nitric Oxide,2026-04-29T02:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-29T02:00:00-06:00
+0.016,Ardrossan,Total Oxides of Nitrogen,2026-04-29T02:00:00-06:00
+6.5,Ardrossan,Fine Particulate Matter,2026-04-29T02:00:00-06:00
+2.0,Ardrossan,,2026-04-29T02:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-29T02:00:00-06:00
 0.012,Ardrossan,Total Oxides of Nitrogen,2026-04-29T01:00:00-06:00
 0.001,Ardrossan,Nitric Oxide,2026-04-29T01:00:00-06:00
 0.012,Ardrossan,Nitrogen Dioxide,2026-04-29T01:00:00-06:00
@@ -10,6 +21,8 @@ Value,StationName,ParameterName,ReadingDate
 -1.0,Ardrossan,Outdoor Temperature,2026-04-29T01:00:00-06:00
 0.0,Ardrossan,Hydrogen Sulphide,2026-04-29T01:00:00-06:00
 2.0,Ardrossan,,2026-04-29T01:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-29T00:00:00-06:00
+0.0,Ardrossan,Outdoor Temperature,2026-04-29T00:00:00-06:00
 0.0,Ardrossan,Sulphur Dioxide,2026-04-29T00:00:00-06:00
 0.016,Ardrossan,Ozone,2026-04-29T00:00:00-06:00
 3.0,Ardrossan,,2026-04-29T00:00:00-06:00
@@ -19,8 +32,6 @@ Value,StationName,ParameterName,ReadingDate
 0.01,Ardrossan,Total Oxides of Nitrogen,2026-04-29T00:00:00-06:00
 11.0,Ardrossan,Fine Particulate Matter,2026-04-29T00:00:00-06:00
 155.0,Ardrossan,Wind Direction,2026-04-29T00:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-29T00:00:00-06:00
-0.0,Ardrossan,Outdoor Temperature,2026-04-29T00:00:00-06:00
 0.009,Ardrossan,Nitrogen Dioxide,2026-04-28T23:00:00-06:00
 1.0,Ardrossan,Outdoor Temperature,2026-04-28T23:00:00-06:00
 0.01,Ardrossan,Total Oxides of Nitrogen,2026-04-28T23:00:00-06:00
@@ -54,17 +65,21 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Ardrossan,Hydrogen Sulphide,2026-04-28T21:00:00-06:00
 0.0,Ardrossan,Sulphur Dioxide,2026-04-28T21:00:00-06:00
 9.0,Ardrossan,Outdoor Temperature,2026-04-28T21:00:00-06:00
-10.0,Ardrossan,Outdoor Temperature,2026-04-28T20:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-28T20:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-28T20:00:00-06:00
-29.0,Ardrossan,Wind Direction,2026-04-28T20:00:00-06:00
-0.003,Ardrossan,Nitrogen Dioxide,2026-04-28T20:00:00-06:00
-0.003,Ardrossan,Total Oxides of Nitrogen,2026-04-28T20:00:00-06:00
-1.3,Ardrossan,Fine Particulate Matter,2026-04-28T20:00:00-06:00
-0.001,Ardrossan,Sulphur Dioxide,2026-04-28T20:00:00-06:00
-0.039,Ardrossan,Ozone,2026-04-28T20:00:00-06:00
-9.0,Ardrossan,Wind Speed,2026-04-28T20:00:00-06:00
 2.0,Ardrossan,,2026-04-28T20:00:00-06:00
+9.0,Ardrossan,Wind Speed,2026-04-28T20:00:00-06:00
+0.039,Ardrossan,Ozone,2026-04-28T20:00:00-06:00
+0.001,Ardrossan,Sulphur Dioxide,2026-04-28T20:00:00-06:00
+1.3,Ardrossan,Fine Particulate Matter,2026-04-28T20:00:00-06:00
+0.003,Ardrossan,Total Oxides of Nitrogen,2026-04-28T20:00:00-06:00
+0.003,Ardrossan,Nitrogen Dioxide,2026-04-28T20:00:00-06:00
+29.0,Ardrossan,Wind Direction,2026-04-28T20:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-28T20:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-28T20:00:00-06:00
+10.0,Ardrossan,Outdoor Temperature,2026-04-28T20:00:00-06:00
+2.0,Ardrossan,,2026-04-28T19:00:00-06:00
+0.003,Ardrossan,Total Oxides of Nitrogen,2026-04-28T19:00:00-06:00
+10.0,Ardrossan,Wind Speed,2026-04-28T19:00:00-06:00
+0.039,Ardrossan,Ozone,2026-04-28T19:00:00-06:00
 1.6,Ardrossan,Fine Particulate Matter,2026-04-28T19:00:00-06:00
 0.003,Ardrossan,Nitrogen Dioxide,2026-04-28T19:00:00-06:00
 0.001,Ardrossan,Sulphur Dioxide,2026-04-28T19:00:00-06:00
@@ -72,10 +87,10 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Ardrossan,Hydrogen Sulphide,2026-04-28T19:00:00-06:00
 0.0,Ardrossan,Nitric Oxide,2026-04-28T19:00:00-06:00
 11.0,Ardrossan,Outdoor Temperature,2026-04-28T19:00:00-06:00
-0.039,Ardrossan,Ozone,2026-04-28T19:00:00-06:00
-10.0,Ardrossan,Wind Speed,2026-04-28T19:00:00-06:00
-0.003,Ardrossan,Total Oxides of Nitrogen,2026-04-28T19:00:00-06:00
-2.0,Ardrossan,,2026-04-28T19:00:00-06:00
+2.0,Ardrossan,,2026-04-28T18:00:00-06:00
+2.4,Ardrossan,Fine Particulate Matter,2026-04-28T18:00:00-06:00
+0.039,Ardrossan,Ozone,2026-04-28T18:00:00-06:00
+357.0,Ardrossan,Wind Direction,2026-04-28T18:00:00-06:00
 10.0,Ardrossan,Outdoor Temperature,2026-04-28T18:00:00-06:00
 0.0,Ardrossan,Nitric Oxide,2026-04-28T18:00:00-06:00
 0.0,Ardrossan,Hydrogen Sulphide,2026-04-28T18:00:00-06:00
@@ -83,10 +98,6 @@ Value,StationName,ParameterName,ReadingDate
 0.001,Ardrossan,Sulphur Dioxide,2026-04-28T18:00:00-06:00
 0.003,Ardrossan,Total Oxides of Nitrogen,2026-04-28T18:00:00-06:00
 12.0,Ardrossan,Wind Speed,2026-04-28T18:00:00-06:00
-357.0,Ardrossan,Wind Direction,2026-04-28T18:00:00-06:00
-0.039,Ardrossan,Ozone,2026-04-28T18:00:00-06:00
-2.4,Ardrossan,Fine Particulate Matter,2026-04-28T18:00:00-06:00
-2.0,Ardrossan,,2026-04-28T18:00:00-06:00
 11.0,Ardrossan,Outdoor Temperature,2026-04-28T17:00:00-06:00
 0.0,Ardrossan,Hydrogen Sulphide,2026-04-28T17:00:00-06:00
 0.002,Ardrossan,Sulphur Dioxide,2026-04-28T17:00:00-06:00
@@ -98,14 +109,14 @@ Value,StationName,ParameterName,ReadingDate
 9.0,Ardrossan,Wind Direction,2026-04-28T17:00:00-06:00
 10.0,Ardrossan,Wind Speed,2026-04-28T17:00:00-06:00
 2.0,Ardrossan,,2026-04-28T17:00:00-06:00
-3.1,Ardrossan,Fine Particulate Matter,2026-04-28T16:00:00-06:00
-0.003,Ardrossan,Total Oxides of Nitrogen,2026-04-28T16:00:00-06:00
-0.001,Ardrossan,Sulphur Dioxide,2026-04-28T16:00:00-06:00
-10.0,Ardrossan,Wind Direction,2026-04-28T16:00:00-06:00
-0.039,Ardrossan,Ozone,2026-04-28T16:00:00-06:00
-0.003,Ardrossan,Nitrogen Dioxide,2026-04-28T16:00:00-06:00
-10.0,Ardrossan,Wind Speed,2026-04-28T16:00:00-06:00
 2.0,Ardrossan,,2026-04-28T16:00:00-06:00
+10.0,Ardrossan,Wind Speed,2026-04-28T16:00:00-06:00
+0.003,Ardrossan,Nitrogen Dioxide,2026-04-28T16:00:00-06:00
+0.039,Ardrossan,Ozone,2026-04-28T16:00:00-06:00
+10.0,Ardrossan,Wind Direction,2026-04-28T16:00:00-06:00
+0.001,Ardrossan,Sulphur Dioxide,2026-04-28T16:00:00-06:00
+0.003,Ardrossan,Total Oxides of Nitrogen,2026-04-28T16:00:00-06:00
+3.1,Ardrossan,Fine Particulate Matter,2026-04-28T16:00:00-06:00
 0.0,Ardrossan,Hydrogen Sulphide,2026-04-28T16:00:00-06:00
 0.0,Ardrossan,Nitric Oxide,2026-04-28T16:00:00-06:00
 10.0,Ardrossan,Outdoor Temperature,2026-04-28T16:00:00-06:00
@@ -120,28 +131,28 @@ Value,StationName,ParameterName,ReadingDate
 3.0,Ardrossan,Fine Particulate Matter,2026-04-28T15:00:00-06:00
 0.002,Ardrossan,Total Oxides of Nitrogen,2026-04-28T15:00:00-06:00
 6.0,Ardrossan,Wind Speed,2026-04-28T15:00:00-06:00
-2.0,Ardrossan,,2026-04-28T14:00:00-06:00
-43.0,Ardrossan,Wind Direction,2026-04-28T14:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-28T14:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-28T14:00:00-06:00
-9.0,Ardrossan,Outdoor Temperature,2026-04-28T14:00:00-06:00
-0.037,Ardrossan,Ozone,2026-04-28T14:00:00-06:00
-3.0,Ardrossan,Wind Speed,2026-04-28T14:00:00-06:00
-0.002,Ardrossan,Nitrogen Dioxide,2026-04-28T14:00:00-06:00
-0.002,Ardrossan,Total Oxides of Nitrogen,2026-04-28T14:00:00-06:00
-3.8,Ardrossan,Fine Particulate Matter,2026-04-28T14:00:00-06:00
 0.001,Ardrossan,Nitric Oxide,2026-04-28T14:00:00-06:00
-4.0,Ardrossan,Wind Speed,2026-04-28T13:00:00-06:00
-22.0,Ardrossan,Wind Direction,2026-04-28T13:00:00-06:00
-0.002,Ardrossan,Nitrogen Dioxide,2026-04-28T13:00:00-06:00
-0.003,Ardrossan,Total Oxides of Nitrogen,2026-04-28T13:00:00-06:00
-8.0,Ardrossan,Outdoor Temperature,2026-04-28T13:00:00-06:00
-3.6,Ardrossan,Fine Particulate Matter,2026-04-28T13:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-28T13:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-28T13:00:00-06:00
-0.001,Ardrossan,Nitric Oxide,2026-04-28T13:00:00-06:00
-0.035,Ardrossan,Ozone,2026-04-28T13:00:00-06:00
+3.8,Ardrossan,Fine Particulate Matter,2026-04-28T14:00:00-06:00
+0.002,Ardrossan,Total Oxides of Nitrogen,2026-04-28T14:00:00-06:00
+0.002,Ardrossan,Nitrogen Dioxide,2026-04-28T14:00:00-06:00
+3.0,Ardrossan,Wind Speed,2026-04-28T14:00:00-06:00
+0.037,Ardrossan,Ozone,2026-04-28T14:00:00-06:00
+9.0,Ardrossan,Outdoor Temperature,2026-04-28T14:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-28T14:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-28T14:00:00-06:00
+43.0,Ardrossan,Wind Direction,2026-04-28T14:00:00-06:00
+2.0,Ardrossan,,2026-04-28T14:00:00-06:00
 2.0,Ardrossan,,2026-04-28T13:00:00-06:00
+0.035,Ardrossan,Ozone,2026-04-28T13:00:00-06:00
+0.001,Ardrossan,Nitric Oxide,2026-04-28T13:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-28T13:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-28T13:00:00-06:00
+3.6,Ardrossan,Fine Particulate Matter,2026-04-28T13:00:00-06:00
+8.0,Ardrossan,Outdoor Temperature,2026-04-28T13:00:00-06:00
+0.003,Ardrossan,Total Oxides of Nitrogen,2026-04-28T13:00:00-06:00
+0.002,Ardrossan,Nitrogen Dioxide,2026-04-28T13:00:00-06:00
+22.0,Ardrossan,Wind Direction,2026-04-28T13:00:00-06:00
+4.0,Ardrossan,Wind Speed,2026-04-28T13:00:00-06:00
 2.0,Ardrossan,,2026-04-28T12:00:00-06:00
 14.0,Ardrossan,Wind Direction,2026-04-28T12:00:00-06:00
 0.0,Ardrossan,Hydrogen Sulphide,2026-04-28T12:00:00-06:00
@@ -186,10 +197,6 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Ardrossan,Hydrogen Sulphide,2026-04-28T09:00:00-06:00
 0.0,Ardrossan,Sulphur Dioxide,2026-04-28T09:00:00-06:00
 1.0,Ardrossan,Outdoor Temperature,2026-04-28T09:00:00-06:00
-2.0,Ardrossan,,2026-04-28T08:00:00-06:00
-2.5,Ardrossan,Fine Particulate Matter,2026-04-28T08:00:00-06:00
-0.014,Ardrossan,Total Oxides of Nitrogen,2026-04-28T08:00:00-06:00
-0.024,Ardrossan,Ozone,2026-04-28T08:00:00-06:00
 0.01,Ardrossan,Nitrogen Dioxide,2026-04-28T08:00:00-06:00
 146.0,Ardrossan,Wind Direction,2026-04-28T08:00:00-06:00
 -1.0,Ardrossan,Outdoor Temperature,2026-04-28T08:00:00-06:00
@@ -197,10 +204,14 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Ardrossan,Sulphur Dioxide,2026-04-28T08:00:00-06:00
 0.004,Ardrossan,Nitric Oxide,2026-04-28T08:00:00-06:00
 6.0,Ardrossan,Wind Speed,2026-04-28T08:00:00-06:00
-2.0,Ardrossan,,2026-04-28T07:00:00-06:00
-0.022,Ardrossan,Ozone,2026-04-28T07:00:00-06:00
-0.012,Ardrossan,Total Oxides of Nitrogen,2026-04-28T07:00:00-06:00
+0.024,Ardrossan,Ozone,2026-04-28T08:00:00-06:00
+0.014,Ardrossan,Total Oxides of Nitrogen,2026-04-28T08:00:00-06:00
+2.5,Ardrossan,Fine Particulate Matter,2026-04-28T08:00:00-06:00
+2.0,Ardrossan,,2026-04-28T08:00:00-06:00
 0.011,Ardrossan,Nitrogen Dioxide,2026-04-28T07:00:00-06:00
+0.012,Ardrossan,Total Oxides of Nitrogen,2026-04-28T07:00:00-06:00
+0.022,Ardrossan,Ozone,2026-04-28T07:00:00-06:00
+2.0,Ardrossan,,2026-04-28T07:00:00-06:00
 0.001,Ardrossan,Nitric Oxide,2026-04-28T07:00:00-06:00
 2.3,Ardrossan,Fine Particulate Matter,2026-04-28T07:00:00-06:00
 141.0,Ardrossan,Wind Direction,2026-04-28T07:00:00-06:00
@@ -745,8 +756,8 @@ Value,StationName,ParameterName,ReadingDate
 10.0,Ardrossan,Wind Speed,2026-04-26T06:00:00-06:00
 -7.0,Ardrossan,Outdoor Temperature,2026-04-26T06:00:00-06:00
 0.004,Ardrossan,Total Oxides of Nitrogen,2026-04-26T06:00:00-06:00
-0.026,Ardrossan,Ozone,2026-04-26T06:00:00-06:00
 346.0,Ardrossan,Wind Direction,2026-04-26T06:00:00-06:00
+0.026,Ardrossan,Ozone,2026-04-26T06:00:00-06:00
 2.0,Ardrossan,,2026-04-26T05:00:00-06:00
 0.002,Ardrossan,Nitrogen Dioxide,2026-04-26T05:00:00-06:00
 0.0,Ardrossan,Hydrogen Sulphide,2026-04-26T05:00:00-06:00
@@ -784,9 +795,9 @@ Value,StationName,ParameterName,ReadingDate
 2.2,Ardrossan,Fine Particulate Matter,2026-04-26T02:00:00-06:00
 0.002,Ardrossan,Nitrogen Dioxide,2026-04-26T02:00:00-06:00
 0.0,Ardrossan,Hydrogen Sulphide,2026-04-26T02:00:00-06:00
-356.0,Ardrossan,Wind Direction,2026-04-26T02:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-26T02:00:00-06:00
 0.0,Ardrossan,Sulphur Dioxide,2026-04-26T02:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-26T02:00:00-06:00
+356.0,Ardrossan,Wind Direction,2026-04-26T02:00:00-06:00
 -6.0,Ardrossan,Outdoor Temperature,2026-04-26T02:00:00-06:00
 0.002,Ardrossan,Total Oxides of Nitrogen,2026-04-26T02:00:00-06:00
 12.0,Ardrossan,Wind Speed,2026-04-26T02:00:00-06:00
@@ -797,161 +808,161 @@ Value,StationName,ParameterName,ReadingDate
 1.2,Ardrossan,Fine Particulate Matter,2026-04-26T01:00:00-06:00
 12.0,Ardrossan,Wind Speed,2026-04-26T01:00:00-06:00
 0.001,Ardrossan,Nitrogen Dioxide,2026-04-26T01:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-26T01:00:00-06:00
--6.0,Ardrossan,Outdoor Temperature,2026-04-26T01:00:00-06:00
-0.031,Ardrossan,Ozone,2026-04-26T01:00:00-06:00
-0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-26T01:00:00-06:00
 2.0,Ardrossan,Wind Direction,2026-04-26T01:00:00-06:00
-0.002,Ardrossan,Total Oxides of Nitrogen,2026-04-26T00:00:00-06:00
-12.0,Ardrossan,Wind Speed,2026-04-26T00:00:00-06:00
-1.2,Ardrossan,Fine Particulate Matter,2026-04-26T00:00:00-06:00
-0.031,Ardrossan,Ozone,2026-04-26T00:00:00-06:00
--6.0,Ardrossan,Outdoor Temperature,2026-04-26T00:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-26T00:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-26T00:00:00-06:00
-0.0,Ardrossan,Wind Direction,2026-04-26T00:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-26T00:00:00-06:00
-0.002,Ardrossan,Nitrogen Dioxide,2026-04-26T00:00:00-06:00
+0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-26T01:00:00-06:00
+0.031,Ardrossan,Ozone,2026-04-26T01:00:00-06:00
+-6.0,Ardrossan,Outdoor Temperature,2026-04-26T01:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-26T01:00:00-06:00
 2.0,Ardrossan,,2026-04-26T00:00:00-06:00
-0.004,Ardrossan,Nitrogen Dioxide,2026-04-25T23:00:00-06:00
-0.002,Ardrossan,Sulphur Dioxide,2026-04-25T23:00:00-06:00
-1.3,Ardrossan,Fine Particulate Matter,2026-04-25T23:00:00-06:00
-2.0,Ardrossan,,2026-04-25T23:00:00-06:00
-0.029,Ardrossan,Ozone,2026-04-25T23:00:00-06:00
-10.0,Ardrossan,Wind Speed,2026-04-25T23:00:00-06:00
--6.0,Ardrossan,Outdoor Temperature,2026-04-25T23:00:00-06:00
-351.0,Ardrossan,Wind Direction,2026-04-25T23:00:00-06:00
-0.004,Ardrossan,Total Oxides of Nitrogen,2026-04-25T23:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T23:00:00-06:00
+0.002,Ardrossan,Nitrogen Dioxide,2026-04-26T00:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-26T00:00:00-06:00
+0.0,Ardrossan,Wind Direction,2026-04-26T00:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-26T00:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-26T00:00:00-06:00
+-6.0,Ardrossan,Outdoor Temperature,2026-04-26T00:00:00-06:00
+0.031,Ardrossan,Ozone,2026-04-26T00:00:00-06:00
+1.2,Ardrossan,Fine Particulate Matter,2026-04-26T00:00:00-06:00
+12.0,Ardrossan,Wind Speed,2026-04-26T00:00:00-06:00
+0.002,Ardrossan,Total Oxides of Nitrogen,2026-04-26T00:00:00-06:00
 0.0,Ardrossan,Nitric Oxide,2026-04-25T23:00:00-06:00
-2.0,Ardrossan,,2026-04-25T22:00:00-06:00
--6.0,Ardrossan,Outdoor Temperature,2026-04-25T22:00:00-06:00
-348.0,Ardrossan,Wind Direction,2026-04-25T22:00:00-06:00
-0.029,Ardrossan,Ozone,2026-04-25T22:00:00-06:00
-0.003,Ardrossan,Sulphur Dioxide,2026-04-25T22:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T23:00:00-06:00
+0.004,Ardrossan,Total Oxides of Nitrogen,2026-04-25T23:00:00-06:00
+351.0,Ardrossan,Wind Direction,2026-04-25T23:00:00-06:00
+-6.0,Ardrossan,Outdoor Temperature,2026-04-25T23:00:00-06:00
+10.0,Ardrossan,Wind Speed,2026-04-25T23:00:00-06:00
+0.029,Ardrossan,Ozone,2026-04-25T23:00:00-06:00
+2.0,Ardrossan,,2026-04-25T23:00:00-06:00
+1.3,Ardrossan,Fine Particulate Matter,2026-04-25T23:00:00-06:00
+0.002,Ardrossan,Sulphur Dioxide,2026-04-25T23:00:00-06:00
+0.004,Ardrossan,Nitrogen Dioxide,2026-04-25T23:00:00-06:00
 1.2,Ardrossan,Fine Particulate Matter,2026-04-25T22:00:00-06:00
 0.004,Ardrossan,Nitrogen Dioxide,2026-04-25T22:00:00-06:00
 0.004,Ardrossan,Total Oxides of Nitrogen,2026-04-25T22:00:00-06:00
 0.0,Ardrossan,Nitric Oxide,2026-04-25T22:00:00-06:00
 0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T22:00:00-06:00
 9.0,Ardrossan,Wind Speed,2026-04-25T22:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-25T21:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-25T21:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T21:00:00-06:00
-1.2,Ardrossan,Fine Particulate Matter,2026-04-25T21:00:00-06:00
-0.029,Ardrossan,Ozone,2026-04-25T21:00:00-06:00
-350.0,Ardrossan,Wind Direction,2026-04-25T21:00:00-06:00
-0.003,Ardrossan,Total Oxides of Nitrogen,2026-04-25T21:00:00-06:00
-0.003,Ardrossan,Nitrogen Dioxide,2026-04-25T21:00:00-06:00
--6.0,Ardrossan,Outdoor Temperature,2026-04-25T21:00:00-06:00
-9.0,Ardrossan,Wind Speed,2026-04-25T21:00:00-06:00
+2.0,Ardrossan,,2026-04-25T22:00:00-06:00
+-6.0,Ardrossan,Outdoor Temperature,2026-04-25T22:00:00-06:00
+348.0,Ardrossan,Wind Direction,2026-04-25T22:00:00-06:00
+0.029,Ardrossan,Ozone,2026-04-25T22:00:00-06:00
+0.003,Ardrossan,Sulphur Dioxide,2026-04-25T22:00:00-06:00
 2.0,Ardrossan,,2026-04-25T21:00:00-06:00
+9.0,Ardrossan,Wind Speed,2026-04-25T21:00:00-06:00
+-6.0,Ardrossan,Outdoor Temperature,2026-04-25T21:00:00-06:00
+0.003,Ardrossan,Nitrogen Dioxide,2026-04-25T21:00:00-06:00
+0.003,Ardrossan,Total Oxides of Nitrogen,2026-04-25T21:00:00-06:00
+350.0,Ardrossan,Wind Direction,2026-04-25T21:00:00-06:00
+0.029,Ardrossan,Ozone,2026-04-25T21:00:00-06:00
+1.2,Ardrossan,Fine Particulate Matter,2026-04-25T21:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T21:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-25T21:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-25T21:00:00-06:00
 2.0,Ardrossan,,2026-04-25T20:00:00-06:00
 0.002,Ardrossan,Total Oxides of Nitrogen,2026-04-25T20:00:00-06:00
 0.002,Ardrossan,Nitrogen Dioxide,2026-04-25T20:00:00-06:00
 -5.0,Ardrossan,Outdoor Temperature,2026-04-25T20:00:00-06:00
 0.03,Ardrossan,Ozone,2026-04-25T20:00:00-06:00
-357.0,Ardrossan,Wind Direction,2026-04-25T20:00:00-06:00
-0.8,Ardrossan,Fine Particulate Matter,2026-04-25T20:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-25T20:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T20:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-25T20:00:00-06:00
 14.0,Ardrossan,Wind Speed,2026-04-25T20:00:00-06:00
-2.0,Ardrossan,,2026-04-25T19:00:00-06:00
-0.001,Ardrossan,Sulphur Dioxide,2026-04-25T19:00:00-06:00
-0.002,Ardrossan,Total Oxides of Nitrogen,2026-04-25T19:00:00-06:00
-0.002,Ardrossan,Nitrogen Dioxide,2026-04-25T19:00:00-06:00
-360.0,Ardrossan,Wind Direction,2026-04-25T19:00:00-06:00
--5.0,Ardrossan,Outdoor Temperature,2026-04-25T19:00:00-06:00
-0.031,Ardrossan,Ozone,2026-04-25T19:00:00-06:00
-0.8,Ardrossan,Fine Particulate Matter,2026-04-25T19:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T19:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-25T19:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-25T20:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T20:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-25T20:00:00-06:00
+0.8,Ardrossan,Fine Particulate Matter,2026-04-25T20:00:00-06:00
+357.0,Ardrossan,Wind Direction,2026-04-25T20:00:00-06:00
 16.0,Ardrossan,Wind Speed,2026-04-25T19:00:00-06:00
-0.7,Ardrossan,Fine Particulate Matter,2026-04-25T18:00:00-06:00
-0.002,Ardrossan,Nitrogen Dioxide,2026-04-25T18:00:00-06:00
-0.002,Ardrossan,Total Oxides of Nitrogen,2026-04-25T18:00:00-06:00
-2.0,Ardrossan,,2026-04-25T18:00:00-06:00
-0.032,Ardrossan,Ozone,2026-04-25T18:00:00-06:00
-16.0,Ardrossan,Wind Speed,2026-04-25T18:00:00-06:00
--4.0,Ardrossan,Outdoor Temperature,2026-04-25T18:00:00-06:00
-352.0,Ardrossan,Wind Direction,2026-04-25T18:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T18:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-25T18:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-25T19:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T19:00:00-06:00
+0.8,Ardrossan,Fine Particulate Matter,2026-04-25T19:00:00-06:00
+0.031,Ardrossan,Ozone,2026-04-25T19:00:00-06:00
+-5.0,Ardrossan,Outdoor Temperature,2026-04-25T19:00:00-06:00
+360.0,Ardrossan,Wind Direction,2026-04-25T19:00:00-06:00
+0.002,Ardrossan,Nitrogen Dioxide,2026-04-25T19:00:00-06:00
+0.002,Ardrossan,Total Oxides of Nitrogen,2026-04-25T19:00:00-06:00
+0.001,Ardrossan,Sulphur Dioxide,2026-04-25T19:00:00-06:00
+2.0,Ardrossan,,2026-04-25T19:00:00-06:00
 0.0,Ardrossan,Nitric Oxide,2026-04-25T18:00:00-06:00
-2.0,Ardrossan,,2026-04-25T17:00:00-06:00
-0.001,Ardrossan,Sulphur Dioxide,2026-04-25T17:00:00-06:00
-0.001,Ardrossan,Nitric Oxide,2026-04-25T17:00:00-06:00
-0.002,Ardrossan,Nitrogen Dioxide,2026-04-25T17:00:00-06:00
--4.0,Ardrossan,Outdoor Temperature,2026-04-25T17:00:00-06:00
-358.0,Ardrossan,Wind Direction,2026-04-25T17:00:00-06:00
-0.033,Ardrossan,Ozone,2026-04-25T17:00:00-06:00
-0.003,Ardrossan,Total Oxides of Nitrogen,2026-04-25T17:00:00-06:00
-0.6,Ardrossan,Fine Particulate Matter,2026-04-25T17:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T17:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-25T18:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T18:00:00-06:00
+352.0,Ardrossan,Wind Direction,2026-04-25T18:00:00-06:00
+-4.0,Ardrossan,Outdoor Temperature,2026-04-25T18:00:00-06:00
+16.0,Ardrossan,Wind Speed,2026-04-25T18:00:00-06:00
+0.032,Ardrossan,Ozone,2026-04-25T18:00:00-06:00
+2.0,Ardrossan,,2026-04-25T18:00:00-06:00
+0.002,Ardrossan,Total Oxides of Nitrogen,2026-04-25T18:00:00-06:00
+0.002,Ardrossan,Nitrogen Dioxide,2026-04-25T18:00:00-06:00
+0.7,Ardrossan,Fine Particulate Matter,2026-04-25T18:00:00-06:00
 20.0,Ardrossan,Wind Speed,2026-04-25T17:00:00-06:00
-0.002,Ardrossan,Total Oxides of Nitrogen,2026-04-25T16:00:00-06:00
-0.8,Ardrossan,Fine Particulate Matter,2026-04-25T16:00:00-06:00
-2.0,Ardrossan,,2026-04-25T16:00:00-06:00
-0.034,Ardrossan,Ozone,2026-04-25T16:00:00-06:00
-0.001,Ardrossan,Nitrogen Dioxide,2026-04-25T16:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T17:00:00-06:00
+0.6,Ardrossan,Fine Particulate Matter,2026-04-25T17:00:00-06:00
+0.003,Ardrossan,Total Oxides of Nitrogen,2026-04-25T17:00:00-06:00
+0.033,Ardrossan,Ozone,2026-04-25T17:00:00-06:00
+358.0,Ardrossan,Wind Direction,2026-04-25T17:00:00-06:00
+-4.0,Ardrossan,Outdoor Temperature,2026-04-25T17:00:00-06:00
+0.002,Ardrossan,Nitrogen Dioxide,2026-04-25T17:00:00-06:00
+0.001,Ardrossan,Nitric Oxide,2026-04-25T17:00:00-06:00
+0.001,Ardrossan,Sulphur Dioxide,2026-04-25T17:00:00-06:00
+2.0,Ardrossan,,2026-04-25T17:00:00-06:00
 19.0,Ardrossan,Wind Speed,2026-04-25T16:00:00-06:00
--4.0,Ardrossan,Outdoor Temperature,2026-04-25T16:00:00-06:00
-0.001,Ardrossan,Sulphur Dioxide,2026-04-25T16:00:00-06:00
-0.001,Ardrossan,Nitric Oxide,2026-04-25T16:00:00-06:00
+0.001,Ardrossan,Nitrogen Dioxide,2026-04-25T16:00:00-06:00
+0.034,Ardrossan,Ozone,2026-04-25T16:00:00-06:00
+2.0,Ardrossan,,2026-04-25T16:00:00-06:00
+0.8,Ardrossan,Fine Particulate Matter,2026-04-25T16:00:00-06:00
+0.002,Ardrossan,Total Oxides of Nitrogen,2026-04-25T16:00:00-06:00
 358.0,Ardrossan,Wind Direction,2026-04-25T16:00:00-06:00
+0.001,Ardrossan,Nitric Oxide,2026-04-25T16:00:00-06:00
+0.001,Ardrossan,Sulphur Dioxide,2026-04-25T16:00:00-06:00
+-4.0,Ardrossan,Outdoor Temperature,2026-04-25T16:00:00-06:00
 0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T16:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T15:00:00-06:00
-355.0,Ardrossan,Wind Direction,2026-04-25T15:00:00-06:00
-0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-25T15:00:00-06:00
--4.0,Ardrossan,Outdoor Temperature,2026-04-25T15:00:00-06:00
-20.0,Ardrossan,Wind Speed,2026-04-25T15:00:00-06:00
-0.001,Ardrossan,Nitrogen Dioxide,2026-04-25T15:00:00-06:00
-0.034,Ardrossan,Ozone,2026-04-25T15:00:00-06:00
-2.0,Ardrossan,,2026-04-25T15:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-25T15:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-25T15:00:00-06:00
 0.7,Ardrossan,Fine Particulate Matter,2026-04-25T15:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T14:00:00-06:00
-0.003,Ardrossan,Total Oxides of Nitrogen,2026-04-25T14:00:00-06:00
-5.0,Ardrossan,Wind Direction,2026-04-25T14:00:00-06:00
-0.001,Ardrossan,Nitric Oxide,2026-04-25T14:00:00-06:00
-0.001,Ardrossan,Sulphur Dioxide,2026-04-25T14:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-25T15:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-25T15:00:00-06:00
+2.0,Ardrossan,,2026-04-25T15:00:00-06:00
+0.034,Ardrossan,Ozone,2026-04-25T15:00:00-06:00
+0.001,Ardrossan,Nitrogen Dioxide,2026-04-25T15:00:00-06:00
+20.0,Ardrossan,Wind Speed,2026-04-25T15:00:00-06:00
+-4.0,Ardrossan,Outdoor Temperature,2026-04-25T15:00:00-06:00
+0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-25T15:00:00-06:00
+355.0,Ardrossan,Wind Direction,2026-04-25T15:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T15:00:00-06:00
 -4.0,Ardrossan,Outdoor Temperature,2026-04-25T14:00:00-06:00
 17.0,Ardrossan,Wind Speed,2026-04-25T14:00:00-06:00
 0.035,Ardrossan,Ozone,2026-04-25T14:00:00-06:00
 2.0,Ardrossan,,2026-04-25T14:00:00-06:00
 1.6,Ardrossan,Fine Particulate Matter,2026-04-25T14:00:00-06:00
 0.002,Ardrossan,Nitrogen Dioxide,2026-04-25T14:00:00-06:00
+0.001,Ardrossan,Sulphur Dioxide,2026-04-25T14:00:00-06:00
+0.001,Ardrossan,Nitric Oxide,2026-04-25T14:00:00-06:00
+5.0,Ardrossan,Wind Direction,2026-04-25T14:00:00-06:00
+0.003,Ardrossan,Total Oxides of Nitrogen,2026-04-25T14:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T14:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-25T13:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-25T13:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T13:00:00-06:00
+6.0,Ardrossan,Wind Direction,2026-04-25T13:00:00-06:00
+0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-25T13:00:00-06:00
 -3.0,Ardrossan,Outdoor Temperature,2026-04-25T13:00:00-06:00
 11.0,Ardrossan,Wind Speed,2026-04-25T13:00:00-06:00
 0.001,Ardrossan,Nitrogen Dioxide,2026-04-25T13:00:00-06:00
 0.035,Ardrossan,Ozone,2026-04-25T13:00:00-06:00
 2.0,Ardrossan,,2026-04-25T13:00:00-06:00
 1.2,Ardrossan,Fine Particulate Matter,2026-04-25T13:00:00-06:00
-0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-25T13:00:00-06:00
-6.0,Ardrossan,Wind Direction,2026-04-25T13:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T13:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-25T13:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-25T13:00:00-06:00
-2.0,Ardrossan,,2026-04-25T12:00:00-06:00
-0.001,Ardrossan,Nitric Oxide,2026-04-25T12:00:00-06:00
-0.002,Ardrossan,Total Oxides of Nitrogen,2026-04-25T12:00:00-06:00
-0.002,Ardrossan,Nitrogen Dioxide,2026-04-25T12:00:00-06:00
-0.035,Ardrossan,Ozone,2026-04-25T12:00:00-06:00
-4.0,Ardrossan,Wind Direction,2026-04-25T12:00:00-06:00
--4.0,Ardrossan,Outdoor Temperature,2026-04-25T12:00:00-06:00
-1.7,Ardrossan,Fine Particulate Matter,2026-04-25T12:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T12:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-25T12:00:00-06:00
 12.0,Ardrossan,Wind Speed,2026-04-25T12:00:00-06:00
-0.035,Ardrossan,Ozone,2026-04-25T11:00:00-06:00
-14.0,Ardrossan,Wind Speed,2026-04-25T11:00:00-06:00
--4.0,Ardrossan,Outdoor Temperature,2026-04-25T11:00:00-06:00
-0.001,Ardrossan,Sulphur Dioxide,2026-04-25T11:00:00-06:00
-0.001,Ardrossan,Nitric Oxide,2026-04-25T11:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T11:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-25T12:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T12:00:00-06:00
+1.7,Ardrossan,Fine Particulate Matter,2026-04-25T12:00:00-06:00
+-4.0,Ardrossan,Outdoor Temperature,2026-04-25T12:00:00-06:00
+4.0,Ardrossan,Wind Direction,2026-04-25T12:00:00-06:00
+0.035,Ardrossan,Ozone,2026-04-25T12:00:00-06:00
+0.002,Ardrossan,Nitrogen Dioxide,2026-04-25T12:00:00-06:00
+0.002,Ardrossan,Total Oxides of Nitrogen,2026-04-25T12:00:00-06:00
+0.001,Ardrossan,Nitric Oxide,2026-04-25T12:00:00-06:00
+2.0,Ardrossan,,2026-04-25T12:00:00-06:00
 2.0,Ardrossan,Wind Direction,2026-04-25T11:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-25T11:00:00-06:00
+0.001,Ardrossan,Nitric Oxide,2026-04-25T11:00:00-06:00
+0.001,Ardrossan,Sulphur Dioxide,2026-04-25T11:00:00-06:00
+-4.0,Ardrossan,Outdoor Temperature,2026-04-25T11:00:00-06:00
+14.0,Ardrossan,Wind Speed,2026-04-25T11:00:00-06:00
+0.035,Ardrossan,Ozone,2026-04-25T11:00:00-06:00
 2.0,Ardrossan,,2026-04-25T11:00:00-06:00
 1.1,Ardrossan,Fine Particulate Matter,2026-04-25T11:00:00-06:00
 0.002,Ardrossan,Total Oxides of Nitrogen,2026-04-25T11:00:00-06:00
@@ -1242,17 +1253,17 @@ Value,StationName,ParameterName,ReadingDate
 335.0,Ardrossan,Wind Direction,2026-04-24T09:00:00-06:00
 0.001,Ardrossan,Nitrogen Dioxide,2026-04-24T09:00:00-06:00
 0.037,Ardrossan,Ozone,2026-04-24T09:00:00-06:00
-2.0,Ardrossan,,2026-04-24T08:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-24T08:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-24T08:00:00-06:00
-26.0,Ardrossan,Wind Speed,2026-04-24T08:00:00-06:00
--5.0,Ardrossan,Outdoor Temperature,2026-04-24T08:00:00-06:00
-0.6,Ardrossan,Fine Particulate Matter,2026-04-24T08:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-24T08:00:00-06:00
-0.001,Ardrossan,Nitrogen Dioxide,2026-04-24T08:00:00-06:00
-0.037,Ardrossan,Ozone,2026-04-24T08:00:00-06:00
-330.0,Ardrossan,Wind Direction,2026-04-24T08:00:00-06:00
 0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-24T08:00:00-06:00
+330.0,Ardrossan,Wind Direction,2026-04-24T08:00:00-06:00
+0.037,Ardrossan,Ozone,2026-04-24T08:00:00-06:00
+0.001,Ardrossan,Nitrogen Dioxide,2026-04-24T08:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-24T08:00:00-06:00
+0.6,Ardrossan,Fine Particulate Matter,2026-04-24T08:00:00-06:00
+-5.0,Ardrossan,Outdoor Temperature,2026-04-24T08:00:00-06:00
+26.0,Ardrossan,Wind Speed,2026-04-24T08:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-24T08:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-24T08:00:00-06:00
+2.0,Ardrossan,,2026-04-24T08:00:00-06:00
 2.0,Ardrossan,,2026-04-24T07:00:00-06:00
 0.0,Ardrossan,Hydrogen Sulphide,2026-04-24T07:00:00-06:00
 0.0,Ardrossan,Nitric Oxide,2026-04-24T07:00:00-06:00
@@ -1281,11 +1292,11 @@ Value,StationName,ParameterName,ReadingDate
 25.0,Ardrossan,Wind Speed,2026-04-24T05:00:00-06:00
 -4.0,Ardrossan,Outdoor Temperature,2026-04-24T05:00:00-06:00
 0.0,Ardrossan,Sulphur Dioxide,2026-04-24T05:00:00-06:00
-0.038,Ardrossan,Ozone,2026-04-24T05:00:00-06:00
 0.001,Ardrossan,Nitrogen Dioxide,2026-04-24T05:00:00-06:00
 0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-24T05:00:00-06:00
 0.6,Ardrossan,Fine Particulate Matter,2026-04-24T05:00:00-06:00
 333.0,Ardrossan,Wind Direction,2026-04-24T05:00:00-06:00
+0.038,Ardrossan,Ozone,2026-04-24T05:00:00-06:00
 2.0,Ardrossan,,2026-04-24T04:00:00-06:00
 0.0,Ardrossan,Hydrogen Sulphide,2026-04-24T04:00:00-06:00
 0.0,Ardrossan,Nitric Oxide,2026-04-24T04:00:00-06:00
@@ -1297,13 +1308,13 @@ Value,StationName,ParameterName,ReadingDate
 0.5,Ardrossan,Fine Particulate Matter,2026-04-24T04:00:00-06:00
 0.0,Ardrossan,Total Oxides of Nitrogen,2026-04-24T04:00:00-06:00
 0.001,Ardrossan,Nitrogen Dioxide,2026-04-24T04:00:00-06:00
-,Ardrossan,Sulphur Dioxide,2026-04-24T03:00:00-06:00
-0.001,Ardrossan,Nitrogen Dioxide,2026-04-24T03:00:00-06:00
-0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-24T03:00:00-06:00
--3.0,Ardrossan,Outdoor Temperature,2026-04-24T03:00:00-06:00
-25.0,Ardrossan,Wind Speed,2026-04-24T03:00:00-06:00
-,Ardrossan,,2026-04-24T03:00:00-06:00
 0.0,Ardrossan,Nitric Oxide,2026-04-24T03:00:00-06:00
+,Ardrossan,,2026-04-24T03:00:00-06:00
+25.0,Ardrossan,Wind Speed,2026-04-24T03:00:00-06:00
+-3.0,Ardrossan,Outdoor Temperature,2026-04-24T03:00:00-06:00
+0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-24T03:00:00-06:00
+0.001,Ardrossan,Nitrogen Dioxide,2026-04-24T03:00:00-06:00
+,Ardrossan,Sulphur Dioxide,2026-04-24T03:00:00-06:00
 ,Ardrossan,Hydrogen Sulphide,2026-04-24T03:00:00-06:00
 ,Ardrossan,Ozone,2026-04-24T03:00:00-06:00
 333.0,Ardrossan,Wind Direction,2026-04-24T03:00:00-06:00
@@ -1319,28 +1330,28 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Ardrossan,Nitrogen Dioxide,2026-04-24T02:00:00-06:00
 0.0,Ardrossan,Total Oxides of Nitrogen,2026-04-24T02:00:00-06:00
 0.037,Ardrossan,Ozone,2026-04-24T02:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-24T01:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-24T01:00:00-06:00
-27.0,Ardrossan,Wind Speed,2026-04-24T01:00:00-06:00
--2.0,Ardrossan,Outdoor Temperature,2026-04-24T01:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-24T01:00:00-06:00
-0.036,Ardrossan,Ozone,2026-04-24T01:00:00-06:00
-337.0,Ardrossan,Wind Direction,2026-04-24T01:00:00-06:00
-0.2,Ardrossan,Fine Particulate Matter,2026-04-24T01:00:00-06:00
-0.0,Ardrossan,Nitrogen Dioxide,2026-04-24T01:00:00-06:00
-0.0,Ardrossan,Total Oxides of Nitrogen,2026-04-24T01:00:00-06:00
 2.0,Ardrossan,,2026-04-24T01:00:00-06:00
-2.0,Ardrossan,,2026-04-24T00:00:00-06:00
-0.0,Ardrossan,Total Oxides of Nitrogen,2026-04-24T00:00:00-06:00
-0.001,Ardrossan,Nitrogen Dioxide,2026-04-24T00:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-24T00:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-24T00:00:00-06:00
-29.0,Ardrossan,Wind Speed,2026-04-24T00:00:00-06:00
+0.0,Ardrossan,Total Oxides of Nitrogen,2026-04-24T01:00:00-06:00
+0.0,Ardrossan,Nitrogen Dioxide,2026-04-24T01:00:00-06:00
+0.2,Ardrossan,Fine Particulate Matter,2026-04-24T01:00:00-06:00
+337.0,Ardrossan,Wind Direction,2026-04-24T01:00:00-06:00
+0.036,Ardrossan,Ozone,2026-04-24T01:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-24T01:00:00-06:00
+-2.0,Ardrossan,Outdoor Temperature,2026-04-24T01:00:00-06:00
+27.0,Ardrossan,Wind Speed,2026-04-24T01:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-24T01:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-24T01:00:00-06:00
 0.036,Ardrossan,Ozone,2026-04-24T00:00:00-06:00
+29.0,Ardrossan,Wind Speed,2026-04-24T00:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-24T00:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-24T00:00:00-06:00
+0.001,Ardrossan,Nitrogen Dioxide,2026-04-24T00:00:00-06:00
+0.0,Ardrossan,Total Oxides of Nitrogen,2026-04-24T00:00:00-06:00
+2.0,Ardrossan,,2026-04-24T00:00:00-06:00
 340.0,Ardrossan,Wind Direction,2026-04-24T00:00:00-06:00
 0.0,Ardrossan,Hydrogen Sulphide,2026-04-24T00:00:00-06:00
-0.2,Ardrossan,Fine Particulate Matter,2026-04-24T00:00:00-06:00
 -2.0,Ardrossan,Outdoor Temperature,2026-04-24T00:00:00-06:00
+0.2,Ardrossan,Fine Particulate Matter,2026-04-24T00:00:00-06:00
 2.0,Ardrossan,,2026-04-23T23:00:00-06:00
 336.0,Ardrossan,Wind Direction,2026-04-23T23:00:00-06:00
 0.2,Ardrossan,Fine Particulate Matter,2026-04-23T23:00:00-06:00
@@ -1374,28 +1385,28 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Ardrossan,Nitric Oxide,2026-04-23T21:00:00-06:00
 0.001,Ardrossan,Nitrogen Dioxide,2026-04-23T21:00:00-06:00
 0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-23T21:00:00-06:00
-0.3,Ardrossan,Fine Particulate Matter,2026-04-23T20:00:00-06:00
-334.0,Ardrossan,Wind Direction,2026-04-23T20:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-23T20:00:00-06:00
-2.0,Ardrossan,,2026-04-23T20:00:00-06:00
-0.035,Ardrossan,Ozone,2026-04-23T20:00:00-06:00
--1.0,Ardrossan,Outdoor Temperature,2026-04-23T20:00:00-06:00
-29.0,Ardrossan,Wind Speed,2026-04-23T20:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-23T20:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-23T20:00:00-06:00
-0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-23T20:00:00-06:00
 0.001,Ardrossan,Nitrogen Dioxide,2026-04-23T20:00:00-06:00
-0.036,Ardrossan,Ozone,2026-04-23T19:00:00-06:00
-0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-23T19:00:00-06:00
-0.001,Ardrossan,Nitrogen Dioxide,2026-04-23T19:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-23T19:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-23T19:00:00-06:00
-0.0,Ardrossan,Outdoor Temperature,2026-04-23T19:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-23T19:00:00-06:00
-33.0,Ardrossan,Wind Speed,2026-04-23T19:00:00-06:00
-334.0,Ardrossan,Wind Direction,2026-04-23T19:00:00-06:00
-0.3,Ardrossan,Fine Particulate Matter,2026-04-23T19:00:00-06:00
+0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-23T20:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-23T20:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-23T20:00:00-06:00
+29.0,Ardrossan,Wind Speed,2026-04-23T20:00:00-06:00
+-1.0,Ardrossan,Outdoor Temperature,2026-04-23T20:00:00-06:00
+0.035,Ardrossan,Ozone,2026-04-23T20:00:00-06:00
+2.0,Ardrossan,,2026-04-23T20:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-23T20:00:00-06:00
+334.0,Ardrossan,Wind Direction,2026-04-23T20:00:00-06:00
+0.3,Ardrossan,Fine Particulate Matter,2026-04-23T20:00:00-06:00
 2.0,Ardrossan,,2026-04-23T19:00:00-06:00
+0.3,Ardrossan,Fine Particulate Matter,2026-04-23T19:00:00-06:00
+334.0,Ardrossan,Wind Direction,2026-04-23T19:00:00-06:00
+33.0,Ardrossan,Wind Speed,2026-04-23T19:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-23T19:00:00-06:00
+0.0,Ardrossan,Outdoor Temperature,2026-04-23T19:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-23T19:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-23T19:00:00-06:00
+0.001,Ardrossan,Nitrogen Dioxide,2026-04-23T19:00:00-06:00
+0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-23T19:00:00-06:00
+0.036,Ardrossan,Ozone,2026-04-23T19:00:00-06:00
 2.0,Ardrossan,,2026-04-23T18:00:00-06:00
 0.3,Ardrossan,Fine Particulate Matter,2026-04-23T18:00:00-06:00
 333.0,Ardrossan,Wind Direction,2026-04-23T18:00:00-06:00
@@ -1440,28 +1451,28 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Ardrossan,Sulphur Dioxide,2026-04-23T15:00:00-06:00
 0.0,Ardrossan,Nitric Oxide,2026-04-23T15:00:00-06:00
 0.034,Ardrossan,Ozone,2026-04-23T15:00:00-06:00
-0.034,Ardrossan,Ozone,2026-04-23T14:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-23T14:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-23T14:00:00-06:00
-0.0,Ardrossan,Outdoor Temperature,2026-04-23T14:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-23T14:00:00-06:00
-0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-23T14:00:00-06:00
-0.001,Ardrossan,Nitrogen Dioxide,2026-04-23T14:00:00-06:00
-31.0,Ardrossan,Wind Speed,2026-04-23T14:00:00-06:00
-323.0,Ardrossan,Wind Direction,2026-04-23T14:00:00-06:00
-0.4,Ardrossan,Fine Particulate Matter,2026-04-23T14:00:00-06:00
 2.0,Ardrossan,,2026-04-23T14:00:00-06:00
-2.0,Ardrossan,,2026-04-23T13:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-23T13:00:00-06:00
-324.0,Ardrossan,Wind Direction,2026-04-23T13:00:00-06:00
-0.4,Ardrossan,Fine Particulate Matter,2026-04-23T13:00:00-06:00
+0.4,Ardrossan,Fine Particulate Matter,2026-04-23T14:00:00-06:00
+323.0,Ardrossan,Wind Direction,2026-04-23T14:00:00-06:00
+31.0,Ardrossan,Wind Speed,2026-04-23T14:00:00-06:00
+0.001,Ardrossan,Nitrogen Dioxide,2026-04-23T14:00:00-06:00
+0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-23T14:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-23T14:00:00-06:00
+0.0,Ardrossan,Outdoor Temperature,2026-04-23T14:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-23T14:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-23T14:00:00-06:00
+0.034,Ardrossan,Ozone,2026-04-23T14:00:00-06:00
+0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-23T13:00:00-06:00
 0.001,Ardrossan,Nitrogen Dioxide,2026-04-23T13:00:00-06:00
 0.0,Ardrossan,Nitric Oxide,2026-04-23T13:00:00-06:00
 0.0,Ardrossan,Sulphur Dioxide,2026-04-23T13:00:00-06:00
 33.0,Ardrossan,Wind Speed,2026-04-23T13:00:00-06:00
 0.034,Ardrossan,Ozone,2026-04-23T13:00:00-06:00
 -1.0,Ardrossan,Outdoor Temperature,2026-04-23T13:00:00-06:00
-0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-23T13:00:00-06:00
+0.4,Ardrossan,Fine Particulate Matter,2026-04-23T13:00:00-06:00
+324.0,Ardrossan,Wind Direction,2026-04-23T13:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-23T13:00:00-06:00
+2.0,Ardrossan,,2026-04-23T13:00:00-06:00
 2.0,Ardrossan,,2026-04-23T12:00:00-06:00
 0.4,Ardrossan,Fine Particulate Matter,2026-04-23T12:00:00-06:00
 329.0,Ardrossan,Wind Direction,2026-04-23T12:00:00-06:00
@@ -1485,27 +1496,27 @@ Value,StationName,ParameterName,ReadingDate
 0.001,Ardrossan,Nitrogen Dioxide,2026-04-23T11:00:00-06:00
 0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-23T11:00:00-06:00
 2.0,Ardrossan,,2026-04-23T10:00:00-06:00
-0.035,Ardrossan,Ozone,2026-04-23T10:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-23T10:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-23T10:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-23T10:00:00-06:00
-0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-23T10:00:00-06:00
-0.001,Ardrossan,Nitrogen Dioxide,2026-04-23T10:00:00-06:00
-32.0,Ardrossan,Wind Speed,2026-04-23T10:00:00-06:00
-327.0,Ardrossan,Wind Direction,2026-04-23T10:00:00-06:00
--1.0,Ardrossan,Outdoor Temperature,2026-04-23T10:00:00-06:00
 0.3,Ardrossan,Fine Particulate Matter,2026-04-23T10:00:00-06:00
-0.033,Ardrossan,Ozone,2026-04-23T09:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-23T09:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-23T09:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-23T09:00:00-06:00
-0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-23T09:00:00-06:00
-0.001,Ardrossan,Nitrogen Dioxide,2026-04-23T09:00:00-06:00
-30.0,Ardrossan,Wind Speed,2026-04-23T09:00:00-06:00
-331.0,Ardrossan,Wind Direction,2026-04-23T09:00:00-06:00
--1.0,Ardrossan,Outdoor Temperature,2026-04-23T09:00:00-06:00
-0.3,Ardrossan,Fine Particulate Matter,2026-04-23T09:00:00-06:00
+-1.0,Ardrossan,Outdoor Temperature,2026-04-23T10:00:00-06:00
+327.0,Ardrossan,Wind Direction,2026-04-23T10:00:00-06:00
+32.0,Ardrossan,Wind Speed,2026-04-23T10:00:00-06:00
+0.001,Ardrossan,Nitrogen Dioxide,2026-04-23T10:00:00-06:00
+0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-23T10:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-23T10:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-23T10:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-23T10:00:00-06:00
+0.035,Ardrossan,Ozone,2026-04-23T10:00:00-06:00
 2.0,Ardrossan,,2026-04-23T09:00:00-06:00
+0.3,Ardrossan,Fine Particulate Matter,2026-04-23T09:00:00-06:00
+-1.0,Ardrossan,Outdoor Temperature,2026-04-23T09:00:00-06:00
+331.0,Ardrossan,Wind Direction,2026-04-23T09:00:00-06:00
+30.0,Ardrossan,Wind Speed,2026-04-23T09:00:00-06:00
+0.001,Ardrossan,Nitrogen Dioxide,2026-04-23T09:00:00-06:00
+0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-23T09:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-23T09:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-23T09:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-23T09:00:00-06:00
+0.033,Ardrossan,Ozone,2026-04-23T09:00:00-06:00
 2.0,Ardrossan,,2026-04-23T08:00:00-06:00
 0.0,Ardrossan,Hydrogen Sulphide,2026-04-23T08:00:00-06:00
 330.0,Ardrossan,Wind Direction,2026-04-23T08:00:00-06:00
@@ -1517,28 +1528,28 @@ Value,StationName,ParameterName,ReadingDate
 0.0,Ardrossan,Nitric Oxide,2026-04-23T08:00:00-06:00
 0.0,Ardrossan,Sulphur Dioxide,2026-04-23T08:00:00-06:00
 0.001,Ardrossan,Nitrogen Dioxide,2026-04-23T08:00:00-06:00
-2.0,Ardrossan,,2026-04-23T07:00:00-06:00
-18.0,Ardrossan,Wind Speed,2026-04-23T07:00:00-06:00
-323.0,Ardrossan,Wind Direction,2026-04-23T07:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-23T07:00:00-06:00
-0.3,Ardrossan,Fine Particulate Matter,2026-04-23T07:00:00-06:00
--2.0,Ardrossan,Outdoor Temperature,2026-04-23T07:00:00-06:00
-0.03,Ardrossan,Ozone,2026-04-23T07:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-23T07:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-23T07:00:00-06:00
-0.001,Ardrossan,Nitrogen Dioxide,2026-04-23T07:00:00-06:00
 0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-23T07:00:00-06:00
-0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-23T06:00:00-06:00
-20.0,Ardrossan,Wind Speed,2026-04-23T06:00:00-06:00
-0.001,Ardrossan,Nitrogen Dioxide,2026-04-23T06:00:00-06:00
+0.001,Ardrossan,Nitrogen Dioxide,2026-04-23T07:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-23T07:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-23T07:00:00-06:00
+0.03,Ardrossan,Ozone,2026-04-23T07:00:00-06:00
+-2.0,Ardrossan,Outdoor Temperature,2026-04-23T07:00:00-06:00
+0.3,Ardrossan,Fine Particulate Matter,2026-04-23T07:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-23T07:00:00-06:00
+323.0,Ardrossan,Wind Direction,2026-04-23T07:00:00-06:00
+18.0,Ardrossan,Wind Speed,2026-04-23T07:00:00-06:00
+2.0,Ardrossan,,2026-04-23T07:00:00-06:00
+2.0,Ardrossan,,2026-04-23T06:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-23T06:00:00-06:00
+317.0,Ardrossan,Wind Direction,2026-04-23T06:00:00-06:00
+0.2,Ardrossan,Fine Particulate Matter,2026-04-23T06:00:00-06:00
+-2.0,Ardrossan,Outdoor Temperature,2026-04-23T06:00:00-06:00
 0.0,Ardrossan,Nitric Oxide,2026-04-23T06:00:00-06:00
 0.0,Ardrossan,Sulphur Dioxide,2026-04-23T06:00:00-06:00
 0.03,Ardrossan,Ozone,2026-04-23T06:00:00-06:00
--2.0,Ardrossan,Outdoor Temperature,2026-04-23T06:00:00-06:00
-0.2,Ardrossan,Fine Particulate Matter,2026-04-23T06:00:00-06:00
-317.0,Ardrossan,Wind Direction,2026-04-23T06:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-23T06:00:00-06:00
-2.0,Ardrossan,,2026-04-23T06:00:00-06:00
+0.001,Ardrossan,Nitrogen Dioxide,2026-04-23T06:00:00-06:00
+20.0,Ardrossan,Wind Speed,2026-04-23T06:00:00-06:00
+0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-23T06:00:00-06:00
 2.0,Ardrossan,,2026-04-23T05:00:00-06:00
 19.0,Ardrossan,Wind Speed,2026-04-23T05:00:00-06:00
 316.0,Ardrossan,Wind Direction,2026-04-23T05:00:00-06:00
@@ -1567,11 +1578,11 @@ Value,StationName,ParameterName,ReadingDate
 ,Ardrossan,Sulphur Dioxide,2026-04-23T03:00:00-06:00
 -1.0,Ardrossan,Outdoor Temperature,2026-04-23T03:00:00-06:00
 319.0,Ardrossan,Wind Direction,2026-04-23T03:00:00-06:00
+16.0,Ardrossan,Wind Speed,2026-04-23T03:00:00-06:00
+0.001,Ardrossan,Nitrogen Dioxide,2026-04-23T03:00:00-06:00
+0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-23T03:00:00-06:00
 0.0,Ardrossan,Nitric Oxide,2026-04-23T03:00:00-06:00
 ,Ardrossan,Ozone,2026-04-23T03:00:00-06:00
-0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-23T03:00:00-06:00
-0.001,Ardrossan,Nitrogen Dioxide,2026-04-23T03:00:00-06:00
-16.0,Ardrossan,Wind Speed,2026-04-23T03:00:00-06:00
 2.0,Ardrossan,,2026-04-23T02:00:00-06:00
 0.0,Ardrossan,Outdoor Temperature,2026-04-23T02:00:00-06:00
 0.0,Ardrossan,Nitric Oxide,2026-04-23T02:00:00-06:00
@@ -1605,28 +1616,28 @@ Value,StationName,ParameterName,ReadingDate
 0.033,Ardrossan,Ozone,2026-04-23T00:00:00-06:00
 0.0,Ardrossan,Sulphur Dioxide,2026-04-23T00:00:00-06:00
 1.0,Ardrossan,Outdoor Temperature,2026-04-23T00:00:00-06:00
-17.0,Ardrossan,Wind Speed,2026-04-22T23:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-22T23:00:00-06:00
-0.001,Ardrossan,Nitrogen Dioxide,2026-04-22T23:00:00-06:00
-333.0,Ardrossan,Wind Direction,2026-04-22T23:00:00-06:00
-2.0,Ardrossan,Outdoor Temperature,2026-04-22T23:00:00-06:00
-0.033,Ardrossan,Ozone,2026-04-22T23:00:00-06:00
-0.3,Ardrossan,Fine Particulate Matter,2026-04-22T23:00:00-06:00
-0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-22T23:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-22T23:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-22T23:00:00-06:00
 2.0,Ardrossan,,2026-04-22T23:00:00-06:00
-2.0,Ardrossan,,2026-04-22T22:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-22T22:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-22T22:00:00-06:00
-13.0,Ardrossan,Wind Speed,2026-04-22T22:00:00-06:00
-0.002,Ardrossan,Nitrogen Dioxide,2026-04-22T22:00:00-06:00
-1.4,Ardrossan,Fine Particulate Matter,2026-04-22T22:00:00-06:00
-339.0,Ardrossan,Wind Direction,2026-04-22T22:00:00-06:00
-0.002,Ardrossan,Total Oxides of Nitrogen,2026-04-22T22:00:00-06:00
-3.0,Ardrossan,Outdoor Temperature,2026-04-22T22:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-22T22:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-22T23:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-22T23:00:00-06:00
+0.001,Ardrossan,Total Oxides of Nitrogen,2026-04-22T23:00:00-06:00
+0.3,Ardrossan,Fine Particulate Matter,2026-04-22T23:00:00-06:00
+0.033,Ardrossan,Ozone,2026-04-22T23:00:00-06:00
+2.0,Ardrossan,Outdoor Temperature,2026-04-22T23:00:00-06:00
+333.0,Ardrossan,Wind Direction,2026-04-22T23:00:00-06:00
+0.001,Ardrossan,Nitrogen Dioxide,2026-04-22T23:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-22T23:00:00-06:00
+17.0,Ardrossan,Wind Speed,2026-04-22T23:00:00-06:00
 0.031,Ardrossan,Ozone,2026-04-22T22:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-22T22:00:00-06:00
+3.0,Ardrossan,Outdoor Temperature,2026-04-22T22:00:00-06:00
+0.002,Ardrossan,Total Oxides of Nitrogen,2026-04-22T22:00:00-06:00
+339.0,Ardrossan,Wind Direction,2026-04-22T22:00:00-06:00
+1.4,Ardrossan,Fine Particulate Matter,2026-04-22T22:00:00-06:00
+0.002,Ardrossan,Nitrogen Dioxide,2026-04-22T22:00:00-06:00
+13.0,Ardrossan,Wind Speed,2026-04-22T22:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-22T22:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-22T22:00:00-06:00
+2.0,Ardrossan,,2026-04-22T22:00:00-06:00
 0.031,Ardrossan,Ozone,2026-04-22T21:00:00-06:00
 2.0,Ardrossan,,2026-04-22T21:00:00-06:00
 347.0,Ardrossan,Wind Direction,2026-04-22T21:00:00-06:00
@@ -1638,17 +1649,17 @@ Value,StationName,ParameterName,ReadingDate
 17.0,Ardrossan,Wind Speed,2026-04-22T21:00:00-06:00
 0.0,Ardrossan,Sulphur Dioxide,2026-04-22T21:00:00-06:00
 0.003,Ardrossan,Total Oxides of Nitrogen,2026-04-22T21:00:00-06:00
-0.028,Ardrossan,Ozone,2026-04-22T20:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-22T20:00:00-06:00
-0.003,Ardrossan,Total Oxides of Nitrogen,2026-04-22T20:00:00-06:00
-4.0,Ardrossan,Outdoor Temperature,2026-04-22T20:00:00-06:00
-347.0,Ardrossan,Wind Direction,2026-04-22T20:00:00-06:00
-1.8,Ardrossan,Fine Particulate Matter,2026-04-22T20:00:00-06:00
-0.003,Ardrossan,Nitrogen Dioxide,2026-04-22T20:00:00-06:00
-17.0,Ardrossan,Wind Speed,2026-04-22T20:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-22T20:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-22T20:00:00-06:00
 2.0,Ardrossan,,2026-04-22T20:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-22T20:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-22T20:00:00-06:00
+17.0,Ardrossan,Wind Speed,2026-04-22T20:00:00-06:00
+0.003,Ardrossan,Nitrogen Dioxide,2026-04-22T20:00:00-06:00
+1.8,Ardrossan,Fine Particulate Matter,2026-04-22T20:00:00-06:00
+347.0,Ardrossan,Wind Direction,2026-04-22T20:00:00-06:00
+4.0,Ardrossan,Outdoor Temperature,2026-04-22T20:00:00-06:00
+0.003,Ardrossan,Total Oxides of Nitrogen,2026-04-22T20:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-22T20:00:00-06:00
+0.028,Ardrossan,Ozone,2026-04-22T20:00:00-06:00
 2.0,Ardrossan,,2026-04-22T19:00:00-06:00
 0.0,Ardrossan,Nitric Oxide,2026-04-22T19:00:00-06:00
 0.0,Ardrossan,Hydrogen Sulphide,2026-04-22T19:00:00-06:00
@@ -1693,39 +1704,39 @@ Value,StationName,ParameterName,ReadingDate
 3.0,Ardrossan,Outdoor Temperature,2026-04-22T16:00:00-06:00
 23.0,Ardrossan,Wind Speed,2026-04-22T16:00:00-06:00
 0.0,Ardrossan,Sulphur Dioxide,2026-04-22T16:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-22T15:00:00-06:00
-19.0,Ardrossan,Wind Speed,2026-04-22T15:00:00-06:00
-4.0,Ardrossan,Outdoor Temperature,2026-04-22T15:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-22T15:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-22T15:00:00-06:00
-0.6,Ardrossan,Fine Particulate Matter,2026-04-22T15:00:00-06:00
-0.002,Ardrossan,Total Oxides of Nitrogen,2026-04-22T15:00:00-06:00
-0.002,Ardrossan,Nitrogen Dioxide,2026-04-22T15:00:00-06:00
-334.0,Ardrossan,Wind Direction,2026-04-22T15:00:00-06:00
-2.0,Ardrossan,,2026-04-22T15:00:00-06:00
 0.03,Ardrossan,Ozone,2026-04-22T15:00:00-06:00
-0.026,Ardrossan,Ozone,2026-04-22T14:00:00-06:00
-2.0,Ardrossan,,2026-04-22T14:00:00-06:00
-1.0,Ardrossan,Fine Particulate Matter,2026-04-22T14:00:00-06:00
-329.0,Ardrossan,Wind Direction,2026-04-22T14:00:00-06:00
-0.003,Ardrossan,Nitrogen Dioxide,2026-04-22T14:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-22T14:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-22T14:00:00-06:00
-4.0,Ardrossan,Outdoor Temperature,2026-04-22T14:00:00-06:00
-16.0,Ardrossan,Wind Speed,2026-04-22T14:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-22T14:00:00-06:00
+2.0,Ardrossan,,2026-04-22T15:00:00-06:00
+334.0,Ardrossan,Wind Direction,2026-04-22T15:00:00-06:00
+0.002,Ardrossan,Nitrogen Dioxide,2026-04-22T15:00:00-06:00
+0.002,Ardrossan,Total Oxides of Nitrogen,2026-04-22T15:00:00-06:00
+0.6,Ardrossan,Fine Particulate Matter,2026-04-22T15:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-22T15:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-22T15:00:00-06:00
+4.0,Ardrossan,Outdoor Temperature,2026-04-22T15:00:00-06:00
+19.0,Ardrossan,Wind Speed,2026-04-22T15:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-22T15:00:00-06:00
 0.003,Ardrossan,Total Oxides of Nitrogen,2026-04-22T14:00:00-06:00
-0.004,Ardrossan,Total Oxides of Nitrogen,2026-04-22T13:00:00-06:00
-0.004,Ardrossan,Nitrogen Dioxide,2026-04-22T13:00:00-06:00
-12.0,Ardrossan,Wind Speed,2026-04-22T13:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-22T13:00:00-06:00
-5.0,Ardrossan,Outdoor Temperature,2026-04-22T13:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-22T13:00:00-06:00
-0.0,Ardrossan,Nitric Oxide,2026-04-22T13:00:00-06:00
-338.0,Ardrossan,Wind Direction,2026-04-22T13:00:00-06:00
-2.2,Ardrossan,Fine Particulate Matter,2026-04-22T13:00:00-06:00
-2.0,Ardrossan,,2026-04-22T13:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-22T14:00:00-06:00
+16.0,Ardrossan,Wind Speed,2026-04-22T14:00:00-06:00
+4.0,Ardrossan,Outdoor Temperature,2026-04-22T14:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-22T14:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-22T14:00:00-06:00
+0.003,Ardrossan,Nitrogen Dioxide,2026-04-22T14:00:00-06:00
+329.0,Ardrossan,Wind Direction,2026-04-22T14:00:00-06:00
+1.0,Ardrossan,Fine Particulate Matter,2026-04-22T14:00:00-06:00
+2.0,Ardrossan,,2026-04-22T14:00:00-06:00
+0.026,Ardrossan,Ozone,2026-04-22T14:00:00-06:00
 0.027,Ardrossan,Ozone,2026-04-22T13:00:00-06:00
+2.0,Ardrossan,,2026-04-22T13:00:00-06:00
+2.2,Ardrossan,Fine Particulate Matter,2026-04-22T13:00:00-06:00
+338.0,Ardrossan,Wind Direction,2026-04-22T13:00:00-06:00
+0.0,Ardrossan,Nitric Oxide,2026-04-22T13:00:00-06:00
+0.0,Ardrossan,Hydrogen Sulphide,2026-04-22T13:00:00-06:00
+5.0,Ardrossan,Outdoor Temperature,2026-04-22T13:00:00-06:00
+0.0,Ardrossan,Sulphur Dioxide,2026-04-22T13:00:00-06:00
+12.0,Ardrossan,Wind Speed,2026-04-22T13:00:00-06:00
+0.004,Ardrossan,Nitrogen Dioxide,2026-04-22T13:00:00-06:00
+0.004,Ardrossan,Total Oxides of Nitrogen,2026-04-22T13:00:00-06:00
 0.027,Ardrossan,Ozone,2026-04-22T12:00:00-06:00
 6.0,Ardrossan,Outdoor Temperature,2026-04-22T12:00:00-06:00
 3.0,Ardrossan,Wind Direction,2026-04-22T12:00:00-06:00
@@ -1759,14 +1770,3 @@ Value,StationName,ParameterName,ReadingDate
 6.0,Ardrossan,Wind Speed,2026-04-22T10:00:00-06:00
 0.0,Ardrossan,Hydrogen Sulphide,2026-04-22T10:00:00-06:00
 2.0,Ardrossan,,2026-04-22T10:00:00-06:00
-0.0,Ardrossan,Wind Speed,2026-04-22T09:00:00-06:00
-0.004,Ardrossan,Nitrogen Dioxide,2026-04-22T09:00:00-06:00
-0.0,Ardrossan,Sulphur Dioxide,2026-04-22T09:00:00-06:00
-0.001,Ardrossan,Nitric Oxide,2026-04-22T09:00:00-06:00
-8.0,Ardrossan,Outdoor Temperature,2026-04-22T09:00:00-06:00
-0.0,Ardrossan,Hydrogen Sulphide,2026-04-22T09:00:00-06:00
-335.0,Ardrossan,Wind Direction,2026-04-22T09:00:00-06:00
-1.1,Ardrossan,Fine Particulate Matter,2026-04-22T09:00:00-06:00
-0.005,Ardrossan,Total Oxides of Nitrogen,2026-04-22T09:00:00-06:00
-2.0,Ardrossan,,2026-04-22T09:00:00-06:00
-0.032,Ardrossan,Ozone,2026-04-22T09:00:00-06:00
