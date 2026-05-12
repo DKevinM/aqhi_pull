@@ -2,12 +2,12 @@ Value,StationName,ParameterName,ReadingDate,Zone
 ,Breton,Total Oxides of Nitrogen,2026-05-12T05:00:00-06:00,WCAS
 ,Breton,Sulphur Dioxide,2026-05-12T05:00:00-06:00,WCAS
 ,Breton,Nitrogen Dioxide,2026-05-12T05:00:00-06:00,WCAS
-,Breton,Wind Speed,2026-05-12T05:00:00-06:00,WCAS
-,Breton,Relative Humidity,2026-05-12T05:00:00-06:00,WCAS
+0.7,Breton,Wind Speed,2026-05-12T05:00:00-06:00,WCAS
+53.4,Breton,Relative Humidity,2026-05-12T05:00:00-06:00,WCAS
 ,Breton,Ozone,2026-05-12T05:00:00-06:00,WCAS
 ,Breton,Nitric Oxide,2026-05-12T05:00:00-06:00,WCAS
-,Breton,Outdoor Temperature,2026-05-12T05:00:00-06:00,WCAS
-,Breton,Wind Direction,2026-05-12T05:00:00-06:00,WCAS
+5.0,Breton,Outdoor Temperature,2026-05-12T05:00:00-06:00,WCAS
+304.0,Breton,Wind Direction,2026-05-12T05:00:00-06:00,WCAS
 0.0,Breton,Sulphur Dioxide,2026-05-12T04:00:00-06:00,WCAS
 0.029,Breton,Ozone,2026-05-12T04:00:00-06:00,WCAS
 1.5,Breton,Wind Speed,2026-05-12T04:00:00-06:00,WCAS
@@ -1458,14 +1458,14 @@ Value,StationName,ParameterName,ReadingDate,Zone
 37.3,Breton,Relative Humidity,2026-05-05T12:00:00-06:00,WCAS
 7.4,Breton,Outdoor Temperature,2026-05-05T12:00:00-06:00,WCAS
 ,Carrot_Creek,Ozone,2026-05-12T05:00:00-06:00,WCAS
-,Carrot_Creek,Wind Direction,2026-05-12T05:00:00-06:00,WCAS
+229.0,Carrot_Creek,Wind Direction,2026-05-12T05:00:00-06:00,WCAS
 ,Carrot_Creek,Nitrogen Dioxide,2026-05-12T05:00:00-06:00,WCAS
-,Carrot_Creek,Wind Speed,2026-05-12T05:00:00-06:00,WCAS
+7.0,Carrot_Creek,Wind Speed,2026-05-12T05:00:00-06:00,WCAS
 ,Carrot_Creek,Sulphur Dioxide,2026-05-12T05:00:00-06:00,WCAS
 ,Carrot_Creek,Nitric Oxide,2026-05-12T05:00:00-06:00,WCAS
 ,Carrot_Creek,Total Oxides of Nitrogen,2026-05-12T05:00:00-06:00,WCAS
-,Carrot_Creek,Outdoor Temperature,2026-05-12T05:00:00-06:00,WCAS
-,Carrot_Creek,Relative Humidity,2026-05-12T05:00:00-06:00,WCAS
+4.8,Carrot_Creek,Outdoor Temperature,2026-05-12T05:00:00-06:00,WCAS
+52.5,Carrot_Creek,Relative Humidity,2026-05-12T05:00:00-06:00,WCAS
 0.002,Carrot_Creek,Total Oxides of Nitrogen,2026-05-12T04:00:00-06:00,WCAS
 0.0,Carrot_Creek,Sulphur Dioxide,2026-05-12T04:00:00-06:00,WCAS
 0.0,Carrot_Creek,Nitric Oxide,2026-05-12T04:00:00-06:00,WCAS
@@ -2915,13 +2915,13 @@ Value,StationName,ParameterName,ReadingDate,Zone
 0.0,Carrot_Creek,Nitric Oxide,2026-05-05T12:00:00-06:00,WCAS
 9.5,Carrot_Creek,Outdoor Temperature,2026-05-05T12:00:00-06:00,WCAS
 31.1,Carrot_Creek,Relative Humidity,2026-05-05T12:00:00-06:00,WCAS
-,Drayton_Valley,Wind Direction,2026-05-12T05:00:00-06:00,WCAS
-,Drayton_Valley,Fine Particulate Matter,2026-05-12T05:00:00-06:00,WCAS
+291.0,Drayton_Valley,Wind Direction,2026-05-12T05:00:00-06:00,WCAS
+1.8,Drayton_Valley,Fine Particulate Matter,2026-05-12T05:00:00-06:00,WCAS
 ,Drayton_Valley,Nitrogen Dioxide,2026-05-12T05:00:00-06:00,WCAS
-,Drayton_Valley,Relative Humidity,2026-05-12T05:00:00-06:00,WCAS
-,Drayton_Valley,Outdoor Temperature,2026-05-12T05:00:00-06:00,WCAS
+38.7,Drayton_Valley,Relative Humidity,2026-05-12T05:00:00-06:00,WCAS
+7.5,Drayton_Valley,Outdoor Temperature,2026-05-12T05:00:00-06:00,WCAS
 ,Drayton_Valley,Total Oxides of Nitrogen,2026-05-12T05:00:00-06:00,WCAS
-,Drayton_Valley,Wind Speed,2026-05-12T05:00:00-06:00,WCAS
+3.3,Drayton_Valley,Wind Speed,2026-05-12T05:00:00-06:00,WCAS
 ,Drayton_Valley,Ozone,2026-05-12T05:00:00-06:00,WCAS
 ,Drayton_Valley,Nitric Oxide,2026-05-12T05:00:00-06:00,WCAS
 ,Drayton_Valley,Sulphur Dioxide,2026-05-12T05:00:00-06:00,WCAS
@@ -4697,17 +4697,17 @@ Value,StationName,ParameterName,ReadingDate,Zone
 0.0,Drayton_Valley,Nitric Oxide,2026-05-05T12:00:00-06:00,WCAS
 67.0,Drayton_Valley,Wind Direction,2026-05-05T12:00:00-06:00,WCAS
 0.0,Drayton_Valley,Sulphur Dioxide,2026-05-05T12:00:00-06:00,WCAS
-,Edson,Ozone,2026-05-12T05:00:00-06:00,WCAS
 ,Edson,,2026-05-12T05:00:00-06:00,WCAS
+,Edson,Ozone,2026-05-12T05:00:00-06:00,WCAS
 ,Edson,Sulphur Dioxide,2026-05-12T05:00:00-06:00,WCAS
-,Edson,Fine Particulate Matter,2026-05-12T05:00:00-06:00,WCAS
+2.2,Edson,Fine Particulate Matter,2026-05-12T05:00:00-06:00,WCAS
 ,Edson,Nitric Oxide,2026-05-12T05:00:00-06:00,WCAS
 ,Edson,Nitrogen Dioxide,2026-05-12T05:00:00-06:00,WCAS
 ,Edson,Total Oxides of Nitrogen,2026-05-12T05:00:00-06:00,WCAS
-,Edson,Relative Humidity,2026-05-12T05:00:00-06:00,WCAS
-,Edson,Wind Direction,2026-05-12T05:00:00-06:00,WCAS
-,Edson,Outdoor Temperature,2026-05-12T05:00:00-06:00,WCAS
-,Edson,Wind Speed,2026-05-12T05:00:00-06:00,WCAS
+58.0,Edson,Relative Humidity,2026-05-12T05:00:00-06:00,WCAS
+260.0,Edson,Wind Direction,2026-05-12T05:00:00-06:00,WCAS
+2.4,Edson,Outdoor Temperature,2026-05-12T05:00:00-06:00,WCAS
+5.5,Edson,Wind Speed,2026-05-12T05:00:00-06:00,WCAS
 0.0,Edson,Sulphur Dioxide,2026-05-12T04:00:00-06:00,WCAS
 0.002,Edson,Total Oxides of Nitrogen,2026-05-12T04:00:00-06:00,WCAS
 0.0,Edson,Nitric Oxide,2026-05-12T04:00:00-06:00,WCAS
@@ -6479,17 +6479,17 @@ Value,StationName,ParameterName,ReadingDate,Zone
 3.0,Edson,,2026-05-05T12:00:00-06:00,WCAS
 0.002,Edson,Nitrogen Dioxide,2026-05-05T12:00:00-06:00,WCAS
 8.6,Edson,Wind Speed,2026-05-05T12:00:00-06:00,WCAS
-,Genesee,Outdoor Temperature,2026-05-12T05:00:00-06:00,WCAS
-,Genesee,Ozone,2026-05-12T05:00:00-06:00,WCAS
-,Genesee,Relative Humidity,2026-05-12T05:00:00-06:00,WCAS
-,Genesee,Nitrogen Dioxide,2026-05-12T05:00:00-06:00,WCAS
-,Genesee,Wind Speed,2026-05-12T05:00:00-06:00,WCAS
 ,Genesee,,2026-05-12T05:00:00-06:00,WCAS
-,Genesee,Wind Direction,2026-05-12T05:00:00-06:00,WCAS
+10.7,Genesee,Outdoor Temperature,2026-05-12T05:00:00-06:00,WCAS
+,Genesee,Ozone,2026-05-12T05:00:00-06:00,WCAS
+42.4,Genesee,Relative Humidity,2026-05-12T05:00:00-06:00,WCAS
+,Genesee,Nitrogen Dioxide,2026-05-12T05:00:00-06:00,WCAS
+14.0,Genesee,Wind Speed,2026-05-12T05:00:00-06:00,WCAS
+266.0,Genesee,Wind Direction,2026-05-12T05:00:00-06:00,WCAS
 ,Genesee,Total Oxides of Nitrogen,2026-05-12T05:00:00-06:00,WCAS
 ,Genesee,Sulphur Dioxide,2026-05-12T05:00:00-06:00,WCAS
 ,Genesee,Nitric Oxide,2026-05-12T05:00:00-06:00,WCAS
-,Genesee,Fine Particulate Matter,2026-05-12T05:00:00-06:00,WCAS
+1.8,Genesee,Fine Particulate Matter,2026-05-12T05:00:00-06:00,WCAS
 13.0,Genesee,Outdoor Temperature,2026-05-12T04:00:00-06:00,WCAS
 1.9,Genesee,Fine Particulate Matter,2026-05-12T04:00:00-06:00,WCAS
 38.3,Genesee,Relative Humidity,2026-05-12T04:00:00-06:00,WCAS
@@ -8261,19 +8261,19 @@ Value,StationName,ParameterName,ReadingDate,Zone
 ,Genesee,Ozone,2026-05-05T12:00:00-06:00,WCAS
 3.1,Genesee,Fine Particulate Matter,2026-05-05T12:00:00-06:00,WCAS
 7.0,Genesee,Wind Direction,2026-05-05T12:00:00-06:00,WCAS
-,Hinton-Drinnan,Relative Humidity,2026-05-12T05:00:00-06:00,WCAS
-,Hinton-Drinnan,Wind Speed,2026-05-12T05:00:00-06:00,WCAS
-,Hinton-Drinnan,Outdoor Temperature,2026-05-12T05:00:00-06:00,WCAS
+82.9,Hinton-Drinnan,Relative Humidity,2026-05-12T05:00:00-06:00,WCAS
+0.7,Hinton-Drinnan,Wind Speed,2026-05-12T05:00:00-06:00,WCAS
+-1.4,Hinton-Drinnan,Outdoor Temperature,2026-05-12T05:00:00-06:00,WCAS
 ,Hinton-Drinnan,Ozone,2026-05-12T05:00:00-06:00,WCAS
 ,Hinton-Drinnan,Total Oxides of Nitrogen,2026-05-12T05:00:00-06:00,WCAS
-,Hinton-Drinnan,Fine Particulate Matter,2026-05-12T05:00:00-06:00,WCAS
-,Hinton-Drinnan,,2026-05-12T05:00:00-06:00,WCAS
-,Hinton-Drinnan,Wind Direction,2026-05-12T05:00:00-06:00,WCAS
+4.9,Hinton-Drinnan,Fine Particulate Matter,2026-05-12T05:00:00-06:00,WCAS
+283.0,Hinton-Drinnan,Wind Direction,2026-05-12T05:00:00-06:00,WCAS
 ,Hinton-Drinnan,Sulphur Dioxide,2026-05-12T05:00:00-06:00,WCAS
 ,Hinton-Drinnan,Nitric Oxide,2026-05-12T05:00:00-06:00,WCAS
-,Hinton-Drinnan,Hydrogen Sulphide,2026-05-12T05:00:00-06:00,WCAS
-,Hinton-Drinnan,Total Reduced Sulphur,2026-05-12T05:00:00-06:00,WCAS
+0.001,Hinton-Drinnan,Hydrogen Sulphide,2026-05-12T05:00:00-06:00,WCAS
+0.0,Hinton-Drinnan,Total Reduced Sulphur,2026-05-12T05:00:00-06:00,WCAS
 ,Hinton-Drinnan,Nitrogen Dioxide,2026-05-12T05:00:00-06:00,WCAS
+,Hinton-Drinnan,,2026-05-12T05:00:00-06:00,WCAS
 78.9,Hinton-Drinnan,Relative Humidity,2026-05-12T04:00:00-06:00,WCAS
 279.0,Hinton-Drinnan,Wind Direction,2026-05-12T04:00:00-06:00,WCAS
 0.01,Hinton-Drinnan,Ozone,2026-05-12T04:00:00-06:00,WCAS
@@ -10368,11 +10368,11 @@ Value,StationName,ParameterName,ReadingDate,Zone
 5.6,Hinton-Drinnan,Wind Speed,2026-05-05T12:00:00-06:00,WCAS
 0.0,Hinton-Drinnan,Nitric Oxide,2026-05-05T12:00:00-06:00,WCAS
 ,Meadows,Sulphur Dioxide,2026-05-12T05:00:00-06:00,WCAS
-,Meadows,Relative Humidity,2026-05-12T05:00:00-06:00,WCAS
-,Meadows,Wind Speed,2026-05-12T05:00:00-06:00,WCAS
-,Meadows,Outdoor Temperature,2026-05-12T05:00:00-06:00,WCAS
+51.2,Meadows,Relative Humidity,2026-05-12T05:00:00-06:00,WCAS
+9.0,Meadows,Wind Speed,2026-05-12T05:00:00-06:00,WCAS
+6.1,Meadows,Outdoor Temperature,2026-05-12T05:00:00-06:00,WCAS
 ,Meadows,Total Oxides of Nitrogen,2026-05-12T05:00:00-06:00,WCAS
-,Meadows,Wind Direction,2026-05-12T05:00:00-06:00,WCAS
+250.0,Meadows,Wind Direction,2026-05-12T05:00:00-06:00,WCAS
 ,Meadows,Nitric Oxide,2026-05-12T05:00:00-06:00,WCAS
 ,Meadows,Nitrogen Dioxide,2026-05-12T05:00:00-06:00,WCAS
 0.0,Meadows,Sulphur Dioxide,2026-05-12T04:00:00-06:00,WCAS
@@ -13121,17 +13121,17 @@ Value,StationName,ParameterName,ReadingDate,Zone
 ,Powers,Fine Particulate Matter,2026-05-05T12:00:00-06:00,WCAS
 ,Powers,Nitrogen Dioxide,2026-05-05T12:00:00-06:00,WCAS
 ,Powers,Sulphur Dioxide,2026-05-05T12:00:00-06:00,WCAS
-,Steeper,Wind Direction,2026-05-12T05:00:00-06:00,WCAS
-,Steeper,Total Oxides of Nitrogen,2026-05-12T05:00:00-06:00,WCAS
 ,Steeper,,2026-05-12T05:00:00-06:00,WCAS
-,Steeper,Wind Speed,2026-05-12T05:00:00-06:00,WCAS
+188.0,Steeper,Wind Direction,2026-05-12T05:00:00-06:00,WCAS
+,Steeper,Total Oxides of Nitrogen,2026-05-12T05:00:00-06:00,WCAS
+5.6,Steeper,Wind Speed,2026-05-12T05:00:00-06:00,WCAS
 ,Steeper,Sulphur Dioxide,2026-05-12T05:00:00-06:00,WCAS
-,Steeper,Outdoor Temperature,2026-05-12T05:00:00-06:00,WCAS
+0.9,Steeper,Outdoor Temperature,2026-05-12T05:00:00-06:00,WCAS
 ,Steeper,Nitrogen Dioxide,2026-05-12T05:00:00-06:00,WCAS
 ,Steeper,Nitric Oxide,2026-05-12T05:00:00-06:00,WCAS
-,Steeper,Relative Humidity,2026-05-12T05:00:00-06:00,WCAS
+62.0,Steeper,Relative Humidity,2026-05-12T05:00:00-06:00,WCAS
 ,Steeper,Ozone,2026-05-12T05:00:00-06:00,WCAS
-,Steeper,Fine Particulate Matter,2026-05-12T05:00:00-06:00,WCAS
+1.1,Steeper,Fine Particulate Matter,2026-05-12T05:00:00-06:00,WCAS
 ,Steeper,Carbon Monoxide,2026-05-12T05:00:00-06:00,WCAS
 1.1,Steeper,Fine Particulate Matter,2026-05-12T04:00:00-06:00,WCAS
 54.4,Steeper,Relative Humidity,2026-05-12T04:00:00-06:00,WCAS
@@ -15067,12 +15067,12 @@ Value,StationName,ParameterName,ReadingDate,Zone
 0.9,Steeper,Fine Particulate Matter,2026-05-05T12:00:00-06:00,WCAS
 ,Wagner2,Total Oxides of Nitrogen,2026-05-12T05:00:00-06:00,WCAS
 ,Wagner2,Nitrogen Dioxide,2026-05-12T05:00:00-06:00,WCAS
-,Wagner2,Relative Humidity,2026-05-12T05:00:00-06:00,WCAS
+67.8,Wagner2,Relative Humidity,2026-05-12T05:00:00-06:00,WCAS
 ,Wagner2,Nitric Oxide,2026-05-12T05:00:00-06:00,WCAS
-,Wagner2,Outdoor Temperature,2026-05-12T05:00:00-06:00,WCAS
+4.5,Wagner2,Outdoor Temperature,2026-05-12T05:00:00-06:00,WCAS
 ,Wagner2,Sulphur Dioxide,2026-05-12T05:00:00-06:00,WCAS
-,Wagner2,Wind Direction,2026-05-12T05:00:00-06:00,WCAS
-,Wagner2,Wind Speed,2026-05-12T05:00:00-06:00,WCAS
+335.0,Wagner2,Wind Direction,2026-05-12T05:00:00-06:00,WCAS
+0.3,Wagner2,Wind Speed,2026-05-12T05:00:00-06:00,WCAS
 69.8,Wagner2,Relative Humidity,2026-05-12T04:00:00-06:00,WCAS
 332.0,Wagner2,Wind Direction,2026-05-12T04:00:00-06:00,WCAS
 0.0,Wagner2,Sulphur Dioxide,2026-05-12T04:00:00-06:00,WCAS
@@ -18306,17 +18306,17 @@ Value,StationName,ParameterName,ReadingDate,Zone
 0.001,Hinton-Hillcrest,Sulphur Dioxide,2026-05-05T12:00:00-06:00,WCAS
 38.0,Hinton-Hillcrest,Wind Direction,2026-05-05T12:00:00-06:00,WCAS
 ,Jasper,Nitrogen Dioxide,2026-05-12T05:00:00-06:00,WCAS
-,Jasper,Wind Direction,2026-05-12T05:00:00-06:00,WCAS
-,Jasper,,2026-05-12T05:00:00-06:00,WCAS
+232.0,Jasper,Wind Direction,2026-05-12T05:00:00-06:00,WCAS
 ,Jasper,Ozone,2026-05-12T05:00:00-06:00,WCAS
-,Jasper,Wind Speed,2026-05-12T05:00:00-06:00,WCAS
+4.9,Jasper,Wind Speed,2026-05-12T05:00:00-06:00,WCAS
 ,Jasper,Total Oxides of Nitrogen,2026-05-12T05:00:00-06:00,WCAS
 ,Jasper,Nitric Oxide,2026-05-12T05:00:00-06:00,WCAS
-,Jasper,Outdoor Temperature,2026-05-12T05:00:00-06:00,WCAS
+0.9,Jasper,Outdoor Temperature,2026-05-12T05:00:00-06:00,WCAS
+70.5,Jasper,Relative Humidity,2026-05-12T05:00:00-06:00,WCAS
+2.8,Jasper,Fine Particulate Matter,2026-05-12T05:00:00-06:00,WCAS
+,Jasper,,2026-05-12T05:00:00-06:00,WCAS
 ,Jasper,Sulphur Dioxide,2026-05-12T05:00:00-06:00,WCAS
 ,Jasper,Total Reduced Sulphur,2026-05-12T05:00:00-06:00,WCAS
-,Jasper,Relative Humidity,2026-05-12T05:00:00-06:00,WCAS
-,Jasper,Fine Particulate Matter,2026-05-12T05:00:00-06:00,WCAS
 ,Jasper,Total Reduced Sulphur,2026-05-12T04:00:00-06:00,WCAS
 ,Jasper,Sulphur Dioxide,2026-05-12T04:00:00-06:00,WCAS
 0.001,Jasper,Nitric Oxide,2026-05-12T04:00:00-06:00,WCAS
